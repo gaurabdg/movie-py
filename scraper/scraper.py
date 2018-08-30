@@ -1,8 +1,12 @@
+""" Dependencies """
+
 from requests import get
 from bs4 import BeautifulSoup as BS
 import pandas as pd
 
 class movies:
+    """ class for fetching movie metadata """
+
     names = []
     years = []
     genres = []
@@ -11,15 +15,21 @@ class movies:
     movie_list = ""
 
     def __init__(self, number_movies):
+        """ specify number of movies to fetch """
+
         self.number_movies = number_movies
 
     def connect(self):
+        """ establish connection with IMDB website and create beautiful soup object for parsing retrieved html document """
+
         url = 'https://www.imdb.com/search/title?count={}&groups=top_1000&sort=num_votes'.format(self.number_movies)
         response = get(url)
         html_soup = BS(response.text, 'html.parser')
         return html_soup
 
     def fetch_data(self):
+        """ fetch metadata of movies """
+
         movie_list = self.connect().find_all('div', class_='lister-item mode-advanced')
         for container in movie_list:
             name = container.h3.a.text
@@ -37,6 +47,7 @@ class movies:
             for i in range(1, 5):
                 actor += (container.find_all('p')[2].find_all('a')[i].text + ", ")
             movies.actors.append(actor)
+# TODO Resolve faulty year data trailing chars
 
 mov = movies(1000)
 mov.connect()
@@ -46,8 +57,6 @@ dataframe_test = pd.DataFrame({'movie': mov.names,
                        'year': mov.years,
                        'genre': mov.genres,
                        'cast': mov.actors})
-print(dataframe_test.values)
+# print(dataframe_test.values)
 
 dataframe_test.to_csv('dump.csv')
-
-
