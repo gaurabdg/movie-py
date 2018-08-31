@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3659b5b4-e557-489d-971a-73e1aebbcfb8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scraper/scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/movie_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/dump.csv" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/dump.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/movie_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/movie_list.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,37 +63,37 @@
         <counts>
           <entry key="csv" value="1" />
           <entry key="py" value="4" />
-          <entry key="srt" value="1" />
+          <entry key="srt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="10" />
-          <entry key="py" value="1029" />
-          <entry key="txt" value="17" />
+          <entry key="py" value="1254" />
+          <entry key="txt" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="1029" />
+          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="Python" value="1254" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scraper/movie_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="65" column="74" selection-start-line="65" selection-start-column="74" selection-end-line="65" selection-end-column="74" />
+            <state relative-caret-position="-121">
+              <caret line="75" column="27" lean-forward="true" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
               <folding>
                 <element signature="e#22#46#0" expanded="true" />
               </folding>
@@ -101,13 +101,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scraper/subtitles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="165">
+              <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
               <folding>
-                <element signature="e#356#391#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scraper/dump.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9540">
-              <caret line="636" column="4" selection-start-line="636" selection-start-column="4" selection-end-line="636" selection-end-column="4" />
+            <state relative-caret-position="765">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -135,6 +135,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>list1</find>
+      <find>exec</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,13 +151,14 @@
         <option value="$PROJECT_DIR$/scraper/test.py" />
         <option value="$PROJECT_DIR$/scraper/scraper.py" />
         <option value="$PROJECT_DIR$/scraper/subtitles.py" />
+        <option value="$PROJECT_DIR$/scraper/movie_list.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="width" value="1364" />
-    <option name="height" value="767" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="384" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -199,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.subtitles">
+  <component name="RunManager" selected="Python.scraper">
     <configuration name="scraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MoviePy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,7 +214,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scraper/movie_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scraper/scraper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,8 +294,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.subtitles" />
         <item itemvalue="Python.scraper" />
+        <item itemvalue="Python.subtitles" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.test" />
       </list>
@@ -317,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535620876984</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added yify subtitles fetching utility">
+      <created>1535743566250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535743566250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -330,22 +339,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1364" height="767" extended-state="0" />
+    <frame x="-2" y="0" width="1370" height="770" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.13313389" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.11094564" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.645475" visible="true" weight="0.20839813" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7490693" visible="true" weight="0.37461302" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4996277" weight="0.20743035" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4981385" weight="0.083591335" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4973822" weight="0.108864695" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.20278637" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.35452506" side_tool="true" visible="true" weight="0.20839813" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.25093076" side_tool="true" weight="0.18111455" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.26006192" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -383,7 +392,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;added docstrings&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;added docstrings&quot;" />
+    <MESSAGE value="added yify subtitles fetching utility" />
+    <option name="LAST_COMMIT_MESSAGE" value="added yify subtitles fetching utility" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/trial/__init__.py" />
@@ -392,32 +402,32 @@
     <entry file="file://$PROJECT_DIR$/setup.py" />
     <entry file="file://$PROJECT_DIR$/scraper/dump.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9540">
-          <caret line="636" column="4" selection-start-line="636" selection-start-column="4" selection-end-line="636" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/movie_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="65" column="74" selection-start-line="65" selection-start-column="74" selection-end-line="65" selection-end-column="74" />
-          <folding>
-            <element signature="e#22#46#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="765">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scraper/Interstellar.2014.720p.BluRay.x264.YIFY.srt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-585" />
+        <state relative-caret-position="-63462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scraper/subtitles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="165">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
           <folding>
-            <element signature="e#356#391#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraper/movie_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret line="75" column="27" lean-forward="true" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+          <folding>
+            <element signature="e#22#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
