@@ -47,6 +47,7 @@ class movies:
             for i in range(1, 5):
                 actor += (container.find_all('p')[2].find_all('a')[i].text + ", ")
             movies.actors.append(actor)
+
 # TODO Resolve faulty year data trailing chars
 
 mov = movies(1000)
@@ -60,3 +61,6 @@ dataframe_test = pd.DataFrame({'movie': mov.names,
 # print(dataframe_test.values)
 
 dataframe_test.to_csv('dump.csv')
+
+def fetch_subtitles(self, mov_name):
+    base_url = "http://www.yifysubtitles.com/search?q={}".format(mov_name)
