@@ -1,0 +1,4632 @@
+﻿1
+00:00:26,652 --> 00:00:32,125
+<i>♪ In the heat of the night</i>
+
+2
+00:00:35,661 --> 00:00:41,134
+<i>♪ Seems like a cold sweat
+creepin' across my brow</i>
+
+3
+00:00:42,459 --> 00:00:44,336
+<i>♪ Yeah</i>
+
+4
+00:00:45,712 --> 00:00:50,138
+<i>♪ In the heat of the night</i>
+
+5
+00:00:54,221 --> 00:00:59,148
+<i>♪ I'm feelin' motherless somehow</i>
+
+6
+00:01:03,146 --> 00:01:08,698
+<i>♪ Stars with evil eyes</i>
+
+7
+00:01:08,860 --> 00:01:11,864
+<i>♪ Stare from the skies</i>
+
+8
+00:01:12,823 --> 00:01:14,951
+<i>♪ All mean and bright</i>
+
+9
+00:01:15,117 --> 00:01:18,667
+<i>♪ In the heat of the night</i>
+
+10
+00:01:19,913 --> 00:01:25,386
+<i>♪ Ain't a woman yet been born</i>
+
+11
+00:01:28,797 --> 00:01:34,520
+<i>♪ Knows how to make
+the mornin' come</i>
+
+12
+00:01:37,848 --> 00:01:43,321
+<i>♪ It's so hard to keep control</i>
+
+13
+00:01:44,021 --> 00:01:47,400
+<i>♪ When I could sell my soul</i>
+
+14
+00:01:48,275 --> 00:01:50,277
+<i>♪ For just a little light</i>
+
+15
+00:01:50,444 --> 00:01:54,119
+<i>♪ In the heat of the night</i>
+
+16
+00:01:55,240 --> 00:01:59,837
+<i>♪ In the heat of the night</i>
+
+17
+00:02:04,166 --> 00:02:09,172
+<i>♪ I've got trouble wall to wall</i>
+
+18
+00:02:10,672 --> 00:02:13,095
+<i>♪ Oh yes, I have</i>
+
+19
+00:02:13,258 --> 00:02:15,886
+<i>♪ I repeat</i>
+
+20
+00:02:16,053 --> 00:02:18,556
+<i>♪ I repeat, in the night</i>
+
+21
+00:02:21,892 --> 00:02:27,274
+<i>♪ Must be an ending to it all</i>
+
+22
+00:02:31,234 --> 00:02:36,741
+<i>♪ But hold on, it won't be long</i>
+
+23
+00:02:36,907 --> 00:02:39,410
+<i>♪ Just you be strong</i>
+
+24
+00:02:40,327 --> 00:02:42,921
+<i>♪ And it'll be all right</i>
+
+25
+00:02:43,080 --> 00:02:46,630
+<i>♪ In the heat of the night</i>
+
+26
+00:02:58,637 --> 00:03:01,231
+Where you keepin' the pie tonight?
+
+27
+00:03:02,557 --> 00:03:05,686
+A man ate the last piece
+just before you come in.
+
+28
+00:03:11,233 --> 00:03:14,533
+What's that little old orphan
+sittin' right up there?
+
+29
+00:03:15,737 --> 00:03:16,738
+Marble cake.
+
+30
+00:03:21,243 --> 00:03:24,838
+Tell you what, Sam. Bein' she's
+in there by her little old lonesome,
+
+31
+00:03:24,996 --> 00:03:26,873
+I'll let you have her for free.
+
+32
+00:03:27,040 --> 00:03:30,670
+I told you 'bout that "Sam" business,
+didn't I? Hm?
+
+33
+00:03:30,836 --> 00:03:35,012
+Sorry, Mr. Wood.
+I mean, uh... <i>Officer</i> Wood.
+
+34
+00:04:22,429 --> 00:04:25,228
+<i>♪ Well, a bow-legged Polly
+and a knocked-kneed Paul</i>
+
+35
+00:04:25,390 --> 00:04:27,768
+<i>♪ A bow-legged Polly
+and a knocked-kneed Paul</i>
+
+36
+00:04:27,934 --> 00:04:30,437
+<i>♪ A bow-legged Polly
+and a knocked-kneed Paul</i>
+
+37
+00:04:30,604 --> 00:04:32,322
+<i>♪ They can't get together at all</i>
+
+38
+00:04:32,481 --> 00:04:35,530
+<i>♪ Just like the worm in the
+cornfield said to his brother</i>
+
+39
+00:04:35,692 --> 00:04:38,571
+<i>♪ "Yeah, go in one
+ear and out the other"</i>
+
+40
+00:04:51,625 --> 00:04:54,344
+<i>♪ Well, a bucktoothed Clara
+and a cross-eyed Clyde</i>
+
+41
+00:04:54,503 --> 00:04:56,631
+<i>♪ A bucktoothed Clara
+and a cross-eyed Clyde</i>
+
+42
+00:04:56,797 --> 00:04:59,550
+<i>♪ Like old bow-legged Polly
+and a knock-kneed Paul</i>
+
+43
+00:06:10,203 --> 00:06:13,047
+<i>♪ Every time I see your face</i>
+
+44
+00:06:13,206 --> 00:06:15,800
+<i>♪ It's got a way of turnin' me around</i>
+
+45
+00:06:27,470 --> 00:06:30,940
+<i>♪ You tune me in, pretty baby</i>
+
+46
+00:06:31,641 --> 00:06:33,188
+<i>♪ Wild things begin</i>
+
+47
+00:06:33,351 --> 00:06:36,195
+<i>♪ Baby, that ain't love</i>
+
+48
+00:06:37,439 --> 00:06:40,192
+<i>♪ But it sure is groovy</i>
+
+49
+00:07:48,051 --> 00:07:51,180
+It's Colbert, all right.
+Skull's caved in.
+
+50
+00:07:54,891 --> 00:07:56,985
+You ever take a homicide
+picture before, son?
+
+51
+00:07:57,143 --> 00:07:59,862
+Well, at least
+he won't be movin' on me.
+
+52
+00:08:00,021 --> 00:08:04,492
+That's for sure. I want you to cover every
+angle. Do you hear me? Every angle.
+
+53
+00:08:04,651 --> 00:08:06,995
+Uh, you boys,
+move on back now, OK?
+
+54
+00:08:07,153 --> 00:08:10,373
+Came all this way
+to build us a factory,
+
+55
+00:08:10,740 --> 00:08:13,243
+make somethin' outta this town.
+
+56
+00:08:14,452 --> 00:08:16,125
+Look what it got him.
+
+57
+00:08:18,623 --> 00:08:19,624
+Yeah.
+
+58
+00:08:22,002 --> 00:08:26,098
+Sam, did he have a wallet,
+identification, anything like that?
+
+59
+00:08:26,256 --> 00:08:29,851
+That's the first thing I looked for.
+Whoever fixed him musta took 'em.
+
+60
+00:08:30,010 --> 00:08:31,887
+Nothin', huh?
+
+61
+00:08:32,804 --> 00:08:35,933
+- Any witnesses?
+- I mean, not even a cat.
+
+62
+00:08:37,809 --> 00:08:41,905
+- How long's he been dead?
+- Oh, less than an hour.
+
+63
+00:08:42,063 --> 00:08:45,442
+- Less than an hour.
+- Maybe half that.
+
+64
+00:08:45,608 --> 00:08:47,702
+Maybe half.
+
+65
+00:08:51,614 --> 00:08:53,412
+Could have been a hitchhiker.
+
+66
+00:08:53,575 --> 00:08:57,876
+Check both ends of town, check the
+depot, and check the pool hall. OK?
+
+67
+00:08:58,038 --> 00:09:01,463
+- Pool hall closes at one o'clock, Chief.
+- I said check it, Sam.
+
+68
+00:09:01,624 --> 00:09:03,046
+Yes, sir.
+
+69
+00:10:22,580 --> 00:10:24,127
+On your feet, boy.
+
+70
+00:10:29,838 --> 00:10:31,511
+I mean now!
+
+71
+00:10:40,640 --> 00:10:43,268
+Get against that wall.
+Get them hands high!
+
+72
+00:10:43,434 --> 00:10:46,358
+You spread them fingers.
+I wanna count all ten.
+
+73
+00:10:49,482 --> 00:10:54,488
+You move before I tell you to, boy,
+by God, I'm gonna clean your plow.
+
+74
+00:11:19,095 --> 00:11:22,315
+That's pretty fat there,
+ain't it, boy? Huh?
+
+75
+00:11:26,144 --> 00:11:30,490
+Now, outside there's a police car.
+You're gonna pick up that bag.
+
+76
+00:11:30,648 --> 00:11:33,777
+You're gonna walk out, and you're
+gonna plant yourself in the back.
+
+77
+00:11:33,943 --> 00:11:37,868
+And you're gonna be a real
+nice quiet boy all the way in.
+
+78
+00:11:38,781 --> 00:11:40,328
+You hear?!
+
+79
+00:12:00,511 --> 00:12:02,605
+C'mon, boy.
+
+80
+00:12:02,764 --> 00:12:04,858
+Move it!
+
+81
+00:12:16,694 --> 00:12:18,788
+Chief here?
+
+82
+00:12:19,572 --> 00:12:21,745
+- Hey, what's up, Sam?
+-  Chief?
+
+83
+00:12:21,908 --> 00:12:24,002
+What's goin' on?
+
+84
+00:12:25,620 --> 00:12:27,793
+Sam?
+
+85
+00:12:58,861 --> 00:13:00,488
+- Wood?
+- Yes, sir?
+
+86
+00:13:00,655 --> 00:13:04,376
+When's the last time I asked Courtney
+to get oil for this damn thing?
+
+87
+00:13:05,910 --> 00:13:08,038
+Uh, last Wednesday.
+
+88
+00:13:08,579 --> 00:13:11,674
+Would you be kind enough to go outside
+and remind him what day it is <i>today?</i>
+
+89
+00:13:13,209 --> 00:13:15,758
+Well, uh...
+how about the prisoner here?
+
+90
+00:13:16,754 --> 00:13:19,257
+Don't you worry about him.
+
+91
+00:13:19,424 --> 00:13:20,425
+Got a name, boy?
+
+92
+00:13:21,968 --> 00:13:22,969
+Virgil Tibbs.
+
+93
+00:13:25,096 --> 00:13:26,973
+Virgil?
+
+94
+00:13:28,725 --> 00:13:33,947
+Well, I don't think we're gonna
+have any trouble, are we, Virgil?
+
+95
+00:13:35,440 --> 00:13:37,488
+No trouble at all.
+
+96
+00:13:44,699 --> 00:13:47,327
+Oh, you can go now, Sam.
+
+97
+00:13:47,493 --> 00:13:49,587
+Yes, sir.
+
+98
+00:13:54,792 --> 00:13:57,762
+- What did you hit him with?
+- Hit whom?
+
+99
+00:13:58,296 --> 00:14:00,424
+"Whom"?
+Whom?
+
+100
+00:14:00,590 --> 00:14:04,140
+You a Northern boy? What's a Northern
+boy like you doin' all the way down here?
+
+101
+00:14:05,511 --> 00:14:06,910
+I was waiting for the train.
+
+102
+00:14:06,936 --> 00:14:09,382
+There ain't no trains
+this time of mornin'.
+
+103
+00:14:09,515 --> 00:14:13,861
+- Tuesdays only. 4:05 to Memphis.
+- You say.
+
+104
+00:14:19,317 --> 00:14:21,411
+Well...
+All right, you say right.
+
+105
+00:14:33,915 --> 00:14:36,668
+All right...
+Virgil.
+
+106
+00:14:38,336 --> 00:14:40,009
+Oh!
+
+107
+00:14:40,171 --> 00:14:42,265
+Now look.
+
+108
+00:14:44,759 --> 00:14:47,979
+I try to run a nice, clean,
+safe town here.
+
+109
+00:14:48,513 --> 00:14:53,644
+A town where a man can sneeze and not
+get his brains beat out. You follow me?
+
+110
+00:14:53,810 --> 00:14:56,233
+Yes.
+
+111
+00:14:56,396 --> 00:15:01,618
+Why don't you tell me how you killed Mr.
+Colbert? You'll feel a whole lot better.
+
+112
+00:15:03,861 --> 00:15:05,283
+Not now!
+
+113
+00:15:21,003 --> 00:15:23,927
+I was visiting my mother.
+
+114
+00:15:24,090 --> 00:15:27,264
+I came in on the 12:35 from Brownsville.
+
+115
+00:15:27,427 --> 00:15:31,773
+I was waiting to go
+out on the 4:05.
+
+116
+00:15:35,268 --> 00:15:37,145
+Mm-hm.
+
+117
+00:15:47,405 --> 00:15:49,703
+Yeah.
+
+118
+00:15:49,866 --> 00:15:54,747
+And meanwhile, you killed yourself a
+white man and picked yourself up $200!
+
+119
+00:15:54,912 --> 00:15:57,711
+I earned that money, ten hours
+a day, seven days a week.
+
+120
+00:15:57,874 --> 00:16:01,549
+Colored can't earn that. It's more than I
+make in a month! Where did you earn it?!
+
+121
+00:16:03,629 --> 00:16:05,677
+- Philadelphia.
+- Mississippi?
+
+122
+00:16:05,840 --> 00:16:09,140
+- Pennsylvania.
+- Just how do you earn that kinda money?
+
+123
+00:16:09,302 --> 00:16:11,805
+I'm a police officer.
+
+124
+00:16:50,593 --> 00:16:52,561
+Oh, yeah.
+
+125
+00:17:03,898 --> 00:17:05,992
+- Wood!
+- Yes, sir!
+
+126
+00:17:08,611 --> 00:17:11,239
+- Did you question this man?
+- No, sir.
+
+127
+00:17:14,992 --> 00:17:17,836
+Would you mind taking
+a look at that?
+
+128
+00:17:21,415 --> 00:17:24,510
+Yeah! Oh, yeah!
+
+129
+00:17:27,296 --> 00:17:30,926
+I'll check on this wise city boy.
+You take him outside and hold him.
+
+130
+00:17:31,092 --> 00:17:32,890
+Yes, sir.
+
+131
+00:17:33,052 --> 00:17:37,273
+May I suggest that you call my chief
+rather than send a wire or anything?
+
+132
+00:17:37,431 --> 00:17:41,811
+I mean, it would be quicker.
+And I'll pay for the call.
+
+133
+00:17:42,478 --> 00:17:45,448
+Did you hear? Did you hear him
+say he'd pay for the call?
+
+134
+00:17:45,606 --> 00:17:47,608
+How much do they pay you
+to do their police work?
+
+135
+00:17:47,775 --> 00:17:51,655
+$162.39 per week.
+
+136
+00:17:52,947 --> 00:17:57,168
+$162.39 a week!
+
+137
+00:17:57,326 --> 00:18:01,456
+Well, boy! Take him outside, Wood.
+But treat him easy,
+
+138
+00:18:01,622 --> 00:18:05,843
+because a man that
+makes $162.39 a week...
+
+139
+00:18:06,002 --> 00:18:08,425
+man, we do not wanna ruffle him!
+
+140
+00:18:09,589 --> 00:18:11,683
+No, sir!
+
+141
+00:18:19,890 --> 00:18:24,896
+Courtney... would you try
+and get me long-distance?
+
+142
+00:18:34,697 --> 00:18:37,075
+Police business, honey.
+Chief's on the line.
+
+143
+00:18:39,535 --> 00:18:42,960
+No. He catch you listenin' in, he'll
+run your butt around the block.
+
+144
+00:18:43,122 --> 00:18:45,716
+- He don't panic me none.
+- No?
+
+145
+00:18:47,543 --> 00:18:50,217
+- Where's the chief?
+- You got the pictures of the dead man?
+
+146
+00:18:50,379 --> 00:18:53,724
+Sure do. I got him top,
+bottom, sideways... you name it.
+
+147
+00:18:53,883 --> 00:18:56,978
+- Good. I'll take 'em, son.
+- No, I wanna give 'em to the chief.
+
+148
+00:18:57,136 --> 00:18:59,855
+- I said I'd take 'em, Charlie.
+- Do like he tells you, Charlie.
+
+149
+00:19:00,681 --> 00:19:02,900
+Somebody owes me
+some money for those.
+
+150
+00:19:03,059 --> 00:19:06,063
+I had to buy paper and film
+and developin'.
+
+151
+00:19:06,228 --> 00:19:10,825
+That's all right. Just bill the department.
+Everything will be taken care of.
+
+152
+00:19:11,984 --> 00:19:14,908
+God Almighty.
+He sure looks bad.
+
+153
+00:19:17,698 --> 00:19:20,827
+May I see the man
+I am supposed to have killed?
+
+154
+00:19:21,994 --> 00:19:24,713
+Sure.
+I don't know why not.
+
+155
+00:19:25,873 --> 00:19:28,001
+<i>Hey, Sam.
+He's finished talkin'.</i>
+
+156
+00:19:32,129 --> 00:19:35,053
+- Here's the photos of the dead man.
+- OK.
+
+157
+00:19:36,384 --> 00:19:39,684
+Got your chief on the phone.
+He wants to talk to you.
+
+158
+00:19:45,643 --> 00:19:49,523
+Hello? Yes, sir. I'm sorry to
+have gotten you involved in this.
+
+159
+00:19:49,689 --> 00:19:52,192
+I really had no choice.
+
+160
+00:19:54,485 --> 00:19:56,579
+Yes, sir.
+
+161
+00:19:57,238 --> 00:20:02,460
+You can't be serious, sir. I mean, even if
+I could be of help, they wouldn't want it.
+
+162
+00:20:03,994 --> 00:20:06,497
+No, sir. I'm not prejudiced.
+
+163
+00:20:08,207 --> 00:20:12,178
+Yes, sir. I am a police officer and
+they're police officers, but...
+
+164
+00:20:18,801 --> 00:20:21,725
+Hello. This is Gillespie.
+Yes, sir. Yep, well...
+
+165
+00:20:22,805 --> 00:20:24,899
+You don't say?
+
+166
+00:20:25,391 --> 00:20:28,019
+He's your number one
+homicide expert?
+
+167
+00:20:28,185 --> 00:20:30,108
+Well, my, my, my.
+
+168
+00:20:30,271 --> 00:20:33,491
+I don't think we need any help.
+We can wrap this up ourselves.
+
+169
+00:20:33,649 --> 00:20:35,947
+Yes, sir.
+But I do want to thank you
+
+170
+00:20:36,110 --> 00:20:40,616
+for offering me such a powerful piece
+of manpower as Virgil Tibbs.
+
+171
+00:20:40,781 --> 00:20:43,705
+Yes, sir. Thank you.
+Yeah. Goodbye, now.
+
+172
+00:20:47,496 --> 00:20:51,126
+Oh, it's all there. We paid
+for the phone call ourselves.
+
+173
+00:20:56,589 --> 00:20:59,092
+Now, you are the number one
+homicide expert.
+
+174
+00:20:59,258 --> 00:21:03,138
+- That's right.
+- I bet you look at a lot of dead bodies.
+
+175
+00:21:03,304 --> 00:21:05,102
+Lots.
+
+176
+00:21:05,264 --> 00:21:06,265
+Well?
+
+177
+00:21:09,059 --> 00:21:10,902
+- Well, what?
+- Well...
+
+178
+00:21:11,061 --> 00:21:15,737
+I just thought maybe, uh... Maybe you
+wouldn't mind takin' a look at this one?
+
+179
+00:21:16,484 --> 00:21:18,361
+No, thanks.
+
+180
+00:21:18,527 --> 00:21:21,576
+- Why not, expert?
+- Because I've got a train to catch.
+
+181
+00:21:21,739 --> 00:21:24,367
+Wait a minute.
+That train don't leave till noon.
+
+182
+00:21:24,533 --> 00:21:29,039
+They pay you $162.39 a week just to look
+at bodies. Why can't you look at this one?
+
+183
+00:21:29,205 --> 00:21:33,506
+- Why can't you look at it for yourself?
+- Because I'm not an expert...
+
+184
+00:21:33,667 --> 00:21:34,839
+Officer!
+
+185
+00:21:44,512 --> 00:21:49,860
+Ten cents, ten million dollars... just
+doesn't matter when a man's time comes.
+
+186
+00:21:50,017 --> 00:21:51,860
+Mm-hm.
+
+187
+00:21:52,019 --> 00:21:54,943
+I could give him a nicer service
+right here in Sparta
+
+188
+00:21:55,105 --> 00:21:59,281
+than he could ever get up there in
+Chicago. And at half the price, too.
+
+189
+00:21:59,443 --> 00:22:02,572
+I got a rosewood casket out there...
+
+190
+00:22:03,948 --> 00:22:06,667
+Ted Ulam, Chief.
+We haven't had the pleasure.
+
+191
+00:22:06,826 --> 00:22:08,920
+That's for sure.
+
+192
+00:22:10,996 --> 00:22:13,090
+He's with me.
+
+193
+00:22:15,417 --> 00:22:17,511
+Hello, Doc.
+
+194
+00:22:19,421 --> 00:22:21,298
+Yep.
+
+195
+00:22:28,347 --> 00:22:30,224
+Well...
+
+196
+00:22:30,683 --> 00:22:32,560
+Uh...
+
+197
+00:22:33,435 --> 00:22:36,063
+Do you wanna look at it?
+
+198
+00:23:03,299 --> 00:23:05,802
+New manicure.
+That's good.
+
+199
+00:23:11,473 --> 00:23:13,567
+That's very good.
+
+200
+00:23:28,991 --> 00:23:31,870
+- I'll need a few things.
+-  Such as?
+
+201
+00:23:32,036 --> 00:23:36,712
+Ammonium hydrosulfide,
+benzidine, superoxide of hydrogen.
+
+202
+00:23:38,584 --> 00:23:41,428
+Copper powder, distilled water.
+
+203
+00:23:52,389 --> 00:23:54,892
+A six-inch celluloid scale.
+
+204
+00:23:55,768 --> 00:23:57,645
+Thermometer.
+
+205
+00:23:58,228 --> 00:24:00,322
+Some tweezers.
+
+206
+00:24:01,607 --> 00:24:04,486
+Calipers.
+And some toothpicks.
+
+207
+00:24:04,652 --> 00:24:07,622
+Toothpicks?! Copper...?
+What's goin' on here, Chief?
+
+208
+00:24:07,780 --> 00:24:09,748
+Who is this boy anyway?
+
+209
+00:24:09,907 --> 00:24:13,332
+I asked him to look at the body.
+That's who he is.
+
+210
+00:24:13,494 --> 00:24:15,542
+It's 4:45.
+What time was this man killed?
+
+211
+00:24:15,704 --> 00:24:20,335
+Sam found him at 3 a.m. The doctor
+says it's he was killed an hour earlier.
+
+212
+00:24:21,710 --> 00:24:24,634
+- At two?
+- Maybe a little later.
+
+213
+00:24:24,797 --> 00:24:27,391
+2115... 2:30?
+
+214
+00:24:27,549 --> 00:24:30,143
+Would you feel the
+face and jaw, please?
+
+215
+00:24:30,803 --> 00:24:33,397
+Am I mistaken,
+or has rigor begun?
+
+216
+00:24:34,682 --> 00:24:36,559
+It has.
+
+217
+00:24:37,726 --> 00:24:40,855
+You'll notice too that
+postmortem lividity is present.
+
+218
+00:24:41,021 --> 00:24:44,992
+So the time of death really has
+to be earlier. Wouldn't you say?
+
+219
+00:24:45,651 --> 00:24:46,618
+Mm.
+
+220
+00:24:46,777 --> 00:24:50,532
+Well, we'll be able to pinpoint that
+as soon as I get a thermometer.
+
+221
+00:24:50,698 --> 00:24:54,748
+As you know, the loss of heat from
+the brain is the most reliable way
+
+222
+00:24:54,910 --> 00:24:57,413
+of determining time of death.
+
+223
+00:24:58,372 --> 00:24:59,965
+Right, Chief?
+
+224
+00:25:01,709 --> 00:25:03,336
+Oh, yeah.
+
+225
+00:25:07,089 --> 00:25:08,966
+Well...
+
+226
+00:25:10,884 --> 00:25:13,808
+Which one of you gentlemen
+will assist me?
+
+227
+00:25:24,148 --> 00:25:26,742
+Ulam's Funer...
+It's for you, Chief.
+
+228
+00:25:30,487 --> 00:25:32,285
+Yeah. Talk to me.
+
+229
+00:25:32,448 --> 00:25:34,325
+When?
+
+230
+00:25:34,700 --> 00:25:39,376
+Oh, good. Yeah, yeah. Right away. I've
+got a runaway suspect, boy. I gotta go.
+
+231
+00:25:40,080 --> 00:25:44,756
+Now listen, you. Anything he wants,
+man, you better see that he gets it.
+
+232
+00:25:48,505 --> 00:25:51,008
+Where can I wash my hands?
+
+233
+00:27:25,269 --> 00:27:28,990
+This here's Shagbag, you hear?
+He's headed for the river.
+
+234
+00:27:29,982 --> 00:27:32,906
+The river, you hear?
+He's gonna be in Arkansas.
+
+235
+00:27:33,861 --> 00:27:35,158
+Shoot.
+
+236
+00:29:19,549 --> 00:29:21,893
+OK. I got him.
+
+237
+00:30:28,368 --> 00:30:30,462
+Mrs. Colbert.
+
+238
+00:30:31,204 --> 00:30:32,475
+How is she taking it?
+
+239
+00:30:32,501 --> 00:30:35,405
+Chief had to leave.
+She don't know it yet.
+
+240
+00:30:43,425 --> 00:30:45,928
+Hey! You can't go in there, boy!
+
+241
+00:30:50,766 --> 00:30:53,440
+- Mrs. Colbert?
+- Where's my husband?
+
+242
+00:30:54,770 --> 00:30:58,650
+What's happened to him? Why won't
+anybody tell me what's happened to him?
+
+243
+00:30:58,815 --> 00:31:02,536
+Why won't anybody here tell me?
+I have a right to know if he's hurt,
+
+244
+00:31:02,694 --> 00:31:06,039
+if he's been in an accident.
+I want to know if he is all right!
+
+245
+00:31:06,198 --> 00:31:08,576
+Your husband is dead,
+Mrs. Colbert.
+
+246
+00:31:11,078 --> 00:31:12,751
+Uh...
+
+247
+00:31:12,913 --> 00:31:15,007
+Somebody killed him.
+
+248
+00:31:16,416 --> 00:31:18,919
+We don't know who... yet.
+
+249
+00:31:41,608 --> 00:31:43,485
+It's, uh...
+
+250
+00:31:45,445 --> 00:31:47,698
+It's very hot in here.
+
+251
+00:31:47,864 --> 00:31:50,367
+It's very hot in this room.
+
+252
+00:31:55,414 --> 00:31:57,291
+Sit down.
+
+253
+00:31:58,083 --> 00:31:59,960
+No.
+
+254
+00:32:24,526 --> 00:32:26,403
+Would you...
+
+255
+00:32:29,239 --> 00:32:35,997
+Would you... leave me alone
+for a few minutes, please?
+
+256
+00:33:28,006 --> 00:33:32,102
+Virgil, we don't need you or your
+microscopes. Tell that to your chief.
+
+257
+00:33:32,260 --> 00:33:34,763
+We don't need him... or you.
+
+258
+00:33:35,472 --> 00:33:37,975
+Mrs. Colbert's in there.
+
+259
+00:33:38,725 --> 00:33:41,899
+- I've already told her.
+- I see.
+
+260
+00:33:42,062 --> 00:33:46,112
+Here is the examination results from
+Ulam's. You wanna know what I found?
+
+261
+00:33:46,274 --> 00:33:49,118
+No. I don't need to
+look at 'em now.
+
+262
+00:33:49,277 --> 00:33:51,575
+May I examine this prisoner?
+
+263
+00:33:51,738 --> 00:33:54,867
+Yeah, you can look at him.
+C'mon, let him look. Go on.
+
+264
+00:34:16,846 --> 00:34:19,520
+All right, now! Steady!
+
+265
+00:34:21,351 --> 00:34:23,445
+You finished?
+
+266
+00:34:24,437 --> 00:34:26,531
+Thank you.
+
+267
+00:34:28,525 --> 00:34:30,323
+All right, Fryer,
+bring him with me.
+
+268
+00:34:36,074 --> 00:34:38,577
+- Now we're grindin' corn!
+- You shoulda been there!
+
+269
+00:34:38,743 --> 00:34:42,498
+If it weren't for them radios, we woulda
+lost him goin' over that bridge.
+
+270
+00:34:42,664 --> 00:34:45,634
+That old boy highballing that
+train like to cut us off.
+
+271
+00:34:45,792 --> 00:34:47,920
+And old Charlie's hound
+dog got loose...
+
+272
+00:34:48,086 --> 00:34:49,838
+- Did he confess?
+- Huh?
+
+273
+00:34:50,005 --> 00:34:53,475
+The man you arrested,
+did he confess?
+
+274
+00:34:53,633 --> 00:34:56,056
+Well, I believe he will.
+
+275
+00:34:56,219 --> 00:34:58,722
+Yes siree, I believe he will.
+
+276
+00:34:58,888 --> 00:35:00,265
+I believe he will.
+
+277
+00:35:01,224 --> 00:35:04,103
+- He's left-handed, isn't he?
+- How do <i>I</i> know?
+
+278
+00:35:04,477 --> 00:35:06,354
+Well, he seemed left-handed to me.
+
+279
+00:35:07,022 --> 00:35:11,323
+I believe Harvey <i>is</i> a southpaw.
+Now, ain't he, Shagbag?
+
+280
+00:35:11,484 --> 00:35:14,033
+What if he is?
+What's that make him?
+
+281
+00:35:15,572 --> 00:35:17,540
+Innocent.
+
+282
+00:35:18,491 --> 00:35:22,837
+Mrs. Colbert...
+There's just one more thing.
+
+283
+00:35:31,254 --> 00:35:32,927
+Yeah.
+
+284
+00:35:33,089 --> 00:35:38,471
+I picked it up, I tell you. He was already
+lyin' there. It was lyin' there next to him!
+
+285
+00:35:39,638 --> 00:35:42,687
+I just picked it up, ma'am.
+That's all I did.
+
+286
+00:35:42,849 --> 00:35:44,726
+Shut up.
+
+287
+00:35:44,893 --> 00:35:48,022
+- Get him outta here.
+- OK. C'mon, Harvey. Let's go.
+
+288
+00:36:01,242 --> 00:36:05,748
+Mrs. Colbert, I, uh... I wonder if you'd
+mind if I have somebody drive you over
+
+289
+00:36:05,914 --> 00:36:10,511
+so you could, uh...
+complete the identification?
+
+290
+00:36:30,689 --> 00:36:35,286
+Martin, I want you to take Mrs. Colbert
+over to the funeral parlor.
+
+291
+00:36:35,443 --> 00:36:37,491
+And, Wood,
+run Virgil down the depot.
+
+292
+00:36:37,654 --> 00:36:42,376
+Uh... Virge here, Chief,
+he thinks that Harvey's innocent.
+
+293
+00:36:43,952 --> 00:36:47,627
+- Well, I'll be damned.
+- Could I talk to you about it, in private?
+
+294
+00:36:47,789 --> 00:36:52,215
+No. Because I got Colbert's wallet in my
+hand, and we took it from Harvey Oberst.
+
+295
+00:36:52,377 --> 00:36:54,471
+- You think he gave it to him?
+- I don't know.
+
+296
+00:36:54,629 --> 00:36:58,759
+But Oberst could have come along
+after the crime, found it, picked it up.
+
+297
+00:36:58,925 --> 00:37:02,225
+- I don't know.
+- That's what the boy said he did.
+
+298
+00:37:03,346 --> 00:37:06,190
+Well, I'm sorry, ma'am,
+but I say different.
+
+299
+00:37:06,349 --> 00:37:09,569
+When I examined the deceased, it was
+obvious the fatal blow was struck
+
+300
+00:37:09,728 --> 00:37:13,358
+from an angle of 17 degrees
+from the right, which makes it
+
+301
+00:37:13,523 --> 00:37:16,276
+almost certain the person
+who did it is right-handed.
+
+302
+00:37:16,443 --> 00:37:18,946
+- So what?
+-  Harve's left-handed, Chief.
+
+303
+00:37:19,112 --> 00:37:20,614
+Everybody in town knows that.
+
+304
+00:37:20,780 --> 00:37:23,750
+We figured that out.
+Harvey's a lefty. Uh-huh.
+
+305
+00:37:28,371 --> 00:37:32,968
+You're sure of yourself, Virgil. Funny
+name for a nigger boy from Philadelphia.
+
+306
+00:37:33,126 --> 00:37:37,552
+- What do they call you up there?
+- They call me Mr. Tibbs!
+
+307
+00:37:37,714 --> 00:37:41,719
+Mr. Tibbs! Well, Mr. Wood, take
+Mr. Tibbs, take him down to the depot.
+
+308
+00:37:41,885 --> 00:37:44,809
+And I mean, boy, like now!
+
+309
+00:37:53,646 --> 00:37:57,276
+I'll have the FBI lab
+send you the report on this.
+
+310
+00:37:58,568 --> 00:38:00,741
+Not that it'll make
+any difference.
+
+311
+00:38:01,946 --> 00:38:03,698
+I'll take that.
+
+312
+00:38:05,283 --> 00:38:07,456
+No, you won't.
+
+313
+00:38:10,914 --> 00:38:14,293
+I'm sending it in personally.
+
+314
+00:38:18,421 --> 00:38:20,924
+My God!
+
+315
+00:38:23,176 --> 00:38:25,770
+What kind of people are you?
+
+316
+00:38:26,638 --> 00:38:29,482
+What kind of a place is this?
+
+317
+00:38:34,395 --> 00:38:36,272
+My husband is dead.
+
+318
+00:38:36,439 --> 00:38:40,945
+Somebody in this town killed him!
+I want you to find out who!
+
+319
+00:38:55,667 --> 00:38:58,170
+You gonna give me that?
+
+320
+00:39:00,171 --> 00:39:02,265
+No, I'm not.
+
+321
+00:39:05,009 --> 00:39:07,387
+Wood, you take him,
+
+322
+00:39:07,554 --> 00:39:10,683
+and you lock him up
+for withholding evidence.
+
+323
+00:39:12,433 --> 00:39:15,983
+Go on, move! Put him with
+his friend, Harvey Oberst!
+
+324
+00:39:24,404 --> 00:39:29,080
+Well, Virgil, nobody threw your brains
+to the hogs, that's for damn sure.
+
+325
+00:39:30,493 --> 00:39:34,464
+Hold on there, Arnold. Open her up again.
+We got another customer.
+
+326
+00:39:36,666 --> 00:39:38,668
+Hey, man, not in here.
+
+327
+00:39:38,835 --> 00:39:42,009
+- Put him somewheres else!
+- Don't push the panic button.
+
+328
+00:39:42,171 --> 00:39:45,095
+Play it cool, boy.
+Play it cool.
+
+329
+00:39:45,633 --> 00:39:47,226
+Hey!
+
+330
+00:39:47,427 --> 00:39:49,521
+- Hey!
+
+331
+00:39:55,602 --> 00:39:58,731
+What you doin'
+wearin' white man's clothes?
+
+332
+00:40:00,857 --> 00:40:02,700
+Where d'you come from?
+
+333
+00:40:05,778 --> 00:40:07,246
+You deaf or somethin'?
+
+334
+00:40:10,533 --> 00:40:12,661
+Listen, I'm get...
+
+335
+00:40:13,369 --> 00:40:15,121
+Keep cool, Harvey.
+
+336
+00:40:20,919 --> 00:40:22,671
+I'm on your side.
+
+337
+00:40:23,922 --> 00:40:25,048
+Well, I don't need you!
+
+338
+00:40:26,007 --> 00:40:28,101
+I'm all you've got.
+
+339
+00:40:37,060 --> 00:40:39,313
+Police?
+
+340
+00:40:40,271 --> 00:40:42,865
+You're a cop?
+
+341
+00:40:43,483 --> 00:40:45,611
+- You're a cop.
+- Mm-hm.
+
+342
+00:40:45,777 --> 00:40:47,654
+Yeah?
+
+343
+00:40:48,446 --> 00:40:51,495
+So, how come they locked you up?
+How come they lock up a cop?
+
+344
+00:40:51,658 --> 00:40:53,911
+Who said they locked me up?
+
+345
+00:40:54,077 --> 00:40:58,753
+How come with all these empty cells here
+they'd throw me in with you? You dig?
+
+346
+00:41:03,836 --> 00:41:05,930
+Look.
+
+347
+00:41:06,714 --> 00:41:08,808
+I already told 'em.
+
+348
+00:41:09,926 --> 00:41:12,770
+I see this fella lyin' on
+the street there.
+
+349
+00:41:14,347 --> 00:41:17,271
+And there's this wallet
+lyin' beside him.
+
+350
+00:41:19,560 --> 00:41:22,063
+Boy, I mean, I come into
+this world outta luck.
+
+351
+00:41:22,230 --> 00:41:25,860
+Here's the first good thing
+to come my way. And I pick it up.
+
+352
+00:41:27,694 --> 00:41:30,288
+But when I see whose
+wallet it is...
+
+353
+00:41:31,239 --> 00:41:36,746
+I mean, I start to sweat. But I heard
+about this new chief. This Gillepsie?
+
+354
+00:41:36,911 --> 00:41:39,039
+Got no more smile
+than a turnip.
+
+355
+00:41:39,205 --> 00:41:43,460
+So I cut across the fields, headin' for the
+line, and got myself as far as the bridge
+
+356
+00:41:43,626 --> 00:41:45,799
+before Gillespie grabbed me.
+
+357
+00:41:45,962 --> 00:41:48,465
+What time did you find the wallet?
+
+358
+00:41:49,590 --> 00:41:55,268
+Well, I ain't got no watch, but it must have
+been after two, by the courthouse clock.
+
+359
+00:41:55,430 --> 00:41:58,775
+I'm interested in eleven to two.
+Where were you?
+
+360
+00:41:58,933 --> 00:42:02,688
+Shootin' pool. Larry's Lounge.
+I got there about ten.
+
+361
+00:42:02,854 --> 00:42:05,778
+- What time'd you leave?
+- Closin'. Must have been one.
+
+362
+00:42:05,940 --> 00:42:10,116
+- Anybody can swear for you?
+- Packy, Burt, Les.
+
+363
+00:42:14,323 --> 00:42:16,997
+Ever been in trouble
+with the police before?
+
+364
+00:42:19,203 --> 00:42:21,126
+Come on.
+
+365
+00:42:21,539 --> 00:42:23,541
+I could ask at the desk,
+you know.
+
+366
+00:42:28,838 --> 00:42:31,842
+Well, they brought
+me in one time.
+
+367
+00:42:32,884 --> 00:42:36,013
+- On account of this Delores Purdy.
+- On what charge?
+
+368
+00:42:40,099 --> 00:42:42,943
+Well, uh, this Delores,
+she, uh...
+
+369
+00:42:44,812 --> 00:42:48,362
+she's real proud of what nature
+done for her, you know?
+
+370
+00:42:48,983 --> 00:42:50,826
+And, uh...
+
+371
+00:42:50,985 --> 00:42:55,491
+Well, we was on a date
+up to Clarke's Point, and, uh...
+
+372
+00:42:56,949 --> 00:42:59,668
+she says, uh...
+
+373
+00:43:00,119 --> 00:43:03,089
+Anyway, she asks me,
+she says, uh...
+
+374
+00:43:03,247 --> 00:43:06,547
+"Don't you think I got
+a classy build?"
+
+375
+00:43:06,709 --> 00:43:08,882
+And I say "Sure."
+
+376
+00:43:09,045 --> 00:43:10,843
+And so she starts to show me.
+
+377
+00:43:12,882 --> 00:43:15,385
+But I didn't do nothin' wrong.
+
+378
+00:43:15,551 --> 00:43:19,101
+I just didn't stop her from
+tryin' to prove her point.
+
+379
+00:43:20,264 --> 00:43:22,938
+Then this cop, Sam Wood,
+
+380
+00:43:23,101 --> 00:43:26,275
+comes chargin' outta the bush
+and hauls me in.
+
+381
+00:43:26,604 --> 00:43:28,277
+He let you go, didn't he?
+
+382
+00:43:29,107 --> 00:43:32,702
+Told me not to mess with her no more.
+She lives on Third, a block from me.
+
+383
+00:43:32,860 --> 00:43:35,784
+Traipsin' around in the altogether.
+With the lights on.
+
+384
+00:43:35,947 --> 00:43:38,041
+Now, somebody sure oughta
+make her stop doin' that.
+
+385
+00:43:39,826 --> 00:43:41,920
+Come here.
+
+386
+00:43:44,914 --> 00:43:47,417
+Let me see your right hand.
+
+387
+00:43:51,921 --> 00:43:53,673
+- What you doin'?
+- Hold still.
+
+388
+00:44:15,611 --> 00:44:18,956
+All right now, give him
+the waiver for false arrest.
+
+389
+00:44:19,740 --> 00:44:21,538
+<i>Forget it.</i>
+
+390
+00:44:21,701 --> 00:44:24,625
+I'm askin' you to sign it.
+Please.
+
+391
+00:44:28,541 --> 00:44:31,044
+Give him a pen.
+Give him a pen.
+
+392
+00:44:41,929 --> 00:44:44,432
+All right. Let him out.
+
+393
+00:44:50,897 --> 00:44:54,276
+You'll be able to catch
+the 12:10 train.
+
+394
+00:44:57,153 --> 00:45:00,282
+It wouldn't be a bad idea to
+change the charge against Oberst.
+
+395
+00:45:00,448 --> 00:45:05,375
+He was nowhere near the scene of the
+crime, and I think he can prove it.
+
+396
+00:45:06,495 --> 00:45:09,749
+- I bet you know when Colbert was killed.
+- About 12:30.
+
+397
+00:45:09,916 --> 00:45:13,887
+- While Harvey was still shooting pool.
+- Wait a minute. I'll get it.
+
+398
+00:45:15,755 --> 00:45:18,634
+There's cue chalk under his nails,
+not dried blood.
+
+399
+00:45:18,799 --> 00:45:21,973
+- Thank God I don't live in Philadelphia.
+- One more thing.
+
+400
+00:45:22,136 --> 00:45:24,685
+Colbert wasn't killed
+where the body was found.
+
+401
+00:45:24,847 --> 00:45:28,477
+- What do you mean?
+- He was killed then moved to Main Street.
+
+402
+00:45:39,820 --> 00:45:41,914
+- Courtney?
+- Yes, sir?
+
+403
+00:45:44,033 --> 00:45:46,752
+Change the charge to theft.
+
+404
+00:45:46,911 --> 00:45:49,209
+D'you mean Harve?
+
+405
+00:45:49,372 --> 00:45:52,046
+Who the hell else do
+we have back there?!
+
+406
+00:45:52,208 --> 00:45:54,302
+Yes, sir.
+
+407
+00:45:57,421 --> 00:45:59,515
+Hey.
+
+408
+00:46:00,424 --> 00:46:02,518
+Didn't I ask you to fix that gate?
+
+409
+00:46:03,761 --> 00:46:08,562
+No, not me, sir. Must have been
+my brother Harold. He's on days.
+
+410
+00:46:09,141 --> 00:46:11,610
+Harold.
+
+411
+00:46:22,863 --> 00:46:24,706
+Police department.
+
+412
+00:46:24,865 --> 00:46:26,959
+Yes, he's here.
+Hold on, sir.
+
+413
+00:46:27,785 --> 00:46:29,287
+Mayor's on the line, Chief.
+
+414
+00:47:35,394 --> 00:47:40,070
+What's all this Mrs. Colbert's been
+tellin' me about a... a cover-up arrest?
+
+415
+00:47:41,942 --> 00:47:44,536
+No, ma'am.
+We ain't had no cover-up.
+
+416
+00:47:44,695 --> 00:47:48,916
+In fact, we just dropped the
+charges for insufficient evidence.
+
+417
+00:47:49,658 --> 00:47:52,628
+Mrs. Colbert, I told you
+he was nobody's man.
+
+418
+00:47:53,371 --> 00:47:56,841
+I came by to make it
+as clear as I possibly can
+
+419
+00:47:56,999 --> 00:48:01,175
+that I do not want that Negro
+officer taken off this case.
+
+420
+00:48:03,589 --> 00:48:05,683
+Negro officer?
+
+421
+00:48:07,426 --> 00:48:10,930
+Yeah, well, he, uh...
+He comes from up North, you see.
+
+422
+00:48:11,097 --> 00:48:13,691
+And he was, uh, kinda...
+
+423
+00:48:17,603 --> 00:48:20,277
+- passin' through...
+- If it wasn't for him,
+
+424
+00:48:20,439 --> 00:48:24,910
+your impartial chief of police would
+still have the wrong man behind bars.
+
+425
+00:48:26,987 --> 00:48:29,911
+I want that officer
+given a free hand.
+
+426
+00:48:30,074 --> 00:48:34,671
+Otherwise, I will pack up
+my husband's engineers...
+
+427
+00:48:38,082 --> 00:48:40,176
+and leave you...
+
+428
+00:48:42,086 --> 00:48:44,180
+to yourselves.
+
+429
+00:48:51,137 --> 00:48:53,856
+Mrs. Colbert, now don't you
+worry about a thing.
+
+430
+00:48:54,014 --> 00:48:57,143
+Believe me, we're gonna
+take care of everything.
+
+431
+00:48:58,894 --> 00:49:00,771
+Bill?
+
+432
+00:49:06,694 --> 00:49:09,948
+I wanna see you come through
+this now, you hear?
+
+433
+00:49:10,114 --> 00:49:13,618
+Even if we have to step
+on Endicott's toes?
+
+434
+00:49:13,784 --> 00:49:15,752
+Even that.
+
+435
+00:49:15,911 --> 00:49:18,005
+But do it fast.
+
+436
+00:49:19,457 --> 00:49:21,209
+All right.
+
+437
+00:49:21,375 --> 00:49:24,174
+Now, Bill, how about
+this here Negro officer?
+
+438
+00:49:24,336 --> 00:49:26,839
+Mrs. Colbert seems
+to have confidence in him.
+
+439
+00:49:27,006 --> 00:49:29,600
+Oh, he ain't nothin'.
+Some kind of a...
+
+440
+00:49:31,218 --> 00:49:34,848
+some kind of a homicide expert.
+But I don't need him.
+
+441
+00:49:36,682 --> 00:49:40,232
+You mean you don't want him.
+But you do need him.
+
+442
+00:49:41,729 --> 00:49:45,450
+Now look, Bill.
+Suppose he turns up the killer.
+
+443
+00:49:45,608 --> 00:49:50,956
+He has no police power here. He's gonna
+have to hand him over on a platter, right?
+
+444
+00:49:51,113 --> 00:49:52,865
+That's right.
+
+445
+00:49:53,032 --> 00:49:55,626
+And if he fails,
+you're off the hook,
+
+446
+00:49:55,784 --> 00:49:58,913
+'cause it was Mrs. Colbert's idea
+in the first place.
+
+447
+00:49:59,079 --> 00:50:01,457
+See what I mean?
+
+448
+00:50:01,624 --> 00:50:03,718
+Oh, yeah.
+
+449
+00:50:03,876 --> 00:50:07,005
+Works out all the way around, Bill.
+For all of us.
+
+450
+00:50:08,214 --> 00:50:10,308
+Excuse me.
+
+451
+00:50:42,790 --> 00:50:45,384
+Any reason why you have
+to leave today?
+
+452
+00:50:46,085 --> 00:50:48,179
+There's lots of reasons.
+
+453
+00:50:49,505 --> 00:50:53,351
+What would you say if
+I asked you to stay for a while?
+
+454
+00:50:53,509 --> 00:50:55,386
+No.
+
+455
+00:51:07,898 --> 00:51:10,868
+This town needs a
+factory, Virgil.
+
+456
+00:51:11,026 --> 00:51:13,575
+Colbert come down
+from Chicago to build it.
+
+457
+00:51:13,737 --> 00:51:17,913
+I hear they're gonna hire a thousand men.
+Half of them'd be colored.
+
+458
+00:51:18,826 --> 00:51:22,080
+- Know what that means?
+- Probably got him killed.
+
+459
+00:51:22,246 --> 00:51:26,217
+That's what Mrs. Colbert thinks.
+She wants us to catch her a killer.
+
+460
+00:51:26,375 --> 00:51:29,094
+No killer, no factory.
+
+461
+00:51:29,253 --> 00:51:33,508
+Well, it's a lotta jobs for a lotta
+colored people. You follow me?
+
+462
+00:51:35,593 --> 00:51:37,971
+- I'm going home, man.
+- They're your people.
+
+463
+00:51:38,137 --> 00:51:41,482
+Not mine... yours.
+You made this scene.
+
+464
+00:51:41,640 --> 00:51:46,316
+- What do you want me to do? Beg you?
+- Look, I've had your town up to here!
+
+465
+00:51:46,854 --> 00:51:51,155
+Boy, it would give me a world of
+satisfaction to horsewhip you, Virgil!
+
+466
+00:51:57,239 --> 00:51:59,742
+My father used to say that.
+
+467
+00:52:02,911 --> 00:52:07,132
+- Even did, once or twice.
+- Yeah, well, not enough to suit me.
+
+468
+00:52:08,459 --> 00:52:10,928
+Now you listen to me.
+
+469
+00:52:11,086 --> 00:52:13,714
+Just once in my life
+I'm gonna hold my temper.
+
+470
+00:52:13,881 --> 00:52:16,054
+I'm tellin' you that
+you're gonna stay.
+
+471
+00:52:16,216 --> 00:52:20,722
+You'll stay here if I have to have your
+chief remind you what he told you to do.
+
+472
+00:52:20,888 --> 00:52:22,982
+But I don't think
+I have to do that, you see?
+
+473
+00:52:23,140 --> 00:52:27,691
+No. Because you're so damned smart.
+You're smarter than any white man.
+
+474
+00:52:27,853 --> 00:52:30,481
+You're just gonna stay here
+and show us all.
+
+475
+00:52:30,648 --> 00:52:34,994
+You could never live with yourself
+unless you could put us all to shame.
+
+476
+00:52:36,820 --> 00:52:39,414
+You wanna know something, Virgil?
+
+477
+00:52:40,449 --> 00:52:45,125
+I don't think that you could let
+an opportunity like that pass by.
+
+478
+00:53:25,577 --> 00:53:27,454
+Jess?
+
+479
+00:53:27,621 --> 00:53:29,749
+Jess, this is, uh...
+
+480
+00:53:29,915 --> 00:53:32,589
+This is Virgil.
+He's workin' for me.
+
+481
+00:53:33,419 --> 00:53:35,592
+Give him somethin' that runs.
+Fix him up.
+
+482
+00:53:35,754 --> 00:53:39,258
+What I fix, runs.
+Who pays?
+
+483
+00:53:39,466 --> 00:53:41,343
+Police.
+
+484
+00:53:43,053 --> 00:53:46,353
+Well, you know
+where to find me.
+
+485
+00:54:25,888 --> 00:54:27,982
+What you doin' here, man?
+
+486
+00:54:28,140 --> 00:54:30,268
+Policeman.
+
+487
+00:54:30,434 --> 00:54:32,653
+You're a policeman here in Sparta?
+
+488
+00:54:34,438 --> 00:54:37,692
+They've got a murder
+they don't know what to do with.
+
+489
+00:54:37,858 --> 00:54:39,451
+They need a whipping boy.
+
+490
+00:54:48,494 --> 00:54:50,212
+You got a roof?
+
+491
+00:54:51,789 --> 00:54:55,009
+No. I'll find a motel.
+
+492
+00:54:59,296 --> 00:55:03,221
+Viola... We got company.
+
+493
+00:55:10,974 --> 00:55:13,443
+Know what's gonna happen?
+
+494
+00:55:13,602 --> 00:55:15,696
+He gonna get hisself killed.
+
+495
+00:55:17,397 --> 00:55:19,274
+You watch and see he don't.
+
+496
+00:55:19,441 --> 00:55:23,116
+I'm aware of the risk, Tom. But, like
+it or not, we're stuck with him.
+
+497
+00:55:23,278 --> 00:55:26,327
+Not if the chief here
+is right on the ball.
+
+498
+00:55:27,241 --> 00:55:28,829
+What do you say, Chief?
+
+499
+00:55:28,855 --> 00:55:33,273
+You got that old killer all lined
+up in your front sights, hm?
+
+500
+00:55:34,873 --> 00:55:37,217
+I'm workin' on it.
+
+501
+00:55:37,376 --> 00:55:39,595
+Tom, climb off
+of Gillespie's back now.
+
+502
+00:55:39,753 --> 00:55:42,848
+You know damn well we didn't
+hire him off a homicide squad.
+
+503
+00:55:44,758 --> 00:55:47,637
+Yeah, well,
+it's gonna be his week.
+
+504
+00:55:47,803 --> 00:55:50,682
+'Cause Colbert's only the start.
+
+505
+00:55:50,848 --> 00:55:53,192
+I say this nigger won't
+live past Saturday.
+
+506
+00:56:04,903 --> 00:56:09,079
+Mrs. Colbert, can you tell me
+about your husband's enemies?
+
+507
+00:56:09,241 --> 00:56:13,371
+That's Endicott.
+He's been fighting us all the way.
+
+508
+00:56:13,537 --> 00:56:17,587
+He sits up on his hill
+and runs this county.
+
+509
+00:56:17,749 --> 00:56:20,423
+Or did, until we moved in.
+
+510
+00:56:24,298 --> 00:56:27,928
+Did your husband tell you
+where he was going last night?
+
+511
+00:56:29,595 --> 00:56:33,975
+He said he wasn't sleepy.
+I went to bed.
+
+512
+00:56:34,308 --> 00:56:35,981
+What time was that?
+
+513
+00:56:37,686 --> 00:56:40,235
+A little after 11, I think.
+
+514
+00:56:41,690 --> 00:56:44,864
+Did he call you, or anybody
+on your staff, after 11?
+
+515
+00:56:45,819 --> 00:56:47,696
+No.
+
+516
+00:56:49,197 --> 00:56:53,122
+Maybe the elevator boy
+can tell us what time he went out.
+
+517
+00:56:53,285 --> 00:56:55,708
+They put it on
+self-service after ten.
+
+518
+00:57:00,626 --> 00:57:03,049
+Did your husband use a car here?
+
+519
+00:58:21,164 --> 00:58:23,337
+Find anything?
+
+520
+00:58:23,500 --> 00:58:27,175
+- Whoever killed Colbert drove this oar.
+- How do you know?
+
+521
+00:58:29,256 --> 00:58:31,350
+Where you goin'?
+
+522
+00:58:32,718 --> 00:58:37,645
+I'd drive up there, but I'm sure you
+don't want me running up there by myself.
+
+523
+00:58:37,806 --> 00:58:39,808
+- Up where?
+- Eric Endicott's.
+
+524
+00:58:39,975 --> 00:58:41,477
+Endicott's?!
+Come on, now!
+
+525
+00:59:30,942 --> 00:59:32,489
+None of that for you,
+huh, Virgil?
+
+526
+00:59:41,578 --> 00:59:45,503
+<i>♪ In the heat of the night</i>
+
+527
+00:59:45,665 --> 00:59:49,545
+<i>♪ Mm-hm, ain't a woman yet been born</i>
+
+528
+00:59:52,547 --> 00:59:54,675
+<i>♪ Yeah</i>
+
+529
+00:59:56,218 --> 01:00:00,769
+<i>♪ Knows how to make the mornin' come</i>
+
+530
+01:00:05,227 --> 01:00:09,528
+<i>♪ It's so hard to keep control</i>
+
+531
+01:00:09,689 --> 01:00:11,282
+<i>♪ Yes, it is</i>
+
+532
+01:00:11,441 --> 01:00:15,366
+<i>♪ When I could sell my soul</i>
+
+533
+01:00:16,488 --> 01:00:18,661
+<i>♪ For just a little light</i>
+
+534
+01:00:18,824 --> 01:00:23,000
+<i>♪ In the heat of the night</i>
+
+535
+01:00:39,427 --> 01:00:42,146
+Listen. You know
+something I don't know?
+
+536
+01:00:43,640 --> 01:00:46,894
+I found a piece of osmunda
+in Colbert's car.
+
+537
+01:00:47,060 --> 01:00:50,690
+- A piece of what?
+- On the brake pedal. Osmunda. Fern root.
+
+538
+01:00:50,856 --> 01:00:54,531
+Fern root?
+Oh, is Mr. Endicott here?
+
+539
+01:00:54,693 --> 01:00:58,368
+Yes, sir. He's out in the greenhouse.
+Would you follow me, please?
+
+540
+01:01:23,972 --> 01:01:26,475
+- Gillespie.
+- Mr. Endicott.
+
+541
+01:01:27,517 --> 01:01:29,736
+This here's Virgil.
+
+542
+01:01:30,729 --> 01:01:33,573
+- Mr. Tibbs.
+- How do you do, sir?
+
+543
+01:01:33,732 --> 01:01:37,362
+Oh, may I have Henry fetch you
+somethin'? Some light refreshment?
+
+544
+01:01:37,527 --> 01:01:42,408
+- No, thank you. We're all right...
+- I'll have something cold, soft. Anything.
+
+545
+01:01:42,574 --> 01:01:45,498
+Henry, bring in a pitcher of lemonade.
+I'll have one, too.
+
+546
+01:01:45,660 --> 01:01:47,754
+Yes, sir.
+
+547
+01:01:49,039 --> 01:01:52,168
+I didn't know it was possible
+to grow this species locally.
+
+548
+01:01:52,334 --> 01:01:54,632
+- Oh, you like flowers?
+- I do.
+
+549
+01:01:54,794 --> 01:01:57,092
+Mr. Tibbs, do you know
+anything about orchids?
+
+550
+01:01:57,255 --> 01:02:01,226
+- Not very much, but I do like them.
+- Well, let me show you.
+
+551
+01:02:04,137 --> 01:02:06,231
+Endicott's folly.
+
+552
+01:02:09,559 --> 01:02:13,735
+- What do you think?
+- It's beautiful. It's breathtaking.
+
+553
+01:02:13,897 --> 01:02:15,836
+Have you a favorite,
+Mr. Tibbs?
+
+554
+01:02:15,862 --> 01:02:18,769
+Well, I'm partial to
+any of the epiphytics.
+
+555
+01:02:18,902 --> 01:02:21,405
+Why, isn't that remarkable!
+
+556
+01:02:22,239 --> 01:02:25,994
+That of all the orchids in this place,
+you should prefer the epiphytics.
+
+557
+01:02:26,159 --> 01:02:28,253
+I wonder if you know why.
+
+558
+01:02:28,995 --> 01:02:31,373
+Maybe it would be helpful
+if you'd tell me.
+
+559
+01:02:31,539 --> 01:02:34,463
+Because, like the Negro,
+
+560
+01:02:34,626 --> 01:02:38,506
+they need care and
+feedin' and cultivatin'.
+
+561
+01:02:39,547 --> 01:02:41,641
+And that takes time.
+
+562
+01:02:43,218 --> 01:02:46,722
+That's somethin' you can't make
+some people understand.
+
+563
+01:02:46,888 --> 01:02:49,357
+That's somethin'
+Mr. Colbert didn't realize.
+
+564
+01:02:56,982 --> 01:02:59,576
+Is this what the
+epiphytics root in?
+
+565
+01:02:59,734 --> 01:03:02,408
+My point! They thrive on it.
+
+566
+01:03:02,570 --> 01:03:05,323
+Take it away from them,
+they do poorly.
+
+567
+01:03:05,991 --> 01:03:09,746
+- What do you call this material?
+- That's osmunda. Fern root.
+
+568
+01:03:16,042 --> 01:03:20,798
+Well, we don't wanna take any
+more of your time, Mr. Endicott.
+
+569
+01:03:24,384 --> 01:03:26,807
+Why'd you two come here?
+
+570
+01:03:34,227 --> 01:03:36,025
+To ask you about Mr. Colbert.
+
+571
+01:03:40,317 --> 01:03:43,161
+Let me understand this.
+
+572
+01:03:43,320 --> 01:03:47,120
+You two came here...
+to question me?
+
+573
+01:03:50,327 --> 01:03:53,046
+Well, your...
+
+574
+01:03:53,204 --> 01:03:55,377
+your attitudes, Mr. Endicott,
+
+575
+01:03:55,540 --> 01:03:59,010
+your points of view,
+are a matter of record.
+
+576
+01:04:00,128 --> 01:04:03,428
+Some people... let us say the
+people who work for Mr. Colbert...
+
+577
+01:04:03,590 --> 01:04:08,221
+might reasonably regard you as the person
+least likely to mourn his passing.
+
+578
+01:04:10,096 --> 01:04:13,646
+We were just trying
+to clarify some of the evidence.
+
+579
+01:04:14,851 --> 01:04:19,607
+Was Mr. Colbert ever in this greenhouse?
+Say, last night, about midnight?
+
+580
+01:04:26,112 --> 01:04:27,864
+Gillespie?
+
+581
+01:04:28,031 --> 01:04:29,999
+Yeah?
+
+582
+01:04:30,158 --> 01:04:34,038
+- You saw it.
+- Oh, I saw it.
+
+583
+01:04:34,788 --> 01:04:36,711
+What are you gonna do about it?
+
+584
+01:04:40,418 --> 01:04:41,795
+I don't know.
+
+585
+01:04:43,713 --> 01:04:45,807
+I'll remember that.
+
+586
+01:04:49,344 --> 01:04:54,225
+There was a time...
+when I could have had you shot.
+
+587
+01:05:25,505 --> 01:05:29,510
+- You better clear out. And I mean fast!
+- What about that speech you gave me?
+
+588
+01:05:29,676 --> 01:05:32,304
+I didn't know you'd slap any white man!
+Least of all Endicott!
+
+589
+01:05:32,470 --> 01:05:35,940
+All right. Give me another day.
+Two days. I'm close.
+
+590
+01:05:36,099 --> 01:05:40,445
+I can pull that fat cat down.
+I can bring him right off this hill!
+
+591
+01:05:42,814 --> 01:05:44,691
+Oh, boy.
+
+592
+01:05:46,901 --> 01:05:49,495
+Man, you're just like
+the rest of us.
+
+593
+01:05:50,655 --> 01:05:52,077
+Ain't ya?
+
+594
+01:06:07,297 --> 01:06:10,050
+It's all my fault.
+
+595
+01:06:14,179 --> 01:06:16,181
+But there's no point
+in ducking it.
+
+596
+01:06:16,347 --> 01:06:19,100
+It's gonna be tough
+to keep you in your job now.
+
+597
+01:06:21,227 --> 01:06:25,528
+Now look Bill. I don't have to tell you
+how urgent it is to get Tibbs outta town.
+
+598
+01:06:25,690 --> 01:06:28,864
+- No. I already told him to go.
+- All right.
+
+599
+01:06:29,027 --> 01:06:32,076
+Now, Mrs. Colbert is not
+gonna be back till Thursday.
+
+600
+01:06:32,238 --> 01:06:34,286
+You catch your guilty
+party by then,
+
+601
+01:06:34,449 --> 01:06:38,044
+she won't hold it against us we had
+to send Tibbs home for his own good.
+
+602
+01:06:38,203 --> 01:06:40,877
+But you gotta do it, you hear?
+
+603
+01:06:41,039 --> 01:06:43,133
+I hear.
+
+604
+01:06:45,210 --> 01:06:46,257
+Bill?
+
+605
+01:06:49,672 --> 01:06:52,141
+What's made you change
+your mind about Tibbs?
+
+606
+01:06:52,300 --> 01:06:54,394
+Who says I have?
+
+607
+01:06:55,136 --> 01:06:57,514
+Last chief we had,
+
+608
+01:06:57,680 --> 01:07:03,062
+he'd have shot Tibbs one second after he
+slapped Endicott, claimed self-defense.
+
+609
+01:07:20,495 --> 01:07:22,543
+- Gillespie here.
+- Courtney here, sir.
+
+610
+01:07:22,705 --> 01:07:26,960
+<i>- Did you take Virgil down the depot?
+- No, sir. He just plain wouldn't go.</i>
+
+611
+01:07:27,126 --> 01:07:30,255
+- <i>Shagbag saw him headin' to River Road.</i>
+- Check.
+
+612
+01:07:54,279 --> 01:07:56,373
+Hey! C'mon!
+C'mon!
+
+613
+01:08:23,641 --> 01:08:25,439
+Hey! C'mon!
+
+614
+01:10:22,135 --> 01:10:25,389
+OK, black boy. We come here
+to teach you some manners.
+
+615
+01:10:28,182 --> 01:10:32,528
+We told you about them bad manners,
+boy. You better put that down.
+
+616
+01:10:37,775 --> 01:10:40,449
+Why don't you
+come and get it, baby?
+
+617
+01:11:00,965 --> 01:11:05,061
+C'mon, man. You ain't nothin'.
+C'mon. Let's get him.
+
+618
+01:11:08,598 --> 01:11:10,646
+We'll put that round your neck.
+
+619
+01:11:16,773 --> 01:11:19,026
+Hit him, man!
+Get him from the side!
+
+620
+01:11:32,121 --> 01:11:34,294
+Get behind him!
+
+621
+01:11:36,793 --> 01:11:38,170
+All right, hold it!
+
+622
+01:11:44,967 --> 01:11:46,810
+All right, boys.
+
+623
+01:11:49,680 --> 01:11:53,685
+You've had your fun.
+Now go on, you just run along home.
+
+624
+01:11:57,188 --> 01:11:58,610
+Nigger-lover.
+
+625
+01:12:09,742 --> 01:12:13,667
+- I didn't catch what you said.
+- Get rid of the nigger.
+
+626
+01:12:13,830 --> 01:12:17,130
+You don't... we will.
+
+627
+01:12:19,293 --> 01:12:21,842
+Now, is that a suggestion,
+or is that an order?
+
+628
+01:12:22,004 --> 01:12:24,098
+That's a warnin'!
+
+629
+01:12:27,134 --> 01:12:29,011
+I see.
+
+630
+01:12:30,054 --> 01:12:31,931
+I see.
+
+631
+01:12:36,435 --> 01:12:40,485
+Shut up and take this trash outta here!
+Come on, move it and go!
+
+632
+01:12:49,323 --> 01:12:52,167
+Well, you finally get
+the message, Virgil?!
+
+633
+01:13:05,798 --> 01:13:07,175
+May I get in?
+
+634
+01:13:08,301 --> 01:13:10,975
+- Thought you left town.
+- Not yet.
+
+635
+01:13:16,017 --> 01:13:19,897
+Could you follow the same route you
+followed Tuesday night, same speed?
+
+636
+01:13:20,062 --> 01:13:22,565
+- Why?
+- Why not?
+
+637
+01:13:26,402 --> 01:13:30,282
+- Maybe I better check with the chief.
+- I wouldn't want him to slap you down
+
+638
+01:13:30,448 --> 01:13:33,042
+for steppin' outta line,
+
+639
+01:13:33,200 --> 01:13:35,999
+makin' decisions on
+your own, and all that.
+
+640
+01:13:37,788 --> 01:13:40,667
+He don't knock me outta my socks.
+
+641
+01:13:43,294 --> 01:13:45,547
+Let's get rollin', Virgil.
+
+642
+01:14:04,106 --> 01:14:06,734
+<i>♪ All you little birds better
+lock up tight</i>
+
+643
+01:14:06,901 --> 01:14:10,246
+<i>♪ 'Cause there's a foul owl
+on the prowl tonight</i>
+
+644
+01:14:11,155 --> 01:14:14,705
+<i>♪ Hey, little lark, get outta the dark</i>
+
+645
+01:14:14,867 --> 01:14:18,622
+<i>♪ Foul owl on the prowl</i>
+
+646
+01:14:18,788 --> 01:14:22,338
+<i>♪ Cute little jay, stay outta his way</i>
+
+647
+01:14:22,500 --> 01:14:25,424
+<i>♪ Foul owl on the prowl</i>
+
+648
+01:14:26,295 --> 01:14:30,095
+<i>♪ You just might be the quail he'll tail</i>
+
+649
+01:14:30,257 --> 01:14:33,761
+<i>♪ Foul owl on the prowl</i>
+
+650
+01:14:33,928 --> 01:14:37,649
+<i>♪ You just might be
+the swallow he'll follow</i>
+
+651
+01:14:37,807 --> 01:14:40,731
+<i>♪ Foul owl on the prowl</i>
+
+652
+01:14:42,103 --> 01:14:45,107
+<i>♪ If you hear him hoot... scoot</i>
+
+653
+01:14:45,982 --> 01:14:48,986
+<i>♪ If you pass his tree... flee</i>
+
+654
+01:14:49,777 --> 01:14:52,781
+<i>♪ If you catch his eye... fly</i>
+
+655
+01:14:53,572 --> 01:14:56,746
+<i>♪ Don't wait to say goodbye</i>
+
+656
+01:14:56,909 --> 01:15:00,914
+Take ten minutes to get myself a
+king-sized Coke and a wedge of pie.
+
+657
+01:15:01,914 --> 01:15:04,838
+That is, if that peckerwood
+ain't sold out again.
+
+658
+01:15:07,795 --> 01:15:11,800
+- Can I bring you anything?
+- No. I'm coming in.
+
+659
+01:15:22,977 --> 01:15:25,025
+I thought I told you to
+get outta here.
+
+660
+01:15:25,187 --> 01:15:28,031
+- I'm not ready to leave.
+- I was gonna tell you, Chief.
+
+661
+01:15:28,190 --> 01:15:31,069
+- You forget about those four maniacs?
+- I need more time.
+
+662
+01:15:31,235 --> 01:15:34,205
+- Do I have to put you on the train myself?!
+- I guess so!
+
+663
+01:15:34,363 --> 01:15:36,457
+Whoa.
+
+664
+01:15:37,199 --> 01:15:41,625
+All right, Virgil.
+Just what the hell do you want?
+
+665
+01:15:42,455 --> 01:15:46,926
+I wanna know exactly where Sam was
+at all times on the night of the murder.
+
+666
+01:15:47,251 --> 01:15:50,255
+<i>♪ If you pass his tree... flee</i>
+
+667
+01:15:51,047 --> 01:15:54,176
+<i>♪ If you catch his eye... fly</i>
+
+668
+01:15:54,675 --> 01:15:58,680
+Virgil, if you get killed, we'll have
+one hell of a mess in this town.
+
+669
+01:15:58,706 --> 01:15:59,706
+You know that?
+
+670
+01:16:01,432 --> 01:16:03,526
+I know.
+
+671
+01:16:22,912 --> 01:16:25,836
+Got some real luscious cream pie
+for you tonight, Sam.
+
+672
+01:16:25,998 --> 01:16:28,968
+I mean Officer Wood.
+Just like you always order.
+
+673
+01:16:29,126 --> 01:16:33,597
+You know I don't eat that stuff. The chief
+likes his boys streamlined. Right, Chief?
+
+674
+01:16:33,756 --> 01:16:36,259
+Why don't you shut up, Sam?
+
+675
+01:16:37,426 --> 01:16:41,101
+- All right, what'll you have, Virgil?
+- I ain't servin' him!
+
+676
+01:16:49,688 --> 01:16:53,818
+Tuesday night you walked
+out of here at 2:40. Right?
+
+677
+01:16:53,984 --> 01:16:56,078
+Right on the button.
+
+678
+01:16:56,987 --> 01:16:59,490
+Two minutes from now.
+
+679
+01:17:14,713 --> 01:17:15,965
+That's for him.
+
+680
+01:17:31,897 --> 01:17:35,026
+Now, what'd you do
+when you came out that night?
+
+681
+01:17:35,985 --> 01:17:38,408
+Well, I picked up the
+radio and called in.
+
+682
+01:17:38,571 --> 01:17:40,198
+Do it, please.
+
+683
+01:17:40,364 --> 01:17:42,867
+Go ahead.
+Go ahead.
+
+684
+01:17:50,749 --> 01:17:55,346
+Uh... Wood to radio.
+I'm leavin' Compton's now.
+
+685
+01:17:55,504 --> 01:17:58,758
+<i>Sam, look sharp.
+Gillespie's sniff in' around.</i>
+
+686
+01:17:58,924 --> 01:18:01,018
+Gimme that thing!
+
+687
+01:18:01,802 --> 01:18:05,682
+Courtney, your brother says I didn't tell
+him to fix that hinge, so I told <i>you.</i>
+
+688
+01:18:05,848 --> 01:18:07,725
+Do you read me,
+Courtney?
+
+689
+01:18:07,892 --> 01:18:10,941
+<i>- Oh, I'll get right on it, Chief.</i>
+- I'd do that if I were you.
+
+690
+01:18:11,103 --> 01:18:13,197
+<i>Yes, sir. Ten-four.</i>
+
+691
+01:18:32,666 --> 01:18:36,216
+All right, you can move us.
+Officer Wood.
+
+692
+01:19:19,630 --> 01:19:22,429
+- Why'd you do that, Sam?
+- Do what?
+
+693
+01:19:22,591 --> 01:19:25,515
+Change your route
+back there at the corner.
+
+694
+01:19:28,347 --> 01:19:29,849
+Who says I changed?
+
+695
+01:19:33,602 --> 01:19:37,573
+Look, I oughta know what I did!
+Chief, do I have to put up with this?
+
+696
+01:19:37,731 --> 01:19:40,200
+Do I work for you,
+or do I work for him?
+
+697
+01:19:44,113 --> 01:19:46,207
+Good night, gentlemen.
+
+698
+01:20:15,311 --> 01:20:17,609
+I don't know.
+
+699
+01:20:17,771 --> 01:20:20,900
+- I don't know.
+- Well, I appreciate anything you can do.
+
+700
+01:20:22,526 --> 01:20:25,655
+- This is highly irregular.
+- Yeah, I know that.
+
+701
+01:20:25,821 --> 01:20:31,043
+Showing our depositors' accounts?
+Hm. I don't know.
+
+702
+01:20:33,662 --> 01:20:37,667
+- You sure this is an official request?
+- Yes. It's official, yes.
+
+703
+01:20:41,211 --> 01:20:44,715
+- You willing to put that in writing?
+- Yeah. I'll put it in writing.
+
+704
+01:20:44,882 --> 01:20:47,135
+On police department letterhead?
+
+705
+01:20:47,301 --> 01:20:50,680
+I would write it on the head
+of a pin if you want it there.
+
+706
+01:20:50,846 --> 01:20:54,942
+- I gotta have somethin' for the file.
+- I realize that, but I'm in a hurry.
+
+707
+01:20:55,100 --> 01:20:58,104
+Well, we'll see.
+
+708
+01:20:59,938 --> 01:21:04,034
+He's had an account with us
+for several years now.
+
+709
+01:21:04,193 --> 01:21:06,070
+That so?
+
+710
+01:21:07,112 --> 01:21:09,206
+Not a large account.
+
+711
+01:21:10,532 --> 01:21:13,126
+Never more than... Yeah.
+
+712
+01:21:17,831 --> 01:21:20,084
+$208.
+
+713
+01:21:20,250 --> 01:21:23,971
+That was back in '62.
+September.
+
+714
+01:21:25,089 --> 01:21:29,390
+I am not interested in '62 September.
+I am interested in yesterday.
+
+715
+01:21:29,551 --> 01:21:32,270
+Yesterday? Well...
+
+716
+01:21:34,765 --> 01:21:37,109
+Well.
+
+717
+01:21:37,267 --> 01:21:42,398
+According to this,
+he made a deposit of... $632.
+
+718
+01:21:42,564 --> 01:21:44,532
+- Yesterday?
+- Yes.
+
+719
+01:21:44,691 --> 01:21:48,571
+- Thank you.
+- Must have been when I was out to lunch.
+
+720
+01:21:48,737 --> 01:21:51,365
+A deposit that size,
+I'd remember.
+
+721
+01:21:51,532 --> 01:21:55,127
+Oh, you'll send me that letter
+for the file, you hear?
+
+722
+01:21:55,285 --> 01:21:59,415
+I'll tell you, baby brother, the chief
+didn't like him, not even from the first.
+
+723
+01:22:01,708 --> 01:22:04,177
+- Morning.
+- Where do you think you're goin'?
+
+724
+01:22:04,336 --> 01:22:06,839
+It's all right. Let him go.
+
+725
+01:22:11,885 --> 01:22:16,311
+I just talked to the FBI lab. We can
+prove Colbert was in that greenhouse.
+
+726
+01:22:16,473 --> 01:22:18,646
+Endicott's covering up.
+
+727
+01:22:18,809 --> 01:22:21,858
+I'm afraid you're too late.
+We already got the guilty man.
+
+728
+01:22:22,020 --> 01:22:24,614
+- Who?
+- Sam.
+
+729
+01:22:25,149 --> 01:22:27,447
+- Sam?
+- That's right.
+
+730
+01:22:32,072 --> 01:22:33,790
+Our man is Endicott.
+
+731
+01:22:34,074 --> 01:22:37,328
+You just think a minute.
+Didn't you catch Sam in a lie last night?
+
+732
+01:22:37,494 --> 01:22:40,794
+And yesterday he makes
+a big cash deposit at the bank.
+
+733
+01:22:40,956 --> 01:22:43,379
+If I told you once,
+I told you a hundred times
+
+734
+01:22:43,542 --> 01:22:47,092
+that I won that matchin' quarters
+and halves. It took me three years!
+
+735
+01:22:47,254 --> 01:22:49,302
+Then why was it in big bills?
+I checked.
+
+736
+01:22:49,465 --> 01:22:53,436
+Because whenever I got enough change,
+I'd trade it in on $20 bills.
+
+737
+01:22:53,594 --> 01:22:56,643
+And when I got up to $600, I took
+it down and put it in the bank.
+
+738
+01:22:56,805 --> 01:23:01,811
+The day Colbert was killed, he cashed
+a check for $900, $600 of which is gone,
+
+739
+01:23:01,977 --> 01:23:06,323
+$300 of which I believe you left in the
+wallet as bait for some kid like Oberst!
+
+740
+01:23:06,482 --> 01:23:11,079
+- What kinda man do you think I am?!
+- Now, don't you push me, boy!
+
+741
+01:23:15,574 --> 01:23:17,918
+Now listen.
+
+742
+01:23:18,076 --> 01:23:20,670
+If you weren't
+suspicious of Sam here,
+
+743
+01:23:20,829 --> 01:23:25,005
+why did you question him last
+night when he changed his route?
+
+744
+01:23:27,377 --> 01:23:30,130
+- I knew why he changed his route.
+- Knew what?
+
+745
+01:23:30,297 --> 01:23:34,177
+He was afraid I'd see some naked
+white girl down the block.
+
+746
+01:23:34,343 --> 01:23:36,687
+- What?
+- Some girl named Delores Purdy.
+
+747
+01:23:36,845 --> 01:23:41,191
+She parades around in the nude at
+night to get her kicks. That's...
+
+748
+01:23:42,518 --> 01:23:44,236
+- How do you know?
+- I know.
+
+749
+01:23:44,394 --> 01:23:46,613
+Well, I know. Do you understand?
+
+750
+01:23:46,772 --> 01:23:49,867
+I know that Colbert
+cashed a check for $900.
+
+751
+01:23:50,025 --> 01:23:52,619
+I know that Sam made a
+big cash deposit.
+
+752
+01:23:52,778 --> 01:23:56,954
+I know that you caught him in a lie.
+And I know that's enough for me.
+
+753
+01:23:58,408 --> 01:24:00,456
+C'mon, Sam.
+
+754
+01:24:00,619 --> 01:24:02,713
+Martin, lock him up.
+
+755
+01:24:06,500 --> 01:24:08,377
+Well?
+
+756
+01:24:11,880 --> 01:24:16,056
+Well... you're making a mistake.
+
+757
+01:24:16,677 --> 01:24:19,180
+Don't you bet against it.
+
+758
+01:24:21,765 --> 01:24:24,359
+You can catch your
+train now, Virgil.
+
+759
+01:24:47,416 --> 01:24:49,293
+Tibbs?
+
+760
+01:24:51,878 --> 01:24:54,506
+Do you think Sam did it?
+
+761
+01:24:57,926 --> 01:25:00,805
+- Where do I find the chief?
+- What's it all about?
+
+762
+01:25:00,971 --> 01:25:02,644
+My business.
+
+763
+01:25:04,641 --> 01:25:06,860
+Hey, look, Purdy.
+
+764
+01:25:07,019 --> 01:25:11,069
+Now, you got a complaint?
+Well, right here's where you file it.
+
+765
+01:25:12,608 --> 01:25:15,202
+What I got to say,
+I say to the chief.
+
+766
+01:25:16,236 --> 01:25:19,035
+It's about Sam Wood.
+
+767
+01:25:19,823 --> 01:25:21,700
+All right.
+
+768
+01:25:23,994 --> 01:25:26,372
+<i>Yeah?</i>
+
+769
+01:25:29,583 --> 01:25:32,803
+Purdy's out here, sir.
+It's about Sam.
+
+770
+01:25:32,961 --> 01:25:35,464
+All right.
+Send him in.
+
+771
+01:25:46,516 --> 01:25:49,110
+She is gonna have a baby.
+Sam Wood's baby.
+
+772
+01:25:55,901 --> 01:25:58,495
+Well, ask her yourself
+if you don't believe me!
+
+773
+01:25:59,029 --> 01:26:01,532
+What are you doin' here?
+
+774
+01:26:02,866 --> 01:26:04,146
+It's important that I hear this.
+
+775
+01:26:09,456 --> 01:26:12,505
+I ain't talkin' about this
+with him in the room.
+
+776
+01:26:15,921 --> 01:26:21,052
+- Boy, you don't want trouble, you get!
+- You be sensible. I'm a police officer.
+
+777
+01:26:23,887 --> 01:26:26,060
+You gonna get him outta here,
+or do I gotta do it?!
+
+778
+01:26:27,641 --> 01:26:31,737
+You ain't gonna do nothin'.
+You just stand there and shut up.
+
+779
+01:26:40,987 --> 01:26:43,081
+Sit down, little girl.
+
+780
+01:26:46,827 --> 01:26:47,999
+All right, now.
+
+781
+01:26:49,996 --> 01:26:54,752
+You tell me... all about it.
+Just tell me how it happened.
+
+782
+01:26:58,296 --> 01:27:00,390
+Oh, come on.
+Come on, girl, speak!
+
+783
+01:27:00,549 --> 01:27:03,678
+- Well, you know how hot it's been.
+- Yeah.
+
+784
+01:27:03,844 --> 01:27:06,347
+Nights, they aren't any better.
+
+785
+01:27:07,931 --> 01:27:10,434
+My brother works nights.
+
+786
+01:27:11,143 --> 01:27:13,942
+He leaves me all alone.
+
+787
+01:27:14,104 --> 01:27:17,153
+This particular night,
+I go out on the porch.
+
+788
+01:27:18,108 --> 01:27:22,079
+I'm thinkin' how nice it'd be
+if I had a fountain drink.
+
+789
+01:27:24,114 --> 01:27:26,617
+Sam comes down our road.
+
+790
+01:27:27,451 --> 01:27:29,920
+Just like he comes every night.
+
+791
+01:27:30,871 --> 01:27:35,297
+Passin' like a lord
+in that fine, big, shiny car.
+
+792
+01:27:38,336 --> 01:27:41,010
+Only, this time he stops.
+
+793
+01:27:42,466 --> 01:27:45,015
+He's got a nice face,
+don't you think, Chief?
+
+794
+01:27:46,261 --> 01:27:48,138
+So he stopped.
+
+795
+01:27:52,350 --> 01:27:55,320
+-  He says...
+- What? I didn't hear what you said.
+
+796
+01:27:55,479 --> 01:27:57,573
+<i>He says...</i>
+
+797
+01:27:58,940 --> 01:28:01,284
+"Hey, little girl,
+
+798
+01:28:02,611 --> 01:28:05,535
+you know what
+the coolest spot in town is?"
+
+799
+01:28:06,698 --> 01:28:11,204
+And I said "No, Sam.
+I guess I don't."
+
+800
+01:28:12,120 --> 01:28:16,375
+And he said...
+"The cemetery. That's where."
+
+801
+01:28:17,709 --> 01:28:19,757
+"Know why?"
+
+802
+01:28:21,505 --> 01:28:26,762
+“Cause they got all of them
+big, cool tombstones."
+
+803
+01:28:26,927 --> 01:28:30,807
+"Ever stretch out
+on a tombstone, Delores?"
+
+804
+01:28:30,972 --> 01:28:35,603
+"Feel all that nice, cool marble
+along your body?"
+
+805
+01:28:41,233 --> 01:28:44,533
+- He said that?
+- You hear, Chief? You hear?
+
+806
+01:28:44,694 --> 01:28:46,788
+Yeah, I hear.
+I hear.
+
+807
+01:28:47,364 --> 01:28:52,586
+All right. Sam comes along and stops in
+front of your house and talks. What else?
+
+808
+01:28:52,994 --> 01:28:56,669
+Well, come on now, girl.
+What else? What else? What else?
+
+809
+01:28:57,833 --> 01:29:00,962
+- Then I went for a ride with him.
+- Where'd you go?
+
+810
+01:29:01,127 --> 01:29:02,174
+The cemetery.
+
+811
+01:29:02,337 --> 01:29:06,433
+So, Wood took you to the cemetery
+in the patrol car, right?
+
+812
+01:29:06,591 --> 01:29:10,221
+And then things went a bit too far.
+Is that what you're sayin'?
+
+813
+01:29:10,387 --> 01:29:12,606
+Did they get a little
+bit outta line?
+
+814
+01:29:12,764 --> 01:29:15,608
+Come on now.
+Is that what you're tryin' to say?
+
+815
+01:29:15,767 --> 01:29:17,769
+Come on, girl!
+Is it or ain't it?
+
+816
+01:29:17,936 --> 01:29:20,655
+- Yeah, they went too far!
+- Well, fine!
+
+817
+01:29:21,356 --> 01:29:24,235
+Now, I got one more question.
+Very important.
+
+818
+01:29:24,693 --> 01:29:27,196
+Did he force you,
+or did you let him?
+
+819
+01:29:27,529 --> 01:29:30,908
+Don't mean a damn whether she
+let him or not! She is still 16!
+
+820
+01:29:31,074 --> 01:29:34,044
+In this state, that's rape!
+I know the plain law on that!
+
+821
+01:29:34,202 --> 01:29:38,173
+I know the laws in the state
+of Mississippi, thank you!
+
+822
+01:29:41,209 --> 01:29:44,213
+- Are you sure you're pregnant?
+- Yes, I am pregnant!
+
+823
+01:29:48,884 --> 01:29:50,557
+- Courtney!
+- Yes, sir?
+
+824
+01:29:50,719 --> 01:29:52,892
+Better get in here with
+a pad and a pencil.
+
+825
+01:29:59,019 --> 01:30:01,238
+Come on in. I want you
+to take this all down.
+
+826
+01:30:01,813 --> 01:30:05,989
+You had no right to keep a nigger
+in the room, shame my little sister.
+
+827
+01:30:08,361 --> 01:30:10,534
+You had no right.
+
+828
+01:30:12,449 --> 01:30:14,998
+Virge, what's happenin'?
+
+829
+01:30:15,160 --> 01:30:16,457
+- Hi, Harve.
+- How are you?
+
+830
+01:30:16,620 --> 01:30:19,214
+- Fine.
+- Man, uh...
+
+831
+01:30:21,750 --> 01:30:26,506
+- You sure saved my hide.
+- Listen, Harvey. Man, uh...
+
+832
+01:30:28,757 --> 01:30:32,512
+If a guy knocks up a girl in this
+town, where can he go for help?
+
+833
+01:30:35,889 --> 01:30:38,733
+- Barbershop.
+- Barbershop?
+
+834
+01:30:39,225 --> 01:30:42,775
+Borrow Mr. Fanning's razor
+and cut your throat!
+
+835
+01:30:43,563 --> 01:30:45,440
+Well...
+
+836
+01:30:46,691 --> 01:30:49,535
+But suppose
+Mr. Fanning's razor is too dull.
+
+837
+01:30:49,694 --> 01:30:52,322
+Suppose he's got some
+real money to spread around.
+
+838
+01:30:57,285 --> 01:30:59,287
+Uh...
+
+839
+01:30:59,454 --> 01:31:01,331
+Well, uh...
+
+840
+01:31:02,582 --> 01:31:04,584
+There used to be a colored gal.
+
+841
+01:31:05,669 --> 01:31:11,347
+But she kept bumpin' her price, and I
+don't know if she's still in business.
+
+842
+01:31:11,508 --> 01:31:15,138
+- What's her name?
+- Well, I ain't never had to look her up.
+
+843
+01:31:16,554 --> 01:31:19,683
+But, uh... Packy might know.
+
+844
+01:31:20,684 --> 01:31:23,187
+Where do I find Packy?
+
+845
+01:31:23,853 --> 01:31:28,029
+Down at the pool hall.
+But, man, he wouldn't tell you.
+
+846
+01:31:28,566 --> 01:31:30,910
+Not unless I say so.
+
+847
+01:31:31,069 --> 01:31:34,369
+And how am I gonna say so
+locked up in here?
+
+848
+01:31:34,656 --> 01:31:38,206
+Suppose I get word to Packy that you
+wanna see him? Have him come here?
+
+849
+01:31:42,288 --> 01:31:45,007
+Will you let him
+bring me a cheeseburger?
+
+850
+01:31:48,712 --> 01:31:50,760
+Onions?
+
+851
+01:31:50,922 --> 01:31:53,175
+Now you're talkin'!
+
+852
+01:31:54,217 --> 01:31:56,219
+Uh... Virge?
+
+853
+01:32:49,397 --> 01:32:51,616
+A little careless,
+ain't you, Virgil?
+
+854
+01:32:51,775 --> 01:32:56,781
+Parked in the road, you could get yourself
+killed. Anybody'd know where you are.
+
+855
+01:32:58,573 --> 01:33:02,999
+- You know what this land is?
+- Yeah. It's the site for the new factory.
+
+856
+01:33:04,037 --> 01:33:09,635
+I found a piece of wood in Colbert's
+scalp. The lab identified it as pine.
+
+857
+01:33:09,793 --> 01:33:14,299
+Three people saw Colbert drive by...
+alone... on the way back from Endicott's.
+
+858
+01:33:14,464 --> 01:33:19,140
+Colbert must have picked up somebody
+in town and then come out here.
+
+859
+01:33:19,302 --> 01:33:22,101
+I tell you he didn't
+pick up nobody.
+
+860
+01:33:22,263 --> 01:33:26,234
+Sam followed him here, come up behind
+him, just like I come up behind you.
+
+861
+01:33:26,392 --> 01:33:30,022
+- I heard you. Colbert would have too.
+- He turned and he got smashed!
+
+862
+01:33:30,188 --> 01:33:32,282
+He was hit from behind!
+
+863
+01:33:32,440 --> 01:33:35,740
+If Delores Purdy hadn't come in,
+I never would have seen the truth.
+
+864
+01:33:35,902 --> 01:33:39,577
+I was hung up trying to get Endicott,
+for personal reasons.
+
+865
+01:33:40,031 --> 01:33:42,159
+Do you know what
+I'm gonna do, Virgil?
+
+866
+01:33:42,325 --> 01:33:45,625
+I'm gonna take you to Brownsville
+and put you on the bus myself.
+
+867
+01:33:45,787 --> 01:33:49,462
+You aren't taking me anywhere.
+You dig? You're holding the wrong man!
+
+868
+01:33:49,624 --> 01:33:54,471
+The wrong man?! I got the motive, which
+is money, and the body, which is dead!
+
+869
+01:33:54,629 --> 01:33:56,973
+- What makes you so sure?
+- Why do you doubt it?!
+
+870
+01:33:57,132 --> 01:33:59,430
+Because Colbert was killed <i>here!</i>
+
+871
+01:33:59,592 --> 01:34:02,812
+Then driven back to town in his own
+car and dumped on the streets.
+
+872
+01:34:02,971 --> 01:34:05,770
+Sam couldn't have
+driven two cars!
+
+873
+01:34:35,503 --> 01:34:37,597
+What do you want?
+
+874
+01:34:40,341 --> 01:34:42,594
+Give me till morning.
+
+875
+01:35:25,303 --> 01:35:27,556
+You know...
+
+876
+01:35:27,722 --> 01:35:31,352
+You know, Virgil,
+you are among the chosen few.
+
+877
+01:35:33,978 --> 01:35:36,106
+How's that?
+
+878
+01:35:36,272 --> 01:35:41,324
+Well, I think that you're the first
+human being that's ever been in here.
+
+879
+01:35:45,198 --> 01:35:49,169
+Well, you can't be
+too careful, man.
+
+880
+01:35:52,580 --> 01:35:55,174
+You know a lotta things,
+don't you?
+
+881
+01:35:56,209 --> 01:35:59,338
+Well, just what do you know
+about insomnia?
+
+882
+01:36:04,676 --> 01:36:06,474
+Bourbon can't cure it.
+
+883
+01:36:11,057 --> 01:36:13,560
+Well... that's for sure.
+
+884
+01:36:14,519 --> 01:36:18,649
+Now look.
+I got no wife. I got no kids.
+
+885
+01:36:19,565 --> 01:36:24,787
+Boy, I got a town that...
+don't want me.
+
+886
+01:36:29,450 --> 01:36:33,080
+And I got an air conditioner
+that I have to oil myself,
+
+887
+01:36:33,913 --> 01:36:37,258
+and a desk with a busted leg.
+And on top of that, I got...
+
+888
+01:36:38,960 --> 01:36:40,837
+this, uh...
+
+889
+01:36:41,963 --> 01:36:44,057
+place.
+
+890
+01:36:44,215 --> 01:36:47,936
+Now, don't you think that'd drive
+a man to takin' a few drinks?
+
+891
+01:36:55,685 --> 01:36:58,529
+I'll tell you a secret.
+
+892
+01:36:58,688 --> 01:37:00,782
+Nobody comes here.
+
+893
+01:37:02,608 --> 01:37:04,485
+Never.
+
+894
+01:37:14,871 --> 01:37:17,090
+You married?
+
+895
+01:37:18,416 --> 01:37:20,293
+No.
+
+896
+01:37:21,711 --> 01:37:23,805
+Ever been?
+
+897
+01:37:25,965 --> 01:37:27,842
+No.
+
+898
+01:37:31,888 --> 01:37:34,391
+Ever been close to it?
+
+899
+01:37:47,320 --> 01:37:49,948
+Close to it.
+
+900
+01:37:54,577 --> 01:37:59,674
+Don't you get just...
+a little lonely?
+
+901
+01:38:05,713 --> 01:38:08,557
+No lonelier than you, man.
+
+902
+01:38:13,805 --> 01:38:17,105
+Oh, now,
+don't get smart, black boy.
+
+903
+01:38:20,019 --> 01:38:22,613
+I don't need it.
+
+904
+01:38:27,985 --> 01:38:29,362
+No pity, thank you.
+
+905
+01:38:35,076 --> 01:38:37,170
+No, thank you!
+
+906
+01:38:45,420 --> 01:38:46,546
+- Yeah?
+- Chief?
+
+907
+01:38:46,712 --> 01:38:50,637
+- Yeah.
+- You know where I can find Virgil?
+
+908
+01:38:50,800 --> 01:38:52,677
+Who are you?
+
+909
+01:38:52,844 --> 01:38:57,270
+Packy, Chief. Packy Harrison.
+I'm a friend of Harve.
+
+910
+01:39:00,351 --> 01:39:03,651
+- You got something for me?
+- Yeah.
+
+911
+01:39:03,813 --> 01:39:06,987
+- Where you goin'?
+- Where whitey ain't allowed.
+
+912
+01:39:07,775 --> 01:39:12,076
+- What the hell does that mean?
+- You gave me till morning. Remember?
+
+913
+01:39:45,021 --> 01:39:48,901
+- Here's the car.
+- He could have exchanged cars by now.
+
+914
+01:39:49,066 --> 01:39:52,115
+John, you stick here.
+We'll keep cruisin'.
+
+915
+01:40:02,121 --> 01:40:05,125
+You find him,
+come back for me, you hear?
+
+916
+01:40:08,794 --> 01:40:12,389
+That's her place, here.
+You want me to wait?
+
+917
+01:40:13,174 --> 01:40:16,895
+No, thank you, Packy.
+You go on home.
+
+918
+01:40:59,804 --> 01:41:01,806
+Mrs. Bellamy?
+
+919
+01:41:02,473 --> 01:41:05,397
+People around here
+call me Mama Caleba.
+
+920
+01:41:05,726 --> 01:41:10,106
+Mama, I'm not from around here.
+But you can put me on my train.
+
+921
+01:41:10,648 --> 01:41:14,323
+You talk crazy.
+You gin-drunk?
+
+922
+01:41:15,528 --> 01:41:18,156
+Just homesick.
+
+923
+01:41:18,948 --> 01:41:20,916
+Lord, Lord!
+
+924
+01:41:21,075 --> 01:41:24,579
+Whisper two little words,
+Mama, and I'm on my way.
+
+925
+01:41:24,745 --> 01:41:30,923
+Maybe... I don't want to sever
+a beautiful child like you right out.
+
+926
+01:41:38,134 --> 01:41:40,228
+A man's name.
+
+927
+01:41:44,223 --> 01:41:46,317
+First name, last name.
+
+928
+01:41:47,852 --> 01:41:50,901
+The man who's paying you
+for Delores Purdy's abortion.
+
+929
+01:41:51,063 --> 01:41:53,657
+You're the boy who
+works for Mr. Charlie.
+
+930
+01:41:55,610 --> 01:41:58,113
+I thought that's who you was.
+
+931
+01:41:59,238 --> 01:42:00,535
+Why you wanna do that?
+
+932
+01:42:03,159 --> 01:42:05,378
+Why you wanna help the
+police like that?
+
+933
+01:42:06,454 --> 01:42:09,298
+They stealin' your soul.
+
+934
+01:42:09,457 --> 01:42:12,677
+They chew you up and
+spit you out.
+
+935
+01:42:12,835 --> 01:42:15,429
+I'm not here to lay
+a finger on you, Mama.
+
+936
+01:42:17,423 --> 01:42:19,596
+It's the white boy I want.
+
+937
+01:42:19,759 --> 01:42:22,182
+What you got against him?
+He's paying for his fun.
+
+938
+01:42:22,345 --> 01:42:25,770
+How much? I bet you he's not
+paying you more than a hundred.
+
+939
+01:42:26,265 --> 01:42:29,519
+You know how much he's got in his
+pocket right now? More than $600!
+
+940
+01:42:31,437 --> 01:42:34,611
+That cracker?
+
+941
+01:42:34,774 --> 01:42:37,948
+- Where'd he come off getting 600?
+- He killed Mr. Colbert.
+
+942
+01:42:42,114 --> 01:42:44,208
+You gone crazy out
+of your mind.
+
+943
+01:42:44,367 --> 01:42:47,211
+Now listen.
+Hear me good, Mama, please.
+
+944
+01:42:47,370 --> 01:42:49,839
+Don't make me have
+to send you to jail.
+
+945
+01:42:50,956 --> 01:42:52,378
+A lot you care!
+
+946
+01:42:52,541 --> 01:42:56,296
+There's white time in jail, and colored
+time. The worst kind you can do
+
+947
+01:42:56,462 --> 01:42:58,214
+is colored time.
+
+948
+01:43:01,634 --> 01:43:05,013
+Child... you promise...
+
+949
+01:43:06,806 --> 01:43:09,559
+give me understanding.
+
+950
+01:43:10,267 --> 01:43:12,770
+I got used to better.
+
+951
+01:43:13,604 --> 01:43:15,402
+You won't take it away?
+
+952
+01:43:18,859 --> 01:43:20,987
+I won't take it away.
+
+953
+01:43:23,197 --> 01:43:27,168
+Well... I don't know his name.
+
+954
+01:43:27,993 --> 01:43:31,418
+But she's coming here tonight.
+
+955
+01:43:31,747 --> 01:43:33,841
+Get herself straight.
+
+956
+01:43:49,849 --> 01:43:52,773
+- Leave me alone! Let me go!
+-  Let go of her!
+
+957
+01:43:54,061 --> 01:43:56,735
+- Let go of her!
+- Let go of me!
+
+958
+01:44:00,192 --> 01:44:01,535
+Gonna teach you, boy!
+
+959
+01:44:03,237 --> 01:44:05,331
+No club this time, man?
+
+960
+01:44:06,031 --> 01:44:10,332
+A gun's not smart. The way you
+killed Colbert was much smarter.
+
+961
+01:44:11,328 --> 01:44:13,422
+You killed Colbert?!
+
+962
+01:44:13,581 --> 01:44:16,585
+He's crazy. Crazy.
+
+963
+01:44:39,064 --> 01:44:42,284
+OK, nigger.
+Your time, nigger.
+
+964
+01:44:42,610 --> 01:44:44,704
+Look in her purse.
+
+965
+01:44:45,613 --> 01:44:48,492
+- What's that mean?
+- She's got $100 to pay for an abortion.
+
+966
+01:44:48,657 --> 01:44:51,376
+Listen to that.
+That's crazy.
+
+967
+01:44:51,535 --> 01:44:52,582
+Money she got from Ralph.
+
+968
+01:44:54,705 --> 01:44:56,799
+You gonna listen to him?
+
+969
+01:44:56,957 --> 01:44:59,881
+He got her to tell you
+that Sam Wood did it.
+
+970
+01:45:00,503 --> 01:45:02,096
+He made a fool out
+of you, Purdy.
+
+971
+01:45:04,840 --> 01:45:06,308
+- Delores?
+- Liar!
+
+972
+01:45:07,927 --> 01:45:11,101
+You stinkin' liar!
+
+973
+01:45:11,263 --> 01:45:13,357
+Gimme that purse!
+
+974
+01:45:26,779 --> 01:45:31,785
+You turned my little sister...
+into a field slut?
+
+975
+01:45:34,411 --> 01:45:37,005
+<i>Lloyd! Lloyd!</i>
+
+976
+01:45:37,164 --> 01:45:40,088
+- Hey, man, stay back!
+- He's got a gun!
+
+977
+01:45:42,419 --> 01:45:44,513
+He's dead.
+
+978
+01:45:56,767 --> 01:45:59,190
+When I left her house,
+I was going to the diner.
+
+979
+01:45:59,353 --> 01:46:02,402
+Mr. Colbert drove by, so I hitched
+a ride with him. That's all.
+
+980
+01:46:02,565 --> 01:46:06,365
+I said "I sure would like a job in that
+new factory once you get started."
+
+981
+01:46:06,527 --> 01:46:10,907
+And he said "Sure." And I said
+"Well, I wonder where it's gonna be."
+
+982
+01:46:11,073 --> 01:46:15,920
+He said that field we were comin' up to
+was it, and he would stop and show me.
+
+983
+01:46:16,537 --> 01:46:19,461
+I said to myself
+"Man, he's askin' for it."
+
+984
+01:46:20,040 --> 01:46:23,761
+I said "Now, Ralph,
+all you gotta do when we get out...
+
+985
+01:46:24,879 --> 01:46:29,385
+is just sneak up behind him
+and just... tap him."
+
+986
+01:46:30,467 --> 01:46:34,643
+"And then just claim that somebody
+jumped us from the bushes."
+
+987
+01:46:39,768 --> 01:46:41,862
+That's all.
+
+988
+01:46:43,022 --> 01:46:45,525
+I didn't mean to kill him.
+
+989
+01:46:50,946 --> 01:46:52,789
+Yeah.
+
+990
+01:46:52,948 --> 01:46:55,542
+All right, Courtney.
+That's enough.
+
+991
+01:47:06,378 --> 01:47:09,052
+All right. C'mon, Ralph.
+
+992
+01:47:22,478 --> 01:47:24,697
+<i>That's all.</i>
+
+993
+01:47:25,731 --> 01:47:28,234
+<i>I didn't mean to kill him.</i>
+
+994
+01:48:11,819 --> 01:48:14,413
+Well, got your ticket?
+
+995
+01:48:15,197 --> 01:48:17,291
+Here you are.
+
+996
+01:48:18,617 --> 01:48:20,711
+Thank you.
+
+997
+01:48:22,037 --> 01:48:24,131
+- Bye-bye.
+- Goodbye.
+
+998
+01:48:29,670 --> 01:48:31,764
+Virgil?
+
+999
+01:48:36,051 --> 01:48:39,180
+You take care. You hear?
+
+1000
+01:48:44,018 --> 01:48:45,565
+Yeah.
+
+1001
+01:48:55,195 --> 01:48:57,289
+<i>Board!</i>
+
+1002
+01:49:00,409 --> 01:49:05,085
+<i>♪ In the heat of the night</i>
+
+1003
+01:49:08,751 --> 01:49:13,757
+<i>♪ I've got trouble wall to wall</i>
+
+1004
+01:49:14,631 --> 01:49:17,510
+<i>♪ Oh yes, I have</i>
+
+1005
+01:49:17,676 --> 01:49:19,770
+<i>♪ I repeat</i>
+
+1006
+01:49:19,928 --> 01:49:22,431
+<i>♪ I repeat, in the night</i>
+
+1007
+01:49:24,850 --> 01:49:29,947
+<i>♪ Must be an endin' to it all</i>
+
+1008
+01:49:33,734 --> 01:49:38,661
+<i>♪ Hold on, it won't be long</i>
+
+1009
+01:49:39,031 --> 01:49:41,784
+<i>♪ Yeah, you be strong</i>
+
+1010
+01:49:41,950 --> 01:49:44,294
+<i>♪ And I'll be all right</i>
+
+1011
+01:49:44,453 --> 01:49:47,957
+<i>♪ In the heat of the night</i>
+
+1012
+01:49:48,248 --> 01:49:54,255
+<i>♪ In the heat of the night</i>
+
+1013
+01:50:03,055 --> 01:50:04,056
+English - US - SDH

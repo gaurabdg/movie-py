@@ -1,0 +1,7371 @@
+﻿0
+00:00:03,000 --> 00:00:10,500
+{\move(10,10,190,230,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125)\c&H000000&\3c&H00FFFF&}anoXmous
+
+1
+00:00:12,501 --> 00:00:21,202
+{\move(400,10,190,270,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125)\c&H000000f&\3c&0000a6&}https://thepiratebay.se/user/anoXmous
+
+1
+00:02:24,851 --> 00:02:29,851
+[BELL RINGING]
+
+2
+00:02:31,608 --> 00:02:36,608
+[CHATTERING]
+
+3
+00:02:55,048 --> 00:02:58,133
+All right, all right,
+what's it going to be?
+
+4
+00:02:58,134 --> 00:03:00,719
+A Triple Cream Cup for Christopher.
+
+5
+00:03:00,720 --> 00:03:03,388
+A Squelchy Snorter for Otis.
+
+6
+00:03:03,389 --> 00:03:06,808
+A Sizzler for June Marie.
+And listen!
+
+7
+00:03:06,809 --> 00:03:09,311
+- Wonka's got a new one today.
+ALL: What is it?
+
+8
+00:03:09,312 --> 00:03:12,648
+This one's a Scrumpdiddleumptious Bar.
+
+9
+00:03:12,649 --> 00:03:15,150
+Scrumpdiddleumptious Bar?
+How does he do it?
+
+10
+00:03:15,151 --> 00:03:17,944
+- Do you ask a fish how it swims?
+- No.
+
+11
+00:03:17,945 --> 00:03:19,738
+- Or a bird how it flies?
+- No.
+
+12
+00:03:19,739 --> 00:03:20,989
+No, you don't.
+
+13
+00:03:20,990 --> 00:03:22,908
+They were born to do it.
+
+14
+00:03:22,909 --> 00:03:26,119
+Just like Willy Wonka was born
+to be a Candy man...
+
+15
+00:03:26,120 --> 00:03:29,081
+and you were born to be a Wonkerer.
+
+16
+00:03:29,082 --> 00:03:32,334
+<i>[S</i> I <i>NG</i> I N <i>G]
+Who can take the Sunrise.</i>
+
+17
+00:03:32,335 --> 00:03:36,004
+<i>Sprinkle it with dew.</i>
+
+18
+00:03:36,005 --> 00:03:39,758
+<i>Cover it in chocolate
+And</i> a <i>miracle or two.</i>
+
+19
+00:03:39,759 --> 00:03:42,844
+The Candy Man!
+
+20
+00:03:42,845 --> 00:03:46,348
+<i>The Candy Man can.</i>
+
+21
+00:03:46,349 --> 00:03:49,434
+<i>The Candy Man can
+'Cause he mixes it with love.</i>
+
+22
+00:03:49,435 --> 00:03:53,438
+<i>And makes the world taste good.</i>
+
+23
+00:03:53,439 --> 00:03:56,858
+<i>Who can take</i> a <i>rainbow.</i>
+
+24
+00:03:56,859 --> 00:04:00,278
+<i>Wrap it in</i> a <i>sigh.</i>
+
+25
+00:04:00,279 --> 00:04:04,116
+<i>Soak it in the sun
+And make the strawberry-lemon pie.</i>
+
+26
+00:04:04,117 --> 00:04:05,617
+CHILDREN: The Candy Man?
+
+27
+00:04:05,618 --> 00:04:08,203
+The Candy Man!
+
+28
+00:04:08,204 --> 00:04:10,872
+The Candy Man can!
+
+29
+00:04:10,873 --> 00:04:13,959
+<i>[SINGING] The Candy Man can
+'Cause he mixes it with love.</i>
+
+30
+00:04:13,960 --> 00:04:17,963
+<i>- And makes the world taste good</i>
+ALL: <i>Me! Me!</i>
+
+31
+00:04:17,964 --> 00:04:19,631
+<i>Willy Wonka makes.</i>
+
+32
+00:04:19,632 --> 00:04:21,383
+<i>Everything he bakes.</i>
+
+33
+00:04:21,384 --> 00:04:24,970
+<i>Satisfying and delicious.</i>
+
+34
+00:04:24,971 --> 00:04:28,056
+<i>Talk about your childhood wishes.</i>
+
+35
+00:04:28,057 --> 00:04:33,057
+<i>You can even eat the dishes.</i>
+
+36
+00:04:42,155 --> 00:04:44,406
+<i>Who can take tomorrow.</i>
+
+37
+00:04:44,407 --> 00:04:47,159
+<i>Dip it in a dream.</i>
+
+38
+00:04:47,160 --> 00:04:50,662
+<i>Separate the sorrow
+And collect up all the cream.</i>
+
+39
+00:04:50,663 --> 00:04:53,915
+<i>- The Candy Man</i>
+ALL <i>[SINGING]: Willy Wonka can.</i>
+
+40
+00:04:53,916 --> 00:04:57,836
+<i>The Candy Man can.</i>
+
+41
+00:04:57,837 --> 00:05:02,090
+<i>The Candy Man can
+'Cause he mixes it with love.</i>
+
+42
+00:05:02,091 --> 00:05:07,091
+<i>And makes the world taste good.</i>
+
+43
+00:05:07,597 --> 00:05:10,766
+<i>And the world tastes good</i>
+
+44
+00:05:10,767 --> 00:05:15,767
+<i>'Cause the Candy Man thinks it should.</i>
+
+45
+00:05:35,458 --> 00:05:36,958
+Hi, Mr. Jopeck.
+
+46
+00:05:36,959 --> 00:05:41,546
+Ah, come along, Charlie.
+You're late.
+
+47
+00:05:41,547 --> 00:05:43,381
+It's payday, Mr. Jopeck.
+
+48
+00:05:43,382 --> 00:05:45,300
+You're right.
+
+49
+00:05:45,301 --> 00:05:48,386
+- There you are.
+- Thanks.
+
+50
+00:05:48,387 --> 00:05:51,264
+- Say hello to your Grandpa Joe.
+- Okay.
+
+51
+00:05:51,265 --> 00:05:56,265
+[BELL RINGING]
+
+52
+00:06:33,683 --> 00:06:36,017
+<i>MAN: Up the airy mountain.</i>
+
+53
+00:06:36,018 --> 00:06:38,436
+<i>Down the rushing g/en.</i>
+
+54
+00:06:38,437 --> 00:06:40,814
+<i>We dare not go a-hunting.</i>
+
+55
+00:06:40,815 --> 00:06:44,109
+<i>For fear of little men.</i>
+
+56
+00:06:44,110 --> 00:06:46,695
+You see...
+
+57
+00:06:46,696 --> 00:06:51,696
+nobody ever goes in...
+
+58
+00:06:52,118 --> 00:06:57,118
+and nobody ever comes out.
+
+59
+00:07:04,630 --> 00:07:06,298
+Charlie's late.
+
+60
+00:07:06,299 --> 00:07:09,217
+He works too hard, for a little boy.
+
+61
+00:07:09,218 --> 00:07:11,553
+He should have some time to play.
+
+62
+00:07:11,554 --> 00:07:13,722
+Not enough hours in the day.
+
+63
+00:07:13,723 --> 00:07:16,141
+With you four bedridden
+the last 20 years...
+
+64
+00:07:16,142 --> 00:07:19,227
+it takes a lot of work
+to keep this family going.
+
+65
+00:07:19,228 --> 00:07:21,730
+If only his father were alive.
+
+66
+00:07:21,731 --> 00:07:25,567
+When I get my strength back,
+I'll get out of bed to help him.
+
+67
+00:07:25,568 --> 00:07:29,154
+In all the years
+you've been saying that...
+
+68
+00:07:29,155 --> 00:07:33,158
+I've yet to see you
+set foot on the floor.
+
+69
+00:07:33,159 --> 00:07:36,995
+Maybe if the floor wasn't so cold...
+
+70
+00:07:36,996 --> 00:07:39,247
+Hi, everybody!
+
+71
+00:07:39,248 --> 00:07:43,168
+Wake up, Charlie's home!
+
+72
+00:07:43,169 --> 00:07:46,171
+Grandpa George.
+
+73
+00:07:46,172 --> 00:07:48,173
+Grandma Georgina.
+
+74
+00:07:48,174 --> 00:07:51,092
+Grandma Josephine.
+
+75
+00:07:51,093 --> 00:07:55,513
+Grandpa Joe!
+
+76
+00:07:55,514 --> 00:07:57,682
+Is this your supper, Grandpa?
+
+77
+00:07:57,683 --> 00:07:59,684
+It's yours too.
+
+78
+00:07:59,685 --> 00:08:02,604
+I'm fed up with cabbage water.
+It's not enough!
+
+79
+00:08:02,605 --> 00:08:06,942
+GEORGINA: It's all we have!
+JOE: What are you saying?
+
+80
+00:08:06,943 --> 00:08:09,361
+- How about this?
+- Where did you get that?
+
+81
+00:08:09,362 --> 00:08:13,031
+What difference
+does it make where? He got it.
+
+82
+00:08:13,032 --> 00:08:14,449
+My first payday-
+
+83
+00:08:14,450 --> 00:08:17,452
+Good for you, Charlie.
+We'll have a real banquet.
+
+84
+00:08:17,453 --> 00:08:18,954
+Mom?
+
+85
+00:08:18,955 --> 00:08:22,624
+Here's what's left. You keep it.
+
+86
+00:08:22,625 --> 00:08:24,459
+Except for this.
+
+87
+00:08:24,460 --> 00:08:28,463
+From now on,
+I'm paying for your tobacco.
+
+88
+00:08:28,464 --> 00:08:32,592
+No one's going to pay for it.
+I'm giving it up.
+
+89
+00:08:32,593 --> 00:08:34,719
+Dad, it's only one pipe a day.
+
+90
+00:08:34,720 --> 00:08:38,306
+When bread looks like a banquet,
+I have no right buying tobacco.
+
+91
+00:08:38,307 --> 00:08:40,475
+Go on, Grandpa.
+
+92
+00:08:40,476 --> 00:08:45,476
+Please take it.
+
+93
+00:08:48,985 --> 00:08:52,821
+CHARLIE: After my paper route,
+I was in front of Wonka's.
+
+94
+00:08:52,822 --> 00:08:55,907
+There was this strange man there.
+
+95
+00:08:55,908 --> 00:08:57,826
+I think he was a tinker.
+
+96
+00:08:57,827 --> 00:09:01,413
+He was standing behind me
+looking at the factory.
+
+97
+00:09:01,414 --> 00:09:03,748
+Just before he left, he said:
+
+98
+00:09:03,749 --> 00:09:07,252
+"Nobody ever goes in,
+and nobody ever comes out."
+
+99
+00:09:07,253 --> 00:09:09,504
+And right he was, Charlie.
+
+100
+00:09:09,505 --> 00:09:12,340
+Not since the tragic day
+Willy Wonka looked it.
+
+101
+00:09:12,341 --> 00:09:13,675
+Why'd he lock it?
+
+102
+00:09:13,676 --> 00:09:17,178
+Because all the other chocolate makers
+were sending spies...
+
+103
+00:09:17,179 --> 00:09:20,849
+dressed as workers to steal
+Mr. Wonka's secret recipes.
+
+104
+00:09:20,850 --> 00:09:25,353
+Especially Slugworth.
+Oh, that Slugworth was the worst!
+
+105
+00:09:25,354 --> 00:09:28,189
+Finally, Mr. Wonka shouted,
+"I'll be ruined!
+
+106
+00:09:28,190 --> 00:09:32,277
+Close the factory!"
+And that's just what he did.
+
+107
+00:09:32,278 --> 00:09:36,114
+He looked the gates
+and vanished completely.
+
+108
+00:09:36,115 --> 00:09:39,200
+And then, suddenly,
+about three years later...
+
+109
+00:09:39,201 --> 00:09:41,953
+the most amazing thing happened.
+
+110
+00:09:41,954 --> 00:09:44,789
+The factory started working again,
+full blast!
+
+111
+00:09:44,790 --> 00:09:48,376
+And more delicious candies
+were coming out than ever.
+
+112
+00:09:48,377 --> 00:09:51,713
+But the gates stayed looked
+so that no one...
+
+113
+00:09:51,714 --> 00:09:54,632
+not even Slugworth,
+could steal them.
+
+114
+00:09:54,633 --> 00:09:58,887
+But Grandpa, someone must be helping
+Mr. Wonka work the factory.
+
+115
+00:09:58,888 --> 00:10:00,847
+Thousands must be.
+
+116
+00:10:00,848 --> 00:10:02,057
+But who?
+
+117
+00:10:02,058 --> 00:10:04,225
+Who are they?
+
+118
+00:10:04,226 --> 00:10:09,226
+That is the biggest mystery
+of them all.
+
+119
+00:10:09,523 --> 00:10:10,315
+- Charlie Bucket?
+CHARLIE: Yes, Mr. Turkentine?
+
+120
+00:10:10,316 --> 00:10:11,900
+- Charlie Bucket?
+CHARLIE: Yes, Mr. Turkentine?
+
+121
+00:10:11,901 --> 00:10:16,901
+I need an assistant.
+Give me a hand.
+
+122
+00:10:17,281 --> 00:10:19,324
+We have nitric acid, glycerine...
+
+123
+00:10:19,325 --> 00:10:21,659
+and a special mixture of my own.
+
+124
+00:10:21,660 --> 00:10:24,662
+Together it's dangerous stuff,
+blows you up.
+
+125
+00:10:24,663 --> 00:10:28,917
+But mixed together right,
+as only I know how, what's it make?
+
+126
+00:10:28,918 --> 00:10:32,170
+- I don't know.
+- Of course not. Only I know.
+
+127
+00:10:32,171 --> 00:10:35,924
+If you knew, you'd be teaching me
+instead of me teaching you.
+
+128
+00:10:35,925 --> 00:10:40,678
+And for a student to teach his teacher
+is presumptuous. Is that clear?
+
+129
+00:10:40,679 --> 00:10:42,138
+- CHARLIE: Yes, sir.
+- Good.
+
+130
+00:10:42,139 --> 00:10:43,306
+[CHILDREN GIGGLING]
+
+131
+00:10:43,307 --> 00:10:46,434
+Mixed together in the right way,
+these dangerous ingredients...
+
+132
+00:10:46,435 --> 00:10:49,354
+make the finest wart remover
+in the world.
+
+133
+00:10:49,355 --> 00:10:52,232
+The trick is to pour equal amounts.
+
+134
+00:10:52,233 --> 00:10:55,693
+Charlie, you take
+the nitric acid and glycerine...
+
+135
+00:10:55,694 --> 00:10:58,738
+and I'll take my special mixture.
+Ready?
+
+136
+00:10:58,739 --> 00:11:01,157
+Good lad. Pour.
+
+137
+00:11:01,158 --> 00:11:02,367
+[EXPLOSION]
+
+138
+00:11:02,368 --> 00:11:03,535
+[CHEERING]
+
+139
+00:11:03,536 --> 00:11:04,702
+Did we do it wrong?
+
+140
+00:11:04,703 --> 00:11:08,248
+Certainly not.
+This is for big warts.
+
+141
+00:11:08,249 --> 00:11:10,708
+What's going on out there?
+
+142
+00:11:10,709 --> 00:11:12,752
+[CHATTERING]
+
+143
+00:11:12,753 --> 00:11:15,255
+Come here. What's happening?
+
+144
+00:11:15,256 --> 00:11:17,882
+Willy Wonka's opening his factory!
+
+145
+00:11:17,883 --> 00:11:19,217
+Are you sure?
+
+146
+00:11:19,218 --> 00:11:21,553
+He's giving lots of chocolate away!
+
+147
+00:11:21,554 --> 00:11:24,722
+- Class dismissed!
+- It's only for 5 people!
+
+148
+00:11:24,723 --> 00:11:26,599
+Class un-dismissed.
+
+149
+00:11:26,600 --> 00:11:29,727
+He hid five Golden Tickets.
+Whoever finds them wins the prize.
+
+150
+00:11:29,728 --> 00:11:33,398
+- Where did he hide them?
+- Inside five Wonka Bars.
+
+151
+00:11:33,399 --> 00:11:34,149
+- You gotta buy bars to find them!
+- Class re-dismissed!
+
+152
+00:11:34,150 --> 00:11:36,985
+- You gotta buy bars to find them!
+- Class re-dismissed!
+
+153
+00:11:36,986 --> 00:11:39,028
+BOY 1: I'll meet you downstairs!
+
+154
+00:11:39,029 --> 00:11:44,029
+BOY 2:
+I'm gonna buy the whole store!
+
+155
+00:11:46,954 --> 00:11:49,247
+MAN <i>[ON TV]:
+Now, details on the announcement...</i>
+
+156
+00:11:49,248 --> 00:11:52,125
+that has captured
+the world's attention.
+
+157
+00:11:52,126 --> 00:11:54,794
+Hidden among the billions
+of Wonka Bars...
+
+158
+00:11:54,795 --> 00:11:56,921
+are five gold tickets.
+
+159
+00:11:56,922 --> 00:12:01,467
+To the five people who find them will
+come the most fabulous prize ever:
+
+160
+00:12:01,468 --> 00:12:03,970
+A lifetime supply of chocolate.
+
+161
+00:12:03,971 --> 00:12:07,932
+<i>If this were not enough, each winner,
+before receiving his prize...</i>
+
+162
+00:12:07,933 --> 00:12:09,934
+will be personally escorted...
+
+163
+00:12:09,935 --> 00:12:11,477
+They're all crazy.
+
+164
+00:12:11,478 --> 00:12:12,979
+Shh. The man's a genius.
+
+165
+00:12:12,980 --> 00:12:15,815
+He'll sell a million bars.
+
+166
+00:12:15,816 --> 00:12:18,651
+Do you think I've got a Chance
+to find one?
+
+167
+00:12:18,652 --> 00:12:21,613
+One? I'm counting on you
+to find all five!
+
+168
+00:12:21,614 --> 00:12:23,114
+One's enough for me.
+
+169
+00:12:23,115 --> 00:12:24,490
+MAN [ON TV]: We <i>have</i> reports...
+
+170
+00:12:24,491 --> 00:12:29,329
+<i>that the response is phenomenal.
+Wonka Bars are selling...</i>
+
+171
+00:12:29,330 --> 00:12:31,789
+<i>at a rate to boggle the mind.</i>
+
+172
+00:12:31,790 --> 00:12:33,458
+<i>It is incredible...</i>
+
+173
+00:12:33,459 --> 00:12:36,461
+the <i>way Wonkamania
+has descended upon the globe.</i>
+
+174
+00:12:36,462 --> 00:12:40,173
+<i>While the world searches,
+we watch and wait, wondering...</i>
+
+175
+00:12:40,174 --> 00:12:44,010
+<i>where it will lead, and how long
+the spirit of man will hold</i> up...
+
+176
+00:12:44,011 --> 00:12:45,303
+<i>under the strain.</i>
+
+177
+00:12:45,304 --> 00:12:49,641
+I still have these dreams, doctor.
+And I still can't stop believing them.
+
+178
+00:12:49,642 --> 00:12:51,684
+I've told you, Mr. Hoffstedder...
+
+179
+00:12:51,685 --> 00:12:54,687
+to believe in dreams
+is a manifestation of insanity.
+
+180
+00:12:54,688 --> 00:12:58,149
+The sooner you accept this,
+the sooner you'll get well.
+
+181
+00:12:58,150 --> 00:13:03,150
+I dreamed the Archangel whispered into
+my ear where to find a Golden Ticket.
+
+182
+00:13:03,822 --> 00:13:05,365
+What did he say?
+
+183
+00:13:05,366 --> 00:13:08,701
+What difference does that make?
+This was a dream.
+
+184
+00:13:08,702 --> 00:13:12,163
+- You said...
+- Shut up! Where's the ticket?
+
+185
+00:13:12,164 --> 00:13:12,830
+We begin with five Golden Tickets.
+
+186
+00:13:12,831 --> 00:13:14,207
+We begin with five Golden Tickets.
+
+187
+00:13:14,208 --> 00:13:19,170
+Like five lucky bolts of lightning
+ready to strike any point on the map.
+
+188
+00:13:19,171 --> 00:13:22,215
+No one knew where or when
+the first one would hit.
+
+189
+00:13:22,216 --> 00:13:24,884
+But last night we got our answer.
+
+190
+00:13:24,885 --> 00:13:28,388
+While America slept,
+the first Golden Ticket was found...
+
+191
+00:13:28,389 --> 00:13:31,683
+in the small town of
+Duselheim, Germany.
+
+192
+00:13:31,684 --> 00:13:36,684
+We've been waiting for the story,
+and we're ready with a live report.
+
+193
+00:13:36,855 --> 00:13:39,899
+Proud we are,
+for the attention of the world...
+
+194
+00:13:39,900 --> 00:13:42,235
+focuses today here in Duselheim.
+
+195
+00:13:42,236 --> 00:13:44,904
+A community thrust into prominence...
+
+196
+00:13:44,905 --> 00:13:48,741
+by the discovery of
+the first Wonka Golden Ticket.
+
+197
+00:13:48,742 --> 00:13:51,911
+Its finder is the son
+of a prominent butcher.
+
+198
+00:13:51,912 --> 00:13:54,872
+The boys name, Augustus Gloop!
+
+199
+00:13:54,873 --> 00:13:59,873
+Augustus Gloop, the pride of
+Duselheim, the fame of Western Germany.
+
+200
+00:14:00,087 --> 00:14:03,089
+An example for the whole world.
+
+201
+00:14:03,090 --> 00:14:06,259
+How does it feel to be
+the first Golden Ticket finder?
+
+202
+00:14:06,260 --> 00:14:08,094
+- Hungm.
+- Any other feelings?
+
+203
+00:14:08,095 --> 00:14:11,556
+Sorry for Wonka.
+It'll cost him a fortune in fudge.
+
+204
+00:14:11,557 --> 00:14:14,475
+Mr. Gloop, would you mind...
+
+205
+00:14:14,476 --> 00:14:18,062
+Mrs. Gloop, would you say
+a few words to the audience?
+
+206
+00:14:18,063 --> 00:14:22,108
+I knew he would find a Golden Ticket.
+Eating is his hobby.
+
+207
+00:14:22,109 --> 00:14:27,109
+He wouldn't do it unless
+he needed the nourishment.
+
+208
+00:14:28,289 --> 00:14:29,449
+ALL: Happy birthday, Charlie!
+
+209
+00:14:29,450 --> 00:14:32,785
+ALL: Happy birthday, Charlie!
+
+210
+00:14:32,786 --> 00:14:34,287
+Here you are, Charlie.
+
+211
+00:14:34,288 --> 00:14:39,288
+Thank you.
+
+212
+00:14:42,421 --> 00:14:43,629
+It's terrific!
+
+213
+00:14:43,630 --> 00:14:47,091
+We each knitted a bit: Grandmas
+Georgina and Josephine, and me.
+
+214
+00:14:47,092 --> 00:14:49,802
+I did the end pieces with the tassels.
+
+215
+00:14:49,803 --> 00:14:53,306
+And here's a little gift
+from Grandpa George and me.
+
+216
+00:14:53,307 --> 00:14:56,642
+I think I know what this is.
+
+217
+00:14:56,643 --> 00:14:59,479
+- It is! A Wonka!
+JOE: Open it, Charlie.
+
+218
+00:14:59,480 --> 00:15:00,980
+Let's see that Golden Ticket.
+
+219
+00:15:00,981 --> 00:15:03,816
+- Wouldn't it be fantastic?
+- It's not fair to raise his hopes.
+
+220
+00:15:03,817 --> 00:15:06,819
+Never mind. Open it.
+I want to see that gold!
+
+221
+00:15:06,820 --> 00:15:08,279
+MRS. BUCKET: Stop it.
+
+222
+00:15:08,280 --> 00:15:11,824
+- I've got the same Chance as anybody.
+JOE: You've got more.
+
+223
+00:15:11,825 --> 00:15:13,618
+You want it more.
+
+224
+00:15:13,619 --> 00:15:15,161
+Go on, open it!
+
+225
+00:15:15,162 --> 00:15:19,624
+Here goes.
+
+226
+00:15:19,625 --> 00:15:21,459
+- I got it!
+- Where?
+
+227
+00:15:21,460 --> 00:15:22,794
+Let's see!
+
+228
+00:15:22,795 --> 00:15:24,837
+Fooled you, didn't I?
+
+229
+00:15:24,838 --> 00:15:28,299
+You thought I really had it.
+
+230
+00:15:28,300 --> 00:15:30,468
+Never mind, Charlie.
+
+231
+00:15:30,469 --> 00:15:32,804
+You'll find one.
+
+232
+00:15:32,805 --> 00:15:35,973
+- Here, everybody have a bite.
+- No, no!
+
+233
+00:15:35,974 --> 00:15:40,974
+JOSEPHINE: No, no, no.
+GEORGE: No.
+
+234
+00:15:47,903 --> 00:15:50,905
+GIRL: <i>I wanted to be the first
+to find</i> a <i>Golden Ticket, Daddy!</i>
+
+235
+00:15:50,906 --> 00:15:54,325
+MAN: <i>I know, angel.
+We're doing the best we can.</i>
+
+236
+00:15:54,326 --> 00:15:57,245
+I've got every girl on staff
+hunting for you.
+
+237
+00:15:57,246 --> 00:15:59,664
+Where is it?
+Why can't they find it?
+
+238
+00:15:59,665 --> 00:16:03,251
+Veruca, sweetheart,
+I'm not a magician!
+
+239
+00:16:03,252 --> 00:16:04,502
+Give me time!
+
+240
+00:16:04,503 --> 00:16:07,839
+I want it now!
+What's the matter with those twerps?
+
+241
+00:16:07,840 --> 00:16:11,509
+For five days now,
+the entire factory's been on the job!
+
+242
+00:16:11,510 --> 00:16:14,429
+They haven't shelled a peanut
+since Monday!
+
+243
+00:16:14,430 --> 00:16:18,141
+They've been shelling
+chocolate bars from dawn to dusk!
+
+244
+00:16:18,142 --> 00:16:21,477
+Make them work nights!
+
+245
+00:16:21,478 --> 00:16:23,479
+Come along, you girls!
+
+246
+00:16:23,480 --> 00:16:26,566
+Put a jerk in it,
+or you'll be out on your ears!
+
+247
+00:16:26,567 --> 00:16:28,484
+And listen, the first girl...
+
+248
+00:16:28,485 --> 00:16:33,156
+that finds a Golden Ticket gets
+a one-pound bonus in her pay packet!
+
+249
+00:16:33,157 --> 00:16:35,366
+What do you think of that?!
+
+250
+00:16:35,367 --> 00:16:36,909
+[CHEERING]
+
+251
+00:16:36,910 --> 00:16:38,578
+VERUCA: They're not even trying!
+
+252
+00:16:38,579 --> 00:16:41,164
+They don't want to find it!
+They're jealous!
+
+253
+00:16:41,165 --> 00:16:43,583
+Sweetheart,
+I can't push them no harder.
+
+254
+00:16:43,584 --> 00:16:46,085
+Nineteen thousand bars
+an hour they're shelling.
+
+255
+00:16:46,086 --> 00:16:48,671
+Seven hundred and sixty thousand
+they've done so far!
+
+256
+00:16:48,672 --> 00:16:49,922
+You promised!
+
+257
+00:16:49,923 --> 00:16:52,758
+You promised I'd have it
+the first day!
+
+258
+00:16:52,759 --> 00:16:56,888
+You're going to be very unpopular
+if you don't deliver soon.
+
+259
+00:16:56,889 --> 00:17:00,349
+It breaks my heart.
+I hate to see her unhappy.
+
+260
+00:17:00,350 --> 00:17:02,101
+I won't talk to you!
+
+261
+00:17:02,102 --> 00:17:05,605
+You're a rotten father!
+You never give me anything!
+
+262
+00:17:05,606 --> 00:17:07,607
+I won't go to school!
+
+263
+00:17:07,608 --> 00:17:10,526
+Veruca, sweetheart, angel.
+
+264
+00:17:10,527 --> 00:17:13,362
+There are only four tickets
+left in the world...
+
+265
+00:17:13,363 --> 00:17:16,199
+and the whole world's
+hunting for them!
+
+266
+00:17:16,200 --> 00:17:18,284
+- What can I do?
+WOMAN: L got it!
+
+267
+00:17:18,285 --> 00:17:22,538
+I got it, Mr. Salt! Here it is!
+
+268
+00:17:22,539 --> 00:17:27,539
+VERUCA:
+About time too! I want it!
+
+269
+00:17:30,422 --> 00:17:33,591
+Give me that ticket! It's mine!
+
+270
+00:17:33,592 --> 00:17:38,592
+I found the Golden Ticket!
+
+271
+00:17:41,767 --> 00:17:43,017
+Thank God for that.
+
+272
+00:17:43,018 --> 00:17:46,354
+Aye. Happiness is what counts
+with children.
+
+273
+00:17:46,355 --> 00:17:49,732
+Happiness and harmony.
+
+274
+00:17:49,733 --> 00:17:50,525
+MAN: This is the sign of our times.
+The symbol of the havoc...
+
+275
+00:17:50,526 --> 00:17:53,861
+MAN: This is the sign of our times.
+The symbol of the havoc...
+
+276
+00:17:53,862 --> 00:17:56,781
+the mad craze
+that's sweeping the world.
+
+277
+00:17:56,782 --> 00:18:01,118
+Whatever corner of the globe we are
+in, whichever continent we're on...
+
+278
+00:18:01,119 --> 00:18:04,956
+the great Wonka Bar search
+continues. We're near the end...
+
+279
+00:18:04,957 --> 00:18:08,668
+of <i>our 43rd day
+in the Golden Ticket hunt.</i>
+
+280
+00:18:08,669 --> 00:18:11,879
+<i>Everywhere are signs of anxiety.</i>
+
+281
+00:18:11,880 --> 00:18:13,214
+<i>Every hour...</i>
+
+282
+00:18:13,215 --> 00:18:16,217
+<i>new shipments
+are sent around the globe...</i>
+
+283
+00:18:16,218 --> 00:18:18,469
+<i>but they're not moving fast enough.</i>
+
+284
+00:18:18,470 --> 00:18:23,057
+As <i>time passes, the men who seek them
+become more and more desperate.</i>
+
+285
+00:18:23,058 --> 00:18:27,395
+Gentlemen, I know how anxious you've
+been during these last few days.
+
+286
+00:18:27,396 --> 00:18:29,981
+But now I think I can safely say...
+
+287
+00:18:29,982 --> 00:18:33,150
+that your time and money
+have been well spent.
+
+288
+00:18:33,151 --> 00:18:37,113
+We're about to witness the
+greatest miracle of the machine age.
+
+289
+00:18:37,114 --> 00:18:41,158
+Based on a revolutionary
+law of probability, this machine...
+
+290
+00:18:41,159 --> 00:18:45,663
+will tell us the precise location
+of the three remaining...
+
+291
+00:18:45,664 --> 00:18:50,664
+Golden Tickets.
+
+292
+00:18:51,837 --> 00:18:54,213
+[WHIRRING]
+
+293
+00:18:54,214 --> 00:18:55,923
+[BELL DINGS]
+
+294
+00:18:55,924 --> 00:18:57,216
+Itsaysz.
+
+295
+00:18:57,217 --> 00:19:02,217
+"I won't tell.
+That would be cheating."
+
+296
+00:19:06,268 --> 00:19:08,769
+I am now telling the computer...
+
+297
+00:19:08,770 --> 00:19:13,024
+if it will tell me the correct
+answer, I will gladly share with it...
+
+298
+00:19:13,025 --> 00:19:17,778
+the grand prize.
+
+299
+00:19:17,779 --> 00:19:19,238
+[BELL DINGS]
+
+300
+00:19:19,239 --> 00:19:20,448
+He says:
+
+301
+00:19:20,449 --> 00:19:25,244
+"What would a computer do
+with a lifetime supply of chocolate?"
+
+302
+00:19:25,245 --> 00:19:29,206
+[LAUGHS NERVOUSLY]
+
+303
+00:19:29,207 --> 00:19:34,207
+I am now telling the computer exactly
+what he can do with the chocolate.
+
+304
+00:19:36,548 --> 00:19:37,214
+MAN <i>[ON TV]: Lt can happen here too,
+unbelievable as it Sounds...</i>
+
+305
+00:19:37,215 --> 00:19:39,967
+MAN <i>[ON TV]: Lt can happen here too,
+unbelievable as it Sounds...</i>
+
+306
+00:19:39,968 --> 00:19:41,802
+<i>right here in America.</i>
+
+307
+00:19:41,803 --> 00:19:46,599
+<i>Where even in the smallest town,
+the happiest of dreams can come true.</i>
+
+308
+00:19:46,600 --> 00:19:48,225
+Here she is...
+
+309
+00:19:48,226 --> 00:19:52,146
+<i>Violet Beauregarde,
+finder of Golden Ticket number three.</i>
+
+310
+00:19:52,147 --> 00:19:54,065
+<i>From Miles City, Montana.</i>
+
+311
+00:19:54,066 --> 00:19:55,650
+<i>And the proud parents...</i>
+
+312
+00:19:55,651 --> 00:19:59,070
+Mr. <i>Beauregarde,</i>
+a <i>local politician, civic leader...</i>
+
+313
+00:19:59,071 --> 00:20:01,405
+<i>Sam Beauregarde,
+"Square Deal" Sam to you...</i>
+
+314
+00:20:01,406 --> 00:20:03,574
+<i>with great giveaway bargains.</i>
+
+315
+00:20:03,575 --> 00:20:06,160
+<i>The finest Values
+in the entire country!</i>
+
+316
+00:20:06,161 --> 00:20:08,496
+<i>- Here 's</i> a <i>sedan...
+- Dad, they don't want you!</i>
+
+317
+00:20:08,497 --> 00:20:10,581
+<i>- Care to say</i> a <i>few words?
+- Sure!</i>
+
+318
+00:20:10,582 --> 00:20:13,292
+<i>Here's Golden Ticket number three,
+and it's all mine!</i>
+
+319
+00:20:13,293 --> 00:20:15,086
+MAN <i>[ON TV]:
+How'd it happen, Violet?</i>
+
+320
+00:20:15,087 --> 00:20:18,005
+<i>I'm a gum chewer,
+but when I heard about the tickets...</i>
+
+321
+00:20:18,006 --> 00:20:20,716
+I <i>laid off gum
+and switched to Candy bars.</i>
+
+322
+00:20:20,717 --> 00:20:22,927
+<i>Now, of course, I'm back on gum.</i>
+
+323
+00:20:22,928 --> 00:20:25,930
+<i>I chew all day, except meals
+when I stick it behind my ear.</i>
+
+324
+00:20:25,931 --> 00:20:27,682
+WOMAN: <i>Violet!
+- Coo/ it, Mother!</i>
+
+325
+00:20:27,683 --> 00:20:32,683
+<i>This piece of gum, I've been chewing
+for three months. A world record!</i>
+
+326
+00:20:32,771 --> 00:20:36,190
+<i>It beat the record
+held by my friend, Cornelia...</i>
+
+327
+00:20:36,191 --> 00:20:38,192
+<i>and was she mad.</i>
+
+328
+00:20:38,193 --> 00:20:39,860
+<i>Hi, Cornelia, sweetie.</i>
+
+329
+00:20:39,861 --> 00:20:44,861
+<i>Let me just say,
+if any of you folks watching...</i>
+
+330
+00:20:51,790 --> 00:20:54,291
+[DOOR CLOSES]
+
+331
+00:20:54,292 --> 00:20:57,878
+- What are you doing here?
+- I thought I'd walk you home.
+
+332
+00:20:57,879 --> 00:21:01,215
+I wish I were,
+but I'm gonna be here late.
+
+333
+00:21:01,216 --> 00:21:04,051
+Well, then I guess I'll be going.
+
+334
+00:21:04,052 --> 00:21:05,970
+Why don't you stay a minute?
+
+335
+00:21:05,971 --> 00:21:10,971
+Here. Pull up a pile of Clothes
+and sit down.
+
+336
+00:21:11,643 --> 00:21:13,394
+Things all right at school?
+
+337
+00:21:13,395 --> 00:21:16,313
+- Yep.
+- Good.
+
+338
+00:21:16,314 --> 00:21:18,107
+Go on your newspaper route?
+
+339
+00:21:18,108 --> 00:21:19,316
+Just finished.
+
+340
+00:21:19,317 --> 00:21:23,070
+Good.
+
+341
+00:21:23,071 --> 00:21:27,992
+- I wanted to tell you something.
+- Oh?
+
+342
+00:21:27,993 --> 00:21:29,910
+They found the third ticket.
+
+343
+00:21:29,911 --> 00:21:31,495
+Did they?
+
+344
+00:21:31,496 --> 00:21:34,915
+Yeah.
+
+345
+00:21:34,916 --> 00:21:37,918
+I guess I'll be going now.
+
+346
+00:21:37,919 --> 00:21:40,337
+Is that all?
+
+347
+00:21:40,338 --> 00:21:42,423
+I thought you'd like to know.
+
+348
+00:21:42,424 --> 00:21:46,260
+Most people are pretty interested.
+I know I'm interested.
+
+349
+00:21:46,261 --> 00:21:49,680
+There are only two tickets left,
+you know. Just two.
+
+350
+00:21:49,681 --> 00:21:51,348
+Pretty soon, just one.
+
+351
+00:21:51,349 --> 00:21:53,601
+I wonder who the lucky ones will be.
+
+352
+00:21:53,602 --> 00:21:56,103
+If you're wondering,
+it won't be me.
+
+353
+00:21:56,104 --> 00:21:58,939
+If you're wondering,
+you can count me out.
+
+354
+00:21:58,940 --> 00:22:00,191
+Charlie.
+
+355
+00:22:00,192 --> 00:22:02,526
+There are 100 billion people...
+
+356
+00:22:02,527 --> 00:22:05,863
+and only five will find
+Golden Tickets.
+
+357
+00:22:05,864 --> 00:22:09,283
+Even with a sack of money,
+you probably wouldn't find one.
+
+358
+00:22:09,284 --> 00:22:14,121
+When this is over you'll be no
+different from the billions who didn't.
+
+359
+00:22:14,122 --> 00:22:18,042
+But I am different.
+I want it more than any of them.
+
+360
+00:22:18,043 --> 00:22:21,545
+You'll get your Chance.
+One day things will change.
+
+361
+00:22:21,546 --> 00:22:24,131
+When? When will they change?
+
+362
+00:22:24,132 --> 00:22:29,132
+Probably when you least expect it.
+
+363
+00:22:29,679 --> 00:22:34,679
+See you later.
+
+364
+00:22:44,653 --> 00:22:49,490
+<i>[SINGING]
+You get blue like everyone.</i>
+
+365
+00:22:49,491 --> 00:22:53,077
+<i>But me and Grandpa Joe.</i>
+
+366
+00:22:53,078 --> 00:22:57,540
+<i>Can make your troubles go away.</i>
+
+367
+00:22:57,541 --> 00:23:00,876
+<i>Blow away.</i>
+
+368
+00:23:00,877 --> 00:23:05,506
+<i>There they go.</i>
+
+369
+00:23:05,507 --> 00:23:09,093
+<i>Cheer up, Charlie.</i>
+
+370
+00:23:09,094 --> 00:23:12,012
+<i>Give me your smile.</i>
+
+371
+00:23:12,013 --> 00:23:17,013
+<i>What happened to that smile
+I used to know.</i>
+
+372
+00:23:18,687 --> 00:23:21,021
+<i>Don't you know your grin.</i>
+
+373
+00:23:21,022 --> 00:23:25,651
+<i>Has always been my Sunshine.</i>
+
+374
+00:23:25,652 --> 00:23:30,652
+<i>Let that Sunshine show.</i>
+
+375
+00:23:31,783 --> 00:23:35,619
+<i>Come on, Charlie.</i>
+
+376
+00:23:35,620 --> 00:23:38,789
+<i>No need to frown.</i>
+
+377
+00:23:38,790 --> 00:23:43,790
+<i>Deep down you know
+The world is still your toy.</i>
+
+378
+00:23:45,797 --> 00:23:50,797
+<i>When the world gets heavy
+Never pitapat 'em.</i>
+
+379
+00:23:52,137 --> 00:23:57,137
+<i>Up and at 'em, boy.</i>
+
+380
+00:23:58,226 --> 00:24:00,811
+<i>Someda y.</i>
+
+381
+00:24:00,812 --> 00:24:03,814
+<i>Sweet as</i> a <i>song.</i>
+
+382
+00:24:03,815 --> 00:24:08,815
+<i>Charlie's lucky day will come along.</i>
+
+383
+00:24:10,155 --> 00:24:15,155
+<i>Till that day
+You gotta stay in strong, Charlie.</i>
+
+384
+00:24:17,162 --> 00:24:22,162
+<i>Up on top
+ls right where you belong.</i>
+
+385
+00:24:24,336 --> 00:24:28,088
+<i>Look up, Charlie.</i>
+
+386
+00:24:28,089 --> 00:24:31,258
+<i>You'll see</i> a <i>star.</i>
+
+387
+00:24:31,259 --> 00:24:36,259
+<i>Just follow it
+And keep your dream in view.</i>
+
+388
+00:24:38,350 --> 00:24:43,350
+<i>Pretty soon the sky
+ls gonna clear up, Charlie.</i>
+
+389
+00:24:45,857 --> 00:24:50,857
+<i>Cheer up, Charlie, do.</i>
+
+390
+00:24:52,447 --> 00:24:56,951
+<i>Cheer up, Charlie.</i>
+
+391
+00:24:56,952 --> 00:25:01,952
+<i>Just be glad you're you</i>
+
+392
+00:25:09,005 --> 00:25:09,797
+[GUNSHOTS ON TV]
+
+393
+00:25:09,798 --> 00:25:10,422
+[GUNSHOTS ON TV]
+
+394
+00:25:10,423 --> 00:25:12,299
+REPORTER 1:
+While the world searches...
+
+395
+00:25:12,300 --> 00:25:14,551
+here it has actually happened.
+
+396
+00:25:14,552 --> 00:25:18,639
+There's only one Golden Ticket
+left in the entire world.
+
+397
+00:25:18,640 --> 00:25:22,309
+Because right here,
+in Marble Falls, Arizona...
+
+398
+00:25:22,310 --> 00:25:24,311
+is lucky winner number four!
+
+399
+00:25:24,312 --> 00:25:28,315
+The name to be heard around the
+universe is Mr. Mike Teevee!
+
+400
+00:25:28,316 --> 00:25:31,568
+- Hey, Mike, can we shut that off?
+- No, are you crazy?
+
+401
+00:25:31,569 --> 00:25:33,320
+MRS. TEEVEE:
+He won't answer till station break.
+
+402
+00:25:33,321 --> 00:25:35,572
+REPORTER 1:
+The country wants to hear from you!
+
+403
+00:25:35,573 --> 00:25:37,908
+Can't you shut up? I'm busy.
+
+404
+00:25:37,909 --> 00:25:39,243
+What a show.
+
+405
+00:25:39,244 --> 00:25:41,245
+I serve all his dinners here.
+
+406
+00:25:41,246 --> 00:25:43,288
+He's never been to the table.
+
+407
+00:25:43,289 --> 00:25:44,915
+- You love TV?
+- You bet!
+
+408
+00:25:44,916 --> 00:25:46,750
+About that Golden Ticket...
+
+409
+00:25:46,751 --> 00:25:48,335
+I want to catch this!
+
+410
+00:25:48,336 --> 00:25:51,505
+REPORTER 2: Like killings?
+- What do you think life's all about?
+
+411
+00:25:51,506 --> 00:25:54,925
+REPORTER 1:
+Mike, would you tell us if...
+
+412
+00:25:54,926 --> 00:25:56,593
+Wait till I get a real one.
+
+413
+00:25:56,594 --> 00:25:57,928
+Colt .45.
+
+414
+00:25:57,929 --> 00:26:00,347
+Pop won't let me have one yet,
+will you?
+
+415
+00:26:00,348 --> 00:26:05,348
+Not till you're 12, son.
+
+416
+00:26:08,857 --> 00:26:10,941
+Four down, one to go.
+
+417
+00:26:10,942 --> 00:26:15,279
+Somewhere out there another
+lucky person is moving closer...
+
+418
+00:26:15,280 --> 00:26:20,280
+to finding the last of the most
+sought after prizes in history.
+
+419
+00:26:20,535 --> 00:26:23,370
+Though we do envy him,
+whoever he is...
+
+420
+00:26:23,371 --> 00:26:26,540
+and might be tempted
+to be bitter at our losing...
+
+421
+00:26:26,541 --> 00:26:29,710
+we must remember there are
+more important things.
+
+422
+00:26:29,711 --> 00:26:32,546
+Many more important things.
+
+423
+00:26:32,547 --> 00:26:36,508
+Offhand, I can't think of what they
+are, but I'm sure there's something.
+
+424
+00:26:36,509 --> 00:26:39,970
+And now for tomorrow's weather...
+
+425
+00:26:39,971 --> 00:26:44,971
+CHARLIE: Why did you wake me up,
+Grandpa? Is something wrong?
+
+426
+00:26:49,564 --> 00:26:51,982
+Grandpa!
+That money was for tobacco.
+
+427
+00:26:51,983 --> 00:26:54,401
+I told you, I've given it up.
+
+428
+00:26:54,402 --> 00:26:55,903
+Go on, open it!
+
+429
+00:26:55,904 --> 00:26:58,155
+One ticket left.
+Let's see that gold.
+
+430
+00:26:58,156 --> 00:27:01,575
+No, you do it. I can't.
+
+431
+00:27:01,576 --> 00:27:03,994
+We're going to be lucky this time.
+
+432
+00:27:03,995 --> 00:27:08,248
+I've got a funny feeling inside.
+
+433
+00:27:08,249 --> 00:27:11,752
+Which end shall I open first?
+
+434
+00:27:11,753 --> 00:27:15,589
+That end. Just a tiny bit.
+
+435
+00:27:15,590 --> 00:27:19,343
+- Like this?
+- Now a bit more.
+
+436
+00:27:19,344 --> 00:27:22,763
+- You finish it! I can't.
+- No, Grandpa! You do it.
+
+437
+00:27:22,764 --> 00:27:24,431
+All right.
+
+438
+00:27:24,432 --> 00:27:29,432
+Here goes.
+
+439
+00:27:32,190 --> 00:27:34,358
+You know...
+
+440
+00:27:34,359 --> 00:27:39,359
+I bet those Golden Tickets
+make the chocolate taste terrible.
+
+441
+00:27:43,868 --> 00:27:45,244
+[CHATTERING]
+
+442
+00:27:45,245 --> 00:27:48,622
+[BELL RINGS]
+
+443
+00:27:48,623 --> 00:27:50,958
+MAN: Lot 403.
+
+444
+00:27:50,959 --> 00:27:53,544
+I can personally guarantee...
+
+445
+00:27:53,545 --> 00:27:57,464
+that this is the absolutely
+last case of Wonka Bars...
+
+446
+00:27:57,465 --> 00:27:59,216
+left in the United Kingdom.
+
+447
+00:27:59,217 --> 00:28:03,720
+Shall we start the bidding at
+1000 pounds? Do I hear 1000?
+
+448
+00:28:03,721 --> 00:28:06,056
+1500 pounds? 2000?
+
+449
+00:28:06,057 --> 00:28:09,726
+I have 2500 here. 4000 pounds?
+
+450
+00:28:09,727 --> 00:28:11,395
+4500 pounds?
+
+451
+00:28:11,396 --> 00:28:13,230
+5000 pou...?
+
+452
+00:28:13,231 --> 00:28:18,231
+Your Majesty!
+
+453
+00:28:18,403 --> 00:28:20,112
+I'm sorry, Mrs. Curtis.
+
+454
+00:28:20,113 --> 00:28:22,739
+There isn't anything here
+to give a Clue.
+
+455
+00:28:22,740 --> 00:28:24,992
+They kidnapped my husband
+12 hours ago.
+
+456
+00:28:24,993 --> 00:28:27,244
+When will we hear?
+What do they want?
+
+457
+00:28:27,245 --> 00:28:31,415
+Stay calm. They want ransom.
+We'll wait to hear their demands.
+
+458
+00:28:31,416 --> 00:28:33,834
+I'll give them anything they want.
+
+459
+00:28:33,835 --> 00:28:35,836
+All I want is Harold back!
+
+460
+00:28:35,837 --> 00:28:40,837
+[PHONE RINGS]
+
+461
+00:28:41,092 --> 00:28:43,427
+Go ahead, we're listening.
+
+462
+00:28:43,428 --> 00:28:45,596
+Uh-huh.
+
+463
+00:28:45,597 --> 00:28:48,182
+Uh-huh.
+
+464
+00:28:48,183 --> 00:28:51,685
+What? Whatever they asked for
+they can have.
+
+465
+00:28:51,686 --> 00:28:56,686
+They want your case of Wonka Bars.
+
+466
+00:28:59,444 --> 00:29:01,945
+MAN: Did you hear me?
+
+467
+00:29:01,946 --> 00:29:06,116
+It's your husband's life
+or your Wonka Bars.
+
+468
+00:29:06,117 --> 00:29:09,953
+How long do I have to think it over?
+
+469
+00:29:09,954 --> 00:29:11,121
+That's it!
+
+470
+00:29:11,122 --> 00:29:13,790
+The Wonka Contest is all over.
+
+471
+00:29:13,791 --> 00:29:16,043
+The final ticket has been found.
+
+472
+00:29:16,044 --> 00:29:20,631
+We've got a live report coming
+in from Paraguay, South America.
+
+473
+00:29:20,632 --> 00:29:23,300
+<i>It is finished.
+The end has come.</i>
+
+474
+00:29:23,301 --> 00:29:26,220
+<i>The last Golden Ticket
+has been found...</i>
+
+475
+00:29:26,221 --> 00:29:27,804
+<i>right here in Paraguay.</i>
+
+476
+00:29:27,805 --> 00:29:30,974
+<i>The finder is /ucky
+Alberto Mino/ete...</i>
+
+477
+00:29:30,975 --> 00:29:34,978
+<i>the multi-millionaire owner
+of South American gambling Casinos.</i>
+
+478
+00:29:34,979 --> 00:29:39,858
+<i>Here is the most recent picture
+of the happy finder.</i>
+
+479
+00:29:39,859 --> 00:29:42,653
+Turn it off.
+
+480
+00:29:42,654 --> 00:29:44,821
+Well, that's that.
+
+481
+00:29:44,822 --> 00:29:46,573
+No more Golden Tickets.
+
+482
+00:29:46,574 --> 00:29:48,825
+A lot of rubbish, the whole thing.
+
+483
+00:29:48,826 --> 00:29:50,494
+Not to Charlie, it wasn't.
+
+484
+00:29:50,495 --> 00:29:55,495
+A boy needs something to hope for.
+What's he got to hope for now?
+
+485
+00:29:55,500 --> 00:29:57,834
+GEORGINA:
+Who's going to tell him?
+
+486
+00:29:57,835 --> 00:30:00,921
+MRS. BUCKET: Let's not wake him.
+He'll find out soon enough.
+
+487
+00:30:00,922 --> 00:30:02,589
+JOE: Yeah, let him sleep.
+
+488
+00:30:02,590 --> 00:30:07,590
+Let him have one last dream.
+
+489
+00:30:10,682 --> 00:30:12,766
+[CLEARS TH ROAT]
+
+490
+00:30:12,767 --> 00:30:15,769
+I've decided to switch
+Friday's schedule to Monday.
+
+491
+00:30:15,770 --> 00:30:19,606
+Which means Friday's test
+on what we learned during the week...
+
+492
+00:30:19,607 --> 00:30:22,109
+will now be on Monday,
+before we've learned it.
+
+493
+00:30:22,110 --> 00:30:24,778
+Since today's Tuesday,
+it doesn't matter.
+
+494
+00:30:24,779 --> 00:30:28,115
+Pencils ready!
+
+495
+00:30:28,116 --> 00:30:32,411
+Today, we are going to learn about...
+
+496
+00:30:32,412 --> 00:30:33,912
+percentages.
+
+497
+00:30:33,913 --> 00:30:37,541
+For example, let's take
+the recent unpleasantness.
+
+498
+00:30:37,542 --> 00:30:40,794
+Suppose there were
+1000 Wonka Bars in the world...
+
+499
+00:30:40,795 --> 00:30:44,798
+and you each opened
+a certain number of them.
+
+500
+00:30:44,799 --> 00:30:47,301
+That number is...
+
+501
+00:30:47,302 --> 00:30:49,886
+a percent. Understand?
+
+502
+00:30:49,887 --> 00:30:51,388
+[ALL MUMBLING]
+
+503
+00:30:51,389 --> 00:30:54,474
+Madeline, how many
+Wonka Bars did you open?
+
+504
+00:30:54,475 --> 00:30:55,892
+About 100.
+
+505
+00:30:55,893 --> 00:31:00,893
+There are 10 hundreds in 1000,
+therefore, you opened 10 percent.
+
+506
+00:31:01,316 --> 00:31:03,817
+Peter Goff, how many did you open?
+
+507
+00:31:03,818 --> 00:31:05,485
+A hundred and fifty.
+
+508
+00:31:05,486 --> 00:31:10,486
+That's 10 percent half over again,
+which makes 15 percent. Charlie?
+
+509
+00:31:10,491 --> 00:31:12,909
+- How many did you open?
+- Two.
+
+510
+00:31:12,910 --> 00:31:15,746
+That's easy. 200 is twice...
+
+511
+00:31:15,747 --> 00:31:17,664
+Not 200.
+
+512
+00:31:17,665 --> 00:31:19,333
+Just two.
+
+513
+00:31:19,334 --> 00:31:22,586
+What do you mean, you only opened two?
+
+514
+00:31:22,587 --> 00:31:24,755
+I don't care much for chocolate.
+
+515
+00:31:24,756 --> 00:31:26,840
+I can't figure out just two!
+
+516
+00:31:26,841 --> 00:31:29,176
+Let's pretend you opened 200.
+
+517
+00:31:29,177 --> 00:31:33,680
+If you opened 200 Wonka Bars,
+apart from being dreadfully sick...
+
+518
+00:31:33,681 --> 00:31:35,515
+you'd use 20 percent of 1000...
+
+519
+00:31:35,516 --> 00:31:40,516
+which is 15 percent half again,
+10 percent...
+
+520
+00:32:25,775 --> 00:32:27,275
+[CHARLIE CLEARS TH ROAT]
+
+521
+00:32:27,276 --> 00:32:29,820
+- Hi.
+- I'd like a bar of chocolate, please.
+
+522
+00:32:29,821 --> 00:32:31,446
+Yeah, sure.
+
+523
+00:32:31,447 --> 00:32:32,697
+What kind?
+
+524
+00:32:32,698 --> 00:32:35,867
+A Slugworth Sizzler?
+A Wonka Scrumpdiddleumptious?
+
+525
+00:32:35,868 --> 00:32:39,788
+- Whichever's biggest.
+- Try a Wonka Scrumpdiddleumptious.
+
+526
+00:32:39,789 --> 00:32:44,789
+BILL: Now that the tickets are found,
+I don't have to hide them.
+
+527
+00:32:47,672 --> 00:32:52,672
+[CLEARS TH ROAT]
+
+528
+00:32:55,012 --> 00:32:57,722
+Hey. Hey, hey. Take it easy!
+
+529
+00:32:57,723 --> 00:33:00,225
+You'll get a stomachache like that.
+
+530
+00:33:00,226 --> 00:33:05,226
+- Bye.
+- Bye, now.
+
+531
+00:33:09,902 --> 00:33:13,488
+I think I'll buyjust one more,
+for my Grandpa Joe.
+
+532
+00:33:13,489 --> 00:33:15,866
+Sure.
+
+533
+00:33:15,867 --> 00:33:18,034
+Try a regular Wonka Bar.
+
+534
+00:33:18,035 --> 00:33:18,535
+Fine.
+
+535
+00:33:24,250 --> 00:33:27,627
+[CHATTERING]
+
+536
+00:33:27,628 --> 00:33:29,504
+MAN 1:
+Extra! Extra! Read about the scandal.
+
+537
+00:33:29,505 --> 00:33:32,257
+MAN 2: Give me a newspaper.
+MAN 1: All right. All right.
+
+538
+00:33:32,258 --> 00:33:35,635
+- Take it easy! One at a time!
+MAN 3: Did you hear the news?
+
+539
+00:33:35,636 --> 00:33:40,636
+- That gambler made a phony ticket.
+MAN 4: There's one Golden Ticket still.
+
+540
+00:33:41,476 --> 00:33:44,895
+MAN 3: The nerve of that guy,
+trying to fool the world!
+
+541
+00:33:44,896 --> 00:33:49,896
+MAN 4: He was a crook! This means
+the Contest goes on forever.
+
+542
+00:34:32,276 --> 00:34:35,111
+Hey! You got the last Golden Ticket!
+
+543
+00:34:35,112 --> 00:34:38,114
+The kid's found
+the last Golden Ticket!
+
+544
+00:34:38,115 --> 00:34:39,658
+[YELLING]
+
+545
+00:34:39,659 --> 00:34:41,451
+MAN 1: Lt really is gold!
+WOMAN 1: Come here, kid.
+
+546
+00:34:41,452 --> 00:34:43,995
+MAN 2: Stand back!
+Leave the boy alone!
+
+547
+00:34:43,996 --> 00:34:46,665
+- You're going to kill him.
+WOMAN 2: Did you see what he's got?
+
+548
+00:34:46,666 --> 00:34:48,833
+Break it up! MAN 3: Over here.
+
+549
+00:34:48,834 --> 00:34:51,461
+Charlie! Hold on to that ticket!
+
+550
+00:34:51,462 --> 00:34:56,462
+Run for it! Run straight home!
+And don't stop till you get there!
+
+551
+00:35:26,497 --> 00:35:27,831
+[CHARLIE GASPS]
+
+552
+00:35:27,832 --> 00:35:31,334
+I congratulate you, little boy.
+Well done.
+
+553
+00:35:31,335 --> 00:35:34,004
+You've found the fifth Golden Ticket.
+
+554
+00:35:34,005 --> 00:35:36,047
+May I introduce myself?
+
+555
+00:35:36,048 --> 00:35:37,841
+Arthur Slugworth.
+
+556
+00:35:37,842 --> 00:35:41,219
+President of Slugworth Chocolates, Inc.
+
+557
+00:35:41,220 --> 00:35:45,348
+Listen carefully, because
+I'm going to make you very rich.
+
+558
+00:35:45,349 --> 00:35:49,561
+Mr. Wonka is working on
+a fantastic invention.
+
+559
+00:35:49,562 --> 00:35:52,522
+The Everlasting Gobstopper.
+
+560
+00:35:52,523 --> 00:35:54,733
+If he succeeds, he'll ruin me.
+
+561
+00:35:54,734 --> 00:35:58,236
+I want you to get just one
+Everlasting Gobstopper...
+
+562
+00:35:58,237 --> 00:36:01,906
+and bring it to me
+so I can find the secret formula.
+
+563
+00:36:01,907 --> 00:36:03,408
+Your reward will be...
+
+564
+00:36:03,409 --> 00:36:05,702
+10,000 of these.
+
+565
+00:36:05,703 --> 00:36:07,579
+Think it over, will you?
+
+566
+00:36:07,580 --> 00:36:09,748
+A new house for your family...
+
+567
+00:36:09,749 --> 00:36:13,877
+food and comfort
+for the rest of their lives.
+
+568
+00:36:13,878 --> 00:36:15,879
+And don't forget the name...
+
+569
+00:36:15,880 --> 00:36:20,880
+Everlasting Gobstopper.
+
+570
+00:36:47,453 --> 00:36:51,414
+I've got it!
+The fifth Golden Ticket is mine!
+
+571
+00:36:51,415 --> 00:36:53,750
+You're pulling our legs, Charlie.
+
+572
+00:36:53,751 --> 00:36:56,753
+There aren't any more Golden Tickets.
+
+573
+00:36:56,754 --> 00:36:59,297
+The last one's fake!
+It's in the paper!
+
+574
+00:36:59,298 --> 00:37:02,384
+I found money, bought a Wonka Bar
+and the ticket was in it!
+
+575
+00:37:02,385 --> 00:37:05,970
+- Charlie.
+- Look at it! See for yourself!
+
+576
+00:37:05,971 --> 00:37:08,973
+Read it, Joe, for heaven's sake!
+
+577
+00:37:08,974 --> 00:37:13,478
+"Greetings to you, the lucky finder
+of this Golden Ticket..."
+
+578
+00:37:13,479 --> 00:37:17,649
+from Mr. Willy Wonka. Present
+this ticket at the factory gates...
+
+579
+00:37:17,650 --> 00:37:22,112
+at 10:00 in the morning,
+October 13t, and do not be late!
+
+580
+00:37:22,113 --> 00:37:27,113
+You may bring with you one member
+of your own family, but no one else.
+
+581
+00:37:27,118 --> 00:37:30,453
+In your wildest dreams
+you could not imagine...
+
+582
+00:37:30,454 --> 00:37:34,749
+"...the marvelous surprises that await
+you!" Charlie, you've done it!
+
+583
+00:37:34,750 --> 00:37:37,127
+MRS. BUCKET: I can't believe it!
+- Grandpa?
+
+584
+00:37:37,128 --> 00:37:39,963
+It says I can take somebody with me.
+
+585
+00:37:39,964 --> 00:37:44,964
+I wish you could go.
+
+586
+00:37:52,143 --> 00:37:57,143
+Charlie...
+
+587
+00:37:59,150 --> 00:38:02,235
+Ahh. That's good, Charlie.
+
+588
+00:38:02,236 --> 00:38:07,236
+Now help me up.
+
+589
+00:38:17,042 --> 00:38:18,501
+- Ohi.
+- Are you Okay?
+
+590
+00:38:18,502 --> 00:38:23,502
+I'm fine, Charlie.
+
+591
+00:38:25,843 --> 00:38:27,385
+CHARLIE: Oh, no!
+
+592
+00:38:27,386 --> 00:38:28,136
+MRS. BUCKET: Easy, Dad!
+JOSEPHINE: Joe!
+
+593
+00:38:28,137 --> 00:38:30,555
+MRS. BUCKET: Easy, Dad!
+JOSEPHINE: Joe!
+
+594
+00:38:30,556 --> 00:38:32,474
+Watch it, Joe!
+
+595
+00:38:32,475 --> 00:38:33,019
+[GRUNTS]
+
+596
+00:38:41,233 --> 00:38:45,737
+Look at me!
+
+597
+00:38:45,738 --> 00:38:48,239
+Look at me!
+
+598
+00:38:48,240 --> 00:38:51,868
+Up and about!
+
+599
+00:38:51,869 --> 00:38:56,039
+I haven't done this in 20 years!
+
+600
+00:38:56,040 --> 00:39:01,040
+Ohi _Grandpa!
+
+601
+00:39:01,712 --> 00:39:06,712
+<i>[SINGING]
+I never thought my life could be.</i>
+
+602
+00:39:06,717 --> 00:39:11,387
+<i>Anything but catastrophe.</i>
+
+603
+00:39:11,388 --> 00:39:15,725
+<i>But suddenly I begin to see.</i>
+
+604
+00:39:15,726 --> 00:39:20,726
+<i>A bit of good luck for me</i>
+
+605
+00:39:20,731 --> 00:39:25,731
+<i>'Cause I've got</i> a <i>Golden Ticket.</i>
+
+606
+00:39:26,237 --> 00:39:30,573
+<i>I've got</i> a <i>golden twinkle.</i>
+
+607
+00:39:30,574 --> 00:39:31,186
+<i>In my eye.</i>
+
+608
+00:39:36,580 --> 00:39:39,541
+<i>I never had a Chance to shine.</i>
+
+609
+00:39:39,542 --> 00:39:41,751
+<i>Never</i> a <i>happy song to sing.</i>
+
+610
+00:39:41,752 --> 00:39:43,920
+<i>But suddenly half the world is mine.</i>
+
+611
+00:39:43,921 --> 00:39:45,713
+<i>What an amazing thing</i>
+
+612
+00:39:45,714 --> 00:39:47,757
+<i>'Cause I've got</i> a <i>Golden Ticket.</i>
+
+613
+00:39:47,758 --> 00:39:49,759
+It's ours, Charlie!
+
+614
+00:39:49,760 --> 00:39:53,596
+<i>I've got</i> a <i>golden sun up in the sky.</i>
+
+615
+00:39:53,597 --> 00:39:57,725
+Slippers, Charlie!
+
+616
+00:39:57,726 --> 00:40:01,312
+<i>[SINGING] /never thought I'd see the day
+When I would face the world and say.</i>
+
+617
+00:40:01,313 --> 00:40:04,983
+<i>Good morning Look at the sun.</i>
+
+618
+00:40:04,984 --> 00:40:08,736
+<i>I never thought that I would be
+Slap in the /ap of luxury</i>
+
+619
+00:40:08,737 --> 00:40:10,488
+<i>'Cause I'd have said</i>
+
+620
+00:40:10,489 --> 00:40:12,240
+<i>- it couldn't be done.
+- Oh!</i>
+
+621
+00:40:12,241 --> 00:40:14,826
+<i>But it can be done.</i>
+
+622
+00:40:14,827 --> 00:40:17,787
+Oh! The Cane, Charlie!
+
+623
+00:40:17,788 --> 00:40:20,373
+Ahh! Ahh!
+
+624
+00:40:20,374 --> 00:40:22,333
+[CHUCKUNG]
+
+625
+00:40:22,334 --> 00:40:24,836
+Here I go!
+
+626
+00:40:24,837 --> 00:40:27,547
+Watch my speed!
+
+627
+00:40:27,548 --> 00:40:28,048
+Oh!
+
+628
+00:40:33,262 --> 00:40:37,015
+<i>I never dreamed that I would climb
+Over the moon in ecstasy.</i>
+
+629
+00:40:37,016 --> 00:40:40,518
+<i>But nevertheless it's there that I'm
+Shortly about to be</i>
+
+630
+00:40:40,519 --> 00:40:44,272
+[BOTH <i>SINGING]
+'Cause I've got</i> a <i>Golden Ticket.</i>
+
+631
+00:40:44,273 --> 00:40:48,276
+<i>I've got</i> a <i>golden Chance
+To make my way.</i>
+
+632
+00:40:48,277 --> 00:40:53,277
+<i>And with</i> a <i>Golden Ticket
+It's a golden day.</i>
+
+633
+00:41:09,632 --> 00:41:14,632
+Good morning! Look at the sun!
+
+634
+00:41:17,056 --> 00:41:21,142
+[BOTH <i>SINGING] 'Cause I'd have said
+it couldn't be done.</i>
+
+635
+00:41:21,143 --> 00:41:24,479
+<i>But it can be done.</i>
+
+636
+00:41:24,480 --> 00:41:28,566
+<i>I never dreamed that I would climb
+Over the moon in ecstasy.</i>
+
+637
+00:41:28,567 --> 00:41:32,654
+<i>But nevertheless it's there that I'm
+Shortly about to be</i>
+
+638
+00:41:32,655 --> 00:41:35,490
+<i>'Cause I've got</i> a <i>Golden Ticket.</i>
+
+639
+00:41:35,491 --> 00:41:37,575
+<i>I've got</i> a <i>Golden Ticket.</i>
+
+640
+00:41:37,576 --> 00:41:41,412
+<i>I've got</i> a <i>golden Chance
+To make my way.</i>
+
+641
+00:41:41,413 --> 00:41:46,413
+<i>And with</i> a <i>Golden Ticket
+It's a golden day.</i>
+
+642
+00:41:50,381 --> 00:41:53,925
+Stop! It says the first of October.
+That's tomorrow.
+
+643
+00:41:53,926 --> 00:41:58,221
+We've got lots to do! Comb your hair,
+wash your face, polish your shoes...
+
+644
+00:41:58,222 --> 00:42:01,432
+- I'll take care of everything.
+- We don't have much time.
+
+645
+00:42:01,433 --> 00:42:06,433
+Grandpa, on the way home today,
+I ran into Mr. Slugworth.
+
+646
+00:42:07,439 --> 00:42:08,189
+[BAND PLAYING]
+
+647
+00:42:08,190 --> 00:42:12,986
+[BAND PLAYING]
+
+648
+00:42:12,987 --> 00:42:17,987
+[CHATTERING]
+
+649
+00:42:23,580 --> 00:42:26,624
+[MAN YELLING INDISTINCTLY]
+
+650
+00:42:26,625 --> 00:42:30,294
+Peanuts here. Peanuts. Peanuts.
+
+651
+00:42:30,295 --> 00:42:32,255
+Hey, Mom, we're on TV!
+
+652
+00:42:32,256 --> 00:42:34,424
+Hi, everybody in Marble Falls!
+
+653
+00:42:34,425 --> 00:42:38,302
+Hi, Billy! Hi, Maggie! Hi, Fishface!
+How do I look?
+
+654
+00:42:38,303 --> 00:42:39,971
+- You guys ready?
+MAN: You're on.
+
+655
+00:42:39,972 --> 00:42:41,806
+This is the big day.
+
+656
+00:42:41,807 --> 00:42:46,807
+The day Willy Wonka opens his gates
+to shower gifts on the lucky winners.
+
+657
+00:42:46,937 --> 00:42:50,440
+From all over the globe
+people have gathered, waiting...
+
+658
+00:42:50,441 --> 00:42:55,441
+to see that legendary magician,
+Mr. Willy Wonka.
+
+659
+00:42:56,155 --> 00:42:59,824
+Hi, friends! Don't forget
+to visit Beauregarde's Auto Mart...
+
+660
+00:42:59,825 --> 00:43:02,952
+Cut it out, Dad!
+This is my show!
+
+661
+00:43:02,953 --> 00:43:07,953
+Hi, Cornelia! I've still got it.
+How's this for a stretch?
+
+662
+00:43:11,420 --> 00:43:13,546
+MAN: Come on over here.
+
+663
+00:43:13,547 --> 00:43:16,174
+Bring the Cables over this way.
+Come on, quick.
+
+664
+00:43:16,175 --> 00:43:19,969
+Hey, give me a break.
+Let me get a shot.
+
+665
+00:43:19,970 --> 00:43:22,472
+I want to go in first, before anybody.
+
+666
+00:43:22,473 --> 00:43:27,473
+Anything you say.
+
+667
+00:43:27,519 --> 00:43:32,519
+Save some room for later,
+Augustus, <i>liebling.</i>
+
+668
+00:43:33,859 --> 00:43:37,820
+I don't believe it! We did it.
+We're actually going in.
+
+669
+00:43:37,821 --> 00:43:42,116
+We're gonna see the greatest
+of them all, Mr. Willy Wonka!
+
+670
+00:43:42,117 --> 00:43:47,117
+[BELL TOLLING]
+
+671
+00:44:09,853 --> 00:44:14,853
+[CROWD CHEERING]
+
+672
+00:45:17,713 --> 00:45:22,508
+[CROWD CHEERING]
+
+673
+00:45:22,509 --> 00:45:26,470
+Thank you.
+
+674
+00:45:26,471 --> 00:45:28,806
+Thank you.
+
+675
+00:45:28,807 --> 00:45:30,308
+Welcome, my friends.
+
+676
+00:45:30,309 --> 00:45:32,977
+Welcome to my chocolate factory.
+
+677
+00:45:32,978 --> 00:45:35,438
+Would you come forward?
+
+678
+00:45:35,439 --> 00:45:40,439
+Get back! Come on, Veruca!
+
+679
+00:45:43,447 --> 00:45:48,447
+That's Slugworth,
+the man I told you about.
+
+680
+00:45:50,579 --> 00:45:53,789
+Welcome.
+It's nice to have you here.
+
+681
+00:45:53,790 --> 00:45:55,416
+I'm so glad you could come.
+
+682
+00:45:55,417 --> 00:45:59,754
+This is going to be such an
+exciting day. I hope you enjoy it.
+
+683
+00:45:59,755 --> 00:46:01,589
+I think you will.
+
+684
+00:46:01,590 --> 00:46:04,800
+Please show your Golden Tickets.
+
+685
+00:46:04,801 --> 00:46:06,427
+I'm Veruca Salt.
+
+686
+00:46:06,428 --> 00:46:08,763
+Dear Veruca, what a pleasure!
+
+687
+00:46:08,764 --> 00:46:11,098
+You look pretty in that mink Coat!
+
+688
+00:46:11,099 --> 00:46:12,934
+I've got three others.
+
+689
+00:46:12,935 --> 00:46:17,396
+And Mr. Salt. Overjoyed to see you, sir.
+Would you just step over there?
+
+690
+00:46:17,397 --> 00:46:18,606
+Augustus Gloop.
+
+691
+00:46:18,607 --> 00:46:20,775
+Augustus, my dear boy!
+
+692
+00:46:20,776 --> 00:46:23,611
+Good to see you,
+and in such fine shape!
+
+693
+00:46:23,612 --> 00:46:27,615
+This must be the radiant Mrs. Gloop.
+Over there, dear lady.
+
+694
+00:46:27,616 --> 00:46:30,993
+- Violet Beauregarde.
+- Darling child! Welcome to Wonka's.
+
+695
+00:46:30,994 --> 00:46:32,662
+What kind of gum you got?
+
+696
+00:46:32,663 --> 00:46:35,957
+- Charming! Charming!
+- Sam Beauregarde here!
+
+697
+00:46:35,958 --> 00:46:37,667
+What a genuine pleasure.
+
+698
+00:46:37,668 --> 00:46:41,128
+Any automotive needs, call.
+Phone number's on the card.
+
+699
+00:46:41,129 --> 00:46:44,131
+"With Sam B., it's a guarantee!"
+
+700
+00:46:44,132 --> 00:46:46,008
+I'm Mike Teevee.
+
+701
+00:46:46,009 --> 00:46:47,677
+Wham, you're dead!
+
+702
+00:46:47,678 --> 00:46:49,178
+Wonderful to meet you!
+
+703
+00:46:49,179 --> 00:46:51,180
+Mrs. Teevee, how do you do?
+
+704
+00:46:51,181 --> 00:46:54,350
+- What an adorable boy you have.
+- Thank you.
+
+705
+00:46:54,351 --> 00:46:56,894
+- Charlie Bucket.
+- Well, well. Charlie Bucket.
+
+706
+00:46:56,895 --> 00:47:00,189
+I read all about you in the papers.
+I'm so happy for you. And Who's this?
+
+707
+00:47:00,190 --> 00:47:01,899
+My grandfather, Grandpa Joe.
+
+708
+00:47:01,900 --> 00:47:03,150
+Delighted.
+
+709
+00:47:03,151 --> 00:47:05,486
+Overjoyed. Enraptured. Entranced.
+
+710
+00:47:05,487 --> 00:47:07,321
+Are we ready? Yes! Good!
+
+711
+00:47:07,322 --> 00:47:08,823
+In we go!
+
+712
+00:47:08,824 --> 00:47:11,117
+[CROWD CHEERING]
+
+713
+00:47:11,118 --> 00:47:16,118
+[MARCHING BAND PLAYS]
+
+714
+00:47:43,108 --> 00:47:46,360
+Now, hats, Coats, galoshes over here.
+
+715
+00:47:46,361 --> 00:47:49,530
+Hurry, we have so much time
+and so little to see.
+
+716
+00:47:49,531 --> 00:47:51,699
+Wait a minute! Strike that.
+
+717
+00:47:51,700 --> 00:47:56,078
+Reverse it. Thank you.
+
+718
+00:47:56,079 --> 00:47:59,582
+VIOLET: When do I get my chocolate?
+- First take off your Coat, Violet.
+
+719
+00:47:59,583 --> 00:48:02,960
+MIKE:
+Boy, what Weird Coat hangers!
+
+720
+00:48:02,961 --> 00:48:04,128
+[SHRIEKING]
+
+721
+00:48:04,129 --> 00:48:08,382
+Surprises around every corner, but
+nothing dangerous! Don't be alarmed.
+
+722
+00:48:08,383 --> 00:48:11,218
+As soon as your
+outer vestments are in hand...
+
+723
+00:48:11,219 --> 00:48:13,137
+we'll begin.
+
+724
+00:48:13,138 --> 00:48:14,347
+Now...
+
+725
+00:48:14,348 --> 00:48:19,348
+will the children
+kindly step up here?
+
+726
+00:48:24,107 --> 00:48:28,319
+[MR. SALT MUMBLING]
+
+727
+00:48:28,320 --> 00:48:30,654
+MIKE:
+Accidents? What kind of accidents?
+
+728
+00:48:30,655 --> 00:48:33,324
+MRS. TEEVEE:
+I didn't know we had to sign anything.
+
+729
+00:48:33,325 --> 00:48:35,451
+MIKE: I can't read the bottom.
+
+730
+00:48:35,452 --> 00:48:37,495
+Violet, you first.
+
+731
+00:48:37,496 --> 00:48:38,788
+Sign here.
+
+732
+00:48:38,789 --> 00:48:39,997
+MR. BEAUREGARDE: Hold it!
+
+733
+00:48:39,998 --> 00:48:42,500
+Let me through.
+Don't sign anything.
+
+734
+00:48:42,501 --> 00:48:43,959
+What's this all about?
+
+735
+00:48:43,960 --> 00:48:45,795
+Standard form of contract.
+
+736
+00:48:45,796 --> 00:48:49,632
+Don't talk contracts. I use them
+myself. They're for suckers.
+
+737
+00:48:49,633 --> 00:48:53,135
+You wouldn't begrudge me
+a little protection? A drop?
+
+738
+00:48:53,136 --> 00:48:54,678
+I don't sign anything.
+
+739
+00:48:54,679 --> 00:48:57,681
+- Veruca don't sign anything either!
+- Then she don't go in.
+
+740
+00:48:57,682 --> 00:48:59,475
+I'm sorry. House rules.
+
+741
+00:48:59,476 --> 00:49:03,646
+- I'm going! Don't you dare stop me!
+- I'm only trying to help.
+
+742
+00:49:03,647 --> 00:49:08,647
+Give me that pen!
+You're always making things difficult.
+
+743
+00:49:08,860 --> 00:49:13,656
+Nicely handled! She's a girl
+who knows where she's going. Violet.
+
+744
+00:49:13,657 --> 00:49:16,158
+What's all that small print?
+
+745
+00:49:16,159 --> 00:49:18,994
+Any problems? Dial information.
+Thanks for Calling.
+
+746
+00:49:18,995 --> 00:49:22,415
+- Mike, Augustus.
+- Violet! Violet!
+
+747
+00:49:22,416 --> 00:49:25,084
+I assume there's
+an accident indemnity clause?
+
+748
+00:49:25,085 --> 00:49:26,669
+Never between friends.
+
+749
+00:49:26,670 --> 00:49:30,172
+Saw this in a movie. A guy signed
+his wife's insurance policy.
+
+750
+00:49:30,173 --> 00:49:32,133
+- Then he bumped her off.
+- Clever.
+
+751
+00:49:32,134 --> 00:49:33,342
+What about me, Grandpa?
+
+752
+00:49:33,343 --> 00:49:35,928
+Sign away, Charlie!
+We've got nothing to lose.
+
+753
+00:49:35,929 --> 00:49:37,513
+VERUCA: Let's go in! Come on!
+
+754
+00:49:37,514 --> 00:49:41,434
+Paüence, paüence!
+Everything has to be in order.
+
+755
+00:49:41,435 --> 00:49:43,602
+Everyone signed? Yes?
+
+756
+00:49:43,603 --> 00:49:48,603
+Good. On we go!
+
+757
+00:49:54,614 --> 00:49:56,532
+Ninety-nine...
+
+758
+00:49:56,533 --> 00:49:58,033
+forty-four...
+
+759
+00:49:58,034 --> 00:50:01,454
+one hundred percent pure.
+
+760
+00:50:01,455 --> 00:50:05,958
+Just through the other door, please.
+
+761
+00:50:05,959 --> 00:50:08,461
+There's some mistake here.
+
+762
+00:50:08,462 --> 00:50:10,463
+MIKE: There is no other door.
+
+763
+00:50:10,464 --> 00:50:11,797
+There's no way out!
+
+764
+00:50:11,798 --> 00:50:14,800
+I know there's a door here someplace.
+
+765
+00:50:14,801 --> 00:50:16,886
+MR. BEAUREGARDE:
+I don't like this, Wonka!
+
+766
+00:50:16,887 --> 00:50:18,387
+MR. SALT: Is this a trick?
+
+767
+00:50:18,388 --> 00:50:22,141
+Mr. Wonka, help!
+I'm getting squashed! Save me!
+
+768
+00:50:22,142 --> 00:50:24,727
+Is it my soul that calls me by name?
+
+769
+00:50:24,728 --> 00:50:26,479
+Let me out or I'll scream!
+
+770
+00:50:26,480 --> 00:50:29,064
+- Somebody's touching me!
+- Now look here, Wonka!
+
+771
+00:50:29,065 --> 00:50:32,526
+Question time will come at the end
+of the session. We must press on.
+
+772
+00:50:32,527 --> 00:50:34,904
+Come along. Come along.
+
+773
+00:50:34,905 --> 00:50:37,072
+- Ah, here we are.
+MR. BEAUREGARDE: Don't be a fool.
+
+774
+00:50:37,073 --> 00:50:38,866
+That's the way we came in.
+
+775
+00:50:38,867 --> 00:50:41,702
+It is? Are you sure?
+
+776
+00:50:41,703 --> 00:50:43,579
+We've just come through there.
+
+777
+00:50:43,580 --> 00:50:46,373
+How do you like that?
+
+778
+00:50:46,374 --> 00:50:50,211
+- There we are.
+- What is this, Wonka? A fun house?
+
+779
+00:50:50,212 --> 00:50:51,545
+Why? Having fun?
+
+780
+00:50:51,546 --> 00:50:53,714
+I've had enough.
+I'm not going in there.
+
+781
+00:50:53,715 --> 00:50:55,549
+We're getting out of here.
+
+782
+00:50:55,550 --> 00:50:59,220
+You can't get out backwards.
+You have to go forward to go back.
+
+783
+00:50:59,221 --> 00:51:01,597
+Better press on.
+
+784
+00:51:01,598 --> 00:51:04,391
+MIKE: The room is getting smaller.
+MRS. TEEVEE: No, it's not!
+
+785
+00:51:04,392 --> 00:51:07,061
+- He's getting bigger.
+MR. SALT: He's at it again.
+
+786
+00:51:07,062 --> 00:51:10,022
+VIOLET: Where's the chocolate?
+MR. BEAUREGARDE: L doubt if there is any.
+
+787
+00:51:10,023 --> 00:51:12,608
+I doubt if any of us
+will get out alive.
+
+788
+00:51:12,609 --> 00:51:15,110
+Never doubt what nobody is sure about.
+
+789
+00:51:15,111 --> 00:51:17,571
+You can't squeeze me
+through that door.
+
+790
+00:51:17,572 --> 00:51:20,241
+You're off your nut.
+No one can get through there.
+
+791
+00:51:20,242 --> 00:51:21,784
+My dear friends...
+
+792
+00:51:21,785 --> 00:51:24,912
+you are now about to enter
+the nerve center...
+
+793
+00:51:24,913 --> 00:51:28,082
+to the entire Wonka factory.
+
+794
+00:51:28,083 --> 00:51:32,419
+Inside this room,
+all of my dreams become realities.
+
+795
+00:51:32,420 --> 00:51:34,630
+And some of my realities
+become dreams.
+
+796
+00:51:34,631 --> 00:51:38,634
+And almost everything you'll see
+is eatable... Edible.
+
+797
+00:51:38,635 --> 00:51:40,928
+I mean, you can eat almost everything.
+
+798
+00:51:40,929 --> 00:51:42,638
+Let me in, I'm Starving!
+
+799
+00:51:42,639 --> 00:51:45,891
+Don't get overexcited.
+Don't lose your head.
+
+800
+00:51:45,892 --> 00:51:49,770
+We don't want anyone to lose that.
+
+801
+00:51:49,771 --> 00:51:51,105
+Yet.
+
+802
+00:51:51,106 --> 00:51:53,107
+Now, the combination.
+
+803
+00:51:53,108 --> 00:51:55,484
+This is a musical lock.
+
+804
+00:51:55,485 --> 00:51:57,611
+[PLAYS KEYBOARD]
+
+805
+00:51:57,612 --> 00:51:58,946
+Rachmaninoff.
+
+806
+00:51:58,947 --> 00:52:01,448
+WONKA: Ladies and gentlemen...
+
+807
+00:52:01,449 --> 00:52:04,118
+boys and girls...
+
+808
+00:52:04,119 --> 00:52:09,119
+the Chocolate Room.
+
+809
+00:52:43,992 --> 00:52:46,869
+WONKA:
+Hold your breath. Make a wish.
+
+810
+00:52:46,870 --> 00:52:48,871
+Count to three.
+
+811
+00:52:48,872 --> 00:52:50,706
+<i>[SINGING] Come with me.</i>
+
+812
+00:52:50,707 --> 00:52:52,708
+<i>And you'll be.</i>
+
+813
+00:52:52,709 --> 00:52:56,837
+<i>In</i> a <i>world of pure imagination.</i>
+
+814
+00:52:56,838 --> 00:52:58,464
+<i>Take</i> a <i>look.</i>
+
+815
+00:52:58,465 --> 00:53:00,299
+<i>And you'll see.</i>
+
+816
+00:53:00,300 --> 00:53:05,300
+<i>Into your imagination.</i>
+
+817
+00:53:09,893 --> 00:53:12,561
+<i>We 'l/ begin.</i>
+
+818
+00:53:12,562 --> 00:53:14,146
+<i>With a spin.</i>
+
+819
+00:53:14,147 --> 00:53:18,359
+<i>Traveling
+In the world of my creation.</i>
+
+820
+00:53:18,360 --> 00:53:23,113
+<i>What we'/I see Will defy.</i>
+
+821
+00:53:23,114 --> 00:53:28,114
+<i>Explanation.</i>
+
+822
+00:53:36,044 --> 00:53:39,713
+<i>If you want to view paradise.</i>
+
+823
+00:53:39,714 --> 00:53:44,134
+<i>Simply look around and view it.</i>
+
+824
+00:53:44,135 --> 00:53:48,055
+<i>Anything you want to, do it.</i>
+
+825
+00:53:48,056 --> 00:53:51,809
+<i>Want to change the world.</i>
+
+826
+00:53:51,810 --> 00:53:56,810
+<i>There's nothing to it.</i>
+
+827
+00:54:02,570 --> 00:54:07,570
+MR. BEAUREGARDE: Hurry, Violet!
+CHARLIE: This way, Grandpa!
+
+828
+00:54:11,913 --> 00:54:14,998
+<i>[SINGING] There is no
+Life I know.</i>
+
+829
+00:54:14,999 --> 00:54:18,252
+<i>To compare With pure imagination.</i>
+
+830
+00:54:18,253 --> 00:54:21,672
+<i>Living there You'll be free.</i>
+
+831
+00:54:21,673 --> 00:54:26,673
+<i>If you truly wish to be.</i>
+
+832
+00:55:06,593 --> 00:55:10,637
+<i>If you want to view paradise.</i>
+
+833
+00:55:10,638 --> 00:55:14,391
+<i>Simply look around and view it.</i>
+
+834
+00:55:14,392 --> 00:55:18,312
+<i>Anything you want to, do it.</i>
+
+835
+00:55:18,313 --> 00:55:21,064
+<i>Want to change the world.</i>
+
+836
+00:55:21,065 --> 00:55:23,734
+<i>There's nothing.</i>
+
+837
+00:55:23,735 --> 00:55:24,235
+<i>To it.</i>
+
+838
+00:55:37,081 --> 00:55:42,081
+<i>There is no Life I know.</i>
+
+839
+00:55:42,337 --> 00:55:47,337
+<i>To compare With pure imagination.</i>
+
+840
+00:55:48,676 --> 00:55:52,387
+<i>Living there.</i>
+
+841
+00:55:52,388 --> 00:55:55,516
+<i>You'll be free.</i>
+
+842
+00:55:55,517 --> 00:56:00,517
+<i>If you truly.</i>
+
+843
+00:56:00,772 --> 00:56:05,772
+<i>Wish to be.</i>
+
+844
+00:56:16,214 --> 00:56:17,454
+What a disgusting, dirty river!
+
+845
+00:56:17,455 --> 00:56:18,539
+What a disgusting, dirty river!
+
+846
+00:56:18,540 --> 00:56:20,123
+It's industrial waste.
+
+847
+00:56:20,124 --> 00:56:22,417
+A ruined watershed, Wonka.
+It's polluted.
+
+848
+00:56:22,418 --> 00:56:23,627
+It's chocolate.
+
+849
+00:56:23,628 --> 00:56:25,128
+That's chocolate?
+
+850
+00:56:25,129 --> 00:56:26,547
+That's chocolate.
+
+851
+00:56:26,548 --> 00:56:28,215
+A chocolate river!
+
+852
+00:56:28,216 --> 00:56:30,801
+JOE: The most fantastic thing
+I've ever seen.
+
+853
+00:56:30,802 --> 00:56:32,719
+WONKA: 10,000 gallons an hour.
+
+854
+00:56:32,720 --> 00:56:37,558
+Look at my waterfall.
+That's the most important thing.
+
+855
+00:56:37,559 --> 00:56:41,562
+WONKA: It's mixing my chocolate.
+It's actually churning my chocolate.
+
+856
+00:56:41,563 --> 00:56:45,732
+No other factory in the world
+mixes chocolate by waterfall.
+
+857
+00:56:45,733 --> 00:56:49,152
+But it's the only way
+if you want it just right.
+
+858
+00:56:49,153 --> 00:56:51,780
+Grandpa, look there,
+across the river!
+
+859
+00:56:51,781 --> 00:56:53,073
+CHARLIE: Little men!
+
+860
+00:56:53,074 --> 00:56:55,325
+JOE:
+Jumping crocodiles, Charlie!
+
+861
+00:56:55,326 --> 00:56:57,411
+Now we know who makes it.
+
+862
+00:56:57,412 --> 00:57:01,415
+MR. SALT: I never saw anybody
+with an orange face before.
+
+863
+00:57:01,416 --> 00:57:03,500
+Funny-looking people.
+
+864
+00:57:03,501 --> 00:57:05,419
+MRS. TEEVEE:
+What are they doing?
+
+865
+00:57:05,420 --> 00:57:07,087
+WONKA:
+It's creaming and sugaring time.
+
+866
+00:57:07,088 --> 00:57:10,340
+VIOLET: They can't be real people.
+WONKA: Of course they're real people.
+
+867
+00:57:10,341 --> 00:57:11,675
+Nonsense!
+
+868
+00:57:11,676 --> 00:57:14,720
+- No, Oompa Loompas.
+ALL: Oompa Loompas?
+
+869
+00:57:14,721 --> 00:57:15,929
+From Loompaland.
+
+870
+00:57:15,930 --> 00:57:17,931
+Loompaland?
+There's no such place!
+
+871
+00:57:17,932 --> 00:57:19,600
+Excuse me, dear lady...
+
+872
+00:57:19,601 --> 00:57:21,101
+I teach geography-
+
+873
+00:57:21,102 --> 00:57:22,686
+Then you know all about it.
+
+874
+00:57:22,687 --> 00:57:24,438
+And what a terrible country it is.
+
+875
+00:57:24,439 --> 00:57:27,774
+Nothing but desolate wastes
+and fierce beasts.
+
+876
+00:57:27,775 --> 00:57:31,028
+The poor little Oompa Loompas
+were so small and helpless...
+
+877
+00:57:31,029 --> 00:57:33,739
+they would get gobbled up.
+
+878
+00:57:33,740 --> 00:57:37,451
+A Wangdoodle would eat 10 of them
+for breakfast and think nothing of it.
+
+879
+00:57:37,452 --> 00:57:39,119
+And so I said:
+
+880
+00:57:39,120 --> 00:57:42,122
+"Come and live with me
+in peace and safety..."
+
+881
+00:57:42,123 --> 00:57:45,208
+away from all the Wangdoodles
+and Hornswogglers...
+
+882
+00:57:45,209 --> 00:57:48,962
+"...and Snozzwangers
+and rotten Vermicious Knids."
+
+883
+00:57:48,963 --> 00:57:53,133
+Snozzwangers? Vermicious Knids?
+What kind of rubbish is that?
+
+884
+00:57:53,134 --> 00:57:55,886
+I'm sorry, questions
+must be submitted in writing.
+
+885
+00:57:55,887 --> 00:57:58,055
+So, in the greatest of secrecy...
+
+886
+00:57:58,056 --> 00:58:01,808
+I transported the entire population
+of Oompa Loompas here.
+
+887
+00:58:01,809 --> 00:58:05,896
+I want an Oompa Loompa.
+I want you to get me one right away!
+
+888
+00:58:05,897 --> 00:58:08,899
+All right, I'll get you one
+before the day's out.
+
+889
+00:58:08,900 --> 00:58:11,485
+I want an Oompa Loompa now!
+
+890
+00:58:11,486 --> 00:58:12,986
+Can it, you nit!
+
+891
+00:58:12,987 --> 00:58:15,614
+AUGUSTUS: Mm. This is terrific.
+
+892
+00:58:15,615 --> 00:58:16,323
+CHARLIE: Grandpa, look at Augustus.
+JOE: Don't worry, he can't drink it all.
+
+893
+00:58:16,324 --> 00:58:19,242
+CHARLIE: Grandpa, look at Augustus.
+JOE: Don't worry, he can't drink it all.
+
+894
+00:58:19,243 --> 00:58:23,080
+Augustus, sweetheart,
+save some room for later.
+
+895
+00:58:23,081 --> 00:58:27,918
+Don't do that! My chocolate
+must never be touched by human hands.
+
+896
+00:58:27,919 --> 00:58:30,754
+Don't do that!
+You're contaminating my entire river!
+
+897
+00:58:30,755 --> 00:58:34,341
+- Please, I beg you! Augustus!
+- Aah!
+
+898
+00:58:34,342 --> 00:58:35,676
+WONKA: My chocolate!
+
+899
+00:58:35,677 --> 00:58:37,928
+Help!
+
+900
+00:58:37,929 --> 00:58:41,682
+My chocolate!
+My beautiful chocolate!
+
+901
+00:58:41,683 --> 00:58:44,184
+Don't just stand there!
+Do something!
+
+902
+00:58:44,185 --> 00:58:46,603
+Help. Police. Murder.
+
+903
+00:58:46,604 --> 00:58:50,232
+- Quick, Charlie, here.
+- Grab this!
+
+904
+00:58:50,233 --> 00:58:52,109
+MRS. TEEVEE:
+What's happening to him?
+
+905
+00:58:52,110 --> 00:58:53,777
+MR. SALT: He's drowning.
+MRS. GLOOP: Dive in!
+
+906
+00:58:53,778 --> 00:58:55,362
+- Save him!
+- Oh, it's too late.
+
+907
+00:58:55,363 --> 00:58:56,947
+- Too late?
+- He's had it now.
+
+908
+00:58:56,948 --> 00:58:59,950
+WONKA: The suction's got him.
+MRS. GLOOP: Augustus, come back!
+
+909
+00:58:59,951 --> 00:59:01,284
+Where is he?
+
+910
+00:59:01,285 --> 00:59:02,953
+Watch the pipe.
+
+911
+00:59:02,954 --> 00:59:05,539
+VERUCA:
+How long is he going to stay down?
+
+912
+00:59:05,540 --> 00:59:08,291
+MRS. GLOOP: He can't swim!
+WONKA: No better time to learn.
+
+913
+00:59:08,292 --> 00:59:11,378
+VIOLET: His coat's going up the pipe!
+MR. BEAUREGARDE: Call a plumber!
+
+914
+00:59:11,379 --> 00:59:13,547
+MR. SALT:
+He's stuck in the pipe, isn't he?
+
+915
+00:59:13,548 --> 00:59:15,716
+It's his stomach.
+
+916
+00:59:15,717 --> 00:59:17,092
+Help! Help!
+
+917
+00:59:17,093 --> 00:59:19,386
+VIOLET: He's blocking the chocolate!
+- What happens now?
+
+918
+00:59:19,387 --> 00:59:24,141
+The pressure will get him out.
+It's building up behind the blockage.
+
+919
+00:59:24,142 --> 00:59:26,727
+MR. SALT: How long will it take
+to push him through?
+
+920
+00:59:26,728 --> 00:59:28,770
+The suspense is terrible.
+
+921
+00:59:28,771 --> 00:59:33,066
+I hope it'll last.
+
+922
+00:59:33,067 --> 00:59:35,068
+CHARLIE: He'll never get out.
+
+923
+00:59:35,069 --> 00:59:36,403
+Yes, he will.
+
+924
+00:59:36,404 --> 00:59:40,907
+Remember, you once asked me
+how a bullet comes out of a gun?
+
+925
+00:59:40,908 --> 00:59:43,326
+He'll be made into marshmallows
+in five seconds!
+
+926
+00:59:43,327 --> 00:59:46,872
+- Impossible, dear lady! Unthinkable!
+- Why?
+
+927
+00:59:46,873 --> 00:59:49,666
+It doesn't go to the Marshmallow
+Room, it goes to the Fudge Room.
+
+928
+00:59:49,667 --> 00:59:51,084
+MRS. GLOOP: You terrible man!
+
+929
+00:59:51,085 --> 00:59:53,670
+[PLAYS FLUTE]
+
+930
+00:59:53,671 --> 00:59:56,506
+Take Mrs. Gloop to the Fudge Room,
+but look sharp...
+
+931
+00:59:56,507 --> 00:59:58,925
+or her boy will go in the boiler.
+
+932
+00:59:58,926 --> 01:00:00,844
+You boiled him up!
+
+933
+01:00:00,845 --> 01:00:04,681
+Ni/ desperandum. Across the desert
+lies the promised land.
+
+934
+01:00:04,682 --> 01:00:06,266
+Goodbye, Mrs. Gloop.
+
+935
+01:00:06,267 --> 01:00:11,267
+<i>Adieu! Auf wiedersehen.
+Gesundheit. Farewell.</i>
+
+936
+01:00:12,190 --> 01:00:14,691
+<i>[SINGING]
+Oompa Loompa Doompa Dee Do.</i>
+
+937
+01:00:14,692 --> 01:00:18,111
+<i>I've got</i> a <i>perfect puzzle for you.</i>
+
+938
+01:00:18,112 --> 01:00:21,281
+<i>Oompa Loompa Doompa Dee Dee.</i>
+
+939
+01:00:21,282 --> 01:00:24,618
+<i>If you are Wise
+You'll listen to me.</i>
+
+940
+01:00:24,619 --> 01:00:27,954
+<i>What do you get
+When you guzzle down sweets?</i>
+
+941
+01:00:27,955 --> 01:00:31,208
+<i>Eating as much
+As an elephant eats.</i>
+
+942
+01:00:31,209 --> 01:00:34,377
+<i>What are you at
+Getting terribly fat?</i>
+
+943
+01:00:34,378 --> 01:00:39,299
+<i>What do you think
+Will come of that?</i>
+
+944
+01:00:39,300 --> 01:00:41,176
+<i>I don't like the look of it.</i>
+
+945
+01:00:41,177 --> 01:00:44,387
+<i>Oompa Loompa Doompa Dee Da.</i>
+
+946
+01:00:44,388 --> 01:00:47,516
+<i>If you're not greedy
+You will go far.</i>
+
+947
+01:00:47,517 --> 01:00:50,852
+<i>You will live In happiness too.</i>
+
+948
+01:00:50,853 --> 01:00:55,853
+<i>Like the Oompa Loompa
+Doompa Dee Do.</i>
+
+949
+01:01:00,071 --> 01:01:04,407
+<i>Doompa Dee Do.</i>
+
+950
+01:01:04,408 --> 01:01:05,033
+Hey, what kind of place you running here?
+
+951
+01:01:05,034 --> 01:01:07,536
+Hey, what kind of place you running here?
+
+952
+01:01:07,537 --> 01:01:11,414
+[SPEAKING IN FRENCH]
+
+953
+01:01:11,415 --> 01:01:16,415
+What's he talking about?
+
+954
+01:01:24,053 --> 01:01:29,053
+[BELL RINGING]
+
+955
+01:01:31,769 --> 01:01:33,270
+Wow, what a boat!
+
+956
+01:01:33,271 --> 01:01:35,897
+Ooh! Looks good enough to eat!
+
+957
+01:01:35,898 --> 01:01:38,108
+That's quite a nice little canoe.
+
+958
+01:01:38,109 --> 01:01:42,362
+"All I ask is a tall ship
+and a star to sail her by."
+
+959
+01:01:42,363 --> 01:01:43,613
+All aboard!
+
+960
+01:01:43,614 --> 01:01:45,866
+Ladies first. That means Veruca.
+
+961
+01:01:45,867 --> 01:01:49,035
+If she's a lady,
+I'm a Vermicious Knid.
+
+962
+01:01:49,036 --> 01:01:52,789
+- You sure this thing will float?
+- With your buoyancy, rest assured.
+
+963
+01:01:52,790 --> 01:01:55,208
+She's très jo/ie,
+but is she seaworthy?
+
+964
+01:01:55,209 --> 01:01:58,962
+Nothing to worry about.
+I take good care of my guests.
+
+965
+01:01:58,963 --> 01:02:03,963
+- You took good care of the August kid.
+- Everybody aboard!
+
+966
+01:02:04,302 --> 01:02:06,386
+You're going to love this.
+
+967
+01:02:06,387 --> 01:02:11,387
+Just love it.
+
+968
+01:02:38,252 --> 01:02:42,422
+I want a boat like this. A beautiful
+paddleboat, that's what I want.
+
+969
+01:02:42,423 --> 01:02:45,342
+What she wants is a kick in the pants.
+
+970
+01:02:45,343 --> 01:02:46,843
+I'm gonna be seasick.
+
+971
+01:02:46,844 --> 01:02:48,553
+WONKA: Try one of these.
+- What are they?
+
+972
+01:02:48,554 --> 01:02:51,139
+WONKA: Rainbow drops.
+You can spit in seven colors.
+
+973
+01:02:51,140 --> 01:02:53,016
+Spitting's a dirty habit.
+
+974
+01:02:53,017 --> 01:02:58,017
+I know a Worse one.
+
+975
+01:03:06,364 --> 01:03:11,364
+- What business you in, Salt?
+- Nuts.
+
+976
+01:03:21,462 --> 01:03:22,879
+Where are we going?
+
+977
+01:03:22,880 --> 01:03:24,839
+I don't like that tunnel.
+
+978
+01:03:24,840 --> 01:03:26,383
+I want off!
+
+979
+01:03:26,384 --> 01:03:31,384
+Around the world and home again.
+That's the sailor's way!
+
+980
+01:03:31,973 --> 01:03:35,350
+VERUCA:
+I don't like this ride, Daddy!
+
+981
+01:03:35,351 --> 01:03:38,311
+[ALL CHATTERING]
+
+982
+01:03:38,312 --> 01:03:40,313
+MRS. TEEVEE:
+We're going too fast!
+
+983
+01:03:40,314 --> 01:03:41,982
+VIOLET: We're going to sink!
+
+984
+01:03:41,983 --> 01:03:44,317
+VERUCA: Why doesn't he stop the boat?
+- Faster!
+
+985
+01:03:44,318 --> 01:03:49,318
+MR. SALT:
+Close your eyes and hang on tight!
+
+986
+01:03:51,200 --> 01:03:53,994
+- What is this, a freakout?
+- This isn't funny!
+
+987
+01:03:53,995 --> 01:03:56,329
+You can't possibly see
+where you're going!
+
+988
+01:03:56,330 --> 01:03:58,498
+You're right. I can't.
+
+989
+01:03:58,499 --> 01:04:01,042
+MIKE:
+This would make a great series!
+
+990
+01:04:01,043 --> 01:04:03,878
+MR. SALT: Wonka.
+- This is kind of strange.
+
+991
+01:04:03,879 --> 01:04:07,132
+Yes, strange, Charlie. But it's fun! Ha-ha!
+
+992
+01:04:07,133 --> 01:04:11,720
+MIKE: This is terrific.
+- I want to get off the boat, Wonka!
+
+993
+01:04:11,721 --> 01:04:14,180
+Aah! I may get sick!
+
+994
+01:04:14,181 --> 01:04:15,765
+This has gone too far!
+
+995
+01:04:15,766 --> 01:04:18,601
+Tell that little guy
+to turn us around!
+
+996
+01:04:18,602 --> 01:04:21,563
+Aah! Now I am gonna be sick!
+
+997
+01:04:21,564 --> 01:04:26,151
+- Grandpa!
+- Couldn't be.
+
+998
+01:04:26,152 --> 01:04:28,445
+[SCREAMING]
+
+999
+01:04:28,446 --> 01:04:32,198
+<i>[SINGING]
+There's no earthly way of knowing.</i>
+
+1000
+01:04:32,199 --> 01:04:33,366
+He's singing.
+
+1001
+01:04:33,367 --> 01:04:36,870
+<i>Which direction we are going.</i>
+
+1002
+01:04:36,871 --> 01:04:41,374
+<i>There's no knowing where we 're rowing.</i>
+
+1003
+01:04:41,375 --> 01:04:44,794
+<i>Or which way the river's flowing.</i>
+
+1004
+01:04:44,795 --> 01:04:47,047
+<i>Is it raining.</i>
+
+1005
+01:04:47,048 --> 01:04:49,632
+<i>Is it snowing</i>
+
+1006
+01:04:49,633 --> 01:04:54,633
+<i>ls</i> a <i>hurricane a-blowing.</i>
+
+1007
+01:04:55,389 --> 01:04:59,726
+<i>Not a speck of light is showing
+So the danger must be growing.</i>
+
+1008
+01:04:59,727 --> 01:05:03,063
+<i>Are the fires of hell a-glowing?</i>
+
+1009
+01:05:03,064 --> 01:05:05,899
+<i>Ls the grizzly reaper mowing?</i>
+
+1010
+01:05:05,900 --> 01:05:07,400
+Yes!
+
+1011
+01:05:07,401 --> 01:05:12,238
+<i>The danger must be growing
+For the rowers keep on rowing.</i>
+
+1012
+01:05:12,239 --> 01:05:15,533
+<i>And they're certainly not showing.</i>
+
+1013
+01:05:15,534 --> 01:05:20,534
+<i>Any signs that they are slowing!</i>
+
+1014
+01:05:21,165 --> 01:05:24,167
+[SCREAMING]
+
+1015
+01:05:24,168 --> 01:05:26,503
+- Make him stop, Daddy!
+- Wonka...
+
+1016
+01:05:26,504 --> 01:05:28,755
+- ...this has gone far enough!
+- Quite right, sir.
+
+1017
+01:05:28,756 --> 01:05:31,758
+Stop the boat!
+
+1018
+01:05:31,759 --> 01:05:33,468
+- We're there.
+MRS. TEEVEE: Where?
+
+1019
+01:05:33,469 --> 01:05:34,677
+Here.
+
+1020
+01:05:34,678 --> 01:05:38,681
+A small step for mankind,
+but a giant step for us.
+
+1021
+01:05:38,682 --> 01:05:40,350
+All ashore!
+
+1022
+01:05:40,351 --> 01:05:42,519
+Let me off this freight!
+
+1023
+01:05:42,520 --> 01:05:45,772
+- Why don't they show that stuff on TV?
+- I don't know.
+
+1024
+01:05:45,773 --> 01:05:49,484
+- What a nightmare!
+- Daddy, I do not want a boat like this.
+
+1025
+01:05:49,485 --> 01:05:50,985
+CHARLIE: "Dairy cream"?
+
+1026
+01:05:50,986 --> 01:05:51,736
+"Whipped cream."
+
+1027
+01:05:51,737 --> 01:05:52,195
+"Whipped cream."
+
+1028
+01:05:52,196 --> 01:05:54,781
+- "Coffee cream."
+- "Vanilla cream."
+
+1029
+01:05:54,782 --> 01:05:57,033
+[IN UNISON] "Hair cream"?
+
+1030
+01:05:57,034 --> 01:05:59,744
+[SPEAKING IN GERMAN]
+
+1031
+01:05:59,745 --> 01:06:04,745
+That's not French.
+
+1032
+01:06:07,711 --> 01:06:11,881
+I can't take much more.
+
+1033
+01:06:11,882 --> 01:06:14,801
+Der Inventing Room.
+
+1034
+01:06:14,802 --> 01:06:17,637
+Now remember, no messing about.
+
+1035
+01:06:17,638 --> 01:06:20,432
+No touching, no tasting, no telling.
+
+1036
+01:06:20,433 --> 01:06:21,641
+No telling what?
+
+1037
+01:06:21,642 --> 01:06:26,312
+All of my most secret inventions
+are Cooking and simmering in here.
+
+1038
+01:06:26,313 --> 01:06:30,233
+Old Slugworth would give his false
+teeth to get inside for five minutes.
+
+1039
+01:06:30,234 --> 01:06:35,234
+So don't touch a thing!
+
+1040
+01:06:47,877 --> 01:06:48,489
+[BEEPING]
+
+1041
+01:06:58,304 --> 01:07:01,473
+Inventing Room?
+Looks more like a Turkish bath.
+
+1042
+01:07:01,474 --> 01:07:05,143
+Even if Slugworth did get in here,
+he couldn't find anything.
+
+1043
+01:07:05,144 --> 01:07:07,812
+- You got a garbage strike?
+- Who does the Cleaning?
+
+1044
+01:07:07,813 --> 01:07:09,397
+Shouldn't you wear gloves?
+
+1045
+01:07:09,398 --> 01:07:11,733
+You'll have health inspectors
+añeryou.
+
+1046
+01:07:11,734 --> 01:07:15,737
+Invention, my dear friends,
+is 93 percent perspiration...
+
+1047
+01:07:15,738 --> 01:07:17,989
+six percent electricity...
+
+1048
+01:07:17,990 --> 01:07:19,991
+four percent evaporation...
+
+1049
+01:07:19,992 --> 01:07:22,494
+and two percent
+butterscotch ripple.
+
+1050
+01:07:22,495 --> 01:07:24,913
+MRS. TEEVEE:
+That's a hundred and five percent!
+
+1051
+01:07:24,914 --> 01:07:27,582
+MR. SALT: Any good?
+
+1052
+01:07:27,583 --> 01:07:29,083
+Yes.
+
+1053
+01:07:29,084 --> 01:07:32,921
+Excuse me.
+
+1054
+01:07:32,922 --> 01:07:37,922
+Time is a precious thing.
+Never waste it.
+
+1055
+01:07:38,177 --> 01:07:42,222
+- He's absolutely bonkers!
+- That's not bad.
+
+1056
+01:07:42,223 --> 01:07:44,432
+Mm.
+
+1057
+01:07:44,433 --> 01:07:47,852
+WONKA <i>[SINGING]: In springtime
+The only pretty ring time.</i>
+
+1058
+01:07:47,853 --> 01:07:51,105
+<i>Birds sing
+Hey, ding</i> a <i>ding-a-ding.</i>
+
+1059
+01:07:51,106 --> 01:07:53,900
+Sweet /overs love...
+
+1060
+01:07:53,901 --> 01:07:58,154
+<i>the spring</i>
+
+1061
+01:07:58,155 --> 01:08:00,448
+I told you not to, silly boy.
+
+1062
+01:08:00,449 --> 01:08:01,950
+Your teeth!
+
+1063
+01:08:01,951 --> 01:08:03,868
+Boy, that's great stuff.
+
+1064
+01:08:03,869 --> 01:08:04,619
+That's exploding Candy,
+for your enemies. Great idea.
+
+1065
+01:08:04,620 --> 01:08:07,622
+That's exploding Candy,
+for your enemies. Great idea.
+
+1066
+01:08:07,623 --> 01:08:12,623
+Not ready yet.
+Needs more gel ignite.
+
+1067
+01:08:20,386 --> 01:08:21,886
+What's that for?
+
+1068
+01:08:21,887 --> 01:08:26,057
+Gives it a little kick.
+
+1069
+01:08:26,058 --> 01:08:29,227
+Wonka!
+
+1070
+01:08:29,228 --> 01:08:31,729
+Butterscotch? Buttergin?
+
+1071
+01:08:31,730 --> 01:08:33,731
+Something going on inside?
+
+1072
+01:08:33,732 --> 01:08:38,611
+"Candy is dandy,
+but liquor is quicker."
+
+1073
+01:08:38,612 --> 01:08:40,321
+Aah!
+
+1074
+01:08:40,322 --> 01:08:42,907
+What's the matter?
+Too hot, Mr. Wonka?
+
+1075
+01:08:42,908 --> 01:08:45,159
+Too cold! Far too cold.
+
+1076
+01:08:45,160 --> 01:08:47,662
+That's gourmet Cooking for you.
+
+1077
+01:08:47,663 --> 01:08:48,955
+[MACHINE BEEPING]
+
+1078
+01:08:48,956 --> 01:08:50,707
+No! Don't, please.
+
+1079
+01:08:50,708 --> 01:08:53,751
+Forgive me, but no one
+must look under there.
+
+1080
+01:08:53,752 --> 01:08:57,005
+This is the most secret machine
+in my factory.
+
+1081
+01:08:57,006 --> 01:09:02,006
+- This one's going to sizzle Slugworth.
+CHARLIE: What's it do?
+
+1082
+01:09:02,094 --> 01:09:07,094
+- Would you like to see?
+ALL: Yeah!
+
+1083
+01:09:11,061 --> 01:09:13,688
+[BELL RINGING]
+
+1084
+01:09:13,689 --> 01:09:18,689
+[WHIRRING]
+
+1085
+01:09:27,786 --> 01:09:29,120
+What's it do?
+
+1086
+01:09:29,121 --> 01:09:32,290
+Can't you see?
+It makes Everlasting Gobstoppers.
+
+1087
+01:09:32,291 --> 01:09:34,208
+VIOLET:
+Did you say Everlasting Gobstoppers?
+
+1088
+01:09:34,209 --> 01:09:37,545
+For children with little money.
+You can suck them forever.
+
+1089
+01:09:37,546 --> 01:09:39,505
+I want an Everlasting Gobstopper!
+
+1090
+01:09:39,506 --> 01:09:40,715
+- Me too!
+- And me!
+
+1091
+01:09:40,716 --> 01:09:43,468
+Fantastic invention.
+Revolutionize the industry.
+
+1092
+01:09:43,469 --> 01:09:47,305
+You suck them and they'll
+never get smaller. Never.
+
+1093
+01:09:47,306 --> 01:09:48,640
+I think.
+
+1094
+01:09:48,641 --> 01:09:50,892
+WONKA: Few more tests.
+- How do you make them?
+
+1095
+01:09:50,893 --> 01:09:54,646
+I'm a trifle deaf in this ear.
+Speak louder next time.
+
+1096
+01:09:54,647 --> 01:09:56,481
+Who wants an Everlasting Gobstopper?
+
+1097
+01:09:56,482 --> 01:09:59,067
+"Vlel 'l do!"
+
+1098
+01:09:59,068 --> 01:10:03,655
+I can only give them to you if you
+swear to keep them for yourselves.
+
+1099
+01:10:03,656 --> 01:10:08,242
+And never show them
+to another soul as long as you live.
+
+1100
+01:10:08,243 --> 01:10:10,328
+WONKA: Agreed?
+CHILDREN [IN UNISON]: Agreed!
+
+1101
+01:10:10,329 --> 01:10:13,998
+Good. One for you,
+and one for you, and one for you.
+
+1102
+01:10:13,999 --> 01:10:15,667
+What about Charlie?
+
+1103
+01:10:15,668 --> 01:10:17,168
+And one for Charlie.
+
+1104
+01:10:17,169 --> 01:10:19,754
+Hey, she's got two!
+I want another!
+
+1105
+01:10:19,755 --> 01:10:22,757
+- Stop squawking, you twit!
+WONKA: Everybody has one.
+
+1106
+01:10:22,758 --> 01:10:27,679
+And one is enough for anybody.
+Now, come along.
+
+1107
+01:10:27,680 --> 01:10:29,722
+If you'll follow me...
+
+1108
+01:10:29,723 --> 01:10:30,473
+I have something special
+to show you.
+
+1109
+01:10:30,474 --> 01:10:32,016
+I have something special
+to show you.
+
+1110
+01:10:32,017 --> 01:10:34,018
+It's special, all right.
+
+1111
+01:10:34,019 --> 01:10:36,437
+I only hope Veruca doesn't want one.
+
+1112
+01:10:36,438 --> 01:10:37,772
+VIOLET: What a contraption!
+
+1113
+01:10:37,773 --> 01:10:39,023
+Isn't she scrumptious?
+
+1114
+01:10:39,024 --> 01:10:42,151
+My revolutionary,
+non-pollutionary mechanical wonder.
+
+1115
+01:10:42,152 --> 01:10:45,780
+Now, button, button,
+Who's got the button?
+
+1116
+01:10:45,781 --> 01:10:47,865
+It's over there.
+
+1117
+01:10:47,866 --> 01:10:51,202
+- Here?
+- Yeah.
+
+1118
+01:10:51,203 --> 01:10:56,203
+[WHIRRING]
+
+1119
+01:11:05,134 --> 01:11:07,468
+WONKA: What you are witnessing,
+dear friends...
+
+1120
+01:11:07,469 --> 01:11:10,638
+is the most enormous miracle
+of the Machine Age.
+
+1121
+01:11:10,639 --> 01:11:14,392
+The creation of a confectionery giant!
+
+1122
+01:11:14,393 --> 01:11:15,005
+[BUZZING]
+
+1123
+01:11:24,445 --> 01:11:27,572
+VERUCA: That's all?
+- Don't you know what this is?
+
+1124
+01:11:27,573 --> 01:11:29,490
+Wrongg.
+
+1125
+01:11:29,491 --> 01:11:33,161
+It's the most fabulous,
+sensational gum in the world!
+
+1126
+01:11:33,162 --> 01:11:34,746
+What's so fab about it?
+
+1127
+01:11:34,747 --> 01:11:38,082
+- This gum is a three-course dinner.
+- Bull!
+
+1128
+01:11:38,083 --> 01:11:41,252
+- Roast beef, but it's not right yet.
+- I don't care!
+
+1129
+01:11:41,253 --> 01:11:43,588
+I wouldn't do that.
+I really wouldn't.
+
+1130
+01:11:43,589 --> 01:11:45,506
+If it's gum, that's for me.
+
+1131
+01:11:45,507 --> 01:11:47,759
+Violet, don't do anything stupid.
+
+1132
+01:11:47,760 --> 01:11:49,927
+What's it taste like?
+
+1133
+01:11:49,928 --> 01:11:52,930
+Madness! It's tomato soup!
+
+1134
+01:11:52,931 --> 01:11:56,100
+It's creamy. I can feel it
+running down my throat!
+
+1135
+01:11:56,101 --> 01:11:57,769
+Stop. Don't.
+
+1136
+01:11:57,770 --> 01:11:59,520
+Why doesn't she listen?
+
+1137
+01:11:59,521 --> 01:12:02,440
+Because, Charlie, she's a nitwit.
+
+1138
+01:12:02,441 --> 01:12:03,775
+Great soup!
+
+1139
+01:12:03,776 --> 01:12:05,777
+The second course is coming.
+
+1140
+01:12:05,778 --> 01:12:08,404
+Roast beef and a baked potato! Mm!
+
+1141
+01:12:08,405 --> 01:12:10,531
+With sour cream?
+
+1142
+01:12:10,532 --> 01:12:11,949
+[LAUGHING]
+
+1143
+01:12:11,950 --> 01:12:14,869
+- What's for dessert?
+- Dessert? Here it comes!
+
+1144
+01:12:14,870 --> 01:12:19,123
+Blueberry pie and cream! It's
+the most marvelous I've ever tasted!
+
+1145
+01:12:19,124 --> 01:12:21,793
+MR. BEAUREGARDE: What's happening?
+- Cool it!
+
+1146
+01:12:21,794 --> 01:12:23,044
+Let me finish.
+
+1147
+01:12:23,045 --> 01:12:24,879
+You're face is turning blue!
+
+1148
+01:12:24,880 --> 01:12:27,048
+You're turning violet, Violet!
+
+1149
+01:12:27,049 --> 01:12:28,216
+What do you mean?
+
+1150
+01:12:28,217 --> 01:12:30,635
+I told you I hadn't got it right yet.
+
+1151
+01:12:30,636 --> 01:12:33,221
+Look what it's done to my kid!
+
+1152
+01:12:33,222 --> 01:12:37,517
+It always goes wrong when we
+come to the desserts. Always.
+
+1153
+01:12:37,518 --> 01:12:39,143
+Violet, what are you doing?!
+
+1154
+01:12:39,144 --> 01:12:41,312
+- You're blowing up!
+- I feel funny!
+
+1155
+01:12:41,313 --> 01:12:43,564
+- I'm not Surprised.
+- What's happening?!
+
+1156
+01:12:43,565 --> 01:12:45,733
+- You're like a balloon!
+WONKA: Like a blueberry.
+
+1157
+01:12:45,734 --> 01:12:47,985
+- Call a doctor!
+MRS. TEEVEE: Stick her with a pin.
+
+1158
+01:12:47,986 --> 01:12:50,571
+CHARLIE: She'll pop!
+WONKA: It happens every time!
+
+1159
+01:12:50,572 --> 01:12:53,825
+- They all become blueberries.
+- You've done it this time!
+
+1160
+01:12:53,826 --> 01:12:55,576
+I'll break you for this!
+
+1161
+01:12:55,577 --> 01:12:58,079
+- I'll get it right in the end.
+VIOLET: Help!
+
+1162
+01:12:58,080 --> 01:13:01,415
+- Help!
+- Oh, we've got to let the air out of her!
+
+1163
+01:13:01,416 --> 01:13:02,834
+WONKA: There's no air.
+MR. BEAUREGARDE: Hm?
+
+1164
+01:13:02,835 --> 01:13:04,585
+- That's juice.
+- Juice?
+
+1165
+01:13:04,586 --> 01:13:07,922
+Would you roll her down
+to the Juicing Room?
+
+1166
+01:13:07,923 --> 01:13:10,174
+- What for?
+- For squeezing.
+
+1167
+01:13:10,175 --> 01:13:12,760
+She has to be squeezed
+before she explodes.
+
+1168
+01:13:12,761 --> 01:13:16,597
+- Explodesl.
+- It's a fairly simple operation.
+
+1169
+01:13:16,598 --> 01:13:19,267
+<i>[SINGING]
+Oompa Loompa Doompa Dee Do.</i>
+
+1170
+01:13:19,268 --> 01:13:22,937
+<i>I've got another puzzle for you.</i>
+
+1171
+01:13:22,938 --> 01:13:26,691
+<i>Oompa Loompa Doompa Da Dee.</i>
+
+1172
+01:13:26,692 --> 01:13:30,403
+<i>If you are Wise
+You'll listen to me.</i>
+
+1173
+01:13:30,404 --> 01:13:33,698
+<i>Gum chewing's fine
+When it's once in a while</i>
+
+1174
+01:13:33,699 --> 01:13:37,535
+<i>it stops you from smoking
+And brightens your smile.</i>
+
+1175
+01:13:37,536 --> 01:13:41,038
+<i>But it's repulsive
+Revolting and wrong.</i>
+
+1176
+01:13:41,039 --> 01:13:43,124
+<i>Chewing and Chewing.</i>
+
+1177
+01:13:43,125 --> 01:13:46,711
+<i>All day long.</i>
+
+1178
+01:13:46,712 --> 01:13:50,298
+<i>The way that</i> a <i>cow does.</i>
+
+1179
+01:13:50,299 --> 01:13:53,968
+<i>Oompa Loompa Doompa Dee Da.</i>
+
+1180
+01:13:53,969 --> 01:13:57,638
+<i>Given good manners
+You will go far.</i>
+
+1181
+01:13:57,639 --> 01:14:01,142
+<i>You will live in happiness too.</i>
+
+1182
+01:14:01,143 --> 01:14:06,143
+<i>Like the Oompa Loompa
+Doompa Dee Do</i>
+
+1183
+01:14:09,568 --> 01:14:13,154
+I'll get even with you for this,
+if it's the last thing I do!
+
+1184
+01:14:13,155 --> 01:14:16,657
+I got a blueberry for a daughter!
+
+1185
+01:14:16,658 --> 01:14:21,658
+"Where is fancy bred?
+In the heart or in the head?"
+
+1186
+01:14:21,955 --> 01:14:26,955
+Shall we roll on?
+
+1187
+01:14:27,753 --> 01:14:29,921
+Thank you.
+
+1188
+01:14:29,922 --> 01:14:34,922
+Well, well, well! Two naughty,
+nasty little children gone.
+
+1189
+01:14:34,927 --> 01:14:39,927
+Three good,
+sweet little children left.
+
+1190
+01:14:40,432 --> 01:14:45,432
+Hurry, please.
+Long way to go yet.
+
+1191
+01:14:46,772 --> 01:14:49,106
+Wait a minute.
+Must show you this.
+
+1192
+01:14:49,107 --> 01:14:51,943
+Lickable wallpaper for nursery walls.
+
+1193
+01:14:51,944 --> 01:14:54,320
+Lick an orange, tastes like an orange.
+
+1194
+01:14:54,321 --> 01:14:58,157
+Lick a pineapple, it tastes
+like a pineapple. Try it!
+
+1195
+01:14:58,158 --> 01:15:00,326
+MIKE: Mm! I got a plum!
+
+1196
+01:15:00,327 --> 01:15:03,996
+Grandpa, this banana's fantastic!
+It tastes so real!
+
+1197
+01:15:03,997 --> 01:15:07,291
+Try some more. The strawberries
+taste like strawberries.
+
+1198
+01:15:07,292 --> 01:15:09,877
+The snozzberries
+taste like snozzberries.
+
+1199
+01:15:09,878 --> 01:15:14,090
+Snozzberries?
+Whoever heard of a snozzberry?
+
+1200
+01:15:14,091 --> 01:15:16,842
+We are the music makers.
+
+1201
+01:15:16,843 --> 01:15:21,263
+And we are the dreamers of dreams.
+
+1202
+01:15:21,264 --> 01:15:25,768
+Come along.
+
+1203
+01:15:25,769 --> 01:15:26,435
+Something very unusual in here.
+
+1204
+01:15:26,436 --> 01:15:28,938
+Something very unusual in here.
+
+1205
+01:15:28,939 --> 01:15:32,233
+Bubbles, bubbles everywhere,
+but not a drop to drink.
+
+1206
+01:15:32,234 --> 01:15:33,442
+Yet.
+
+1207
+01:15:33,443 --> 01:15:35,111
+CHARLIE: What's it making?
+
+1208
+01:15:35,112 --> 01:15:39,991
+Fizzy-Lifting drinks. They fill you
+with gas and the gas lifts you...
+
+1209
+01:15:39,992 --> 01:15:41,701
+off the ground like a balloon.
+
+1210
+01:15:41,702 --> 01:15:44,787
+VERUCA: Oh, isn't it high? Gosh!
+
+1211
+01:15:44,788 --> 01:15:46,539
+But it's still too powerful.
+
+1212
+01:15:46,540 --> 01:15:48,457
+BOTH: Let us try some! Please!
+
+1213
+01:15:48,458 --> 01:15:53,045
+No, no. There'd be children
+floating all over the place!
+
+1214
+01:15:53,046 --> 01:15:55,631
+Come along, don't hang about.
+
+1215
+01:15:55,632 --> 01:15:59,260
+You'll be wild about this next room.
+
+1216
+01:15:59,261 --> 01:16:01,887
+Let's take a drink.
+Nobody's watching.
+
+1217
+01:16:01,888 --> 01:16:06,888
+A small one won't hurt us. Whoops!
+
+1218
+01:16:09,062 --> 01:16:12,648
+Mmm! Not bad.
+
+1219
+01:16:12,649 --> 01:16:14,150
+Well?
+
+1220
+01:16:14,151 --> 01:16:15,985
+Nothing's happening.
+
+1221
+01:16:15,986 --> 01:16:19,363
+You're right, Charlie.
+I can't understand why...!
+
+1222
+01:16:19,364 --> 01:16:21,657
+Oh! Oh! Oh!
+
+1223
+01:16:21,658 --> 01:16:23,451
+I feel terribly strange.
+
+1224
+01:16:23,452 --> 01:16:27,079
+- What do we do now?
+- I don't know, Charlie, but... Aah! Oh! Oh!
+
+1225
+01:16:27,080 --> 01:16:31,500
+- Mr. Wonka isn't gonna like this!
+- We can't stay up here all day!
+
+1226
+01:16:31,501 --> 01:16:33,502
+- You're right.
+- I'll try and get down.
+
+1227
+01:16:33,503 --> 01:16:37,506
+All right, Charlie,
+but please be careful.
+
+1228
+01:16:37,507 --> 01:16:41,594
+It's fun! It works!
+Come on in! The air's fine!
+
+1229
+01:16:41,595 --> 01:16:44,764
+- I haven't swum in 20 years.
+- Give me your hand!
+
+1230
+01:16:44,765 --> 01:16:48,476
+I don't think I ought to.
+
+1231
+01:16:48,477 --> 01:16:51,687
+Oh. Oh, this is great!
+
+1232
+01:16:51,688 --> 01:16:53,439
+Hey, try this, Grandpa!
+
+1233
+01:16:53,440 --> 01:16:55,441
+- All right, Charlie. Wait for me!
+CHARLIE: Wee!
+
+1234
+01:16:55,442 --> 01:16:57,860
+Wee!
+
+1235
+01:16:57,861 --> 01:16:59,528
+Wee!
+
+1236
+01:16:59,529 --> 01:17:03,866
+- I'm a shooting star!
+- I'm a rocket!
+
+1237
+01:17:03,867 --> 01:17:05,951
+This is really great!
+
+1238
+01:17:05,952 --> 01:17:10,039
+Look, I'm a bird!
+
+1239
+01:17:10,040 --> 01:17:13,042
+I feel light as a feather.
+
+1240
+01:17:13,043 --> 01:17:14,418
+Look down.
+
+1241
+01:17:14,419 --> 01:17:19,419
+We're really high now.
+
+1242
+01:17:20,467 --> 01:17:25,467
+Watch this, Grandpa.
+
+1243
+01:17:25,722 --> 01:17:27,389
+Wonderful, Charlie!
+
+1244
+01:17:27,390 --> 01:17:29,809
+- Wow! Try it, Grandpa!
+- I don't know!
+
+1245
+01:17:29,810 --> 01:17:31,477
+Come on, Grandpa.
+
+1246
+01:17:31,478 --> 01:17:35,314
+All right.
+
+1247
+01:17:35,315 --> 01:17:38,192
+- Hey, you did it, Grandpa!
+- Oh.
+
+1248
+01:17:38,193 --> 01:17:40,903
+Oh, I think I hit an air pocket.
+
+1249
+01:17:40,904 --> 01:17:43,155
+You can fly to the moon this way!
+
+1250
+01:17:43,156 --> 01:17:45,324
+Let's fly south for the winter.
+
+1251
+01:17:45,325 --> 01:17:48,577
+Why not?
+
+1252
+01:17:48,578 --> 01:17:49,912
+Fmamm!
+
+1253
+01:17:49,913 --> 01:17:51,413
+I'm a plane!
+
+1254
+01:17:51,414 --> 01:17:52,665
+I'm...
+
+1255
+01:17:52,666 --> 01:17:55,334
+90in9 too high!
+
+1256
+01:17:55,335 --> 01:17:57,795
+Hey, Grandpa, I can't get down!
+
+1257
+01:17:57,796 --> 01:17:59,004
+Help!
+
+1258
+01:17:59,005 --> 01:18:00,840
+Grandpa, the fan!
+
+1259
+01:18:00,841 --> 01:18:03,092
+It'll chop us to bits!
+
+1260
+01:18:03,093 --> 01:18:05,594
+We're in trouble! I can't stop!
+
+1261
+01:18:05,595 --> 01:18:07,096
+CHARLIE: It's pulling me in!
+
+1262
+01:18:07,097 --> 01:18:09,181
+I can't stop!
+
+1263
+01:18:09,182 --> 01:18:12,184
+- What do we do?
+- Grab hold of something!
+
+1264
+01:18:12,185 --> 01:18:15,229
+There's nothing to grab on to! Help!
+
+1265
+01:18:15,230 --> 01:18:16,897
+We'll be killed!
+
+1266
+01:18:16,898 --> 01:18:18,732
+Help! Help!
+
+1267
+01:18:18,733 --> 01:18:22,528
+Mr. Wonka, please!
+Turn off the fan! Oh! Oh!
+
+1268
+01:18:22,529 --> 01:18:24,572
+[BURPS]
+
+1269
+01:18:24,573 --> 01:18:26,949
+Ooh! I'm going down! Quick!
+
+1270
+01:18:26,950 --> 01:18:30,077
+Burp! If you don't,
+it'll cut you to ribbons!
+
+1271
+01:18:30,078 --> 01:18:32,413
+CHARLIE: I can't! Help!
+JOE: You've gotta burp!
+
+1272
+01:18:32,414 --> 01:18:33,789
+It's the only way!
+
+1273
+01:18:33,790 --> 01:18:34,957
+[BURPING]
+
+1274
+01:18:34,958 --> 01:18:37,084
+JOE: Attaboy! Burp again!
+
+1275
+01:18:37,085 --> 01:18:41,255
+Attaboy! Come on!
+
+1276
+01:18:41,256 --> 01:18:46,256
+That's wonderful, Charlie!
+
+1277
+01:18:49,931 --> 01:18:54,931
+Grab on to me.
+We're gonna be all right now.
+
+1278
+01:19:01,193 --> 01:19:02,943
+Good boy!
+
+1279
+01:19:02,944 --> 01:19:05,529
+From now on
+we keep our feet on the ground.
+
+1280
+01:19:05,530 --> 01:19:10,284
+Let's catch up to the others!
+
+1281
+01:19:10,285 --> 01:19:12,119
+I know what you're thinking.
+
+1282
+01:19:12,120 --> 01:19:14,371
+They can't be doing what they're doing.
+
+1283
+01:19:14,372 --> 01:19:16,624
+But they are. They have to.
+
+1284
+01:19:16,625 --> 01:19:19,293
+The Oompa Loompas can't do it.
+
+1285
+01:19:19,294 --> 01:19:21,754
+These are the geese
+that lay the golden eggs.
+
+1286
+01:19:21,755 --> 01:19:24,590
+They're larger than ordinary geese.
+
+1287
+01:19:24,591 --> 01:19:26,926
+They're quadruple-size,
+which produces...
+
+1288
+01:19:26,927 --> 01:19:30,262
+octuple-size eggs.
+They're laying overtime for Easter.
+
+1289
+01:19:30,263 --> 01:19:32,431
+- But Easter's over!
+- Shh.
+
+1290
+01:19:32,432 --> 01:19:34,016
+They don't know that.
+
+1291
+01:19:34,017 --> 01:19:37,937
+I'm trying to get ahead for next year.
+
+1292
+01:19:37,938 --> 01:19:40,356
+MR. SALT:
+What happens if they drop an egg?
+
+1293
+01:19:40,357 --> 01:19:43,275
+WONKA:
+An omelette fit for a king, sir.
+
+1294
+01:19:43,276 --> 01:19:45,110
+VERUCA: Are they chocolate eggs?
+
+1295
+01:19:45,111 --> 01:19:48,113
+Golden chocolate eggs!
+A great delicacy.
+
+1296
+01:19:48,114 --> 01:19:49,782
+But don't get too close.
+
+1297
+01:19:49,783 --> 01:19:52,826
+The geese are temperamental,
+so we have the Eggdicator.
+
+1298
+01:19:52,827 --> 01:19:53,994
+MRS. TEEVEE: Eggdi-what?
+
+1299
+01:19:53,995 --> 01:19:57,539
+WONKA: The Eggdicator tells
+the difference between a good egg...
+
+1300
+01:19:57,540 --> 01:19:58,958
+and a bad egg.
+
+1301
+01:19:58,959 --> 01:20:02,711
+If it's good, it's shined
+and shipped over the world.
+
+1302
+01:20:02,712 --> 01:20:05,547
+If it's a bad egg...
+
+1303
+01:20:05,548 --> 01:20:09,176
+down the chute.
+
+1304
+01:20:09,177 --> 01:20:11,303
+[HORN HONKS]
+
+1305
+01:20:11,304 --> 01:20:13,138
+An educated Eggdicator.
+
+1306
+01:20:13,139 --> 01:20:15,307
+It's a lot of nonsense.
+
+1307
+01:20:15,308 --> 01:20:18,477
+<i>[SINGING]
+A little nonsense now and then</i>
+
+1308
+01:20:18,478 --> 01:20:22,564
+<i>ls relished by the wisest men.</i>
+
+1309
+01:20:22,565 --> 01:20:24,400
+VERUCA: I want a golden goose!
+
+1310
+01:20:24,401 --> 01:20:25,818
+Here we go again.
+
+1311
+01:20:25,819 --> 01:20:27,653
+MR. SALT: All right, sweetheart.
+
+1312
+01:20:27,654 --> 01:20:30,072
+You'll get one as soon as we get home.
+
+1313
+01:20:30,073 --> 01:20:33,075
+No, I want one of those!
+
+1314
+01:20:33,076 --> 01:20:35,411
+How much do you want for the goose?
+
+1315
+01:20:35,412 --> 01:20:37,079
+WONKA: Not for sale.
+- Name your price.
+
+1316
+01:20:37,080 --> 01:20:38,330
+WONKA: She can't have one.
+
+1317
+01:20:38,331 --> 01:20:39,832
+Who says I can't?
+
+1318
+01:20:39,833 --> 01:20:41,750
+- The man with the hat.
+- I want one!
+
+1319
+01:20:41,751 --> 01:20:44,003
+I want a golden goose!
+
+1320
+01:20:44,004 --> 01:20:45,254
+Gooses!
+
+1321
+01:20:45,255 --> 01:20:46,672
+Geeses!
+
+1322
+01:20:46,673 --> 01:20:49,508
+I want my geese to lay
+gold eggs for Easter.
+
+1323
+01:20:49,509 --> 01:20:51,927
+- It will, sweetheart.
+- At least 100 a day.
+
+1324
+01:20:51,928 --> 01:20:55,097
+- Anything you say.
+- And by the way...
+
+1325
+01:20:55,098 --> 01:20:56,598
+I want a feast.
+
+1326
+01:20:56,599 --> 01:20:58,517
+You ate before you came.
+
+1327
+01:20:58,518 --> 01:21:00,144
+[SINGING] <i>I</i> want a bean-feast.
+
+1328
+01:21:00,145 --> 01:21:01,562
+Oh, one of those.
+
+1329
+01:21:01,563 --> 01:21:04,606
+<i>Cream buns and doughnuts
+And fruitcake with no nuts.</i>
+
+1330
+01:21:04,607 --> 01:21:08,027
+- So <i>good</i> you <i>could go</i> nuts.
+- You'll have them when you get home.
+
+1331
+01:21:08,028 --> 01:21:11,530
+No, now! I want a ball!
+
+1332
+01:21:11,531 --> 01:21:13,866
+<i>[SINGING] I want</i> a <i>party.</i>
+
+1333
+01:21:13,867 --> 01:21:16,118
+<i>Pink macaroons
+And</i> a <i>million balloons.</i>
+
+1334
+01:21:16,119 --> 01:21:18,537
+<i>And performing baboons and...</i>
+
+1335
+01:21:18,538 --> 01:21:20,247
+<i>Give it to me.</i>
+
+1336
+01:21:20,248 --> 01:21:21,457
+NOW!
+
+1337
+01:21:21,458 --> 01:21:23,792
+<i>I want the world.</i>
+
+1338
+01:21:23,793 --> 01:21:26,295
+<i>I want the whole world.</i>
+
+1339
+01:21:26,296 --> 01:21:30,799
+<i>I want to /ock it all up in my pocket
+It's my bar of chocolate.</i>
+
+1340
+01:21:30,800 --> 01:21:33,969
+<i>Give it to me now.</i>
+
+1341
+01:21:33,970 --> 01:21:36,305
+<i>I want today.</i>
+
+1342
+01:21:36,306 --> 01:21:38,557
+<i>I want tomorrow.</i>
+
+1343
+01:21:38,558 --> 01:21:41,393
+<i>I want to wear them
+Like braids in my hair.</i>
+
+1344
+01:21:41,394 --> 01:21:46,394
+<i>And I don't want to share them.</i>
+
+1345
+01:21:47,317 --> 01:21:51,153
+<i>I want</i> a <i>party
+With roomfuls of laughter</i>
+
+1346
+01:21:51,154 --> 01:21:54,156
+<i>10,000 tons of ice cream.</i>
+
+1347
+01:21:54,157 --> 01:21:58,744
+<i>And if I don't
+Get the things I am after.</i>
+
+1348
+01:21:58,745 --> 01:22:03,745
+<i>I'm going to Scream!</i>
+
+1349
+01:22:12,592 --> 01:22:14,093
+<i>I want the works.</i>
+
+1350
+01:22:14,094 --> 01:22:15,677
+<i>I want the whole works.</i>
+
+1351
+01:22:15,678 --> 01:22:18,514
+<i>Presents and prizes
+And sweets and surprises.</i>
+
+1352
+01:22:18,515 --> 01:22:21,433
+<i>Of all shapes and sizes And now.</i>
+
+1353
+01:22:21,434 --> 01:22:25,938
+<i>Don't care how I want it now.</i>
+
+1354
+01:22:25,939 --> 01:22:30,317
+<i>Don't care how I want it now</i>
+
+1355
+01:22:30,318 --> 01:22:35,318
+[HORN HONKS]
+
+1356
+01:22:38,034 --> 01:22:41,286
+She was a bad egg.
+
+1357
+01:22:41,287 --> 01:22:42,704
+Where's she gone?
+
+1358
+01:22:42,705 --> 01:22:46,125
+Where all the other bad eggs go.
+Down the garbage chute.
+
+1359
+01:22:46,126 --> 01:22:48,710
+The garbage chute.
+
+1360
+01:22:48,711 --> 01:22:50,295
+Where does it lead to?
+
+1361
+01:22:50,296 --> 01:22:52,214
+To the furnace.
+
+1362
+01:22:52,215 --> 01:22:53,757
+The furnace?
+
+1363
+01:22:53,758 --> 01:22:54,925
+[LAUGHING]
+
+1364
+01:22:54,926 --> 01:22:57,886
+- She'll sizzle like a sausage.
+- Not necessarily.
+
+1365
+01:22:57,887 --> 01:23:00,597
+- She could be stuck inside the tube.
+- Inside the...
+
+1366
+01:23:00,598 --> 01:23:01,807
+Hold on!
+
+1367
+01:23:01,808 --> 01:23:03,559
+Veruca! Sweetheart!
+
+1368
+01:23:03,560 --> 01:23:05,727
+Daddy's coming!
+
+1369
+01:23:05,728 --> 01:23:07,938
+[HORN HONKS]
+
+1370
+01:23:07,939 --> 01:23:08,689
+There'll be a lot of garbage today.
+
+1371
+01:23:08,690 --> 01:23:10,232
+There'll be a lot of garbage today.
+
+1372
+01:23:10,233 --> 01:23:13,318
+Ah, Mr. Salt finally got what he wanted.
+
+1373
+01:23:13,319 --> 01:23:16,071
+- What's that?
+- Veruca went first.
+
+1374
+01:23:16,072 --> 01:23:20,033
+Mr. Wonka, they won't really
+be burned in the furnace, will they?
+
+1375
+01:23:20,034 --> 01:23:23,912
+Hm. I think that furnace is lit
+only every other day.
+
+1376
+01:23:23,913 --> 01:23:27,249
+So they have a good sporting Chance.
+
+1377
+01:23:27,250 --> 01:23:30,919
+<i>[SINGING]
+Oompa Loompa Doompa Dee Do.</i>
+
+1378
+01:23:30,920 --> 01:23:34,590
+<i>I've got another puzzle for you.</i>
+
+1379
+01:23:34,591 --> 01:23:38,177
+<i>Oompa Loompa Doompa Dee Dee.</i>
+
+1380
+01:23:38,178 --> 01:23:41,847
+<i>If you are Wise
+You'll listen to me.</i>
+
+1381
+01:23:41,848 --> 01:23:45,350
+<i>Who do you blame
+When your kid is a brat.</i>
+
+1382
+01:23:45,351 --> 01:23:48,854
+<i>Pampered and Spoiled
+Like a Siamese cat.</i>
+
+1383
+01:23:48,855 --> 01:23:52,274
+<i>Blaming the kids
+ls a /ie and a shame.</i>
+
+1384
+01:23:52,275 --> 01:23:57,112
+<i>You know exactly Who's to b/ame.</i>
+
+1385
+01:23:57,113 --> 01:24:00,908
+<i>The mother and the father.</i>
+
+1386
+01:24:00,909 --> 01:24:04,453
+<i>Oompa Loompa Doompa Dee Da.</i>
+
+1387
+01:24:04,454 --> 01:24:08,123
+<i>If you're not spoiled
+Then you will go far.</i>
+
+1388
+01:24:08,124 --> 01:24:13,124
+<i>You will live in happiness too.</i>
+
+1389
+01:24:13,379 --> 01:24:18,379
+<i>Like the Oompa Loompa
+Doompa Dee Do.</i>
+
+1390
+01:24:18,801 --> 01:24:19,468
+The children are
+disappearing like rabbits!
+
+1391
+01:24:19,469 --> 01:24:21,803
+The children are
+disappearing like rabbits!
+
+1392
+01:24:21,804 --> 01:24:25,140
+We still have each other.
+Shall we press on?
+
+1393
+01:24:25,141 --> 01:24:27,309
+Can't we sit down for a minute?
+
+1394
+01:24:27,310 --> 01:24:30,604
+- The pace is killing me.
+- Transportation has been arranged.
+
+1395
+01:24:30,605 --> 01:24:35,605
+[GOOSE SQUAWKS]
+
+1396
+01:24:36,110 --> 01:24:38,445
+WONKA: Behold the Wonkamobile!
+
+1397
+01:24:38,446 --> 01:24:40,614
+"A thing of beauty is a joy forever."
+
+1398
+01:24:40,615 --> 01:24:43,700
+Places, please.
+The dance is about to begin.
+
+1399
+01:24:43,701 --> 01:24:46,453
+Grab a seat, they're going fast!
+
+1400
+01:24:46,454 --> 01:24:49,122
+What's that
+they're filling it up with?
+
+1401
+01:24:49,123 --> 01:24:52,125
+Ginger ale, ginger pop,
+ginger beer, beer bubbles...
+
+1402
+01:24:52,126 --> 01:24:55,629
+bubble cola, double cola,
+double-bubble burp-a-cola...
+
+1403
+01:24:55,630 --> 01:24:58,799
+all that carbonated stuff
+that tickles your nose.
+
+1404
+01:24:58,800 --> 01:25:01,969
+Few people realize the power
+in one of those things.
+
+1405
+01:25:01,970 --> 01:25:04,054
+I'm sorry I asked.
+
+1406
+01:25:04,055 --> 01:25:07,307
+Would Slugworth pay extra
+to know about this?
+
+1407
+01:25:07,308 --> 01:25:11,728
+Just keep your eyes open
+and your mouth shut.
+
+1408
+01:25:11,729 --> 01:25:13,146
+Everybody set?
+
+1409
+01:25:13,147 --> 01:25:14,314
+Will it go fast?
+
+1410
+01:25:14,315 --> 01:25:17,651
+It should. It's got more gas
+than a politician!
+
+1411
+01:25:17,652 --> 01:25:22,652
+Hold on. I'm gonna really
+open her up and see what she can do.
+
+1412
+01:25:22,824 --> 01:25:27,824
+[SPUTTERING]
+
+1413
+01:25:29,664 --> 01:25:31,915
+"Swifter than eagles...
+
+1414
+01:25:31,916 --> 01:25:34,835
+stronger than lions!"
+
+1415
+01:25:34,836 --> 01:25:37,045
+[SCREAMING]
+
+1416
+01:25:37,046 --> 01:25:39,506
+CHARLIE: Grandpa!
+
+1417
+01:25:39,507 --> 01:25:41,925
+'Aahl - Ohi.
+
+1418
+01:25:41,926 --> 01:25:44,261
+MIKE: It's getting in my eyes!
+
+1419
+01:25:44,262 --> 01:25:46,346
+MRS. TEEVEE:
+It's even in my shoes!
+
+1420
+01:25:46,347 --> 01:25:49,516
+I'm soaked!
+It'll never come out!
+
+1421
+01:25:49,517 --> 01:25:51,476
+MIKE: It's sticking to my gun!
+
+1422
+01:25:51,477 --> 01:25:54,271
+MRS. TEEVEE: Oh!
+
+1423
+01:25:54,272 --> 01:25:59,272
+[SINGING IN SPANISH]
+
+1424
+01:25:59,360 --> 01:26:03,864
+My dress! My hair! My face!
+
+1425
+01:26:03,865 --> 01:26:08,865
+I'm sending you
+the Cleaning bill, Mr. Wonka!
+
+1426
+01:26:09,787 --> 01:26:14,787
+I'm dry-cleaned!
+
+1427
+01:26:15,585 --> 01:26:17,002
+CHARLIE: Hey, Grandpa!
+
+1428
+01:26:17,003 --> 01:26:17,753
+What was that we just went through?
+
+1429
+01:26:17,754 --> 01:26:19,421
+What was that we just went through?
+
+1430
+01:26:19,422 --> 01:26:21,006
+Hsaw Aknow.
+
+1431
+01:26:21,007 --> 01:26:24,176
+- Is that Japanese?
+- It's "Wonka Wash" spelled backwards.
+
+1432
+01:26:24,177 --> 01:26:26,511
+That's it. The journey's over.
+
+1433
+01:26:26,512 --> 01:26:29,014
+JOE:
+Finest bath I've had in 20 years!
+
+1434
+01:26:29,015 --> 01:26:30,599
+Let's do it again!
+
+1435
+01:26:30,600 --> 01:26:34,436
+- That's as far as it goes?
+- Couldn't we have walked?
+
+1436
+01:26:34,437 --> 01:26:38,857
+If the Lord meant us to walk, he
+wouldn't have invented roller skates.
+
+1437
+01:26:38,858 --> 01:26:40,859
+Would you put these on?
+
+1438
+01:26:40,860 --> 01:26:43,612
+We have to be careful.
+
+1439
+01:26:43,613 --> 01:26:48,613
+There's dangerous stuff inside.
+
+1440
+01:26:48,701 --> 01:26:50,118
+Wonkavision!
+
+1441
+01:26:50,119 --> 01:26:53,121
+My very latest and greatest invention.
+
+1442
+01:26:53,122 --> 01:26:55,707
+MIKE: It's television!
+WONKA: It's Wonkavision.
+
+1443
+01:26:55,708 --> 01:26:58,960
+You all know how
+ordinary television works.
+
+1444
+01:26:58,961 --> 01:27:01,463
+- You photo...
+- You photograph something...
+
+1445
+01:27:01,464 --> 01:27:04,299
+then it's split
+into millions of pieces...
+
+1446
+01:27:04,300 --> 01:27:09,054
+that fly through the air down
+to your TV set in the right order.
+
+1447
+01:27:09,055 --> 01:27:12,391
+You should open your mouth
+a little wider when you speak.
+
+1448
+01:27:12,392 --> 01:27:14,601
+If they can do it with a photograph...
+
+1449
+01:27:14,602 --> 01:27:19,602
+why can't I do it
+with a bar of chocolate?
+
+1450
+01:27:20,233 --> 01:27:24,820
+I shall now send this chocolate bar
+from one end of the room to the other.
+
+1451
+01:27:24,821 --> 01:27:28,490
+It has to be big, because
+when you transmit by television...
+
+1452
+01:27:28,491 --> 01:27:30,909
+it always ends up smaller.
+
+1453
+01:27:30,910 --> 01:27:34,746
+Goggles on, please.
+
+1454
+01:27:34,747 --> 01:27:37,040
+Lights, camera...
+
+1455
+01:27:37,041 --> 01:27:38,750
+.uacüonl
+
+1456
+01:27:38,751 --> 01:27:40,001
+[MRS. TEEVEE SCREAMS]
+
+1457
+01:27:40,002 --> 01:27:42,587
+You can remove your goggles.
+
+1458
+01:27:42,588 --> 01:27:44,005
+Where's the chocolate?
+
+1459
+01:27:44,006 --> 01:27:49,006
+It's flying over our heads
+in a million pieces.
+
+1460
+01:27:49,095 --> 01:27:51,096
+Now watch the screen.
+
+1461
+01:27:51,097 --> 01:27:53,598
+[BEEPING]
+
+1462
+01:27:53,599 --> 01:27:56,184
+Here it comes.
+
+1463
+01:27:56,185 --> 01:27:58,019
+There it is.
+
+1464
+01:27:58,020 --> 01:27:59,312
+Take it.
+
+1465
+01:27:59,313 --> 01:28:01,106
+How? It's just a picture.
+
+1466
+01:28:01,107 --> 01:28:03,734
+All right, you take it.
+
+1467
+01:28:03,735 --> 01:28:04,943
+It's real!
+
+1468
+01:28:04,944 --> 01:28:09,944
+Taste it! It's delicious.
+It's just gotten smaller.
+
+1469
+01:28:10,199 --> 01:28:11,408
+It's perfect!
+
+1470
+01:28:11,409 --> 01:28:12,617
+Unbelievable!
+
+1471
+01:28:12,618 --> 01:28:14,536
+- A miracle!
+- It's a TV dinner!
+
+1472
+01:28:14,537 --> 01:28:17,289
+- It's Wonkavision.
+- It could change the world!
+
+1473
+01:28:17,290 --> 01:28:19,291
+Can you send other things?
+
+1474
+01:28:19,292 --> 01:28:21,543
+- Notjust chocolate, I mean.
+- Anything you like.
+
+1475
+01:28:21,544 --> 01:28:23,128
+What about people?
+
+1476
+01:28:23,129 --> 01:28:25,088
+People?
+
+1477
+01:28:25,089 --> 01:28:28,884
+Hm. I don't really know.
+I suppose I could.
+
+1478
+01:28:28,885 --> 01:28:32,137
+Yes, I'm sure I could.
+I'm pretty sure I could.
+
+1479
+01:28:32,138 --> 01:28:33,972
+But it might have messy results.
+
+1480
+01:28:33,973 --> 01:28:37,392
+MIKE: I'm gonna be the first person
+to be sent by television!
+
+1481
+01:28:37,393 --> 01:28:38,810
+MRS. TEEVEE: Get away!
+
+1482
+01:28:38,811 --> 01:28:40,312
+Stop. Don't. Come back.
+
+1483
+01:28:40,313 --> 01:28:44,983
+MIKE: Lights, camera, action!
+
+1484
+01:28:44,984 --> 01:28:47,652
+Mike! Where are you?
+
+1485
+01:28:47,653 --> 01:28:49,863
+He's up there, in a million pieces.
+
+1486
+01:28:49,864 --> 01:28:51,698
+Mike, are you there?
+
+1487
+01:28:51,699 --> 01:28:56,699
+No good shouting, dear.
+Watch the screen.
+
+1488
+01:28:56,829 --> 01:28:59,331
+Mike? Why is he taking so long?
+
+1489
+01:28:59,332 --> 01:29:01,583
+A million pieces
+take time to put together.
+
+1490
+01:29:01,584 --> 01:29:04,503
+- Where are they?
+- There's something coming through.
+
+1491
+01:29:04,504 --> 01:29:06,880
+- Is it Mike?
+- It's hard to tell, but...
+
+1492
+01:29:06,881 --> 01:29:10,425
+- Oh!
+- Our group's getting smaller by the minute!
+
+1493
+01:29:10,426 --> 01:29:15,388
+MIKE: Look at me! I'm the first person
+in the world to be sent by television!
+
+1494
+01:29:15,389 --> 01:29:18,016
+Wow, what a wild trip that was!
+
+1495
+01:29:18,017 --> 01:29:20,769
+It's the greatest thing
+that's ever happened!
+
+1496
+01:29:20,770 --> 01:29:24,523
+Am I coming in clear?
+I said, am I coming in clear?
+
+1497
+01:29:24,524 --> 01:29:26,691
+Great. He's completely unharmed.
+
+1498
+01:29:26,692 --> 01:29:29,027
+You call that unharmed?!
+
+1499
+01:29:29,028 --> 01:29:32,322
+Wow, that was something.
+Can I do it again?
+
+1500
+01:29:32,323 --> 01:29:36,368
+MRS. TEEVEE: No, there'll be nothing left!
+- Don't worry, Mom. I feel fine.
+
+1501
+01:29:36,369 --> 01:29:38,537
+I'm famous! I'm a TV star!
+
+1502
+01:29:38,538 --> 01:29:40,789
+Wait till the kids back home hear!
+
+1503
+01:29:40,790 --> 01:29:42,290
+Nobody's gonna hear!
+
+1504
+01:29:42,291 --> 01:29:43,959
+Where are you taking me?
+
+1505
+01:29:43,960 --> 01:29:45,627
+I don't want to go in there!
+
+1506
+01:29:45,628 --> 01:29:47,212
+Be quiet!
+
+1507
+01:29:47,213 --> 01:29:48,964
+Well?
+
+1508
+01:29:48,965 --> 01:29:52,884
+Fortunately, small boys
+are extremely springy and elastic.
+
+1509
+01:29:52,885 --> 01:29:56,888
+So I think we'll put him in my
+special taffy-pulling machine.
+
+1510
+01:29:56,889 --> 01:29:58,640
+To the Taffy-Pulling Room.
+
+1511
+01:29:58,641 --> 01:30:02,644
+The boy's in his mother's purse.
+But be careful.
+
+1512
+01:30:02,645 --> 01:30:04,396
+Taffy pull...?
+
+1513
+01:30:04,397 --> 01:30:05,647
+What's he saying?
+
+1514
+01:30:05,648 --> 01:30:06,815
+[SPEAKING INDISTINCTLY]
+
+1515
+01:30:06,816 --> 01:30:09,609
+No, I won't hold you responsible.
+
+1516
+01:30:09,610 --> 01:30:14,322
+Oh. And now, my dearest lady,
+it's time to say goodbye.
+
+1517
+01:30:14,323 --> 01:30:16,324
+_Ah__ - No, no! Don't Speak!
+
+1518
+01:30:16,325 --> 01:30:21,325
+For some moments in life,
+there are no words. Run along, now.
+
+1519
+01:30:22,540 --> 01:30:27,085
+[GROANING]
+
+1520
+01:30:27,086 --> 01:30:32,086
+<i>Adieu,</i> adieu,
+"parting is such sweet sorrow."
+
+1521
+01:30:41,267 --> 01:30:44,853
+<i>[SINGING]
+Oompa Loompa Doompa Dee Do.</i>
+
+1522
+01:30:44,854 --> 01:30:48,398
+<i>I've got another puzzle for you.</i>
+
+1523
+01:30:48,399 --> 01:30:52,068
+<i>Oompa Loompa Doompa Da Dee.</i>
+
+1524
+01:30:52,069 --> 01:30:55,614
+<i>If you are Wise
+You'll listen to me.</i>
+
+1525
+01:30:55,615 --> 01:30:58,491
+<i>What do you get from</i> a <i>glut of TV?</i>
+
+1526
+01:30:58,492 --> 01:31:02,245
+<i>A pain in the neck
+And an IQ of three.</i>
+
+1527
+01:31:02,246 --> 01:31:05,749
+<i>Why don't you try
+Simply reading a book?</i>
+
+1528
+01:31:05,750 --> 01:31:08,501
+<i>Or could you just not bear
+To look?</i>
+
+1529
+01:31:08,502 --> 01:31:13,048
+<i>- You'll get no.
+- You'll get no.</i>
+
+1530
+01:31:13,049 --> 01:31:16,092
+<i>You'll get no commercials.</i>
+
+1531
+01:31:16,093 --> 01:31:20,597
+<i>Oompa Loompa Doompa Dee Da.</i>
+
+1532
+01:31:20,598 --> 01:31:24,517
+<i>If you're not greedy you will go far.</i>
+
+1533
+01:31:24,518 --> 01:31:28,313
+<i>You will live in happiness too.</i>
+
+1534
+01:31:28,314 --> 01:31:30,106
+<i>Like the...</i>
+
+1535
+01:31:30,107 --> 01:31:32,108
+Oompa...
+
+1536
+01:31:32,109 --> 01:31:37,109
+<i>Oompa Loompa Doompa Dee Do!</i>
+
+1537
+01:31:38,824 --> 01:31:43,745
+So much to do, so much to do.
+Invoices, bills, letters.
+
+1538
+01:31:43,746 --> 01:31:47,082
+I must answer that note
+from the queen.
+
+1539
+01:31:47,083 --> 01:31:49,417
+What will happen to the others?
+
+1540
+01:31:49,418 --> 01:31:50,835
+Augustus? Veruca?
+
+1541
+01:31:50,836 --> 01:31:52,087
+My dear boy...
+
+1542
+01:31:52,088 --> 01:31:54,339
+they'll be quite all right.
+
+1543
+01:31:54,340 --> 01:31:59,340
+When they leave they'll be restored
+to their normal, terrible old selves.
+
+1544
+01:31:59,845 --> 01:32:02,681
+But maybe a little wiser for the wear.
+
+1545
+01:32:02,682 --> 01:32:04,349
+Don't worry.
+
+1546
+01:32:04,350 --> 01:32:07,185
+What do we do now, Mr. Wonka?
+
+1547
+01:32:07,186 --> 01:32:11,606
+Oh, yes. Well, I hope you enjoyed yourselves.
+Excuse me for not showing you out.
+
+1548
+01:32:11,607 --> 01:32:13,692
+Straight up the stairs. I'm terribly busy.
+
+1549
+01:32:13,693 --> 01:32:18,693
+A whole day wasted.
+Goodbye to you both. Goodbye.
+
+1550
+01:32:20,199 --> 01:32:23,952
+What happened?
+Did we do something wrong?
+
+1551
+01:32:23,953 --> 01:32:26,454
+I don't know, Charlie.
+
+1552
+01:32:26,455 --> 01:32:31,455
+But I'm gonna find out.
+
+1553
+01:32:46,475 --> 01:32:49,394
+- Mr. Wonka?
+- I am extraordinarily busy, sir.
+
+1554
+01:32:49,395 --> 01:32:52,313
+I wanted to ask about the chocolate.
+
+1555
+01:32:52,314 --> 01:32:56,234
+The lifetime supply of chocolate?
+For Charlie.
+
+1556
+01:32:56,235 --> 01:32:57,902
+When does he get it?
+
+1557
+01:32:57,903 --> 01:33:00,238
+- He doesn't.
+- Why not?
+
+1558
+01:33:00,239 --> 01:33:02,574
+Because he broke the rules.
+
+1559
+01:33:02,575 --> 01:33:05,577
+What rules?
+We didn't see any rules, did we?
+
+1560
+01:33:05,578 --> 01:33:07,829
+Wrong, sir! Wrong!
+
+1561
+01:33:07,830 --> 01:33:11,499
+Under Section 37-B of the
+contract signed by him...
+
+1562
+01:33:11,500 --> 01:33:15,837
+it states clearly that all offers
+shall become null and void if...
+
+1563
+01:33:15,838 --> 01:33:19,007
+and you can read it
+for yourself in this copy:
+
+1564
+01:33:19,008 --> 01:33:20,675
+"I, the undersigned..."
+
+1565
+01:33:20,676 --> 01:33:23,762
+shall forfeit all rights,
+privileges and licenses...
+
+1566
+01:33:23,763 --> 01:33:26,306
+"...herein contained," et cetera...
+
+1567
+01:33:26,307 --> 01:33:31,307
+[SPEAKING IN LATIN]
+
+1568
+01:33:33,272 --> 01:33:36,775
+It's all there! Black and white!
+Clear as Crystal!
+
+1569
+01:33:36,776 --> 01:33:39,194
+You stole Fizzy-Lifting drinks!
+
+1570
+01:33:39,195 --> 01:33:43,031
+You bumped into the ceiling
+which now has to be sterilized!
+
+1571
+01:33:43,032 --> 01:33:45,283
+So you get nothing!
+
+1572
+01:33:45,284 --> 01:33:46,785
+You lose!
+
+1573
+01:33:46,786 --> 01:33:49,704
+Good day, sir!
+
+1574
+01:33:49,705 --> 01:33:51,539
+You're a crook.
+
+1575
+01:33:51,540 --> 01:33:54,459
+A cheat and a swindler,
+that's what you are!
+
+1576
+01:33:54,460 --> 01:33:56,628
+How can you do this?!
+
+1577
+01:33:56,629 --> 01:34:00,465
+Build up a little boy's hopes and
+then smash his dreams to pieces!
+
+1578
+01:34:00,466 --> 01:34:02,467
+You're an inhuman monster!
+
+1579
+01:34:02,468 --> 01:34:07,468
+I said, good day!
+
+1580
+01:34:08,474 --> 01:34:11,643
+Come on, Charlie.
+Let's get out of here.
+
+1581
+01:34:11,644 --> 01:34:14,479
+I'll get even
+if it's the last thing I do.
+
+1582
+01:34:14,480 --> 01:34:19,480
+If Slugworth wants a Gobstopper,
+he'll get one.
+
+1583
+01:34:40,506 --> 01:34:45,506
+Mr. Wonka?
+
+1584
+01:34:50,266 --> 01:34:53,017
+WONKA: "So shines a good deed..."
+
+1585
+01:34:53,018 --> 01:34:56,646
+in a weary world."
+
+1586
+01:34:56,647 --> 01:34:59,315
+Charlie.
+
+1587
+01:34:59,316 --> 01:35:01,609
+My boy.
+
+1588
+01:35:01,610 --> 01:35:03,111
+You won!
+
+1589
+01:35:03,112 --> 01:35:05,196
+You did it! You did it!
+
+1590
+01:35:05,197 --> 01:35:08,283
+I knew you would!
+I just knew you would!
+
+1591
+01:35:08,284 --> 01:35:12,704
+Oh, Charlie, forgive me for
+putting you through this. Please.
+
+1592
+01:35:12,705 --> 01:35:16,040
+Come in, Mr. Wilkinson.
+Charlie, meet Mr. Wilkinson.
+
+1593
+01:35:16,041 --> 01:35:17,458
+- Pleasure.
+- Slugworthl.
+
+1594
+01:35:17,459 --> 01:35:20,211
+That's not Slugworth!
+He works for me!
+
+1595
+01:35:20,212 --> 01:35:22,714
+- Foryou?
+- I had to test you, Charlie.
+
+1596
+01:35:22,715 --> 01:35:25,967
+And you passed the test.
+You won!
+
+1597
+01:35:25,968 --> 01:35:28,303
+- Won what?
+- The jackpot, my dear sir!
+
+1598
+01:35:28,304 --> 01:35:31,139
+- The grand and glorious jackpot!
+- The chocolate?
+
+1599
+01:35:31,140 --> 01:35:34,726
+The chocolate, yes.
+But that's just the beginning!
+
+1600
+01:35:34,727 --> 01:35:38,396
+We have so much time
+and so little to do!
+
+1601
+01:35:38,397 --> 01:35:40,481
+Strike that. Reverse it.
+
+1602
+01:35:40,482 --> 01:35:42,650
+This way, please!
+
+1603
+01:35:42,651 --> 01:35:43,318
+We'll take the Wonkavator.
+
+1604
+01:35:43,319 --> 01:35:45,486
+We'll take the Wonkavator.
+
+1605
+01:35:45,487 --> 01:35:50,487
+Step in, Charlie.
+Grandpa Joe, sir.
+
+1606
+01:35:55,831 --> 01:36:00,001
+- This is the great glass Wonkavator.
+- It's an elevator.
+
+1607
+01:36:00,002 --> 01:36:02,587
+A Won kavator.
+An elevator goes up and down.
+
+1608
+01:36:02,588 --> 01:36:06,299
+But the Wonkavator can go
+sideways, slantways, backways...
+
+1609
+01:36:06,300 --> 01:36:07,467
+CHARLIE: And frontways?
+
+1610
+01:36:07,468 --> 01:36:09,928
+And any ways you can think of.
+
+1611
+01:36:09,929 --> 01:36:14,432
+It'll take you to any room by pressing
+one of these buttons. Any button.
+
+1612
+01:36:14,433 --> 01:36:17,852
+Press a button, and zing!
+You're off.
+
+1613
+01:36:17,853 --> 01:36:20,772
+And up until now,
+I've pressed them all.
+
+1614
+01:36:20,773 --> 01:36:23,024
+Except one.
+
+1615
+01:36:23,025 --> 01:36:25,276
+This one.
+
+1616
+01:36:25,277 --> 01:36:26,861
+Go ahead, Charlie.
+
+1617
+01:36:26,862 --> 01:36:30,782
+Me?
+
+1618
+01:36:30,783 --> 01:36:32,742
+There it goes!
+
+1619
+01:36:32,743 --> 01:36:34,202
+[WHIRRING]
+
+1620
+01:36:34,203 --> 01:36:36,037
+Hold on tight.
+
+1621
+01:36:36,038 --> 01:36:39,624
+I'm not exactly sure
+what's going to happen.
+
+1622
+01:36:39,625 --> 01:36:43,294
+Faster! If we don't pick up speed,
+we won't get through.
+
+1623
+01:36:43,295 --> 01:36:45,546
+- Through what?
+- Aha.
+
+1624
+01:36:45,547 --> 01:36:47,632
+- You mean, we're going...?
+- Up and out.
+
+1625
+01:36:47,633 --> 01:36:50,802
+This roof is glass.
+It'll shatter in 1000 pieces!
+
+1626
+01:36:50,803 --> 01:36:55,803
+- We'll be cut to ribbons!
+- Probably.
+
+1627
+01:36:56,976 --> 01:36:59,811
+Hold on, everybody!
+
+1628
+01:36:59,812 --> 01:37:04,812
+Here it comes!
+
+1629
+01:37:17,246 --> 01:37:21,416
+- You did it! Congratulations!
+- Get up, take a look.
+
+1630
+01:37:21,417 --> 01:37:23,668
+Grandpa, our town looks so pretty.
+
+1631
+01:37:23,669 --> 01:37:25,169
+JOE: Look over here, Charlie.
+
+1632
+01:37:25,170 --> 01:37:27,672
+I think I see our house.
+
+1633
+01:37:27,673 --> 01:37:29,299
+CHARLIE: Wow!
+
+1634
+01:37:29,300 --> 01:37:30,758
+JOE: Lt really looks beautiful.
+
+1635
+01:37:30,759 --> 01:37:35,759
+There's my school!
+
+1636
+01:37:38,851 --> 01:37:41,269
+How did you like
+the chocolate factory?
+
+1637
+01:37:41,270 --> 01:37:44,272
+It's the most wonderful place
+in the world.
+
+1638
+01:37:44,273 --> 01:37:46,524
+WONKA:
+I'm pleased to hear you say that...
+
+1639
+01:37:46,525 --> 01:37:49,944
+because I'm giving it to you.
+
+1640
+01:37:49,945 --> 01:37:52,447
+- What?
+- That's all right, isn't it?
+
+1641
+01:37:52,448 --> 01:37:55,366
+JOE: You're giving Charlie the...
+- I can't go on forever.
+
+1642
+01:37:55,367 --> 01:37:57,702
+And I don't really want to try.
+
+1643
+01:37:57,703 --> 01:38:02,703
+Who can I trust to run the factory,
+take care of the Oompa Loompas for me?
+
+1644
+01:38:02,875 --> 01:38:04,375
+Not a grownup.
+
+1645
+01:38:04,376 --> 01:38:07,879
+A grownup would do everything
+his own way, nof mine.
+
+1646
+01:38:07,880 --> 01:38:11,716
+That's why I decided long ago
+that I had to find a child.
+
+1647
+01:38:11,717 --> 01:38:13,718
+A very honest...
+
+1648
+01:38:13,719 --> 01:38:15,636
+loving child...
+
+1649
+01:38:15,637 --> 01:38:19,223
+to whom I can tell all my
+precious Candy-making secrets.
+
+1650
+01:38:19,224 --> 01:38:21,976
+- That's why you sent the tickets.
+WONKA: That's right.
+
+1651
+01:38:21,977 --> 01:38:24,729
+The factory's yours.
+You can move in immediately.
+
+1652
+01:38:24,730 --> 01:38:27,148
+And me? WONKA: Absolutely.
+
+1653
+01:38:27,149 --> 01:38:29,567
+- What happens to the rest...
+- The whole family.
+
+1654
+01:38:29,568 --> 01:38:34,568
+I want you to bring them all.
+
+1655
+01:38:35,074 --> 01:38:37,658
+But Charlie...
+
+1656
+01:38:37,659 --> 01:38:41,579
+don't forget what happened to the
+man who got everything he wanted.
+
+1657
+01:38:41,580 --> 01:38:42,830
+What happened?
+
+1658
+01:38:42,831 --> 01:38:47,831
+He lived happily ever after.
+
+1659
+01:38:49,887 --> 01:39:13,887
+<font face="Monotype Corsiva" color=#808080"> © anoXmous </ font>
+<font face="Monotype Corsiva" color=#D900D9"> @ https://thepiratebay.se/user/anoXmous </font>
+
+

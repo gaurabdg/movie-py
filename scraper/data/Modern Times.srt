@@ -1,0 +1,255 @@
+﻿1
+00:02:57,937 --> 00:03:00,428
+Section 5,
+speed her up, 4-1.
+
+2
+00:03:15,079 --> 00:03:18,863
+<i>Attention foreman, trouble on</i>
+<i>bench 5, check nut tightening. </i>
+
+3
+00:03:19,291 --> 00:03:22,328
+<i>Nut coming through loose</i>
+<i>on bench 5, attention foreman. </i>
+
+4
+00:04:44,209 --> 00:04:45,075
+Man!
+
+5
+00:04:45,294 --> 00:04:47,999
+Section 5, more speed, 4-7.
+
+6
+00:04:59,600 --> 00:05:00,975
+<i>Relief man, passing, </i>
+
+7
+00:05:01,185 --> 00:05:02,643
+<i>relief man, passing. </i>
+
+8
+00:05:35,427 --> 00:05:36,257
+Hey!
+
+9
+00:05:37,554 --> 00:05:39,630
+Quit stalling,
+get back to work!
+
+10
+00:05:40,724 --> 00:05:41,720
+Go on!
+
+11
+00:06:48,667 --> 00:06:49,912
+<i>Good morning my friends. </i>
+
+12
+00:06:50,127 --> 00:06:53,876
+<i>This record comes to you through</i>
+<i>the Sales Talk Transcription Co. Inc. </i>
+
+13
+00:06:54,089 --> 00:06:55,833
+<i>Your speaker, </i>
+<i>the mechanical salesman. </i>
+
+14
+00:06:56,050 --> 00:06:59,134
+<i>May I introduce</i>
+<i>Mr. J. Willacomb Bellows, </i>
+
+15
+00:06:59,345 --> 00:07:01,302
+<i>inventor of the Bellows</i>
+<i>Feeding Machine, </i>
+
+16
+00:07:01,513 --> 00:07:04,847
+<i>a practical device which</i>
+<i>automatically feeds your men at work. </i>
+
+17
+00:07:05,059 --> 00:07:07,894
+<i>Don't stop for lunch. </i>
+<i>Be ahead of your competitor. </i>
+
+18
+00:07:08,103 --> 00:07:10,554
+<i>The Bellows feeding machine</i>
+<i>will eliminate the lunch hour, </i>
+
+19
+00:07:10,564 --> 00:07:13,684
+<i>increase your production</i>
+<i>and decrease your overhead. </i>
+
+20
+00:07:13,901 --> 00:07:17,021
+<i>Allow us to point out some of the</i>
+<i>features of this wonderful machine. </i>
+
+21
+00:07:17,237 --> 00:07:20,155
+<i>Its beautiful aerodynamic</i>
+<i>streamlined body, </i>
+
+22
+00:07:20,366 --> 00:07:25,028
+<i>its smoothness of action made silent</i>
+<i>by electroporous metal ball bearings. </i>
+
+23
+00:07:25,245 --> 00:07:27,653
+<i>Let us acquaint you</i>
+<i>with our automaton soup plate, </i>
+
+24
+00:07:27,957 --> 00:07:30,792
+<i>it's compressed air blower, </i>
+<i>no breath necessary, </i>
+
+25
+00:07:31,001 --> 00:07:33,208
+<i>no energy required to cool the soup. </i>
+
+26
+00:07:33,420 --> 00:07:36,505
+<i>Notice the revolcing plate</i>
+<i>with the automatic food pusher. </i>
+
+27
+00:07:36,840 --> 00:07:39,510
+<i>Observe our countershaft</i>
+<i>double-knee action cornfeeder, </i>
+
+28
+00:07:39,718 --> 00:07:41,343
+<i>with its synchromesh transmission, </i>
+
+29
+00:07:41,553 --> 00:07:45,172
+<i>enabling you to shift gears</i>
+<i>by the mere tip of the tongue. </i>
+
+30
+00:07:45,391 --> 00:07:48,308
+<i>Then there is the hydrocompressed</i>
+<i>sterilized mouth wiper. </i>
+
+31
+00:07:48,519 --> 00:07:52,054
+<i>Its factors of control insure</i>
+<i>against spots on the shirt front, </i>
+
+32
+00:07:52,272 --> 00:07:54,395
+<i>These are but a few</i>
+<i>of the delightful features</i>
+
+33
+00:07:54,650 --> 00:07:55,978
+<i>of the Bellows Feeding Machine. </i>
+
+34
+00:07:56,193 --> 00:08:00,238
+<i>Let us demonstrate with a worker. </i>
+<i>Actions speak louder than words. </i>
+
+35
+00:08:00,447 --> 00:08:02,405
+<i>Remember, </i>
+<i>to keep ahead of you competitor, </i>
+
+36
+00:08:02,616 --> 00:08:06,661
+<i>you cannot ignore the importance</i>
+<i>of the Bellows Feeding Machine. </i>
+
+37
+00:13:51,840 --> 00:13:53,999
+Section 5, give 'em the limit.
+
+38
+00:31:05,582 --> 00:31:07,741
+<i>Local news: a pardon</i>
+<i>was granted to the prisoner</i>
+
+39
+00:31:07,960 --> 00:31:09,834
+<i>who thwarted</i>
+<i>the attempted city jail break. </i>
+
+40
+00:31:10,045 --> 00:31:13,580
+<i>Sheriff Couler will inform</i>
+<i>the prisoner of the good news today. </i>
+
+41
+00:33:41,071 --> 00:33:44,072
+<i>If you are suffering from gastritis, </i>
+<i>don't forget to try... </i>
+
+42
+01:17:37,666 --> 01:17:40,952
+<i>We are the singing waiters</i>
+<i>We will sing and serve potatoes</i>
+
+43
+01:17:41,170 --> 01:17:45,997
+<i>We will strive to do our bit</i>
+<i>And if you leave a modest tip</i>
+
+44
+01:17:46,425 --> 01:17:50,838
+<i>We'll sing the whole night long</i>
+
+45
+01:17:55,309 --> 01:17:59,223
+<i>In the evening by the moonlight</i>
+
+46
+01:17:59,855 --> 01:18:05,098
+<i>You can hear those banjoes singing</i>
+
+47
+01:18:05,444 --> 01:18:10,948
+<i>In the evening by the moonlight</i>
+
+48
+01:18:11,200 --> 01:18:16,656
+<i>You can hear those banjoes ringing</i>
+
+49
+01:18:17,247 --> 01:18:23,617
+<i>How the old folks would enjoy it</i>
+
+50
+01:18:24,713 --> 01:18:31,083
+<i>They would sit all night and listen</i>
+
+51
+01:18:32,638 --> 01:18:39,601
+<i>As we sang in the evening</i>
+
+52
+01:18:40,104 --> 01:18:45,478
+<i>by the moonlight</i>
+
+53
+01:18:47,027 --> 01:18:50,941
+<i>Hop along sister Mary</i>
+<i>hop along, hop along, hop along</i>
+
+54
+01:18:51,156 --> 01:18:54,774
+<i>Hop along sister Mary hop along</i>
+<i>and we'll get there by and by</i>
+
+55
+01:18:54,993 --> 01:18:58,777
+<i>Homeward bound</i>
+<i>Way down yonder in the old cornfields</i>
+
