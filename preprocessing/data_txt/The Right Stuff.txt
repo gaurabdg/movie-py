@@ -33,7 +33,7 @@ Whiskey Kilo 28 is not declar--</i>
 No.
 Go away.
 No.
-<i>Lord, guard and guide the men who ﬂy</i>
+<i>Lord, guard and guide the men who ï¬y</i>
 <i>Through the great spaces</i>
 <i>In the sky</i>
 <i>Be with them always</i>
@@ -259,7 +259,7 @@ But they're our allies.
 Well, anyway, someone figured it out that way, and that's the way it is.
 Chuck, you're our man!
 You're the fastest man alive!
-You'll ﬂy more planes for us.
+You'll ï¬y more planes for us.
 We want you to fly all our planes!
 What you been doing, hedgehopping?
 Word will get out. Maybe not to the press or the general public.
@@ -386,7 +386,7 @@ He scorched that one, didn't he?
 He's pushing the outside of the envelope.
 He must be going for a record.
 He's shooting for Mach 2.
-<i>On the 50th anniversary of the Wright brothers' historic ﬂight...</i>
+<i>On the 50th anniversary of the Wright brothers' historic ï¬ight...</i>
 <i>...another historic flight takes place, as Scott Crossfield streaks...</i>
 <i>...across the skies over the California desen'.</i>
 Mach 2.
@@ -663,21 +663,19 @@ Just a little coffee.
 - I'd like a Coca-Cola.
 - Coke?
 Mm-hm. In a clean glass.
-There's an old saying:
-“Never refuse a combat assignment."
+There's an old saying: âNever refuse a combat assignment."
 Well, uh, there sure is a long line of shit-hot rocket aces around here.
-Hey, Hot Dog, what the hell's
-“astronaut" mean anyway?
+Hey, Hot Dog, what the hell's âastronaut" mean anyway?
 Star voyager.
 Star voyager Gus Grissom.
 I like the sound of that.
 <i>Now your name is?</i>
-<i>My name, José Jimenez.</i>
+<i>My name, JosÃ© Jimenez.</i>
 Who are we gonna get to take on the Russians?
 Have you seen this Jose Jimenez?
 He's a crack-up.
 <i>I am the chief astronaut of the United States interplan-</i>
-<i>My name, José Jimenez.</i>
+<i>My name, JosÃ© Jimenez.</i>
 <i>I see you have your space equipment with you.</i>
 <i>Is that the crash helmet?</i>
 <i>Oh, I hope not-</i>
@@ -689,13 +687,12 @@ Who, that kid?
 <i>And his partner...</i>
 <i>...winner of five
 Distinguished Flying Crosses...</i>
-<i>...and holder of the coast-to-coast, nonstop, supersonic ﬂight record...</i>
+<i>...and holder of the coast-to-coast, nonstop, supersonic ï¬ight record...</i>
 <i>...from the U.S. Marine Corps...</i>
 <i>-...Major John Glenn!
 - That guy.</i>
 Okay. Okay.
-<i>Can you tell us what's that song?</i>
-“Straighten Up and Fly Right."
+<i>Can you tell us what's that song?</i> âStraighten Up and Fly Right."
 <i>It's "Straighten Up and Fly Right."</i>
 He's not dumb.
 <i>Major, Eddie here has a little problem with his girlfriend.</i>
@@ -711,9 +708,9 @@ Mm-hm.
 <i>Delta Charlie
 9, you are clear to land...</i>
 ...at 180 degrees.
-José Jimenez on approach.
+JosÃ© Jimenez on approach.
 <i>Say again.</i>
-My name, José Jimenez.
+My name, JosÃ© Jimenez.
 <i>Yeah, Shepard, I forgot.
 You are clear at 180 degrees.</i>
 <i>Some boys here want to talk to you about being an astronaut.</i>
@@ -783,7 +780,7 @@ After they pick us three, there's only gonna be four spots.
 Sounds right to me. Where do we go next?
 You go in that door.
 Who are you?
-My name, José Jimenez.
+My name, JosÃ© Jimenez.
 You talking to us, buddy?
 All Air Force pilots go in that door.
 When they all go in...
@@ -911,7 +908,7 @@ These are the most...</i>
 <i>...is destined to become a legend in his own time.</i>
 Here, hold this.
 And hold this like this.
-When the clamp is released, the balloon inside you deﬂates.
+When the clamp is released, the balloon inside you deï¬ates.
 Where's the john?
 Two floors up. Gonzales will take you there, but wait here with him.
 Gonzales.
@@ -930,7 +927,7 @@ Jesus. Hurry up.
 No, no, no.
 You know, Mr. Shepard...
 ...me and my friends think your
-José Jimenez imitation...
+JosÃ© Jimenez imitation...
 ...is A-okay. But what you're doing with it is b-a-d.
 You're right, you're absolutely right.
 Open. Open.
@@ -1272,7 +1269,7 @@ Let's get this thing on the road.
 I'm tired of messing around.
 We'll just tell them we're ready.
 We're ready to go.
-<i>In these three weeks since Gagarin's surprise ﬂight...</i>
+<i>In these three weeks since Gagarin's surprise ï¬ight...</i>
 <i>...one wretched event has followed another.</i>
 <i>People have begun to say our rockets always blow up...</i>
 <i>...our boys always botch it.
@@ -1356,7 +1353,7 @@ Request permission to relieve bladder.
 Look, the man has got to go.
 It's either that or we get the lug wrench and pry him out.
 Do it in the suit.
-José, permission granted...
+JosÃ©, permission granted...
 <i>...to wet your diapers anytime, son.</i>
 Mm.
 Freon flow jumping from...
@@ -1375,7 +1372,7 @@ All systems go.
 <i>...nine, eight, seven...</i>
 <i>...six, five, four, three, two...</i>
 ...one. Ignition.
-<i>You're on your way, José.</i>
+<i>You're on your way, JosÃ©.</i>
 We have liftoff, and the clock is operating.
 <i>I think we'll be able to talk...</i>
 <i>...to one of the wives, if not to Louise Shepard herself.</i>
@@ -1433,7 +1430,7 @@ Why don't you just make sure you don't screw the pooch?
 Oh, God, look at this.
 Go get them,
 Deke.
-<i>Grissom has just reached the apex of his ﬂight.</i>
+<i>Grissom has just reached the apex of his ï¬ight.</i>
 <i>He will be re-entering the atmosphere now.</i>
 <i>Liberty Bell 7, Liberty Bell 7, this is Hunt Club 1. Over.</i>
 <i>We're in orbit around the capsule.</i>
@@ -1825,14 +1822,14 @@ They're bright yellow.
 They swirl around the capsule...
 ...and they're brilliantly lighted.
 Do you think they could be alive?
-<i>It sounds ridiculous, but they look like fireﬂies.</i>
+<i>It sounds ridiculous, but they look like fireï¬ies.</i>
 <i>Heh, heh. Whoa.</i>
 Whoa. Maybe some Air Force experiment went amuck.
 Could our astronomers have been wrong?
 <i>Hello, Cap Com, do you read me?
 This is miraculous.</i>
-Could it be those fireﬂies, or whatever they are?
-Of course not. Fireﬂies?
+Could it be those fireï¬ies, or whatever they are?
+Of course not. Fireï¬ies?
 <i>Hello, Cap Com?</i>
 Roger, Friendship 7.
 Will you correlate the actions of the particles...
@@ -1843,7 +1840,7 @@ I do not think they were coming from my control jets.
 <i>Sounds like a good idea.</i>
 You guys probably think I'm nuts.
 They're very beautiful.
-<i>Like fireﬂies on a summer night.</i>
+<i>Like fireï¬ies on a summer night.</i>
 They just dance around. Ha-ha-ha.
 Get out of here.
 Get out of here, you gadgets.
@@ -1860,7 +1857,7 @@ What do we tell him?
 He's a pilot.
 Tell him the condition of his craft.
 <i>Glenn is in his third orbit...</i>
-<i>...and the ﬂight is going pretty much as planned.</i>
+<i>...and the ï¬ight is going pretty much as planned.</i>
 <i>No human individual...</i>
 <i>...has ever been so well-prepared.</i>
 <i>So far the key word on this textbook flight is "operational. "</i>
@@ -1876,7 +1873,7 @@ There is only one hope.
 Leave the retro-rocket package, which covers the heat shield, on.
 The straps may be strong enough to hold the heat shield in place.
 But if this fails...
-<i>John, you're going to ﬂy-by-wire for re-entry.</i>
+<i>John, you're going to ï¬y-by-wire for re-entry.</i>
 <i>We recommend you do the best you can to keep a zero angle. Over.</i>
 Re-entry only three orbits?
 <i>That is correct.</i>
@@ -2017,8 +2014,8 @@ Now you're talking.
 Hey, what's that?
 Anyone got clearance?
 What kind of a plane is that?
-Aircraft on ramp, did you file a ﬂight plan?
-<i>Did you file a ﬂight plan?</i>
+Aircraft on ramp, did you file a ï¬ight plan?
+<i>Did you file a ï¬ight plan?</i>
 I'm taking her up to wring her out a bit.
 Any objections?
 It's Yeager.

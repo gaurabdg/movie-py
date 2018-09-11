@@ -342,7 +342,7 @@ No. Wait, it's...
 ...here in my pocket.
 Isn't that--? Isn't that odd, now?
 Yet, after all, why not?
-- Why shouldn’t I keep it?
+- Why shouldnât I keep it?
 - I think you should leave the ring behind.
 Is that so hard?
 Well, no.
@@ -439,7 +439,7 @@ There's been some strange folk crossing the Shire.
 Dwarves and others of a less than savory nature.
 War is brewing.
 The mountains are fair teeming with goblins.
-Far-off tales and children’s stories, that's all that is.
+Far-off tales and childrenâs stories, that's all that is.
 You're beginning to sound like that old
 Bilbo Baggins. Cracked, he was.
 Young Mr. Frodo here, he's cracking.
@@ -496,7 +496,7 @@ The spirit of Sauron endured.
 His life force is bound to the ring, and the ring survived.
 Sauron has returned.
 His orcs have multiplied.
-His fortress at Barad-dûr is rebuilt in the land of Mordor.
+His fortress at Barad-dÃ»r is rebuilt in the land of Mordor.
 Sauron needs only this ring to cover all the lands in a second darkness.
 He is seeking it.
 Seeking it - All his thought is bent on it.
@@ -827,7 +827,7 @@ Then Sauron the Deceiver gave to them nine rings of power.
 Blinded by their greed, they took them without question.
 One by one, falling into darkness.
 Now they are slaves to his will.
-They are the Nazgûl.
+They are the NazgÃ»l.
 Ringwraiths. Neither living nor dead.
 At all times they feel...
 ... the presence of the ring...
@@ -873,7 +873,7 @@ We have work to do.
 The trees are strong, my lord.
 Their roots go deep.
 Rip them all down.
-This was the great watchtower of Amon Sûl.
+This was the great watchtower of Amon SÃ»l.
 We shall rest here tonight.
 These are for you.
 Keep them close.
@@ -1105,7 +1105,7 @@ In a dream...
 A voice was crying:
 "Your doom is near at hand.
 Isildur's bane is found."
-Isildur’s bane.
+Isildurâs bane.
 Boromir!
 Never before has any voice uttered the words of that tongue here in Imladris.
 I do not ask your pardon, Master Elrond...
@@ -1130,7 +1130,7 @@ This is no mere ranger.
 He is Aragorn, son of Arathorn.
 You owe him your allegiance.
 Aragorn.
-This is Isildur’s heir?
+This is Isildurâs heir?
 And heir to the throne of Gondor.
 Gondor has no king.
 Gondor needs no king.
@@ -1288,7 +1288,7 @@ Let us go under it.
 Let us go through the mines of Moria.
 Moria. You fear to go into those mines.
 The dwarves delved too greedily and too deep.
-You know what they awoke in the darkness of Khazad-dûm:
+You know what they awoke in the darkness of Khazad-dÃ»m:
 Shadow and flame.
 Let the ring-bearer decide.
 We cannot stay here!
@@ -1397,14 +1397,14 @@ I'm hungry.
 - It's Gollum.
 - Gollum?
 - He's been following us for three days.
-- He escaped the dungeons of Barad-dûr?
+- He escaped the dungeons of Barad-dÃ»r?
 - Escaped...
 ...or was set loose.
 Now the ring has brought him here.
 He will never be rid of his need for it.
 He hates and loves the ring, as he hates and loves himseIf.
-Sméagol's life is a sad story.
-Yes, Sméagol he was once called.
+SmÃ©agol's life is a sad story.
+Yes, SmÃ©agol he was once called.
 Before the ring found him.
 Before it drove him mad.
 It's a pity Bilbo didn't kill him when he had the chance.
@@ -1477,7 +1477,7 @@ That spear would have skewered a wild boar.
 I think there's more to this hobbit than meets the eye.
 Mithril.
 You are full of surprises, Master Baggins.
-To the bridge of Khazad-dûm!
+To the bridge of Khazad-dÃ»m!
 This way!
 What is this new devilry?
 A Balrog.
@@ -1507,7 +1507,7 @@ Fly!
 You cannot pass!
 Gandalf!
 I am a servant of the secret fire, wielder of the flame of Anor.
-The dark fire will not avail you, flame of Udûn!
+The dark fire will not avail you, flame of UdÃ»n!
 Go back to the Shadow.
 You - shall not - pass!
 - No! No!
@@ -1518,7 +1518,7 @@ Aragorn!
 Legolas, get them up.
 Give them a moment, for pity's sake!
 By nightfall, these hills will be swarming with orcs.
-We must reach the woods of Lothlórien.
+We must reach the woods of LothlÃ³rien.
 Come, Boromir. Legolas.
 Gimli, get them up.
 On your feet, Sam.
@@ -1568,7 +1568,7 @@ A Balrog of Morgoth.
 For we went needlessly into the net of Moria.
 Needless were none of the deeds of Gandalf in life.
 We do not yet know his full purpose.
-Do not let the great emptiness of Khazad-dûm fill your heart...
+Do not let the great emptiness of Khazad-dÃ»m fill your heart...
 ...Gimli, son of Gloin.
 For the world has grown full of peril...
 ...and in all lands...
@@ -1832,7 +1832,7 @@ Frodo.
 What have I done?
 Please, Frodo.
 Frodo, I'm sorry!
-Ash Ghurûm
+Ash GhurÃ»m
 Frodo?
 - It has taken Boromir.
 - Where is the ring?

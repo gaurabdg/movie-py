@@ -73,7 +73,7 @@ My men are rounding up twice the usual number of suspects.
 - Good. Is he in custody?
 No hurry. Tonight he'll be at Rick's.
 Everybody comes to Rick's.
-I've already heard about this café.
+I've already heard about this cafÃ©.
 And also about Mr. Rick himself.
 Waiting, waiting, waiting.
 I'll never get out of here.
@@ -192,7 +192,7 @@ I am a little more impressed with you.
 - Hello, Rick.
 - Hello, Ferrari.
 How's business at the Blue Parrot?
-- Fine, but I'd like to buy your café.
+- Fine, but I'd like to buy your cafÃ©.
 - It's not for sale.
 - You haven't heard my offer.
 - It's not for sale at any price.
@@ -270,7 +270,7 @@ I'll get it from the safe.
 I'm so upset, Rick. You know I--
 Forget it, Emil. Mistakes like that happen all the time.
 I'm awfully sorry.
-Rick, there will be some excitement here tonight. An arrest in your café.
+Rick, there will be some excitement here tonight. An arrest in your cafÃ©.
 - Again?
 - This is no ordinary arrest.
 A murderer, no less.
@@ -300,7 +300,7 @@ I wanted to give you a word of advice.
 Yeah?
 - Have a brandy?
 - Thank you.
-There are many exit visas sold in this café, but we know that you've never sold one.
+There are many exit visas sold in this cafÃ©, but we know that you've never sold one.
 That is the reason we permit you to remain open.
 I thought it was because
 I let you win at roulette.
@@ -460,7 +460,7 @@ Two Cointreaux, please.
 I saw no one of Ugarte's description.
 Victor, I feel somehow we shouldn't stay here.
 If we would walk out so soon it would only call attention to us.
-Perhaps Ugarte is in some other part of the café.
+Perhaps Ugarte is in some other part of the cafÃ©.
 Excuse me, but you look like a couple who are on their way to America.
 You'll find a market there for this ring.
 I'm forced to sell it at a great sacrifice.
@@ -610,7 +610,7 @@ And about Victor Laszlo everywhere.
 - Thanks, I will.
 - Well...
 ...a precedent is being broken. Emile.
-- Interesting café. I congratulate you.
+- Interesting cafÃ©. I congratulate you.
 - I congratulate you.
 - What for?
 - Your work.
@@ -845,7 +845,7 @@ Tell me...
 Was it Laszlo, or were there others in between...
 ...or aren't you the kind that tells?
 I strongly suspect that Ugarte left the letters of transit with Mr. Blaine.
-I would suggest you search the café immediately.
+I would suggest you search the cafÃ© immediately.
 If Rick has the letters, he's too smart to let you find them there.
 You give him credit for too much cleverness.
 My impression was he's just another blundering American.
@@ -1302,7 +1302,7 @@ I suggest that you ask your wife.
 - Yes.
 Play "La Marseillaise."
 Play it!
-See what I mean? If Laszlo's presence in a café can inspire this demonstration...
+See what I mean? If Laszlo's presence in a cafÃ© can inspire this demonstration...
 ...what more will his presence in Casablanca bring on?
 I advise that this place be shut up at once.
 - But everybody's having a good time.
@@ -1311,7 +1311,7 @@ The place is to be closed.
 - But I have no excuse to close it.
 - Find one.
 Everybody is to leave immediately.
-This café is closed until further notice.
+This cafÃ© is closed until further notice.
 Clear the room at once.
 How can you close me up?
 I'm shocked, shocked to find that gambling is going on in here.
@@ -1549,7 +1549,7 @@ I know a good deal more about you than you suspect.
 I know that you're in love with a woman.
 It's perhaps a strange circumstance...
 ...that we both should be in love with the same woman.
-The first evening I came into this café...
+The first evening I came into this cafÃ©...
 ...I knew there was something between you and Ilsa.
 Since no one is to blame...
 ...I demand no explanation.

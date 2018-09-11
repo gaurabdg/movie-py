@@ -627,7 +627,7 @@ Well, I've never been accused of that before, but I appreciate the sentiment.
 You're one of us now.
 What a lovely thing to say.
 Thank you, dear Pinky.
-Thank you, Günther.
+Thank you, GÃ¼nther.
 Thank you, Wolf.
 Anything else?
 Tell him, Ludwig.
@@ -775,7 +775,7 @@ I suppose you'd call that a draw.
 Good evening.
 Let me introduce you. Pinky, Wolf,
 Ludwig, this is the divine Zero.
-Günther was slain in the catacombs.
+GÃ¼nther was slain in the catacombs.
 Well, boys, who knows when we'll all meet again, but if one day...
 Hold it.
 No time to gab.
@@ -826,7 +826,7 @@ I apologize on behalf of the hotel.
 It's not your fault. You were just upset I forgot the perfume.
 Don't make excuses for me.
 I owe you my life.
-You are my dear friend and protégé and I'm very proud of you.
+You are my dear friend and protÃ©gÃ© and I'm very proud of you.
 You must know that.
 I'm so sorry, Zero.
 We're brothers.
@@ -886,7 +886,7 @@ Do you prefer to walk?
 We're right here. It's very simple.
 Straight down the corniche, then left.
 Jojo, see the gentleman out.
-Get me <i>Monsieur </i>Georges at the Château Luxe, please.
+Get me <i>Monsieur </i>Georges at the ChÃ¢teau Luxe, please.
 <i>Happy birthday to you</i>
 Take over.
 <i>Happy birthday, dear...</i>
@@ -1217,7 +1217,7 @@ We were just talking about you.
 - With pleasure, as always.
 You're the first of the official death squads to whom we've been formally introduced.
 How do you do?
-<i>Plus Ã§a change, </i>am I right?
+<i>Plus ÃÂ§a change, </i>am I right?
 That's a migratory visa with stage three worker status, darling.
 Read this.
 - Come outside.

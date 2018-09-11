@@ -164,7 +164,7 @@ He's cute.
 George.
 Tuna.
 Hello, Tuna.
-Enchanté, George.
+EnchantÃ©, George.
 Barbie, he is yummy.
 He looks just like a Ken doll.
 Huh! Ken and Barbie.
@@ -352,10 +352,10 @@ Tuna! Get the fuck in there!
 Go on and play.
 Yeah!
 Cheers.
-Cómo, marijuana?
+CÃ³mo, marijuana?
 Smoking? Smoke them?
 Do you have some pot?
-Dónde estápot?
+DÃ³nde estÃ¡pot?
 - Do you know where we can get pot?
 - No. No idea.
 El weed.
@@ -390,7 +390,7 @@ You take a little and then come back.
 Yeah, but I don't need a little.
 I need a lot.
 Hang on a minute. Hang on. Hang on.
-Listen, señor.
+Listen, seÃ±or.
 Tell you what, amigo.
 What about I come back...
 ...and I bring you, say...
@@ -497,7 +497,7 @@ Is she all right?
 - Yeah, she's all right.
 - You know what? You wanna go?
 - Yeah, let's go.
-- Oh, come on. You haven't had your entrée.
+- Oh, come on. You haven't had your entrÃ©e.
 - No, it's okay. It's better.
 George...
 - I'll leave the tip.
@@ -753,10 +753,10 @@ George.
 What?
 I listened to what you say to the class today about the smuggling.
 Never believed you were a murderer.
-I knew you were a mágico.
+I knew you were a mÃ¡gico.
 I'm tired, Diego. Go to bed.
 Do you know in my country
-I'm a mágico?
+I'm a mÃ¡gico?
 A man with a dream.
 A man on the rise.
 To take nothing and make it something.
@@ -1038,7 +1038,7 @@ Good to see you.
 - Pablo used his influence.
 Now, George, watch what you say, okay?
 Everybody hears everything.
-A lot of things get said and dónde...
+A lot of things get said and dÃ³nde...
 - Well, let's say this isn't America, okay?
 - All right.
 Life is cheap here. No offense, but you know what I'm saying.
@@ -1055,11 +1055,11 @@ I'm not telling you.
 Look, that's Pablo.
 Oh.
 Oh, shit.
-El Padrino was Señor Pablo Escobar.
+El Padrino was SeÃ±or Pablo Escobar.
 And for those of you living on the moon for the last 20 years...
 ...he was it.
 The boss of it all...
-...el mágico.
+...el mÃ¡gico.
 He will see you now.
 - Okay, let's go.
 - Not you.
@@ -1073,7 +1073,7 @@ You go. You go, George.
 What the fuck? I'm not going over there.
 - Yeah.
 - No, you gotta do the talking.
-He says Señor Escobar only wants to see you. Not me. You go.
+He says SeÃ±or Escobar only wants to see you. Not me. You go.
 This way, please.
 - Yeah, yeah, right.
 Take it easy. It's gonna be fine.
@@ -1086,7 +1086,7 @@ Welcome to Colombia.
 Oh, this man.
 He was full of courage.
 Informant?
-He would have run, fled the country, gone to the policía...
+He would have run, fled the country, gone to the policÃ­a...
 ...but then his wife, his children, his parents, his friends...
 ...many people would die.
 Well, let me take this opportunity...
@@ -1100,7 +1100,7 @@ Yes, it is.
 I need to find an americano who I can trust.
 One with, uh, honor, intelligence...
 You need an americano with balls,
-Señor Escobar.
+SeÃ±or Escobar.
 Yes.
 And balls, Mr. George.
 Well, lookit.
@@ -1121,10 +1121,10 @@ Again, this is the language that I would have to discuss with my partner...
 ...but, uh, 300 kilos...
 So that's $3 million.
 This I understand.
-But, please, tú remove.
+But, please, tÃº remove.
 - Yeah.
 - This complications with Diego.
-The stolen cars, getting him released from the cárcel.
+The stolen cars, getting him released from the cÃ¡rcel.
 This causes me much inconvenience.
 The 50 kilos could have been a big problem, huh?
 I don't like problems.
@@ -1193,7 +1193,7 @@ I don't know.
 I'm George.
 I know who you are, an americano.
 Mr. Jung.
-I see you've met my fiancée, Mirtha.
+I see you've met my fiancÃ©e, Mirtha.
 Yeah?
 Yeah. Augusto would like to see you immediately.
 - Augusto would like to see you.
@@ -1650,9 +1650,9 @@ Okay.
 - Yeah.
 - You take care of yourself, George.
 - You too.
-Señor Jung?
+SeÃ±or Jung?
 - Yeah.
-I wish to present Señor Rodriguez.
+I wish to present SeÃ±or Rodriguez.
 He's the president of our bank.
 Hi.
 I am afraid that there is a problem,

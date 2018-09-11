@@ -171,8 +171,8 @@ Esquire of Barryville.
 I'll see the boy home.
 A pretty day's work, Master Redmond.
 Knowing your uncle is distressed for money...
-...trying to break off a match which will bring £1,500 a year into the family...
-Quin has promised to pay off the £4,000 which is bothering your uncle.
+...trying to break off a match which will bring Â£1,500 a year into the family...
+Quin has promised to pay off the Â£4,000 which is bothering your uncle.
 He takes a girl without a penny...
 ...a girl that's flinging herself at the head of every man in these parts.
 And missing them all!
@@ -469,7 +469,7 @@ I'm speaking little.
 I have not eaten all day, no food.
 Is there an inn nearby where I might have a meal?
 No... I don't think so.
-There is nothing to eat before Grünberg.
+There is nothing to eat before GrÃ¼nberg.
 Do you live near here?
 Yes.
 Would you... feed me?
@@ -725,7 +725,7 @@ He then takes an airing in his carriage.
 <i>If he adjusted a chair it meant Ace King.</i>
 <i>If he said, "Punch or wine, My Lord?"...</i>
 <i>...Hearts were meant, and so forth.</i>
-<i>The Prince of Tübingen...</i>
+<i>The Prince of TÃ¼bingen...</i>
 <i>...who had intimate connections with the Great Frederick...</i>
 <i>...was passionately fond of play as were the gentlemen...</i>
 <i>...of almost all the Courts of Europe.</i>
@@ -800,7 +800,7 @@ But, I'm not going to the frontier.
 I have very important business at the Austrian Ambassador's house.
 My orders are to take Your Honor to the frontier by any means necessary.
 If you come willingly...
-...I'm to give you this purse on behalf of the Prince of Tübingen...
+...I'm to give you this purse on behalf of the Prince of TÃ¼bingen...
 ...containing 2,000 frederick d'or.
 All Europe shall hear of this.
 <i>And so, without papers or passport...</i>
@@ -973,14 +973,10 @@ I don't think he loves my mother at all.
 And it hurts me to see her make such a fool of herself.
 <i>At the end of a year
 Her Ladyship presented Barry with a son.</i>
-<i>Bryan Patrick Lyndon, they called him.</i>
-♪<i>None of those ancient heroes
-E'er saw a cannon ball</i>
-♪<i>Or knew the force of powder
-To slay their foes withal</i>
-♪<i>But our brave boys do know it
-And banish all their fears</i>
-♪<i>With a tow, row, row, row, row
+<i>Bryan Patrick Lyndon, they called him.</i> âª<i>None of those ancient heroes
+E'er saw a cannon ball</i> âª<i>Or knew the force of powder
+To slay their foes withal</i> âª<i>But our brave boys do know it
+And banish all their fears</i> âª<i>With a tow, row, row, row, row
 To the British Grenadiers</i>
 <i>Her Ladyship and Barry lived, after a while, pretty separate.</i>
 <i>She preferred quiet, or to say the truth, he preferred it for her...</i>

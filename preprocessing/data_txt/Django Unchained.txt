@@ -757,7 +757,7 @@ Smitty Bacall
 Thousand.
 "$7,000 for Smitty Bacall.
 $1,500 for each of his...
-.“gang“P
+.âgangâP
 - Mem...
 - "Members.
 Known members of the Smitty Bacall
@@ -878,7 +878,7 @@ A black slaver is lower than the head house nigger...
 Then play him that way.
 Give me your black slaver.
 [people singing medium-tempo song]
-<i>♪ Along came the 219
+<i>âª Along came the 219
 Toot! Toot! Peanut butter!</i>
 [singing continues indistinctly]
 Dr. Schultz!
@@ -2280,23 +2280,22 @@ Auf Wiedersehen.
 [Django] It's me, baby.
 [gasping]
 [spurs clinking]
-[Stephen] ♪ In the <i>sweet</i>
-<i>♪ By-and-by</i>
-<i>♪ We will</i> meet
-<i>♪ On that beautiful shore</i>
-[Stephen humming, singing]
-♪ By-and-by
-<i>♪ By-and-by</i>
-<i>♪ By-and-by</i>
-<i>♪ We will</i> meet
+[Stephen] âª In the <i>sweet</i>
+<i>âª By-and-by</i>
+<i>âª We will</i> meet
+<i>âª On that beautiful shore</i>
+[Stephen humming, singing] âª By-and-by
+<i>âª By-and-by</i>
+<i>âª By-and-by</i>
+<i>âª We will</i> meet
 - <i>J' We will</i> meet <i>by-and-by</i>
 - Cora?
 Would you prepare us some coffee?
 Sheba, you help her.
 Come on.
-[Stephen] ♪ In the <i>sweet</i>
-<i>[Django] ♪ By-and-by</i>
-<i>♪ Oh... A'</i>
+[Stephen] âª In the <i>sweet</i>
+<i>[Django] âª By-and-by</i>
+<i>âª Oh... A'</i>
 Oh, y'all gonna be together with Calvin in the by-and-by, all right.
 Just a bit sooner than y'all was expectin'.
 [shrieking]

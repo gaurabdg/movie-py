@@ -260,7 +260,7 @@ I will do everything I can in the senate.
 - Excuse me.
 - Certainly.
 Oh, Anakin.
-I've missed you, Padmé.
+I've missed you, PadmÃ©.
 There were whispers that you'd been killed.
 I'm all right.
 It feels like we've been apart for a lifetime.
@@ -568,7 +568,7 @@ I'll keep them distracted until you get there.
 Very well. The burden is on me not to destroy all the droids until you arrive.
 Save your energy.
 I can't.
-Don't give up, Padmé.
+Don't give up, PadmÃ©.
 Obi-Wan's been here, hasn't he?
 He came by this morning.
 What did he want?
@@ -587,7 +587,7 @@ You expect too much of yourself.
 - Save me?
 From my nightmares.
 Is that what's bothering you?
-I won't lose you, Padmé.
+I won't lose you, PadmÃ©.
 I'm not gonna die in childbirth, Ani.
 - I promise you.
 - No, I promise you.
@@ -692,7 +692,7 @@ But you're not sure of their intentions, are you?
 I will quickly discover the truth of all this.
 You have great wisdom, Anakin.
 Know the power of the dark side.
-Power to save Padmé.
+Power to save PadmÃ©.
 So uncivilized.
 Master Windu, I must talk to you.
 Skywalker, we just received word that
@@ -770,7 +770,7 @@ Become my apprentice.
 Learn to use the dark side of the Force.
 I will do whatever you ask.
 Good.
-Just help me save Padmé's life.
+Just help me save PadmÃ©'s life.
 I can't live without her.
 To cheat death is a power only one has achieved... but if we work together...
 I know we can discover the secret.
@@ -797,7 +797,7 @@ First I want you to go to the Jedi temple.
 We will catch them off-balance.
 Do what must be done, Lord Vader.
 Do not hesitate. Show no mercy.
-Only then will you be strong enough with the dark side... to save Padmé.
+Only then will you be strong enough with the dark side... to save PadmÃ©.
 What about the other Jedi spread across the galaxy?
 Their betrayal will be dealt with.
 After you have killed all the Jedi in the temple... go to the Mustafar system.
@@ -963,7 +963,7 @@ Use your feelings, Obi-Wan, and find him you will.
 When was the last time you saw him?
 - Yesterday.
 - And do you know where he is now?
-Padmé, I need your help.
+PadmÃ©, I need your help.
 - He is in grave danger.
 - From the Sith?
 From himself.
@@ -1013,7 +1013,7 @@ Us?
 He knows.
 He wants to help you.
 Anakin, all I want is your love.
-Love won't save you, Padmé.
+Love won't save you, PadmÃ©.
 - Only my new powers can do that.
 - At what cost?
 You're a good person. Don't do this.
@@ -1107,7 +1107,7 @@ Bring balance to the Force, not leave it in darkness!
 I hate you!
 You were my brother, Anakin.
 I loved you.
-Master Kenobi. We have Miss Padmé on board.
+Master Kenobi. We have Miss PadmÃ© on board.
 Yes. Please, please hurry.
 We should leave this dreadful place.
 Is Anakin all right?
@@ -1138,7 +1138,7 @@ I know there's... still...
 Lord Vader.
 Can you hear me?
 Yes, Master.
-Where is Padmé?
+Where is PadmÃ©?
 Is she safe?
 Is she all right?
 It seems, in your anger, you killed her.

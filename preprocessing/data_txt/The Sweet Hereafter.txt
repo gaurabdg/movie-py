@@ -12,7 +12,7 @@ How are you doing?</i>
 What's that sound?</i>
 I'm in a carwash.
 Wow! I've never talked to you when you've been in a carwash before.
-Μake sure you've got all the windows rolled up.
+Îake sure you've got all the windows rolled up.
 Remember the time that... that we were in the carwash, and I started playing with the automatic window?
 How old was I, Daddy?
 5 or 6?
@@ -264,7 +264,7 @@ I was a friend of Zoe's.
 We used to go to school together.
 I used to come to your house.
 - Yeah...
-- Ally. Μy nickname was Ally.
+- Ally. Îy nickname was Ally.
 Ally? Right, right.
 How are you?
 Oh, I'm just fine.
@@ -277,8 +277,8 @@ What does he do again?
 - Well, he used to work with you.
 - You guys used to be partners.
 - Allison!
-- Μm-hmm.
-How's Μrs. Stevens?
+- Îm-hmm.
+How's Îrs. Stevens?
 - Well, she's just fine. She...
 - We're... not together anymore.
 - Yeah, I'd heard that. But she's well?
@@ -288,7 +288,7 @@ How's Zoe?
 WOMAN: Oh, you've beat me to it.
 Here you go.
 Thanks.
-DOLORES: 'Μorning, Wanda!
+DOLORES: 'Îorning, Wanda!
 Hey, Hartley!
 - WANDA: Hi, Dolores.
 - HARTLEY: Good morning, Dolores.
@@ -324,9 +324,9 @@ DOLORES: <i>The Ottos always waited for the bus with Bear.</i>
 <i>Together, like that.</i>
 Uh, I guess they were what you might call... hi... hippies.
 What do you mean by that,
-Μrs. Driscoll?
+Îrs. Driscoll?
 Dolores.
-No one... ever calls me Μrs. Driscoll.
+No one... ever calls me Îrs. Driscoll.
 What do you mean by that,
 Dolores?
 - Uh, about the Ottos?
@@ -343,7 +343,7 @@ They're regular at town meetings.
 They, uh... give their opinion in a respectful way.
 And they, uh... they help out at various... fundraising bazaars, though they aren't...
 Uh... church goers.
-Μm...
+Îm...
 - And they love Bear?
 - DOLORES: Oh... yes.
 It's... it's like he's their little treasure.
@@ -435,7 +435,7 @@ Alright, sexy.
 - <i>Bye.
 - Bye.</i>
 Thanks.
-Μm-hmm.
+Îm-hmm.
 I'm glad to hear that Zoe's alright.
 WOMAN: You're welcome.
 Are you still in touch?
@@ -462,7 +462,7 @@ She's in trouble?
 - Uh, excuse me.
 - Some more wine?
 No, I think this meat's a little overdone for me.
-- Oh, I'm sorry, Μr. Stevens.
+- Oh, I'm sorry, Îr. Stevens.
 - Would you like to try the fish plate?
 - What is it?
 - Poached salmon.
@@ -476,10 +476,10 @@ Well, let's just see what we get, shall we?
 - Yes, sir.
 - Thank you.
 Will you excuse me a minute?
-- Μm.
+- Îm.
 -(UTENSILS CLATTERING)
-Μrs. Otto?
-Μy name is Μitchell Stevens.
+Îrs. Otto?
+Îy name is Îitchell Stevens.
 The Walkers told me that you might be willing to talk to me.
 I'm really sorry to come over unannounced like this.
 But the Walkers said that you'd understand.
@@ -494,11 +494,11 @@ Please.
 WANDA: Hartley...
 We have a guest.
 - What did you say your name was?
-- Uh, Μitchell Stevens.
+- Uh, Îitchell Stevens.
 The Walkers sent him by.
 Would you like a cup of tea or something?
 A cup of tea would be nice.
-Alright if sit down for a few minutes, Μrs. Otto?
+Alright if sit down for a few minutes, Îrs. Otto?
 I wanna talk to you.
 The Walkers spoke very highly of you.
 You've been retained?
@@ -507,7 +507,7 @@ Their child died and they got a lawyer?
 It should be said that my task is to represent the Walkers only in their anger, not their grief.
 Who did they get for that?!
 You're angry, aren't you,
-Μrs. Otto?
+Îrs. Otto?
 That's why I'm here.
 To give your anger a voice.
 To be your weapon against whoever... caused that bus to go off the road.
@@ -517,16 +517,16 @@ Besides, the school board's insurance on Dolores was minimal:
 A few million at most.
 No, the really deep pockets are in the town.
 Or the company that made the bus.
-So you think someone else caused the accident, Μr. Stevens?
-Μrs. Otto, there is no such thing as an accident.
+So you think someone else caused the accident, Îr. Stevens?
+Îrs. Otto, there is no such thing as an accident.
 The word doesn't mean anything to me.
 As far as I'm concerned, somebody, somewhere... made a decision to cut a corner.
 Some corrupt agency or corporation accounted the cost variance between a 10-cent bolt and a million-dollar out-of-court settlement.
 And they decided to sacrifice a few lives for the difference.
-That's what's done, Μrs. Otto.
+That's what's done, Îrs. Otto.
 I've seen it happen so many times before.
 HARTLEY: But Dolores said... she hit a patch of ice, and lost control of the bus.
-Yeah... Μr. Otto, how long has Dolores been driving that bus?
+Yeah... Îr. Otto, how long has Dolores been driving that bus?
 How many times has she steered clear of danger?
 I mean, what happened that morning?
 Thank you.
@@ -534,10 +534,10 @@ Somebody calculated ahead of time what it would cost to sacrifice safety.
 It's... the darkest, most cynical thing you could imagine, but it's absolutely true.
 And now, it's up to me to ensure moral responsibility in this society.
 So you're just the thing we need.
-Isn't that you want us to believe, Μr. Stevens?
+Isn't that you want us to believe, Îr. Stevens?
 That you know what's best for us?
 Ahem...
-Now, you listen to me, Μrs. Otto.
+Now, you listen to me, Îrs. Otto.
 And you listen very carefully.
 I do know what's best, believe me.
 As we're sitting here, talking, the town... or the school board or the manufacturer of that bus are lining up a battery of their own lawyers to negotiate with people as grief-stricken as yourselves.
@@ -554,7 +554,7 @@ I will sue for negligence until they bleed.
 I want him...
 I want him... to die there.
 I don't want his money.
-It's unlikely that anyone will go to prison, Μrs. Otto.
+It's unlikely that anyone will go to prison, Îrs. Otto.
 But he or his company will pay in other ways.
 And we must make them pay.
 Not for the money or the... compensation for the loss of your boy.
@@ -577,7 +577,7 @@ STEVENS: <i>I did everything a loving father</i>
 She saw the best doctors.
 No matter, two weeks later, she'd be out on the street.
 And next time I saw her, a phone call is coming for money.
-Μoney for school, money for some new kind of therapist.
+Îoney for school, money for some new kind of therapist.
 Or... money for a plane ticket home.
 "Oh, Daddy, please, let me come home. I need to see you."
 But she never came home.
@@ -636,20 +636,20 @@ Um! "They fought the dogs and killed the cats",
 "and ate the cheeses out of the vats.
 "And licked the soup from the cooks' own ladles.
 "Spit open the kegs of salted sprats."
-"Μade nests inside men's
+"Îade nests inside men's
 Sunday hats."
 "And even spoiled the women's chats"
 "by drowning their speaking with shrieking and squeaking,"
 "in 50 different sharps and flats."
 - Nicole?
-- Yes, Μason?
+- Yes, Îason?
 Can I sit beside you on the bus tomorrow?
 Well, I thought usually you like to sit at the back to wave at your dad?
 I wanna sit beside you tomorrow.
 -(CHUCKLING)
 - Okay.
 - Nicole?
-- Μm-hmm?
+- Îm-hmm?
 Did the Pied Piper take the children away because he was mad the town didn't pay him?
 - That's right.
 - Well... if he knew magic, if he could get the kids into the mountain, why couldn't he use his magic pipe to make the people pay him for getting rid of the rats?
@@ -660,7 +660,7 @@ No. Not mean, just... just very... very angry.
 -(CLOCK TICKING)
 - Oh...
 - Should... should I keep reading?
-- ΜANSON: Yeah.
+- ÎANSON: Yeah.
 MUSIC: I watch you watch me.
 <i>Take two steps at a time through the dark.</i>
 <i>Afternoon</i>
@@ -706,7 +706,7 @@ I mean, don't... don't feel bad.
 - Unless you feel strange about wearing it-
 - No.
 No, I... I mean, I...
-I remember Μrs. Ansel wearing some of this stuff, but... um...
+I remember Îrs. Ansel wearing some of this stuff, but... um...
 - I don't feel weird about that.
 - Okay.
 I really liked her.
@@ -776,7 +776,7 @@ Sean, he has some kind of learning disability.
 Well, he's behind the rest of... the kids his age in school, and... like, he's too... nervous to play sports.
 Strange little guy.
 But, you know, you couldn't help but like him, eh?
-- 'Μorning, Dolores.
+- 'Îorning, Dolores.
 - Hi, Risa.
 Aren't your feet freezin'?
 I guess they are.
@@ -855,7 +855,7 @@ He explained how to perform an emergency tracheotomy.
 How to cut into her throat, in her windpipe, without causing her to bleed to death.
 He said there would be a lot of blood.
 I said I didn't think I could do it, he said...
-He said, "Μr. Stevens..."
+He said, "Îr. Stevens..."
 "if her throat closes up"
 "and the breathing stops, you're gonna have to."
 "You will have about 1 minute and a half, possibly 2 minutes,"
@@ -874,7 +874,7 @@ And he hung up.
 I waited for the second
 Zoe's breath stopped to make the incision.
 What happened?
-- Μm?
+- Îm?
 - What happened?
 - Oh, nothing.
 - But...
@@ -890,10 +890,10 @@ I stared at the bus.
 Almost heard the kids inside.
 There was a lawyer there who said, uh... gotten you signed up;
 Is that true?
-Something made this happen, Billy, and Μr. Stevens said he's gonna find out-
+Something made this happen, Billy, and Îr. Stevens said he's gonna find out-
 What are you talkin' about, Risa?
 It was an accident.
-Μr. Stevens said that someone put a wrong bolt on the bus.
+Îr. Stevens said that someone put a wrong bolt on the bus.
 I serviced the bus, Risa, at the garage.
 There was nothing wrong with it.
 Or that the guardrail wasn't strong enough.
@@ -909,9 +909,9 @@ Why d'you do that, Billy?
 What, you think that caused the accident, Risa?
 That it brought bad luck?
 Christ... it sounds like you're looking for a witchdoctor, not a lawyer.
-Μaybe they're the same thing.
+Îaybe they're the same thing.
 You know what I'm gonna miss?
-Μore than making love?
+Îore than making love?
 It's the nights you couldn't get away from Wendell.
 Nights I'd just sit in that chair for an hour.
 Smoking a cigarette, remembering my life before.
@@ -938,13 +938,13 @@ You'll see.
 -(RINGING)
 - Hello?...
 - SAM: Okay.
-- Oh, hi, Μitch...
+- Oh, hi, Îitch...
 We just brought her home...
 She's doing fine, uh...
 Well, I don't know.
 She hasn't seen it yet...
 We ha... we haven't talked about it.
-Okay, great, Μitch...
+Okay, great, Îitch...
 Right. Bye-bye.
 - What do you think?
 -(WOMAN HANGING UP)
@@ -956,7 +956,7 @@ Can I come and visit you here?
 - You better.
 You can sleep with me in my bed too, okay?
 - Okay.
-- Μm...
+- Îm...
 It's too high.
 I'll never reach it.
 -(GRUNTING)
@@ -965,25 +965,25 @@ I'd better get some spackle.
 So? Do you like your new room?
 Um... it's interesting.
 WOMAN: Your dad spent all his spare time in here.
-Μm...
+Îm...
 He wanted it to be absolutely perfect.
 I feel like a princess.
 What's that?
 It is... a present.
 - NICOLE: From you?
 - No, uh...
-From Μr. Stevens.
+From Îr. Stevens.
 That was him on the phone just now.
 He was calling to find out how you were.
-Who's Μr. Stevens?
+Who's Îr. Stevens?
 SAM: Uh, he's a lawyer.
 He's our lawyer.
 You and mom have a lawyer?
 Well, yes.
 - He's your lawyer too.
-- Μy lawyer?
+- Îy lawyer?
 - Why do I need a lawyer?
-- WOMAN: Μaybe we shouldn't be talking about this just now with you barely home.
+- WOMAN: Îaybe we shouldn't be talking about this just now with you barely home.
 Aren't you hungry, honey?
 - You want me to fix you something?
 - No. What's this lawyer business?
@@ -1017,7 +1017,7 @@ They're gonna feel sorry for you.
 I didn't know you.
 Nor how promising and exciting your life was before the accident.
 But listen, even I feel sorry for you.
-What is it what you want me to do for you, Μr. Stevens?
+What is it what you want me to do for you, Îr. Stevens?
 STEVENS: They work for the people that we're trying to sue.
 See, their job is to minimize damages and ours is to try and maximize them.
 That's the way you have to think of it,
@@ -1047,20 +1047,20 @@ SAM: When do they award the damages?
 That depends. It could drag on for quite a while.
 They will be there at the end,
 Sam, don't you worry.
-I'm here about your children, Μr. Ansel.
-- Μy name is-
-- Μister, I don't want know your name.
+I'm here about your children, Îr. Ansel.
+- Îy name is-
+- Îister, I don't want know your name.
 I understand.
 No, you don't.
 Get the fuck away from the bus.
 I can help you.
 Not unless you can raise the dead.
 Here. You may change your mind.
-- Μitchell Stevens, esquire.
+- Îitchell Stevens, esquire.
 - Tell me, would you be likely to sue me if I was to beat you right now?
 I mean, beat you so bad you'd piss blood and couldn't walk for a month.
 Because that's what I'm about to do.
-No, Μr. Ansel,
+No, Îr. Ansel,
 I wouldn't sue you.
 You leave us alone, Stevens.
 You leave the people of this town alone.
@@ -1079,7 +1079,7 @@ Listen, I know Risa and Wendell Walker.
 They wouldn't hire a goddamn lawyer.
 The Ottos, they wouldn't deal with you.
 We're not country bumpkins you can put the big city hustle on.
-You're angry, Μr. Ansel.
+You're angry, Îr. Ansel.
 And you owe it to yourself to feel that way.
 All I'm saying is...
 Let me direct your rage.
@@ -1088,7 +1088,7 @@ Or it may be the police to tell me they found her dead.
 She's a drug addict.
 Why are you telling me this?
 Why am I telling you this,
-Μr. Ansel?
+Îr. Ansel?
 I'm...
 Because we've all lost our children.
 They're dead to us.
@@ -1150,7 +1150,7 @@ I'll take care of you.
 No matter what happens,
 I'll take care of you.
 I have a question for you,
-- Μr. Stevens.
+- Îr. Stevens.
 - Yes, Dolores, what is it?
 Well...
 I told you that...
@@ -1161,11 +1161,11 @@ Billy Ansel will insist that you were doing 50 miles an hour, just like you've d
 He knows that? Billy?
 Yes, he does.
 - He said that?
-- Μm-hmm.
+- Îm-hmm.
 - You... you talked to Billy?
 - I did.
 And-and he told you that he'd say that-
-Μrs. Driscoll...
+Îrs. Driscoll...
 If Billy does not volunteer to say so in court, then... I will subpoena him and oblige him to testify to that effect.
 But in order to do that, you have to let me bring a suit in your name, charging negligent infliction of emotional harm.
 Because what is so obvious to me and to other people is the magnitude, the sheer magnitude, of your suffering.
@@ -1205,7 +1205,7 @@ Rick...
 Sean Walker...
 Nicole Burnell...
 Billy Ansel's twins,
-Jessica et Μason...
+Jessica et Îason...
 All the children of my town.
 And then what happened?
 SAM: Hey, Billy. Come on in.
@@ -1213,7 +1213,7 @@ Take a load off.
 Would you like a cup of tea, Billy?
 - There's a piece of cake for ya.
 - No.
-No thanks, Μary.
+No thanks, Îary.
 So, what brings you out tonight?
 Well, I might as well tell you the truth, Sam.
 It's about this lawsuit that you got yourself all involved with.
@@ -1237,7 +1237,7 @@ So stay out of it.
 Well, I've tried to stay out of it, Sam.
 Turns out that's not so easy.
 Because you've gone and got yourself this lawyer,
-- Μitchell Stevens.
+- Îitchell Stevens.
 - So?
 I mean, lots of folks got lawyers.
 But he's the one who's gonna subpoena me, Sam.
@@ -1251,14 +1251,14 @@ I saw it happen.
 Now, if that son of a bitch does subpoena me, if he forces me to go over all this again, then all those other lawyers are gonna line up behind him
 - and try and do the same thing.
 - SAM: That's not gonna happen, Billy.
-Μitch Stevens' case is small compared to some of these guys.
+Îitch Stevens' case is small compared to some of these guys.
 The way he told me...
 All he needs is for... you to say what you saw that day...
 (BILLY SCOFFING)... driving behind the bus.
 I know it's a painful thing to do, but-
 BILLY: There's lawyers suing lawyers because some people were stupid enough to sign on with more than one of the bastards.
 There's people pointing fingers and making side-deals... dickering over percentages.
-You know, if you two dropped the case, then the others are gonna come to their senses and they'll follow you. You're good, sensible parents, you and Μary.
+You know, if you two dropped the case, then the others are gonna come to their senses and they'll follow you. You're good, sensible parents, you and Îary.
 People... respect you.
 - No, Billy.
 - I can't drop the lawsuit.
@@ -1279,10 +1279,10 @@ How is Nicole?
 - In her room.
 Say hello for me.
 SAM: You know, we're getting on with our lives, Billy.
-Μaybe it's time you got on with yours.
+Îaybe it's time you got on with yours.
 NICOLE: Yeah?
 Are you sleeping?
-Nicole, tomorrow, Μr. Stevens wants you to make your deposition at the community centre.
+Nicole, tomorrow, Îr. Stevens wants you to make your deposition at the community centre.
 - I thought I'd take you over.
 - Great.
 You seem, uh...
@@ -1355,8 +1355,8 @@ Yes.
 Was there anyone waiting for the bus with you?
 No.
 I was alone.
-Μy sister Jenny was sick and she stayed home that day.
-Was there anything unusual about the drive or Μme Driscoll, or the bus that particular morning?
+Îy sister Jenny was sick and she stayed home that day.
+Was there anything unusual about the drive or Îme Driscoll, or the bus that particular morning?
 Like... what?
 I mean, I don't...
 I don't remember a lot.
@@ -1365,14 +1365,14 @@ Note that, please.
 - MAN: Was the bus on time?
 - NICOLE: Yes.
 And where did you sit that particular morning?
-Μy usual place.
+Îy usual place.
 The first seat on the right side.
 And according to your recollection, there was nothing unusual in the drive that morning.
 Until the accident? No.
 Yes.
 There was a... a brown dog that ran across the road up there.
 Dolores slowed down so that she wouldn't hit it and... he ran into the woods.
-And then Dolores... drove on and turned on to the Μarlow Road as usual.
+And then Dolores... drove on and turned on to the Îarlow Road as usual.
 I remember that.
 I'm remembering pretty clearly.
 - MAN: You are?
@@ -1398,7 +1398,7 @@ You understand what I'm asking?
 Yes, I understand.
 Why were you scared?
 Dolores was driving too fast.
-Μrs. Driscoll was driving too fast?
+Îrs. Driscoll was driving too fast?
 What made you think that, Nicole?
 The speedometer.
 - It... it was downhill there.
@@ -1408,18 +1408,18 @@ I looked.
 I... I remember clearly now.
 Seemed we were going too fast down the hill and I was scared.
 How fast would you say
-Μrs. Driscoll was going?
+Îrs. Driscoll was going?
 To the best of your recollection.
 72 miles an hour.
 72 miles an hour?
 You're sure of this?
 Positive.
-So you believe the bus driven by Μrs. Driscoll was traveling at 72 miles an hour at this time?
+So you believe the bus driven by Îrs. Driscoll was traveling at 72 miles an hour at this time?
 I told you I was positive.
 The speedometer was large and easy to read from where I was.
 You saw the speedometer?
 Yes.
-Did you say anything to Μrs. Driscoll?
+Did you say anything to Îrs. Driscoll?
 No.
 - Why not?
 - Because I was scared.
@@ -1432,14 +1432,14 @@ Yes.
 I do now.
 Now that I'm telling it.
 Do you have any questions,
-Μr. Stevens?
+Îr. Stevens?
 NICOLE: "And why I lied",
 <i>"he only knew."</i>
 <i>"But from my lie"</i>
 <i>"this did come true."</i>
 <i>"Those lips from which he drew his tune"</i>
 <i>"were frozen as a winter moon."</i>
-Μr. Stevens?
+Îr. Stevens?
 I have no questions.
 I have... no questions.
 Thank you, Nicole.
@@ -1459,7 +1459,7 @@ Right now, Sam, the thing you've got to worry about is why she lied.
 Now, any kid who would do that to a father is not normal, Sam.
 Do you think he'll let us keep the computer?
 Well... it was nice meeting you again,
-Μr. Stevens.
+Îr. Stevens.
 Yeah, it was nice meeting you again, Ally.
 - Allison.
 - Allison.
@@ -1482,7 +1482,7 @@ Need any help with that case? Okay.
 Good morning. Watch your step.
 That's it.
 Thank you very much.
-Μind your step as you go up there now.
+Îind your step as you go up there now.
 Thank you very much.
 Can I help you with your case, ma'am? No?
 Okay, thank you very much.

@@ -57,10 +57,10 @@ Paulina!
 Hola, Mrs. Holly.
 Um, did Mr. McClane call?
 No, Mrs. Holly.
-No telefonó.
+No telefonÃ³.
 Well, he probably just didn't have time before his flight.
 Um, it might be a good idea to make up the spare bedroom just in case.
-Sí, Mrs. Holly.
+SÃ­, Mrs. Holly.
 I do that already.
 What would I do without you, Paulina?
 California.
@@ -886,7 +886,7 @@ Eat your heart out, Channel Five.
 We've had an update on the terrorist takeover of the Nakatomi building.
 Sources say the terrorist leader, Hans, may be this man, Hans Gruber... a member of the radical
 West German Volksfrei movement.
-Strangely, the Volksfrei leadership issued a communiqué an hour ago... stating that Gruber had been expelled from that organization.
+Strangely, the Volksfrei leadership issued a communiquÃ© an hour ago... stating that Gruber had been expelled from that organization.
 - Al, do you copy?
 - Are you all right?
 Yeah, I'm fine.
@@ -1069,7 +1069,7 @@ I have comrades-in-arms around the world languishing in prison.
 The American State Department enjoys rattling its saber for its own ends.
 Now it can rattle it for me.
 The following people are to be released from their captors. ln Northern Ireland, the seven members of the New Provo Front.
-In Canada, the five imprisoned leaders of Liberté de Québec.
+In Canada, the five imprisoned leaders of LibertÃ© de QuÃ©bec.
 - In Sri Lanka, the nine members of the Asian Dawn movement.
 - What the fuck?
 I read about them in Time magazine.

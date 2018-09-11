@@ -93,7 +93,7 @@ Is that one spit, "Yes," and two spits, "No"?
 I'm glad we understand each other.
 My mother didn't really tell me to come and get you.
 I just thought you might need a friend.
-<i>Danke schön!</i>
+<i>Danke schÃ¶n!</i>
 Rudy!
 What are you up to?
 Nothing, Papa.
@@ -540,7 +540,7 @@ Liesel!
 I have a job for you.
 And don't forget to count the money.
 Come back with the right amount or don't bother coming back at all.
-The <i>Bürgermeister's</i> house.
+The <i>BÃ¼rgermeister's</i> house.
 Are you sure?
 Do you see any other houses looking like this?
 He had dinner with the fuhrer once.
@@ -548,7 +548,7 @@ Laundry.
 Come in.
 Go on.
 Wait.
-Danke schön.
+Danke schÃ¶n.
 So, you like books?
 Come.
 <i>"The Dream Carrier."</i>
@@ -641,7 +641,7 @@ Jellyfish.
 Tell me, where do you get these words?
 It's a secret.
 And who would I tell?
-<i>The Bürgermeister's wife.</i>
+<i>The BÃ¼rgermeister's wife.</i>
 She lets me read her books.
 I memorize them.
 "Memory is the scribe of the soul."
@@ -777,7 +777,7 @@ Give me that!
 So, let me guess. You forgot where the front door was.
 I've got to hand it to you,
 Saumensch, you've got guts...
-<i>stealing from the Bürgermeister.</i>
+<i>stealing from the BÃ¼rgermeister.</i>
 Keep it down.
 I'm not stealing.
 I'm borrowing.

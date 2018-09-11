@@ -199,7 +199,7 @@ Thank you, sir.
 - Have you been here all night?
 - Yes.
 You said there was a post?
-Yes. I'll offer you a post, with a house, a servant and £50 a year.
+Yes. I'll offer you a post, with a house, a servant and Â£50 a year.
 What post?
 At the new school.
 A teacher!
@@ -706,7 +706,7 @@ The answer of our liege, Lord Henry... to his trusty well-beloved subjects... po
 "His Majesty...
 "acknowledges your humble admission of many grievous errors...
 "for which he accepts...
-"the manumission of £100,000 in token.
+"the manumission of Â£100,000 in token.
 "Mindful for the well-being of the realm and the quietness of his subjects...
 "His Majesty requires that you do now straightly renounce your pretended...
 "allegiance to the See of Rome.
@@ -858,7 +858,7 @@ What kind of pressure do you think you can bring to bear?
 I have evidence that Sir Thomas, while he was a judge, accepted bribes.
 What?
 Goddammit! He was the only judge since Cato who didn't accept bribes!
-When was there a chancellor whose possessions, after three years... totaled £100 and a gold chain?
+When was there a chancellor whose possessions, after three years... totaled Â£100 and a gold chain?
 It is, as you imply, common practice... but a practice may be common and remain an offence.
 This offence could send a man to the Tower.
 Come here.

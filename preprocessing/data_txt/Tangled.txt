@@ -111,7 +111,7 @@ Oh, come on Pascal, it's not so bad in there.
 <i>life, begin.*</i>
 <i>*Then after lunch, it's puzzles,</i>
 <i>and darts and baking.*</i>
-<i>*Papier-mâché, a bit of ballet,</i>
+<i>*Papier-mÃ¢chÃ©, a bit of ballet,</i>
 <i>and chess.*</i>
 <i>*Pottery, and ventriloquy, candle making.*</i>
 <i>*Then I'll stretch, maybe sketch.</i>
@@ -218,7 +218,7 @@ Look at you, as fragile as a flower.
 <i>*Still a little sapling, just a sprout.*</i>
 <i>- *You know why we stay up in this tower*</i>
 <i>I know, but...</i>
-<i>*That’s right, to keep you safe,</i>
+<i>*Thatâs right, to keep you safe,</i>
 <i>and sound, dear.*</i>
 <i>*Guess I always knew this day was coming.*</i>
 <i>*Know that soon you'd want</i>
@@ -253,7 +253,7 @@ Look at you, as fragile as a flower.
 <i>*Sloppy underdressed, immature, clumsy,*</i>
 <i>*Please, they'll eat you up,</i>
 <i>alive.*</i>
-<i>*Gullible, naïve,</i>
+<i>*Gullible, naÃ¯ve,</i>
 <i>positively grubby.*</i>
 <i>*Ditzy and a bit,</i>
 <i>well, hmm vague.*</i>
@@ -477,7 +477,7 @@ I can't believe I did this.
 I can't believe I did this.
 I CAN'T BELIEVE I DID THIS!
 Mother would be so furious.
-That's okay, what she doesn’t know won't kill her, right?
+That's okay, what she doesnât know won't kill her, right?
 Oh my gosh, this would kill her.
 THIS IS SO FUN!
 I am a horrible daughter,
@@ -581,7 +581,7 @@ Not the nose, not the nose, not the nose!
 Put him down!
 Okay, I don't know where I am, and I need him to take me to see the lanterns, because I've been dreaming about them my entire life.
 Find your humanity.
-Haven’t any of you ever had a dream?
+Havenât any of you ever had a dream?
 I, had a dream.
 Once.
 <i>I've got a dream)</i>
@@ -640,7 +640,7 @@ Once.
 <i>and be a florist.*</i>
 <i>*Gunther does interior design.*</i>
 <i>*Ulf is into mime,</i>
-<i>Attila’s cupcakes are sublime.*</i>
+<i>Attilaâs cupcakes are sublime.*</i>
 <i>*Bruiser knits, Killer sews.*</i>
 <i>*Fang does little puppet shows.*</i>
 <i>*And Vladimir collects</i>
@@ -660,7 +660,7 @@ I don't sing.
 <i>*Surrounded by enormous</i>
 <i>piles of money.*</i>
 <i>*- I've got a dream... I've got a dream.</i>
-<i>- She’s got a dream.*</i>
+<i>- Sheâs got a dream.*</i>
 <i>*I just want to see the floating</i>
 <i>lanterns gleam.*</i>
 <i>*And with every passing hour.*</i>

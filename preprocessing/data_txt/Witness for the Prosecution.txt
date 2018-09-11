@@ -450,9 +450,9 @@ No motive. No motive whatsoever.
 - No, no, it's very sound as far as it goes.
 Well, it's all yours. You'll find Mr Vole very responsive and quite candid.
 So candid, he's already told me we'll have to sue him for our fees.
-Oh, we'll simply put a lean on Mr Vole's £80,000.
-- What £80,000?
-- The £80,000 Mrs French left you.
+Oh, we'll simply put a lean on Mr Vole's Â£80,000.
+- What Â£80,000?
+- The Â£80,000 Mrs French left you.
 Left me?
 They opened Mrs French's bank vault today and found her will.
 - Congratulations.
@@ -462,7 +462,7 @@ Oh.
 This doesn't make things look any better for me, does it?
 - No. I wouldn't think so.
 - So now they'll say I did have a motive.
-They will indeed. £80,000 makes for a very handsome motive.
+They will indeed. Â£80,000 makes for a very handsome motive.
 I thought you were crazy but now they will arrest me!
 It's not unlikely.
 As a matter of fact, it's quite likely.
@@ -724,35 +724,35 @@ I saw her, the ceiling fell right in on me.
 I was stationed outside Hamburg, with an RAF maintenance unit.
 I'd just installed a shower in the officers' billet, so they gave me a weekend pass.
 Come on!
-<i>♪ Join the party</i>
-<i>♪ Have a hearty glass of rum</i>
-<i>♪ Don't ever think about tomorrow</i>
-<i>♪ For tomorrow may never come</i>
-<i>♪ When I find me a happy place</i>
-<i>♪ That's where I wanna stay</i>
-<i>♪ Time is nothing as long as
+<i>âª Join the party</i>
+<i>âª Have a hearty glass of rum</i>
+<i>âª Don't ever think about tomorrow</i>
+<i>âª For tomorrow may never come</i>
+<i>âª When I find me a happy place</i>
+<i>âª That's where I wanna stay</i>
+<i>âª Time is nothing as long as
 I'm living it up this way</i>
-<i>♪ I may never go home any more</i>
-<i>♪ Dim the lights and start locking the door</i>
-<i>♪ Give your arms to me
+<i>âª I may never go home any more</i>
+<i>âª Dim the lights and start locking the door</i>
+<i>âª Give your arms to me
 Give your charms to me</i>
-<i>♪ After all that's what sailors are for</i>
-<i>♪ I've got kisses and kisses galore</i>
-<i>♪ That have never been tasted before</i>
-<i>♪ if you treat me right
+<i>âª After all that's what sailors are for</i>
+<i>âª I've got kisses and kisses galore</i>
+<i>âª That have never been tasted before</i>
+<i>âª if you treat me right
 This could be the night</i>
-<i>♪ I may never go home</i>
-<i>♪ I may never go home</i>
-<i>♪ I may never go home</i>
-<i>♪ I may never go home</i>
-<i>♪ I may never go home any more</i>
-<i>♪ I may never go home any more</i>
-Hey, Fräulein, show us some legs.
+<i>âª I may never go home</i>
+<i>âª I may never go home</i>
+<i>âª I may never go home</i>
+<i>âª I may never go home</i>
+<i>âª I may never go home any more</i>
+<i>âª I may never go home any more</i>
+Hey, FrÃ¤ulein, show us some legs.
 They rob you blind and then throw you a ruddy sailor!
 - Come on, let's see 'em.
 - We want legs!
 Come help the cabaret out of her trousers!
-All right, Fräulein, if you won't show 'em, I will.
+All right, FrÃ¤ulein, if you won't show 'em, I will.
 All right, outside, everybody.
 Come on, let's go.
 Come on.
@@ -787,7 +787,7 @@ Nearby.
 Come.
 Sorry, it's the maid's night off.
 This is pretty horrible.
-In a gemütlich sort of way.
+In a gemÃ¼tlich sort of way.
 Oh, it's fine now. I used to have a roommate. A dancer.
 She had luck, she married a Canadian.
 She now lives in Toronto.
@@ -798,7 +798,7 @@ I've got a weekend pass.
 No, not that chair. It holds up the beam and that holds up the ceiling.
 You'd better sit down on the cot.
 The cot?
-Getting more gemütlich all the time. Are you married?
+Getting more gemÃ¼tlich all the time. Are you married?
 - Why?
 - Well, the, um...
 Oh, that. No, no, I'm not married.
@@ -824,7 +824,7 @@ I also carry biscuits, powdered eggs,
 - bacon, marmalade.
 - I don't know if I can afford it.
 Don't worry, we'll work out something, like an instalment plan.
-<i>♪ I may never go home any more</i>
+<i>âª I may never go home any more</i>
 I'm terribly sorry.
 Now you have no ceiling.
 - Maybe I can fix it, I'm good at it.
@@ -1306,7 +1306,7 @@ Among the witnesses you have heard Chief Inspector Hearne, who has given his tes
 He has put before you a clever theory of how this crime was committed.
 Whether it is theory or actual fact, however, you will decide for yourselves.
 And then you have heard the evidence of Janet McKenzie, a worthy and devoted housekeeper who has suffered two most grievous losses.
-One, the death of her beloved mistress and, second, in being deprived of an inheritance of £80,000, which she'd fully expected to receive.
+One, the death of her beloved mistress and, second, in being deprived of an inheritance of Â£80,000, which she'd fully expected to receive.
 I will not comment further on her evidence, but will express only my deepest sympathy for her in both these... mishaps.
 And most damaging of all, the prosecution has produced a surprise witness, one Christine Helm, whom the prisoner brought from the rubble of her homeland to the safety of this country, giving her his love and the protection of his name.
 I objected to her testimony because a wife cannot give evidence harmful to her husband.
@@ -1343,7 +1343,7 @@ At the time you made the acquaintance of Mrs French, were you employed?
 No.
 - Did you expect to receive any?
 - No, sir.
-Did you know that in her new will, you were the beneficiary of £80,000?
+Did you know that in her new will, you were the beneficiary of Â£80,000?
 No, I didn't.
 Now, Mr Vole, when you went to visit
 Mrs French for the last time, did you wear a trench coat and a brown hat?
@@ -1383,7 +1383,7 @@ We passed the window and saw the fancy posters, all blue seas and palm trees.
 The Grecian isles or somewhere. We went in for fun and I started asking for folders.
 Well, the man gave me a funny look because I did look a bit shabby.
 Anyway, it irritated me, so I kept asking for the swankiest tours, all deluxe and cabin on the boat deck, but it was just an act!
-An act? You knew that in a week you were going to inherit £80,000!
+An act? You knew that in a week you were going to inherit Â£80,000!
 No! it wasn't that way at all. It was make-believe and childish but... it was fun and I enjoyed it. I never thought of killing anyone or inheriting any money.
 It's just a coincidence that Mrs French should be killed only one week later?
 I told you! I didn't kill her!
@@ -1522,12 +1522,12 @@ Poor bleeder, he's been took in by 'er all right. And these letters prove it.
 If we could see these letters, we could advise you as to how pertinent they are.
 Well, I don't expect you...
 Well, as I say, I don't expect you to buy without seeing, but fair's fair.
-If these letters get the boy off, it's £100 for me, right?
-If these letters contain information useful to the defence, I'm prepared to offer £10.
+If these letters get the boy off, it's Â£100 for me, right?
+If these letters contain information useful to the defence, I'm prepared to offer Â£10.
 What? Ten bleeding pounds for letters like these?
 Take that piece of glass out o' yer eye. Good night.
 If these help prove my client's innocence,
-£20 should, I think, not be an unreasonable sum for your expenses.
+Â£20 should, I think, not be an unreasonable sum for your expenses.
 50 and it's a bargain. That's if you're satisfied with 'em.
 - All right, blast yer.
 'Ere, take 'em.
@@ -1559,7 +1559,7 @@ It wasn't 'is fault. It was all 'ers, gettin'
 'im away from me, turnin' 'im against me.
 But I waited me time to pay
 'er back. And it's come now.
-I'm deeply sorry, deeply sorry. We'll make it another £5 for the letters.
+I'm deeply sorry, deeply sorry. We'll make it another Â£5 for the letters.
 'Olding out on me, were yer?
 I knew I was being soft with yer.
 Cold-blooded vindictiveness.
@@ -1802,7 +1802,7 @@ There's Janet McKenzie.
 We'll get her that new hearing aid.
 And we'll get you a new one of these.
 18-carat gold if they make them.
-And when they try you for perjury there'll be £5,000 for the defence.
+And when they try you for perjury there'll be Â£5,000 for the defence.
 I don't care, just so we'll be together.
 You don't know what I've been through.
 Standing in the witness box, having to face you, saying I never loved you.

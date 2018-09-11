@@ -41,7 +41,7 @@ All you understand is the fist and boot.
 Don, I'm telling you right now, don't fucking call me that.
 I ain't a fucking animal.
 I ain't a fucking dog.
-<i>Vámonos, cabrón. Vámonos.</i>
+<i>VÃ¡monos, cabrÃ³n. VÃ¡monos.</i>
 Hey, you want to talk Mexican, join another tank, a Mexican tank.
 This is an American tank, we talk American.
 Who put the fucking nickel in you, Top?
@@ -1322,7 +1322,7 @@ We're still open for business.
 Let's head out for those crossroads, keep it out of Krauts' hands like we've been told.
 There's a wave coming in.
 We're the rock to break that wave.
-<i>Vámonos!</i>
+<i>VÃ¡monos!</i>
 Gordo, get us out of here.
 Fuck it.
 All right, there's the crossroads.
@@ -1342,7 +1342,7 @@ It's broke as fuck. Busted a bogie, too.
 Can you fix it?
 Yeah, why not?
 <i>Ha estado pegada, no?</i>
-<i>'tas bien maldita, mamá.</i>
+<i>'tas bien maldita, mamÃ¡.</i>
 <i>Necesitan unos chacos y todo.</i>
 All right, Norman, you and
 Coon-Ass check out that building.

@@ -782,8 +782,8 @@ Oh, yeah?
 <i>Here is someone who stood up.</i>
 <i>Here is...</i>
 You're dead.
-<i>Hey, Travis, qué pasa?</i>
-<i>Hi, Melio. Qué pasa?</i>
+<i>Hey, Travis, quÃ© pasa?</i>
+<i>Hi, Melio. QuÃ© pasa?</i>
 Yeah, man?
 Shut your fucking mouth and give me the cash out the drawer. Come on!
 - Let's go. Give me the damn cash. - Don't shoot.

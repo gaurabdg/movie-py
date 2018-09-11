@@ -165,7 +165,7 @@ What we'd like to do is take my crew down to the eastern edge of the creek and p
 <i>They'll make the call.</i>
 Copy that.
 God damn it.
-How y'all doin‘?
+How y'all doinâ?
 Eric Marsh, Crew 7.
 My captain, Jesse Steed.
 Well, this fire's gonna shift down here.
@@ -294,7 +294,7 @@ You know I lost two more good dudes to Blue River?
 City council and mayor have got my ass on the chopping block.
 We ain't got any more time.
 Neither does our hometown.
-Sooner or later, the fire, she's gonna come a-knockin‘, and when she does, this whole place is gonna go off like a powder keg.
+Sooner or later, the fire, she's gonna come a-knockinâ, and when she does, this whole place is gonna go off like a powder keg.
 And when she does, my crew won't even be able to set foot on the line.
 Eric, that attitude that you got right there, that cost you a lot of friends in the department.
 -I don't care.
@@ -732,7 +732,7 @@ Bravo Squad!
 Bravo Squad, watch that slope there!
 Jesse, where you at?
 <i>Scouting two ridges over.
-Got brands coming in, spot ﬁres.</i>
+Got brands coming in, spot ï¬res.</i>
 <i>Nothing crazy, but she's definitely headed our way.</i>
 All right, why don't you work your way back down to the crew?
 - I'm gonna go scout ahead.
@@ -790,7 +790,7 @@ Yeah, cool.
 Make sure you stay ahead of us.</i>
 Copy that.
 Here we go.
-Nice. All right, uno <i>més.</i>
+Nice. All right, uno <i>mÃ©s.</i>
 -Hey, you all right?
 -Shit.
 -Dude, shit, go.
@@ -877,7 +877,7 @@ I'll see you in</i> a <i>little while, okay?</i>
 Wight-night.</i>
 <i>-This is</i> Marsh.
 <i>-Hey, Eric, how did it go on the eval?</i>
-<i>Did you ﬁnd out?
+<i>Did you ï¬nd out?
 Do you know if you're good?</i>
 -Dale.
 -What?
@@ -1328,7 +1328,7 @@ This is our front door she's knocking on.
 Let's get this nice, man.
 Here she comes.
 Spot fire! One scrape!
-He)’, We got a spot!
+He)â, We got a spot!
 I need two! Let's go!
 Now that's what I call a line!
 All right, guys, let's mop it up!
@@ -1487,7 +1487,7 @@ Your daughter needs you.
 Yeah, I know.
 <i>An old cowpoke went riding out one dark and windy day</i>
 <i>Upon a ridge he rested as he went along his way...</i>
-He)’, guys.
+He)â, guys.
 - Hey, Mack.
 - Gentlemen.
 Yeah, don't kick my ass tonight.
@@ -1928,7 +1928,7 @@ What's the status on the air tankers?
 <i>We got homes burning in Yarnell,</i>
 <i>and base camp's being pushed.</i>
 Jesse, I think we should move on to our escape route, head down to the ranch
-<i>and work the ﬁre from there.</i>
+<i>and work the ï¬re from there.</i>
 <i>We're the only crew in position to save these homes.</i>
 You and the boys down for getting back in the game?
 You guys hear that?
@@ -1959,7 +1959,7 @@ Yeah.
 Steed, you with me?
 Yeah, we're with you. Coming off the black and into the canyon.
 <i>I'm almost at the ranch. Looks good.</i>
-<i>Be able to reengage the ﬁre from there.</i>
+<i>Be able to reengage the ï¬re from there.</i>
 All right, guys.
 Keep the pace and watch your footing.
 Watch your footing.
@@ -1999,7 +1999,7 @@ Ashcraft, next tree!
 <i>Granite Mountain, we're gonna bring you the air tanker, okay?</i>
 You got it! That's exactly where we want the drop!
 <i>Operations, Air Attack.</i>
-<i>Do you have a ﬁrm location on Granite Mountain?</i>
+<i>Do you have a ï¬rm location on Granite Mountain?</i>
 Air Attack, Granite Mountain.
 How do you read me?
 Air Attack, Granite Mountain!
@@ -2015,7 +2015,7 @@ In the brush.
 And I'll call you when we're under our...
 The shelters.
 <i>Okay, copy that.</i>
-<i>So, you're on the south side of the ﬁre, then?</i>
+<i>So, you're on the south side of the ï¬re, then?</i>
 Affirm!
 Deploy!
 _Dep|Oy!

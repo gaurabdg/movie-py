@@ -1,20 +1,20 @@
 <font color="#ff0080">Rank No.1</font> in<font color="#ff8040"> iMDB</font> (Ratings:<font color="#00b900"> 9.3/10</font> from <font color="#00b900">1,079,954</font> users)
-<i><font color="#ff0080">♪</font> If I didn't care<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> More than words can say<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> If I didn't care<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> Would I feel this way?<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> If this isn't love<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> Then why do I thrill?<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080"> ♪</font> And what makes my head go round and round<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080"> ♪</font> While my heart stands still?<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> If I didn't care<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> Would it be the same?<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> Would my every prayer begin and end<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> With just your name?<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> And would I be sure<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> That this is love beyond compare?<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> Would all this be true<font color="#ff0080"> ♪</font></i>
-<i><font color="#ff0080">♪</font> If I didn't care for you?<font color="#ff0080"> ♪</font></i>
+<i><font color="#ff0080">âª</font> If I didn't care<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> More than words can say<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> If I didn't care<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> Would I feel this way?<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> If this isn't love<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> Then why do I thrill?<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080"> âª</font> And what makes my head go round and round<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080"> âª</font> While my heart stands still?<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> If I didn't care<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> Would it be the same?<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> Would my every prayer begin and end<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> With just your name?<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> And would I be sure<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> That this is love beyond compare?<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> Would all this be true<font color="#ff0080"> âª</font></i>
+<i><font color="#ff0080">âª</font> If I didn't care for you?<font color="#ff0080"> âª</font></i>
 Mr. Dufresne, describe the confrontation you had with your wife the night she was murdered.
 It was very bitter.
 She said she was glad I knew, that she hated all the sneaking around...
@@ -55,12 +55,12 @@ Yet you still maintain that you threw your gun into the river before the murders
 <font color="#808080">DA :</font> The police dragged that river for three days, and nary a gun was found.
 So, there could be no comparison made between your gun and the bullets taken from the bloodstained corpses of the victims.
 And that also... is very convenient.
-Isn’t it, Mr. Dufresne?
+Isnât it, Mr. Dufresne?
 Since I am innocent of this crime, sir,
 I find it decidedly inconvenient that the gun was never found.
-<i><font color="#ff00ff">♪</font> <font color="#959500">THE INK SPOTS</font> : If I Didn't Care</i>
-<i><font color="#ff00ff">♪</font> And would I be sure that this</i>
-<i><font color="#ff00ff">♪</font> Is love beyond compare...</i>
+<i><font color="#ff00ff">âª</font> <font color="#959500">THE INK SPOTS</font> : If I Didn't Care</i>
+<i><font color="#ff00ff">âª</font> And would I be sure that this</i>
+<i><font color="#ff00ff">âª</font> Is love beyond compare...</i>
 <font color="#ff00ff">(Switches off radio)</font>
 <i><font color="#808080">DA :</font>  Ladies and gentlemen, you've heard all the evidence.</i>
 <i>We have the accused at the scene of the crime.</i>
@@ -534,7 +534,7 @@ Jeez-Louise! Are you gonna see any of that?
 - Yeah.
 Holy shit! That's great.
 That's like winning the sweepstakes.
-Isn’t it?
+Isnât it?
 Dumb shit. What do you think the government's gonna do to me?
 Take a big, wet bite out of my ass, is what.
 Poor Byron! Terrible fucking luck, huh?
@@ -1053,19 +1053,19 @@ You'd better get all this stuff out, like the Captain said.
 Now, I'm gonna go pinch a loaf.
 When I come back, this is all gone, right?
 Wow.
-<i><font color="#ff00ff">♪</font><font color="#808080">MOZART :</font>
+<i><font color="#ff00ff">âª</font><font color="#808080">MOZART :</font>
 Duettino from The Marriage Of Figaro</i>
-<i><font color="#ff00ff">♪</font> Sull'aria...</i>
+<i><font color="#ff00ff">âª</font> Sull'aria...</i>
 Andy, do you hear that?
-<i><font color="#ff00ff">♪</font> ..zeffiretto</i>
+<i><font color="#ff00ff">âª</font> ..zeffiretto</i>
 <i><font color="#ff00ff">(Locks door)</font></i>
-<i><font color="#ff00ff">♪</font> Questa sera spirera</i>
+<i><font color="#ff00ff">âª</font> Questa sera spirera</i>
 <i><font color="#ff00ff">(Feedback hisses)</font></i>
 <i><font color="#ff00ff">(Music over loudspeakers)</font></i>
 <i><font color="#ff00ff">(Aria continues)</font></i>
-<i><font color="#ff00ff">♪</font> Sotto i pini</i>
-<i><font color="#ff00ff">♪</font> Del boschetto</i>
-<i><font color="#ff00ff">♪</font> Sotto i pini...</i>
+<i><font color="#ff00ff">âª</font> Sotto i pini</i>
+<i><font color="#ff00ff">âª</font> Del boschetto</i>
+<i><font color="#ff00ff">âª</font> Sotto i pini...</i>
 <font color="#ff00ff">(Banging at door)</font> Dufresne?
 Dufresne?
 Andy, let me out.
@@ -1199,8 +1199,8 @@ We ought to file that under Educational, too, oughtn't we?
 <i>Andy had transformed a storage room smelling of rat turds and turpentine</i>
 <i>into the best prison library in New England,</i>
 <i>complete with a fine selection of Hank Williams.</i>
-<font color="#ff00ff">♪</font> Lawd I don't know what I'll do-ooo <font color="#ff00ff">♪</font>
-<font color="#ff00ff">♪</font> All I do is sit and sigh... <font color="#ff00ff">♪</font>
+<font color="#ff00ff">âª</font> Lawd I don't know what I'll do-ooo <font color="#ff00ff">âª</font>
+<font color="#ff00ff">âª</font> All I do is sit and sigh... <font color="#ff00ff">âª</font>
 <i><font color="#808080">RED :</font> That was also the year Warden Norton instituted his famous Inside Out program.</i>
 <i>You may remember reading about it.</i>
 <i>It made all the papers and got his picture in Look Magazine.</i>
@@ -1279,7 +1279,7 @@ He's a phantom, an apparition.
 Second cousin to Harvey the Rabbit.
 I conjured him... out of thin air.
 He doesn't exist, except on paper.
-Andy, you can’t just make a person up.
+Andy, you canât just make a person up.
 Sure you can, if you know how the system works, where the cracks are.
 It's amazing what you can accomplish by mail.
 Mr. Stevens has a birth certificate, a driver's license, social security number.
@@ -1300,8 +1300,8 @@ To keep you happy and doing the laundry.
 Money instead of sheets.
 Well, I work cheap. That's the trade-off.
 <font color="#ff00ff">(Siren wails)</font>
-<i><font color="#ff00ff">♪</font> <font color="#808080">JOHNNY OTIS :</font> Willy And The Hand Jive <font color="#ff00ff">♪</font></i>
-<i><font color="#ff00ff">♪</font> I know a cat named... <font color="#ff00ff">♪</font></i>
+<i><font color="#ff00ff">âª</font> <font color="#808080">JOHNNY OTIS :</font> Willy And The Hand Jive <font color="#ff00ff">âª</font></i>
+<i><font color="#ff00ff">âª</font> I know a cat named... <font color="#ff00ff">âª</font></i>
 <i><font color="#808080">RED :</font> Tommy Williams came to Shawshank in 1965</i>
 <i>on a two-year stretch for B&E.</i>
 <i>That's breaking and entering to you.</i>

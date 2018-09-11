@@ -171,8 +171,7 @@ New paragraph.
 <i>Richie had retired</i>
 <i>from professional tennis at 26.</i>
 <i>His last match had been</i>
-<i>widely discussed in the media.</i>
-“Your friend Richie<i>."</i>
+<i>widely discussed in the media.</i> âYour friend Richie<i>."</i>
 End of letter.
 <i>For the past year,</i>
 <i>he had been traveling alone</i>
@@ -180,12 +179,8 @@ End of letter.
 <i>called the</i> Cote d'Ivoire
 <i>and had seen both poles,</i>
 <i>five oceans</i>
-<i>the Amazon and the Nile.</i>
-“The crickets and the rust beetles scuttled
-“among the nettles of the sage thicket.
-<i>"'Vámonos, amigos,'</i> he whispered
-“and threw the busted-leather flint craw
-“over the loose weave of the saddle cock and they rode on in the friscalating dusk light<i>."</i>
+<i>the Amazon and the Nile.</i> âThe crickets and the rust beetles scuttled âamong the nettles of the sage thicket.
+<i>"'VÃ¡monos, amigos,'</i> he whispered âand threw the busted-leather flint craw âover the loose weave of the saddle cock and they rode on in the friscalating dusk light<i>."</i>
 <i>Eli was an assistant professor</i>
 <i>of English literature</i>
 <i>at Brooks College.</i>
@@ -625,7 +620,7 @@ I'm sorry we haven't gotten to know each other.
 I don't get invited around very much.
 What do you think of that, by the way?
 Oh, you... you don't have to say anything.
-It's kind of a “fuck you” to the old man, I guess.
+It's kind of a âfuck youâ to the old man, I guess.
 How's your daddy?
 Fine.
 You think so, huh?
@@ -818,8 +813,7 @@ We brought our sleeping bag...
 Uzi!
 We don't mind, Dad.
 We like him.
-Who, Pappy?
-“Pappy”?
+Who, Pappy? âPappyâ?
 He can sleep in the room above us.
 Ari, it's not your decision.
 Nor is it yours.
@@ -970,9 +964,8 @@ Go!
 # What the mama saw, it was against the law #
 # The mama looked down and spit on the ground #
 # Ev'ry time my name gets mentioned #
-# The papa said,
-“Oy, if I get that boy #
-# I'm gonna stick him in the house of detention” #
+# The papa said, âOy, if I get that boy #
+# I'm gonna stick him in the house of detentionâ #
 # Well, I'm on my way #
 # I don't know where I'm goin' #
 # I'm on my way #
@@ -1059,7 +1052,7 @@ I beg your pardon?
 You heard me, Coltrane.
 Coltrane?
 What?
-Did you just call me “Coltrane”?
+Did you just call me âColtraneâ?
 No.
 You didn't?
 No.

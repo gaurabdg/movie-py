@@ -137,7 +137,7 @@ Beats me.
 <i>Is it the chicken and the egg time</i>
 <i>Are we just yolks</i>
 <i>Or perhaps we're just one of God's little jokes</i>
-<i>Well,</i> ça, c'est le <i>meaning of life</i>
+<i>Well,</i> Ã§a, c'est le <i>meaning of life</i>
 <i>Is life just a game</i>
 <i>Where we make up the rules</i>
 <i>While we're searching for something to say</i>
@@ -1244,8 +1244,8 @@ And the cleaning woman.
 <i>Et maintenant,</i> would <i>monsieur
 </i> care for an aperitif, or would he prefer to order straightaway?
 Today, we have for appetizers, excuse me,
-<i>moules marinières, pâté de foie gras,</i> beluga caviar, eggs Benedictine, <i>tarte de poireaux,</i> that's leek tart, frogs' legs amandine or <i>oeufs de caille</i> Richard Shepherd.
-<i>C'est a dire,</i> little quails' eggs on a bed of puréed mushrooms.
+<i>moules mariniÃ¨res, pÃ¢tÃ© de foie gras,</i> beluga caviar, eggs Benedictine, <i>tarte de poireaux,</i> that's leek tart, frogs' legs amandine or <i>oeufs de caille</i> Richard Shepherd.
+<i>C'est a dire,</i> little quails' eggs on a bed of purÃ©ed mushrooms.
 It's very delicate, very succulent.
 I'll have the lot.
 A wise choice, <i>monsieur.</i> And now, how would you like it served?
@@ -1253,7 +1253,7 @@ All mixed up together in a bucket?
 Yeah. With the eggs on top.
 But of course.
 <i>Avec des oeufs frites.</i>
-Don't skimp on the <i>pâté.</i>
+Don't skimp on the <i>pÃ¢tÃ©.</i>
 Oh, <i>monsieur,</i>
 I assure you, just because it is mixed up with all the other things, we would not dream of giving you less than the full amount.
 In fact, I will personally make sure you have a double helping.
@@ -1303,7 +1303,7 @@ I sometimes wonder if we'll ever discover the meaning of it all, working in a pl
 Well, I've worked in worse places, philosophically speaking.
 Really, Maria?
 Yes.
-I used to work in the Academie Française, but it didn't do me any good at all.
+I used to work in the Academie FranÃ§aise, but it didn't do me any good at all.
 I once worked in the library in the Prado in Madrid, but it didn't teach me nothin', I recall, and the Library of Congress you'd have thought would hold some key, but it didn't, and neither did the Bodleian Library.
 In the British Museum,
 I hoped to find some clue.

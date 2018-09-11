@@ -35,34 +35,34 @@ Agh!
 Pull it out! Pull it out!
 Agh! Pull it out!
 Take it.
-<font color="#FF00FF">♫</font> <font color="#138CE9">GEORGE THOROGOOD</font>
-<font color="#D81D1D">"Bad To The Bone"</font> <font color="#FF00FF">♫</font>
-<i><font color="#FF00FF">♪</font> Now, on the day I was born... <font color="#FF00FF">♪</font></i>
+<font color="#FF00FF">â«</font> <font color="#138CE9">GEORGE THOROGOOD</font>
+<font color="#D81D1D">"Bad To The Bone"</font> <font color="#FF00FF">â«</font>
+<i><font color="#FF00FF">âª</font> Now, on the day I was born... <font color="#FF00FF">âª</font></i>
 <b><font color="#0080C0">(ENGINE ROARS)</font></b>
 <b><font color="#0080C0">(GUNSHOT)</font></b>
 Can't let you take the man's wheels, son.
 Now, get off before
 I put you down.
-<i><font color="#FF00FF">♪</font> She said, "Leave this one alone" <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> She could tell right away <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> That I was bad to the bone <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> Bad to the bone... <font color="#FF00FF">♪</font></i>
+<i><font color="#FF00FF">âª</font> She said, "Leave this one alone" <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> She could tell right away <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> That I was bad to the bone <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> Bad to the bone... <font color="#FF00FF">âª</font></i>
 That's it, goddamn it.
-<i><font color="#FF00FF">♪</font> B-b-b-b-bad <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> B-b-b-b-bad <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> B-b-b-b-bad <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> Bad to the bone <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> Broke a thousand hearts <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> Before I met you <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> I'll break a thousand more, baby <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> Before I am through <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> I wanna be yours, pretty baby <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> Yours and yours alone <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> I'm here to tell ya I'm bad <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> Bad to the bone <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> B-b-b-b-bad <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> B-b-b-b-bad <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> B-b-b-b-bad <font color="#FF00FF">♪</font></i>
+<i><font color="#FF00FF">âª</font> B-b-b-b-bad <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> B-b-b-b-bad <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> B-b-b-b-bad <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> Bad to the bone <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> Broke a thousand hearts <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> Before I met you <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> I'll break a thousand more, baby <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> Before I am through <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> I wanna be yours, pretty baby <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> Yours and yours alone <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> I'm here to tell ya I'm bad <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> Bad to the bone <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> B-b-b-b-bad <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> B-b-b-b-bad <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> B-b-b-b-bad <font color="#FF00FF">âª</font></i>
 <b><font color="#0080C0">(ELECTRICITY FIZZING)</font></b>
 R-31 David, Sherman Code Six at the Sixth Street Bridge and Santa Fe on electrical disturbance.
 <b><font color="#0080C0">(ON RADIO)</font></b> 'Ten-four, R-31 David.'
@@ -908,7 +908,7 @@ It's good to see you.
 Jolanda!
 Get out here, we got company.
 And bring some tequila.
-- Hey, big John. <i>¿Cómo te va?</i>
+- Hey, big John. <i>Â¿CÃ³mo te va?</i>
 - What's up?
 <b><font color="#0080C0">(CONTINUES IN SPANISH)</font></b>
 Who's this big guy?
@@ -1469,7 +1469,7 @@ I need a vacation.
 - Terminated.
 Will this melt in there?
 Yes. Throw it in.
-<i>Adiós!</i>
+<i>AdiÃ³s!</i>
 And the chip.
 <b><font color="#0080C0">(FIZZ)</font></b>
 It's over.
@@ -1529,18 +1529,18 @@ Thank you, Grandma.
 <i>was given to me by the Terminator.</i>
 <i>Because if a machine can learn the value of human life</i>
 <i>maybe we can too.</i>
-<font color="#FF00FF">♫</font> <font color="#138CE9">GUNS N' ROSES</font>
-<font color="#D81D1D">"You Could Be Mine"</font> <font color="#FF00FF">♫</font>
-<i><font color="#FF00FF">♪</font> Oh, I'm a cold heartbreaker,
-Fit to burn <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> And I'll rip your heart in two <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> And I'll leave you lyin' on the bed <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> I'll be out the door
-Before you wake, <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> It's nothin' new to you <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> Cos I think we've seen
-That movie, too <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> Cos you could be mine <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> But you're way out of line <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> With your bitch slap rappin' and your cocaine tongue <font color="#FF00FF">♪</font></i>
-<i><font color="#FF00FF">♪</font> You get nothin' done... <font color="#FF00FF">♪</font></i>
+<font color="#FF00FF">â«</font> <font color="#138CE9">GUNS N' ROSES</font>
+<font color="#D81D1D">"You Could Be Mine"</font> <font color="#FF00FF">â«</font>
+<i><font color="#FF00FF">âª</font> Oh, I'm a cold heartbreaker,
+Fit to burn <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> And I'll rip your heart in two <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> And I'll leave you lyin' on the bed <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> I'll be out the door
+Before you wake, <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> It's nothin' new to you <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> Cos I think we've seen
+That movie, too <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> Cos you could be mine <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> But you're way out of line <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> With your bitch slap rappin' and your cocaine tongue <font color="#FF00FF">âª</font></i>
+<i><font color="#FF00FF">âª</font> You get nothin' done... <font color="#FF00FF">âª</font></i>

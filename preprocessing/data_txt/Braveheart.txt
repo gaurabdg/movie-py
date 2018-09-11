@@ -926,7 +926,7 @@ Must have made an impression.
 Aye.
 I didn't think you were in the tent that long.
 <i>Mademoiselle.</i>
-<i>Un message de ma maîtresse.</i>
+<i>Un message de ma maÃ®tresse.</i>
 <i>Merci.</i>
 It's true! The English ships are moving up from the South.
 I don't know about the Welsh yet, but the Irish have landed.

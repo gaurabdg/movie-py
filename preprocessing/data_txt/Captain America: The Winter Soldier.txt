@@ -723,7 +723,7 @@ I'm gonna try running a tracer.
 This is a program that
 S.H.I.E.L.D. developed to track hostile malware, so if we can't read the file, maybe we can find out where it came from.
 Can I help you guys with anything?
-No. My fiancé was just helping me with some honeymoon destinations.
+No. My fiancÃ© was just helping me with some honeymoon destinations.
 Right. We're getting married.
 Congratulations. Where are you guys thinking about going?
 New Jersey.
@@ -940,7 +940,7 @@ So was Jasper Sitwell.
 So, the real question is, how do the two most wanted people in Washington kidnap a S.H.I.E.L.D. officer in broad daylight?
 The answer is, you don't.
 - What's this?
-- Call it a résumé.
+- Call it a rÃ©sumÃ©.
 Is this Bakhmala?
 The Khalid Khandil mission, that was you?
 You didn't say he was a Pararescue.

@@ -14,11 +14,11 @@ First Burdette's men stop me and now you stand there and try...
 - Think you do, Mr. Wheeler.
 Yeah, I remember you now.
 That star you're wearing kind of threw me off for a minute.
-Aren't you the fellow the Mexicans used to call borrachín?
-That's nearly right. Only it's borrachón.
+Aren't you the fellow the Mexicans used to call borrachÃ­n?
+That's nearly right. Only it's borrachÃ³n.
 I don't think I've ever seen you like this before.
 You mean sober? You're probably right.
-You know what borrachón means?
+You know what borrachÃ³n means?
 My Spanish ain't too good.
 It means drunk.
 Now if the name bothers you, they used to call me "Dude."
@@ -160,7 +160,7 @@ Hey, Dude. Dude, come here a minute.
 What do you want?
 Why don't you sit in here in place of Stumpy?
 I'd rather listen to a drunk than him.
-How you holding up, borrachón?
+How you holding up, borrachÃ³n?
 Got the shakes yet?
 That beer won't do you no good. You'll have to get something stronger than that.
 If you're still broke,
@@ -198,7 +198,7 @@ All they'd do is get another one.
 The jail isn't big enough to hold all of them.
 As a matter of fact, they'd like to get a few in jail.
 Remember that.
-Señor Chance. I've been looking for you.
+SeÃ±or Chance. I've been looking for you.
 I have a message for...
 - What you have here?
 - The package you've been waiting for.
@@ -208,7 +208,7 @@ Just in time.
 You keep it. Consuelo, she comes now.
 If you break the dishes, you'll see what happens.
 Every day is the same thing... Carlos.
-Oh Señor Chance.
+Oh SeÃ±or Chance.
 I just ask Carlos if he's...
 Carlos, what is wrong?
 You look like the cat who swallows the chicken.
@@ -303,10 +303,10 @@ I'll walk along with you and hold your hand.
 - Get back over there where you belong.
 - Yes, Papa.
 - Carlos.
-- Señor Chance. I been looking for you.
+- SeÃ±or Chance. I been looking for you.
 - It is very bad.
 - What's wrong?
-- Your friend Señor Wheeler.
+- Your friend SeÃ±or Wheeler.
 - What about him?
 He is a good friend and he wishes good for you, so he talks.
 He talks to people. He talk to everybody.
@@ -349,7 +349,7 @@ Joe Burdette isn't worth it.
 He isn't worth one of those that would get killed.
 Then what are you going to do?
 All you got for help is that old man down at the jail and this...
-Borrachón is the name,
+BorrachÃ³n is the name,
 Mr. Wheeler.
 I'll go outside so you can talk more freely.
 Wasn't good, Pat.
@@ -373,7 +373,7 @@ I tried and he damn near killed me.
 Anyway, he was hooked.
 Went away with her.
 Six months later he came back without her.
-That's when the Mexicans started calling him borrachón.
+That's when the Mexicans started calling him borrachÃ³n.
 - That's Spanish for...
 - I know.
 He told me.
@@ -691,7 +691,7 @@ You were good in there tonight.
 Good as you've ever been.
 But you know one reason why you got by with it?
 They were laughing at you.
-Borrachón talking big.
+BorrachÃ³n talking big.
 You surprised them.
 But next time they'll be ready for you.
 Next time they'll shoot first and laugh afterwards.
@@ -793,7 +793,7 @@ Since then I've been working...
 ...to get enough money for stage fare.
 You going home?
 I haven't any.
-Señor Chance!
+SeÃ±or Chance!
 I didn't know you were here.
 Why do you not tell me?
 You should be in bed.
@@ -809,7 +809,7 @@ And I will not be told what I shall do and what I shall not do.
 - What you do?
 I'll sleep in the jail.
 But you can't sleep...
-Bueno, señor.
+Bueno, seÃ±or.
 There's no need to watch.
 I'm a light sleeper.
 I'll lock the door and hook a chair under the knob.
@@ -819,7 +819,7 @@ Anybody tries to get in, I'll hear them.
 If I'm asleep at sunup, wake me.
 - But it's not enough.
 - Will you?
-Bueno, señor. I say no more.
+Bueno, seÃ±or. I say no more.
 Have a good sleep.
 I don't want to meddle in your business.
 I'm going to turn in.
@@ -834,7 +834,7 @@ I'll write him a letter, get them called in.
 Then you won't have people like me making trouble for you.
 Thanks.
 Carlos!
-Si, señor.
+Si, seÃ±or.
 It's after 7:00.
 Why didn't you wake me up?
 - The girl.
@@ -1087,7 +1087,7 @@ You're alone except for a barfly and an old cripple.
 Calling me an old cripple.
 I like hearing you say that, Joe.
 I got to fix your supper for you tonight.
-Señor Chance.
+SeÃ±or Chance.
 It's me, Carlos.
 Come on in.
 What do you want?
@@ -1801,7 +1801,7 @@ It's easy, Carlos.
 You just weren't watching.
 Carlos, open up.
 Coming.
-Buenas tardes, Señor Chance.
+Buenas tardes, SeÃ±or Chance.
 I think it is best to lock the door.
 Carlos, I'm sleeping over at the jail tonight.
 All of us are.

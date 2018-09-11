@@ -265,8 +265,8 @@ That's you.
 - Hello.
 - Cabot.
 So how was your meal?
-The rémoulade was a trifle tart...
-...but the soufflé for dessert more than made up for it.
+The rÃ©moulade was a trifle tart...
+...but the soufflÃ© for dessert more than made up for it.
 And your comrades?
 Charming. Extraordinary conversationalists, every one.
 Major Forbes.
@@ -802,7 +802,7 @@ Attention.
 Attention.
 Eyes right!
 Eyes front!
-Eyes“.
+Eyesâ.
 ...right.
 Mainly, I forgot how hot it was down here.
 Welcome home, boy.

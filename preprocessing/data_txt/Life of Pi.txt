@@ -429,12 +429,12 @@ You don't want gravy?
 No.
 No, I want something vegetarian.
 Oh.
-<i>Pas de problème.</i>
+<i>Pas de problÃ¨me.</i>
 She asked if you have something vegetarian.
 The cow that produced this liver was vegetarian, the pigs that went into these sausages were vegetarian.
 Very funny.
 But my wife doesn't eat liver.
-<i>Pas de problème.</i>
+<i>Pas de problÃ¨me.</i>
 Then she can eat the sausage, the rice, and the gravy.
 Or you can cook your own food.
 Haw dare you talk to my wife like that?
@@ -835,7 +835,7 @@ Are you sure about that?
 Of course they do.
 Try it for yourself.
 In any case, we are not here to talk about bananas or meerkats.
-Look, I’ve just told you along story and I'm very tired.
+Look, Iâve just told you along story and I'm very tired.
 We are here because a Japanese cargo ship sank in the Pacific.
 Something I never forget.
 I lost my whole family.

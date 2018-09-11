@@ -655,7 +655,7 @@ Can't recognize him without an apron.
 -L'chaim.
 - L'chaim.
 Welcome home.
-What the fuck kind of maître d' are you?
+What the fuck kind of maÃ®tre d' are you?
 New guy rolls into the joint, you don't even show him around.
 - Yeah.
 - What's the matter with you?
@@ -1223,7 +1223,7 @@ All these tables are for two people.
 Pick whatever one you want.
 I like this one.
 Here, sit down.
-Oh, I'll have the asperges sauce vinaigrette and then a Châteaubriand.
+Oh, I'll have the asperges sauce vinaigrette and then a ChÃ¢teaubriand.
 I'll decide later.
 -Monsieur?
 -I'll have the same.
@@ -1234,7 +1234,7 @@ I'll just have water.
 -Thank you.
 You've been around.
 Where'd you learn all them
-"parlez-vous français" dishes?
+"parlez-vous franÃ§ais" dishes?
 Who's teaching you that stuff?
 You mean a sugar daddy who tries to teach me how to act?
 I read books. I learn everything.

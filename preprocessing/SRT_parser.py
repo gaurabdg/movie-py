@@ -43,14 +43,11 @@ def parse_and_append(lines):
   return new_lines
 
 def convert(file_name):
-  file_encoding = 'utf-8'
+  file_encoding = 'latin-1'
   lines = ""
   print(file_name)
   with open(os.path.join('../scraper/data/', file_name), encoding=file_encoding) as f:
-    try:
       lines = f.readlines()
-    except UnicodeDecodeError:
-      pass
   new_lines = parse_and_append(lines)
   new_file_name = file_name[:-4] + '.txt'
   with open(os.path.join('data_txt/', new_file_name), 'w') as f:

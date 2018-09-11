@@ -767,10 +767,10 @@ Otto, Bertha, Heinz,
 Heidi, Wolfgang...
 ...Adolf.
 Do you hear?
-We are finally going to clear the Führer's name.
+We are finally going to clear the FÃ¼hrer's name.
 Broadway!
 You know, not many people know this...
-...but the Führer was a terrific dancer.
+...but the FÃ¼hrer was a terrific dancer.
 - Really?
 - We didn't know that, did we, Leo?
 - No, no, we sure didn't.
@@ -797,12 +797,12 @@ Sign here...
 <i>- No.
 - That's what "nein" means.</i>
 First you must prove to me that you believe as I believe...
-...by joining with me and singing and dancing the Führer's favourite tune:
+...by joining with me and singing and dancing the FÃ¼hrer's favourite tune:
 " Der Guten Tag Hop-Clop."
 I know.
 - " Der Guten Tag Hop-Clop"?
 - " Der Guten Tag Hop-Clop."
-No. I could never sing the Führer's favourite...
+No. I could never sing the FÃ¼hrer's favourite...
 Delighted. Delighted.
 ...song.
 - Shut up, he's almost ready to sign.
@@ -851,7 +851,7 @@ Here we are. Here.
 But only if you take the Siegfried Oath.
 The Siegfried Oath?
 What's that?
-A pledge of eternal allegiance to our beloved Führer.
+A pledge of eternal allegiance to our beloved FÃ¼hrer.
 Never...
 ...took that oath before.
 <i>One for me, one for you, und one for you.</i>
@@ -888,7 +888,7 @@ I solemnly swear...
 - Elizabeth?
 <i>Ja, that was his middle name.</i>
 Not many people know this...
-...but the Führer was descended from a long line of English queens.
+...but the FÃ¼hrer was descended from a long line of English queens.
 Is that right?
 Yes.
 - Adolf Elizabeth Hitler.
@@ -1131,7 +1131,7 @@ It's a wild idea, but it just might work.
 Each one a gem</i>
 <i>With leather boots
 And whips on their hips</i>
-<i>- It's risqué, dare I say, S & M
+<i>- It's risquÃ©, dare I say, S & M
 - Love it!</i>
 <i>I see German soldiers
 Dancing through France</i>
@@ -1631,29 +1631,29 @@ What are you gonna sing for us?
 ...I am going to sing.
 Play it, please.
 Speed it up.
-<i>Haben Sie gehört
+<i>Haben Sie gehÃ¶rt
 Das deutsche Band?</i>
 <i>Mit a bang</i>
 <i>Mit a boom</i>
 <i>Mit a bing-bang bing-bang boom</i>
-<i>Oh, haben Sie gehört...</i>
+<i>Oh, haben Sie gehÃ¶rt...</i>
 Halt! Halt!
 Halt! No, no, no.
 This man could never play
 Adolf Hitler.
-The Führer wasn't a mousy little mama's boy.
-The Führer was butch!
+The FÃ¼hrer wasn't a mousy little mama's boy.
+The FÃ¼hrer was butch!
 And that is not how you sing...
-<i>..." Haben Sie gehört das deutsche Band?"</i>
-<i>This is how you sing " Haben Sie gehört das deutsche Band?"</i>
+<i>..." Haben Sie gehÃ¶rt das deutsche Band?"</i>
+<i>This is how you sing " Haben Sie gehÃ¶rt das deutsche Band?"</i>
 B-flat. Two-two time!
 Modulate at the bridge!
-<i>Haben Sie gehört
+<i>Haben Sie gehÃ¶rt
 Das deutsche Band?</i>
 <i>Mit a bang
 Mit a boom</i>
 <i>Mit a bing-bang bing-bang boom</i>
-<i>Oh, haben Sie gehört
+<i>Oh, haben Sie gehÃ¶rt
 Das deutsche Band?</i>
 <i>Mit a bang
 Mit a boom</i>
@@ -1663,7 +1663,7 @@ Und French ooh-la-la</i>
 <i>Can't compare
 With the German oom-pah-pah</i>
 <i>We're saying</i>
-<i>Haben Sie gehört
+<i>Haben Sie gehÃ¶rt
 Das deutsche Band?</i>
 <i>Mit a zetz
 Mit a zap</i>
@@ -1676,7 +1676,7 @@ If it ain't got that</i>
 Schutzen-schmutzen Sauerbraten</i>
 Key change!
 <i>We're saying</i>
-<i>Haben Sie gehört
+<i>Haben Sie gehÃ¶rt
 Das deutsche Band?</i>
 <i>Mit a zetz
 Mit a zap</i>
@@ -1748,7 +1748,7 @@ You are dead</i>
 <i>You will get the worst reviews
 You ever read</i>
 Good luck.
-<i>Even at the Comédie Française</i>
+<i>Even at the ComÃ©die FranÃ§aise</i>
 <i>On the opening night
 They are scared</i>
 <i>"Bonne chance, mes amis"
@@ -1764,7 +1764,7 @@ Don't think twice</i>
 In the Scheiss</i>
 <i>At the famous La Scala in Milan</i>
 <i>On opening night it's a rule</i>
-<i>"Al bocca lupo," they say with élan</i>
+<i>"Al bocca lupo," they say with Ã©lan</i>
 <i>And just for luck they all shout</i>
 <i>- "Vaffanculo"
 - I got it</i>
@@ -1873,16 +1873,16 @@ Springtime</i>
 <i>Springtime</i>
 <i>Come on, Germans</i>
 <i>Go into your dance</i>
-<i>I was born in Düsseldorf
+<i>I was born in DÃ¼sseldorf
 And that is why they call me Rolf</i>
 <i>Don't be stupid, be a smarty
 Come and join the Nazi Party</i>
 Well, I never!
 Talk about bad taste.
 Come on, let's get out of here before they kill us.
-<i>The Führer is coming</i>
-<i>The Führer is coming</i>
-<i>The Führer is coming</i>
+<i>The FÃ¼hrer is coming</i>
+<i>The FÃ¼hrer is coming</i>
+<i>The FÃ¼hrer is coming</i>
 <i>- Heil Hitler
 - Heil Hitler</i>
 <i>Heil Hitler</i>
@@ -1916,7 +1916,7 @@ Let's give a salute and heil</i>
 <i>I was just a paperhanger</i>
 <i>No one more obscurer</i>
 <i>Got a phone call from the Reichstag</i>
-<i>Told me I was Führer</i>
+<i>Told me I was FÃ¼hrer</i>
 <i>Germany was blue</i>
 <i>Oh, what, oh, what to do?</i>
 <i>Hitched up my pants</i>
@@ -2063,7 +2063,7 @@ Why don't you use this where it'll do some good.
 - Why don't you shoot the actors.
 - The actors?
 Yes, the actors.
-Everybody laughed at your beloved Führer tonight, and why?
+Everybody laughed at your beloved FÃ¼hrer tonight, and why?
 Because of the actors.
 The actors were making fun of him.
 Yeah, you're right, the actors!
@@ -2606,7 +2606,7 @@ Tell everyone but</i>
 Keep your big mouth shut</i>
 <i>We're glad you came but
 We have to shout</i>
-<i>- Adíos
+<i>- AdÃ­os
 - Au rev oir</i>
 <i>- Wiedersehen
 - Ta-ta-ta</i>

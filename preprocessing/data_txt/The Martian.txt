@@ -243,11 +243,11 @@ FEMALE AUTOMATED VOICE:
 <i>Staple came out.</i>
 Fuck you, Mars.
 Johanssen, Jesus.
-MEN: <i>♪ Sunday, Monday, Happy Days</i>
-<i>♪ Tuesday, Wednesday, Happy Days</i>
-<i>♪ Thursday, Friday, Happy Days</i>
-<i>♪ The weekend comes, my cycle hums</i>
-<i>♪ Ready to race to you ♪</i>
+MEN: <i>âª Sunday, Monday, Happy Days</i>
+<i>âª Tuesday, Wednesday, Happy Days</i>
+<i>âª Thursday, Friday, Happy Days</i>
+<i>âª The weekend comes, my cycle hums</i>
+<i>âª Ready to race to you âª</i>
 WATNEY: <i>The problem is water.</i>
 I have created 126 square meters of soil.
 <i>But every cubic meter of soil requires</i>
@@ -396,7 +396,7 @@ What the hell is he thinking right now?
 <i>I'm definitely gonna die up here...</i>
 <i>if I have to listen to any more god-awful disco music.</i>
 My God, Commander Lewis, couldn't you have packed anything from this century?
-WOMAN: <i>♪ Turn the beat around ♪</i>
+WOMAN: <i>âª Turn the beat around âª</i>
 No, I am not gonna "turn the beat around."
 - I refuse to.
 - (MUSIC STOPS)
@@ -465,16 +465,16 @@ And sure, I could choose to think about the fact that I'm warm... because I have
 <i>I have scoured every single data file</i>
 <i>on Commander Lewis' personal drive.</i>
 <i>This is officially the least disco song she owns.</i>
-WOMAN: <i>♪ Lookin' for some hot stuff</i>
-<i>♪ Baby, this evenin'</i>
-<i>♪ I need some hot stuff, baby, tonight</i>
-<i>♪ I want some hot stuff, baby, this evenin'</i>
-<i>♪ Gotta have some hot stuff
+WOMAN: <i>âª Lookin' for some hot stuff</i>
+<i>âª Baby, this evenin'</i>
+<i>âª I need some hot stuff, baby, tonight</i>
+<i>âª I want some hot stuff, baby, this evenin'</i>
+<i>âª Gotta have some hot stuff
 Gotta have some love tonight</i>
-<i>♪ Hot stuff</i>
-<i>♪ I need hot stuff</i>
-<i>♪ I want some hot stuff</i>
-<i>♪ I need hot stuff ♪</i>
+<i>âª Hot stuff</i>
+<i>âª I need hot stuff</i>
+<i>âª I want some hot stuff</i>
+<i>âª I need hot stuff âª</i>
 - Yeah.
 - Where is Watney going?
 We believe that he's preparing for a journey.
@@ -1244,16 +1244,16 @@ So, I've got 200 sols to figure out... how to take everything here that's keepin
 <i>"on the roof of your Rover...</i>
 <i>"and hit it as hard as you can with a rock?"</i>
 We're gonna get there.
-<i>♪ Didn't know what time it was</i>
-<i>♪ And the lights were low</i>
-<i>♪ I leaned back on my radio</i>
-<i>♪ Some cat was layin' down some rock 'n' roll</i>
-<i>♪ Lotta soul, he said</i>
-<i>♪ Then the loud sound did seem to fade</i>
-<i>♪ Came back like a slow voice on a wave of phase</i>
-<i>♪ That weren't no DJ
+<i>âª Didn't know what time it was</i>
+<i>âª And the lights were low</i>
+<i>âª I leaned back on my radio</i>
+<i>âª Some cat was layin' down some rock 'n' roll</i>
+<i>âª Lotta soul, he said</i>
+<i>âª Then the loud sound did seem to fade</i>
+<i>âª Came back like a slow voice on a wave of phase</i>
+<i>âª That weren't no DJ
 That was hazy cosmic jive</i>
-<i>♪ There's a starman waiting in the sky ♪</i>
+<i>âª There's a starman waiting in the sky âª</i>
 <i>533 days longer?</i>
 <i>And you said yes to this?</i>
 He would have done the same for me. You know that.
@@ -1272,40 +1272,40 @@ LEWIS: No!
 I love it.
 All due respect to your CNSA protocol... but we haven't done things that way... since <i>Apollo 9.</i>
 Did he get that?
-<i>♪ Look out your window
+<i>âª Look out your window
 I can see his light</i>
-<i>♪ If we can sparkle
-He may land tonight ♪</i>
+<i>âª If we can sparkle
+He may land tonight âª</i>
 TECHNICIAN: Mmm-hmm. Yeah. Mmm-hmm.
 Mmm-hmm.
 Oh!
-<i>♪ There's a starman waiting in the sky</i>
-<i>♪ He'd like to come and meet us</i>
-<i>♪ But he thinks he'd blow our minds</i>
-<i>♪ There's a starman waiting in the sky</i>
-<i>♪ He's told us not to blow it</i>
-<i>♪ 'Cause he knows it's all worthwhile</i>
-<i>♪ He told me Let the children lose it</i>
-<i>♪ Let the children use it
+<i>âª There's a starman waiting in the sky</i>
+<i>âª He'd like to come and meet us</i>
+<i>âª But he thinks he'd blow our minds</i>
+<i>âª There's a starman waiting in the sky</i>
+<i>âª He's told us not to blow it</i>
+<i>âª 'Cause he knows it's all worthwhile</i>
+<i>âª He told me Let the children lose it</i>
+<i>âª Let the children use it
 Let all the children boogie</i>
-<i>♪ There's a starman waiting in the sky</i>
-<i>♪ He'd like to come and meet us</i>
-<i>♪ But he thinks he'd blow our minds</i>
-<i>♪ There's a starman waiting in the sky</i>
-<i>♪ He's told us not to blow it</i>
-<i>♪ 'Cause he knows it's all worthwhile</i>
-<i>♪ He told me Let the children lose it</i>
-<i>♪ Let the children use it</i>
-<i>♪ Let all the children boogie</i>
-<i>♪ La, la, la, la, la, la, la, la</i>
-<i>♪ La, la, la, la, la, la, la, la</i>
-<i>♪ La, la, la, la, la, la, la, la</i>
-<i>♪ La, la, la, la, la, la, la, la</i>
-<i>♪ La, la, la, la, la, la, la, la</i>
-<i>♪ La, la, la, la, la, la, la, la</i>
-<i>♪ La, la, la, la, la, la, la, la</i>
-<i>♪ La, la, la, la, la, la, la, la</i>
-<i>♪ La, la, la, la, la, la, la, la ♪</i>
+<i>âª There's a starman waiting in the sky</i>
+<i>âª He'd like to come and meet us</i>
+<i>âª But he thinks he'd blow our minds</i>
+<i>âª There's a starman waiting in the sky</i>
+<i>âª He's told us not to blow it</i>
+<i>âª 'Cause he knows it's all worthwhile</i>
+<i>âª He told me Let the children lose it</i>
+<i>âª Let the children use it</i>
+<i>âª Let all the children boogie</i>
+<i>âª La, la, la, la, la, la, la, la</i>
+<i>âª La, la, la, la, la, la, la, la</i>
+<i>âª La, la, la, la, la, la, la, la</i>
+<i>âª La, la, la, la, la, la, la, la</i>
+<i>âª La, la, la, la, la, la, la, la</i>
+<i>âª La, la, la, la, la, la, la, la</i>
+<i>âª La, la, la, la, la, la, la, la</i>
+<i>âª La, la, la, la, la, la, la, la</i>
+<i>âª La, la, la, la, la, la, la, la âª</i>
 WATNEY: <i>I've been thinking about laws on Mars.</i>
 <i>There's an international treaty</i>
 <i>saying no country can lay claim...</i>
@@ -1427,40 +1427,40 @@ So they're only doing that in the hopes that I won't raise any objections... to 
 <i>I'm not gonna tell them that.</i>
 <i>Okay.</i>
 <i>Let's do this.</i>
-<i>♪ My, my</i>
-<i>♪ At Waterloo Napoleon did surrender</i>
-<i>♪ Oh, yeah</i>
-<i>♪ And I have met my destiny in quite a similar way</i>
-<i>♪ The history book on the shelf is always repeating itself</i>
-<i>♪ Waterloo</i>
-<i>♪ I was defeated You won the war</i>
+<i>âª My, my</i>
+<i>âª At Waterloo Napoleon did surrender</i>
+<i>âª Oh, yeah</i>
+<i>âª And I have met my destiny in quite a similar way</i>
+<i>âª The history book on the shelf is always repeating itself</i>
+<i>âª Waterloo</i>
+<i>âª I was defeated You won the war</i>
 Come on.
-<i>♪ Waterloo, promise to love you forevermore</i>
-<i>♪ Waterloo Couldn't escape if I wanted to</i>
-<i>♪ Waterloo</i>
-<i>♪ Knowing my fate is to be with you</i>
-<i>♪ Oh, oh, oh, oh, Waterloo</i>
-<i>♪ Finally facing my Waterloo</i>
-<i>♪ My, my</i>
-<i>♪ I tried to hold you back</i>
-<i>♪ But you were stronger</i>
-<i>♪ Oh, yeah</i>
-<i>♪ And now it seems my only chance is giving up the fight</i>
-<i>♪ And how could I ever refuse?</i>
-<i>♪ I feel like I win when I lose</i>
-<i>♪ Waterloo</i>
-<i>♪ I was defeated You won the war</i>
-<i>♪ Waterloo</i>
-<i>♪ Promise to love you forevermore</i>
-<i>♪ Waterloo</i>
-<i>♪ Couldn't escape if I wanted to</i>
-<i>♪ Waterloo</i>
-<i>♪ Knowing my fate is to be with you</i>
-<i>♪ Oh, oh, oh, oh, Waterloo</i>
-<i>♪ Finally facing my Waterloo</i>
-<i>♪ Ooh, Waterloo</i>
-<i>♪ Knowing my fate is to be with you</i>
-<i>♪ Oh, oh, oh, oh, Waterloo ♪</i>
+<i>âª Waterloo, promise to love you forevermore</i>
+<i>âª Waterloo Couldn't escape if I wanted to</i>
+<i>âª Waterloo</i>
+<i>âª Knowing my fate is to be with you</i>
+<i>âª Oh, oh, oh, oh, Waterloo</i>
+<i>âª Finally facing my Waterloo</i>
+<i>âª My, my</i>
+<i>âª I tried to hold you back</i>
+<i>âª But you were stronger</i>
+<i>âª Oh, yeah</i>
+<i>âª And now it seems my only chance is giving up the fight</i>
+<i>âª And how could I ever refuse?</i>
+<i>âª I feel like I win when I lose</i>
+<i>âª Waterloo</i>
+<i>âª I was defeated You won the war</i>
+<i>âª Waterloo</i>
+<i>âª Promise to love you forevermore</i>
+<i>âª Waterloo</i>
+<i>âª Couldn't escape if I wanted to</i>
+<i>âª Waterloo</i>
+<i>âª Knowing my fate is to be with you</i>
+<i>âª Oh, oh, oh, oh, Waterloo</i>
+<i>âª Finally facing my Waterloo</i>
+<i>âª Ooh, Waterloo</i>
+<i>âª Knowing my fate is to be with you</i>
+<i>âª Oh, oh, oh, oh, Waterloo âª</i>
 LEWIS: <i>Beck, Vogel, I want you guys in Airlock 2</i>
 <i>with the outer door open...</i>
 <i>- before the MAV even launches.</i>
@@ -1863,45 +1863,45 @@ Wow. Good shot.
 MALE REPORTER ON TV: <i>There you have it.</i>
 <i>Five years after the rescue of astronaut Mark Watney...</i>
 <i>an</i> Ares 5 <i>is on its way to Mars.</i>
-<i>♪ First I was afraid</i>
-<i>♪ I was petrified</i>
-<i>♪ Kept thinking I could never live without you by my side</i>
-<i>♪ But then I spent so many nights</i>
-<i>♪ Thinking how you did me wrong</i>
-<i>♪ And I grew strong and
+<i>âª First I was afraid</i>
+<i>âª I was petrified</i>
+<i>âª Kept thinking I could never live without you by my side</i>
+<i>âª But then I spent so many nights</i>
+<i>âª Thinking how you did me wrong</i>
+<i>âª And I grew strong and
 I learned how to get along</i>
-<i>♪ And so you're back from outer space</i>
-<i>♪ I just walked in to find you here</i>
-<i>♪ With that sad look upon your face</i>
-<i>♪ I should have changed that stupid lock</i>
-<i>♪ I should have made you leave your key</i>
-<i>♪ If I had known for just one second</i>
-<i>♪ You'd be back to bother me</i>
-<i>♪ Boy, now go, walk out the door</i>
-<i>♪ Just turn around now 'cause you're not welcome anymore</i>
-<i>♪ Weren't you the one who tried to hurt me with goodbye?</i>
-<i>♪ Did you think I'd crumble?</i>
-<i>♪ Did you think I'd lay down and die?</i>
-<i>♪ Oh, no, not I I will survive</i>
-<i>♪ For as long as I know how to love</i>
-<i>♪ I know I'll stay alive</i>
-<i>♪ I've got all my life to live</i>
-<i>♪ And I've got all my love to give</i>
-<i>♪ And I'll survive</i>
-<i>♪ I will survive</i>
-<i>♪ Hey, hey</i>
-<i>♪ Boy, now go, walk out the door</i>
-<i>♪ Just turn around now 'cause you're not welcome anymore</i>
-<i>♪ Weren't you the one who tried to break me with goodbye?</i>
-<i>♪ Did you think I'd crumble?</i>
-<i>♪ Did you think I'd lay down and die?</i>
-<i>♪ Oh, no, not I I will survive</i>
-<i>♪ For as long as I know how to love</i>
-<i>♪ I know I'll stay alive</i>
-<i>♪ I've got all my life to live</i>
-<i>♪ And I've got all my love to give</i>
-<i>♪ And I'll survive</i>
-<i>♪ I will survive ♪</i>
+<i>âª And so you're back from outer space</i>
+<i>âª I just walked in to find you here</i>
+<i>âª With that sad look upon your face</i>
+<i>âª I should have changed that stupid lock</i>
+<i>âª I should have made you leave your key</i>
+<i>âª If I had known for just one second</i>
+<i>âª You'd be back to bother me</i>
+<i>âª Boy, now go, walk out the door</i>
+<i>âª Just turn around now 'cause you're not welcome anymore</i>
+<i>âª Weren't you the one who tried to hurt me with goodbye?</i>
+<i>âª Did you think I'd crumble?</i>
+<i>âª Did you think I'd lay down and die?</i>
+<i>âª Oh, no, not I I will survive</i>
+<i>âª For as long as I know how to love</i>
+<i>âª I know I'll stay alive</i>
+<i>âª I've got all my life to live</i>
+<i>âª And I've got all my love to give</i>
+<i>âª And I'll survive</i>
+<i>âª I will survive</i>
+<i>âª Hey, hey</i>
+<i>âª Boy, now go, walk out the door</i>
+<i>âª Just turn around now 'cause you're not welcome anymore</i>
+<i>âª Weren't you the one who tried to break me with goodbye?</i>
+<i>âª Did you think I'd crumble?</i>
+<i>âª Did you think I'd lay down and die?</i>
+<i>âª Oh, no, not I I will survive</i>
+<i>âª For as long as I know how to love</i>
+<i>âª I know I'll stay alive</i>
+<i>âª I've got all my life to live</i>
+<i>âª And I've got all my love to give</i>
+<i>âª And I'll survive</i>
+<i>âª I will survive âª</i>
 <font color=yellow size=20>
 <i>Movie & Subtitles Presented By</i> :
 <u><i>Sandip Bhetariya</i></u>

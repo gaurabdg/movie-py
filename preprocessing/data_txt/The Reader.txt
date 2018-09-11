@@ -478,7 +478,7 @@ They were looking for guards.
 - [judge] You worked first at Auschwitz?
 - [Hanna] Yes.
 - [judge] Until 1944.
-Then you were moved to a smaller camp near Kraków?
+Then you were moved to a smaller camp near KrakÃ³w?
 - [Hanna] Yes.
 - Are you OK?
 - [judge] You helped move prisoners...

@@ -179,7 +179,7 @@ Is there any food on this flight?
 Uh, there's some bitchin' peanuts in the back.
 But it's kind of a self-serve deal.
 Kate Macer.
-Have you been to Juérez before?
+Have you been to JuÃ©rez before?
 Uh...
 No, I... We're goin' to El Paso, right?
 Yeah, amazing. Okay.
@@ -253,7 +253,7 @@ They took me out.
 They needed somebody for this job.
 For good behavior or bad behavior?
 Have you ever been over there?
-I worked in Juérez.
+I worked in JuÃ©rez.
 For the DEA?
 No.
 For who?
@@ -291,7 +291,7 @@ This is where we start.
 Try it on.
 There she is.
 The beast.
-Juérez.
+JuÃ©rez.
 You know,
 1900s, President Taft went to visit President Diaz.
 Took 4,000 men with him.
@@ -300,7 +300,7 @@ Some guy had a pistol.
 Was gonna walk right up to Taft and just blow his brains out.
 But it was avoided. 4,000 troops!
 Think he felt safe?
-Welcome to Juérez.
+Welcome to JuÃ©rez.
 It's brilliant what they do.
 When they mutilate a body like that, they make people think they must have been involved, they must have deserved such a death
 'cause they did something.
@@ -388,7 +388,7 @@ Whoa! Don't sell yourself short, all right?
 The reason Reggie's home is
 I know he wasn't ready for this.
 But he better get ready real quick because this is the future, Kate!
-Juérez is what happens when they dig in.
+JuÃ©rez is what happens when they dig in.
 This is it!
 What am I doing here?
 What you're doing here is you're giving us the opportunity to shake the tree and create chaos.
@@ -398,9 +398,9 @@ Learn! That's why you're here.
 Guillermo...
 You're giving him a belly full of water, you devil.
 You didn't think we'd get you here, did you?
-<i>No hablo Inglés.</i>
-<i>No hablo Inglés?</i>
-<i>I love it</i> when <i>they no hablo Inglés.</i>
+<i>No hablo InglÃ©s.</i>
+<i>No hablo InglÃ©s?</i>
+<i>I love it</i> when <i>they no hablo InglÃ©s.</i>
 You know, I brought an old buddy of yours.
 I bet you <i>hablo</i> to him. Yeah.
 I didn't know ghosts got thirsty.
@@ -423,7 +423,7 @@ Aw, Alejandro, I think he remembers you.
 I'm gonna step out.
 Timmy.
 What do you keep lookin' at me for?
-<i>No hablo Inglés, remember'?</i>
+<i>No hablo InglÃ©s, remember'?</i>
 No, no.
 Can I have one of those?
 Thank you.
@@ -726,7 +726,7 @@ How you doin'? Just Ted's fine.
 I saw you play softball once.
 Softball?
 She was at the game, Ted.
-<i>“The game?“.</i>
+<i>âThe game?â.</i>
 Aw...
 Where you struck out in slow-pitch softball.
 You played really, really well.

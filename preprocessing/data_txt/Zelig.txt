@@ -374,12 +374,12 @@ There were not only Leonard Zelig pens</i>
 <i>In Chicago, he meets heavyweight champion Jack Dempsey,</i>
 <i>who clowns with Zelig at his training camp.</i>
 <i>In Washington, DC, he is introduced to both Calvin Coolidge and Herbert Hoover.</i>
-<i>In France he is hailed as "Le Lézard." He is the toast of the Parisian music halls.</i>
+<i>In France he is hailed as "Le LÃ©zard." He is the toast of the Parisian music halls.</i>
 <i>His performance endears him as well to many leading French intellectuals,</i>
 <i>who see in him a symbol for everything.</i>
 <i>His transformation into a rabbi is so realistic</i>
 <i>that certain Frenchmen suggest he be sent to Devil's Island.</i>
-<i>At the Folies-Bergère, Josephine Baker does her version of the Chameleon dance,</i>
+<i>At the Folies-BergÃ¨re, Josephine Baker does her version of the Chameleon dance,</i>
 <i>and later tells friends she finds Zelig amazing, but a little lost.</i>
 Everyone used to be at my place, that is, everyone who was someone.
 And occasionally, someone would bring
@@ -579,12 +579,12 @@ He used to refer to himself as Dr. Zelig.</i>
 I told her "You'd better get away for a day and relax.
 "The strain is becoming too much for you."
 <i>Leaving Zelig alone, Dr. Fletcher takes Paul Deghuee's advice</i>
-<i>and she and her fiancé spend some hours off relaxing.</i>
+<i>and she and her fiancÃ© spend some hours off relaxing.</i>
 <i>They go to Broadway, then to a well-known nightclub,</i>
 <i>where, despite a lively stage show,
 Dr. Fletcher is distracted and uneasy.</i>
 <i>She is unable to think of anything but her patient.</i>
-<i>The atmosphere with her fiancé, Koslow, is awkward and strained.</i>
+<i>The atmosphere with her fiancÃ©, Koslow, is awkward and strained.</i>
 <i>He is put off by her total obsession with Zelig.</i>
 <i>Ironically, it is in the noisy and smoke-filled atmosphere of the nightclub</i>
 <i>that Eudora Fletcher is struck by a brilliant and innovative plan</i>

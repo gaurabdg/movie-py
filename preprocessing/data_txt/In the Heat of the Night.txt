@@ -1,28 +1,28 @@
-<i>♪ In the heat of the night</i>
-<i>♪ Seems like a cold sweat creepin' across my brow</i>
-<i>♪ Yeah</i>
-<i>♪ In the heat of the night</i>
-<i>♪ I'm feelin' motherless somehow</i>
-<i>♪ Stars with evil eyes</i>
-<i>♪ Stare from the skies</i>
-<i>♪ All mean and bright</i>
-<i>♪ In the heat of the night</i>
-<i>♪ Ain't a woman yet been born</i>
-<i>♪ Knows how to make the mornin' come</i>
-<i>♪ It's so hard to keep control</i>
-<i>♪ When I could sell my soul</i>
-<i>♪ For just a little light</i>
-<i>♪ In the heat of the night</i>
-<i>♪ In the heat of the night</i>
-<i>♪ I've got trouble wall to wall</i>
-<i>♪ Oh yes, I have</i>
-<i>♪ I repeat</i>
-<i>♪ I repeat, in the night</i>
-<i>♪ Must be an ending to it all</i>
-<i>♪ But hold on, it won't be long</i>
-<i>♪ Just you be strong</i>
-<i>♪ And it'll be all right</i>
-<i>♪ In the heat of the night</i>
+<i>âª In the heat of the night</i>
+<i>âª Seems like a cold sweat creepin' across my brow</i>
+<i>âª Yeah</i>
+<i>âª In the heat of the night</i>
+<i>âª I'm feelin' motherless somehow</i>
+<i>âª Stars with evil eyes</i>
+<i>âª Stare from the skies</i>
+<i>âª All mean and bright</i>
+<i>âª In the heat of the night</i>
+<i>âª Ain't a woman yet been born</i>
+<i>âª Knows how to make the mornin' come</i>
+<i>âª It's so hard to keep control</i>
+<i>âª When I could sell my soul</i>
+<i>âª For just a little light</i>
+<i>âª In the heat of the night</i>
+<i>âª In the heat of the night</i>
+<i>âª I've got trouble wall to wall</i>
+<i>âª Oh yes, I have</i>
+<i>âª I repeat</i>
+<i>âª I repeat, in the night</i>
+<i>âª Must be an ending to it all</i>
+<i>âª But hold on, it won't be long</i>
+<i>âª Just you be strong</i>
+<i>âª And it'll be all right</i>
+<i>âª In the heat of the night</i>
 Where you keepin' the pie tonight?
 A man ate the last piece just before you come in.
 What's that little old orphan sittin' right up there?
@@ -32,21 +32,21 @@ I'll let you have her for free.
 I told you 'bout that "Sam" business, didn't I? Hm?
 Sorry, Mr. Wood.
 I mean, uh... <i>Officer</i> Wood.
-<i>♪ Well, a bow-legged Polly and a knocked-kneed Paul</i>
-<i>♪ A bow-legged Polly and a knocked-kneed Paul</i>
-<i>♪ A bow-legged Polly and a knocked-kneed Paul</i>
-<i>♪ They can't get together at all</i>
-<i>♪ Just like the worm in the cornfield said to his brother</i>
-<i>♪ "Yeah, go in one ear and out the other"</i>
-<i>♪ Well, a bucktoothed Clara and a cross-eyed Clyde</i>
-<i>♪ A bucktoothed Clara and a cross-eyed Clyde</i>
-<i>♪ Like old bow-legged Polly and a knock-kneed Paul</i>
-<i>♪ Every time I see your face</i>
-<i>♪ It's got a way of turnin' me around</i>
-<i>♪ You tune me in, pretty baby</i>
-<i>♪ Wild things begin</i>
-<i>♪ Baby, that ain't love</i>
-<i>♪ But it sure is groovy</i>
+<i>âª Well, a bow-legged Polly and a knocked-kneed Paul</i>
+<i>âª A bow-legged Polly and a knocked-kneed Paul</i>
+<i>âª A bow-legged Polly and a knocked-kneed Paul</i>
+<i>âª They can't get together at all</i>
+<i>âª Just like the worm in the cornfield said to his brother</i>
+<i>âª "Yeah, go in one ear and out the other"</i>
+<i>âª Well, a bucktoothed Clara and a cross-eyed Clyde</i>
+<i>âª A bucktoothed Clara and a cross-eyed Clyde</i>
+<i>âª Like old bow-legged Polly and a knock-kneed Paul</i>
+<i>âª Every time I see your face</i>
+<i>âª It's got a way of turnin' me around</i>
+<i>âª You tune me in, pretty baby</i>
+<i>âª Wild things begin</i>
+<i>âª Baby, that ain't love</i>
+<i>âª But it sure is groovy</i>
 It's Colbert, all right.
 Skull's caved in.
 You ever take a homicide picture before, son?
@@ -633,15 +633,15 @@ I'd drive up there, but I'm sure you don't want me running up there by myself.
 Endicott's?!
 Come on, now!
 None of that for you, huh, Virgil?
-<i>♪ In the heat of the night</i>
-<i>♪ Mm-hm, ain't a woman yet been born</i>
-<i>♪ Yeah</i>
-<i>♪ Knows how to make the mornin' come</i>
-<i>♪ It's so hard to keep control</i>
-<i>♪ Yes, it is</i>
-<i>♪ When I could sell my soul</i>
-<i>♪ For just a little light</i>
-<i>♪ In the heat of the night</i>
+<i>âª In the heat of the night</i>
+<i>âª Mm-hm, ain't a woman yet been born</i>
+<i>âª Yeah</i>
+<i>âª Knows how to make the mornin' come</i>
+<i>âª It's so hard to keep control</i>
+<i>âª Yes, it is</i>
+<i>âª When I could sell my soul</i>
+<i>âª For just a little light</i>
+<i>âª In the heat of the night</i>
 Listen. You know something I don't know?
 I found a piece of osmunda in Colbert's car.
 - A piece of what?
@@ -773,20 +773,20 @@ Could you follow the same route you followed Tuesday night, same speed?
 - I wouldn't want him to slap you down for steppin' outta line, makin' decisions on your own, and all that.
 He don't knock me outta my socks.
 Let's get rollin', Virgil.
-<i>♪ All you little birds better lock up tight</i>
-<i>♪ 'Cause there's a foul owl on the prowl tonight</i>
-<i>♪ Hey, little lark, get outta the dark</i>
-<i>♪ Foul owl on the prowl</i>
-<i>♪ Cute little jay, stay outta his way</i>
-<i>♪ Foul owl on the prowl</i>
-<i>♪ You just might be the quail he'll tail</i>
-<i>♪ Foul owl on the prowl</i>
-<i>♪ You just might be the swallow he'll follow</i>
-<i>♪ Foul owl on the prowl</i>
-<i>♪ If you hear him hoot... scoot</i>
-<i>♪ If you pass his tree... flee</i>
-<i>♪ If you catch his eye... fly</i>
-<i>♪ Don't wait to say goodbye</i>
+<i>âª All you little birds better lock up tight</i>
+<i>âª 'Cause there's a foul owl on the prowl tonight</i>
+<i>âª Hey, little lark, get outta the dark</i>
+<i>âª Foul owl on the prowl</i>
+<i>âª Cute little jay, stay outta his way</i>
+<i>âª Foul owl on the prowl</i>
+<i>âª You just might be the quail he'll tail</i>
+<i>âª Foul owl on the prowl</i>
+<i>âª You just might be the swallow he'll follow</i>
+<i>âª Foul owl on the prowl</i>
+<i>âª If you hear him hoot... scoot</i>
+<i>âª If you pass his tree... flee</i>
+<i>âª If you catch his eye... fly</i>
+<i>âª Don't wait to say goodbye</i>
 Take ten minutes to get myself a king-sized Coke and a wedge of pie.
 That is, if that peckerwood ain't sold out again.
 - Can I bring you anything?
@@ -802,8 +802,8 @@ Whoa.
 All right, Virgil.
 Just what the hell do you want?
 I wanna know exactly where Sam was at all times on the night of the murder.
-<i>♪ If you pass his tree... flee</i>
-<i>♪ If you catch his eye... fly</i>
+<i>âª If you pass his tree... flee</i>
+<i>âª If you catch his eye... fly</i>
 Virgil, if you get killed, we'll have one hell of a mess in this town.
 You know that?
 I know.
@@ -982,8 +982,7 @@ And I said "No, Sam.
 I guess I don't."
 And he said...
 "The cemetery. That's where."
-"Know why?"
-“Cause they got all of them big, cool tombstones."
+"Know why?" âCause they got all of them big, cool tombstones."
 "Ever stretch out on a tombstone, Delores?"
 "Feel all that nice, cool marble along your body?"
 - He said that?
@@ -1232,15 +1231,15 @@ Virgil?
 You take care. You hear?
 Yeah.
 <i>Board!</i>
-<i>♪ In the heat of the night</i>
-<i>♪ I've got trouble wall to wall</i>
-<i>♪ Oh yes, I have</i>
-<i>♪ I repeat</i>
-<i>♪ I repeat, in the night</i>
-<i>♪ Must be an endin' to it all</i>
-<i>♪ Hold on, it won't be long</i>
-<i>♪ Yeah, you be strong</i>
-<i>♪ And I'll be all right</i>
-<i>♪ In the heat of the night</i>
-<i>♪ In the heat of the night</i>
+<i>âª In the heat of the night</i>
+<i>âª I've got trouble wall to wall</i>
+<i>âª Oh yes, I have</i>
+<i>âª I repeat</i>
+<i>âª I repeat, in the night</i>
+<i>âª Must be an endin' to it all</i>
+<i>âª Hold on, it won't be long</i>
+<i>âª Yeah, you be strong</i>
+<i>âª And I'll be all right</i>
+<i>âª In the heat of the night</i>
+<i>âª In the heat of the night</i>
 English - US - SDH

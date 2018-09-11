@@ -25,11 +25,11 @@ A friend of yours?
 A competitor.
 He was good.
 He was very, very good.
-Señor... nobody's come out of there alive.
+SeÃ±or... nobody's come out of there alive.
 Please...
 <i>[water dripping]</i>
 <i>[quietly]:
-Señor.</i>
+SeÃ±or.</i>
 <i>[whimpers]</i>
 <i>[whimpering]</i>
 <i>[gasps]</i>
@@ -48,7 +48,7 @@ That's what scares me.
 <i>[stone scrapes]</i>
 <i>[whoosh and twang]</i>
 Stay here.
-If you insist, señor.
+If you insist, seÃ±or.
 <i>[sharp breath]</i>
 <i>[anxious gasp]</i>
 <i>[laughs]</i>
@@ -63,7 +63,7 @@ No time to argue.
 Throw me the idol,
 I throw you the whip.
 Give me the whip!
-Adios, señor.
+Adios, seÃ±or.
 <i>[grunts]</i>
 <i>[rumbling]</i>
 <i>[grunts and gasps)</i>
@@ -192,7 +192,7 @@ Dr. Jones, now, you must understand that this is all strictly confidential, eh?
 I understand.
 <i>Uh...
 [clears throat]</i>
-Yesterday afternoon, our European sections intercepted a... a German communiqué that was sent from
+Yesterday afternoon, our European sections intercepted a... a German communiquÃ© that was sent from
 Cairo to Berlin.
 Now, to Cairo...
 See, over the last two years, the Nazis have had teams of archaeologists running around the world looking for all kinds of religious artifacts.
@@ -723,12 +723,10 @@ You said their headpiece only had markings on one side.
 Are you absolutely sure?
 Belloq's staff is too long.
 BOTH: They're digging in the wrong place.
-<i>[lilting laughter]</i>
-♪ I am the monarch of the sea ♪
-♪ I am the ruler of the--
+<i>[lilting laughter]</i> âª I am the monarch of the sea âª âª I am the ruler of the--
 <i>[gasps]</i>
 Bad dates.
-I told you not to be premature in your communiqué to Berlin.
+I told you not to be premature in your communiquÃ© to Berlin.
 Archaeology is not an exact science.
 It does not deal in time schedules.
 The fuehrer is not a patient man.
@@ -1026,7 +1024,7 @@ She's of no use to us.
 Only our mission for the fuehrer matters.
 I wonder sometimes,
 Monsieur, if you have that clearly in mind.
-<i>It was not to be, chérie.</i>
+<i>It was not to be, chÃ©rie.</i>
 You bastards!
 I'll get you for this!
 Indiana Jones... adieu.
@@ -1231,12 +1229,8 @@ You're my good friend.
 Sallah.
 That is for Fayah... that is for your children... and this is for you.
 <i>[ship's horn blaring]</i>
-Thank you.
-♪ A British tar is a soaring soul ♪
-♪ As free as a mountain bird ♪
-♪ His energetic fist should be ready to... ♪
-<i>[laughter]</i>
-♪ ...a dictator...
+Thank you. âª A British tar is a soaring soul âª âª As free as a mountain bird âª âª His energetic fist should be ready to... âª
+<i>[laughter]</i> âª ...a dictator...
 <i>[whistling happily]</i>
 Where did you go?
 I'm cleaning up.

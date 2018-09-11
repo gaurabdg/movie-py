@@ -1,4 +1,4 @@
-<b><font color="#804040">®</font></b> <b><font color="#00FFFF">Arun's collections</font></b> <b><font color="#804040">®</font></b>
+<b><font color="#804040">Â®</font></b> <b><font color="#00FFFF">Arun's collections</font></b> <b><font color="#804040">Â®</font></b>
 Go on!
 <font color="#D900D9">(HORSE WHICKERING)</font>
 <font color="#D900D9">(HORSE WHINNYING)</font>
@@ -802,7 +802,7 @@ He come with Goodnight.
 Who's this?
 - We work for her.
 - Uh-huh.
-<font color="#D900D9">(CHUCKLES)</font> Well, enchanté, mon cher.
+<font color="#D900D9">(CHUCKLES)</font> Well, enchantÃ©, mon cher.
 - Emma Cullen.
 - Your hands are cold, Emma.
 Are you nervous?
@@ -810,15 +810,15 @@ Don't be.
 Goodnight's my name.
 That Billy is pretty nifty with them pigstickers.
 Oh, good, we got a Mexican.
-Oh... yippee, yippee, yippee, ándale.
+Oh... yippee, yippee, yippee, Ã¡ndale.
 Oh? Ooh, oh...
-Olé, muchacho.
+OlÃ©, muchacho.
 <font color="#D900D9">(FARADAY CHORTLES)</font>
 <font color="#D09090">GOODNIGHT</font> : What a merry band we are.
 Me a gray, Chisolm a blue,
 Billy, a mysterious man of the Orient, a drunk Irishman, a Texican, a female and her gentleman caller.
 <font color="#D900D9">(CHUCKLES)</font> This is not going to end well.
-I'm Mexican, cabrón.
+I'm Mexican, cabrÃ³n.
 No such thing as a "Texican."
 Try telling that to my granddaddy.
 He died at the Alamo.
@@ -1058,7 +1058,7 @@ I got seven.
 <font color="#D900D9">(SCOFFS)</font>
 You wanna try and tie it up?
 Huh, chingado?
-Say when, güero.
+Say when, gÃ¼ero.
 <font color="#D900D9">(QUIETLY)</font> Hey.
 Come on out of there.
 Come on. Come on!
@@ -1451,10 +1451,10 @@ Anything left up there to stand on?
 <font color="#D09090">FARADAY</font> : Won't have to go too far to pray for forgiveness.
 <font color="#D900D9">(CHISOLM CHUCKLES)</font>
 <font color="#D09090">VASQUEZ</font> : <font color="#D900D9">(CHUCKLES)</font> There you go.
-But there is no forgiveness for men like you, güero.
+But there is no forgiveness for men like you, gÃ¼ero.
 - <font color="#D900D9">(CHORTLES)</font>
-- Don't call me güero.
-What's güero mean, anyway?
+- Don't call me gÃ¼ero.
+What's gÃ¼ero mean, anyway?
 - Handsome? Debonair?
 - Yeah, something like that.
 <font color="#D09090">GOODNIGHT</font> : No, this is our stronghold.
@@ -1500,7 +1500,7 @@ Yeah.
 It's Maria you can disrespect.
 <font color="#D900D9">(LAUGHTER)</font>
 Don't tell Ethel about Maria. <font color="#D900D9">(LAUGHS)</font>
-Wait, wait, wait. My Maria, cabrón? Hmm?
+Wait, wait, wait. My Maria, cabrÃ³n? Hmm?
 You have a Maria?
 I have three Marias!
 <font color="#D09090">HORNE</font> : That's not right.
@@ -1830,17 +1830,17 @@ Into the church!
 Bring the fight to these cowards!
 Yeah, let's kill these bastards!
 - Wagons! Wagons! Let's go.
-- Hurry, güero!
+- Hurry, gÃ¼ero!
 Light 'em up and lock these sons of bitches in here!
 <font color="#D900D9">(SPEAKS IN SPANISH)</font>
 Lock 'em up! Let's...
-Güero, man!
+GÃ¼ero, man!
 - Light it up!
 - Yeah.
 That's far enough. Leave it, let's go!
 <font color="#D900D9">(SPEAKS IN SPANISH)</font>
 <font color="#D900D9">(MEN WHOOPING)</font>
-Are you okay, güero?
+Are you okay, gÃ¼ero?
 So far, so good.
 <font color="#D900D9">(BABY CRYING)</font>
 <font color="#D09090">BLACKSTONE SOLDIER</font> :
@@ -1856,7 +1856,7 @@ They're trapped!
 <font color="#D900D9">(SHRIEKS WAR CRY)</font>
 Keep shooting!
 <font color="#D900D9">(GRUNTING)</font>
-<font color="#D09090">VASQUEZ</font> : Keep shooting, güerito!
+<font color="#D09090">VASQUEZ</font> : Keep shooting, gÃ¼erito!
 <font color="#D900D9">(SHOUTING)</font>
 <font color="#D09090">BLACKSTONE SOLDIER</font> :
 Go 'round! It's blocked!
@@ -2149,4 +2149,4 @@ As long as I can walk, I'll be fine.
 They fought for the ones who couldn't fight for themselves, and they died for them, too.
 All to win something that didn't belong to them.
 It was magnificent.
-<b><font color="#804040">®</font></b> <b><font color="#00FFFF">Arun's collections</font></b> <b><font color="#804040">®</font></b>
+<b><font color="#804040">Â®</font></b> <b><font color="#00FFFF">Arun's collections</font></b> <b><font color="#804040">Â®</font></b>
