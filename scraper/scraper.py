@@ -10,7 +10,13 @@ import urllib.request
 import os
 import re
 import time
+import locale
+import sys
+import subscene
 
+# locale.setlocale(locale.LC_ALL, 'sv_SE.UTF-8')
+# reload(sys)
+# sys.setdefaultencoding('utf8')
 not_downloaded = []
 
 def exec_int(msg):
@@ -21,8 +27,10 @@ def exec_int(msg):
 # request headers
 cj = CookieJar()
 opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
-# user_agent = 'Mozilla/5.0 (Windows NT 6.1; rv:54.0) Gecko/20100101 Firefox/54.0'
-# opener.addheaders = [('user-agent', user_agent)]
+user_agent = 'Mozilla/5.0 (Windows NT 6.1; rv:54.0) Gecko/20100101 Firefox/54.0'
+opener.addheaders = [('user-agent', user_agent),('Accept-Charset', 'utf-8')]
+
+
 
 class movies:
     """ class for fetching movie metadata """
@@ -51,8 +59,10 @@ class movies:
         """ fetch metadata of movies and invoke subtitle fetching utility with name and year parameters """
 
         movie_list = self.connect().find_all('div', class_='lister-item mode-advanced')
+        print("connected")
         for container in movie_list:
             name = container.h3.a.text
+            print(name)
             # problem with unicode
             if name.isascii() is True:
                 movies.names.append(name)
@@ -229,4 +239,27 @@ dataframe_test = pd.DataFrame({'movie': mov.names,
 dataframe_test.to_csv('dump.csv')
 
 exec_int("Downloaded and Renamed")
+
+# Download remaining movies from subscene.com
+# mov_list = []
+# with open("not_downloaded.txt", "r") as file:
+#     lines = file.read().split(",")
+#
+# for line in lines:
+#     line = line.replace("'","")
+#     line = line.strip()
+#     mov_list.append(line)
+#
+# # print(mov_list)
+# subs = []
+# for mov in mov_list:
+#         film = subscene.search(mov)
+#         sub = film.subtitles[42]
+#         subs.append(sub.url)
+#
+# print(subs)
+
+
+
+
 
