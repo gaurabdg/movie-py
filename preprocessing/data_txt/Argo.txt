@@ -41,10 +41,10 @@ We should all split.
 I'm gonna close up my office.
 Oh, my God.
 Marines to Number One. Fall back.
-- Can anyone hear me? We need help.
-- I need police right now. Right now, goddamn it!
-- Jesus.
-- Can anybody hear me?
+Can anyone hear me? We need help.
+I need police right now. Right now, goddamn it!
+Jesus.
+Can anybody hear me?
 There was a breach.
 Just burn everything! Burn it now!
 All right, burn everything!
@@ -59,12 +59,12 @@ They need an hour to burn the classified.
 I need you to hold.
 If you shoot one person, they're gonna kill every single one of us in here.
 I'm telling you, if we're going to go, we need to go now.
-- Okay, we need to make a decision--
-- Can we wait until the Iranian police come?
+Okay, we need to make a decision--
+Can we wait until the Iranian police come?
 No, the police aren't coming.
 It's been 45 minutes.
-- How do you know?
-- The police have abandoned their posts.
+How do you know?
+The police have abandoned their posts.
 If the police are not coming, then the army's gonna come.
 The prime minister won't let the embassy be taken over.
 The prime minister may come tomorrow, but the
@@ -78,17 +78,17 @@ Tear gas as a last resort only.
 I repeat: only if your life is under threat.
 In here, we are in America right now.
 Outside, we are in Iran.
-- It's on American soil--
-- I'm not going out into that.
+It's on American soil--
+I'm not going out into that.
 They're not safe here.
 If they get caught applying for visas to the U.S.?
 Mark, we are in the only building with direct access to the street.
-- If we're going to go, then we need to go now.
-- Yeah, I'm in.
-- Yeah.
-- Yeah, let's go.
-- I'm going outside.
-- Why?
+If we're going to go, then we need to go now.
+Yeah, I'm in.
+Yeah.
+Yeah, let's go.
+I'm going outside.
+Why?
 To reason with them.
 Open the door!
 Open the fucking door!
@@ -116,41 +116,41 @@ Okay, come on.
 We gotta get off the streets.
 This way. Up here to the left.
 {\an8}- These fucks hit us, we can't hit them back?
-- Mosaddegh, we did it to them first.
+Mosaddegh, we did it to them first.
 STATE DEPARTMENT - 7TH FLOOR
 {\an8}You think the Soviets would put up with this shit? They'd invade.
 We helped the guy torture and de-ball an entire population.
-- How many were there?
-- At least 50. We're not sure.
-- Schafer!
-- You still haven't found Schafer?
+How many were there?
+At least 50. We're not sure.
+Schafer!
+You still haven't found Schafer?
 No, I was screaming his name because I was fucking him.
 CANADIAN AMBASSADOR'S RESIDENCE, TEHRAN
 {\an8}Come in.
 {\an8}It's confirmed, sir. Six escaped.
-- I was told five.
-- No, sir, apparently it's six.
+I was told five.
+No, sir, apparently it's six.
 {\an8}- What happened?
-- Not clear. We know they escaped.
+Not clear. We know they escaped.
 SECRETARY OF STATE'S OFFICE
 {\an8}- Where are they?
-- The Canadian ambassador's house.
-- Do they stay put? Are we attempting rescue?
-- Hold for the Secretary of State.
+The Canadian ambassador's house.
+Do they stay put? Are we attempting rescue?
+Hold for the Secretary of State.
 Yes. Is White House joining?
 They claim the embassy was a den of espionage.
 {\an8}- We wish it was.
-- A fuckin' den of espionage.
+A fuckin' den of espionage.
 {\an8}Cl's got three people over there, they don't see a revolution coming?
 WHITE HOUSE, CHIEF OF STAFF'S OFFICE
 {\an8}- Call it something other than intelligence.
-- Hold for the chief of staff.
-- Hodding.
-- I'll call him back.
+Hold for the chief of staff.
+Hodding.
+I'll call him back.
 They're sticking.
 No release till we expel the shah.
-- Put him on a plane, then. Fuck him.
-- He's half-dead and he's in chemo.
+Put him on a plane, then. Fuck him.
+He's half-dead and he's in chemo.
 We took him in. He's ours now.
 Great, so we'll take in any prick as long as he's got cancer?
 No, just the pricks on our side.
@@ -188,8 +188,8 @@ Our embassy has been seized...
 ...and more than 60 American citizens continue to be held as hostages.
 The situation in Iran this morning is unchanged in regard to the hostages.
 NBC's situation in Iran has changed, however.
-- Is he back there?
-- Office.
+Is he back there?
+Office.
 What happened?
 The six of them went out a back exit.
 Brits turned them away,
@@ -197,8 +197,8 @@ Kiwis turned them away.
 Canadians took them in.
 Traffic calls them "The Houseguests."
 They haven't left the Canadian ambassador's house since it happened.
-- Why didn't we get them 10 weeks ago?
-- Too dangerous.
+Why didn't we get them 10 weeks ago?
+Too dangerous.
 You got Revolutionary Guards going door-to-door like Jehovah's Witnesses.
 Half of them think that Khomeini's been too lenient on the ones in the embassy.
 What about the White House?
@@ -206,21 +206,21 @@ Carter's shitting enough bricks to build the pyramids.
 The Canadians are done.
 They say they're bearing too much risk. Their foreign secretary corners Vance in Brussels. ..
 ...and told him she wants the six of them out.
-- Who else knows?
-- Just the families.
+Who else knows?
+Just the families.
 Meanwhile, some genius in our embassy was keeping a mug book. ..
-- ...on everybody who worked there.
-- Jesus Christ.
+...on everybody who worked there.
+Jesus Christ.
 We think it got shredded before they got in.
 But now the bastards are using sweatshop kids to reassemble the shreds.
 And once they reassemble that book they'll know six Americans got out.
 And they'll know what they look like.
 Standing room only for beheadings in the square.
-- Who's handling?
-- State is coordinating in-house.
+Who's handling?
+State is coordinating in-house.
 State?
-- They don't do exfils.
-- They do now.
+They don't do exfils.
+They do now.
 They want to run it by us, strictly as consultants.
 Engell says it's a lose-lose.
 These people die, they die badly. Publicly.
@@ -230,8 +230,8 @@ So he can tell State he ran it by his best exfil guy.
 Okay.
 This is Bob Pender from State O.S.
 He's been talking to Morgan at ExtAff.
-- Bob?
-- Thank you.
+Bob?
+Thank you.
 {\an8}All right.
 {\an8}Mark and Cora Lijek.
 Twenty-nine and 25. He's a consular officer, she's an assistant.
@@ -274,12 +274,12 @@ It's winter. You can't afford to wait around till spring so it's nice enough to 
 The only way out of that city is the airport.
 Build new cover identities for them. ..
 ...you send in a Moses, he takes them out on a commercial flight.
-- We've explored those options.
-- They'll never get past airport control.
-- Komiteh own the place.
-- They could pose as reporters.
-- The government issued 70-something...
-- Seventy-four.
+We've explored those options.
+They'll never get past airport control.
+Komiteh own the place.
+They could pose as reporters.
+The government issued 70-something...
+Seventy-four.
 ...visas for American journalists.
 The Revolutionary Guards keep them on 74 leashes.
 If they're caught with fake journalist creds, it's Peter Jennings' head in a noose in an hour.
@@ -293,18 +293,18 @@ We give them creds, makes them look like Ag NGOs.
 It's a Feed the Kids thing. Okay?
 Those kids are black.
 Those are African kids.
-- We get ethnically appropriate kids.
-- Are there starving kids in Iran?
+We get ethnically appropriate kids.
+Are there starving kids in Iran?
 I'm sure there's some skinny kids in Iran, so.. ..
-- What about missionaries?
-- A logo with seeds. Call it "Seeds of Hope."
+What about missionaries?
+A logo with seeds. Call it "Seeds of Hope."
 Hold on.
 Sir, do you have this newspaper in front of you? Would you mind taking a look at it?
 What's in this picture?
-- Tehran.
-- Right. What's on the ground?
-- Snow.
-- Right.
+Tehran.
+Right. What's on the ground?
+Snow.
+Right.
 So, what crops are the do-gooders inspecting under Frosty?
 Sir, exfils are like abortions.
 You don't wanna need one.. .
@@ -363,24 +363,24 @@ And if need be, I'll bear arms again.
 And that's the way it is
 Wednesday, January 16th, 1980.
 The 74th day of captivity for 50 Americans in Iran.
-- Hello?
-- Buddy man.
+Hello?
+Buddy man.
 I'll get Mom.
 I'm looking for you.
 Did you do your homework tonight?
-- Yeah, it was easy.
-- Excellent. What are we watching?
+Yeah, it was easy.
+Excellent. What are we watching?
 Battle for the Planet of the Apes.
 Tell me, what channel is it on?
 Five.
 All right.
-- What'd you do at school today?
-- Nothing. I don't know. Nothing.
+What'd you do at school today?
+Nothing. I don't know. Nothing.
 Can't be nothing.
 Something must've happened.
 After school I got some baseball cards.
-- Mm-hm.
-- That was fun.
+Mm-hm.
+That was fun.
 Okay, you know those science-fiction movies?
 Star Trek, Star Wars.
 They need an exotic location to shoot.
@@ -398,8 +398,8 @@ This is more plausible than foreigners who wanna go be teachers in Iran.
 You wanna blend in with the population, you don't look like a rodeo clown.
 Just gonna wake up tomorrow morning and be in the movie business?
 We already have credentials for the teachers.
-- No, sir, we have a contact in L.A.
-- Chambers.
+No, sir, we have a contact in L.A.
+Chambers.
 John Chambers.
 He's a Hollywood prosthetics guy.
 He's got an Oscar, he did Planet of the Apes.
@@ -407,14 +407,14 @@ Did a bunch of contract work for us in the past.
 I go see him, he sets us up.
 One, two days, make it look real.
 I went outside for 30 seconds. Could you give me a break? I can't breathe in this house.
-- I need some fresh air. I can't breathe.
-- Stay inside the fucking house.
-- Who saw me go outside? I'm just curious.
-- That's not the point, Bob.
-- It doesn't matter who saw you go out.
-- Did you see me?
-- No.
-- I did, okay? I saw you.
+I need some fresh air. I can't breathe.
+Stay inside the fucking house.
+Who saw me go outside? I'm just curious.
+That's not the point, Bob.
+It doesn't matter who saw you go out.
+Did you see me?
+No.
+I did, okay? I saw you.
 Bob, it only takes one second for them to spot you.
 Some Americans are missing.
 Look at the repaired list of embassy employees.
@@ -430,10 +430,10 @@ They just don't know it.
 My creation.
 My creation.
 What the fuck, Brian?
-- Cut.
-- We're cutting.
-- What an idiot.
-- It really hurt.
+Cut.
+We're cutting.
+What an idiot.
+It really hurt.
 I'm sorry.
 Chambers. John Chambers, makeup!
 BURBANK, CALIFORNIA - JANUARY 19, 1980
@@ -458,16 +458,16 @@ How are you gonna get into the embassy?
 They're not in the embassy.
 During the takeover, six people escaped.
 They're hiding out in Tehran.
-- And that's who I'm gonna go get.
-- What am I making?
+And that's who I'm gonna go get.
+What am I making?
 I need you to help me make a fake movie.
 Heh. You came to the right place.
 I wanna set up a production company and build a cover around making a movie.
-- That we're not gonna make.
-- No.
+That we're not gonna make.
+No.
 So you wanna come to Hollywood and act like a big shot?
-- Without actually doing anything?
-- No.
+Without actually doing anything?
+No.
 You'll fit right in.
 Let's see.
 Well, this one's got an M.A. in English.
@@ -481,8 +481,8 @@ The Kho-maniacs are Froot Loops, but they got cousins...
 ...who sell prayer rugs and eight-tracks on La Brea.
 You can't build cover stories around a movie that doesn't exist.
 You need a script. You need a producer.
-- Make me a producer.
-- No.
+Make me a producer.
+No.
 You're an associate producer at best.
 If you're gonna do a $20 million
 Star Wars rip-off.. .
@@ -494,8 +494,8 @@ Who'll produce a fake movie.
 For free.
 Hi. I only got a couple of minutes.
 I'm getting a lifetime achievement award.
-- Mazel tov, Lester.
-- Ah.
+Mazel tov, Lester.
+Ah.
 I'd rather stay home and count the wrinkles on my dog's balls.
 Okay, you got six people hiding out in a town of, what, 4 million people...
 ...all of whom chant "Death to America" all the livelong day.
@@ -514,8 +514,8 @@ Well, they're getting the ratings,
 I'll say that for--
 We're gonna need a script.
 Here, come on, come on, come on.
-- No, it's fine.
-- Stop.
+No, it's fine.
+Stop.
 Okay.
 I love you.
 PAT
@@ -528,8 +528,8 @@ PAT
 Sahar knows.
 {\an8}How about The Horses of Achilles?
 {\an8}No good. Nobody does Westerns anymore.
-- It's ancient Troy.
-- If it's got horses in it, it's a Western.
+It's ancient Troy.
+If it's got horses in it, it's a Western.
 Hey, Kenny, please.
 Yeah, it's John Chambers, about the office space.
 It doesn't matter. It's a fake movie.
@@ -544,10 +544,10 @@ Yeah, I'll hold.
 An exotic, Middle Eastern vibe.
 Women gather, offering ecstatic libations to the sky gods.
 Argo. A science-fantasy adventure."
-- It's in turnaround. It's dog shit.
-- It's a space movie in the Middle East.
-- Does it matter?
-- Can we get the option?
+It's in turnaround. It's dog shit.
+It's a space movie in the Middle East.
+Does it matter?
+Can we get the option?
 Why do we need the option?
 You're worried about the Ayatollah?
 Try the WGA.
@@ -558,8 +558,8 @@ He's full of shit and he comes on hard...
 You want to go into production with this in one month?
 Up like a carny ride.
 One month, yeah.
-- Who are you again?
-- Kevin Harkins. Studio Six Films.
+Who are you again?
+Kevin Harkins. Studio Six Films.
 He's the money.
 Look, what do you say 15 thou and let's close on this?
 You want me to be honest with you, Les?
@@ -601,8 +601,8 @@ Got any kids, Lester?
 Yeah. I have two daughters.
 You see them much?
 I talk to them once a year.
-- Maybe.
-- Why is that?
+Maybe.
+Why is that?
 I was a terrible father.
 The bullshit business, it's like coal mining.
 You come home to your wife and kids, you can't wash it off.
@@ -642,14 +642,14 @@ Iran.
 Look, I can get you in, but you're gonna have to promise me at least half a page.
 No, no, this thing's an event.
 It's gonna be a spectacle.
-- Lester?
-- Nina. You look fabulous.
+Lester?
+Nina. You look fabulous.
 You're doing the reading?
 I'm playing Serksi, the Galactic Witch.
 Great. I'll call you.
 Keep that fucking space witch away from me.
-- You know her?
-- I was married to her.
+You know her?
+I was married to her.
 Oh, my God, Iraq is amazing.
 Oh, we're shooting in Iran.
 Iran with an N?
@@ -663,8 +663,8 @@ It goes everywhere.
 It goes all throughout space.
 So it's the Argonaut.
 No.
-- What does "Argo" mean?
-- I don't know.
+What does "Argo" mean?
+I don't know.
 You don't know?
 It means "Argo fuck yourself."
 Excuse me. May I have your attention, ladies and gentlemen?
@@ -729,8 +729,8 @@ Yes, sir.
 You're telling me that there is a movie company in Hollywood right now...
 ...that is funded by the CIA?
 Yes, sir.
-- What's wrong with the bikes again?
-- We tried to get the message upstairs, sir.
+What's wrong with the bikes again?
+We tried to get the message upstairs, sir.
 You think this is more plausible than teachers?
 Yes, we do.
 One, there are no more foreign teachers in Iran.
@@ -750,8 +750,8 @@ It's just Christine.
 I should've brought some books to read in prison.
 No.
 They'll kill you long before prison.
-- Thanks for the ride.
-- Yeah.
+Thanks for the ride.
+Yeah.
 Studio Six.
 We got a green light. Keep the office running until you hear otherwise.
 Argo fuck yourself.
@@ -759,8 +759,8 @@ Your attention, please.
 This is the final boarding call for British Airways Flight 87.
 "We are a nation of 35 million.
 And many of these people are looking forward to martyrdom."
-- Hey.
-- Hey.
+Hey.
+Hey.
 Come to bed.
 In five minutes.
 You know, she pleaded with me.
@@ -833,14 +833,14 @@ Lester, you're working late.
 Till the dawn's early light.
 You got stamina, Lester. I wanna be you.
 Well, I'm 150 years old, so you wouldn't be me for long.
-- Mr. Ambassador.
-- Ken Taylor.
+Mr. Ambassador.
+Ken Taylor.
 Thank you for what you're doing.
 I was expecting more of a G-man look.
 I think you're thinking of the FBI, sir.
 Ah. This way.
-- These are blank, you know. Stamps.. ..
-- Yeah, I'll take care of this.
+These are blank, you know. Stamps.. ..
+Yeah, I'll take care of this.
 How long?
 A day, prep their covers.
 Two if they need it.
@@ -854,14 +854,14 @@ My name's Kevin Harkins. ..
 ...and I'm gonna get you home.
 These are the screenplays for your cover identities.
 It's theater of the absurd.
-- What are our chances?
-- Your chances are good.
+What are our chances?
+Your chances are good.
 "Good"? Well, what's the number value of "good"?
 Thirty percent chance of being publicly executed?
 Can you tell me what the objection was to normal cover identities?
 There are no Canadians in the country for normal reasons.
-- They'll sniff us out regardless.
-- The Swedish Consul?
+They'll sniff us out regardless.
+The Swedish Consul?
 They accused him of being an American at the airport. They held him for an hour.
 We can't hold up under that.
 We don't know what the hell movie people do.
@@ -889,8 +889,8 @@ They get them over the border after the coup.
 That's your opinion, Joe.
 You know, his opinion got us out in the first place.
 If we go out there with fake passports, we are spies, period. That's execution.
-- You got a problem lying, Joe?
-- Point is, we can't stay here.
+You got a problem lying, Joe?
+Point is, we can't stay here.
 If we get caught, you and Pat go on trial for harboring the enemy, you know that?
 Pat and I have discussed it.
 It's the risk we took.
@@ -930,8 +930,8 @@ John Wayne's in the ground six months, this is what's left of America.
 He will send his representative to meet you and your crew.. .
 ...at the Khayyam entrance to the Grand Bazaar tomorrow at 3 p.m."
 They called your bluff.
-- Maybe they're cooperating.
-- Absolutely not.
+Maybe they're cooperating.
+Absolutely not.
 Seven Americans walking the bazaar is asking for a riot. It's the hive.
 Seven Canadians, Jack.
 Never give them multiple shots at a cover.
@@ -954,8 +954,8 @@ So they're expecting six.
 It would be suspicious not to show up at this point.
 What else do we have to do, all right?
 He's about to show them the only cards that we're holding...
-- ...which is that they don't know we're here!
-- That's the ball game, okay?
+...which is that they don't know we're here!
+That's the ball game, okay?
 Look, we don't have any other choice!
 Who says that we'll know our covers well enough?
 We're not in the CIA.
@@ -975,8 +975,8 @@ Only this isn't a huge mistake, hopefully.
 Sorry. Okay.
 Hello?
 Who was that?
-- Mark?
-- Yeah?
+Mark?
+Yeah?
 I'm scared.
 It's okay.
 Where are they?
@@ -1005,14 +1005,14 @@ Sean Bissett, associate producer.
 All right. Let's go make a movie.
 Welcome, welcome.
 My name is Reza Bolhani.
-- Kevin Harkins. I'm the producer.
-- Nice to meet you.
+Kevin Harkins. I'm the producer.
+Nice to meet you.
 This is Mike McEwan, our cameraman.
 This is Tim.
 This is Mary, our screenwriter.
 And this is our director, Bob Baker.
-- You are the director?
-- Yes.
+You are the director?
+Yes.
 Is this film a foreign-bride film?
 Sorry?
 A film where a foreign bride comes to Iran. ..
@@ -1025,8 +1025,8 @@ You can find many items such as paper, spices.. .
 ...precious metals, all right here.
 Right this way, please.
 This way.
-- Uh, Mike?
-- Yeah.
+Uh, Mike?
+Yeah.
 If I was to say you're looking through the wrong end of that viewfinder, would I be right?
 Yup.
 Just a little further.
@@ -1077,33 +1077,33 @@ When he runs out of lawn,
 Kennedy wins the primary.
 The six with the Canadians are coming out.
 Who signed off on this?
-- You. Where was your passport issued?
-- Vancouver.
-- Where were you born?
-- Toronto.
+You. Where was your passport issued?
+Vancouver.
+Where were you born?
+Toronto.
 "Torono." Canadians don't pronounce the T.
 Some Komiteh guard is actually gonna know that?
 If you're detained for questioning, they will bring in someone who knows that. Yes.
 Mary, who were the last three prime ministers of Canada?
 Trudeau, Pearson and Diefenbaker.
-- What's your father's name?
-- Howard.
-- What's his occupation?
-- Fisherman.
-- Where were you born?
-- Halifax, Nova Scotia.
+What's your father's name?
+Howard.
+What's his occupation?
+Fisherman.
+Where were you born?
+Halifax, Nova Scotia.
 What's your date of birth?
 February 21st, 1952.
-- Good. What's your job on the movie?
-- Producer.
-- Associate. Last movie you produced?
-- High and Dry.
-- Who paid for that?
-- CFDC.
+Good. What's your job on the movie?
+Producer.
+Associate. Last movie you produced?
+High and Dry.
+Who paid for that?
+CFDC.
 What's your middle name?
 What's your middle name?
-- Leon?
-- Shoot him. He's an American spy.
+Leon?
+Shoot him. He's an American spy.
 Look, they're gonna try to break you, okay?
 By trying to get you agitated.
 You have to know your rÃ©sumÃ© back to front.
@@ -1115,19 +1115,19 @@ You have a call.
 What is it?
 Go to black on green.
 Go.
-- It all just changed.
-- What?
-- They're calling the game. You gotta come back.
-- What?
+It all just changed.
+What?
+They're calling the game. You gotta come back.
+What?
 Joint Chiefs are planning a military rescue of the hostages.
 Delta Force has started training to storm the grounds.
 So if the six of them...
 ...are brought down there, they won't be held for long.
 Fuck. Goddamn it. I never would have exposed them if I wasn't authorized to get them out.
-- It's over, Tony.
-- If they stay here, they will be taken.
-- Probably not alive.
-- Listen to me. The thinking has changed.
+It's over, Tony.
+If they stay here, they will be taken.
+Probably not alive.
+Listen to me. The thinking has changed.
 Six Americans get pulled out of a Canadian diplomat's house and executed.. .
 ...it's a world outrage.
 Six Americans get caught playing movie make-believe...
@@ -1166,33 +1166,33 @@ O'Donnell.
 Somebody's responsible...
 ...when things happen, Jack.
 I'm responsible.
-- I'm taking them through.
-- Tony?
+I'm taking them through.
+Tony?
 Alan. Alan. We need to confirm those seven tickets out of Tehran on Swissair.
-- N.E. shut that down.
-- I say it's back on.
-- I can't do it. It's backstopped.
-- Hey, wait a minute.
+N.E. shut that down.
+I say it's back on.
+I can't do it. It's backstopped.
+Hey, wait a minute.
 What the hell you talking about, backstopped?
 What the hell's that mean?
 Carter's gotta say yes for us to get the tickets.
 It's time to go.
 All right.
-- Where's Engell?
-- He's in a meeting.
-- Pull him out.
-- Uh.. ..
+Where's Engell?
+He's in a meeting.
+Pull him out.
+Uh.. ..
 Pull him out!
 Thank you so much. I really appreciate it.
-- Thank you.
-- See you soon.
-- Sahar's on a bus.
-- Great.
+Thank you.
+See you soon.
+Sahar's on a bus.
+Great.
 Sahar will be fine.
-- Thank you.
-- Thank you.
-- You two leave right now, right?
-- We'll be on a train in half an hour.
+Thank you.
+Thank you.
+You two leave right now, right?
+We'll be on a train in half an hour.
 Good.
 N.E. said no.
 This is not a long leasher, and it never has been, and you don't decide if it goes!
@@ -1233,8 +1233,8 @@ It's manned by the Revolutionary Guard.
 Most of them were educated in the U.S. or Europe.
 And all of whom are looking for Americans.
 Hello?
-- Jack O'Donnell, from C.I.
-- Wait, wait, who?
+Jack O'Donnell, from C.I.
+Wait, wait, who?
 Tehran Houseguest operation is ready now.
 We don't have the president's go-ahead.
 They are going to be captured.
@@ -1257,8 +1257,8 @@ We are looking for locations for a film.
 We have a--
 Oh, yeah. I've got a letter from the Ministry of Culture.
 If you want to take a look at that. All right?
-- Ahem.
-- You can go.
+Ahem.
+You can go.
 Come on, come on.
 Swissair Flight 363 is now boarding Rows 18 to 35.
 We're going to. ...
@@ -1287,18 +1287,18 @@ You don't go until we verify.
 I understand.
 Sir, you can call our office.
 They'll verify.
-- It'd go all the way throughout the '30s.
-- We're shooting right now.
-- We're just going to the Producers Building.
-- Yeah, I understand. We're shooting right now.
+It'd go all the way throughout the '30s.
+We're shooting right now.
+We're just going to the Producers Building.
+Yeah, I understand. We're shooting right now.
 Swissair announces final boarding for Flight 363 to Zurich.
 Reset! We're back to one.
-- All right, reset.
-- We're going again!
-- We're just right at the Producers--
-- Right away, everyone! And rolling!
-- We're going to the Producers Building.
-- We're rolling.
+All right, reset.
+We're going again!
+We're just right at the Producers--
+Right away, everyone! And rolling!
+We're going to the Producers Building.
+We're rolling.
 Sorry, pal. We're gonna be in the movie.
 Call my agent.
 Sir!
@@ -1321,12 +1321,12 @@ Ladies and gentlemen, it is our pleasure to announce...
 I love you.
 They're clear. Ha-ha-ha!
 Yes! Yes!
-- Yeah!
-- Yes!
+Yeah!
+Yes!
 Yeah, man.
 They're out!
-- They're out! They're out!
-- We got them out!
+They're out! They're out!
+We got them out!
 They're out!
 Yes!
 Great work, boys.
@@ -1335,8 +1335,8 @@ You are admitted to the Republic of Iraq.
 We made history tonight.
 History starts out as farce and ends up as tragedy.
 Quote's the other way around.
-- Yeah, who said it?
-- Marx.
+Yeah, who said it?
+Marx.
 Groucho said that?
 Call the Times, nail it to the goddamn door.
 CIA are the good guys.
@@ -1390,8 +1390,8 @@ Nobody can know about it.
 So they're just gonna give me an award and then they're gonna take it back.
 That's right.
 If we wanted applause, we would've joined the circus.
-- I thought we did.
-- Ha.
+I thought we did.
+Ha.
 Carter said you were a great American.
 Great American what?
 He didn't say.

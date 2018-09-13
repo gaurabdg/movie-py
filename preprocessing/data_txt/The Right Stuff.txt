@@ -45,8 +45,8 @@ No.
 <i>For those in peril</i>
 <i>In the air</i>
 <i>Amen</i>
-- Hey, Pancho?
-- Hmm?
+Hey, Pancho?
+Hmm?
 I was looking at the pictures on your wall.
 How come a fancy pilot...
 ...like Slick there doesn't have his picture up there?
@@ -65,8 +65,8 @@ You'd be the one they remembered.
 You're the best civilian pilot around.
 Afternoon.
 You get that helmet?
-- Yeah.
-- You're our first choice.
+Yeah.
+You're our first choice.
 It might work.
 I'll look like the Galloping Ghost.
 Some people say the sound barrier can't be broke.
@@ -92,12 +92,12 @@ Shot down five Germans in one day.
 He's a natural-born stick and rudder man.
 As press liaison man for the Air Force, I think--
 Any problems with him?
-- Only one.
-- What's that?
+Only one.
+What's that?
 Holding him back.
 Major.
-- Yeager.
-- Sir.
+Yeager.
+Sir.
 We were just talking to, uh,
 Slick about the sound barrier.
 That right?
@@ -145,8 +145,8 @@ She's his wife.
 Come on, baby. Come on, baby.
 Yeah. Come on. Tsk, tsk, tsk.
 Come on, come on, come on. Yeah. Go on.
-- Come on.
-- Glennis! I'm gonna get you!
+Come on.
+Glennis! I'm gonna get you!
 I'm gonna get you.
 Come on back here!
 Glennis!
@@ -172,11 +172,11 @@ A horse threw me last night and I dinged up my goddamn ribs.
 How bad you dent them?
 I feel like I broke a couple of the sons of bitches.
 I won't be able to lean over to shut the door. Got any ideas?
-- Your left side okay?
-- Yeah.
+Your left side okay?
+Yeah.
 If these guys find out, they'll use somebody else to fly this thing.
 <i>- I'll try to fix you a handle.
-- Thanks.</i>
+Thanks.</i>
 Mr. Russell?
 Can you help me out?
 It's an emergency.
@@ -186,8 +186,8 @@ I think that'll work.
 Thank you, sir.
 Punch a hole in the sky.
 I'll be right back.
-- Morning.
-- Morning, sir.
+Morning.
+Morning, sir.
 How are you feeling?
 Oh, just about right.
 Mrs. Yeager.
@@ -240,12 +240,12 @@ We did it!
 We finally broke the sound barrier.
 We did it!
 I want to place a long-distance call to Los Angeles.
-- Who are you calling?
-- The press.
+Who are you calling?
+The press.
 This is big news.
 The sound barrier's been broken.
-- No, sir. No press.
-- What?
+No, sir. No press.
+What?
 No word of this goes out.
 This is big news.
 We need coverage of this.
@@ -305,8 +305,8 @@ Is that Gus Grissom...
 ...from Langley Field?
 What is an ace like you doing in a place like this?
 Well, if it ain't Hot Dog.
-- Gordo Cooper, right?
-- Yeah.
+Gordo Cooper, right?
+Yeah.
 Gordo thinks he's one of those hot-dog pilots you hear about.
 You got a short memory.
 I am not one of them hot-dog pilots.
@@ -436,12 +436,12 @@ No, he won't. He'll be going after that demon that lives in the thin air.
 You got any Beemans?
 Even before you hit Mach 2, she'll be unforgiving on you.
 Wring her out a little bit this time.
-- You got any gum?
-- Yeah, I got me a stick.
+You got any gum?
+Yeah, I got me a stick.
 Loan me some.
 I'll pay you back later.
-- Fair enough.
-- Thank you.
+Fair enough.
+Thank you.
 Okay, drop her.
 All right, here we go again.
 Three, two, one, drop.
@@ -496,8 +496,8 @@ Senator Johnson's right.
 This is Armageddon.
 The decisive battle between good and evil.
 It's a struggle for survival.
-- There you go.
-- Thank you.
+There you go.
+Thank you.
 This footage was assembled from sources operating under deep cover at, uh, great risk.
 Very great.
 We're fortunate this material did not perish with a couple of men.
@@ -547,8 +547,8 @@ Who would you put into space,
 Mr. President?
 We have film of some people we think are strong candidates.
 We'd like to run it and stimulate some thinking.
-- May we?
-- Okay.
+May we?
+Okay.
 These are people we felt would be excellent in the splashdown.
 We like the one on the right.
 No, on the left.
@@ -557,8 +557,8 @@ Is that a factor?
 As you'll see, they're quite comfortable in conditions of flame.
 Now, uh, this is, uh, personnel...
 ...who have very well-developed equilibrium.
-- Good middle ear.
-- Also very nice people.
+Good middle ear.
+Also very nice people.
 Very easy to work with.
 With some work, they could be very responsive to orders.
 This is my first choice.
@@ -597,8 +597,8 @@ Pancho's Happy Bottom Riding Club.
 It's called Happy Bottom Riding Club?
 How'd it get a name like that?
 Ask Pancho.
-- Lock up?
-- Yeah.
+Lock up?
+Yeah.
 We're meeting the liaison officer.
 They are expecting us.
 Who's "they"?
@@ -660,8 +660,8 @@ Hey.
 Y'all want some whiskey?
 No, thanks, Fred.
 Just a little coffee.
-- I'd like a Coca-Cola.
-- Coke?
+I'd like a Coca-Cola.
+Coke?
 Mm-hm. In a clean glass.
 There's an old saying: âNever refuse a combat assignment."
 Well, uh, there sure is a long line of shit-hot rocket aces around here.
@@ -690,7 +690,7 @@ Distinguished Flying Crosses...</i>
 <i>...and holder of the coast-to-coast, nonstop, supersonic ï¬ight record...</i>
 <i>...from the U.S. Marine Corps...</i>
 <i>-...Major John Glenn!
-- That guy.</i>
+That guy.</i>
 Okay. Okay.
 <i>Can you tell us what's that song?</i> âStraighten Up and Fly Right."
 <i>It's "Straighten Up and Fly Right."</i>
@@ -720,8 +720,8 @@ Are you sure the Navy's got good pilots?
 The Navy calls them aviators.
 They say they're better than pilots.
 I'd like you to meet Alan Shepard.
-- What?
-- I'd like you to meet Alan Shepard.
+What?
+I'd like you to meet Alan Shepard.
 Just who we came to see.
 Well, it's a pleasure.
 You've heard about our project.
@@ -734,8 +734,8 @@ It's extremely hazardous.
 It's so hazardous that if, uh, you decide not to volunteer...
 ...it will not be held against you.
 Sounds dangerous.
-- It is. Very.
-- It's very dangerous.
+It is. Very.
+It's very dangerous.
 Count me in.
 There's nothing to worry about.
 Absolutely nothing.
@@ -751,16 +751,16 @@ Please, sit right there.
 Put your arm right up here.
 Excuse me, you John Glenn?
 Yes.
-- Scott Carpenter.
-- Hi.
+Scott Carpenter.
+Hi.
 I recognize you from those TV shows.
 I like them.
 I had a good time doing them.
 I guess we're, um, both here for the same reason.
 Yeah.
 You know what they've got planned?
-- Uh, no. Let me check it out.
-- Okay.
+Uh, no. Let me check it out.
+Okay.
 What have you got scheduled?
 We're not really free to reveal all the testing.
 <i>I don't get this. Sending us down here disguised as civilians.</i>
@@ -873,8 +873,8 @@ We? You mean you.
 I mean we.
 We're a team.
 Have I ever let you down?
-- Yeah.
-- Yeah?
+Yeah.
+Yeah?
 Trudy.
 Who's the best pilot you ever saw?
 Huh?
@@ -882,8 +882,8 @@ Huh?
 You're looking at him.
 I know. I know, I know.
 You're all set. I told her you were stable, well-adjusted, attentive.
-- I lied.
-- Attagirl.
+I lied.
+Attagirl.
 What'd she say?
 She laughed.
 She knows you too well, Gordo.
@@ -913,8 +913,8 @@ Where's the john?
 Two floors up. Gonzales will take you there, but wait here with him.
 Gonzales.
 How's it going, Gonzales?
-- Gonzales?
-- Hmm.
+Gonzales?
+Hmm.
 Faster!
 Jesus.
 Good day, commander.
@@ -1036,12 +1036,12 @@ For example...
 ...or, "by...
 "...Virgil I. Grissom."
 Gus.
-- What was that?
-- Gus.
+What was that?
+Gus.
 Nobody calls me by that other name.
 Gus? An astronaut named Gus?
-- What's your middle name?
-- lvan.
+What's your middle name?
+lvan.
 Ivan.
 Maybe...
 ..."Gus" isn't so bad.
@@ -1138,8 +1138,8 @@ You can't tell a pilot what to do when not flying.
 Wait a minute. You got it all wrong.
 <i>The issue here ain't pussy.
 The issue here is monkey.</i>
-- What?
-- Us. We are the monkey.
+What?
+Us. We are the monkey.
 Gus is saying that we're missing the point.
 Gus is saying...
 ...we heard they want to send a monkey up first.
@@ -1175,8 +1175,8 @@ Uh, where are you putting the window?
 Window? There is no window.
 No window?
 What about the hatch?
-- The hatch?
-- Yeah, the hatch.
+The hatch?
+Yeah, the hatch.
 We need a hatch with explosive bolts we can open ourselves.
 There's something you don't understand.
 This is the final form of the capsule.
@@ -1184,8 +1184,8 @@ No hatch.
 What if the automatic controls went out?
 With backups, checks, this would not happen.
 I said, what would happen if it did?
-- The pilot would have to fly it back.
-- This is the way it is.
+The pilot would have to fly it back.
+This is the way it is.
 I wonder how the press will feel about this.
 The press? What does the press have to say about this?
 Do you know what makes this bird go up?
@@ -1309,8 +1309,8 @@ Stop that, stop it.
 Will you quite pushing me? Stop it.
 We don't have a diaper-service man.
 Get back from the door. I don't know.
-- Oh, my Lord.
-- Oh, Louise, your lawn!
+Oh, my Lord.
+Oh, Louise, your lawn!
 Leave those diapers alone. Come on.
 Shut that door!
 Why are they here?
@@ -1340,10 +1340,10 @@ No. Tell him he cannot.
 Listen, they promise we'll stop at the next gas station.
 <i>Request that you remain in a holding pattern till then.</i>
 You sure you just want a little smidgen?
-- About a half a cup.
-- Nothing in it?
-- That's fine.
-- All right.
+About a half a cup.
+Nothing in it?
+That's fine.
+All right.
 Alan had four cups of coffee before he went to work today.
 All this waiting is driving me crazy.
 I had a little accident.
@@ -1396,8 +1396,8 @@ We talked about all kinds of things.</i>
 <i>My Gus goes up next. I can't wait to talk to Jackie after that.</i>
 <i>You'll love her. She's so nice.
 We talked about the kids.</i>
-- Oh, Alan, hi.
-- Mr. Shepard.
+Oh, Alan, hi.
+Mr. Shepard.
 Mr. Shepard, sign here.
 Oh, Gus.
 I never realized...
@@ -1486,14 +1486,14 @@ We even drop them from a height of 100 feet onto concrete...
 ...and not one of them has ever "just blown."
 Are we going to the White House?
 Isn't the president coming?
-- Gus.
-- Uh...
+Gus.
+Uh...
 No ticker-tape parade in New York?
 Uh-uh.
 Not even one in Mitchell, Indiana?
 Nope.
-- No Jackie?
-- Mm-mm.
+No Jackie?
+Mm-mm.
 By order of the president of the United States...
 ...the Distinguished Service Medal...
 ...is awarded to
@@ -1610,7 +1610,7 @@ What is it?
 <i>The Russians have sent Titov up.</i>
 Titov's up.
 <i>- How long?
-- A day.</i>
+A day.</i>
 A day? A whole day'?
 <i>He's orbiting over our country right now.</i>
 <i>We need a man in orbit or it's all over.</i>
@@ -1618,7 +1618,7 @@ A day? A whole day'?
 You know we haven't had too much luck with that rocket.
 We can't take all the precautions we'd like.
 <i>- It'll be dangerous.
-- We're ready.</i>
+We're ready.</i>
 I said it'll be dangerous.
 I said we're ready. One hundred percent.
 <i>Thank you, John.</i>
@@ -1641,8 +1641,8 @@ No.
 You know what the Russians want?
 No, sir.
 They want our peckers in their pockets.
-- She still says no.
-- No?
+She still says no.
+No?
 Didn't you tell her
 I'll bring in ABC-TV...
 ...NBC-TV, CBS-TV?
@@ -1655,22 +1655,22 @@ I will go in and console her on nationwide TV.
 I'll pay her a sympathy call.
 Yes, sir.
 The vice president would like to make a sympathy call if he could.
-- No.
-- No.
-- No? What do you mean no?
-- I mean no.
+No.
+No.
+No? What do you mean no?
+I mean no.
 What do you mean no?
 Get NASA on the line.
 I'm going to lean on NASA.
 I'm going right to the top.
-- Right away.
-- To the top.
+Right away.
+To the top.
 Damn right.
 They better tell her to play ball.
 Hey, guys.
 There's a problem with your wife.
-- Is it serious?
-- We think it is.
+Is it serious?
+We think it is.
 There's a phone hook-up, we've got her on.
 Annie?
 It's me. Are you all right?
@@ -1694,22 +1694,22 @@ Okay.
 You tell them that astronaut
 John Glenn told you to say that.
 <i>- All right?
-- Yes.</i>
+Yes.</i>
 I'll talk to you soon.
 You can't do that.
 The vice president's head of the program!
 You must think of the program!
 You are out of line!
-- I'm out of line?
-- Yes, sir!
+I'm out of line?
+Yes, sir!
 I run the show here.
-- We'll see about that!
-- Yeah?
+We'll see about that!
+Yeah?
 And I'm thinking of changing the order of flight assignments!
-- Oh, yeah?
-- Yeah!
-- Who will you get?
-- Who am I gonna get?
+Oh, yeah?
+Yeah!
+Who will you get?
+Who am I gonna get?
 You heard what he said.
 Take it easy, fellows.
 Step aside.
@@ -1722,24 +1722,24 @@ Isn't there anybody who can deal with a housewife?
 And waited till his billy boil</i>
 I thought Hank Williams wrote "Waltzing Matilda. "
 We don't know who wrote it.
-- It's Australian, right?
-- Yep.
-- Good day, mate.
-- Hi.
+It's Australian, right?
+Yep.
+Good day, mate.
+Hi.
 Who are you guys?
 We're Aborigines.
 Aborigines, eh?
 Hi.
 Who are you?
 Me? I'm an astronaut.
-- Astronaut.
-- Yeah.
+Astronaut.
+Yeah.
 Well, what do you do here, astronaut?
 I'm here because a buddy of mine is getting ready to...
 ...fly overhead. Up in outer space.
 And I'll be talking to him on that dish.
-- Fly over?
-- Yeah.
+Fly over?
+Yeah.
 You blokes do that too?
 Heh. You do that yourself?
 Not me, mate.
@@ -1898,8 +1898,8 @@ Over.
 What's that sound?
 Humming. It's him.
 It's all right. He does that.
-- John?
-- He can't hear you.
+John?
+He can't hear you.
 He's in the ionization blackout.
 No communications are possible for a few minutes.
 Then we'll know.
@@ -1941,12 +1941,12 @@ Since you're relocating here, to show our appreciation for all you've done...
 ...Mr. Sharp is contributing the land...
 ...the contractors, the homes...
 ...and department stores, the furnishings.
-- Oh.
-- That's wonderful.
-- Which one are you?
-- Shepard.
-- Oh, yeah?
-- Mm-hm.
+Oh.
+That's wonderful.
+Which one are you?
+Shepard.
+Oh, yeah?
+Mm-hm.
 Which one's Glenn?
 I want to meet him.
 He's over there.
@@ -1962,7 +1962,7 @@ John Glenn.
 Howdy.
 Oh, yeah. I wanna meet you too.
 Ha-ha-ha.
-- Whoa. Sorry, little lady.
+Whoa. Sorry, little lady.
 We got it. Steak. All the trimmings.
 Just like Pancho's.
 Steak tastes about the same...

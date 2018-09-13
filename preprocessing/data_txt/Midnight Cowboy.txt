@@ -1,7 +1,7 @@
-- [hoofbeats]
-- [gunshots]
-- [Indians whooping]
-- [gunshots continue]
+[hoofbeats]
+[gunshots]
+[Indians whooping]
+[gunshots continue]
 [whooping, gunshots fade]
 [playground horse squeaking]
 [man]
@@ -16,15 +16,15 @@ And none of my own âª</i>
 <i>âª Whoopee-tee-yi-yo âª</i>
 <i>âª Get along, little dogies âª</i>
 <i>âª It's your misfortune and none of my own âª</i>
-- [woman] Where's that Joe Buck?
-- Where's that Joe Buck?
+[woman] Where's that Joe Buck?
+Where's that Joe Buck?
 [man 2] Where's that Joe Buck?
 <i>âª Get along, little dogies âª</i>
 Where is our Joe Buck?
 Look at this crap!
 Yeah, where's that Joe Buck?
-- [woman] Where's that Joe Buck?
-- [man] Where's that Joe Buck?
+[woman] Where's that Joe Buck?
+[man] Where's that Joe Buck?
 You're due here at 4:00.
 You know what you can do with them dishes.
 And if you ain't man enough to do it for yourself,
@@ -58,16 +58,16 @@ Where the sun keeps shinin' âª</i>
 <i>âª Like a stone âª</i>
 <i>âª Everybody's talkin' at me âª</i>
 [singer vocalizing]
-- How ya doin', Ralph?
-- Hey.
+How ya doin', Ralph?
+Hey.
 Four o'clock. 4:00 to midnight.
 That's when you're due here.
 Mr. Epperson, I wonder if you could have a word with me for a second?
 What the hell you doin' in that getup?
 Grab an apron and clean up that crap back there.
 Yeah, he knows what the hell he can do with that crap.
-- Ain't you comin' to work?
-- I guess not, Ralph.
+Ain't you comin' to work?
+I guess not, Ralph.
 Hell, I just come to collect my pay, tell you all I'm headin' up East.
 You're headin' up East?
 Yeah, I thought I'd say good-bye to you.
@@ -78,12 +78,12 @@ Good-bye.
 What are you gonna do back East?
 There's a lot of rich women back there,
 Ralph, beggin' for it. Payin' for it too.
-- Yeah?
-- Yeah, hell, yeah.
+Yeah?
+Yeah, hell, yeah.
 And the men, they're mostly tutti-fruttis.
 Oh, I bet you it's a mess back there.
-- So I gonna cash in on some of that. Right?
-- I don't know.
+So I gonna cash in on some of that. Right?
+I don't know.
 I don't know nothin' about it.
 Hell, what do I got to stay around here for?
 I got places to go. Right?
@@ -97,7 +97,7 @@ That's real... nice, honey.
 <i>âª Everybody's talkin' at me âª</i>
 <i>âª Can't hear a word they're sayin' âª</i>
 <i>- âª Only the echoes of my mind âª</i>
-- [radio announcer talking, indistinct]
+[radio announcer talking, indistinct]
 <i>âª I won't letyou leave my love behind âª</i>
 Sure is a powerful mother, ain't it?
 Yeah, sure is a powerful mother.
@@ -130,15 +130,15 @@ It's just till the Dramamine works.
 She gets carsick.
 I only get carsick on boats.
 But it seems to me that's more the fish smell than the bouncin'.
-- How far you headed?
-- Shh.
-- To Dallas.
-- [softly] Up Dallas, are ya?
+How far you headed?
+Shh.
+To Dallas.
+[softly] Up Dallas, are ya?
 Where you goin'?
 I'm headin' on up New York City, ma'am.
 Mmm.
 <i>âª I'm goin' where the sun keeps shinin' âª</i>
-- [radio: static crackling]
+[radio: static crackling]
 <i>- âª Through the pourin' rain âª</i>
 <i>âª Goin' where the weather âª</i>
 <i>âª Suits my clothes âª</i>
@@ -179,8 +179,8 @@ I tell you, faith healin'.</i>
 <i>Now, before we join in prayer for this poor sister,</i>
 <i>Jesus wants to know how many sent in five dollars</i>
 <i>for their home worship kit containing prayer shawl...</i>
-- You want a cigarette, sir?
-- No, thanks. Chew tobacco.
+You want a cigarette, sir?
+No, thanks. Chew tobacco.
 [radio: man]
 <i>Sing along with Sister Rosella.</i>
 You throw in Sister Rosella, you got a deal.
@@ -221,8 +221,8 @@ I want it on.
 This is Ron Lundy, love.</i>
 <i>This is WABC. And now...</i>
 That's New York talkin' there, ma'am.
-- [host] <i>Let's ask some of the ladies here.</i>
-- Hear that?
+[host] <i>Let's ask some of the ladies here.</i>
+Hear that?
 <i>Ma'am, what is your ideal in a man?</i>
 [woman]
 <i>My ideal is Gary Cooper, but he's dead.</i>
@@ -239,8 +239,8 @@ Outdoor type.
 <i>A rebel.</i>
 Young.
 You.
-- Yahoo!
-- [veterans shouting, singing]
+Yahoo!
+[veterans shouting, singing]
 Uh, excuse me, ma'am.
 <i>âª One, two, three âª</i>
 <i>âª Wherever we go we will always know âª</i>
@@ -257,10 +257,10 @@ I move furniture around.</i>
 <i>So help me.
 Everything but the sofa, you know?</i>
 <i>- And that's my remedy for insomnia.</i>
-- [man chuckling] <i>Isn't that marvelous?</i>
+[man chuckling] <i>Isn't that marvelous?</i>
 My remedy is, ma'am, you just dial the hotel here, ask for Joe Buck.
-- [Mrs. Drevin] <i>I iron my husband's shirts.</i>
-- Joe Buck.
+[Mrs. Drevin] <i>I iron my husband's shirts.</i>
+Joe Buck.
 [female announcer]...<i>on</i> The American Exchange,
 <i>brought to you by Morgan Vandercook.</i>
 <i>Up your income with sound investment...</i>
@@ -304,72 +304,72 @@ Oh, yes, ma'am. I mean business.
 I'm sorry. I...
 Well, the Statue of Liberty.
 Well, I think you take the Seventh Avenue subway.
-- No, wait a minute now...
-- You sure are a pretty lady.
+No, wait a minute now...
+You sure are a pretty lady.
 You're not looking for the Statue of Liberty at all.
 No, ma'am, I ain't.
 Why, you ought to be ashamed of yourself.
 [car horn beeping]
 Come on, Baby. Do it for Mama.
 Come on, Baby. Mama's tired.
-- [dog barks]
-- Baby, come on.
+[dog barks]
+Baby, come on.
 Do it for Mama.
 Hey, you little old dog.
 How you doin' there, scutter?
 They got you all gussied up for some damn thing, ain't they?
 Uh, pardon me, ma'am.
 Uh, I'm brand-spankin'- new in this here town, and I was hopin' to get a look at the Statue of Liberty.
-- Hopin' to get a look at what?
-- Uh, Statue of Liberty.
+Hopin' to get a look at what?
+Uh, Statue of Liberty.
 It's up in Central Park taking a leak.
 If you'll hurry up, you'll catch the supper show.
 He's picking something up for me.
 [woman] Hi. I just got your message.
-- How do you feel?
-- [man] <i>Don't ask.</i>
+How do you feel?
+[man] <i>Don't ask.</i>
 Oh, I had such a head.
 I loved your friend Mr. Needleman.
-- The last of the great King Midases.
+The last of the great King Midases.
 <i>- You ain't kiddin', baby.</i>
 Go, go, go. My God, I was exhausted.
 It was beautiful, Maury, but...
 Oh, God! Stop!
-- I'd die from that!
-- [man] <i>Who's there? Who you talkin' to?</i>
+I'd die from that!
+[man] <i>Who's there? Who you talkin' to?</i>
 No, I was just talkin' to Baby.
 <i>- Baby? What baby?</i>
-- [Baby barks]
-- I was talking to the dog, Maury!
+[Baby barks]
+I was talking to the dog, Maury!
 <i>- Thatgoddamn dog.</i>
 Please. You're annoying me.
 Don't start up again.
 <i>- I'm annoying</i> you?
-- Here, look.
+Here, look.
 Why don't you say hello to Baby, huh?
-- Baby wants to say hello to you, Daddy.
-- [Baby barks, whimpers]
+Baby wants to say hello to you, Daddy.
+[Baby barks, whimpers]
 <i>I don't wanna say hello to the dog, but...
 Oh, sh... Christ.</i>
 <i>- Cass!</i>
-- Go ahead.
-- Daddy wants to say hello to you, Baby.
+Go ahead.
+Daddy wants to say hello to you, Baby.
 <i>- Hello, Baby. Hello, Baby.</i>
 <i>Hello, you goddamn dog.</i>
 <i>Bow-wow-wow, Baby. Bow-wow-wow.</i>
-- Am I gonna see you tonight?
+Am I gonna see you tonight?
 <i>- Where do you wanna eat?</i>
 Wherever you say.
 <i>- Just you and me. No Needleman.</i>
-- Hey, that's great.
+Hey, that's great.
 <i>- Catch an early supper at Lindy's.</i>
-- What time?
+What time?
 <i>Like 5:30. We don't have to rush.</i>
 <i>- My wife's away. Her mother's sick.</i>
-- [zipper unzipping]
+[zipper unzipping]
 Beautiful, baby.
 I can stay all night, Cass.
-- [barking, whining]
+[barking, whining]
 <i>- How 'bout a little kiss?</i>
 You got it.
 A big wet one till I see ya.
@@ -378,34 +378,34 @@ A big wet one till I see ya.
 <i>Save some of that for tonight, okay?</i>
 [laughs]
 <i>- Love you.</i>
-- Love you.
+Love you.
 <i>- Love you, Cass.</i>
-- [Baby barking]
+[Baby barking]
 [Cass, Joe laughing]
 [TV: static buzzes]
 [host] <i>Welcome to</i> State Lines,
 <i>the new telephone pun game.</i>
 <i>- In our isolation booths...</i>
-- [static buzzes]
+[static buzzes]
 <i>Is it because I'm a stable hand?</i>
 <i>One, two. One, two.</i>
 <i>- And rest. How you feeling?</i>
-- [woman] <i>Oh, wow!</i>
+[woman] <i>Oh, wow!</i>
 [dramatic soundtrack music playing]
 <i>Do you think God is dead?</i>
 <i>Suppose we just don't talk about it anymore.</i>
-- [whistling]
+[whistling]
 <i>- One...</i>
 <i>What would you say if I wanted to take my mother along?</i>
 Oh, my God!
 <i>It even makes black whiter.</i>
 <i>- Bring your knees up.
-- Come on out. And they're...</i>
+Come on out. And they're...</i>
 <i>- Ho-ho-ho!</i>
-- [moaning]
+[moaning]
 [screaming]
-- [Cass moaning]
-- [Joe] Whoo-hoo!
+[Cass moaning]
+[Joe] Whoo-hoo!
 [Cass moans]
 Hey, Cass. You know what you got here?
 You got yourself a damn penthouse.
@@ -454,11 +454,11 @@ Who the hell do you think you're dealing with?
 Some old slut on 42nd Street?
 In case you didn't happen to notice it, you big Texas longhorn bull,
 I'm one hell of a gorgeous chick!
-- Well, now, Cass, take it easy now.
-- You heard it. At 28 years old.
+Well, now, Cass, take it easy now.
+You heard it. At 28 years old.
 You think you can come up here and pull this kind of crap up here?
-- Well, you're out of your mind!
-- Cass, now, come on now.
+Well, you're out of your mind!
+Cass, now, come on now.
 I could kill you with my bare hands!
 Will ya get outta here!
 [sobbing] Will you get outta here!
@@ -478,23 +478,23 @@ There you go, girl.
 [sniffling]
 [song resumes: singer vocalizing]
 Terrific shirt.
-- Are you speakin' to me?
-- I was just admiring that colossal shirt.
+Are you speakin' to me?
+I was just admiring that colossal shirt.
 I mean, that is one hell of a shirt.
 I'll bet you paid a pretty price for it.
 Am I right?
-- Oh, I ain't cheap.
-- Yeah. Birds.
-- I say it's an all-right shirt.
-- I like birds.
+Oh, I ain't cheap.
+Yeah. Birds.
+I say it's an all-right shirt.
+I like birds.
 I don't like to have a lot of, you know, cheap stuff on my back.
-- Sure.
-- Hi, cowboy.
+Sure.
+Hi, cowboy.
 Got a cigarette?
 Hey, sweetheart.
 More goddamn faggots in this town.
-- Oh, kiss it, Ratso!
-- Up yours.
+Oh, kiss it, Ratso!
+Up yours.
 You gotta watch out for that.
 Hey, you really know the ropes.
 Damn. I wish I'd bumped into you before.
@@ -502,23 +502,23 @@ I'm Joe Buck from Texas.
 Enrico Rizzo, from the Bronx.
 And I'm gonna buy you a drink.
 What the hell you think of that?
-- Don't mind if I do.
-- Bartender, drinks all around.
+Don't mind if I do.
+Bartender, drinks all around.
 And one for my friend here too.
 I know when I give satisfaction.
 I give her satisfaction.
 I mean, you see what I'm getting at here?
 She's got a penthouse up there with a color TV and more goddamn diamonds than an archbishop.
 And she busts out bawlin' when I ask her for money.
-- For what?
-- For money.
+For what?
+For money.
 Wait a minute. Money for what?
 Well, hell, I'm a hustler.
 You didn't know that?
 How am I supposed to know that?
 You gotta tell a person these things.
-- I'm a hustler.
-- Shh.
+I'm a hustler.
+Shh.
 All right. You're a hustler.
 But, I mean, your pickin' up trade on the street like that, that's nowhere.
 I mean, you gotta get yourself some kind of management.
@@ -536,18 +536,18 @@ I'd call that a very minor operation.
 In fact, you just sit comfy and I'll cut it out with my fingernail file, Ratso.
 The name's Rizzo.
 That's what I said. Ratso.
-- Hey. You heard him.
-- That's all right, Joe.
+Hey. You heard him.
+That's all right, Joe.
 I mean, you know, I'm used to these types that get their kicks pickin' on cripples.
-- The sewer's full of them.
-- I wanna ask you one question, cowboy.
+The sewer's full of them.
+I wanna ask you one question, cowboy.
 If you're sitting over here, and he's sitting all the way over there, then how's he gonna get his hand into your pocket?
-- Well, suppose you let me work...
-- Oh, but I guess he's got that all figured out.
+Well, suppose you let me work...
+Oh, but I guess he's got that all figured out.
 Good night, sweets.
 Faggot.
-- [man] Provolone.
-- Faggot.
+[man] Provolone.
+Faggot.
 Look, with these gals that wanna buy it, most of them are old and dignified.
 Social register types.
 You know what I mean?
@@ -555,11 +555,11 @@ They can't be trottin' down to Times Square to pick out the merchandise.
 They gotta have some kind of a middleman.
 That's where O'Daniel comes in.
 You know what I mean?
-- [tires screech, horn honks]
-- Hey, I'm walkin' here!
+[tires screech, horn honks]
+Hey, I'm walkin' here!
 I'm walkin' here!
-- Up yours, you son of a bitch!
-- Get out of the way!
+Up yours, you son of a bitch!
+Get out of the way!
 You don't talk to me that way!
 Get outta here!
 [horn honking]
@@ -572,11 +572,11 @@ What's that?
 Him I placed with O'Daniel about two weeks ago.
 He ain't much of a stud either, from what I hear.
 All right, all right.
-- Hey, horse.
-- [Ratso coughs]
+Hey, horse.
+[Ratso coughs]
 How about you take me to meet this Mr. O'Diddleburg right now?
-- What do you say about that?
-- Well, Joe, you're a nice guy.
+What do you say about that?
+Well, Joe, you're a nice guy.
 And I'd be doin' both of youse a favor.
 But, you know, for what?
 What am I draggin' my bum leg around town for, you know?
@@ -591,13 +591,13 @@ It's all right.
 What you want? Five? Ten?
 What, are you kidding me?
 You know what? I'd "ax" somebody else.
-- There's ten right there.
-- All right, all right. Forget it.
+There's ten right there.
+All right, all right. Forget it.
 I'll take the ten.
 But when I take you over to see Mr. O'Daniel,
 I'm gonna have to have another ten just to cover expenses. All right?
-- Uh...
-- Come on.
+Uh...
+Come on.
 I'll buy youse coffee. On me. [coughing]
 Get outta here. Come on.
 Bunch of creeps. Go to work.
@@ -620,8 +620,8 @@ You look fine.
 Uh, think I could have that other ten now?
 Where can I reach you?
 'Cause I'm gon' make this thing right with you soon as I get me set up.
-- Forget it.
-- I mean it, damn it. Where do you live?
+Forget it.
+I mean it, damn it. Where do you live?
 Uh, it's the Sherry-Netherlands Hotel.
 Chevy-Netherlands Hotel.
 [murmuring] Chevy-Netherlands Hotel.
@@ -635,8 +635,8 @@ What's the matter with you?
 You must be Joe Buck.
 Yes, sir, I am.
 Come on in. Let's take a look at you.
-- [door closes]
-- [trumpet continues playing, faint]
+[door closes]
+[trumpet continues playing, faint]
 Turn round. Turn round.
 Good, strong back.
 You're gonna need it.
@@ -651,8 +651,8 @@ Take it easy, boy.
 Seems to me you're different from most of the boys that come to me.
 Most of those boys are troubled and confused.
 I'd say you know exactly what you want.
-- You bet I do, sir.
-- Yeah.
+You bet I do, sir.
+Yeah.
 But I'll bet you got one thing in common with those other boys.
 I'll bet you're lonesome.
 Well, not too.
@@ -660,67 +660,67 @@ I mean, a little.
 Yeah.
 Lonesome!
 "I'm lonesome, so I'm a drunk."
-- "I'm lonesome, so I'm a dope fiend."
-- [woman] Oh, shut up!
+"I'm lonesome, so I'm a dope fiend."
+[woman] Oh, shut up!
 "I'm lonesome, so I'm a thief."
-- "I'm lonesome, so I'm a fornicator!"
-- [banging on wall]
-- "A whoremonger!"
-- [woman] Shut up, you phony!
+"I'm lonesome, so I'm a fornicator!"
+[banging on wall]
+"A whoremonger!"
+[woman] Shut up, you phony!
 Poop, I say! Poop!
 I've heard it all.
 I've heard it all, and I'm sick of it.
 Sick to death of it!
-- Yes, sir, I can see that.
-- Lonesomeness.
+Yes, sir, I can see that.
+Lonesomeness.
 Lonesomeness is something you take, you hear?
 Damn it, you take it and you go right on with your work.
-- I'm rarin' to go, sir.
-- Yes, I believe you are.
-- Cowboy, eh?
-- Yes, sir.
+I'm rarin' to go, sir.
+Yes, I believe you are.
+Cowboy, eh?
+Yes, sir.
 Yeah. Ready for some hard work, son?
-- I'm ready for anything.
-- Yeah.
+I'm ready for anything.
+Yeah.
 I reckon it's gonna be a lot easier for you, Joe Buck, than for most others.
-- It's gonna be like money from home, sir.
-- Money from home!
+It's gonna be like money from home, sir.
+Money from home!
 There's your strength, son. See?
 You've got the way of putting things earthy so that anybody can understand them.
 I warn you, Joe Buck. I'm gonna use you.
 I'm gonna run you ragged!
-- Whoo-hah!
-- [laughing]
+Whoo-hah!
+[laughing]
 You're wonderful, boy.
 You and me, we're gonna have fun together.
-- It don't have to be joyless.
-- Hell, no, it don't have to be.
+It don't have to be joyless.
+Hell, no, it don't have to be.
 Say, why don't you and me get right down on our knees right now?
 How's that strike you?
-- Where?
-- Right here!
+Where?
+Right here!
 Here! Here!
 Right now!
-- Why not? Why not?
-- [speakers: Pentecostal hymn playing]
+Why not? Why not?
+[speakers: Pentecostal hymn playing]
 I've prayed on the streets.
 I've prayed in the saloons.
 I've prayed in the toilets.
 It don't matter where, so long as he gets that prayer!
-- [hymn continues]
-- Shit!
+[hymn continues]
+Shit!
 Aah! That's the ticket, boy!
 Just open your heart a little more!
 What's the matter, as long as you get that love...
 Don't be frightened, son!
 I baptize thee, my brother, in the name of the Father...
 [O'Daniel] And you shall be heard!
-- [pastor] <i>the Son and the Holy Spirit.</i>
-- [O'Daniel] <i>Don't be frightened, son!</i>
+[pastor] <i>the Son and the Holy Spirit.</i>
+[O'Daniel] <i>Don't be frightened, son!</i>
 [O'Daniel] <i>No! Don't run from Jesus!</i>
 [screaming]
-- [no audio]
-- [train brakes screeching]
+[no audio]
+[train brakes screeching]
 [funk rock music playing]
 Hey. You know that runty little bastard
 I was with?
@@ -733,7 +733,7 @@ Stop it! Stop it, stop it, stop it!
 <i>Now, what's that monstrosity down there?</i>
 [man 2] <i>That's a toupee for dogs.</i>
 <i>- For dogs?
-- This is Fifi's wig.</i>
+This is Fifi's wig.</i>
 That... That's for that dog?
 [audience, host laughing]
 <i>I don't believe this dog.
@@ -752,14 +752,14 @@ I'll leave you movie money.
 [TV: audience laughing]
 [TV: host] <i>I think that's sick.
 Dressing up a dog to look like a child?</i>
-- [man 2] <i>This is in case she meets another...</i>
-- [host] <i>Oh, no! That's terrible!</i>
+[man 2] <i>This is in case she meets another...</i>
+[host] <i>Oh, no! That's terrible!</i>
 <i>That's terrible!</i>
 [audience laughing]
 <i>Trying to hold this...</i>
 [audience continues laughing]
-- [muttering, indistinct]
-- [coin dropping]
+[muttering, indistinct]
+[coin dropping]
 [radio: male announcer]
 <i>Gold and silver and candlelight.</i>
 <i>Wine and skyrockets</i>
@@ -776,8 +776,8 @@ Dressing up a dog to look like a child?</i>
 <i>Take it easy, but take it.</i>
 [Joe] Key to room 514, please, sir.
 Looks like, uh, you've been locked out of your room, buddy.
-- Till you pick up the tab.
-- Well, what about all my things and all?
+Till you pick up the tab.
+Well, what about all my things and all?
 Oh, we keep them nice and safe till you get this thing settled.
 Listen, I'll tell you what.
 You can keep all the rest of the goddamn junk if you just let me have the suitcase.
@@ -792,7 +792,7 @@ We keep everything. House rules.
 <i>âª The ace ofspades reversed âª</i>
 <i>âª Mm-mm-mmm âª</i>
 <i>- âª He quit me âª</i>
-- Y'all gonna eat them crackers?
+Y'all gonna eat them crackers?
 <i>âª He up and quit me, man âª</i>
 <i>âª He quit me, yeah âª</i>
 <i>âª He up and quit me, man, yeah âª</i>
@@ -833,7 +833,7 @@ Captain Grace is investigating.</i>
 <i>Spacecraft to Earth Control.</i>
 <i>We've lost contact with Captain Grace.</i>
 <i>- Can you track him?</i>
-- [Annie's voice] <i>Kiss me, Joe. Kiss me.</i>
+[Annie's voice] <i>Kiss me, Joe. Kiss me.</i>
 [man on radio] <i>Earth Control to spacecraft.
 He's in free fall.</i>
 <i>Keep trying to make contact.</i>
@@ -846,27 +846,27 @@ You're the only one.</i>
 Oh! You're the only one, Joe!
 [rocket engine roaring]
 [coughs]
-- I'm awful damn sorry you're sick.
-- [boy gagging, groaning]
+I'm awful damn sorry you're sick.
+[boy gagging, groaning]
 But you're gonna have to give me that money, like you said.
 I was lying. I don't have it.
 What are you gonna do to me?
-- You ain't got no $25 on you?
-- No.
+You ain't got no $25 on you?
+No.
 What are you gonna do to me?
 Well, what in the hell do you think
 I'm gonna do?
 What do you want me to do with you, boy?
 You want me to beat on you?
-- Is that what you want?
-- No. No. No.
-- How much you got in your pockets?
-- Nothing.
+Is that what you want?
+No. No. No.
+How much you got in your pockets?
+Nothing.
 You're gonna empty your pockets out right over there.
-- Take my books.
-- I don't want your damn books!
-- How much is that thing worth?
-- No. No.
+Take my books.
+I don't want your damn books!
+How much is that thing worth?
+No. No.
 Don't... Don't take my watch. Please.
 Don't take it. Don't take it.
 It's only a cheap watch. I...
@@ -888,32 +888,32 @@ I don't want your damn watch.
 <i>They're dark, heavy, and have noticeable accents.</i>
 <i>Every day they're working themselves into more homes.</i>
 <i>- What can you do about these invaders?</i>
-- [guitar strumming]
+[guitar strumming]
 <i>Enjoy them.
 November,</i> Better Homes and Gardens
 <i>tells you about the invasion of the stylish furniture from Spain.</i>
 Come on, now. Don't hit me.
 Come on, now. I'm a cripple!
-- I ain't gonna hit you.
-- Come on, now!
-- I'm gonna strangle you to death!
-- Now, wait a minute.
+I ain't gonna hit you.
+Come on, now!
+I'm gonna strangle you to death!
+Now, wait a minute.
 Only first, I'm gonna shake you out right here and now.
-- Where's my money?
-- Here.
-- You put it right there, boy.
-- All right. All right. Here.
+Where's my money?
+Here.
+You put it right there, boy.
+All right. All right. Here.
 Here. That's all I got. Here. That's it.
 That's all you got?
-- What you got in your socks?
-- Nothin'. I swear to God.
+What you got in your socks?
+Nothin'. I swear to God.
 I swear on my mother's eyes.
 Here. Nothin'.
 Here, 64 cents. Go ahead.
 Come on. I want you to have it.
 It's sticky. What'd you do, slobber on it?
-- Here. Here. Have a cigarette.
-- I don't wanna touch it.
+Here. Here. Have a cigarette.
+I don't wanna touch it.
 Come on.
 Come on.
 [match strikes]
@@ -930,14 +930,14 @@ Where you livin' at?
 You still at the hotel?
 What am I doin', talkin' to you, damn it?
 Hey, come on!
-- Hey! Hey, wait up, for Christ's sake!
-- You keep away from me! You hear?
+Hey! Hey, wait up, for Christ's sake!
+You keep away from me! You hear?
 You come near me again,
 I'm gonna snatch you bald-headed, boy.
 I'm invitin' you.
 If you're not located, I got a place.
-- I'm invitin' you, goddamn it!
-- You're inviting. Shit!
+I'm invitin' you, goddamn it!
+You're inviting. Shit!
 [Ratso] The "X" on the windows means the landlord can't collect rent, which is a convenience on account of it's condemned.
 Front door. I don't care.
 Actually, I prefer it that way.
@@ -951,8 +951,8 @@ Okay, okay, okay.
 Oh, there's glass there.
 Oh, I've been meaning to take that fridge up.
 Get it, will you?
-- Need any help?
-- No, I don't need no help from you.
+Need any help?
+No, I don't need no help from you.
 You okay?
 It's not far.
 [radio clicks on, announcer speaking]
@@ -965,13 +965,13 @@ But the icebox will keep the roaches from gettin' in the perishables.
 Where did you steal this damn thing?
 What do you mean, steal it?
 It's been sittin' down there for weeks.
-- I don't mean now. I mean before then.
-- Don't get a hernia. You know what I mean?
+I don't mean now. I mean before then.
+Don't get a hernia. You know what I mean?
 [radio: pop music playing]
 Go ahead. Just drop it anywhere.
 [frequencies tuning]
-- [clicks off]
-- [coughs]
+[clicks off]
+[coughs]
 Not, uh... Not bad, huh?
 [toilet flushing]
 There's no heat here, but, uh, you know, by the time winter comes, uh, I'll be in Florida.
@@ -990,28 +990,28 @@ You're the only one.
 [man whispering]
 <i>Charlie, don't you think she's pretty?</i>
 [no audible dialogue]
-- [voices whispering]
+[voices whispering]
 <i>- Charlie, don't you think she's pretty?</i>
 <i>Charlie...</i>
-- [glass shattering]
-- [Sally] <i>Charlie, do you hear me?</i>
+[glass shattering]
+[Sally] <i>Charlie, do you hear me?</i>
 <i>- I said stop that!</i>
-- [siren wailing]
+[siren wailing]
 He's the one. He's the only one.
 [Annie] <i>He's the one.</i>
 <i>He's the only one.</i>
-- [bottle shatters]
-- [siren wailing]
+[bottle shatters]
+[siren wailing]
 [radio: frequencies tuning]
-- [radio: man] <i>Casualty reports have been issued.</i>
-- [groaning]
+[radio: man] <i>Casualty reports have been issued.</i>
+[groaning]
 <i>The American information officer says there have been 429 American casualties.</i>
 <i>429 on the death list.</i>
 <i>This as opposed to 643
 South Vietnamese soldiers on the death list.</i>
 Wait a minute. Hey, what...
-- [radio clicks off]
-- What's the mat...
+[radio clicks off]
+What's the mat...
 What's the matter?
 Where's my boots? Where's my damn boots?
 Over there.
@@ -1025,8 +1025,8 @@ Smart thing for me to do is haul my ass outta here.
 What's the matter now?
 Well, y-you want me to stay here.
 You're after somethin'. What you after?
-- You don't look like no fag.
-- What's that supposed to mean?
+You don't look like no fag.
+What's that supposed to mean?
 Want me to stay here tonight.
 That's the idea, ain't it?
 Look, I'm not forcing you.
@@ -1050,8 +1050,8 @@ I just thought you should know. That's all.
 Sometimes you make me wanna puke, Ratso.
 [coughing]
 Joe, uh, do me one favor, huh?
-- This is my place. Am I wrong?
-- No, you ain't wrong.
+This is my place. Am I wrong?
+No, you ain't wrong.
 You know, in my own place, my name ain't Ratso.
 I mean, it just so happens that in my own place, my name... is Enrico Salvatore Rizzo.
 Well, hell, I can't say all that.
@@ -1069,12 +1069,12 @@ Rico, Rico.
 [coughing]
 Are you here again?
 Didn't I tell you once before to keep away from here?
-- Easy, easy.
-- Every time you take stuff from me!
-- Will you get out of here!
-- That ain't nice, pickin' on a crippled boy!
-- Ah, cripple or not, I don't care!
-- Who the hell do you think <i>you</i> are, goddamn it?
+Easy, easy.
+Every time you take stuff from me!
+Will you get out of here!
+That ain't nice, pickin' on a crippled boy!
+Ah, cripple or not, I don't care!
+Who the hell do you think <i>you</i> are, goddamn it?
 [shouting in Italian]
 [radio: country music playing]
 The two basic items necessary to sustain life are sunshine and coconut milk.
@@ -1096,12 +1096,12 @@ Smells worse hot than it did cold.
 All right, startin' tomorrow, you cook your own goddamn dinner.
 Or you get one of your rich
 Park Avenue ladies to cook for you.
-- I'm eatin' it. I'm eatin' it, see?
-- In her penthouse.
+I'm eatin' it. I'm eatin' it, see?
+In her penthouse.
 Look, I'm eatin' this shit, Ratso.
 Mmm, good! Mmm.
-- It's good.
-- I gotta get outta here.
+It's good.
+I gotta get outta here.
 I gotta get outta here.
 Miami Beach. That's where you could score.
 Anybody can score there, even you.
@@ -1122,10 +1122,10 @@ Frankly, you're beginning to smell.
 And for a stud in New York, that's a handicap.
 Don't talk to me about clean.
 I ain't never seen you change your underwear once the whole time I've been here in New York.
-- And that's pretty peculiar behavior.
-- I don't have to do that kind of thing in public.
-- I ain't got no need to expose myself.
-- No, I'll bet you don't!
+And that's pretty peculiar behavior.
+I don't have to do that kind of thing in public.
+I ain't got no need to expose myself.
+No, I'll bet you don't!
 I bet you ain't never even been laid!
 How 'bout that?
 And <i>you're</i> gonna tell <i>me</i> what appeals to women.
@@ -1157,21 +1157,21 @@ Boy, you have a lot of laundry here.
 [chattering in Italian]
 [Italian continues]
 [Joe] <i>Well, it just ain't right, cheatin' from a pregnant lady.</i>
-- What did it cost her?
-- What do you mean, what'd it cost her?
+What did it cost her?
+What do you mean, what'd it cost her?
 Get outta here. The laundry syndicate lost a couple of coins. I'm cryin'.
-- That's it, sir.
-- All right.
+That's it, sir.
+All right.
 That's good. Sir, where's mine?
 The black homburg.
-- I-I brought it in at the same time.
-- Well, I tell you, I don't know.
+I-I brought it in at the same time.
+Well, I tell you, I don't know.
 You no have a hat here, mister.
 You gotta bring me the ticket.
 What about that black homburg right up there? Up in there.
 Is that... Is that it right there?
-- You want... A ticket? Here's my ticket.
-- All right.
+You want... A ticket? Here's my ticket.
+All right.
 It's right there on the corner.
 You wanna get it, right over there?
 All right. I'll look 'em over.
@@ -1215,8 +1215,8 @@ Yes, sir. Oh, I think you got somethin' on your shoulder there.
 There, you got it. Go ahead. Go ahead.
 Say, uh, you haven't got a quarter, have you?
 Just a quarter?
-- How do you like that cheap bastard?
-- Let's see what the hell you got here.
+How do you like that cheap bastard?
+Let's see what the hell you got here.
 Listen, I think we struck gold.
 This is one high-class chick.
 "Barclay Hotel for Women."
@@ -1235,8 +1235,8 @@ Listen!
 Get the cash.
 Remember that lady in the penthouse.
 Get the cash. Those rich ladies write out a check at night, and in the morning they call the bank and stop payment.
-- Go ahead. Watch the car!
-- [horn honking]
+Go ahead. Watch the car!
+[horn honking]
 Go on.
 [horns honking]
 [no audible dialogue]
@@ -1249,12 +1249,12 @@ G-49.
 G-49.
 I-24.
 I-24.
-- And the next one is...
-- Oh!
+And the next one is...
+Oh!
 O-62, ladies and gentlemen.
 <i>O-62! Are there any bingos?</i>
 <i>- And the next one is B-13.</i>
-- How dare you, in this public place!
+How dare you, in this public place!
 [Joe] Wait a second, lady!
 Goddamn it, you keep your hands off me, sir.
 [arguing]
@@ -1271,7 +1271,7 @@ Goddamn it, you keep your hands off me, sir.
 <i>âª Orange juice on ice is nice âª</i>
 <i>âª Orange juice on the ice âª</i>
 <i>- âª Orange juice on ice is nice âª</i>
-- [coughing]
+[coughing]
 <i>âª It's refreshingly cooler naturally âª</i>
 <i>âª Break away from old habits âª</i>
 <i>âª Take a word ofadvice âª</i>
@@ -1293,14 +1293,14 @@ Yeah.
 [coughing]
 <i>âª I got a telephone call from Jesus âª</i>
 <i>- âª I got him on the line âª</i>
-- [coughing]
+[coughing]
 [man] Oh, for Christ's sake!
 [coughing]
 [hawks, spits]
 [coughing continues]
 Hey, Ratso.
-- [coughing]
-- Hey, get your ass out here.
+[coughing]
+Hey, get your ass out here.
 I wanna show you something.
 There you go, boy. There's money for you.
 That's nine dollars right there, plus assorted change.
@@ -1313,14 +1313,14 @@ Where'd you get it?
 I got it.
 Where you been? 42nd Street? [laughing]
 That's where you been.
-- Movies, that's where you've been, ain't it?
-- I ain't been nowhere.
+Movies, that's where you've been, ain't it?
+I ain't been nowhere.
 Yeah, movies. That's where you got that thing on your back.
-- What, this?
-- "What, this?"
+What, this?
+"What, this?"
 A friend I once did a favor for give it to me.
-- A friend!
-- Yeah.
+A friend!
+Yeah.
 Who'd you ever do a favor for?
 You just let some poor bastard freeze to death, wouldn't you?
 You stole the damn thing, didn't you?
@@ -1334,8 +1334,8 @@ Here.
 [coughing]
 Oh, buy yourself some medicine before you die on my damn hands.
 [coughing]
-- I hate boneyards.
-- So split.
+I hate boneyards.
+So split.
 He ain't your goddamn father.
 [train horn blows in distance]
 He was even dumber than you.
@@ -1371,32 +1371,32 @@ Really, forgive me. I'm awfully sorry.
 I think I'm gonna write a letter to the mayor.
 I don't believe in any of that crap.
 You're entitled to think what you want.
-- Well, maybe I <i>do</i> think what I want.
-- Him.
+Well, maybe I <i>do</i> think what I want.
+Him.
 Maybe I <i>do</i> believe all that damn stuff, and I... and I...
-- Do some thinkin' about it, that's all.
-- Here.
+Do some thinkin' about it, that's all.
+Here.
 What was that all about?
 Hey, lookee here.
 I've been chosen for some damn thing.
 Hey.
-- It's a come-on.
-- Yeah, you know what this is?
+It's a come-on.
+Yeah, you know what this is?
 This is a come-on to a party, is what it is.
 It's a couple of wackos advertising.
 Where does it say to go?
 Klein's Bargain Basement?
 You go there and get a ten-year subscription to the <i>Encyclopedia Britannica.</i>
 It says "Broadway and Harmony Lane, Hansel and Gretel McAlbertson. One flight up."
-- That's perfectly clear, ain't it?
-- Get outta here.
+That's perfectly clear, ain't it?
+Get outta here.
 What do a couple of fruity wackos like that want with characters like you and me?
 It don't say nothin' about you.
 Don't say nothin' about you.
-- Don't say nothin' about you either.
-- They took my picture, didn't they?
-- Give me this thing.
-- So what are you driving at?
+Don't say nothin' about you either.
+They took my picture, didn't they?
+Give me this thing.
+So what are you driving at?
 You want me to get lost so you can go to your fancy-ass party?
 Wait a minute. Wait a second.
 I didn't say nothin' about that.
@@ -1405,8 +1405,8 @@ I'll just tell 'em. "You want me,
 I don't go nowhere without my buddy here."
 I ain't dressed for a party.
 [coughing]
-- There you go. Right here.
-- [dog barking]
+There you go. Right here.
+[dog barking]
 [barking continues]
 Hey, dog.
 [coughing]
@@ -1421,10 +1421,10 @@ I don't need a comb.
 Here.
 Few dozen cooties ain't gonna kill me,
 I don't guess.
-- Okay?
-- Yeah.
-- I look okay?
-- Yeah.
+Okay?
+Yeah.
+I look okay?
+Yeah.
 Okay, come on. Come on.
 [loud pop music playing]
 They're takin' my picture.
@@ -1432,8 +1432,8 @@ They're takin' my picture.
 <i>âª Everywhere âª</i>
 [beeps]
 Uh, now just one more close-up of her.
-- [beeps]
-- I love everything in the theater.
+[beeps]
+I love everything in the theater.
 I would like to die on the stage.
 And my hair is fur, you know.
 Its tendrils reaching out into space sometimes.
@@ -1443,25 +1443,25 @@ I think we better find somebody and tell 'em that I'm here.
 Hey!
 Uh, well, I made it.
 This is my friend Ratso Rizzo and I.
-- Rico. Rico Rizzo.
-- [woman] Hello.
+Rico. Rico Rizzo.
+[woman] Hello.
 If you need anything, there's beer and stuff behind me. Anything you want.
 Oh, Jesus.
 <i>âª Is he there anywhere? âª</i>
 If you want the word on that brother-and-sister act,
 Hansel's a fag, and Gretel's got the hots for herself, so who cares, right?
-- Load up on the salami.
-- [beeps]
-- [woman] It's like what?
-- It's like heroin. Death is like heroin.
-- It's nothing.
-- Have you tried heroin?
+Load up on the salami.
+[beeps]
+[woman] It's like what?
+It's like heroin. Death is like heroin.
+It's nothing.
+Have you tried heroin?
 Yeah, I've tried heroin.
 It's like nothing. It's like death.
-- It's just nothing.
-- [beeps]
-- [woman] Why are you here?
-- I don't know.
+It's just nothing.
+[beeps]
+[woman] Why are you here?
+I don't know.
 Who brought you?
 I don't know.
 <i>âª He's tired and sick and he can't walk away âª</i>
@@ -1469,7 +1469,7 @@ I don't know.
 <i>âª For others of the moon âª</i>
 <i>âª He stopped to look at the sun one day âª</i>
 <i>- âª He didn't realize he'd be there to stay âª</i>
-- Thank you, ma'am.
+Thank you, ma'am.
 <i>âª It doesn't matter what the people think âª</i>
 <i>âª He just wants to get out of the sun âª</i>
 <i>âª And find a place where he can go to sleep âª</i>
@@ -1502,19 +1502,19 @@ If it's free, then I ain't stealin'.
 How did you get crippled?</i>
 I slipped on a banana peel. Come on.
 I gotta sit down. I feel crummy.
-- What's the matter with you?
-- Take your hands off of me.
-- Why don't you run up and use my shower.
-- Why don't you take a walk.
+What's the matter with you?
+Take your hands off of me.
+Why don't you run up and use my shower.
+Why don't you take a walk.
 Just take your hands off of me!
 Don't touch me!
 <i>- Just take a walk!</i>
-- [woman] <i>Take a shave.</i>
-- [woman] I'm just going to lick the sweat off.
-- Keep your hands off of me!
+[woman] <i>Take a shave.</i>
+[woman] I'm just going to lick the sweat off.
+Keep your hands off of me!
 Well, you look hot!
-- Guess who I am.
-- [Ratso] Who?
+Guess who I am.
+[Ratso] Who?
 [laughing] It's me!
 How you doin'?
 You're gettin' your picture took, huh?
@@ -1523,7 +1523,7 @@ Hi.
 [making sizzling sounds]
 [laughing]
 <i>- âª Somewhere there's âª</i>
-- Oh!
+Oh!
 <i>âª An old man willow âª</i>
 [sighing]
 [laughs]
@@ -1533,8 +1533,8 @@ Hey.
 Let's, uh... leave now.
 Your place... or mine?
 [rock music playing]
-- She's hooked.
-- Like why a cowboy?
+She's hooked.
+Like why a cowboy?
 I'd say she was good for ten bucks, but I'll ask for 20.
 Why a cowboy whore?
 Did you know we were gonna make it?
@@ -1543,31 +1543,31 @@ So, uh, you really wanna do business?
 Who is he?
 [Joe laughing]
 Don't tell me you two are a couple.
-- [laughing]
-- Hey.
+[laughing]
+Hey.
 [laughing continues]
 Why are you laughing, Joe?
-- Are you really a cowboy?
-- Well, I'll tell you the truth now.
+Are you really a cowboy?
+Well, I'll tell you the truth now.
 I ain't a for-real cowboy, but I am one hell of a stud.
 A very expensive stud, and I happen to be his manager.
 Incidentally, how much is this gonna cost me?
 Twenty bucks.
-- Okay.
-- And taxi fare for me.
+Okay.
+And taxi fare for me.
 Oh, get lost, will ya?
 I agree, but for that service
 I charge one buck taxi fare.
-- Okay?
-- Yeah, okay, okay, okay.
+Okay?
+Yeah, okay, okay, okay.
 Oh, boy.
 Here.
-- Go ahead.
-- Give me a break.
+Go ahead.
+Give me a break.
 Listen, I don't even know what your name is.
 I wanna know your name. What is it?
-- My name's Joe!
-- Joe! Ah!
+My name's Joe!
+Joe! Ah!
 Fabulous!
 Joe could be anyone. I like that.
 Move over, Joe. Come here, Joe.
@@ -1582,19 +1582,19 @@ Hey, fella, you fell.
 Is he all right?
 Yeah, he's fine.
 Well, if you're all right, why you hangin' on the banister?
-- Can't you walk or not?
-- Naturally, I can walk.
+Can't you walk or not?
+Naturally, I can walk.
 Yeah. He's got taxi fare.
 [laughs] Come on.
-- Are you sure you're all right?
-- Yeah.
+Are you sure you're all right?
+Yeah.
 Yeah, yeah, yeah.
 [engine starts]
 Hey, Ratso!
 Whoopee-tee-yi-yo, boy! Whoo-hah!
 Well, it happens.
-- Don't worry about it.
-- It ain't never happened to me before.
+Don't worry about it.
+It ain't never happened to me before.
 You bet your bottom dollar on that.
 Where's the matches, ma'am?
 Over there behind that thing.
@@ -1610,8 +1610,8 @@ Et cetera, et cetera, et cetera.
 Oh.
 Well, I think I'm making it worse.
 Maybe we oughta take a little nap... and see what happens.
-- I ain't sleepy.
-- Oh.
+I ain't sleepy.
+Oh.
 I know.
 Scribbage.
 Shit!
@@ -1660,8 +1660,8 @@ Yeah, okay. Bye-bye.
 Ma'am, Shirley,
 I sure hate to trouble you, but...
 Sure.
-- Twenty, wasn't it?
-- Yes'm.
+Twenty, wasn't it?
+Yes'm.
 Bye.
 [chuckles]
 [coughing]
@@ -1672,14 +1672,14 @@ Some of that stuff's for you too.
 Look. Try that on for size for you.
 I got some of that stuff you like to swill too.
 Aspirin, Mentholatum, all that crap.
-- What's the matter? They wrong?
-- They're okay.
+What's the matter? They wrong?
+They're okay.
 Only why'd you buy 'em?
 While you were gettin' the aspirin,
 I could've lifted this.
 Is that hot?
-- Yeah. You want some soup?
-- Yeah.
+Yeah. You want some soup?
+Yeah.
 I'll get you some soup then.
 We ain't gonna have to steal no more, is what I'm tryin' to tell you.
 I got eight bucks in my damn pockets.
@@ -1692,14 +1692,14 @@ I'm gettin' you some soup.
 Look at that there.
 That's good, healthy stuff for you.
 Lookee there. Lookee there. Soup.
-- Thanks.
-- It's hot. Watch out.
+Thanks.
+It's hot. Watch out.
 How was she?
 Well, she went crazy, if you want to know the damn truth of it.
-- Yeah?
-- Yeah. She turned into a damn alley cat.
-- Thanks for the stuff.
-- Don't mention it.
+Yeah?
+Yeah. She turned into a damn alley cat.
+Thanks for the stuff.
+Don't mention it.
 It's good.
 Hey, listen, don't get sore or anything, okay?
 I ain't sore.
@@ -1710,25 +1710,25 @@ What are you scared of?
 You know what they do to you when they know you can't... when they find out that you can't wa... walk.
 Oh, Christ!
 I gotta lay down.
-- Okay, okay.
-- I gotta lay down.
+Okay, okay.
+I gotta lay down.
 You're gonna lay down now.
 Just take it easy.
-- Come on.
-- I'm gonna lay you down.
+Come on.
+I'm gonna lay you down.
 I'm gonna lay you down. There you go.
 I'm gonna put this thing over you.
 Now, you stay here.
 Where you goin'?
-- I gotta get a doctor.
-- What?
-- I gotta get a doctor.
-- You ain't gettin' me no doctor.
+I gotta get a doctor.
+What?
+I gotta get a doctor.
+You ain't gettin' me no doctor.
 You're sick, boy. You need a damn doctor.
 Hey! No doctors, no cops.
 Don't be so stupid.
-- What the hell you want me to do?
-- Florida. You get me to Florida.
+What the hell you want me to do?
+Florida. You get me to Florida.
 Oh, hell, I can't go to Florida now.
 Just put me on a bus.
 Just put me on a bus. I don't need you.
@@ -1738,11 +1738,11 @@ Just get me on a bus.
 You ain't sendin' me to Bellevue.
 All right. What are you doin'?
 What are you doin' that for? It's hot.
-- You're sick. I'm keepin' it on you.
-- No. I'm too hot now.
+You're sick. I'm keepin' it on you.
+No. I'm too hot now.
 Dumb. Boy, you're really dumb.
-- I don't need you. You're dumb.
-- Shut up! Just shut up!
+I don't need you. You're dumb.
+Shut up! Just shut up!
 Dumb cowboy, boy.
 Damn it. Shut up!
 Oh, just when things are goin' right for me, you gotta pull a damn stunt like this.
@@ -1754,10 +1754,10 @@ This is a goddamn good friend of hers.
 Now, you...
 Well, hell, I can't wait that long.
 [clanging]
-- [bell dings]
-- [man] Too bad.
-- Well, we all have our off days.
-- [imitating shooting]
+[bell dings]
+[man] Too bad.
+Well, we all have our off days.
+[imitating shooting]
 I'm Townsend P. Locke, from Chicago.
 Call me Towny.
 I'm here on a paper manufacturers convention and, frankly, to have a little fun, damn it.
@@ -1778,8 +1778,8 @@ Have you got that thing turned up?
 Well, why aren't you wearing it?
 Oh, really, Mama, this is just impossible.
 I mean, why go to all the expense?
-- Why go to all the expense, Mama? The expense.
-- Listen, Towny.
+Why go to all the expense, Mama? The expense.
+Listen, Towny.
 Did I tell you I got me a sick kid on my hands?
 Well, he is. He's sick on chill, and I gotta get him south quick as I can.
 I got me a sick boy, and I'm gonna... I'm gonna get him south.
@@ -1815,24 +1815,24 @@ Yes, of course. Wait here.
 I said wait.
 Here. Don't even thank me.
 I gotta have more than ten.
-- I gotta have $57.
-- I simply don't have it, Joe.
-- I got family, goddamn it.
-- You're wasting your time, Joe.
-- There's nothing in here.
-- Get outta my way, please, sir.
-- Get outta my way!
-- [grunts]
-- No, no, no.
-- Let go of that table, please, sir.
-- No, you... Please, sir?
-- No, please!
+I gotta have $57.
+I simply don't have it, Joe.
+I got family, goddamn it.
+You're wasting your time, Joe.
+There's nothing in here.
+Get outta my way, please, sir.
+Get outta my way!
+[grunts]
+No, no, no.
+Let go of that table, please, sir.
+No, you... Please, sir?
+No, please!
 No, don't, don't.
 No. No. Don't.
 Oh, I deserve that.
 I brought this on myself, I know I did.
-- My nose is bleeding, isn't it?
-- Now, you gonna let go of that table?
+My nose is bleeding, isn't it?
+Now, you gonna let go of that table?
 No, no.
 Now, are you gonna let go of that table, or you want a busted skull?
 Oh, Joe, Joe, Joe. [groans]
@@ -1840,11 +1840,11 @@ Oh, Joe. Thank you.
 <i>Thank you.</i>
 <i>Operator. Number, please.</i>
 <i>- Number, please.</i>
-- Hello.
-- No, no, I wasn't calling anyone.
+Hello.
+No, no, I wasn't calling anyone.
 <i>- Hello?</i>
 <i>Hello!</i>
-- I wasn't calling anyone. I wasn't calling anyone.
+I wasn't calling anyone. I wasn't calling anyone.
 <i>- Hello!</i>
 No, I wasn't calling anyone.
 Oh, Joe, Joe, Joe.
@@ -1892,12 +1892,12 @@ Hey, what size pants you wear?
 <i>âª I can't see their faces âª</i>
 <i>âª Only the shadows of their eyes âª</i>
 Thank you, ma'am.
-- Where you from?
-- New York.
+Where you from?
+New York.
 You ever been here before?
 No, ma'am, I ain't. This is my first time.
-- Well, I hope you have a good time in Florida.
-- Thank you.
+Well, I hope you have a good time in Florida.
+Thank you.
 <i>âª Bankin' off of the northeast winds âª</i>
 <i>âª Sailin' on summer breeze âª</i>
 Hey.
@@ -1934,8 +1934,8 @@ Okay, folks, everything's all right.
 Nothin' to worry about.
 Is he kin to you?
 Wanna close his eyes?
-- What?
-- Just reach over and close his eyes.
+What?
+Just reach over and close his eyes.
 We'll just drive on in, all right?
 Nothin' else we can do.
 Okay, folks, just a little illness.

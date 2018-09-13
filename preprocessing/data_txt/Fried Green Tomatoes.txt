@@ -232,7 +232,7 @@ Come on. Get out.
 Get out.
 Buddy!
 <i>- Buddy!
-- Buddy Threadgoode!</i>
+Buddy Threadgoode!</i>
 <i>[Idgie]
 Come on, Buddy!</i>
 Get out.
@@ -240,7 +240,7 @@ Get out of there.
 <i>[Idgie]
 Buddy!</i>
 <i>- Come on, Buddy!
-- Buddy!</i>
+Buddy!</i>
 Buddy!
 No-o-o!
 <i>[Idgie]
@@ -251,14 +251,14 @@ No!</i>
 No-o-o!</i>
 No! Buddy!
 Let me go!
-- No!
-- Buddy!
+No!
+Buddy!
 <i>[Man] You got to go back to the house.</i>
 <i>[Screaming]</i>
 <i>Come on.
 We're gonna go home.</i>
-- Buddy!
-- You have to be strong.
+Buddy!
+You have to be strong.
 It'll be okay.
 Buddy!
 "The Lord is my Shepherd,
@@ -447,7 +447,7 @@ Say good-bye, Idgie.
 Where you goin'?
 Where the hell you goin' with my money? We're goin' home!
 <i>- Who are you to boss me around?
-- The one holdin' your money!</i>
+The one holdin' your money!</i>
 Give it back.
 Now, get in the car.
 All right, I'll get in the car.
@@ -625,7 +625,7 @@ And you don't drink, either.
 [Idgie] Hold the bat and swing.</i>
 Spitter?
 <i>- She gonna spit at me?
-- She's gonna spit on the ball.</i>
+She's gonna spit on the ball.</i>
 Swing that bat!
 Take another crack at it.
 I'm gonna take another crack at it.
@@ -678,8 +678,8 @@ Our vaginas.
 Ms. Couch!
 Um, I need to be excused for a minute.
 Um, Missy, could you come with me to the ladies' room?
-- Do you find this threatening?
-- Uh, well, um...
+Do you find this threatening?
+Uh, well, um...
 <i>do you have a problem with your sexuality? No, ma'am.</i>
 But I do have a problem with my girdle.
 <i>[Laughing]</i>
@@ -851,8 +851,8 @@ See, the thing is, you might upset Big George.
 <i>And he's crazy.</i>
 <i>There's no tellin' what he might do.</i>
 Go on, get outta here.
-- [Screaming]
-- Hey!
+[Screaming]
+Hey!
 <i>[Big George]</i>
 <i>Come on! Hey, hey! Come on now!</i>
 Let's go. Come on.
@@ -922,15 +922,15 @@ Maybe I'm just goin' crazy.
 You get hot flashes?
 Sometimes.
 You get the sweats and your hearts starts a-poundin'?
-- How did you know?
-- Simple, honey.
+How did you know?
+Simple, honey.
 You're going through the change. [Sobbing]
 [Laughing]</i>
 <i>I used to burst into tears for no reason at all.
 You need some hormones. Hmm?
 Maybe some Stresstabs number 4 for good measure.
-- Really? Is that all?
-- Sure, honey.
+Really? Is that all?
+Sure, honey.
 You get yourself some hormones.
 Then you get outta the house and get a job.
 With your pretty complexion...
@@ -998,8 +998,8 @@ I'm gonna ask if they don't want anybody to know... who they are under those she
 Hold on there.
 Y'all ain't foolin' anybody.
 I'd recognize those size 14 clodhoppers you got anywhere.
-- Just a minute, Idgie.
-- More pie, Grady?
+Just a minute, Idgie.
+More pie, Grady?
 No, thank you, Ruth.
 Idgie, I'll talk to the boys.
 You just keep them on out back there, ya hear?
@@ -1082,7 +1082,7 @@ I'll be back in a minute.</i>
 ...down again.
 She's still poorly.
 <i>- [Man] Where's the baby?
-- Who are you?</i>
+Who are you?</i>
 <i>What do you want?</i>
 <i>Frank!</i>
 <i>[Sipsey]
@@ -1112,8 +1112,8 @@ Grady, what does Gladys think of you stayin' out late... and losin' your money t
 She likes it just fine.
 <i>[Glass Breaking]</i>
 They got Big George. Idgie!
-- Let go of him!
-- Let me handle this!
+Let go of him!
+Let me handle this!
 We seen how you treat your niggers around here and we don't like it.
 I'm the law in these parts. I don't care what you like or don't like.
 Turn him loose.
@@ -1328,8 +1328,8 @@ How many of them hormones you takin', honey?
 Oh, Ed, don't make such a big deal about it.
 <i>Who knows what evil lurks within the hearts of men</i>
 <i>When you find that you're losin'</i>
-- What the hell is this?
-- A low cholesterol meal.
+What the hell is this?
+A low cholesterol meal.
 Happy Valentine's.
 <i>That's danger and heartbreak dead ahead</i>
 <i>My God!
@@ -1504,7 +1504,7 @@ Threadgoode... I object.</i>
 <i>Whose reputation is known far and wide...</i>
 <i>as a notorious liar and drunkard?</i>
 <i>- Objection!
-- Sustained!</i>
+Sustained!</i>
 <i>Why did you leave...</i>
 <i>with Idgie Threadgoode that day?</i>
 <i>[Judge]</i>

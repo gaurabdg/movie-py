@@ -17,8 +17,8 @@ I'd like a dinghy, if you please.'
 Hello, sir!
 Have you lost your bearings?
 'No, sir, I don't think so.
-- 'This is Summerisle, is it not?'
-- It is, sir!
+'This is Summerisle, is it not?'
+It is, sir!
 'I'm right then.
 Now, would you send a dinghy, please?'
 I'm afraid it can't be done, sir!
@@ -63,32 +63,32 @@ The mother's name is May Morrison.
 Oh, May!
 She quite slipped my memory.
 Of course we've got May. She keeps the post office in the high street.
-- May Morrison? You're quite sure?
-- Quite sure.
+May Morrison? You're quite sure?
+Quite sure.
 Well, thank you for your help.
 That's not May's daughter, though!
 No, she's not May's.
 Then who is she?
-- Good afternoon.
-- I like your rabbits.
+Good afternoon.
+I like your rabbits.
 Those are hares, not silly old rabbits.
 Lovely March hares.
 Can I help you?
-- Mrs Morrison? Mrs May Morrison?
-- Yes.
-- Sergeant Howie, West Highland police.
-- Oh, my!
+Mrs Morrison? Mrs May Morrison?
+Yes.
+Sergeant Howie, West Highland police.
+Oh, my!
 Did you come over in that aeroplane that I saw flying round?
-- Aye, that's right.
-- What, just to see me?
+Aye, that's right.
+What, just to see me?
 Well, no, not exactly. Erm...
 I'm making inquiries about your daughter.
 We understand that she's missing.
 Missing? My daughter?
-- Aye. You do have a daughter?
-- Yes.
-- And that's her?
-- Oh, never.
+Aye. You do have a daughter?
+Yes.
+And that's her?
+Oh, never.
 I tell you no.
 I think you'd better come with me.
 This is our Myrtle.
@@ -96,13 +96,13 @@ She was nine last Thursday.
 She's not a bit like the girl in your photograph.
 She must be at least 13 or 14, surely.
 Myrtle, say hello.
-- This is Sergeant... Oh!
-- Howie.
-- Oh.
-- Hello, Myrtle.
+This is Sergeant... Oh!
+Howie.
+Oh.
+Hello, Myrtle.
 How do you do?
-- Look, Mummy, I'm drawing a hare.
-- Ah.
+Look, Mummy, I'm drawing a hare.
+Ah.
 Excuse me, Sergeant.
 Hello.
 Here you are, you can fill in the ears in grey.
@@ -110,46 +110,46 @@ Oh, sorry.
 Thank you, Myrtle.
 Myrtle, do you, erm... do you know Rowan?
 Course I do.
-- You do?
-- Course I do, silly.
-- Uh, do you know where she is now?
-- In the fields.
+You do?
+Course I do, silly.
+Uh, do you know where she is now?
+In the fields.
 She runs and plays there all day.
 Does she? Do you think she'll be coming back for tea?
 Tea? Hares don't have tea, silly.
 Hares?
 She's a hare. Rowan's a hare.
 She has a lovely time.
-- Well, tell me...
-- Well, now, Sergeant.
+Well, tell me...
+Well, now, Sergeant.
 You will stay and have a cup of tea, won't you?
-- Oh, well, yes, yes, please.
-- Good.
-- That's very kind of you.
-- Not at all.
+Oh, well, yes, yes, please.
+Good.
+That's very kind of you.
+Not at all.
 It must be thirsty work, asking all those questions, eh?
 Aye.
-- Hello. Evening.
-- Evening.
-- Evening.
-- Hello again.
-- Are you the landlord here?
-- Aye. I'm Alder MacGreagor.
+Hello. Evening.
+Evening.
+Evening.
+Hello again.
+Are you the landlord here?
+Aye. I'm Alder MacGreagor.
 And you must be the policeman from the mainland.
 Aye, that's right. Sergeant Howie,
 West Highland constabulary.
 I'm quite obviously not going to get back to the mainland tonight, so I wondered if you had a room and a bite of supper I could have.
-- Could you manage that?
-- Aye, I think that can be arranged.
+Could you manage that?
+Aye, I think that can be arranged.
 My daughter Willow will show you to your room.
-- Willow!
-- Father?
+Willow!
+Father?
 This is Sergeant Howie, a policeman from the mainland, who will be spending the night with us.
-- This is my daughter, Willow.
-- Good evening.
+This is my daughter, Willow.
+Good evening.
 Show the Sergeant to his room, would you?
-- I'd like my supper now, please.
-- It won't be long, Sergeant.
+I'd like my supper now, please.
+It won't be long, Sergeant.
 Och, you don't want to let them worry you.
 Why don't you have a wee drink?
 No, thank you, not just now.
@@ -169,21 +169,21 @@ I've not seen her at all.
 No, I'm afraid nobody's seen her, Sergeant.
 Thank you. Are these harvest festival photographs?
 Aye, we have one taken at the end of every summer.
-- What happened to last year's?
-- It got broke.
+What happened to last year's?
+It got broke.
 Your supper's ready, Sergeant.
 Willow, show the Sergeant to the dining room.
 Thank you.
 It's disgusting.
-- Thank you.
-- What's the matter, aren't you hungry?
+Thank you.
+What's the matter, aren't you hungry?
 Aye, it's just most of the food I've had, the farmhouse soup, the potatoes, broad beans, all come out of a can.
 Broad beans, in their natural state, aren't usually turquoise, are they?
 Some things in their natural state have the most vivid colours.
 I-I-l...just wanted to know why, that's all.
 Now, I wonder what you'll be wanting for afters?
-- I'll have an apple.
-- No apples.
+I'll have an apple.
+No apples.
 No apples? On an island famous for its fruit and vegetables?
 I expect they've all been exported.
 You can have peaches and cream, if you like.
@@ -212,8 +212,8 @@ They do not make me sick, discussing their duty to God.
 Not one of them kneels to another, or to his own kind that lived thousands of years ago.
 Not one of them is 'respectable'... or 'unhappy'... all over the earth.
 Good morning, Sergeant.
-- Morning.
-- Isn't it glorious?
+Morning.
+Isn't it glorious?
 Aye, aye, it's very nice.
 I expect you'll be going home tonight?
 Well, that depends.
@@ -225,10 +225,10 @@ Now it's time to pay attention to me.
 Now, uh, Daisy, will you tell us what it is, please, that the Maypole represents?
 Really, Daisy.
 You've been told often enough.
-- Miss Rose, I know!
-- I know!
-- All right, then, anybody.
-- Phallic symbol.
+Miss Rose, I know!
+I know!
+All right, then, anybody.
+Phallic symbol.
 The phallic symbol.
 That is correct.
 It is the image of the penis, which is venerated in religions such as ours as symbolising the generative force in nature.
@@ -252,11 +252,11 @@ Meanwhile, I'll write her name over there on the blackboard.
 Rowan Morrison.
 That's her name.
 Now, do any of you recognise either the name or the photograph?
-- No.
-- There's your answer, Sergeant.
+No.
+There's your answer, Sergeant.
 If she existed, we would know her.
-- Whose desk is that?
-- No one's.
+Whose desk is that?
+No one's.
 Thank you.
 The little old beetle goes round and round, always the same way, you see, till he ends up right up tight to the nail, poor old thing.
 "Poor old thing"?
@@ -271,8 +271,8 @@ You're liars.
 You are despicable little liars.
 Rowan Morrison is a schoolmate of yours, isn't she?
 And that is her desk, isn't it?
-- Well, isn't it?
-- I think you ought to know...
+Well, isn't it?
+I think you ought to know...
 And you are the biggest liar of all!
 I warn you, one more lie out of you, and I will charge you with obstruction.
 And, believe me, Miss Rose, that is a promise.
@@ -287,8 +287,8 @@ Nobody was lying. I told you plainly.
 If Rowan Morrison existed, we would know of her.
 You mean, she doesn't exist?
 She's dead?
-- You would say so.
-- Oh, come on, come on.
+You would say so.
+Oh, come on, come on.
 She's either dead, or she's not dead.
 Here, we do not use the word...
 We believe that when the human life is over, the soul returns to trees, to air, to fire, to water, to animals.
@@ -303,27 +303,27 @@ Why, of course.
 And may I ask, where is the rotting body of Rowan Morrison?
 Right where you'd expect it to be, in the earth.
 You mean, in the churchyard?
-- In a manner of speaking...
-- No! In plain speaking.
+In a manner of speaking...
+No! In plain speaking.
 The building attached to the ground in which the body lies is no longer used for Christian worship, so whether it is still a churchyard is debatable.
 But forgive me. I must get back to my girls. Good morning to you.
 "Here lieth Beech Buchanan,
 "protected by the ejaculation of serpents"?
-- Morning.
-- Morning.
+Morning.
+Morning.
 I see you plant trees on most of the graves here.
-- Aye, that's right.
-- What tree is that?
+Aye, that's right.
+What tree is that?
 That's a rowan.
-- And who lies there?
-- Rowan Morrison.
-- How long has she been dead?
-- Oh, six or seven months.
+And who lies there?
+Rowan Morrison.
+How long has she been dead?
+Oh, six or seven months.
 They're just a wee bit late with the headstone.
 What on earth's that?
 It looks like a piece of skin.
-- Why, so it is.
-- Well, what is it?
+Why, so it is.
+Well, what is it?
 The poor wee lassie's navel string, of course.
 Where else should it be but hung on her own little tree?
 Where does your minister live?
@@ -335,8 +335,8 @@ Anyone'd think you didn't want to get better.
 Now, in he goes!
 And out he comes. There.
 Now, that didn't hurt much, did it?
-- it tasted horrid.
-- Never mind, darling. It's all over now.
+it tasted horrid.
+Never mind, darling. It's all over now.
 Here's your sweet for being a brave girl.
 Which one would you like?
 There. He's got your horrid old sore throat now, hasn't he, poor creature?
@@ -357,36 +357,36 @@ Thank you.
 M, M, M, M...
 "Benjamin and Rachel Morrison."
 Rachel and Benjamin...
-- Names from the Bible.
-- Yes. They were very old.
+Names from the Bible.
+Yes. They were very old.
 But there's no record of Rowan Morrison's death, which means, of course, there is no death certificate.
-- Did you know her?
-- Yes, of course.
-- Is that her?
-- Yes, that's her.
+Did you know her?
+Yes, of course.
+Is that her?
+Yes, that's her.
 How did she die?
 I don't know. I don't know anything about her. Nothing.
 Thank you.
 Are you Mr Lennox, the photographer?
 Oh, I'm firstly a chemist, secondly a photographer.
 I understand you take the harvest festival photographs every year.
-- The ones I saw in The Green Man.
-- Yes.
+The ones I saw in The Green Man.
+Yes.
 It's rather humdrum work, I'm afraid.
 What happened to last year's photograph?
 Isn't it there with the others?
 No, no, it's not. Apparently it's been broken or damaged in some way.
-- Oh, what a pity.
-- Would you have a copy of it?
+Oh, what a pity.
+Would you have a copy of it?
 Oh, no, I don't keep copies.
 Mr Lennox, you were among the people to whom I showed the photograph in the Green Man.
 Is that the girl?
-- It's difficult to say.
-- Oh, come on, man!
+It's difficult to say.
+Oh, come on, man!
 It was only eight months ago. Surely you remember if it was that girl or not.
 Thank you.
-- His lordship is expecting you, sir.
-- Expecting me?
+His lordship is expecting you, sir.
+Expecting me?
 That's what his lordship told me, sir.
 Would you please come this way?
 In there, sir.
@@ -396,8 +396,8 @@ No, sir, it does not refresh me.
 Oh, I'm sorry.
 One should always be open to the regenerative influences.
 I understand you're looking for a missing girl.
-- I've found her.
-- Splendid.
+I've found her.
+Splendid.
 In her grave. Your lordship is a justice of the peace.
 I need your permission to exhume her body, have it transported to the mainland for a pathologist's report.
 You suspect...foul play?
@@ -426,15 +426,15 @@ Please.
 Now, those children out there, they're jumping through the flames in the hope that the god of fire will make them fruitful.
 Really, you can hardly blame them.
 After all, what girl would not prefer the child of a god to that of some acne-scarred artisan?
-- And you encourage them in this?
-- Actively.
+And you encourage them in this?
+Actively.
 It's most important that each new generation born on Summerisle be made aware that here the old gods aren't dead.
 But what of the true god to whose glory churches and monasteries have been built on these islands for generations past?
 Now, sir, what of him?
 He's dead. He can't complain.
 He had his chance, and in the modern parlance, he blew it.
-- What?
-- It's very simple. Let me show you.
+What?
+It's very simple. Let me show you.
 In the last century, the islanders were starving.
 Like our neighbours today, they were scratching a bare subsistence from sheep and sea.
 Then in 1868, my grandfather bought this barren island and began to change things.
@@ -452,8 +452,8 @@ And the ministers fled the island, never to return.
 What my grandfather had started out of expediency, my father continued out of...love.
 He brought me up the same way, to reverence the music and the drama and the rituals of the old gods.
 To love nature and to fear it, and to rely on it and to appease it where necessary.
-- He brought me up...
-- He brought you up to be a pagan!
+He brought me up...
+He brought you up to be a pagan!
 A heathen, conceivably, but not, I hope, an unenlightened one.
 Lord Summerisle, I am interested in one thing: the law.
 But I must remind you, sir, that despite everything you've said, you are the subject of a Christian country.
@@ -493,8 +493,8 @@ And I will demand a full inquiry takes place into the affairs of this heathen is
 You must, of course, do as you see fit, Sergeant.
 Perhaps it's just as well that you won't be here tomorrow, to be offended by the sight of our May Day celebrations here.
 Broome, would you kindly show the Sergeant out?
-- This way, sir.
-- Goodbye.
+This way, sir.
+Goodbye.
 There's hardly any produce.
 Well, that's it, the crops failed.
 And it's Rowan.
@@ -504,8 +504,8 @@ Sacrifice.
 'to be offended by the sight of our May Day celebrations tomorrow.'
 Sergeant?
 Wake up, Sergeant.
-- What time is it?
-- It's past nine.
+What time is it?
+It's past nine.
 I thought you were gonna come and see me last night.
 I invited you.
 I'm engaged to be married.
@@ -578,24 +578,24 @@ You could maybe get old Sam there to row you to the mainland.
 You'd be back in a week.
 Well, I'll just have to find
 Rowan Morrison myself.
-- Everything under control, Oak?
-- Aye, my lord.
+Everything under control, Oak?
+Aye, my lord.
 Mr MacGreagor,
 I trust we aren't going to have to let out your costume again this year.
 I think I'll manage, my lord, but it does seem to shrink a little each year.
 My friends, enough now.
 We shall all reassemble outside the town hall at 3:00 sharp, and then process through the village and the countryside, down to the beach below the stones, by the route which has become sacred to our rite.
 This year at the procession's end, as has already been proclaimed, a holy sacrifice will be offered up jointly to Nuada, our most sacred god of the sun, and to Avellenau, the beloved goddess of our orchards, in order that we may furnish them with renewed power to quicken the growth of our crops.
-- Hail the Queen of the May!
-- Hail the Queen of the May!
+Hail the Queen of the May!
+Hail the Queen of the May!
 Hail the Queen of the May!
 Why, Sergeant,
 I thought you'd gone back.
 Mrs Morrison, I don't know if you know it or not, but Rowan is not dead, they've got her hidden somewhere.
 They?
 If you know where she is, I beg you to tell me now before it's too late.
-- Sergeant, I've already told you...
-- In the name of God, woman!
+Sergeant, I've already told you...
+In the name of God, woman!
 What kind of mother are you, that can stand by and see your own child slaughtered?
 Sergeant, if I were you,
 I would go back to the mainland.
@@ -603,19 +603,19 @@ Stop interfering in things that are no concern of yours.
 I am going to search every house in this place during the next few hours, and if anybody, including you, stands in my way, they'll be arrested as accomplices to murder.
 You'll simply never understand the true nature of sacrifice.
 Heathens! Bloody heathens!
-- Yes?
-- Take those masks off!
-- No.
-- Take them off!
-- What do you think you're doing?
-- Searching every house for a missing child.
+Yes?
+Take those masks off!
+No.
+Take them off!
+What do you think you're doing?
+Searching every house for a missing child.
 I-I'm sorry.
-- What's that?
-- The life of the fields.
+What's that?
+The life of the fields.
 John Barleycorn.
 What's in here?
-- What's that?
-- That's my costume.
+What's that?
+That's my costume.
 The salmon of knowledge.
 Hello. You're back early.
 Where are the other coppers?
@@ -623,8 +623,8 @@ There aren't any.
 The plane wouldn't start.
 Give me a glass of whiskey, please.
 So he spent his time instead turning the whole village upside down.
-- Just give me a glass of whiskey!
-- No wonder he's worn out.
+Just give me a glass of whiskey!
+No wonder he's worn out.
 Did you find the girl?
 No, well, I can't say
 I'm very surprised.
@@ -636,8 +636,8 @@ He's asleep.
 I don't like to use it on him, really.
 The laird said we're to take no chances, didn't he?
 I know, but with the Hand of Glory there's no telling when you wake.
-- He might sleep for days.
-- All the better.
+He might sleep for days.
+All the better.
 Shh!
 We don't want him butting in.
 Go on, light it up.
@@ -656,8 +656,8 @@ That's what you're here for.
 I suppose you've been getting drunk at your own bar.
 That's more like it!
 Good, good!
-- Chop!
-- Chop! Chop! Chop!
+Chop!
+Chop! Chop! Chop!
 Chop! Chop! Chop!
 Everyone must go through,
 MacGreagor.
@@ -665,8 +665,8 @@ It's a game of chance, remember.
 Chop! Chop! Chop!
 It's Holly. Well done!
 It's wee Holly.
-- Now, my friends, to the beach.
-- To the beach!
+Now, my friends, to the beach.
+To the beach!
 O god of the sea,
 I offer you this ale as a libation, that you may bestow upon us in the year to come the rich and diverse fruits of your kingdom.
 Hail, god of the seas!
@@ -676,8 +676,8 @@ It's Rowan.
 What's the matter, Mr MacGreagor?
 Now, don't be frightened.
 I'm a police officer.
-- I've got to try and get you away.
-- Hurry, please.
+I've got to try and get you away.
+Hurry, please.
 I don't like it here. They're coming.
 You know what they're going to do?
 I know what they're going to do.
@@ -689,8 +689,8 @@ That's the way out, up there.
 Come on. It's through a big tunnel.
 We seem to have lost our torch-bearing friends.
 I'm sorry. It was worse than I remembered it.
-- Did I do it right?
-- You did it beautifully.
+Did I do it right?
+You did it beautifully.
 Dear little Rowan.
 Rowan, darling! Come on, now.
 Welcome, fool.
@@ -756,8 +756,8 @@ But don't you see, I'll be missed?
 They'll come looking for me!
 There will be no traces.
 Bring him up, Oak.
-- Go on.
-- No! No!
+Go on.
+No! No!
 Think! Just think what you're doing!
 Think what you're doing! Think!
 In the name of God, think what you're doing!
@@ -769,11 +769,11 @@ No! No!
 Mighty god of the sun, bountiful goddess of our orchards, accept our sacrifice and make our blossoms fruit.
 Mighty god of the sun, bountiful goddess of our orchards...
 Hear ye the words of the Lord!
-- ...and make our blossoms fruit.
-- Awake, ye heathens, and hold!
+...and make our blossoms fruit.
+Awake, ye heathens, and hold!
 It is the Lord who hath laid waste your orchards!
-- It is he who hath made them bare!
-- Reverence the sacrifice.
+It is he who hath made them bare!
+Reverence the sacrifice.
 Because the truth is withered away from the sons of men!
 Desire shall fail!
 And ye shall all die...

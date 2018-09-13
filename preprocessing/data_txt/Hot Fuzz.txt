@@ -22,9 +22,9 @@ Born and schooled in London.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And sustained three injuries in the line of duty.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Most recently in December when wounded by a man dressed as Father Christmas.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Hello, Nicholas.
-- Hello, Sergeant.</font>
+Hello, Sergeant.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- How's the hand?
-- Still a bit stiff.</font>
+Still a bit stiff.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It can get awfully hairy out there.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm surprised yÃ¶u weren't snapped up sooner for a nice desk job. That's what I did.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I prefer to think my office is out on the street.</font>
@@ -32,22 +32,22 @@ Born and schooled in London.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶ur arrest record is 400% higher than any other officer.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Which is why it's high time that such skills were put to better use.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- We're making yÃ¶u Sergeant.
-- I see.</font>
+I see.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">In Sandford, Gloucestershire.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- In where, sorry?
-- In Sandford, Gloucestershire.</font>
+In Sandford, Gloucestershire.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- That's in the country.
-- Yes, lovely.</font>
+Yes, lovely.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Isn't there a Sergeant's position here in London?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Can I remain here as a PC?
-- No.</font>
+No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Do I have any choice in this?
-- No.</font>
+No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sergeant, I kind of like it here.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, yÃ¶u've always wanted to transfer to the country.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- In 20 years or so, yes.
-- Well done, yÃ¶u.</font>
+Well done, yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hang on, I don't remember telling yÃ¶u that.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yes, yÃ¶u did. yÃ¶u said,</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"I'd love to settle down in the country sometime, Janine."</font>
@@ -55,36 +55,36 @@ Born and schooled in London.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u can speak to the Inspector, but I can promise yÃ¶u</font>
 <font face="Microsoft Sans Serif" color="#ffff00">he will tell yÃ¶u exactly the same thing as I have.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Hello, Nicholas. How's the hand?
-- It's still a bit stiff.</font>
+It's still a bit stiff.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- And how are things at home?
-- I'm sorry, sir?</font>
+I'm sorry, sir?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">How's Janine?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">We're no longer together, sir.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Right. Then where are yÃ¶u living?
-- He's staying at the Section House, sir.</font>
+He's staying at the Section House, sir.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- With the recruits?
-- Yes, he's living out of cardboard boxes.</font>
+Yes, he's living out of cardboard boxes.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, then, yÃ¶u're packed already.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Nicholas, we're offering yÃ¶u a smashing position with a delightful cottage,</font>
 <font face="Microsoft Sans Serif" color="#ffff00">in a lovely little place that I think has won Village of the Year</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I don't know how many times.
 It'll be good for yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I don't really know what to say.
-- Yes?</font>
+Yes?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yes, thank yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">No, I'm sorry. I'm gonna have to...</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u want to take this higher?
-- Yes, yes, I do.</font>
+Yes, yes, I do.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u want me to bother the Chief Inspector with this?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yes.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u want me to get the Chief Inspector to come all the way down here?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Yes, I do.
-- Okay.</font>
+Okay.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Kenneth!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Hello, Nicholas. How's the hand?
-- Still a bit stiff.</font>
+Still a bit stiff.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Chief Inspector...
-- Keep yÃ¶ur seat.</font>
+Keep yÃ¶ur seat.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Now, I know what yÃ¶u're going to say,</font>
 <font face="Microsoft Sans Serif" color="#ffff00">but the fact is, yÃ¶u've been making us all look bad.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm sorry, sir?</font>
@@ -97,11 +97,11 @@ It'll be good for yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u'll put us all out of a job.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">With respect, sir.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u can't just make people disappear.
-- Yes, I can. I'm the Chief Inspector.</font>
+Yes, I can. I'm the Chief Inspector.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, however yÃ¶u spin this, there's one thing yÃ¶u haven't taken into account.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And that's what the "team" is gonna make of this.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Hello?
-- Janine, it's me.</font>
+Janine, it's me.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I know. I'm at work.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I know, I'm outside.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What's the situation?</font>
@@ -111,7 +111,7 @@ We've been over this.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Two people involved, distinct signs of a struggle.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Complete mess.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u are talking about here?
-- Nicholas, what do yÃ¶u want?</font>
+Nicholas, what do yÃ¶u want?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, I have something important to tell yÃ¶u and I didn't wanna do it over the phone.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Janine, I've been transferred.
 I'm moving away for a while.</font>
@@ -129,19 +129,19 @@ I'm moving away for a while.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Official vocab guidelines state that "force" is too aggressive.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">See. It's only ever about the job.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- It's all yÃ¶u care about.
-- That's not true.</font>
+That's not true.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">No, yÃ¶u're right, yÃ¶u do have that rubber plant.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- It's a Japanese Peace Lily.
-- yÃ¶u just can't switch off, Nicholas.</font>
+yÃ¶u just can't switch off, Nicholas.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And until yÃ¶u find a person yÃ¶u care about more than yÃ¶ur job, yÃ¶u never will.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Besides, yÃ¶u were the one who suggested we take a break.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yes, well, guilty people often make the first move.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Actually, there's something
 I need to tell yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u're seeing someone else.
-- Yes. How did yÃ¶u...</font>
+Yes. How did yÃ¶u...</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Is it Bob?
-- No.</font>
+No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Does Bob look like the kind of person I'd go out with?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's Dave.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hello, there.</font>
@@ -158,19 +158,19 @@ One other thing about yÃ¶ur cottage.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's not ready.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It would appear the heavens have opened.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I was hoping to check in.
-- Check in?</font>
+Check in?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">But yÃ¶u've always been here.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Excuse me?
-- Oh, I'm sorry.</font>
+Oh, I'm sorry.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I thought yÃ¶u were my husband.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u must be Sergeant Angel.
-- Yes, I am.</font>
+Yes, I am.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm Joyce Cooper.
 I trust yÃ¶u had a pleasant trip. Fascist.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I beg yÃ¶ur pardon?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"System of Government characterized by extreme dictatorship." Seven across.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Oh, I see. It's "fascism."
-- Fascism. Wonderful.</font>
+Fascism. Wonderful.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Now, we've put yÃ¶u in the Castle Suite.
 Bernard will escort yÃ¶u up there.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, actually,
@@ -179,40 +179,40 @@ I could probably make my own way up. Hag.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"Evil old woman considered frightful or ugly." It's 12 down.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, bless yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Pint of lager, please, Mary.
-- Right yÃ¶u are, my love.</font>
+Right yÃ¶u are, my love.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yes, sir, what can I get yÃ¶u?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Could I have a glass of the cranberry juice, please?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Certainly.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Now, yÃ¶u wouldn't, by any chance, be the new policeman?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Police officer, yes. I'm Nicholas Angel.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I'm Roy Porter. This is my wife Mary.
-- Mary.</font>
+Mary.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Welcome to Sandford.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">If there's anything yÃ¶u need, just let us know.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Thank yÃ¶u. Could I borrow yÃ¶ur newspaper?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's not ours, love.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">We're not big fans of the local fish wrapper, are we, Mare?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- They listed her age as 55.
-- When I'm actually 53.</font>
+When I'm actually 53.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Fifty-three.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Pint of lager, please, Mary.
-- Right yÃ¶u are, my love.</font>
+Right yÃ¶u are, my love.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Excuse me.
-- What?</font>
+What?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- When's yÃ¶ur birthday?
-- Twenty-second of February.</font>
+Twenty-second of February.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What year?
-- Every year.</font>
+Every year.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Get out.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- When's yÃ¶ur birthday?
-- Eighth of May, 1969.</font>
+Eighth of May, 1969.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u're 37?
-- Yeah.</font>
+Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Get out.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">When's yÃ¶ur birthday?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Out.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Is there a problem, Officer?
-- Yes, there is, Mr. Porter.</font>
+Yes, there is, Mr. Porter.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It would appear a number of yÃ¶ur patrons are under age.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, a few of them may be a month or two south of proper.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">But if they're in here, it stops them getting into trouble out there.</font>
@@ -220,7 +220,7 @@ I could probably make my own way up. Hag.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">The greater good.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, that's as may be, but the law's the law and they'll have to go.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Another cranberry juice?
-- I'm fine, thank yÃ¶u.</font>
+I'm fine, thank yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I hope yÃ¶u're not planning on driving that.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Right. I'm taking yÃ¶u to the station.</font>
@@ -229,27 +229,27 @@ I could probably make my own way up. Hag.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Move.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"Nicholas Angel."</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Oh, when did yÃ¶u start?
-- Tomorrow.</font>
+Tomorrow.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, I see yÃ¶u've already arrested the whole village.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Not exactly.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u in for the night?
-- Go on, four's free.</font>
+Go on, four's free.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Hey, now, I need to speak to him.
-- He'll be no use till the morning.</font>
+He'll be no use till the morning.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I see.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u really want to process all this lot?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- My pen's running out.
-- Not a problem.</font>
+Not a problem.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Morning, Sergeant.
-- Morning.</font>
+Morning.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Morning.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Morning, Sergeant.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Morning, Sergeant.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Lock me up.
-- I'm sorry?</font>
+I'm sorry?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm a slasher and I must be stopped.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u're a what?
-- A slasher of prices.</font>
+A slasher of prices.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Just kidding. I'm Simon Skinner.
 I run the local supermarchÃ©.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Drop in and see me sometime.
@@ -263,18 +263,18 @@ I've arrived, please?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Why?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">He's not in yet.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Well, how's our guest?
-- Guest?</font>
+Guest?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- The inebriate in cell four.
-- I don't know. Nobody tells me nothing.</font>
+I don't know. Nobody tells me nothing.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Can I get cell four open, please?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Danny, can yÃ¶u open four?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- He's gone.
-- Oh, my God. Who's gone?</font>
+Oh, my God. Who's gone?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Why are yÃ¶u dressed like a police officer?
-- Because I am one.</font>
+Because I am one.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sergeant Angel, at last. Frank Butterman.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I see yÃ¶u've already met my boy.
-- Yes.</font>
+Yes.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Do forgive me.
 I'm something of a Wild West nut.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Speaking of which, that was a fair few outlaws yÃ¶u rounded up last night.</font>
@@ -290,13 +290,13 @@ Oh, yes, please, Danny.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">than a careful and considered approach.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">There's a reason we accommodate a few of the yÃ¶unglings at the pub.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- The greater good?
-- The greater good. Precisely.</font>
+The greater good. Precisely.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶ur predecessor assumed that rural policing was easy.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Ended up having a nervous breakdown.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And Sergeant Popwell was an exceptional officer, truly exceptional.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And he had one thing yÃ¶u haven't got.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What's that, sir?
-- A great big bushy beard.</font>
+A great big bushy beard.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Come on, let's have a mosey around.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Locker room.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Riot room.</font>
@@ -306,19 +306,19 @@ Oh, yes, please, Danny.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Don't get up.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I expect yÃ¶u're wondering why we call them the Andes.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- They're both called Andrew?
-- They said yÃ¶u were good.</font>
+They said yÃ¶u were good.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Also, because talking to them is an uphill struggle, isn't it, Dad?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Fuck off!
-- Thank yÃ¶u, Danny.</font>
+Thank yÃ¶u, Danny.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And this is where it all happens.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">That is Sergeant Tony Fisher.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">PC Bob Walker.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And that is Saxon.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And this is one Doris Thatcher.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- She's our only policewoman.
-- She's not a policewoman.</font>
+She's not a policewoman.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Yeah, she is. I've seen her bra.
-- She's a police officer.</font>
+She's a police officer.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Being a woman has nothing to do with it.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, I don't know.
 Comes in handy every so often.</font>
@@ -342,7 +342,7 @@ I can see what the whole village is up to.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">11:00, 12:00, 1:00, 2:00.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">If we don't come down hard on these clowns,</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- we are gonna be up to our balls in jugglers.
-- We'll get right onto it, Tom.</font>
+We'll get right onto it, Tom.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">We like to let them think they run the place.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, that's that.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Unless there's anything yÃ¶u're unclear about?</font>
@@ -355,7 +355,7 @@ As punishment for his little indiscretion.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">No, the gateau is for misplacing his helmet the other week.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Last night's incident will require something rather more serious.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Good.
-- Do yÃ¶u like ice-cream?</font>
+Do yÃ¶u like ice-cream?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm sorry, sir, I don't follow.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Let's just say that we won't be short of Chunky Monkey for the next month.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Dad.</font>
@@ -369,36 +369,36 @@ Sergeant Angel?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Look, I can assure yÃ¶u it wasn't my intention to upset the apple cart.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah, 'cause we all sell apples round here, don't we?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶ur dad sells apples, Andy.
-- And raspberries.</font>
+And raspberries.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I bet yÃ¶u can't wait to jump into Sergeant Popwell's grave.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm not jumping into anyone's grave.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u got a mustache.
-- I know.</font>
+I know.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Why have yÃ¶u got yÃ¶ur stab vest on?
-- It's a requirement.</font>
+It's a requirement.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">In the city maybe.
 Nobody's gonna stab yÃ¶u in here, Sergeant.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Not a member of the public anyhow.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Have yÃ¶u been stabbed, Sergeant Fisher?
-- No.</font>
+No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, I have.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And I can assure yÃ¶u it is not in the least bit amusing.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Have yÃ¶u seen a lot of action,
 Sergeant Angel?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I've experienced my fair share, yes.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Did yÃ¶u cook any fools?
-- Excuse me?</font>
+Excuse me?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Did yÃ¶u shoot anybody?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">He shot a crack head with a Kalashnikov.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Where did yÃ¶u get that?
-- The offender had the Kalashnikov.</font>
+The offender had the Kalashnikov.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Where'd he get that?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u do know there are more guns in the country than there are in the city?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Everybody and their mums is packing round here.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Like who?
-- Farmers.</font>
+Farmers.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Who else?
-- Farmers's mums.</font>
+Farmers's mums.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What's it like being stabbed?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It was the single most painful experience of my life.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What was the second most painful?</font>
@@ -407,31 +407,31 @@ Sergeant Angel?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u ever fired one gun whilst jumping through the air?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Ever been in a high speed pursuit?
-- Yes, I have.</font>
+Yes, I have.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u ever fired a gun whilst in a high speed pursuit?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Annette, that Sergeant Angel's coming into yÃ¶ur shop.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Get a look at his arse.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What about Lethal Weapon?
-- No.</font>
+No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u've seen Die Hard, though?
-- No.</font>
+No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Bad Boys II?
-- No.</font>
+No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u ain't seen Bad Boys II?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Hell of a day, huh?
-- Yeah.</font>
+Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Same again tomorrow?
-- Yeah.</font>
+Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Amanda Paver, headmistress of Sandford Primary.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">How do yÃ¶u do, Sergeant?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Simon Skinner, I believe yÃ¶u've met.
-- Oh, we're already firm friends.</font>
+Oh, we're already firm friends.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, please, please, come with me, will yÃ¶u?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">This is Leslie Tiller,</font>
 <font face="Microsoft Sans Serif" color="#ffff00">whose horticultural expertise has helped put Sandford on the map.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- She's ever so good.
-- Oh, go on.</font>
+Oh, go on.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">This is James Reaper, who owns Brannigan Farm.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I hear yÃ¶u're quite the marksman.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Perhaps yÃ¶u might like to join us for a shoot one day.</font>
@@ -447,7 +447,7 @@ Sergeant Angel?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm open to the concept of religion,
 I'm just not entirely convinced by it.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u're an agnostic?
-- I think I have a cream for that.</font>
+I think I have a cream for that.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Robin Hatcher, our resident sawbones.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hopefully we won't see too much of each other over the coming months.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, all that remains is to welcome yÃ¶u</font>
@@ -456,7 +456,7 @@ I'm just not entirely convinced by it.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Janet Barker has just given birth to twins.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">So, congratulations to her.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Tom?
-- Thanks, Joyce.</font>
+Thanks, Joyce.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Now.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I am sure that all of yÃ¶u will have noticed the return of a blight to our streets.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's made all the more disturbing as the Village of the Year contest looms.</font>
@@ -476,48 +476,48 @@ I'm just not entirely convinced by it.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I don't think that gives off the right signals.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Too cheesy-pie. Okay. Gotcha.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Give the little blonde kid yÃ¶ur hat.
-- I'd rather not.</font>
+I'd rather not.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Wave yÃ¶ur hitting stick about.
-- No.</font>
+No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Righty-ho-ho.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, can I have yÃ¶ur autograph, please?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- For the breakfast.
-- Oh, sorry.</font>
+Oh, sorry.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hey, that weren't me.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Morning, Angle.
-- Good morning, Angle.</font>
+Good morning, Angle.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Morning, Angle.
-- Morning, Angle.</font>
+Morning, Angle.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Sergeant Angel.
-- Morning. The swan's escaped.</font>
+Morning. The swan's escaped.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- The swan's escaped?
-- Yeah.</font>
+Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Right. And where has the swan escaped from exactly?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- The castle.
-- Oh, yeah? And who might yÃ¶u be?</font>
+Oh, yeah? And who might yÃ¶u be?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Mr. Staker. Yeah, Mr. Peter Ian Staker.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">P.I. Staker. Right. Piss taker. Come on!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yes, Mr. Staker. We'll do everything we can.
 Can yÃ¶u describe it to me?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's about two foot tall.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Long slender neck.
-- Yeah.</font>
+Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Kind of orange and black bill.
-- Anything else?</font>
+Anything else?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, it's a swan.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">That's just gonna scare it.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- No luck catching them swans then?
-- It's just the one swan, actually.</font>
+It's just the one swan, actually.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Want anything from the shop?
-- yÃ¶u've just been to the shop.</font>
+yÃ¶u've just been to the shop.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I was thinking of a different shop.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Constable Butterman, this is not the time for personal errands.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Well, there's nothing going on, is there?
-- There is always something going on.</font>
+There is always something going on.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u have to look closer, all right?
 What about this guy?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Mr. Treacher?
-- Yeah.</font>
+Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Why has he got that big coat on?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">He can't be cold. Why the extra layer?
 Maybe he's trying to hide something.</font>
@@ -525,20 +525,20 @@ Maybe he's trying to hide something.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Okay. What about this guy?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Ask yÃ¶urself, why has he got his hat pulled down like that?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- He's fuck ugly.
-- Or he doesn't want yÃ¶u to see his face.</font>
+Or he doesn't want yÃ¶u to see his face.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Because he's fuck ugly.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Okay, what's his story?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Oh, that's Lurch.
-- Go on.</font>
+Go on.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- He's a trolley boy at the local supermarket.
-- Good.</font>
+Good.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Real name, Michael Armstrong.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Dad says he's got a child's mind.
-- Okay.</font>
+Okay.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And lives up Summer Street with his mum and his sister.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And are they as big as he is?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Who?
-- The mum and the sister.</font>
+The mum and the sister.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Same person.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What shop were yÃ¶u thinking of?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sergeant Angel to the Manager's office.</font>
@@ -548,9 +548,9 @@ Maybe he's trying to hide something.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Please excuse me. Michael!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yarp.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Child vomit. Aisle six. Mop it up.
-- Yarp.</font>
+Yarp.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Mr. Skinner, is there a problem?
-- No, no, no, no.</font>
+No, no, no, no.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I simply wanted to say how lovely it is to see yÃ¶u supporting yÃ¶ur local store.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, that's quite all right.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">All too many have defected to the big Megamart in Buford Abbey.</font>
@@ -575,14 +575,14 @@ Built that monstrosity on Norris Avenue.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Morning, Sergeant.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u mothers.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Let's cut through here. Head him off.
-- Through the gardens?</font>
+Through the gardens?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What's the matter, Danny? yÃ¶u never taken a shortcut before.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hey, give me that!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"yÃ¶u do not have to say anything, however it may harm yÃ¶ur defense</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"if yÃ¶u fail to mention when questioned something yÃ¶u later rely on in court.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"Anything yÃ¶u do say can be given in evidence."</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Hi, Danny.
-- All right, Pete?</font>
+All right, Pete?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Do yÃ¶u know this man?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah, he's Auntie Jackie's sister's brother's boy.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And it didn't occur to yÃ¶u to mention this before?</font>
@@ -596,13 +596,13 @@ Peter be given a second chance</font>
 <font face="Microsoft Sans Serif" color="#ffff00">before he becomes just another crime statistic.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm sure he's going to learn a valuable lesson.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Stealing biscuits is wrong?
-- Correct.</font>
+Correct.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Thanks.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And yet we respond by not taking a single punitive measure?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, that's the way the cookie crumbles.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Like the biscuits, isn't it?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Mr. Skinner...
-- Is everything all right?</font>
+Is everything all right?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, sir, Mr. Skinner feels it would be better not to prosecute an individual</font>
 <font face="Microsoft Sans Serif" color="#ffff00">that has committed a blatant offense.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Leave this with me.</font>
@@ -610,7 +610,7 @@ Peter be given a second chance</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, no!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Twenty-seven.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Have yÃ¶u ever seen Point Break?
-- No.</font>
+No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Amazing bit in Point Break where they jump over fences.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Is there now? Twenty-nine.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Patrick Swayze's just robbed this bank and Keanu Reeves is chasing him</font>
@@ -624,7 +624,7 @@ Peter be given a second chance</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sorry, I... I just...
 I just feel like I'm missing out sometimes.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I wanna do what yÃ¶u do.
-- yÃ¶u do, do what I do.</font>
+yÃ¶u do, do what I do.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What on earth do yÃ¶u think yÃ¶u're missing out on?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Gun fights. Car chases.
 Proper action and shit.</font>
@@ -641,7 +641,7 @@ Proper action and shit.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm playing the eponymous hero, yÃ¶u see.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Romeo not Juliet.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What are yÃ¶u writing?
-- Everything yÃ¶u're saying.</font>
+Everything yÃ¶u're saying.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I might need to refer to it later.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Now, Officer, I am a respected solicitor so there's no need to...</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Just stop writing, will yÃ¶u?</font>
@@ -650,40 +650,40 @@ Proper action and shit.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Romeo and Juliet and yÃ¶u're late for the dress rehearsal.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u think this is sufficient reason to travel at 48 in a 30 zone?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Well, I...
-- To flout speed limits</font>
+To flout speed limits</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- specifically put in place to save lives.
-- Just, look, this is preposterous.</font>
+Just, look, this is preposterous.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- "Preposterous."
-- Look, just stop writing!</font>
+Look, just stop writing!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"Stop writing."</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Look, yÃ¶u're right, I apologize.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- See what I did there?
-- yÃ¶u hypnotized him.</font>
+yÃ¶u hypnotized him.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">No, I used this.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">This is the most important piece of equipment yÃ¶u will ever own.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">This notebook has saved my skin more times than I care to mention.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u should think about using yÃ¶urs more often.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I do use mine.
-- Show me.</font>
+Show me.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- That's just extraordinary.
-- yÃ¶u should see the one on the other side.</font>
+yÃ¶u should see the one on the other side.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What are yÃ¶u up to tonight?
-- I have to water my Peace Lily.</font>
+I have to water my Peace Lily.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Thought yÃ¶u might wanna do something.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What exactly were yÃ¶u thinking?
-- Don't know. Pub?</font>
+Don't know. Pub?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I don't think that's a good idea. Do yÃ¶u?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u two.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">A Mr. Blower left yÃ¶u tickets for Romeo and Juliet tonight.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Said it was by way of an apology.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Yeah?
-- Yeah.</font>
+Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, we can't accept gifts from somebody we've officially rebuked. So...</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Nicholas. Glad I caught yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Wondered if yÃ¶u wouldn't mind representing us at the am drams tonight.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Yes, sir, of course.
-- And there's a spare for Danny, too.</font>
+And there's a spare for Danny, too.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah! Hey, come on, it might be fun.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">A dateless bargain to engrossing death.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Here's to my love.</font>
@@ -695,7 +695,7 @@ Proper action and shit.</font>
 Quick word for the Sandford Citizen.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It was very enjoyable.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- "Cop Enjoys Watching yÃ¶ung Lovers"?
-- I don't think so.</font>
+I don't think so.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"Local Bobby Gives Thumbs Up
 To Teen Suicide"?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">That's just grossly inappropriate.</font>
@@ -715,14 +715,14 @@ This is Miss Draper. My leading lady.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Eve works in the local council, Sergeant.
 Quite the lady in the know.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I am not.
-- Nonsense.</font>
+Nonsense.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm sure if we bashed yÃ¶ur head in, all sorts of secrets would come tumbling out.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Romeo, Romeo, a pint of bitter for Romeo?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Thank yÃ¶u very much for coming, George.
 Excuse us.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">A pleasure, my liege.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Eve's nice, ain't she?
-- She certainly has a distinctive laugh.</font>
+She certainly has a distinctive laugh.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">She was in my year at school.
 Always had a thing for her.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">She clearly has a thing for older men.</font>
@@ -745,13 +745,13 @@ Always had a thing for her.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Who is it?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- ...decaffeinated?
-- Decaffeinated?</font>
+Decaffeinated?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Little Brian Libby found them, out on his paper round.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, he'll be having nightmares for a while.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Must have hit the sign at some speed.
 Took the whole top off.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I've had my top off in this lay-by.
-- Tits.</font>
+Tits.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Most likely lost control, left the road there and then ended up here.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">So, what do we reckon?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sergeant Angel?</font>
@@ -761,7 +761,7 @@ Took the whole top off.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Very good.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What he said.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What happened, Danny?
-- Car accident.</font>
+Car accident.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Nasty way to go.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Constable, official vocab guidelines state</font>
 <font face="Microsoft Sans Serif" color="#ffff00">we no longer refer to these incidents as "accidents," they're now "collisions."</font>
@@ -769,13 +769,13 @@ Took the whole top off.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"For never was there a story of more woe.
 Than this of Juliet and her Romeo."</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Excuse me?
-- Martin and Eve. Such a tragedy.</font>
+Martin and Eve. Such a tragedy.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Mr. Skinner, do yÃ¶u mind telling me</font>
 <font face="Microsoft Sans Serif" color="#ffff00">how yÃ¶u know the identity of the persons involved?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u know how it is. News travels fast.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">A love struck Romeo sings a streetsus serenade</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What happened, Danny?
-- Traffic collision.</font>
+Traffic collision.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hey, why can't we say "accident" again?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Because "accident" implies there's nobody to blame.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Put a sock in it, town mouse.</font>
@@ -798,7 +798,7 @@ Than this of Juliet and her Romeo."</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Here, what else yÃ¶u got,
 Crockett and Tubby?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Skid marks.
-- Now who's being childish?</font>
+Now who's being childish?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">There were no skid marks at the scene.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Doesn't it seem a little strange that
 Martin Blower would lose control of his car</font>
@@ -808,18 +808,18 @@ Martin Blower would lose control of his car</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u don't have to be a detective to work that out!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Are yÃ¶u causing trouble?
-- Yes, they are.</font>
+Yes, they are.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, a spot of bother up at Ellroy Farm.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Old Arthur Webley's been clipping hedgerows that don't belong to him.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Yes, sir?
-- That's it.</font>
+That's it.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yes, sir.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Why do we need the dog?
-- It's not the dog we need.</font>
+It's not the dog we need.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Right.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What did he say?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What did he say?
-- He said, "An 'edge is an 'edge.</font>
+He said, "An 'edge is an 'edge.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"He only chopped it down
 'cause it spoilt his view.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">"What's Reaper moaning about?"</font>
@@ -837,51 +837,51 @@ I trust yÃ¶u have a license for that firearm?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">By the power of Grey Skull.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Where on earth did yÃ¶u get these?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Found them.
-- He found them!</font>
+He found them!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- And what is this?
-- Sea mine.</font>
+Sea mine.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sea mine.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, Mr. Webley, this is an extremely dangerous collection.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's a wonder nobody's been hurt before.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">No, it's just a lot of junk.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Move, move, move!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u what?
-- No, apparently it's been deactivated. Over.</font>
+No, apparently it's been deactivated. Over.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">That's right, deactivated!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- It's not live.
-- It looks live.</font>
+It looks live.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">All right.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">That was quite an impressive haul today,
 Constable Butterman.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, yÃ¶u know, I mean, maybe we should do something to celebrate.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Unless yÃ¶u gotta water yÃ¶ur Peace Lily.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What exactly did yÃ¶u have in mind?
-- I don't know. Pub?</font>
+I don't know. Pub?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Right yÃ¶u are, my love.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yes, sirs, what can I get yÃ¶u?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Pint of lager, please, Roy.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And what can I get yÃ¶u that isn't a cranberry juice?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I don't really wanna get drunk.
-- yÃ¶u can get a little drunk.</font>
+yÃ¶u can get a little drunk.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Okay, I'll have one.
-- Yeah, that's what I'm talking about.</font>
+Yeah, that's what I'm talking about.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Mr. Porter, what's yÃ¶ur wine selection?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, we got red or white.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I'll have a pint of lager, please.
-- Yeah, Roy.</font>
+Yeah, Roy.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Any news from earlier?
-- Yeah. CSI found nothing.</font>
+Yeah. CSI found nothing.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Doctor Hatcher reported no misadventure and Mrs. Blower has four alibis.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Now, come on, Sergeant, it's not yÃ¶ur job to investigate this incident, is it?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Is it?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- No, it isn't.
-- No, it isn't.</font>
+No, it isn't.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u don't switch off, do yÃ¶u?
-- yÃ¶u sound like my ex.</font>
+yÃ¶u sound like my ex.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Well, yÃ¶u are always thinking away.
-- It's what I do.</font>
+It's what I do.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Don't get me wrong. I think it's amazing.
-- Really?</font>
+Really?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I mean, what made yÃ¶u wanna be a policeman?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Officer.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What made yÃ¶u wanna be a policeman-officer?</font>
@@ -907,23 +907,23 @@ I just let it rust.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It was from that moment,
 I was destined to be a police officer.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Shame.
-- How so?</font>
+How so?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I think yÃ¶u would've made a great muppet.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What about yÃ¶u? What made yÃ¶u wanna become a police officer?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I don't know. Dad does it.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I think after my mum died, it's what he wanted, yÃ¶u know, keep me close by.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Do yÃ¶u mind if I ask how she died?
-- Traffic collision.</font>
+Traffic collision.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm sorry.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Never mind. Hey, watch this.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Jesus Christ!
-- Oh, my eye!</font>
+Oh, my eye!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Ta-da!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hey, come on, silly bollocks, get them in.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- 777.
-- Mr. Skinner.</font>
+Mr. Skinner.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u know George Merchant, don't yÃ¶u?
-- Evening, Officer.</font>
+Evening, Officer.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yes, we were just discussing the accident.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'd come to know Martin and Eve very well of late.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Such a loss.</font>
@@ -932,11 +932,11 @@ I was destined to be a police officer.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Of course. Cheers.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I must go to the little boys' room.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I'm all right!
-- "Little" being the operative word.</font>
+"Little" being the operative word.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, he'll be in bits tomorrow.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I think somebody needs to go home.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I'm... I'm not that drunk, sir.
-- Not yÃ¶u. Him.</font>
+Not yÃ¶u. Him.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hey, we did get a little drunk.
 Did yÃ¶u get it?</font>
@@ -944,10 +944,10 @@ Did yÃ¶u get it?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, good grief.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's hardly in keeping with the village's rustic esthetic, is it?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- How much do I owe yÃ¶u?
-- Twenty quid.</font>
+Twenty quid.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">There yÃ¶u go.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- And there's yÃ¶ur change.
-- God bless yÃ¶u.</font>
+God bless yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Bye-bye.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm all right.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I would not wanna be him in the morning.</font>
@@ -955,30 +955,30 @@ Did yÃ¶u get it?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, I shall see yÃ¶u in the morning.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Unless yÃ¶u wanna come in for a cup of coffee?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I don't drink coffee.
-- Tea?</font>
+Tea?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">No caffeine after midday.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">How about another beer?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, dear.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- When did yÃ¶u move in?
-- About five years ago.</font>
+About five years ago.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u should get some house plants.
-- Oh, yeah, yeah.</font>
+Oh, yeah, yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah. I've been tending my Peace Lily for about three years now.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It oxygenates the room, helps yÃ¶u think, relieves stress.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Its needs are simple.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Janine used to say I love my Lily more than I loved her.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Is that why yÃ¶u split up?
-- What?</font>
+What?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- 'Cause yÃ¶u did it with a plant?
-- No, no, no.</font>
+No, no, no.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It was more about me being obsessed with the job.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">That's good though, right?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Is it though?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I did miss a few dinners. yÃ¶u know, parties, a birthday or two.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Listen, mate, I...
-- Her dad's funeral.</font>
+Her dad's funeral.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I just wanna be good at what I do.
-- yÃ¶u are good at what yÃ¶u do.</font>
+yÃ¶u are good at what yÃ¶u do.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u've just gotta learn to switch off that big old melon of yÃ¶urs.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">That's the whole problem, Danny.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I don't think I know how.</font>
@@ -1018,26 +1018,26 @@ I quite like a little midnight gobble.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Like in the films.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Something like, something out of Backdraft.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What are yÃ¶u thinking? Foul play?
-- Maybe.</font>
+Maybe.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">We're just hoping to talk to the last people to see Mr. Merchant alive.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Namely a Sergeant Knickerless Asswipe and a Constable Fanny Batterbum.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- That's us.
-- Why is this such a big joke to yÃ¶u?</font>
+Why is this such a big joke to yÃ¶u?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Three people have died in a week.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, come on, Doctor Sherlock, they were accidents.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">People have accidents every day.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- The victims knew each other.
-- Everyone knows everyone round here.</font>
+Everyone knows everyone round here.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah. If yÃ¶u didn't see anything suspicious, then who did?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's a bit of a blind spot, I'm afraid.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">We just catch the very edge of the explosion.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Nasty way to go.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- There was something took my eye.
-- Really? What's that?</font>
+Really? What's that?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sandford's most wanted.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">There yÃ¶u go. It was the swan all along.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- This is not funny, Detective!
-- Oh, give over, Miss Marples.</font>
+Oh, give over, Miss Marples.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah, yÃ¶u do yÃ¶ur job and we'll do ours, eh?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah. Haven't yÃ¶u got a church fete to look after?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">No, I have not!</font>
@@ -1063,7 +1063,7 @@ Leave Sergeant Angel alone, he's working.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Actually, Nicholas, yÃ¶u might as well take a break.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hey, great. I've got something to show yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- This is a rifle range.
-- yÃ¶u'll be really good at it.</font>
+yÃ¶u'll be really good at it.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Feeling lucky, Sergeant?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Three cans wins yÃ¶u the squeaky bunny, five cans gets yÃ¶u the floppy lion.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Take out all the little people, yÃ¶u get to waltz off with the cuddly monkey.</font>
@@ -1073,14 +1073,14 @@ Leave Sergeant Angel alone, he's working.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Dear Lord!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">That was amazing.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Thank yÃ¶u, Danny.
-- I can't believe I shot someone.</font>
+I can't believe I shot someone.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- He's a doctor, he can deal with it.
-- I never shot anyone before.</font>
+I never shot anyone before.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Danny, believe me, it's not something yÃ¶u ever get used to.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah. Maybe we should go on the bouncy castle.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Take our minds off of it.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Sergeant Angel, hi-hi.
-- Mr. Messenger.</font>
+Mr. Messenger.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I need to talk to yÃ¶u about George Merchant. Alone.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Churchyard. 3:00.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What do yÃ¶u think he wants?</font>
@@ -1090,7 +1090,7 @@ Sergeant Angel come to the stage, please?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Service.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sergeant Nicholas Angel.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Prick.
-- Wanker.</font>
+Wanker.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hello. Hello.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">The first name is Simon Skinner.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">He's in the loo.</font>
@@ -1103,7 +1103,7 @@ Sergeant Angel come to the stage, please?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Stand back, stand back!
 There's been a terrible accident.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Accident?
-- Just an accident.</font>
+Just an accident.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's all right, it's all right.
 There's nothing to see.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Come on, everybody. It's all right.
@@ -1112,25 +1112,25 @@ It's just an accident.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sir, I think all these deaths are linked.
 I think Tim Messenger was murdered.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Who could do something like this?
-- Maybe it was the swan.</font>
+Maybe it was the swan.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Apparently, they can break a man's arm.
-- Or blow up a man's house.</font>
+Or blow up a man's house.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Listen, yÃ¶u pair of...
-- Whoa, whoa, whoa, whoa, Nicholas.</font>
+Whoa, whoa, whoa, whoa, Nicholas.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Now, let me get this straight.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Are yÃ¶u saying that this is a crime scene?
-- Yes, sir, I am.</font>
+Yes, sir, I am.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Very well.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Detectives.
-- Sir.</font>
+Sir.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Start interviewing everyone who was at the fete.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, he's got shorts on.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Sergeant Fisher?
-- What?</font>
+What?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Secure the area.
-- What?</font>
+What?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- PC Thatcher?
-- Yes, love?</font>
+Yes, love?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Get the CSI down here.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">PC Walker?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Patrol the churchyard with Saxon.</font>
@@ -1143,7 +1143,7 @@ I think Tim Messenger was murdered.</font>
 Swings and roundabouts, isn't it?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Pain in the arse.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Did yÃ¶u find anything?
-- Yeah.</font>
+Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I was extremely shocked when I looked at my watch</font>
 <font face="Microsoft Sans Serif" color="#ffff00">and discovered that I should be in the pub.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Did yÃ¶u go to his house?
@@ -1156,100 +1156,100 @@ Not everyone's a murdering psychopath.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Did he mean me or that?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, maybe we should go home.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What do yÃ¶u mean?
-- Well, there's nothing going on, is there?</font>
+Well, there's nothing going on, is there?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Have yÃ¶u listened to anything that I've said?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What do yÃ¶u mean?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Is anything I've told yÃ¶u in the last two weeks</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- sunk into that thick skull of yÃ¶urs?
-- Yeah.</font>
+Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Has it? Like what?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u said I could be an amazing policeman-officer.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">There's always something going on, Danny.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And yÃ¶u won't be an amazing police officer until yÃ¶u understand that.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, I remembered something else yÃ¶u said and all.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Oh, did yÃ¶u now?
-- Yeah.</font>
+Yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u don't know how to switch off!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, if yÃ¶u wanna wade through every copy</font>
 <font face="Microsoft Sans Serif" color="#ffff00">of the Sandford bloody Citizen, be our guest.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Morning, Constable.
-- All right?</font>
+All right?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Thanks for the monkey.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶urs, isn't it?
-- I won it for yÃ¶u.</font>
+I won it for yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Danny, I think I'm on to something.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Are yÃ¶u?
-- Yes.</font>
+Yes.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And I think with a little deliberation we can figure out what links these deaths.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- We?
-- Come on, partner. Let's go to work.</font>
+Come on, partner. Let's go to work.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, oh, Sergeant Angel?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Someone from London called for yÃ¶u.
-- Tell them I'll call them back.</font>
+Tell them I'll call them back.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Tim Messenger.
-- Go.</font>
+Go.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Editor and journalist at The Sandford Citizen.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Fondness for puns.
-- Go on.</font>
+Go on.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Terrible speller.
-- Oh, yeah?</font>
+Oh, yeah?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Nevertheless had uncovered important information about...</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- George Merchant.
-- Self-made millionaire.</font>
+Self-made millionaire.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Fancied himself as a property developer.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Said he had big plans for Sandford.
-- Pissed on the floor in The Crown.</font>
+Pissed on the floor in The Crown.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">But more importantly, was a good friend and client of...</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Martin Blower.
-- Respected solicitor.</font>
+Respected solicitor.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Affirmatron.
-- Leading light of the local drama society.</font>
+Leading light of the local drama society.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Bad actor.
-- Undoubtedly.</font>
+Undoubtedly.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Bad driver.
-- Not necessarily.</font>
+Not necessarily.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Cheated on his missus.
-- Most certainly.</font>
+Most certainly.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- And we both know who with.
-- Eve Draper.</font>
+Eve Draper.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Blower's leading lady. Distinctive laugh.
-- True.</font>
+True.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Favored older men.
-- Fingered.</font>
+Fingered.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Worked at?
-- Council.</font>
+Council.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- More specifically?
-- Department of Planning and Development.</font>
+Department of Planning and Development.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Where George Merchant secured permission</font>
 <font face="Microsoft Sans Serif" color="#ffff00">to build his dubious mansion on Norris Avenue.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">So...</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Maybe they were all accidents.
 People have accidents every day.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What are yÃ¶u two up to?
-- Nothing.</font>
+Nothing.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, look sharp.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- There's been reports of a fire in the station.
-- What?</font>
+What?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Happy birthday to yÃ¶u</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Happy birthday to yÃ¶u</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Danny, why didn't yÃ¶u say something?
-- We were working, weren't we?</font>
+We were working, weren't we?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Hey, where are yÃ¶u going?
-- Personal errand.</font>
+Personal errand.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hello, Miss Tiller.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I was wondering, do yÃ¶u have any Japanese Peace Lilies?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Of course.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I was just about to pop off, actually.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I can never find my scissors.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Is this for someone special?
-- Yes. Yes, it is.</font>
+Yes. Yes, it is.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Are yÃ¶u going somewhere, Miss Tiller?
-- Yes. I'm moving away.</font>
+Yes. I'm moving away.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And why the move, if yÃ¶u don't mind me asking?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Well, just between yÃ¶u and I...
-- Yes?</font>
+Yes?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u know that fella who blew up?
-- George Merchant.</font>
+George Merchant.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, George Merchant, God rest him, wanted to buy this land,</font>
 <font face="Microsoft Sans Serif" color="#ffff00">so he sends round his legal fella,
 Martin Blower, God rest him,</font>
@@ -1281,15 +1281,15 @@ Cousin Sissy can go and fuck...</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u're saying this wasn't an accident?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Leslie Tiller was fucking murdered!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What, just like Tim Messenger?
-- Yes!</font>
+Yes!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- And George Merchant?
-- Yes!</font>
+Yes!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- And Eve Draper?
-- Yes!</font>
+Yes!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- And Martin Blower?
-- No, actually.</font>
+No, actually.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Really?
-- 'Course he fucking was!</font>
+'Course he fucking was!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Thank yÃ¶u, Danny.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, murder, murder, murder.
 Change the fucking record.</font>
@@ -1301,7 +1301,7 @@ Change the fucking record.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah, accidents happen all the time.
 What makes yÃ¶u think it was murder?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Because I was there!
-- There's a point.</font>
+There's a point.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Why were yÃ¶u there?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I was buying Constable Butterman a Japanese Peace Lily for his birthday.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What absolute horseshit.</font>
@@ -1314,12 +1314,12 @@ Innocent people don't run!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Maybe yÃ¶u did it.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah, seeing as how yÃ¶u're such a big fan of murder.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What the...
-- Sergeant Angel?</font>
+Sergeant Angel?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yes! Sir.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Nicholas, Nicholas, Nicholas.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What am I going to do with yÃ¶u?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Sir, yÃ¶u have to understand...
-- No, yÃ¶u have to understand.</font>
+No, yÃ¶u have to understand.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">The boys here aren't used to the concepts yÃ¶u're bandying about.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">The "M" word, Nicholas.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">There hasn't been a recorded murder in Sandford for 20 years.</font>
@@ -1337,7 +1337,7 @@ And to what do I owe this pleasure?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">of George Merchant on April 29th</font>
 <font face="Microsoft Sans Serif" color="#ffff00">and of Eve Draper and Martin Blower on April 28th.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Why on earth would I do that, Sergeant?
-- I'm glad yÃ¶u asked.</font>
+I'm glad yÃ¶u asked.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">My suspicions were first aroused when yÃ¶u appeared</font>
 <font face="Microsoft Sans Serif" color="#ffff00">at the scene of the Blower-Draper death, on the outskirts of Sandford,</font>
 <font face="Microsoft Sans Serif" color="#ffff00">despite the fact yÃ¶u live and work in the center of the village.</font>
@@ -1376,7 +1376,7 @@ And to what do I owe this pleasure?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm afraid my nickname of Sissy is only a revelation to yÃ¶urself.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">My teenage years studying ballet are well known.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Yeah, Sissy Skinner.
-- What a Gaylord.</font>
+What a Gaylord.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Thank yÃ¶u, Andrews.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Now, despite my comments about "beheading" customers,</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I personally relish the competition of another store.</font>
@@ -1406,7 +1406,7 @@ I could dislodge part of the church roof?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I can handle this, Danny.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u might as well go back and just enjoy the rest of yÃ¶ur birthday.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Did yÃ¶u really get me that plant?
-- Yes, I did.</font>
+Yes, I did.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">But it's been impounded as evidence.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, I mean, maybe Dad will still let me water it, eh?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah.</font>
@@ -1424,28 +1424,28 @@ How did it happen?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hey, look.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Look, Mr. Treacher's got his big coat on again.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u want anything from the shop?
-- Cornetto.</font>
+Cornetto.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- No luck catching them killers, then?
-- It's just the one killer, actually.</font>
+It's just the one killer, actually.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- No luck catching them killers, then?
-- It's just the one killer, actually.</font>
+It's just the one killer, actually.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- No luck catching them killers, then?
-- It's just the one killer, actually.</font>
+It's just the one killer, actually.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- No luck catching them killers, then?
-- It's just the one killer, actually.</font>
+It's just the one killer, actually.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What's the matter? yÃ¶u got brain-freeze?
-- No, I got brainwave.</font>
+No, I got brainwave.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Get us back to the station, now!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- It's more than one person.
-- Come again?</font>
+Come again?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- It's more than one killer.
-- It was Skinner a minute ago.</font>
+It was Skinner a minute ago.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah, well, maybe it still is.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u know, maybe he's... Maybe he's not alone. Maybe there are others.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Nicholas, yÃ¶u're an exceptional officer.
 But I've seen this before.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Sir?
-- Sergeant Popwell.</font>
+Sergeant Popwell.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It was exactly the same thing.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u've come from a city where there's danger round every corner,</font>
 <font face="Microsoft Sans Serif" color="#ffff00">and it's driven yÃ¶u round the bend.</font>
@@ -1458,7 +1458,7 @@ What's going on?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Nothing, nothing.
 I'm just gonna go back to the hotel.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I mean, do yÃ¶u want a lift?
-- No, no, I could do with a walk.</font>
+No, no, I could do with a walk.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hey, big one, playtime's over.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Michael?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Michael? Are yÃ¶u there?</font>
@@ -1479,11 +1479,11 @@ What happened to yÃ¶ur Peace Lily?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Danny. Danny, just stay here, okay?
 And watch him, and call yÃ¶ur dad.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Tell him I was right.
-- What are yÃ¶u gonna do?</font>
+What are yÃ¶u gonna do?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I'm gonna bust this thing wide open.
-- Nicholas, wait.</font>
+Nicholas, wait.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u might need this.
-- Thanks, partner.</font>
+Thanks, partner.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">How could I possibly be in several places at once?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">How could I possibly be in several places at once?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">How could I possibly be in several places at once?</font>
@@ -1501,7 +1501,7 @@ How did it happen?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Janet Barker has decided to call her boys Roger and Martin.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And the christening will be a week on Saturday and we're all invited.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Tom.
-- Thanks, Joyce.</font>
+Thanks, Joyce.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Now, yÃ¶u'll all be delighted to hear</font>
 <font face="Microsoft Sans Serif" color="#ffff00">that the tenacious Sergeant Angel has been taken care of.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Joyce will discover the Sergeant lying on the wet floor of his bathroom,</font>
@@ -1519,7 +1519,7 @@ Sandford Police Service.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, come, come, Sergeant.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u should be ashamed.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Calling yÃ¶urself a community that cares.
-- Oh, but we do care, Nicholas.</font>
+Oh, but we do care, Nicholas.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's all about the greater good.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">The greater good.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">How can this be for the greater good?</font>
@@ -1530,7 +1530,7 @@ Sandford Police Service.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Quite appalling.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u murdered him for that?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Well, he murdered Bill Shakespeare.
-- What?</font>
+What?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">The Dramatic Society is an important feather in our cap.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Couldn't let
 Blower jeopardize that.</font>
@@ -1544,7 +1544,7 @@ Blower jeopardize that.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, she did have a very annoying laugh.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Annoying.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- And, and George Merchant?
-- He had an awful house.</font>
+He had an awful house.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Awful.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">We begged him in vain to make his residence</font>
 <font face="Microsoft Sans Serif" color="#ffff00">more in keeping with the village's rustic esthetic.</font>
@@ -1554,7 +1554,7 @@ What was his crime?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Our once great paper had become riddled with tabloid journalism.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Not to mention persistent errors.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- He listed her age as 55.
-- When, actually, I'm 53.</font>
+When, actually, I'm 53.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Fifty-three.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What, what about Leslie Tiller?
 One of yÃ¶ur own?</font>
@@ -1567,7 +1567,7 @@ One of yÃ¶ur own?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">If we can't have her, no one can.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">How can this be for the greater good?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- The greater good.
-- Shut it!</font>
+Shut it!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">These people died for no reason.
 No reason whatsoever!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Oh, I wouldn't say that.</font>
@@ -1595,7 +1595,7 @@ We had to get everything ready.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Are yÃ¶u saying this is all about winning the Best Village Award?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">This is the best village, Nicholas. yÃ¶u've seen the people.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- They're happy, contented.
-- They're living in a dream world.</font>
+They're living in a dream world.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sergeant Popwell thought much the same as yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm disappointed yÃ¶u can't see the bigger picture.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, I'm happy to disappoint yÃ¶u, sir.</font>
@@ -1624,28 +1624,28 @@ We had to get everything ready.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Danny!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Ta-da.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What are yÃ¶u doing?
-- Saving yÃ¶ur skin.</font>
+Saving yÃ¶ur skin.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- This is murder!
-- It's not, it's ketchup.</font>
+It's not, it's ketchup.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm not talking about that,
 I'm talking about the others.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What others?
-- The others the NWA have murdered.</font>
+The others the NWA have murdered.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- That's not true.
-- It is!</font>
+It is!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Dad just said it was his special club, he...</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I thought it was about rapping people on the knuckles</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- and sending them on their way.
-- There are skeletons back there!</font>
+There are skeletons back there!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I don't know nothing about no skelingtons.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What did yÃ¶u think was happening?
-- Not this!</font>
+Not this!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's Frank.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">He's appointed himself judge, jury and executioner.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- He's not Judge Judy and executioner.
-- He is!</font>
+He is!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u've gotta help me take him down.
-- I can't.</font>
+I can't.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">He's my dad. Take my car.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Go back to London.
 There's nothing yÃ¶u can do.</font>
@@ -1661,7 +1661,7 @@ Who are they gonna believe?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Is that everything? Sir?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sir? Sir?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Is there anything I can do for yÃ¶u?
-- No.</font>
+No.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">This is something I have to do myself.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Another beautiful day in God's country.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Danny?</font>
@@ -1674,14 +1674,14 @@ Who are they gonna believe?</font>
 Someone from London called for yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'll tell them yÃ¶u'll ring them back.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Well, that's funny.
-- What's that?</font>
+What's that?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I didn't know we had a mounted division.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Nobody tells me nothing.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Wanna do something useful?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Annette, that Sergeant Angel's back. Check out his horse.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Roger that!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- It's...
-- Angel.</font>
+Angel.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Morning.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">That's what I'm talking about.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Still feel like yÃ¶u're missing out?</font>
@@ -1700,7 +1700,7 @@ Someone from London called for yÃ¶u.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I thought yÃ¶u was a goner.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Drop yÃ¶ur weapons!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Dr. Hatcher, no!
-- Shut up, Danny.</font>
+Shut up, Danny.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I brought yÃ¶u into this world,
 I think it's rather fitting</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I should be the one to take yÃ¶u out of it.</font>
@@ -1708,20 +1708,20 @@ I think it's rather fitting</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Now...</font>
 <font face="Microsoft Sans Serif" color="#ffff00">drop them.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u're a doctor, deal with it.
-- Yeah, motherfucker.</font>
+Yeah, motherfucker.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Danny, let's roll.
-- What yÃ¶u thinking?</font>
+What yÃ¶u thinking?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Pub?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Roy!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Somebody call the police!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Freeze!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Officers, arrest that man.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Danny, step away from the Sergeant.
-- No, Dad.</font>
+No, Dad.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Danny, yÃ¶u'll do as yÃ¶u're told.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I'm not taking orders from yÃ¶u anymore.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Officers, arrest these men!
-- Wait, wait!</font>
+Wait, wait!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u can arrest us if yÃ¶u like.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u can throw us in prison and go back to being blind, submissive slaves.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Or yÃ¶u can be real police officers,</font>
@@ -1730,15 +1730,15 @@ I think it's rather fitting</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Fuck are yÃ¶u on about?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Have yÃ¶u ever wondered why the crime rate in Sandford is so low?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- And yet the accident rate, it's so high?
-- No. Yeah. What?</font>
+No. Yeah. What?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u've been brainwashed, Tony.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Brainwashed into naivety by an old man with a murderous obsession.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- This is ridiculous.
-- No, it's not, Dad. It's very unridiculous.</font>
+No, it's not, Dad. It's very unridiculous.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And it's only now that I'm starting to realize how unridiculous it all is.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Silence, Danny!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Think of yÃ¶ur mother.
-- Mum is dead, Dad.</font>
+Mum is dead, Dad.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">For the first time in my life, yÃ¶u know, I'm glad.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">If she could see what yÃ¶u've become,</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I think she'd probably kill herself all over again.</font>
@@ -1759,10 +1759,10 @@ I think it's rather fitting</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Fair enough.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Officers, let's go.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What about Dad?
-- He'll come round again.</font>
+He'll come round again.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Want anything from the shop?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What yÃ¶u thinking?
-- Well...</font>
+Well...</font>
 <font face="Microsoft Sans Serif" color="#ffff00">We should strike now, while we've got the element of surprise.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Longer we wait, more time they've got to mobilize.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I say we go in through the front entrance, take the place aisle by aisle.</font>
@@ -1770,9 +1770,9 @@ I think it's rather fitting</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Very good. What he said.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">My, my. Here come the fuzz.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Maybe they're not here.
-- Wait here.</font>
+Wait here.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Don't go in on yÃ¶ur own.
-- Don't worry, he knows what he's doing.</font>
+Don't worry, he knows what he's doing.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Okay. They're in.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u deal with the store.
 I'll deal with the trolley boy.</font>
@@ -1785,36 +1785,36 @@ I'll deal with the trolley boy.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Andy!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's all right, Andy. It's just Bolognese!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- How's Lurch?
-- He's in the freezer.</font>
+He's in the freezer.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Did yÃ¶u say, "Cool off"?
-- No, I didn't say anything, actually.</font>
+No, I didn't say anything, actually.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Shame.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">There was a bit earlier on that yÃ¶u missed</font>
 <font face="Microsoft Sans Serif" color="#ffff00">when I distracted him with the cuddly monkey.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">And then I said, "Playtime's over," and I hit him with the Peace Lily.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">yÃ¶u're off the fucking chain!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What's the situation?
-- Two blokes and a fuckload of cutlery.</font>
+Two blokes and a fuckload of cutlery.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">What do yÃ¶u reckon?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Idea.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Good work, everyone.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Nice one, Doris.
-- Nothing like a bit of girl on girl.</font>
+Nothing like a bit of girl on girl.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Fruit attack!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Can yÃ¶u handle this, Sergeant Fisher?
 We're gonna go after the big boss.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">We're on it, Sergeant.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Danny, let's rock.
-- Angel!</font>
+Angel!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Don't go being a twat now.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I wouldn't give yÃ¶u the satisfaction.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- We should get down there.
-- How?</font>
+How?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Skip.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Head them off?
-- Fuck, yeah.</font>
+Fuck, yeah.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- I'll drive.
-- Shotgun! Punch that shit!</font>
+Shotgun! Punch that shit!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Bang! Bang!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Swan!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Swan!</font>
@@ -1823,9 +1823,9 @@ We're gonna go after the big boss.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Get out of my village!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's not yÃ¶ur village anymore.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- yÃ¶u did good, kid.
-- Ta.</font>
+Ta.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- What's yÃ¶ur name?
-- Aaron A. Aaronson.</font>
+Aaron A. Aaronson.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sorry?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Angel!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">It's over, Danny.</font>
@@ -1837,7 +1837,7 @@ There's plenty of ice-cream at the station.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Isn't that right, Danny?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Stay back!</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Pack it in, Frank, yÃ¶u silly bastard!
-- Now, now.</font>
+Now, now.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">We don't want any more bloodshed.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Frank, this whole thing started because yÃ¶u lost somebody yÃ¶u loved.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Don't expect me to believe yÃ¶u'd let it end the same way.</font>
@@ -1850,7 +1850,7 @@ There's plenty of ice-cream at the station.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">We... We...
 We have been trying to reach yÃ¶u for days.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Yeah, well, I've been kind of busy.
-- We need yÃ¶u back.</font>
+We need yÃ¶u back.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">The figures have gone a little squiffy in yÃ¶ur absence, it has to be said.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Come back to London.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sandford's hardly a fitting place for such an exceptional officer.</font>
@@ -1858,7 +1858,7 @@ We have been trying to reach yÃ¶u for days.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">I kind of like it here.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Besides, we have to do a considerable amount of paperwork.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Fuck's sake, Nick, this is gonna take ages.
-- Yeah, it's gonna take all night.</font>
+Yeah, it's gonna take all night.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, good job we've got the manpower, Andy?</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Well, official vocab guidelines state that we say "staffing," not "manpower,"</font>
 <font face="Microsoft Sans Serif" color="#ffff00">'cause "manpower's" a bit sexist.</font>
@@ -1884,11 +1884,11 @@ It's gonna be fine.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Hope these are okay.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Yeah. They're lovely.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Any officers near the church?
-- Go ahead, Doris.</font>
+Go ahead, Doris.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Chief, we've had a report of some hippy types</font>
 <font face="Microsoft Sans Serif" color="#ffff00">messing with the recycling bins at the supermarket.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">- Leave it with us.
-- Righto.</font>
+Righto.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Sergeant Butterman, little hand says it's time to rock and roll.</font>
 <font face="Microsoft Sans Serif" color="#ffff00">Bring the noise.</font>
 <font color="#F783E0">"</font><font color="#F189E1">H</font><font color="#EB8FE2">o</font><font color="#E595E4">p</font><font color="#DF9BE5">e</font><font color="#D8A1E6"> </font><font color="#D2A7E7">Y</font><font color="#CCADE8">o</font><font color="#C6B3EA">u</font><font color="#C0B9EB">'</font><font color="#BABEEC">v</font><font color="#B4C4ED">e</font><font color="#AECAEF"> </font><font color="#A8D0F0">L</font><font color="#A2D6F1">i</font><font color="#9BDCF2">k</font><font color="#95E2F3">e</font><font color="#8FE8F5">d</font><font color="#89EEF6"> </font><font color="#83F4F7">&</font><font color="#83F4F0"> </font><font color="#83F5EA">E</font><font color="#83F5E3">n</font><font color="#82F6DC">j</font><font color="#82F6D5">o</font><font color="#82F7CF">y</font><font color="#82F7C8">e</font><font color="#82F7C1">d</font><font color="#82F8BA"> </font><font color="#81F8B4">T</font><font color="#81F9AD">h</font><font color="#81F9A6">e</font><font color="#81F99F"> </font><font color="#81FA99">M</font><font color="#81FA92">o</font><font color="#80FB8B">v</font><font color="#80FB84">i</font><font color="#80FC7E">e</font><font color="#80FC77">"</font>

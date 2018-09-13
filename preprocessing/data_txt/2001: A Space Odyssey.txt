@@ -1,29 +1,29 @@
 Here you are, sir. Main level, please.
 Right. See you on the way back.
-- Bye.
-- Bye.
-- Good morning, sir.
-- Good morning.
+Bye.
+Bye.
+Good morning, sir.
+Good morning.
 We haven't seen you up here for a long time.
 No. Very nice to see you again.
-- Did you have a pleasant flight, sir?
-- Yes, very nice, thanks.
+Did you have a pleasant flight, sir?
+Yes, very nice, thanks.
 I think Mr. Miller of Station
 Security is supposed to be meeting me.
 May I call him for you?
 Would you, please? Here he is!
-- Hello, Dr. Floyd.
-- Hello, Miller! How are you?
-- Sorry I'm late.
-- That's all right. You look great.
+Hello, Dr. Floyd.
+Hello, Miller! How are you?
+Sorry I'm late.
+That's all right. You look great.
 Thank you. It's nice to have you back.
-- Did you have a good flight?
-- Very nice indeed.
-- Well, shall we go through?
-- Okay.
+Did you have a good flight?
+Very nice indeed.
+Well, shall we go through?
+Okay.
 Will you please use Number 17?
-- Thank you, Miss Turner.
-- Thank you.
+Thank you, Miss Turner.
+Thank you.
 This way.
 Welcome to Voice Print Identification.
 When you see the red light go on...
@@ -40,22 +40,22 @@ I've reserved a table for you in the Earthlight Room.
 It's been about seven or eight months since you were here last, isn't it?
 Let's see. Yeah, about eight months.
 I suppose you saw the work on the new section when you came in here?
-- Yes, coming along great, huh?
-- Yeah, it's fine.
+Yes, coming along great, huh?
+Yeah, it's fine.
 Oh, wait a minute!
 I've got a few calls to make.
 I'll meet you in the restaurant.
 Will Mr. Travers please contact the Met Office?
 Will Mr. Travers please contact the Met Office?
 Yes?
-- How are you, squirt?
-- All right.
+How are you, squirt?
+All right.
 What are you doin'?
 Playing.
 Where's Mommy?
 Gone to shopping.
-- Well, who's taking care of ya?
-- Rachel.
+Well, who's taking care of ya?
+Rachel.
 May I speak to Rachel, please?
 She's gone to the bathroom.
 Are you coming to my party tomorrow?
@@ -65,21 +65,21 @@ Well, you know, Daddy's traveling.
 Very sorry about it, but I just can't!
 I'm gonna send you a very nice present, though.
 All right.
-- Anything special that you want?
-- Yes.
+Anything special that you want?
+Yes.
 What?
 A telephone.
 We've got lots of telephones already.
 Can't you think of anything else you want for your birthday?
 Something very special?
-- Yes.
-- What?
+Yes.
+What?
 A bush baby.
 A bush baby? Well, we'll have to see about that.
 I want you to tell
 Mommy something for me.
-- Will you remember?
-- Yes.
+Will you remember?
+Yes.
 Well, tell Mommy that
 I telephoned. Okay?
 Yes.
@@ -95,29 +95,29 @@ All right. Bye-bye!
 Bye-bye! Happy birthday.
 Elena, how nice to see you again.
 What a wonderful surprise to meet you here!
-- You're looking wonderful.
-- Thank you. You're looking well, too.
+You're looking wonderful.
+Thank you. You're looking well, too.
 This is my good friend,
 Dr. Heywood Floyd.
-- I'd like you to meet Dr. Kalinan.
-- How do you do?
-- Dr. Stretyneva.
-- How do you do?
+I'd like you to meet Dr. Kalinan.
+How do you do?
+Dr. Stretyneva.
+How do you do?
 And this is Dr. Andrei Smyslov.
 How do you do? I've heard a lot about you.
 Won't you sit down?
-- Well, we- -
+Well, we- -
 No, no, please.
 Well, thank you.
-- Would you like a drink, Doctor?
-- No, thank you.
+Would you like a drink, Doctor?
+No, thank you.
 I haven't had breakfast yet.
 Someone's meeting me in the restaurant.
 I'll just sit with you a few minutes and then I must be off.
-- Are you quite sure?
-- I'm quite sure, thank you.
-- And how's Gregor?
-- He's fine.
+Are you quite sure?
+I'm quite sure, thank you.
+And how's Gregor?
+He's fine.
 He's been doing some underwater research in the Baltic so...
 ...I'm afraid we don't get a chance to see very much of each other these days.
 When you do see him, give him my regards, huh?
@@ -125,8 +125,8 @@ Yes, of course.
 Well, where are you all off to? Up or down?
 Oh, we're going home.
 We have just spent three months calibrating the new antennae at Tchalinko.
-- And what about you?
-- I'm just on my way up to Clavius.
+And what about you?
+I'm just on my way up to Clavius.
 Oh, are you?
 Dr. Floyd, I hope you don't think
 I'm being too inquisitive, but...
@@ -135,8 +135,8 @@ I'm being too inquisitive, but...
 I'm afraid I don't know what you mean.
 Oh, it's just that for the past two weeks...
 ...some extremely odd things have been happening at Clavius.
-- Oh, really?
-- Yes, yes.
+Oh, really?
+Yes, yes.
 For one thing, whenever you phone the base all you get is a recording which...
 ...repeats that the phone lines are temporarily out of order.
 Probably having some trouble with their equipment or something like that.
@@ -152,8 +152,8 @@ That does sound odd.
 Yes, yes. I'm afraid there's going to be a bit of a row about that.
 Denying the men permission to land is a direct violation of the I.A.S. Convention.
 Yes, of course. Of course.
-- Did the crew get back all right?
-- Yes, fortunately they did.
+Did the crew get back all right?
+Yes, fortunately they did.
 Well, I'm glad about that.
 At the risk of pressing you on a point you seem reticent to discuss...
 ...may I ask you a straightforward question?
@@ -244,18 +244,18 @@ Are there any more questions?
 I'm sure we all want to cooperate with Dr. Floyd as fully as possible...
 ...and as there seems to be no more questions...
 ...I think we ought to get on with the briefing.
-- Thank you, Dr. Floyd.
-- Thank you.
+Thank you, Dr. Floyd.
+Thank you.
 Anybody hungry?
-- What we've got?
-- You name it.
-- What's this? Chicken?
-- Something like that.
+What we've got?
+You name it.
+What's this? Chicken?
+Something like that.
 Tastes the same, anyway.
 Any ham?
 Ham, ham, ham...
-- Looks pretty good.
-- They're getting better at it all the time.
+Looks pretty good.
+They're getting better at it all the time.
 That was an excellent speech you gave us, Heywood.
 It certainly was.
 I'm sure it beefed up morale a hell of a lot.
@@ -281,8 +281,8 @@ And what's more, the evidence seems pretty conclusive that...
 It seems to have been deliberately buried.
 Deliberately buried.
 How about a little coffee?
-- Great.
-- Good idea.
+Great.
+Good idea.
 I don't suppose you have any idea what the damn thing is, huh?
 I wish to hell we did.
 No, the only thing we're sure of is it was buried four million years ago.
@@ -312,8 +312,8 @@ How is everything going?
 Marvellous. We have no... we have no complaints.
 Well, I'm very glad to hear that and I'm sure that the entire world...
 ...would join me in wishing you a safe and successful voyage.
-- Thanks very much.
-- Thank you.
+Thanks very much.
+Thank you.
 Although hibernation has been used on previous space efforts...
 ...this is the first time that men have been put into hibernation before departure.
 Why was this done?
@@ -384,8 +384,8 @@ We've got the transmission from your parents coming in.
 Put it on here, please.
 Take me in a bit.
 Certainly.
-- Hello, Frank.
-- Happy birthday, darling.
+Hello, Frank.
+Happy birthday, darling.
 Happy birthday. Many happy returns of the day.
 A bit higher, please.
 Now, Mother and I are both feeling wonderful, too.
@@ -414,8 +414,8 @@ I talked to the Accounting
 Office in Houston yesterday...
 ...and they said you should be receiving your higher rates of pay by next month.
 Well, I can't think of anything else to say.
-- Oh, our love to Dave.
-- Be sure to give him our best regards.
+Oh, our love to Dave.
+Be sure to give him our best regards.
 We wish you the very happiest of birthdays.
 All the best, son.
 See you next Wednesday.
@@ -431,18 +431,18 @@ Knight takes bishop. Mate.
 Looks like you're right. Very good.
 Thank you for a very enjoyable game.
 Thank you.
-- Good evening, Dave.
-- How are you doing, Hal?
-- Everything's running smoothly. And you?
-- Oh, not too bad.
-- Have you been doing some more work?
-- A few sketches.
-- May I see them?
-- Sure.
+Good evening, Dave.
+How are you doing, Hal?
+Everything's running smoothly. And you?
+Oh, not too bad.
+Have you been doing some more work?
+A few sketches.
+May I see them?
+Sure.
 That's a very nice rendering, Dave.
 I think you've improved a great deal.
-- Can you hold it a bit closer?
-- Sure.
+Can you hold it a bit closer?
+Sure.
 That's Dr. Hunter, isn't it?
 By the way...
 Do you mind if I ask you a personal question?
@@ -478,8 +478,8 @@ Just a moment.
 Just a moment.
 I have just picked up a fault in the AE-35 unit.
 It's going to go 100percent failure within 72hours.
-- You are still within operational limits?
-- Yes.
+You are still within operational limits?
+Yes.
 And it will stay that way until it fails.
 Would you say we had a reliable 72 hours until failure?
 Yes. That's a completely reliable figure.
@@ -487,7 +487,7 @@ We'll have to bring it in, but I'd like to go over this with Frank...
 ...and get on to Mission Control.
 Let me have a hard copy of it, please.
 X
-- Ray Delta One, this is Mission Control.
+Ray Delta One, this is Mission Control.
 Roger to your
 Two-zero-one-three.
 Sorry you fellows are having a bit of trouble.
@@ -506,7 +506,7 @@ It should then be a simple matter to track down the cause.
 We can certainly afford to be out of communication...
 ...for the short time it will take to replace it.
 X
-- Ray Delta One, this is Mission Control.
+Ray Delta One, this is Mission Control.
 Roger your
 One-niner-three-zero.
 We concur with your plan to replace
@@ -524,14 +524,14 @@ We are sceptical ourselves and we are running crosschecking routines...
 Sorry about this little snag, fellows.
 We'll get this info to you just as soon as we work it out.
 X
-- Ray Delta One, this is Mission Control.
+Ray Delta One, this is Mission Control.
 Two-zero-four-nine.
 Transmission concluded.
 I hope the two of you are not concerned about this.
 No, I'm not, Hal.
 Are you quite sure?
-- Yeah. I'd like to ask you a question.
-- Of course.
+Yeah. I'd like to ask you a question.
+Of course.
 How would you account for the discrepancy...
 ...between you and the twin 9000?
 Well, I don't think there is any question about it.
@@ -567,10 +567,10 @@ I don't think he can hear us.
 Rotate the pod, please, Hal!
 Yeah, sure, we're okay.
 What do you think?
-- I'm not sure. What do you think?
-- I've got a bad feeling about it.
-- You do?
-- Yeah. Definitely.
+I'm not sure. What do you think?
+I've got a bad feeling about it.
+You do?
+Yeah. Definitely.
 Don't you?
 I don't know. I think so.
 Of course, he's right about the 9000
@@ -583,24 +583,24 @@ If he were wrong it would be the surest way of proving it.
 It would be if he knew he was wrong.
 Look, Dave, I can't put my finger on it, but I sense something strange about him.
 I can't think of a good reason not to put back the Number One unit and...
-- ... carry on with the failure mode analysis.
-- No, no, I agree about that.
+... carry on with the failure mode analysis.
+No, no, I agree about that.
 Let's get on with it.
 Okay. But, look, Dave.
 Let's say we put the unit back and it doesn't fail, huh?
 That would pretty well wrap it up as far as Hal was concerned, wouldn't it?
-- Well, we'd be in very serious trouble.
-- We would, wouldn't we?
+Well, we'd be in very serious trouble.
+We would, wouldn't we?
 What the hell can we do?
-- We wouldn't have too many alternatives.
-- I don't think we'd have any alternatives.
+We wouldn't have too many alternatives.
+I don't think we'd have any alternatives.
 There isn't a single aspect of ship operation that's not under his control.
 If he were proved to be malfunctioning...
 ...I don't see how we would have any choice but disconnection.
 I'm afraid I agree with you.
 There'd be nothing else to do.
-- It'd be a bit tricky.
-- Yeah.
+It'd be a bit tricky.
+Yeah.
 We'd have to cut his higher brain functions...
 ...without disturbing the purely automatic and regulatory systems.
 We'd have to work out the transfer procedures...
@@ -614,8 +614,8 @@ I'm not so sure what he'd think about it.
 Prepare B pod for EVA, Hal.
 Made radio contact with him yet?
 The radio is still dead.
-- Do you have a positive track on him?
-- Yes. I have a good track.
+Do you have a positive track on him?
+Yes. I have a good track.
 Do you know what happened?
 I'm sorry, Dave. I don't have enough information.
 Open the pod door, Hal.

@@ -63,17 +63,17 @@ Hey. Hey, hey-
 Don't play me the fool.
 Gas, fuel, gasoline!
 Thousands of gallons of it!
-- As much as you want!
-- Where? Where?
+As much as you want!
+Where? Where?
 Twenty miles from here.
 Pumping it, they are. Refining!
-- A huge tanker full.
-- Crap.
+A huge tanker full.
+Crap.
 No. No, no, no, it's true! It's true.
 It's not self-service, no, no.
 It's too hard for me.
-- But a man of your ingenuity...
-- Where? Where? Where?
+But a man of your ingenuity...
+Where? Where? Where?
 Kill me and you'll never find out.
 Good dog. Nice doggy, eh?
 Good doggy.
@@ -102,8 +102,8 @@ If anyone's gonna get in there, it's gonna be you.
 Me, I'm gonna feed the snakes.
 A man lives by his word, I reckon, and I've kept mine, eh?
 Look, we had a deal. I show you the gas and you let me go, right?
-- The arrangement was I wouldn't kill you.
-- After all I've done for you...
+The arrangement was I wouldn't kill you.
+After all I've done for you...
 I reckon you got a bargain, don't you?
 <i>Attack, my vermin, attack!</i>
 <i>Onward! Bring me the fuel.
@@ -124,8 +124,8 @@ Steady now.
 Take it real easy.
 That's as far as you go.
 Turn around.
-- Nathan! Nathan! It's Nathan!
-- Hurry, get the stretcher!
+Nathan! Nathan! It's Nathan!
+Hurry, get the stretcher!
 Lose them.
 Open the gate.
 Hurry up with that damned stretcher.
@@ -158,8 +158,8 @@ There were three other vehicles.
 Did you see them?
 They're heading to the southwest in heaps of trouble.
 He said if I brought him back, you'd give me some gas.
-- Now, there's not much time.
-- There was a woman in the car.
+Now, there's not much time.
+There was a woman in the car.
 She's dead.
 What did they do?
 It was quick. I just want my gas,
@@ -168,14 +168,14 @@ For all we know, he's one of them.
 Give him nothing.
 She's right, he's a parasite.
 Trading in human flesh. Mercenary trash.
-- We had an arrangement.
-- What do you mean, an arrangement?
+We had an arrangement.
+What do you mean, an arrangement?
 You talk to this man.
 No, no. Try something. Try something.
 If you had a contract, it was with him.
 And it died with him.
-- Get rid of him.
-- Move it.
+Get rid of him.
+Move it.
 Left!
 Left.
 Gotta hand it to you, treasure.
@@ -194,15 +194,15 @@ The Warrior of the Wasteland!
 The Ayatollah of Rock 'n' Roll-ah!
 I am gravely disappointed.
 Again you have made me unleash my dogs of war.
-- Look at what remains...
-- Help!
+Look at what remains...
+Help!
 -...Of your gallant scouts.
-- Kill him now...
-- Why? Because you're selfish.
+Kill him now...
+Why? Because you're selfish.
 -...while you've got the chance.
 You hoard your gasoline.
-- You will not listen to reason.
-- Don't listen to him!
+You will not listen to reason.
+Don't listen to him!
 Now, my prisoners say...
 ...you plan to take your gasoline out of the wasteland.
 You sent them out this morning to find a vehicle.
@@ -312,8 +312,8 @@ You know what I miss most of all?
 Clean women.
 Nail polish, perfume...
 ...the smell of bicycle seats, cocktails...
-- Shut up.
-- Desserts.
+Shut up.
+Desserts.
 Lingerie. Remember lingerie?
 I knew it. I knew it'd work.
 Lethal. Lethal, these snakes. Born killers.
@@ -336,8 +336,8 @@ All this time.
 That's dishonest. Low.
 Let's have a look at this machine of yours.
 How do I know that one's not a dud?
-- Find out.
-- Cool. Cool, cool.
+Find out.
+Cool. Cool, cool.
 Now, you've gotta understand the basics of aerodynamics in a thing like this.
 Shut up. Shut up.
 What about me, eh?
@@ -375,20 +375,20 @@ A cracked timing case cover.
 It's broken some teeth off the timing gears.
 It's got a cracked timing case cover.
 It's broken a couple of teeth off the timing gears.
-- The radiator's damaged at the core.
-- The radiator's damaged at the core.
-- A cracked water pump.
-- It's got a cracked water pump.
-- And a fractured injector line.
-- And it's got a fractured injector line.
-- Well, what does all that mean?
-- Yeah, okay, but what does that mean?
-- What does that mean?
-- Twenty-four hours.
+The radiator's damaged at the core.
+The radiator's damaged at the core.
+A cracked water pump.
+It's got a cracked water pump.
+And a fractured injector line.
+And it's got a fractured injector line.
+Well, what does all that mean?
+Yeah, okay, but what does that mean?
+What does that mean?
+Twenty-four hours.
 Twenty-four hours.
 They've got 12.
-- You've got 12.
-- Okay.
+You've got 12.
+Okay.
 Okay.
 Let's get him down. Quick, come on.
 Listen, I was wrong about you...
@@ -422,8 +422,8 @@ It just seems really wrong, sneaking away like this.
 But you said you wanted to come, sweetheart.
 I know I did, but...
 Look, you're scared. Now, come on, it'll be much safer up there.
-- What are we waiting for, eh?
-- No,don%.
+What are we waiting for, eh?
+No,don%.
 This is my family.
 I'm not gonna leave these people.
 I'm staying.
@@ -517,8 +517,8 @@ That's our rendezvous.
 Give us till sunset.
 If we haven't made it by then, keep going.
 Good enough for me to build, but not to ride on?
-- You are not coming on this tanker!
-- I sweated blood on this...
+You are not coming on this tanker!
+I sweated blood on this...
 ...and no bastard's gonna tell me to ride in no school bus!
 Okay, settle down!
 If it's all the same to you...

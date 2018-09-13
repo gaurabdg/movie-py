@@ -70,13 +70,13 @@ The numbers story. It feels thin.
 Oh, you got Cahill to talk?
 No, but I will.
 Good. Then we'll know if it's thin.
-- How'd it go upstairs?
-- Oh, okay.
-- Robby gave a good speech.
-- Sure he did.
+How'd it go upstairs?
+Oh, okay.
+Robby gave a good speech.
+Sure he did.
 I heard Lubin and Connor are going to the <i>Times.</i>
-- Come on, really?
-- Yeah, I heard that.
+Come on, really?
+Yeah, I heard that.
 They're leeching us.
 Well, at least they're sending us a guy from Miami to run things.
 That should help.
@@ -276,8 +276,8 @@ That's great.
 Didn't we cover Geoghan?
 Yeah, there's a lawyer alleging
 Cardinal Law knew about it.
-- Mmm. Mitch Garabedian, right?
-- Yeah.
+Mmm. Mitch Garabedian, right?
+Yeah.
 I covered him at the courthouse.
 Can you get to him?
 I only interviewed him once.
@@ -487,8 +487,8 @@ Kurkjian did a story on him right after the Porter case.
 There's a victims' organization?
 Yeah, it's called SNAP.
 It's Survivors Network of those Abused by Priests.
-- Crummy acronym.
-- Hmm.
+Crummy acronym.
+Hmm.
 You want me to track him down?
 Yeah. Bring him in.
 How much longer you need to get through the clips?
@@ -561,8 +561,8 @@ Stay away from that trap.
 You couldn't reach that trap in a million years, partner.
 I've reached that trap before.
 Yeah? Now Paul, maybe.
-- How we doing?
-- We're good.
+How we doing?
+We're good.
 We're two up in the front.
 Good.
 How's that new editor working out?
@@ -828,8 +828,8 @@ About an hour.
 Um, would you mind if I took some notes?
 Would that be all right?
 You don't mind if I take some notes, do you?
-- Are you going to use my name?
-- No.
+Are you going to use my name?
+No.
 Not if you don't want me to. No.
 I just had a kid.
 He's only one, but I'm not sure
@@ -1018,7 +1018,7 @@ Canellos started a pool.
 Ten bucks to get in.
 Anyone picking the <i>Globe?</i>
 He's only taking bets on how fast Sweeney rules against us.
-- Robby.
+Robby.
 <i>- Hi, it's me.</i>
 <i>Did you get my message?</i>
 I did.
@@ -1170,7 +1170,7 @@ Yeah.
 It's an official designation.
 Let's get these upstairs.
 And, Matt, check on those priests Saviano gave us.
-- Robby. Yeah.
+Robby. Yeah.
 <i>- Hey, I'm down at the courthouse.</i>
 Something's not right here.
 Nothing on Shanley either, Sacha.
@@ -1458,10 +1458,10 @@ Library is closing.
 Library is closing.
 Holy shit.
 No freakin' way.
-- Talbot.
-- Yeah.
-- Tivnan.
-- Yeah.
+Talbot.
+Yeah.
+Tivnan.
+Yeah.
 Toma.
 Yeah.
 Turnbull.
@@ -1605,8 +1605,8 @@ But nothing concrete.
 I keep thinking about that conversation we had the other night about how Law called down the power of God when we reported on Porter.
 That's just Law being Law.
 Okay, but I checked the clips, and, uh, Porter isn't even in the Boston archdiocese.
-- He's from Fall River.
-- So why the extreme reaction?
+He's from Fall River.
+So why the extreme reaction?
 Law had to know.
 That's why he had the reaction.
 Because he knew there were others.
@@ -1631,8 +1631,8 @@ Start reaching out.
 And bring Matt in if you need help.
 Mmm-hmm.
 Okay. Hey, when you go to Springfield?
-- Our hearing is Monday.
-- Okay.
+Our hearing is Monday.
+Okay.
 Hey, Robby, you got a second?
 Yeah.
 I, uh, got one of those treatment centers a block from my house.
@@ -1883,7 +1883,7 @@ Docket entry number 49, it's in the Geoghan case.
 We're closing in 10 minutes.
 Ten minutes?
 All right.
-- Robby.
+Robby.
 <i>- Hey, it's me.</i>
 Hey.
 <i>You're not gonna believe it.</i>
@@ -1925,8 +1925,8 @@ They just opened the airport in Providence.
 He's on his way there now.
 Ben, I'm gonna need more people on Massport.
 I'll give you three of my guys.
-- Robby, put your team on that, too.
-- Got it.
+Robby, put your team on that, too.
+Got it.
 And Robby, everything else stops.
 Understood.
 Why's Mike going to Florida?
@@ -2233,8 +2233,8 @@ Robby's wrong.
 You know, you're just...
 You care about the story, Mike.
 We all do.
-- Yeah, I guess.
-- Mmm.
+Yeah, I guess.
+Mmm.
 I stopped going to church with my Nana.
 It was...
 It was too hard.
@@ -2334,8 +2334,8 @@ We can't run this one big.
 Why wouldn't we?
 It's a major First Amendment victory.
 Not to mention, you get an Irish Catholic judge ruling against the Church?
-- That's a hell of a precedent.
-- Mmm-hmm.
+That's a hell of a precedent.
+Mmm-hmm.
 We don't want the <i>Herald</i> going deep on this.
 Why's that?
 You're gonna have to step out, Peter.
@@ -2344,8 +2344,8 @@ Peter.
 When did you, uh...
 A couple of weeks ago.
 A couple of weeks?
-- Yeah.
-- And you're telling us now?
+Yeah.
+And you're telling us now?
 These are substantial.
 They clearly show that Law was negligent.
 I need more time.
@@ -2484,8 +2484,8 @@ Lots of 'em.
 I'll talk to Richard about the security and the phones.
 Uh, how are we coming on the folo story?
 Well, we've nailed down multiple stories on 70 priests.
-- All 70?
-- Mmm-hmm.
+All 70?
+Mmm-hmm.
 And with the confirmation from
 Robby's source, we're ready to go.
 We can have a draft next week.
@@ -2559,8 +2559,8 @@ Jamaica Plain.
 Two weeks ago.
 Keep doing your work,
 Mr. Rezendes.
-- Hello.
-- Hello.
+Hello.
+Hello.
 How are you guys doing?
 We're good.
 Good.
@@ -2591,8 +2591,8 @@ It's quiet, huh?
 Yeah, easiest overtime I ever made.
 Phone hasn't rung once.
 Marty sent two of mine down to Spotlight.
-- Great article, guys.
-- Thank you.
+Great article, guys.
+Thank you.
 Spotlight?
 Okay. Send him over.
 Spotlight, can I help you?

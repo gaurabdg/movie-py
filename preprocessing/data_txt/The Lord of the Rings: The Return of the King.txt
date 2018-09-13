@@ -18,8 +18,8 @@ Gollum.
 Gollum.
 And we wept, precious.
 We wept to be so alone.
-- and cool
-- So nice for feet
+and cool
+So nice for feet
 And we only wish To catch a fish
 So juicy sweet
 And we forgot the taste of bread... the sound of trees... the softness of the wind.
@@ -63,8 +63,8 @@ It's good.
 Definitely from the Shire.
 Longbottom Leaf.
 I feel like I'm back at The Green Dragon.
-- Green Dragon.
-- A mug of ale in my hand.
+Green Dragon.
+A mug of ale in my hand.
 Putting my feet up on a settle after a hard day's work.
 Only, you've never done a hard day's work.
 Welcome, my lords... to Isengard!
@@ -72,8 +72,8 @@ You young rascals! A merry hunt you've led us on... and now we find you feasting
 We are sitting on a field of victory... enjoying a few well-earned comforts.
 The salted pork is particularly good.
 Salted pork?
-- Hobbits.
-- We're under orders from Treebeard... who's taken over management of Isengard.
+Hobbits.
+We're under orders from Treebeard... who's taken over management of Isengard.
 Young Master Gandalf.
 I'm glad you've come.
 Wood and water, stock and stone I can master.
@@ -119,8 +119,8 @@ I've heard enough!
 Shoot him. Stick an arrow in his gob.
 No.
 Come down, Saruman...
-- and your life will be spared.
-- Save your pity and your mercy.
+and your life will be spared.
+Save your pity and your mercy.
 I have no use for it!
 Saruman... your staff is broken.
 Grima, you need not follow him.
@@ -133,8 +133,8 @@ The victory at Helm's Deep does not belong to you, Theoden Horse-master.
 You are a lesser son of greater sires.
 Grima... come down.
 Be free of him.
-- Free? He will never be free.
-- No.
+Free? He will never be free.
+No.
 Get down, cur!
 Saruman!
 You were deep in the enemy's counsel.
@@ -147,8 +147,8 @@ The enemy moves against us. We need to know where he will strike.
 The filth of Saruman... is washing away.
 Trees will come back to live here.
 Young trees.
-- Wild trees.
-- Pippin!
+Wild trees.
+Pippin!
 Bless my bark!
 Peregrin Took!
 I'll take that, my lad.
@@ -157,8 +157,8 @@ Tonight we remember those who gave their blood to defend this country.
 Hail the victorious dead.
 Hail!
 No pauses.
-- No spills.
-- And no regurgitation.
+No spills.
+And no regurgitation.
 So it's a drinking game?
 Last one standing wins.
 What'll we drink to? Let's drink to victory!
@@ -250,10 +250,10 @@ He's a horrid, fat Hobbit... who hates Smeagol... and who makes up nasty lies.
 You miserable little maggot! I'll stove your head in!
 Sam!
 Call me a liar? You're a liar!
-- You scare him off, we're lost!
-- I don't care! I can't do it, Mr. Frodo.
-- I won't wait around for him to kill us!
-- I'm not sending him away.
+You scare him off, we're lost!
+I don't care! I can't do it, Mr. Frodo.
+I won't wait around for him to kill us!
+I'm not sending him away.
 You don't see it, do you?
 He's a villain.
 We can't do this by ourselves,
@@ -281,8 +281,8 @@ What are you doing?
 Pippin!
 Pippin?
 Pippin.
-- What, are you mad?
-- I just want to look at it.
+What, are you mad?
+I just want to look at it.
 Just one more time.
 Put it back.
 Pippin.
@@ -329,10 +329,10 @@ He will raze Minas Tirith to the ground... before he sees a king return to the t
 If the beacons of Gondor are lit, Rohan must be ready for war.
 Tell me... why should we ride to the aid of those who did not come to ours?
 What do we owe Gondor?
-- I will go.
-- No!
-- They must be warned.
-- They will be.
+I will go.
+No!
+They must be warned.
+They will be.
 You must come to Minas Tirith by another road.
 Follow the river. Look to the black ships.
 Understand this:
@@ -344,11 +344,11 @@ Hurry! Hurry!
 Where are we going?
 Why did you look?
 Why do you always have to look?
-- I don't know. I can't help it.
-- You never can.
+I don't know. I can't help it.
+You never can.
 I'm sorry, all right?
-- I won't do it again.
-- Don't you understand?
+I won't do it again.
+Don't you understand?
 The enemy thinks you have the Ring.
 He's going to be looking for you,
 Pip. They have to get you out of here.
@@ -363,11 +363,11 @@ Something for the road.
 The last of the Longbottom Leaf.
 I know you've run out. You smoke too much, Pippin.
 But... But we'll see each other soon.
-- Won't we?
-- I don't know.
+Won't we?
+I don't know.
 I don't know what's going to happen.
-- Merry.
-- Run, Shadowfax.
+Merry.
+Run, Shadowfax.
 Show us the meaning of haste.
 Merry!
 Merry!
@@ -385,8 +385,8 @@ The last journey of Arwen Undomiel.
 There is nothing for you here... only death.
 Lady Arwen... we cannot delay.
 My lady!
-- Tell me what you have seen.
-- Arwen.
+Tell me what you have seen.
+Arwen.
 You have the gift of foresight.
 What did you see?
 I looked into your future, and I saw death.
@@ -429,8 +429,8 @@ I come with tidings in this dark hour, and with counsel.
 Perhaps you come to explain this.
 Perhaps you come to tell me why my son is dead.
 Boromir died to save us... my kinsman and me.
-- He fell defending us from many foes.
-- Pippin.
+He fell defending us from many foes.
+Pippin.
 I offer you my service, such as it is... in payment of this debt.
 This is my first command to you.
 How did you escape and my son did not... so mighty a man as he was?
@@ -460,8 +460,8 @@ He would even use his grief as a cloak.
 A thousand years this city has stood.
 Now, at the whim of a madman, it will fall.
 And the White Tree, the tree of the king... will never bloom again.
-- Why are they still guarding it?
-- They guard it because they have hope.
+Why are they still guarding it?
+They guard it because they have hope.
 A faint and fading hope that one day it will flower.
 That a king will come and this city will be as it once was... before it fell into decay.
 The old wisdom borne out of the West was forsaken.
@@ -482,8 +482,8 @@ The Orcs of Mordor have no love of daylight... so he covers the face of the sun.
 When the Shadow of Mordor reaches this city... it will begin.
 Well...
 Minas Tirith... very impressive.
-- So where are we off to next?
-- Oh, it's too late for that, Peregrin.
+So where are we off to next?
+Oh, it's too late for that, Peregrin.
 There's no leaving this city.
 Help must come to us.
 It must be getting near teatime.
@@ -504,8 +504,8 @@ The king has got a crown again.
 Come on, Hobbits! Mustn't stop now. This way.
 So I imagine this is just a ceremonial position.
 I mean, they don't actually expect me to do any fighting.
-- Do they?
-- You're in the service of the steward now.
+Do they?
+You're in the service of the steward now.
 You'll have to do as you're told, Peregrin Took.
 Ridiculous Hobbit.
 Guard of the Citadel.
@@ -547,12 +547,12 @@ Come away. Come away. Look, we have found it.
 The way into Mordor.
 The secret stair.
 Climb.
-- No, Mr. Frodo!
-- Not that way!
-- What's it doing?
-- No.
-- They're calling me.
-- No.
+No, Mr. Frodo!
+Not that way!
+What's it doing?
+No.
+They're calling me.
+No.
 Hide! Hide!
 I can feel his blade.
 We come to it at last.
@@ -599,15 +599,15 @@ Muster the Rohirrim.
 Assemble the army at Dunharrow.
 As many men as can be found. You have two days.
 On the third, we ride for Gondor and war.
-- Forward.
-- Very good, sir.
-- Gamling.
-- My lord.
+Forward.
+Very good, sir.
+Gamling.
+My lord.
 Make haste across the Riddermark.
 Summon every able-bodied man to Dunharrow.
 I will.
-- Will you ride with us?
-- Just to the encampment.
+Will you ride with us?
+Just to the encampment.
 It's tradition for the women of the court to farewell the men.
 The men have found their captain.
 They will follow you into battle, even to death.
@@ -634,36 +634,36 @@ Take cover!
 Nazgul!
 Fall back. Fall back to Minas Tirith!
 Fall back!
-- Retreat! Retreat!
-- Run for your lives!
+Retreat! Retreat!
+Run for your lives!
 The age of Men is over.
 The time of the Orc has come.
-- Keep going.
-- It's the Nazgul.
+Keep going.
+It's the Nazgul.
 Take cover, my lord!
 It's coming!
-- It's Mithrandir.
-- The White Rider!
+It's Mithrandir.
+The White Rider!
 Pull!
 Mithrandir.
 They broke through our defenses.
 They've taken the bridge and the west bank.
-- Battalions of Orcs are crossing the river.
-- It is as the Lord Denethor predicted.
-- Long has he foreseen this doom.
-- Foreseen and done nothing.
+Battalions of Orcs are crossing the river.
+It is as the Lord Denethor predicted.
+Long has he foreseen this doom.
+Foreseen and done nothing.
 Faramir?
 This is not the first Halfling to have crossed your path.
 No.
 You've seen Frodo and Sam?
-- Where? When?
-- In Ithilien.
+Where? When?
+In Ithilien.
 Not two days ago.
 Gandalf, they're taking the road to the Morgul Vale.
 And then the pass of Cirith Ungol.
 What does that mean?
-- What's wrong?
-- Faramir, tell me everything.
+What's wrong?
+Faramir, tell me everything.
 Tell me all you know.
 This is how you would serve your city?
 You would risk its utter ruin?
@@ -681,8 +681,8 @@ Boromir would have remembered his father's need.
 He would have brought me a kingly gift.
 Boromir would not have brought the Ring.
 He would have stretched out his hand to this thing and taken it. He would've fallen.
-- You know nothing of this matter!
-- He would have kept it for his own.
+You know nothing of this matter!
+He would have kept it for his own.
 And when he returned... you would not have known your son.
 Boromir was loyal to me!
 Not some wizard's pupil!
@@ -711,8 +711,8 @@ The fat one will take it from you.
 Send forth all legions.
 Do not stop the attack until the city is taken.
 Slay them all.
-- What of the wizard?
-- I will break him.
+What of the wizard?
+I will break him.
 Where are Theoden's riders?
 Will Rohan's army come?
 Mithrandir.
@@ -725,8 +725,8 @@ You are to join the tower guard.
 I didn't think they would find any livery that would fit me.
 Once belonged to a young boy of the city.
 A very foolish one... who wasted many hours slaying dragons instead of attending to his studies.
-- This was yours?
-- Yes, it was mine.
+This was yours?
+Yes, it was mine.
 My father had it made for me.
 Well...
 I'm taller than you were then.
@@ -746,8 +746,8 @@ Fealty with love.
 Valor with honor.
 Disloyalty with vengeance.
 I do not think we should so lightly abandon the outer defenses... defenses that your brother long held intact.
-- What would you have me do?
-- I will not yield... the river in Pelennor unfought.
+What would you have me do?
+I will not yield... the river in Pelennor unfought.
 Osgiliath must be retaken.
 My lord, Osgiliath is overrun.
 Much must be risked in war.
@@ -767,8 +767,8 @@ Fat Hobbit is always so polite.
 Smeagol shows them secret ways that nobody else could find... and they say "sneak."
 Sneak?
 Very nice friend. Oh, yes, my precious.
-- Very nice, very nice.
-- All right. All right!
+Very nice, very nice.
+All right. All right!
 You just startled me is all.
 What were you doing?
 Sneaking.
@@ -778,32 +778,32 @@ We have to be moving on.
 It's dark still.
 It's always dark here.
 It's gone!
-- The Elven bread.
-- What?
+The Elven bread.
+What?
 That's all we have left.
 He took it. He must have!
 Smeagol? No, no, not poor Smeagol.
 Smeagol hates nasty Elf bread.
 You're a lying rat! What did you do with it?!
 He doesn't eat it.
-- He can't have taken it.
-- Look.
+He can't have taken it.
+Look.
 What's this?
 Crumbs on his jacketses. He took it!
 He took it.
 I seen him. He's always stuffing his face when master's not looking.
 That's a filthy lie!
 You stinking, two-faced sneak!
-- Sam!
-- Call me...
+Sam!
+Call me...
 Stop it!
 Sam!
-- I'll kill him!
-- Sam! No!
+I'll kill him!
+Sam! No!
 Oh, my... I'm sorry. I didn't mean it to go so far. I was just so... So angry.
 Here, just... Let's just rest a bit.
-- I'm all right.
-- No.
+I'm all right.
+No.
 No, you're not all right. You're exhausted.
 It's that Gollum.
 It's this place.
@@ -864,8 +864,8 @@ Hail to you, sire.
 Grimbold, how many?
 I bring 500 men from the Westfold, my lord.
 We have 300 more from Fenmarch, Theoden King.
-- Where are the riders from Snowborn?
-- None have come, my lord.
+Where are the riders from Snowborn?
+None have come, my lord.
 Six thousand spears.
 Less than half of what I'd hoped for.
 Six thousand will not be enough to break the lines of Mordor.
@@ -954,8 +954,8 @@ This time you must stay, Gimli.
 Have you learned nothing of the stubbornness of Dwarves?
 You might as well accept it.
 We're going with you, laddie.
-- What's happening?
-- Where is he going?
+What's happening?
+Where is he going?
 Where's he going?
 I don't understand.
 Lord Aragorn!
@@ -1096,8 +1096,8 @@ Aim for the trolls! Kill the trolls!
 Bring them down!
 Fight them back!
 Peregrin Took!
-- Go back to the Citadel!
-- They'd called us out to fight.
+Go back to the Citadel!
+They'd called us out to fight.
 This is no place for a Hobbit.
 Guard of the Citadel, indeed.
 Now, back, up the hill. Quickly. Quick!
@@ -1130,8 +1130,8 @@ Now that I'm here, I don't think I want to.
 It's the only way.
 Go in... or go back.
 I can't go back.
-- What's that smell?
-- Orcses' filth.
+What's that smell?
+Orcses' filth.
 Orcses come in here sometimes.
 Hurry.
 This way.
@@ -1157,8 +1157,8 @@ Soon you'll be...
 Eaten.
 Got away, did it, precious?
 Not this time.
-- Not this time!
-- No!
+Not this time!
+No!
 It wasn't us. It wasn't us!
 Smeagol wouldn't hurt master.
 We promised.
@@ -1184,7 +1184,7 @@ I know it is too late to turn aside.
 I know there is not much point now in hoping.
 If I were a knight of Rohan, capable of great deeds...
 But
-- I'm not.
+I'm not.
 I'm a Hobbit.
 And I know I can't save Middle-earth.
 I just want to help my friends.
@@ -1239,7 +1239,7 @@ Killed another one, has she?
 No.
 This fellow ain't dead.
 Not dead?
-- She jabs him with her stinger, and he goes as limp as a boned fish.
+She jabs him with her stinger, and he goes as limp as a boned fish.
 Then she has her way with them.
 That's how she likes to feed.
 Fresh blood.
@@ -1255,14 +1255,14 @@ He's not dead!
 No! No!
 No! No!
 He's not dead!
-- Farewell, Peregrin, son of Paladin.
-- No! No! No!
+Farewell, Peregrin, son of Paladin.
+No! No! No!
 I release you from my service.
 Go now and die in what way seems best to you.
 Pour oil on the wood!
 Come on, soldier! Move it!
-- Hurry along there! Hurry along!
-- Gandalf!
+Hurry along there! Hurry along!
+Gandalf!
 Where is Gandalf?
 Gandalf!
 Retreat!
@@ -1304,14 +1304,14 @@ Whatever happens, stay with me. I'll look after you.
 Ride now!
 Ride now!
 Ride! Ride for ruin... and the world's ending!
-- Death!
-- Death!
-- Death!
-- Death!
-- Death!
-- Death!
-- Death!
-- Death!
+Death!
+Death!
+Death!
+Death!
+Death!
+Death!
+Death!
+Death!
 For Eorlingas!
 Fire!
 Death!
@@ -1425,8 +1425,8 @@ Not if I stick you first.
 Sam!
 Oh, Sam, I'm so sorry.
 Sorry for everything.
-- Let's get you out of here.
-- It's too late. It's over.
+Let's get you out of here.
+It's too late. It's over.
 They've taken it. Sam... they took the Ring.
 Begging your pardon, but they haven't.
 I thought I'd lost you.
@@ -1463,8 +1463,8 @@ I've sent him to his death.
 No.
 There is still hope for Frodo.
 He needs time and safe passage across the plains of Gorgoroth.
-- We can give him that.
-- How?
+We can give him that.
+How?
 Draw out Sauron's armies.
 Empty his lands.
 Then we gather our full strength and march on the Black Gate.
@@ -1510,8 +1510,8 @@ Stand up, Mr. Frodo. Stand up!
 It's so heavy.
 Oh, no.
 What do I do? What do we do?
-- Hit me.
-- What?
+Hit me.
+What?
 Hit me, Sam. Start fighting.
 Get off of me!
 Nobody pushes me, you filthy maggot.
@@ -1554,8 +1554,8 @@ Old Greybeard.
 I have a token I was bidden to show thee.
 Frodo.
 Frodo.
-- Silence.
-- No!
+Silence.
+No!
 Silence!
 The Halfling was dear to thee, I see.
 Know that he suffered greatly at the hands of his host.

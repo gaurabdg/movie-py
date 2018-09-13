@@ -170,8 +170,8 @@ Mrs. Dubose."
 You come over here when I'm talking to you.
 You come over here...
 Hey, Atticus.
-- You listen to me...
-- Atticus, this is Dill.
+You listen to me...
+Atticus, this is Dill.
 How do you do, Dill?
 Don't your daddy teach you to respect old people?
 You come back here,
@@ -217,8 +217,8 @@ But there's a pearl necklace, there's a ring that belonged to your mother.
 And I've put them away, and they're to be yours.
 Good night, Scout.
 Good night.
-- Good night, Jem.
-- Good night.
+Good night, Jem.
+Good night.
 Jem?
 Yeah.
 How old was I when Mama died?
@@ -480,8 +480,8 @@ Well, hurry up, Scout.
 I'm trying to.
 Come on. It's your first day.
 You want to be late?
-- I'm ready.
-- Come on, let's go.
+I'm ready.
+Come on, let's go.
 Bye.
 Bye, bye.
 Darn you, Walter Cunningham!
@@ -838,8 +838,8 @@ Thanks, Brother Jones, for holding my seat.
 Please be seated.
 Come on, children.
 It's the Rev.
-- This court is now in session.
-- Everybody rise.
+This court is now in session.
+Everybody rise.
 On the night of August 21,
 I was just leaving my office to go home when Bob...
 Mr. Ewell came in.

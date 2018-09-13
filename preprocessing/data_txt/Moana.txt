@@ -32,8 +32,8 @@ We are safe here.
 There is no darkness.
 There are no monsters.
 Monsters!
-- There's no monsters, no monsters...
-- It's the darkness!
+There's no monsters, no monsters...
+It's the darkness!
 No, there is nothing beyond our reef, but storms and rough seas.
 I'm gonna throw up.
 As long as we stay on our very safe island...
@@ -74,15 +74,15 @@ I wanna see
 Don't walk away
 Moana, stay on the ground now
 Our people will need a chief
-- And there you are
-- There you are
+And there you are
+There you are
 There comes a day
 When you're gonna look around
 And realize happiness is
 Where you are
 Consider the coconut
-- The what
-- Consider its tree
+The what
+Consider its tree
 We use each part of the coconut
 It's all we need
 We make our nets from the fibers
@@ -131,16 +131,16 @@ You are the future of our people, Moana.
 And they are not out there.
 They are right here.
 It's time to be who they need you to be.
-- We make our nets from the fibers
-- We weave our nets from the fibers
-- The water is sweet inside
-- A real tasty treat inside
-- We use the leaves to build fires
-- We sing these songs in our choirs
-- To cook up the meat inside
-- We have mouths to feed inside
-- The village believes in us
-- That's right
+We make our nets from the fibers
+We weave our nets from the fibers
+The water is sweet inside
+A real tasty treat inside
+We use the leaves to build fires
+We sing these songs in our choirs
+To cook up the meat inside
+We have mouths to feed inside
+The village believes in us
+That's right
 The village believes
 The island gives us what we need
 And no one leaves
@@ -203,12 +203,12 @@ I'm sure we...
 What if we fish beyond the reef?
 No one goes beyond the reef.
 I know. But if there are no fish in the lagoon...
-- Moana.
-- And there's a whole ocean.
+Moana.
+And there's a whole ocean.
 We have one rule.
 An old rule, when there were fish.
-- A rule that keeps us safe...
-- But Dad, I...
+A rule that keeps us safe...
+But Dad, I...
 ...instead of endangering our people so you can run right back to the water.
 Every time I think you're past this...
 No one goes beyond the reef!
@@ -216,8 +216,8 @@ Well, it's not like you said it in front of your dad.
 Standing on a boat.
 I didn't say go beyond the reef, because I want to be on the ocean.
 But you still do.
-- He's hard on you because...
-- Because he doesn't get me.
+He's hard on you because...
+Because he doesn't get me.
 Because he was you.
 Drawn to the ocean.
 Down by the shore.
@@ -357,11 +357,11 @@ Follow it, and you will find him.
 But why would it choose me?
 I don't even know how to make it past the reef.
 But I know who does!
-- The crops are turning black.
-- What about the fish?
+The crops are turning black.
+What about the fish?
 This is happening all over the island.
-- Please, please settle down.
-- What are you going to do?
+Please, please settle down.
+What are you going to do?
 We will dig new fields.
 We will find a way to...
 We can stop the darkness!
@@ -466,8 +466,8 @@ You will board my...
 Boat! A boat!
 The gods have given me a...
 Maui, shapeshifter... demigod of the wind and sea...
-- I am Moana of...
-- Hero of men.
+I am Moana of...
+Hero of men.
 What?
 It's actually, Maui, shapeshifter, demigod of the wind and sea... hero of men.
 I interrupted.
@@ -493,8 +493,8 @@ Yeah, it almost sounded like you don't like me... which is impossible because...
 I got stuck here for 1,000 years... trying to get the heart as a gift for you mortals.
 So you could have the power to create life itself.
 Yeah. So, what I believe you were trying to say... is "thank you."
-- "Thank you?"
-- You're welcome.
+"Thank you?"
+You're welcome.
 What? No, no, no!
 I didn't... I wasn't...
 Why would I ever say that?
@@ -579,10 +579,10 @@ I'm sailing away away
 You're welcome
 You're welcome
 'Cause Maui can do everything but float
-- You're welcome
-- You're welcome
-- You're welcome
-- You're welcome
+You're welcome
+You're welcome
+You're welcome
+You're welcome
 Huh?
 And thank you!
 Hey!
@@ -732,8 +732,8 @@ And it's not just sails and knots... it's seeing where you're going in your mind
 Knowing where you are... by knowing where you've been.
 Okay, first, I'm not a princess.
 I am the daughter of the chief.
-- Same difference.
-- No.
+Same difference.
+No.
 If you wear a dress, and you have an animal sidekick... you're a princess.
 You are not a wayfinder.
 You will never be a wayfinder, you will never be a...
@@ -758,8 +758,8 @@ We're here?
 See, told you I could do it!
 Motunui?
 I'm home?
-- Moana!
-- Dad?
+Moana!
+Dad?
 Moana!
 Mom?
 Help!
@@ -958,8 +958,8 @@ Now I eat you so prepare your final plea
 Just for me
 You'll never be quite as shiny
 You wish you were nice and shiny
-- Hey!
-- Huh?
+Hey!
+Huh?
 I got something shiny for ya!
 The heart of Te Fiti.
 You can't run from me!
@@ -981,12 +981,12 @@ Hey!
 Did you like the song?
 We're alive!
 Listen...
-- I appreciate what you did down there.
-- Mm-hmm.
-- Took guts.
-- Mm-hmm.
-- But...
-- Mm-hmm.
+I appreciate what you did down there.
+Mm-hmm.
+Took guts.
+Mm-hmm.
+But...
+Mm-hmm.
 I'm sorry.
 I'm trying to be sincere for once, and it feels like you're distracted.
 No, no. No way!
@@ -1026,8 +1026,8 @@ Nunya business.
 I'll just keep asking.
 What's it for?
 You need to stop doing that.
-- Back off.
-- Just tell me what it is.
+Back off.
+Just tell me what it is.
 I said back off.
 Is it why your hook's not working?
 You don't wanna talk, don't talk.
@@ -1085,10 +1085,10 @@ Cheeeehoooo!
 Maui!
 What are you doing?
 Finding you a better way in!
-- We won't make it!
-- Yes, we will!
-- Turn around!
-- No!
+We won't make it!
+Yes, we will!
+Turn around!
+No!
 Moana, stop!
 No!
 Are you okay?
@@ -1115,8 +1115,8 @@ Without my hook, I am nothing!
 We are only here... because you stole the heart in the first place.
 No, we're here because the ocean told you you're special... and you believed it.
 I am Moana of Motunui.
-- You will board my boat...
-- Goodbye, Moana.
+You will board my boat...
+Goodbye, Moana.
 ...sail across the sea...
 I'm not killing myself... so you can prove you're something you're not!
 ...and restore the heart of Te Fiti!

@@ -1252,8 +1252,8 @@ Two.
 Three.
 Four.
 Five.
-- Aah!
-- Six.
+Aah!
+Six.
 Will that be all, Mr. Redmond Barry?
 Yes, that will be all.
 Well then, look you now.

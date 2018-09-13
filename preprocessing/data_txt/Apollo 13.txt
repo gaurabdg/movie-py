@@ -11,38 +11,38 @@ Mission Control gave the spacecraft permission... to go for the extravehicular a
 9:00 p.m. Eastern Daylight Time...
 The important thing when you penetrate the lunar module is your attitude... and relative speed.
 Let's say this is me here in the command module and this is you...
-- All right.
-- In the LEM.
+All right.
+In the LEM.
 This thing sticking out here is called the probe.
-- Ls that true?
-- Absolutely.
+Ls that true?
+Absolutely.
 Tracey, when you feel that thing slide in, everything's clicking... it's like no other feeling in the world.
-- A little liquid propulsion.
-- What's the big occasion?
+A little liquid propulsion.
+What's the big occasion?
 How's it going at Mission Control?
 It's a nervous time.
 They're pacing around and smoking.
 Gene Kranz is gonna have puppies. Jim Lovell.
 This is Tracey.
-- How do you do, Tracey?
-- This is the man.
+How do you do, Tracey?
+This is the man.
 Gemini 7 . Gemini 12. Apollo 8.
 They were the first around the moon.
 This guy did 10 laps.
 With one hand on the wheel.
 Make yourselves at home.
 This is the last champagne in the city of Houston.
-- Very good.
-- Everything else all right?
-- Everything's on course.
-- Looks okay. Cadet Lovell.
-- Hey, Dad.
-- Put this on ice. Make sure it gets cold.
-- You gonna get a haircut this week?
-- I'm on vacation.
+Very good.
+Everything else all right?
+Everything's on course.
+Looks okay. Cadet Lovell.
+Hey, Dad.
+Put this on ice. Make sure it gets cold.
+You gonna get a haircut this week?
+I'm on vacation.
 Get a haircut.
-- I wouldn't mind being up there tonight.
-- God, who wouldn't.
+I wouldn't mind being up there tonight.
+God, who wouldn't.
 Don't worry. Our day's coming.
 They're not gonna cut the program before number 14.
 You know, my cousin called.
@@ -63,10 +63,10 @@ Hey! Kids!
 You got a good picture?
 We can verify the position of the opening
 I ought to have on the camera.
-- You think it's too late for him to abort?
-- He still has time to get out.
-- He just needs somebody to wave him off.
-- Pull up, Neil!
+You think it's too late for him to abort?
+He still has time to get out.
+He just needs somebody to wave him off.
+Pull up, Neil!
 Pull up!
 Neil, we can see you coming down the ladder now.
 Look at those pictures.
@@ -127,11 +127,11 @@ You might be able to answer this lady's question.
 Deke is one of the original
 Marcury 7 astronauts, ladies and gentlemen.
 Now he's our boss. He hands out the astronauts' flight assignments... so naturally we kick back part of our salaries to Deke.
-- How much this month?
-- Can I have a minute? Something's come up.
+How much this month?
+Can I have a minute? Something's come up.
 Sure.
-- Anybody home?
-- I'm not being a cheerleader, Mom!
+Anybody home?
+I'm not being a cheerleader, Mom!
 You don't understand! I worked so hard!
 Maybe I don't understand... but you are not wearing that out in this neighborhood.
 She's not even wearing a bra!
@@ -168,25 +168,25 @@ Let's see what he does.
 Wait a minute.
 I lost something here. I can't translate up.
 Houston, we are drifting down and away.
-- Wanna back off and take another run?
-- No, I got it.
+Wanna back off and take another run?
+No, I got it.
 Let me just try and get it stable here.
 I'm gonna reset the high gain.
 I've got the target back in the reticle.
 Okay, we're stable. Recycle the valves.
-- Forty feet.
-- They're all gray.
+Forty feet.
+They're all gray.
 Twenty.
 Ten feet.
-- Capture.
-- That's it!
-- That's it.
-- Sweet move, Ken. Beautiful.
-- Gentlemen, that is the way we do that.
-- Man, that woke me up.
+Capture.
+That's it!
+That's it.
+Sweet move, Ken. Beautiful.
+Gentlemen, that is the way we do that.
+Man, that woke me up.
 Apollo 13 backup crew, you're up in the simulator.
-- Nice job, gentlemen.
-- That's three hours of boredom... followed by seven seconds of sheer terror.
+Nice job, gentlemen.
+That's three hours of boredom... followed by seven seconds of sheer terror.
 Good job, guys.
 You just won the Christmas turkey.
 Nice try, Frank.
@@ -196,11 +196,11 @@ Used up too much fuel.
 You're above the curve.
 Not by much. Listen, guys, I wanna work it again.
 We gotta be up with the dawn patrol headed for Bethpage at 0700.
-- Wheels up at 0700.
-- Yeah, I know... but my rate of turn is still a little slow there.
+Wheels up at 0700.
+Yeah, I know... but my rate of turn is still a little slow there.
 I really think we should work it again.
-- Let's get it right.
-- Set it up again, Frank.
+Let's get it right.
+Set it up again, Frank.
 Ckay, 13 backup crew. It'll have to wait.
 Prime crew's up for another run.
 Apollo 13, we show S-4B shutdown... and all systems are nominal.
@@ -208,8 +208,8 @@ Fred, set the S-band omni to B... and when you get in the LEM, to forward.
 Good shape over here.
 Hey, we got a problem.
 Cabin depress. Repeat, cabin depress.
-- Ken, get your helmet on!
-- I can't get it locked!
+Ken, get your helmet on!
+I can't get it locked!
 Houston, something ripped a big hole in us! We got rapid depress!
 Oh, God!
 I thought the stars would fall on you.
@@ -260,8 +260,8 @@ I'll just be glad when this one's over.
 You're gonna miss a hell of a show.
 Hey, guys. See you in a few weeks.
 Take care. Bring us back a moon rock.
-- The number 13 doesn't bother you?
-- Only if it's a Friday.
+The number 13 doesn't bother you?
+Only if it's a Friday.
 Apollo 13, lifting off at 1300 hours and 13 minutes... and entering the moon's gravity on April 13?
 Ken Mattingly here has been doing some scientific experiments... regarding that very phenomenon.
 Yes, well, I had a black cat... walk over a broken mirror... under the lunar module ladder.
@@ -274,8 +274,8 @@ Why is this your last, Jim?
 I'm in command of the best ship... with the best crew that anybody could ask for... and I'll be walking in a place where there's 400 degrees difference... between sunlight and shadow.
 I can't imagine ever topping that.
 We have that scheduled for 0900 hours tomorrow.
-- That's not gonna work, Walter.
-- Why?
+That's not gonna work, Walter.
+Why?
 Freddo and I are going over the lunar surface experiments tomorrow... and Ken's gonna be back in the simulator.
 We're going over the flight plan tonight.
 Gonna pay a visit to this machine after you're hard down.
@@ -283,8 +283,8 @@ Jim, we've got a problem.
 We just got some blood work back from the lab.
 Charlie Duke has the measles.
 So we need a new backup.
-- You've all been exposed to it.
-- I've had the measles.
+You've all been exposed to it.
+I've had the measles.
 Ken Mattingly hasn't.
 You wanna break up my crew two days before the launch... when we can predict each other's moves, read the tone of each other's voices?
 Ken Mattingly will get seriously ill... precisely when you and Haise will be ascending from the lunar surface.
@@ -300,8 +300,8 @@ Jim, if you hold out for Ken, you will not be on Apollo 13.
 It's your decision.
 Let it ring.
 Listen, I gotta take that.
-- Why?
-- Because I'm on the backup crew... and the backup crew has to set up the guest list and book the hotel rooms.
+Why?
+Because I'm on the backup crew... and the backup crew has to set up the guest list and book the hotel rooms.
 Yes, sir.
 I understand.
 Thank you, sir.
@@ -329,8 +329,8 @@ What's the story here?
 I got a corridor light.
 We're coming in too shallow.
 I'm going to manual.
-- Houston, switching to SCS.
-- Roger, 13.
+Houston, switching to SCS.
+Roger, 13.
 Okay, we're at three Gs.
 Five Gs.
 We're coming in too steep.
@@ -338,8 +338,8 @@ I'm gonna stay in this roll and see if I can pull us out.
 We're at eight Gs.
 Nine.
 Ten.
-- We're at 12 Gs.
-- 12 Gs. We're burning up.
+We're at 12 Gs.
+12 Gs. We're burning up.
 Damn it!
 I gave them a false indicator light at entry interface.
 Even Mattingly didn't get it the first time.
@@ -378,24 +378,24 @@ Yeah.
 Stand back, please.
 Guenter Wendt!
 I wonder where Guenter went?
-- You walk on the moon, ja?
-- Ja, we walk... and we talk on the moon.
+You walk on the moon, ja?
+Ja, we walk... and we talk on the moon.
 How do you feel? Pretty good?
 Might be a little warmer in here.
-- How are you today?
-- Good.
-- Ready?
-- Yeah.
+How are you today?
+Good.
+Ready?
+Yeah.
 God, no.
 Okay, we have the oxygen purge system.
 Check.
 We have the helmet restraint ring.
 Check.
 Communication umbilical on.
-- Fred.
-- What?
-- Gum.
-- Sorry.
+Fred.
+What?
+Gum.
+Sorry.
 Thanks.
 I'm gonna give these guys a beautiful ride.
 I'm sure you will, Jack.
@@ -413,47 +413,47 @@ This is from your wife, Gene.
 Thank you, Tom.
 I was starting to get worried.
 There we go.
-- I like that one, Gene.
-- Sharp, Gene.
+I like that one, Gene.
+Sharp, Gene.
 Jim, you're all set.
 Very sharp.
 Gene, I guess we can go now.
 Save it for splashdown, guys.
 Apollo 13 flight controllers, listen up.
 Give me a "go, no go" for launch.
-- Booster.
-- Go.
-- RETRO.
-- Go.
-- FIDO.
-- We're go, Flight.
-- Guidance.
-- Go.
-- Surgeon.
-- Go, Flight.
+Booster.
+Go.
+RETRO.
+Go.
+FIDO.
+We're go, Flight.
+Guidance.
+Go.
+Surgeon.
+Go, Flight.
 EECOM.
-- We're go, Flight.
-- GNC.
-- TELMU.
-- Go.
-- Control.
-- Go.
-- Procedures. LNCO.
-- Go.
-- FAO.
-- We are go.
-- Network. Recovery.
-- Go.
-- CAPCOM.
-- We're go, Flight.
+We're go, Flight.
+GNC.
+TELMU.
+Go.
+Control.
+Go.
+Procedures. LNCO.
+Go.
+FAO.
+We are go.
+Network. Recovery.
+Go.
+CAPCOM.
+We're go, Flight.
 Launch control, this is Houston.
 We are go for launch.
 Roger that, Houston.
 Pad leader, what's your status?
 Wo are go for iaunch.
 T minus 60 seconds and counting.
-- Stand by.
-- Roger.
+Stand by.
+Roger.
 Fuel pumps.
 This is it. A few bumps and we're hauling the mail.
 Control, this is Guidance.
@@ -484,19 +484,19 @@ Houston, we've got a center engine cut-off.
 Go on the other four.
 Roger that, 13. We show the same.
 Booster, can you confirm that cut-off?
-- Roger. Looks like we lost it.
-- FIDO, what'll that do to us?
+Roger. Looks like we lost it.
+FIDO, what'll that do to us?
 Stand by, Flight.
 I need to know if the lUs are correcting for the number five shutdown.
 Houston, what's the story on engine five?
 We're still go. We'll be all right as long as we don't lose another one.
-- Roger that.
-- We're not sure why the inboard was out... but the other engines are go, so we're gonna burn those engines... a little bit longer.
+Roger that.
+We're not sure why the inboard was out... but the other engines are go, so we're gonna burn those engines... a little bit longer.
 Roger that. Our gimbals are good.
 Our trim is good.
 Looks like we just had our glitch for this mission.
-- 13, stand by for staging.
-- Roger that.
+13, stand by for staging.
+Roger that.
 S-2 shutdown. S-4B ignition.
 Thrust looks good, Flight.
 Flight, S-4B cut-off in 10 seconds.
@@ -516,12 +516,12 @@ It is?
 Listen, this doesn't stop for me until he lands on that aircraft carrier.
 Well, you just look so calm about it.
 If the flight surgeon had to okay me for this mission, I'd be grounded.
-- Mrs. Lovell! Mrs. Haise!
-- Can we speak to you?
+Mrs. Lovell! Mrs. Haise!
+Can we speak to you?
 Can we just have a word with you, please?
 Remember, you're proud, happy, and thrilled.
-- How're you feeling?
-- Very proud... and very happy, and we're thrilled.
+How're you feeling?
+Very proud... and very happy, and we're thrilled.
 Flight, Booster. I show S-4B shutdown.
 TLl is on the money. Looks good, Flight.
 Roger, FIDO.
@@ -542,10 +542,10 @@ Okay, SMRCS isol valves are all gray.
 Okay, Swigert, command module pilot.
 She's all yours.
 Houston, we've got a good separation.
-- The S-4B is stable.
-- Translation looks good.
-- Reconfirm then, 13.
-- We're gonna start to pitch around... to line up with the LEM.
+The S-4B is stable.
+Translation looks good.
+Reconfirm then, 13.
+We're gonna start to pitch around... to line up with the LEM.
 You know, Freddo, Frank Borman... was upchucking most of the way to the moon on Apollo 8.
 I'm all right. I just ate too much breakfast.
 Let's go to work.
@@ -555,8 +555,8 @@ Roger, Jack.
 We see you pitching around.
 Keep an eye on that telemetry.
 Roger that. If Swigert can't dock this thing, we don't have a mission.
-- How's the alignment?
-- GDC align.
+How's the alignment?
+GDC align.
 Thrusting forward.
 One hundred feet.
 Watch the alignment now.
@@ -564,32 +564,32 @@ Don't worry, guys.
 I'm on top of it.
 FIDC, let me know when you're ready.
 Let's uplink that.
-- How we looking?
-- We're not there yet. Forty feet.
+How we looking?
+We're not there yet. Forty feet.
 Twenty.
 Come on, rookie, park that thing.
 Ten feet.
 Capture.
 That's it.
-- Talk back is barber pole.
-- Go ahead and retract.
+Talk back is barber pole.
+Go ahead and retract.
 Houston, we have hard dock.
 Roger, we understand. That's a good deal, Jack.
 Let's start back up with procedure 17.
 Houston, we have LEM extraction.
 Wo copy that, 13.
 Now you're off to the Fra Mauro Highlands.
-- I gotta get out of this suit.
-- Houston, we are ready... for the beginning of the PTC... and I think once we're in that barbecue roll,
+I gotta get out of this suit.
+Houston, we are ready... for the beginning of the PTC... and I think once we're in that barbecue roll,
 Jack and I will eat.
-- Hey, I'm hungry.
-- Are you sure?
+Hey, I'm hungry.
+Are you sure?
 I could eat the ass out of a dead rhinoceros.
-- We got a smooth one?
-- By the numbers so far.
+We got a smooth one?
+By the numbers so far.
 We just ran a minimum load test on the cooling system...
-- See you tomorrow.
-- Take care.
+See you tomorrow.
+Take care.
 It's too bad we can't demonstrate this on TV.
 What a shame.
 Overboard dump coming up.
@@ -612,8 +612,8 @@ So, hit it there, Freddo.
 That was supposed to be the theme fo 2001... in honor of our command module, Odyssey.
 There seems to have been a last-minute change in the program.
 When I go up on 19, I'm gonna take my entire collection of Johnny Cash along.
-- Hey, Marilyn.
-- Where's their broadcast?
+Hey, Marilyn.
+Where's their broadcast?
 All the networks dumped us.
 One said we made going to the moon... as exciting as a trip to Pittsburgh.
 My son's supposed to be on.
@@ -662,34 +662,34 @@ Roger that. Rolling right, 0-6-0.
 And then if you could give your oxygen tanks a stir.
 Roger that.
 We've got a problem here.
-- What did you do?
-- Nothing. I stirred the tanks.
+What did you do?
+Nothing. I stirred the tanks.
 This is Houston. Say again, please.
 Houston, we have a problem.
 We have a main bus B undervolt.
-- We've got a lot of thruster activity.
-- What's with the computer?
+We've got a lot of thruster activity.
+What's with the computer?
 It just went off line.
 There's another master alarm.
-- I'm checking the quad.
-- That was no repress valve.
+I'm checking the quad.
+That was no repress valve.
 Maybe it's in quad C. I'll reconfigure the RCS.
 We've got a ping light.
 We've got multiple caution and warnings.
 We've got to reset and restart.
 I'm going to SCS.
 Flight, their heart rates are skyrocketing.
-- EECOM, what's your data telling you?
-- O2 tank two not reading at all.
+EECOM, what's your data telling you?
+O2 tank two not reading at all.
 Tank one is at 725 psi and falling.
 Fuel cells one and three are...
 What's going on? Flight, let me get back to you.
 Flight, GNC . They're all over the place.
-- They keep going close to gimbal lock.
-- I keep losing radio signal.
+They keep going close to gimbal lock.
+I keep losing radio signal.
 Their antennae must be flipped around.
-- They'll have to do it manually, if at all.
-- One at a time, people.
+They'll have to do it manually, if at all.
+One at a time, people.
 Is this an instrumentation problem or real power loss?
 It's reading a quadruple failure.
 That can't happen.
@@ -699,19 +699,19 @@ A meteor may have hit the LEM.
 The tunnel's really torquing with all this movement.
 Houston, we had a pretty large bang associated with a master alarm.
 Shit, it's main bus A.
-- Main bus A undervolt?
-- Main bus A undervolt down to... it's reading 25-and-a-half.
+Main bus A undervolt?
+Main bus A undervolt down to... it's reading 25-and-a-half.
 Main bus B is reading zip now.
 We got a wicked shimmy up here.
 These guys are talking about bangs and shimmies.
 Doesn't sound like instrumentation.
-- You are breaking up.
-- Can't get this hatch to seal.
+You are breaking up.
+Can't get this hatch to seal.
 Just stow it. If we'd been hit by a meteor, we'd be dead by now.
 I'm gonna try to get us out of this.
 Houston, did you say switch to omni bravo?
-- Roger that, 13.
-- The signal strength went way down.
+Roger that, 13.
+The signal strength went way down.
 It's fighting me. What's the story?
 We keep flirting with gimbal lock.
 We need a confirmation. What systems are down?
@@ -746,15 +746,15 @@ Take a look at the O2 on number one.
 O2 tank two still zero.
 218 psi and falling.
 Is that what you're getting? Confirm.
-- We're seeing the same, 13.
-- Can we review our status, Sy?
+We're seeing the same, 13.
+Can we review our status, Sy?
 Let's look at this thing from a standpoint of status.
 What have we got on the spacecraft that's good?
 I'll get back to you, Gene.
 We're not gonna have power much longer.
 The ship's bleeding to death.
-- Flight?
-- Yeah. Go, EECCM.
+Flight?
+Yeah. Go, EECCM.
 Flight, I recommend we shut down the reactant valves of the fuel cells.
 What the hell good is that gonna do?
 If the leak's there, we can isolate it.
@@ -774,15 +774,15 @@ Did I hear you right?
 Yeah, they heard me right.
 Tell them we think that's the only way they can stop the leak.
 Yeah, Jim... we think that closing the react valves may stop the leak.
-- Did he copy that?
-- Do you copy, Jim?
+Did he copy that?
+Do you copy, Jim?
 Yes, Houston, we copy.
 We just lost the moon.
 Okay, Freddo, shut those down.
 Let's see what this does.
 If this doesn't work... we're not gonna have enough power left to get home.
-- Shit!
-- God damn it!
+Shit!
+God damn it!
 Houston, O2 on one is still falling.
 How long does it take to power up the LEM?
 Three hours by the checklist.
@@ -814,8 +814,8 @@ It's worse than I thought.
 Houston, I've moved from the command module into the LEM.
 If Jack can't get that data transferred before they go dead...
 They won't know which way they're pointed.
-- That's a bad way to fly.
-- I'll be in 210 if you need me.
+That's a bad way to fly.
+I'll be in 210 if you need me.
 Houston, this is 13. Are you back with me now?
 Aquarius, this is Houston.
 You now have about 12 minutes to power up.
@@ -826,27 +826,27 @@ I'm gonna need your gimbal angles, Jack, before you shut down the computer!
 Okay, Jim.
 I need this back before they power down.
 All right, I got it. Hold on.
-- Houston, our computer is up.
-- Roger. Stand by.
+Houston, our computer is up.
+Roger. Stand by.
 Jack, we need to proceed with steps 12 through 17 quickly.
 You're down to about eight minutes remaining.
 Fuel cell pump's off. O2 fans, tank two off.
 Okay, Houston, check me.
 I have completed the gimbal conversions... but I need a double check of the arithmetic.
-- Yeah, you can go, Jim.
-- The roll CAL angle is minus two.
+Yeah, you can go, Jim.
+The roll CAL angle is minus two.
 Lunar module roll is 355.57.
 1678, correction.
 Yaw is 351 .87.
 Stand by. We're checking it.
 We've got negative visibility in our star field... and if this paperwork isn't right, who knows where we'll end up out here.
 Looks good, Flight.
-- It's all right.
-- Good here.
-- He's good, Andy.
-- We'll go on those numbers.
-- Yeu're good.
-- Log them in, Freddo.
+It's all right.
+Good here.
+He's good, Andy.
+We'll go on those numbers.
+Yeu're good.
+Log them in, Freddo.
 Turn off the lMU . Switch to SCS.
 Stand by. Over.
 It's a great day in New York.
@@ -874,14 +874,14 @@ The Apollo 13 astronauts may be in grave danger.
 No, don't give me that NASA bullshit!
 I want to know what's happening with my husband!
 We want to switch control to the Aquarius now.
-- Roger that.
-- Houston, wait!
+Roger that.
+Houston, wait!
 Yeu're down to about five minutes now.
 Be aware our RCS isn't up here yet.
 We have no attitude control on Aquarius.
 They don't have control? Did we miss a step here?
-- Control, what the hell happened?
-- I don't know. We need more time.
+Control, what the hell happened?
+I don't know. We need more time.
 We're out of whack.
 I'm trying to pitch down but we're yawing to the left.
 Why can't I null this out?
@@ -914,26 +914,26 @@ Right.
 Something broke on your daddy's spaceship... and he's gonna have to turn around before he even gets to the moon.
 Was it the door?
 13, we still show that venting pushing you around.
-- How you doing?
-- Houston, Aquarius.
+How you doing?
+Houston, Aquarius.
 We've had to learn how to fly all over again, but we are doing better now.
-- Roger that, Aquarius.
-- Have him close it out.
+Roger that, Aquarius.
+Have him close it out.
 Jack, we can close out your procedure now.
 Do we know for sure that we can power this thing back up?
 It's gonna get awfully cold in here.
 Copy that, Jack.
 We'll just have to deal with that later.
-- Computer off.
-- We're clear.
+Computer off.
+We're clear.
 We're going to the LEM.
 We confirm shutdown, Jack.
 Lunar module now in control.
 Roger that, Houston. This is Odyssey signing off.
 Freddo, we're gonna have to execute some sort of burn.
 It's just a matter of when.
-- Did they shut us all down in there?
-- Yeah.
+Did they shut us all down in there?
+Yeah.
 Didn't think we'd be back in here so soon.
 Houston, how far off course do you project we are? Over.
 Okay, people, listen up!
@@ -943,8 +943,8 @@ Sorry about that.
 We'll get somebody to look at that.
 How do we get our people home?
 They are here.
-- Do we turn them around, direct abort?
-- Yes!
+Do we turn them around, direct abort?
+Yes!
 No, sir! We get them on a free-return trajectory.
 It's the option with the fewest question marks for safety.
 I agree. We use the moon's gravity to slingshot them around.
@@ -952,12 +952,12 @@ No, the LEM will not support three guys for that amount of time.
 I think we've got to do a direct abort. We do an about-face, bring the guys right home.
 Get them back soon. Absolutely.
 We don't even know if the Odyssey's engine's working.
-- If there's been serious damage to the craft...
-- They blow up and they die!
+If there's been serious damage to the craft...
+They blow up and they die!
 That is not the argument!
 We're talking about time!
-- Not whether these guys...
-- I'm not gonna sugarcoat this for you!
+Not whether these guys...
+I'm not gonna sugarcoat this for you!
 Okay, hold it. Let's hold it down.
 The only engine we've got with enough power for a direct abort... is the SPS on the service module.
 It could have been damaged in an explosion... so let's consider that engine dead.
@@ -974,18 +974,18 @@ I don't care what anything was designed to do. I care about what it can do.
 So let's get to work. Let's lay it out, okay?
 Capcom, Flight, he says it will be ready in time.
 After this burn, we've got to build time in the flight plan for them to get sleep.
-- Run it by the FAO.
-- I've run it by the FAO.
+Run it by the FAO.
+I've run it by the FAO.
 Do we know how long we're gonna fire that burn?
-- He wanted a quote from a flight director.
-- Who wanted a quote?
-- The President.
-- The President?
+He wanted a quote from a flight director.
+Who wanted a quote?
+The President.
+The President?
 Nixon. He wants our odds.
 We are not losing the crew.
 Gene, I gotta give him odds. Five to one against? Three to one?
-- I don't think they're that good.
-- We are not losing those men.
+I don't think they're that good.
+We are not losing those men.
 How long are they gonna have to burn the engine PC + 2?
 Look, tell him three to one.
 Expect loss of signal in less than one minute.
@@ -1035,18 +1035,18 @@ That brings them to about there.
 Gentlemen, that's not acceptable.
 Gene, we've got to talk about power.
 Guys! Power is everything!
-- Power is everything.
-- What do you mean?
+Power is everything.
+What do you mean?
 Without it, they don't talk to us, correct their trajectory... they don't turn the heat shield around.
 We gotta turn everything off. Now.
 They're not gonna make it to re-entry.
-- What do you mean, "everything"?
-- If everything's on, the LEM draws 60 amps.
+What do you mean, "everything"?
+If everything's on, the LEM draws 60 amps.
 At that rate, in 16 hours the batteries are dead, not 45.
 And so is the crew.
 We gotta get them down to 12 amps.
-- Twelve amps?
-- How many?
+Twelve amps?
+How many?
 You can't run a vacuum cleaner on 12 amps, John.
 We gotta turn off the radars, cabin heater... instrument displays, guidance computer, everything.
 Guidance computer?
@@ -1054,14 +1054,14 @@ What if they need to do another burn?
 They won't know which way they're pointed.
 The more time we talk, the more juice they waste.
 I've looked at data for the past hour.
-- That's the deal?
-- That's the deal.
+That's the deal?
+That's the deal.
 Okay, John. The minute we finish the burn, we'll power down the LEM.
 All right.
 Now, in the meantime, we're gonna have a frozen command module up there.
 Soon, we'll have to power it up using nothing but the re-entry batteries.
-- That's never been tried before.
-- We've never even simulated it before.
+That's never been tried before.
+We've never even simulated it before.
 Well, we're gonna have to figure it out.
 I want people in our simulators working re-entry scenarios.
 I want you to find every engineer who designed every switch, circuit... transistor and light bulb up there.
@@ -1071,17 +1071,17 @@ I want this mark all the way back to Earth with time to spare.
 We never lost an American in space.
 We're sure as hell not gonna lose one on my watch.
 Failure is not an option.
-- What?
-- Good, you're not dead.
+What?
+Good, you're not dead.
 I've been trying to get in touch with you for 45 minutes.
 Jesus, what're you doing here?
 I gotta get you in the simulator.
 We got a ship to land.
-- What?
-- There's been an explosion.
+What?
+There's been an explosion.
 Oxygen tanks are gone, two fuel cells gone, command module's shut down.
-- What about the crew?
-- Crew's fine so far.
+What about the crew?
+Crew's fine so far.
 Trying to keep them alive in the LEM.
 We'll have to shut that down pretty soon, too.
 We got a lot of people working the numbers on this one.
@@ -1092,28 +1092,28 @@ If it spikes, that's sayonara for the guidance computer.
 Our guys can't re-enter, okay?
 How much power do we have to play with?
 Barely enough to run this coffee pot for nine hours.
-- Go.
-- Ken Mattingly just got here.
+Go.
+Ken Mattingly just got here.
 Copy. He's here.
 They've been losing heat since the accident.
 They'll start getting water condensation on the control panels.
 Glad you're here. You know what's going on?
 John's brought me up to speed.
-- What's left in the batteries?
-- We don't know.
+What's left in the batteries?
+We don't know.
 We gotta get started on some shortcuts for power-up.
 You know how short?
 It's all in the sequencing. If we can skip whatever we don't absolutely need...
-- turn things on in the right order, maybe...
-- I agree.
-- You started on a procedure?
-- Engineers have tried, but it's your ship.
-- We gotta get you in there.
-- Okay.
+turn things on in the right order, maybe...
+I agree.
+You started on a procedure?
+Engineers have tried, but it's your ship.
+We gotta get you in there.
+Okay.
 Frank, I need the sim cold and dark.
 Give me the exact conditions they've got in there now.
-- I need status of every instrument.
-- You got it.
+I need status of every instrument.
+You got it.
 I need a flashlight.
 That's not what they have up there.
 Don't give me anything they don't have on board.
@@ -1125,8 +1125,8 @@ We'll use the forward omni when the Earth's in the window... and we're switching
 Wo copy that, 13.
 Aquarius, we don't want you to make any more waste dumps.
 The venting may push you off course.
-- Oh, Christ.
-- What's up?
+Oh, Christ.
+What's up?
 No more waste dumps.
 We're just gonna have to store it.
 Jack, we're gonna need some more urine bags.
@@ -1141,14 +1141,14 @@ Could you sleep up there?
 It's gonna get awful cold in there for those guys.
 Gene, we have a situation brewing with the carbon dioxide.
 We got a CO2 filter problem on the lunar module.
-- Five filters on the LEM.
-- Meant for two guys for a day and a half.
-- I told the doc...
-- We're up to eight on the gauges.
+Five filters on the LEM.
+Meant for two guys for a day and a half.
+I told the doc...
+We're up to eight on the gauges.
 Anything over 15 and you get impaired judgment, blackouts... the beginnings of brain asphyxia.
 What about scrubbers in the command module?
-- They take square cartridges.
-- The ones on the LEM are round.
+They take square cartridges.
+The ones on the LEM are round.
 Tell me this isn't a government operation.
 This just isn't a contingency we've remotely looked at.
 Those CO2 levels will be getting toxic.
@@ -1156,15 +1156,15 @@ I suggest you gentlemen invent a way to put a square peg in a round hole. Rapidl
 Okay, people, listen up!
 The people upstairs have handed us this one, and we gotta come through.
 We gotta find a way to make this... fit into the hole for this... using nothing but that.
-- Let's get it organized.
-- Okay, let's build a filter.
+Let's get it organized.
+Okay, let's build a filter.
 Better get some coffee going, too.
 The Halse family lives in El lago, Texas.
 His wife, Mary, is from Biloxi, Mississippi.
 When Fred Haise was growing up in Biloxi, he may have looked ahead to a fine family... but he never dreamt of flying.
 I'd never flown before I went into the service... and I only went into the flying business as a means to getting a commission...
-- Good morning.
-- Henry. Don't you ever sleep?
+Good morning.
+Henry. Don't you ever sleep?
 I have a request from the news people.
 They're out front here and they want to put a transmitter up on the lawn.
 Transmitter?
@@ -1175,18 +1175,18 @@ Well, it's more dramatic now.
 Suddenly people are...
 If landing on the moon wasn't dramatic enough, why should not landing on it be?
 Look, I realize how hard this is, Marilyn... but the whole world is caught up in it.
-- It's the biggest story since...
-- No, Henry.
+It's the biggest story since...
+No, Henry.
 Those people don't put one piece of equipment on my lawn.
 If they have a problem with that, they can take it up with my husband.
 He'll be home on Friday.
 Hey, Fred.
 It's too cold in there.
 That's a nice one of Mary.
-- You don't look too good, Freddo.
-- I'll survive.
-- There's aspirin in the medical kit.
-- I took some.
+You don't look too good, Freddo.
+I'll survive.
+There's aspirin in the medical kit.
+I took some.
 Jim, I'm all right.
 It was an accident, Mary getting pregnant.
 You should have seen the look on my face when she told me.
@@ -1200,8 +1200,8 @@ Most of the guys I graduated high school with... never even left home, and here 
 Oh, yeah.
 Here you are.
 It hurts when I urinate.
-- Well, you're not getting enough water.
-- I'm drinking my ration the same as you.
+Well, you're not getting enough water.
+I'm drinking my ration the same as you.
 I think old Swigert gave me the clap.
 He's been pissing in my relief tube.
 Well, that will be a hot one at the debriefing for the flight surgeon.
@@ -1212,8 +1212,8 @@ It could cost us amp hours on the back end?
 That's a possibility.
 I've been going over the numbers again.
 Have they called up with a re-entry plan yet?
-- We're coming in too shallow...
-- We're working on it.
+We're coming in too shallow...
+We're working on it.
 I can't remember the ratio to temperature.
 We got no references on board.
 Let's see if Houston can pull up the mil specs...
@@ -1223,12 +1223,12 @@ At this rate we'll skip right out of the atmosphere, and never get back.
 What are you talking about?
 How'd you figure that?
 I can add.
-- Many PhDs are working on this.
-- Houston says we're on the money.
+Many PhDs are working on this.
+Houston says we're on the money.
 What if they made a mistake and there was no way to reverse it?
 You think they'd tell us?
-- There's no reason to tell us!
-- What do you mean? That's bullshit!
+There's no reason to tell us!
+What do you mean? That's bullshit!
 There's 1,000 things that have to happen in order.
 We are on number eight.
 You're talking about number 692.
@@ -1238,16 +1238,16 @@ That's duly noted. Thank you, Jack.
 God damn this piece of shit!
 This piece of shit's gonna get you home.
 That's because that's the only thing we've got left, Jack!
-- What are you saying, Fred?
-- I think you know what I'm saying.
+What are you saying, Fred?
+I think you know what I'm saying.
 Now wait a minute.
 All I did was stir those tanks.
 What was the gauge reading before you hit the switch?
 Don't tell me how to fly the CM!
 They brought me in to do a job!
 They asked me to stir the damn tanks, and I stirred the tanks!
-- Stop kicking yourself in the ass.
-- This is not my fault!
+Stop kicking yourself in the ass.
+This is not my fault!
 No one is saying it is.
 If I'm in the left-hand seat when the call comes up, I stir the tanks.
 Well, tell him that.
@@ -1256,8 +1256,8 @@ Look, we're not doing this, gentlemen.
 We're not bouncing off the walls for ten minutes... because we'll just end up with the same problems!
 Try to figure out how to stay alive!
 Aquarius, this is Houston.
-- Are we on VOX?
-- No, we're not on VOX.
+Are we on VOX?
+No, we're not on VOX.
 Yeah, Houston, this is Aquarius. Go ahead.
 Yeah, Jim, could you check your CO2 gauge for us?
 We were just looking at that.
@@ -1269,8 +1269,8 @@ We were expecting that.
 That's very comforting to know, Houston.
 What do we do about it?
 Jim, we're working on a procedure down here for you.
-- Do you copy?
-- Oh, Christ.
+Do you copy?
+Oh, Christ.
 All right, we're standing by for those procedures.
 Christ, I know why my numbers are wrong.
 I only figured it for two people.
@@ -1279,8 +1279,8 @@ The deadly CC2 gas is literally poisoning... the astronauts with every breath in
 Heads up.
 Go.
 Heads up, people. Look out now.
-- What's this?
-- That's what they gotta make.
+What's this?
+That's what they gotta make.
 I hope you got the procedures for me.
 Right here.
 That's it?
@@ -1293,8 +1293,8 @@ He wants you to rip the cover off the flight plan.
 With pleasure.
 The other materials you'll need are... a lithium hydroxide canister...
 Two lithium hydroxide canisters, I'm sorry...
-- a roll of gray tape.
-- Duct tape.
+a roll of gray tape.
+Duct tape.
 Duct tape. You need an LCG bag... Two LCG bags... the red suit hoses, and you've got the flight plan cover.
 What about their level of carbon dioxide?
 It's climbing.
@@ -1302,21 +1302,21 @@ You're saying that they're almost out of breathable air?
 Wait a second. That's not what he said.
 He said we're working on it.
 You want to cut the duct tape three feet long.
-- Tell him to use his arm.
-- Just use your arm.
-- It's an arm's length.
-- Okay, I see what you're getting at.
+Tell him to use his arm.
+Just use your arm.
+It's an arm's length.
+Okay, I see what you're getting at.
 Jack, tear that piece of tape down the middle lengthwise.
-- All right?
-- Hold on, Houston.
+All right?
+Hold on, Houston.
 While the astronauts appear to have enough oxygen to keep them alive... one thing they have too much of is carbon dioxide.
 With each breath, the three men expel... more of the poisonous gas into the lunar module cockpit... and the scrubbers intended to keep the atmosphere breathable... are quickly becoming saturated.
 Oh, shit, I tore it.
 Houston, what do we do if we ripped the bag? Can we tape it?
-- They just tore the bag.
-- Oh, no.
-- Stand by. What should I tell them to do?
-- They should have one more bag left.
+They just tore the bag.
+Oh, no.
+Stand by. What should I tell them to do?
+They should have one more bag left.
 But they've still got a long way to come... and are now working on backup facilities, their emergency facilities.
 The problem is, if anything more goes wrong, they're in real trouble.
 As most of you are aware, there is no rescue possible in space flight.
@@ -1324,18 +1324,18 @@ Any rescue system the space agency has long since calculated...
 Any rescue system the space agency calculated...
 One sock.
 Cnce you have the sock in place...
-- we're gonna want you...
-- Work it in.
+we're gonna want you...
+Work it in.
 To bungee the entire filter assembly to the bulkhead...
-- right above the LEM canister.
-- We're getting close to 15.
+right above the LEM canister.
+We're getting close to 15.
 So how does this flight compare to other emergency situations you've faced?
 I'll have to say that this is the most serious situation... we've ever encountered in manned space flight.
-- Houston, filter's in place.
-- Cabin gas return to egress.
+Houston, filter's in place.
+Cabin gas return to egress.
 Suit circuit relief to close.
-- CO2 canister select to secondary.
-- All right.
+CO2 canister select to secondary.
+All right.
 Here goes.
 I can hear air moving.
 Just breathe normal, fellas.
@@ -1398,12 +1398,12 @@ I'm sure the guys are still with us.
 Let's cut them some slack, okay?
 Gene, it's not the velocity, it's the angle.
 Maybe they're still venting something and that's throwing off the trajectory... but we are definitely shallowing again.
-- We are up to a 5.9.
-- Damn it.
+We are up to a 5.9.
+Damn it.
 At this rate, they nick the atmosphere and bounce off into space.
 We need another burn to get them back.
-- Another burn.
-- Fire the engines, get them on course.
+Another burn.
+Fire the engines, get them on course.
 Copy that.
 Aquarius, this is Houston.
 Houston, Aquarius.
@@ -1419,18 +1419,18 @@ Houston, without the computer, what do we use for orientation?
 Come on, we gotta be able to give these guys something.
 Without the power, we can't give them a reading.
 Not power. I'm talking about reference.
-- No, there's no references.
-- We have a bunch of debris up there...
+No, there's no references.
+We have a bunch of debris up there...
 Houston, what's the story with this burn?
 We're trying to hash something out down here, Aquarius.
 Stand by.
 Look, Houston, all we need to hold attitude is one fixed point in space.
-- Ls that not correct?
-- Yeah. Roger that, Jim.
+Ls that not correct?
+Yeah. Roger that, Jim.
 Well, Houston, we've got one.
 If we can keep the Earth in the window, flying manually... the crosshairs right on its terminator... all I have to know is, how long do we need to burn the engine?
-- The shorter, the better.
-- Roger that, Jim.
+The shorter, the better.
+Roger that, Jim.
 Can they fly it manually and still shut it down on time... without the computer?
 I guess that's the best we can do.
 We're out of time.
@@ -1462,48 +1462,48 @@ Standing by for corridor control burn.
 Okay, Jim, you can fire when ready.
 You are go for the manual burn.
 Okay, X-plus button at 10 seconds. Mark.
-- Come on, baby. One more burn.
-- Nine, eight... seven, six, five...
-- four, three...
-- Ullage is go.
+Come on, baby. One more burn.
+Nine, eight... seven, six, five...
+four, three...
+Ullage is go.
 Two, one, ignition!
 She's burning!
-- Master arm off.
-- Okay, here we go.
-- Helium regulator on.
-- RCS is go, 10% thrust.
+Master arm off.
+Okay, here we go.
+Helium regulator on.
+RCS is go, 10% thrust.
 Bring her around, Freddo.
 I'm trying but it's dragging.
-- Ten seconds.
-- Drop it down, Freddo.
-- We're drifting!
-- No, hold what you got.
-- I'll roll it. Back off.
-- Can't get it stable.
+Ten seconds.
+Drop it down, Freddo.
+We're drifting!
+No, hold what you got.
+I'll roll it. Back off.
+Can't get it stable.
 She's dancing all over the place!
-- Come to the right a little bit.
-- Fifteen seconds.
+Come to the right a little bit.
+Fifteen seconds.
 She's drifting. I'm losing attitude.
 Hold it right there. That's it. No, Freddo, back!
-- Shit! I'm losing it!
-- Bring the Earth up.
+Shit! I'm losing it!
+Bring the Earth up.
 Thrust forward, Fred. Come on.
 Shit, I lost it! Where is it?
 7:00. Helium regulator's closed.
 Bring it down, Freddo. Just nose it down.
-- Okay, I got it!
-- Thirty seconds.
+Okay, I got it!
+Thirty seconds.
 Little farther. Ease your touch!
 Damn it, that's mine. That's me. Around.
-- A little more. Come on, baby.
-- That's it. Hold it.
+A little more. Come on, baby.
+That's it. Hold it.
 Back! That's it! Hold it! Steady... Eight, nine!
 Shutdown!
 Houston, we have shutdown.
 That's close enough, Jim. Good work.
 I knew it! How about that LEM! How about it?
-- Guess you can keep your job.
-- You betcha.
+Guess you can keep your job.
+You betcha.
 13, stand by. We're evaluating our power usage on that burn.
 Let's hope we don't have to do that again.
 Gentlemen, you've given our guys enough to survive till re-entry.
@@ -1515,8 +1515,8 @@ ECS, communications... warm up the pyros for the parachutes and the command modu
 The thrusters will put you over budget on amps.
 They've been sitting at 200 below for four days. They gotta be heated.
 Fine. Then trade off the parachutes.
-- If the chutes don't open, what's the point?
-- You're telling me what you need.
+If the chutes don't open, what's the point?
+You're telling me what you need.
 I'm telling you what we have to work with.
 I'm not making this stuff up.
 They're going to need all these systems.
@@ -1546,12 +1546,12 @@ I'd have ever been able to see that.
 So, you never know... what events are going to transpire to get you home.
 Spacecraft commander
 Jim Lovell, no stranger to emergency is he.
-- How's it going, Fred?
-- I'm okay.
+How's it going, Fred?
+I'm okay.
 What the hell was that?
 Let's hope it was just the burst disk.
-- Can you confirm a burst helium disk?
-- Wo confirm that.
+Can you confirm a burst helium disk?
+Wo confirm that.
 Houston, is that going to affect our entry angle at all?
 Negative. Your entry angle is holding at 6.24, Aquarius.
 Houston... we sure could use the re-entry procedure up here.
@@ -1563,8 +1563,8 @@ So, here's what you're gonna do.
 You're gonna get the procedure up to us, whatever it is... and we're gonna go over it step by step, so there's no foul-ups.
 I don't have to tell you we're all a little tired up here.
 The world's getting awfully big in the window.
-- Jim, this is Deke.
-- It's Deke.
+Jim, this is Deke.
+It's Deke.
 They don't know how to do it.
 Maybe Jack's right.
 Hello, Deke. What's the story?
@@ -1574,36 +1574,36 @@ Ken's working on it?
 Look, I know this sequence works, John.
 It looks good.
 We're just over budget on the amperage.
-- By how much?
-- Three or four amps.
+By how much?
+Three or four amps.
 God damn it, John! Is it three or four?
-- Four.
-- Four!
+Four.
+Four!
 Four more amps.
 They have some power left in the LEM batteries, right?
 Yeah.
 We have an umbilical that provides power from the command module to the LEM.
-- It's backup for the LEM power supply.
-- I'm listening.
+It's backup for the LEM power supply.
+I'm listening.
 So reverse it. Reverse the flow and see if we can draw these four amps... from the LEM before we cut it loose.
 Why can't we do that?
-- We don't have a procedure for that?
-- You'll lose a lot in the transfer.
+We don't have a procedure for that?
+You'll lose a lot in the transfer.
 Yeah. But all we're talking about here is four amps.
 I want whatever you guys got on these power procedures.
-- Gene, they're already...
-- Not all, just part.
-- We've got to give them something.
-- They're working on it.
-- I'll get an estimate.
-- God damn it!
+Gene, they're already...
+Not all, just part.
+We've got to give them something.
+They're working on it.
+I'll get an estimate.
+God damn it!
 I don't want another estimate!
 I want the procedures now!
 LMU is up.
-- How am I reading?
-- Fine, so far.
-- Say again.
-- You're under the limit. Keep going.
+How am I reading?
+Fine, so far.
+Say again.
+You're under the limit. Keep going.
 Okay. Floodlights to fixed.
 Okay, I'm bringing up the guidance.
 Here we go.
@@ -1620,24 +1620,24 @@ I was getting a little blurry there.
 Here's Ken. Here's John.
 It's good to see you, Ken.
 This is the sequence.
-- Was it tried on the hardware yet?
-- We didn't have time.
+Was it tried on the hardware yet?
+We didn't have time.
 Aquarius, Houston. Do you read?
 Yeah, we read you, Ken.
 Are the flowers blooming in Houston?
 That's a negative, Jim. I don't have the measles.
 Jim, is Jack in there with you?
 Yeah, stand by one. We gotta get him on comm.
-- Put those on the table.
-- Damn it. Thanks, Jackie.
+Put those on the table.
+Damn it. Thanks, Jackie.
 I think it would really help if you could... just distract her when the heavy predictions come in.
-- We'll give it a shot.
-- Thanks.
+We'll give it a shot.
+Thanks.
 Blanch, these nice, young men are gonna watch television with you.
-- This is Neil Armstrong, and this is Buzz.
-- Nice to meet you.
-- Hi.
-- Are you boys in the space program, too?
+This is Neil Armstrong, and this is Buzz.
+Nice to meet you.
+Hi.
+Are you boys in the space program, too?
 Okay, Jack, give me a read-back on that last procedure.
 Stand by, Ken.
 Ken, I'm having trouble reading my own writing.
@@ -1654,18 +1654,18 @@ Main bus B is closed.
 13, we're coming up on entry interface.
 Flight, we're still shallowing up a bit in the re-entry corridor.
 It's almost like they're underweight.
-- Now how could they be underweight?
-- We didn't land on the moon.
-- Rocks?
-- That's affirm.
+Now how could they be underweight?
+We didn't land on the moon.
+Rocks?
+That's affirm.
 One more thing, Jim.
 While Jack's working on the power-up, we want you and Freddo... to transfer some ballast over to the command module.
 Say again, Houston. Ballast?
 That's affirm. We got to get the weight right.
 We were expecting you to be toting a couple hundred pounds of moon rocks.
 Right, Houston.
-- Now, Jack.
-- Yeah, go ahead, Ken.
+Now, Jack.
+Yeah, go ahead, Ken.
 Okay, now, panel five.
 Circuit breaker caution and warning main B closed.
 Main B closed.
@@ -1686,31 +1686,31 @@ Their LEM lifeboat is doing things and working longer... than it was ever intend
 It's a race against time until splashdown...
 We're ready fo see if the computer will accept... uplink of the re-entry data now.
 Okay, the lMU is up.
-- We got our eight-balls back.
-- Copy that.
+We got our eight-balls back.
+Copy that.
 Okay, Ken, uplink telemetry, command module to accept, right?
 That's affirm. Go ahead and try it.
 Uplink completed.
-- That's more like it.
-- Okay, let's go.
+That's more like it.
+Okay, let's go.
 Take a look at your amps. How we doing?
 We got her back up, Ken.
 Boy, I wish you were here to see it.
 I'll bet you do.
 Way to go, Jack.
-- Flight, this is RETRO.
-- Go, RETRC.
+Flight, this is RETRO.
+Go, RETRC.
 Flight, we have a typhoon warning...
-- on the edge of the prime recovery zone.
-- Say again, RETRO.
+on the edge of the prime recovery zone.
+Say again, RETRO.
 We're looking at a typhoon warning... on the edge of the prime recovery area.
 This is just a warning. It could miss them.
 Only if their luck changes.
 Jim, we're ready for SM jettison!
 All right, Jack, on three!
 One, two...
-- Upward thrust.
-- We're loose!
+Upward thrust.
+We're loose!
 Reverse thrust!
 We have service module jettison.
 Okay, Houston, service module is free.
@@ -1729,8 +1729,8 @@ The heat will build up to as much as 3,000 or 4,000 degrees Fahrenheit.
 On a lunar re-entry flight, the heat...
 So, Blanch?
 Did Jim make Eagle Scout or not?
-- Yes, he did.
-- He did.
+Yes, he did.
+He did.
 If the heat shield is even slightly cracked... the extreme cold could've split it wide open.
 Worst of all, if the pyrotechnics that control the parachutes... have been damaged, the chutes may not open at all... causing the spacecraft to hit the water not at a gentle 20 miles per hour... but at a suicidal 300.
 Perbaps never in human history... has the entire world been united by such a global drama.
@@ -1743,15 +1743,15 @@ In Jerusalem, prayers at the Wailing Wall... it's about time to bail out of this
 You okay?
 I'm freezing.
 Can you hold out just a little longer?
-- Long as I have to.
-- Come on.
+Long as I have to.
+Come on.
 It won't be long. Just a little while longer.
 Just a little while longer. We're gonna hit that water in the South Pacific.
 Open up that hatch.
-- It's 80 degrees out there.
-- 80 degrees.
-- You are a mess.
-- Yeah.
+It's 80 degrees out there.
+80 degrees.
+You are a mess.
+Yeah.
 Odyssey, Houston. How we doing, guys?
 We're closing in on lunar module jettison.
 As you know, that is time critical.
@@ -1792,29 +1792,29 @@ But now I'm asking you, when will we know?
 Blackout lasts for three minutes.
 If they're not back in four, we'll know.
 Velocity now reading 34,802 feet per second.
-- Range to go 2,625 nautical miles.
-- Copy that.
+Range to go 2,625 nautical miles.
+Copy that.
 Okay, Ken, we are aligned for re-entry. Jim, we need that computer re-entry program.
-- Fred, how are the batteries looking?
-- Okay.
+Fred, how are the batteries looking?
+Okay.
 Batt A looks good.
 Re-entry interface in one minute...
-- Batt B, no volts, the amps are okay.
-- And 30 seconds.
+Batt B, no volts, the amps are okay.
+And 30 seconds.
 Batt C...
 No volts, only two amps.
 It may die before the main chutes open.
 Roger. Let's tie all the batteries onto main A and main B.
 They're still shallowing a bit up there.
 Do you want to tell them?
-- Is there anything we can do about it?
-- Not now, Flight.
-- Then they don't need to know, do they?
-- Copy that.
+Is there anything we can do about it?
+Not now, Flight.
+Then they don't need to know, do they?
+Copy that.
 RETRO says the typhoon is still a presence in the splashdown area?
 We got the parachute situation... heat shield, angle of trajectory, and a typhoon.
-- There are so many variables, I'm at a loss...
-- I know what the problems are.
+There are so many variables, I'm at a loss...
+I know what the problems are.
 This could be the worst disaster
 NASA has experienced.
 With all due respect, sir,
@@ -1823,8 +1823,8 @@ Expect entry interface in 45 seconds.
 And on my mark, your velocity... will be 35,245 feet per second.
 Mark 35 seconds to entry intertace.
 Gentlemen... it's been a privilege flying with you.
-- Flight, we have loss of radio contact.
-- Roger that.
+Flight, we have loss of radio contact.
+Roger that.
 Expect to regain signal in three minutes.
 It all depends on the heat shield.
 Back fo the lwo Jima and our live cameras there.
@@ -1837,12 +1837,12 @@ This is the critical moment.
 Will the heat shield hold?
 Will the command module survive the intense heat of re-entry?
 If it doesn't, there'll only be silence.
-- Mommy, you're squishing me.
-- Sorry, sweetie.
+Mommy, you're squishing me.
+Sorry, sweetie.
 It's okay.
 Okay, Flight, that's three minutes.
-- We are standing by for acquisition.
-- Copy that.
+We are standing by for acquisition.
+Copy that.
 Odyssey, Houston. Do you read me?
 Expected time of reacquisition... the time when the astronauts were expected to come out of blackout... has come and gone.
 About all any of us can do now is just listen and hope.
@@ -1857,8 +1857,8 @@ Hello, Houston, this is Odyssey.
 It's good to see you again.
 Odyssey, Houston. Welcome home.
 We're glad to see you.
-- Good job, Ken.
-- Thank you.
+Good job, Ken.
+Thank you.
 They made it!
 Houston, we're at stable one. The ship is secure.
 This is Apollo 13 signing off.

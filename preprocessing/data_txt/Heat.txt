@@ -20,16 +20,16 @@ Mom, my barrettes are not on the couch.
 Wear the blue ones.
 I don't want to wear the blue ones.
 They don't match.
-- Did you check in your bathroom?
-- I checked everywhere!
+Did you check in your bathroom?
+I checked everywhere!
 What do you want me to do?
 Find them!
-- Mom, pay attention!
-- All right, sweetie, all right!
+Mom, pay attention!
+All right, sweetie, all right!
 Daddy's going to be here.
 I won't be ready!
-- I can't be late.
-- You won't.
+I can't be late.
+You won't.
 I will be late!
 Before Daddy comes, we can find them if we look together.
 It's all right, baby. It's all right.
@@ -60,7 +60,7 @@ I am.
 Here we go.
 We're being held up!
 <i>- 211 alarm. Armored car.
-- There's the call.</i>
+There's the call.</i>
 <i>Three minutes.</i>
 Clear!
 Eighty seconds left!
@@ -102,8 +102,8 @@ Says it's clean and low eight figures.
 What happened?
 Don't ask.
 Find the ambulance?
-- Dumped it four blocks from here.
-- 22nd Street.
+Dumped it four blocks from here.
+22nd Street.
 They torched it.
 Burned the guns, clothes, everything.
 They were airborne. They taped the last few seconds of the black-and-whites.
@@ -172,8 +172,8 @@ Hold it!
 Where's the rest?
 We're late. You look too good to go out.
 I'll just jump you right here.
-- Where is it?
-- Squared the bookies, baby.
+Where is it?
+Squared the bookies, baby.
 There's more in a couple of days, so don't sweat it. We're late.
 Come on.
 You gotta be kidding me.
@@ -188,8 +188,8 @@ Get in the fucking car.
 What am I doing in here?
 You're not!
 Leave the bank book and the car keys... in the kitchen on your way out!
-- Are we going?
-- Keep that crap. Dominick comes with me.
+Are we going?
+Keep that crap. Dominick comes with me.
 Don't even think about...
 Tell me Albert Torena called back.
 Albert Torena call Vincent?
@@ -386,8 +386,8 @@ You just have to grab it.
 I know how to grab it.
 Okay, here we go.
 $13.9 million.
-- I bought it.
-- Good.
+I bought it.
+Good.
 What did I tell you?
 Here.
 We're on. Call Van Zant, collect the money.
@@ -410,8 +410,8 @@ When I get around to it.
 You got something else on the side?
 Nothing regular.
 She got something else on the side?
-- No.
-- You sure?
+No.
+You sure?
 Yeah, I'm sure.
 I don't know what you're doing.
 As Jimmy said, "You want to be making moves on the street?
@@ -451,16 +451,16 @@ I'm supposed to collect something.
 Someone will call you back from another line.
 <i>I got a package for you. There's a drive-in on Centinela. 2:30 tomorrow.</i>
 Just send one man, alone.
-- Who was that guy?
-- Nobody.
-- Who was that guy?
-- Nobody.
+Who was that guy?
+Nobody.
+Who was that guy?
+Nobody.
 I gotta know who he is! Who is he?
 He's nobody, Neil.
 He's a legit liquor wholesaler from Las Vegas. Alan Marciano.
 Chris will make up.
-- It's too late! I'm sick of it!
-- Shut up!
+It's too late! I'm sick of it!
+Shut up!
 Here's the deal.
 You'll give Chris one last shot.
 After that, he fucks up, then I will finance setting you up myself... on my own, anywhere you want.
@@ -528,7 +528,7 @@ Five years in Folsom off a knock-back to involuntary manslaughter.
 <i>Jacket's two inches thick.</i>
 Who do I have there now?
 <i>- Drucker and me. And Schwartz.
-- Tell SIS...</i>
+Tell SIS...</i>
 I want full surveillance. That's 24 hours.
 Round the clock, day and night.
 We never close. Open every day.
@@ -565,8 +565,8 @@ Look at my ring.
 Did you know?
 You are insane.
 Do you like it?
-- It's beautiful.
-- It's good.
+It's beautiful.
+It's good.
 Don't ask him where he got it.
 What do you want to be when you grow up?
 I don't know.
@@ -584,8 +584,8 @@ Can I fall by?
 Yeah.
 I'll see you in a little bit.
 Goddamn convention.
-- Which one's Slick?
-- The wide one.
+Which one's Slick?
+The wide one.
 We got two transmitters.
 One's in the wheel well, backup's in the firewall.
 Here we are.
@@ -645,8 +645,8 @@ Beat her head in, same as the others.
 Cerebral hematoma.
 Who's that?
 Mother and siblings.
-- Why are they here?
-- It's fucked up.
+Why are they here?
+It's fucked up.
 Somebody inside knew the girl and called the family.
 Let's go.
 Nice.
@@ -718,8 +718,8 @@ I was trying to ski.
 That's what people do there.
 You go skiing... and you meet people.
 You try to have a good time.
-- Did you have a good time?
-- No.
+Did you have a good time?
+No.
 Why not?
 I'm not good at meeting people.
 You met me.
@@ -768,15 +768,15 @@ I'm there.
 We walk! Now!
 He's heard it.
 Heads up.
-- One's coming out.
-- Hold it, Captain.
+One's coming out.
+Hold it, Captain.
 Vincent, he's not carrying anything.
 I see.
-- Here we go.
-- Not till my boss says so.
+Here we go.
+Not till my boss says so.
 Both of them are not carrying anything.
 <i>- Let them go.
-- What do you mean?</i>
+What do you mean?</i>
 <i>We can take them...</i>
 On what?
 They didn't steal anything yet.
@@ -810,8 +810,8 @@ I need it, brother.
 We should stay and take it down.
 That's where I come out.
 I roll with you, Neil. Whatever.
-- Whatever.
-- Not on this one.
+Whatever.
+Not on this one.
 On this one, you're on your own.
 You figure this is the best thing to do?
 This is the best thing to do?
@@ -827,8 +827,8 @@ Let's go.
 Fuck them, let's do it.
 Let's go. We got a lot of work to do.
 Tim, I gotta call you back.
-- Can I help you?
-- Are you Alan Marciano?
+Can I help you?
+Are you Alan Marciano?
 Who the fuck are you?
 Who am I?
 Lieutenant Vincent Hanna, LAPD.
@@ -1038,8 +1038,8 @@ They dumped us.
 What do you mean?
 Chris slipped away.
 He doesn't talk about their scores... so there's nothing for me to get from Marciano. I just tried.
-- What about Cheritto?
-- Same.
+What about Cheritto?
+Same.
 Transponders got put on a bus to San Clemente.
 They dumped all our surveillance?
 Yes, at the same time. 9:00 p.m.
@@ -1119,8 +1119,8 @@ Put your hands behind you!
 Get down!
 Stay down!
 Get down!
-- Down!
-- The keys! The keys!
+Down!
+The keys! The keys!
 Stay down!
 We want to hurt no one.
 We want the bank's money, not yours.
@@ -1183,8 +1183,8 @@ Bottom line?
 It's mostly tissue damage, which is good.
 His clavicle's fractured. Can you rest?
 Six, seven hours.
-- That's it?
-- That's it.
+That's it?
+That's it.
 Take off your shirt.
 What?
 Take off your shirt.
@@ -1215,8 +1215,8 @@ Goddamn you.
 You're on a plane to Los Angeles.
 Right.
 Why did you do it? What happened?
-- They made me.
-- Who?
+They made me.
+Who?
 Where's Anna?
 She's dead.
 So is Michael and Breedan, the guy who stood in for you.
@@ -1227,8 +1227,8 @@ Who?
 Waingro.
 Waingro.
 On his own?
-- For someone.
-- Who?
+For someone.
+Who?
 The other he worked for.
 Van Zant.
 Van Zant?
@@ -1288,8 +1288,8 @@ You piece of shit.
 Told me you wanted out from under.
 You're scared, right?
 You want out? This is out.
-- Yeah, what's your end?
-- I don't need no stupid broad.
+Yeah, what's your end?
+I don't need no stupid broad.
 How'd I get into this?
 Easy.
 You heard me. She had a rough ride.
@@ -1370,8 +1370,8 @@ Level D, Slot 18.
 Here's some cash.
 When is it over?
 Twenty-two hours from now.
-- Then we get out of here clean.
-- When will you let me leave?
+Then we get out of here clean.
+When will you let me leave?
 Go now.
 You want out? There's the door.
 Will you let me leave later?
@@ -1395,18 +1395,18 @@ In her ex-husband's... dead-tech, post-modernistic, bullshit house... if you wan
 But you do not get to watch... my fucking... television set!
 For God's sake.
 Put the television set down.
-- I never cheated on you, bitch.
-- Maybe you should have.
-- I should have?
-- You're a party to this.
+I never cheated on you, bitch.
+Maybe you should have.
+I should have?
+You're a party to this.
 I made Ralph fuck you because it makes me feel good.
 Our situation is absurd.
 Shut up, Ralph! Sit down!
 Why is it that I have to figure things out and explain them to you?
 I say what I mean, and I do what I say.
 How admirable.
-- You bet.
-- Except none of it's about us.
+You bet.
+Except none of it's about us.
 No.
 I may be stoned on grass and Prozac but... you walk through our life dead.
 Now I have to demean myself with Ralph just to get closure with you.
@@ -1421,8 +1421,8 @@ He's gone.
 What?
 Said he's going on his own.
 Went to find Charlene.
-- Did you bring him here?
-- Yeah, I did.
+Did you bring him here?
+Yeah, I did.
 What happened?
 It's a free country.
 Check in with me at 9:00... everything is still cool.
@@ -1437,8 +1437,8 @@ All I know is... there's no point in me going anywhere anymore... if it's going 
 I got a live one.
 I'll hold.
 Show yourself.
-- Do it.
-- Shut up!
+Do it.
+Shut up!
 Now, just one second at the window... and it's all over.
 Hey, man... you know any place to rent around here?
 The grocer has got cards on the wall.
@@ -1469,8 +1469,8 @@ Neil is gone.
 Flying like a bird.
 How do you know?
 We still got bait!
-- Maybe some time!
-- What do we got?
+Maybe some time!
+What do we got?
 What do we got?
 <i>Bon voyage, motherfucker.</i>
 You were good.
@@ -1490,10 +1490,10 @@ I got you.
 You'll be all right, I swear. It's okay, baby.
 Let's get a doctor!
 Let's go! A doctor here!
-- There's your mama.
-- Let's just calm down.
-- Is she on any drugs?
-- I'm calm. No.
+There's your mama.
+Let's just calm down.
+Is she on any drugs?
+I'm calm. No.
 Get a trauma surgeon and a vascular surgeon.
 I think she cut both arteries.
 I could hardly feel her pulse.
@@ -1552,7 +1552,7 @@ I'll be right back. Just leave her running.
 This is room service.
 A Jamieson ordered a BLT, and they screwed up his room number. What is it?
 <i>- They're always doing that.
-- I know.</i>
+I know.</i>
 <i>1735.</i>
 Thank you.
 <i>Your attention, please.</i>

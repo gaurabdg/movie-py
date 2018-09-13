@@ -27,12 +27,12 @@ No. And you know why?
 Because it's a field!
 Hundreds of years, this wall's been here.
 Hundreds of years, this gap's been under 24-hour guard.
-- Well...
-- One more word, and I'll have you up in front of the village council!
-- Well, that sounds rather final.
-- Yeah.
-- Better just go home, then, I suppose.
-- Right, then. Night, Dunstan.
+Well...
+One more word, and I'll have you up in front of the village council!
+Well, that sounds rather final.
+Yeah.
+Better just go home, then, I suppose.
+Right, then. Night, Dunstan.
 Give my best to your father.
 Stop!
 Stop!
@@ -77,11 +77,11 @@ Yes. I've got them. Thank you, Father.
 <i>a much greater challenge altogether.</i>
 <i>For to achieve it,</i>
 <i>he must win the heart of his one true love.</i>
-- It's him!
-- It's him!
+It's him!
+It's him!
 Humphrey?
-- No, it's Tristan.
-- Oh.
+No, it's Tristan.
+Oh.
 Did I leave something at the shop?
 No. I just thought I could bring...
 Tristan Thorn, shop boy by day, peeping Tom by night.
@@ -94,18 +94,18 @@ In fact, I'm having trouble remembering if there was anything you were good at.
 Humphrey, that's enough.
 Are you all right?
 Yeah. Yeah, fine.
-- Want some breakfast?
-- No, I'm really late for work.
-- Are you all right?
-- Yeah. Fine. Why?
+Want some breakfast?
+No, I'm really late for work.
+Are you all right?
+Yeah. Fine. Why?
 Oh, I don't know.
 Last night, how'd it go?
 Oh, really good. Really, really good.
 Hello, Tristan.
-- Victoria.
-- Pound of sugar, please.
-- Yes.
-- Let's see, a bag of flour, a dozen eggs.
+Victoria.
+Pound of sugar, please.
+Yes.
+Let's see, a bag of flour, a dozen eggs.
 Oh, look, I'm sorry about last night.
 Humphrey was really rude.
 I also need a sack of potatoes and some chocolate, please.
@@ -115,14 +115,14 @@ Now?
 Yes. Yes, I can.
 Father, I lost my job.
 Father, I don't... I lost my job. I'm sorry.
-- Father...
-- You lost your job.
+Father...
+You lost your job.
 Yes, so I heard.
 Father, I'm sorry. I...
 Maybe Mr. Monday was right.
 Maybe I am deluding myself.
-- I'm not good enough for Victoria.
-- He said that? That's poppycock.
+I'm not good enough for Victoria.
+He said that? That's poppycock.
 You really want to know how it went last night?
 Yeah.
 Not good.
@@ -132,13 +132,13 @@ Tristan, I can tell you that every man
 I ever envied when I was a boy has led an unremarkable life.
 So you don't fit with the popular crowd.
 Now, I take that as a very good omen.
-- Tristan, I clearly said...
-- I know. You told me not to come.
+Tristan, I clearly said...
+I know. You told me not to come.
 I have something for you. A surprise.
 No...
 It's not my birthday for another week, you know.
-- I've never had champagne before.
-- Yeah, me, neither.
+I've never had champagne before.
+Yeah, me, neither.
 My God! This is delicious!
 How did... Well, how does a shop boy afford all of this?
 I'm not a shop boy.
@@ -169,8 +169,8 @@ I can't exactly say no after he's gone all the way to Ipswich.
 "All the way to Ipswich"?
 Victoria, for your hand in marriage,
 I'd cross oceans or continents.
-- Really?
-- Yes.
+Really?
+Yes.
 Victoria, for your hand in marriage,
 I would go to the gold fields of San Francisco and bring you back your weight in gold.
 I would.
@@ -208,24 +208,24 @@ And you killed them all for your throne before your father, the King, even felt 
 We know, Father.
 You're strong and courageous.
 And cunning. Most importantly, cunning.
-- Secundus.
-- Yes, Father?
+Secundus.
+Yes, Father?
 Look through the window.
 Tell me what you see.
 I see the kingdom, Father.
 The whole of Stormhold.
-- And?
-- My kingdom?
+And?
+My kingdom?
 Maybe. Look up.
-- Secundus.
-- Sextus. Quartus. Quintus.
+Secundus.
+Sextus. Quartus. Quintus.
 You're alive. You're...
 Stuck like this till the new king is crowned.
 I was that close.
 Well, at least you haven't lost your looks.
 Oh, please. You're not annoyed about that whole murder thing, are you?
-- I mean, that was 10 years ago.
-- Yeah.
+I mean, that was 10 years ago.
+Yeah.
 Great deal of good it did you, didn't it, killing me, Secundus?
 Because now, of course, now you are King of all Stormhold.
 Oh, sorry. Wait. No, you're not.
@@ -236,8 +236,8 @@ Tertius.
 Where is your sister, Una?
 Sorry, Father.
 Nobody has seen Una for years now.
-- Septimus?
-- What?
+Septimus?
+What?
 Tradition dictates the throne must pass to a male heir.
 Exactly, Father.
 So why would I kill my sister when these cretins are still alive?
@@ -259,8 +259,8 @@ My very own star.
 It seems we have ourselves an agreement.
 You have exactly one week or I'm marrying Humphrey.
 Mormo! Empusa! Wake up. Now!
-- What is it?
-- A star has fallen.
+What is it?
+A star has fallen.
 Where are the Babylon candles?
 You used the last one, Lamia,
 200 years ago. Do you not recall?
@@ -276,14 +276,14 @@ If these divinations are correct, the fallen star lies 100 miles away.
 Four centuries we've waited for this.
 What hardship a few more days?
 Which of us shall go, then, to seek it and bring it back?
-- I've his kidney.
-- I've his liver.
+I've his kidney.
+I've his liver.
 And I've his heart.
 You'll be needing what's left of the last star.
-- There's not much left.
-- Soon, there'll be plenty for us all.
-- Dunstan Thorn. Not again.
-- It's Tristan, actually.
+There's not much left.
+Soon, there'll be plenty for us all.
+Dunstan Thorn. Not again.
+It's Tristan, actually.
 Oh. You do look a bit like your father.
 And I suppose you intend to cross the wall as well, do you?
 Well, you can forget it. Go home.
@@ -296,15 +296,15 @@ Yeah... No, no, I know.
 I understand. Nobody.
 Well, I better just head for the old homestead, then.
 Yeah.
-- Right, then. Night, Tristan.
-- Good night.
+Right, then. Night, Tristan.
+Good night.
 Give my best to your father.
 Off you go.
 I thought I heard you come in.
 Hey, what happened? Are you hurt?
 No, I'm fine.
-- That Humphrey again?
-- No.
+That Humphrey again?
+No.
 Actually, it was the guard.
 The guard at the wall.
 Tristan, he's 97 years old.
@@ -355,8 +355,8 @@ I was. I was thinking of my...
 But then Victoria and the star just popped into...
 Oh, excuse me, madam. Sorry.
 This may seem strange, but have you seen a fallen star anywhere?
-- You're funny.
-- No, really, we're in a crater.
+You're funny.
+No, really, we're in a crater.
 This must be where it fell.
 Yeah, this is where it fell.
 It is. Or if you want to be really specific, up there is where this weird, bloody necklace came out of nowhere and knocked it out of the heavens when it was minding its own business.
@@ -366,8 +366,8 @@ You're the star! You're the star? Really?
 Oh, wow. I'm sorry.
 I had no idea you'd be a...
 May I just say in advance that I am sorry?
-- Sorry for what?
-- For this.
+Sorry for what?
+For this.
 Now, if I am not mistaken, this means you have to come with me.
 See, you're going to be a birthday gift for Victoria, my true love.
 But of course!
@@ -380,8 +380,8 @@ The first benevolent king.
 I don't doubt Stormhold would be a better place under your rule.
 Really?
 Well, that is fascinating.
-- Don't you think, Tertius?
-- Yes, indeed.
+Don't you think, Tertius?
+Yes, indeed.
 Prince Septimus! Tertius. Well... Well.
 Well, well, I...
 Since you're all here, won't you join me in a toast?
@@ -390,8 +390,8 @@ To the new King of Stormhold, whichever of you fine fellows it might be.
 To the new King of Stormhold.
 You!
 You really thought that you were king?
-- You killed the Bishop?
-- No, Primus.
+You killed the Bishop?
+No, Primus.
 I think you'll find that you killed the
 Bishop by drinking out of the wrong cup.
 Oh, look, when you finish wrestling with your conscience, may I suggest you return to your chamber?
@@ -418,10 +418,10 @@ I've had enough of you anyway.
 I was gonna put you back in the sky once I'd brought you to my Victoria, but clearly, you'd rather sit on your own in the middle of nowhere forever.
 And just how were you planning to get me back to the sky?
 I find the fastest way to travel is by candlelight.
-- You've got a Babylon candle.
-- Yeah, I have a bubbling candle.
-- A Babylon candle.
-- That's what I said.
+You've got a Babylon candle.
+Yeah, I have a bubbling candle.
+A Babylon candle.
+That's what I said.
 You said "Bubbling. "
 Anyway, I was going to give what's left of it to you.
 Well, that barely has one use left.
@@ -435,8 +435,8 @@ Otherwise, I'll never get you back to Victoria in a week.
 Don't push your luck.
 Don't take less than a florin for him,
 Bernard! You understand?
-- Yes, Mother.
-- No dilly-dallying!
+Yes, Mother.
+No dilly-dallying!
 And don't even think of stopping at the tavern, Bernard, or you'll be sorry!
 A florin for your goat, boy.
 Oh.
@@ -452,8 +452,8 @@ Oh, do shut up. I know what you are and I swear by the ordinances of the sisterh
 I wish to share your meal.
 Well, one can never be too careful.
 Sit down. I'll get you a seat.
-- Anything else?
-- Nope.
+Anything else?
+Nope.
 What's it to be?
 Heads or tails?
 Heads.
@@ -471,8 +471,8 @@ Limbus grass!
 You dare to steal truth from my lips by feeding me limbus grass?
 Do you have any idea what a big mistake you've made, Ditchwater Sal?
 How do you know my...
-- Who are you?
-- Look again.
+Who are you?
+Look again.
 I shall not seek the star,
 Your Dark Majesty. I swear.
 Seek all you wish.
@@ -485,8 +485,8 @@ You think you know we're going the right way because...
 And I quote, "I just do. "
 I do, though. I don't know why.
 Maybe it's my love for Victoria guiding me home.
-- Please.
-- Yvonne, whether you like it or not...
+Please.
+Yvonne, whether you like it or not...
 Yvaine! My name is Yvaine, so...
 How many times do I have to...
 Would you...
@@ -502,10 +502,10 @@ My sides are splitting.
 No, I'm being...
 Wait that... That was you! Really?
 What... What are...
-- What are you doing?
-- What does it look like I'm doing?
-- Sitting down. I'm tired.
-- Please don't do this again.
+What are you doing?
+What does it look like I'm doing?
+Sitting down. I'm tired.
+Please don't do this again.
 We agreed we'd stop off at the next village to eat and rest.
 Come on, Tristan. It's midday.
 I never stay up this late!
@@ -533,8 +533,8 @@ Is my favorite color blue?
 Yes.
 Has excessive begging or pleading ever persuaded me to spare the life of a traitor?
 What does that mean?
-- That means no.
-- Good.
+That means no.
+Good.
 Throw them again.
 This time, throw them high.
 Do you work for my brother?
@@ -602,8 +602,8 @@ I'm on a quest of enormous importance.
 Well, then all the more reason to take me with you.
 There may come a time when you need a second pair of hands. Sir?
 Please. Maybe providence sent me to you just as it sent you to me.
-- Get on.
-- Oh, yes. Thank you.
+Get on.
+Oh, yes. Thank you.
 Goodness me, my dear.
 Come in out of this wretched rain!
 We have food and drink, a warm bed and plenty of hot water for a bath.
@@ -649,8 +649,8 @@ Hello!
 Oh.
 I'm accustomed to better service, but you're awake now and that's what counts.
 Prepare your best room.
-- She got the stone.
-- Stone, stone.
+She got the stone.
+Stone, stone.
 I'll thank you not to bother my guest, sir.
 I am the lady of this inn.
 Glass of wine?
@@ -674,31 +674,31 @@ There was not a horse or beast he could not master.
 So much so that in his youth, he took to riding a camel, which was comical.
 When he passed, the carriage came to me.
 She's got the stone!
-- She's got it!
-- She's got it!
+She's got it!
+She's got it!
 And it's the largest in all of Stormhold, so they say.
 How nice for you. If you'll excuse me.
 Wait.
 That stone you're wearing. It can't be.
-- Oh, finally.
-- Yeah, good, well done, yes, sir.
-- Well done.
-- Sweet.
+Oh, finally.
+Yeah, good, well done, yes, sir.
+Well done.
+Sweet.
 Come here. Let me see it.
 You have no idea what you're meddling with.
 I am Primus, the first born of Stormhold and I demand that you bring it to me!
 Bring me the stone! Now!
 Prince Primus! Don't touch anything they give you! They tried to...
-- Are you all right?
-- Billy!
+Are you all right?
+Billy!
 Get him!
 The burning golden heart of a star at peace is so much better than your frightened little heart.
 Even so, better than no heart at all.
 Yvaine?
 Hold me tight and think of home.
 No!
-- What the hell did you do?
-- What did I do? What did you do?
+What the hell did you do?
+What did I do? What did you do?
 "Think of home!" That was a great plan!
 You thought of your home and I thought of mine and now we're halfway between the two!
 Oh, you stupid cow!
@@ -718,12 +718,12 @@ Well, let's think.
 Maybe for the same godforsaken reason we are!
 Now, who are you?
 Let's see if a night on our lovely brig will loosen their lips!
-- Get them in the brig!
-- You heard the man! Let's go!
+Get them in the brig!
+You heard the man! Let's go!
 Get them into the brig and the rest of you dirty dogs, back to work!
 We've got lightning to catch! Come on!
-- They're going to kill us, aren't they?
-- I don't know.
+They're going to kill us, aren't they?
+I don't know.
 You know, it's funny. I used to watch...
 I used to watch people having adventures.
 I envied them.
@@ -748,15 +748,15 @@ Which means that I'm king.
 I'm king!
 Not yet, brother.
 Damn. I still need the stone.
-- Your brother doesn't have it?
-- Well, why don't you find out?
+Your brother doesn't have it?
+Well, why don't you find out?
 Where is my stone?
 I don't...
 The man, see, your brother...
 I heard him speak of a stone.
 Yeah. The girl had it. The girl had it.
-- What girl?
-- I don't know.
+What girl?
+I don't know.
 A girl. She got away.
 Because this was a trap set up for her, but your brother, he come just straight into it.
 A trap? Set by who?
@@ -774,8 +774,8 @@ Everlasting life.
 King forever.
 It's not here, sire.
 This idiot's coming with us.
-- Ask again.
-- We have asked again and the answer is still the same.
+Ask again.
+We have asked again and the answer is still the same.
 She is airborne!
 Well, she can't remain so forever.
 Inform me as soon as she touches ground!
@@ -812,15 +812,15 @@ Get a move on!
 So, this is the part where you tell me who you are and why you're up here.
 Or I'll snap her pretty little fingers one by one like dry twigs!
 My name is Tristan Thorn.
-- This is my wife, Yvaine.
-- Your wife?
+This is my wife, Yvaine.
+Your wife?
 Far too young and radiant to belong to just one man!
 It's share and share alike aboard my vessel, sonny boy!
 If you dare even touch her...
 You may think you're showing a little spirit in front of your lady friend, but if you talk back to me again,
 I'll feed your tongue to the dogs, you impertinent little pup!
-- Sir?
-- Better! But still interrupting.
+Sir?
+Better! But still interrupting.
 Let's see.
 A hanging's always good for morale!
 Maybe we'll watch you dance a gallows jig!
@@ -831,22 +831,22 @@ Please, look, we're just trying to make our way home, back to a place called Wal
 What did you say?
 I said we were trying to get home to Wall.
 That's one lie too many, my son.
-- Wall?
-- Shut up.
+Wall?
+Shut up.
 What's he saying?
 Thought you could just wander onto my patch, did you?
-- He is. Yeah, he's gonna...
-- And live to tell the tale?
+He is. Yeah, he's gonna...
+And live to tell the tale?
 All right, go, on the deck, on the deck, on the deck! Now, go, go, go!
 Big mistake, Mr. Thorn!
 And the last one you'll ever make!
-- No! No! You brute!
-- Come... Come on!
-- You murderer! You pig!
-- Come on! Get up! Get up!
+No! No! You brute!
+Come... Come on!
+You murderer! You pig!
+Come on! Get up! Get up!
 I'm taking the girl to my cabin, and mark my words, anyone who disturbs me for the next few hours
-- will get the same treatment!
-- What? You'll...
+will get the same treatment!
+What? You'll...
 No, you idiot!
 I'll sling you over the side as well!
 Oh, yeah.
@@ -883,8 +883,8 @@ Oh, no, really, I'm fine.
 Honey, you're wearing a bathrobe.
 Now, England, England.
 I want to hear everything.
-- You're not from England.
-- Oh, no, sadly, no.
+You're not from England.
+Oh, no, sadly, no.
 But from my earliest youth,
 I lapped up the stories.
 People always told me they were nothing more than folklore, but my heart told me they were true.
@@ -892,8 +892,8 @@ As a boy, I'd scurry away from my father at the market while he did his deals ju
 Really? So you...
 You were here looking over there.
 Oh, yes.
-- Hair.
-- Hair?
+Hair.
+Hair?
 Mind you, I did my best to fit in.
 Tried to make my father,
 Captain Ghostmaker, proud.
@@ -925,37 +925,37 @@ Shall I give you a little taste, young Ferdinand?
 No, no. Oh, there you go.
 Brilliant. Like they're cheap.
 <i>I think it's still crackling, very much alive, still trés fresh.</i>
-- So, name your best price.
-- For 10,000 bolts?
+So, name your best price.
+For 10,000 bolts?
 Ten thousand bolts of finest quality grade A.
 Yeah, but it's difficult to shift, isn't it? Difficult to store.
 If I get the Revenue Men in here sniffing round, what's the...
 Best price, 150 guineas.
 Gentlemen, put the merchandise back onboard and prepare to sail.
-- Whoa, whoa, whoa.
-- Ferdinand, always a pleasure.
+Whoa, whoa, whoa.
+Ferdinand, always a pleasure.
 Hold on. Hold on. One minute.
 Hold on, cuddles.
-- Oh, he's...
-- One-sixty. One-sixty.
+Oh, he's...
+One-sixty. One-sixty.
 Seeing as I'm feeling particularly generous today,
 I'll settle for 200.
 Two hundred? Okay.
 You're having a laugh.
 Have you had your head in that?
 Has he been sailing up where the air's too thin?
-- You're being very rude.
-- Not anymore.
-- Two hundred.
-- One-eighty.
-- Two hundred.
-- That's not negotiation.
+You're being very rude.
+Not anymore.
+Two hundred.
+One-eighty.
+Two hundred.
+That's not negotiation.
 I'm changing my number.
 One-eight-five.
-- Did I hear 200?
-- From you, you did. Yeah.
-- You said 200.
-- Lf I did, you're a ventriloquist.
+Did I hear 200?
+From you, you did. Yeah.
+You said 200.
+Lf I did, you're a ventriloquist.
 Okay, one-nine-five. Final offer.
 One-nine-five it is.
 So, with sales tax, that's, let's see, 200.
@@ -966,18 +966,18 @@ Nosy.
 Have you heard any of these rumors going round about a fallen star?
 Everyone's talking about it.
 You get your hands on one of them, we can shut up shop. Retire.
-- Fallen star?
-- Yeah.
-- Nothing on your travels?
-- No.
+Fallen star?
+Yeah.
+Nothing on your travels?
+No.
 Not even a little sniff of a whisper?
 Everyone's going on about it down at the market.
 Which market?
 The market near the wall?
 Yeah.
 Well, Ferdy, you're wasting your time listening to gossip from the kind of pond scum trading down there.
-- Well, if it...
-- Oh, my word! Speak of the devil.
+Well, if it...
+Oh, my word! Speak of the devil.
 Oh, yeah? What were you saying, then?
 Oh, what a wonderful woman you are, Sal.
 How the world wouldn't be the same place without you.
@@ -1005,20 +1005,20 @@ You must learn to control them.
 You've been glowing more brightly every day, and I think you know why.
 Of course I know why I'm glowing.
 I'm a star.
-- And what do stars do best?
-- Well, it's certainly not the waltz.
-- Now try.
-- Okay.
-- See?
-- Very good.
+And what do stars do best?
+Well, it's certainly not the waltz.
+Now try.
+Okay.
+See?
+Very good.
 Due west, you say?
 And you're certain he had a girl with him?
 Yeah.
 You're sure? Absolutely sure?
 Sure you're not lying?
 I'd cross my heart if I had one.
-- Brilliant.
-- You'd better be telling the truth, you two-faced dog.
+Brilliant.
+You'd better be telling the truth, you two-faced dog.
 I can get you one of them, actually.
 Very good guard dogs.
 They can watch the back and the front door at the same time.
@@ -1057,8 +1057,8 @@ Barter for it, you know.
 For the last time, where is the girl?
 The girl with the stone!
 Where did she go?
-- Are you mocking me?
-- No...
+Are you mocking me?
+No...
 'Cause if you are, believe me, you have seconds to live!
 What a freak.
 Clean this thoroughly.
@@ -1071,8 +1071,8 @@ No matter. We have found her.
 She is on the road to the village of Wall.
 If you take the shortcut across the marshes, you should arrive in time to intercept her.
 Yvaine.
-- Are you trying to break my leg again?
-- I'm sorry. I'm sorry.
+Are you trying to break my leg again?
+I'm sorry. I'm sorry.
 I just... I can't risk people seeing you.
 I don't trust anyone.
 But at this rate, if we keep stopping...
@@ -1092,8 +1092,8 @@ Someone you love.
 Maybe then it might be different.
 Come on, I think we're safe.
 Now remember, Captain Shakespeare has a fearsome reputation.
-- What the hell is this?
-- What are you doing here?
+What the hell is this?
+What are you doing here?
 My name is Prince Septimus.
 And you're going to tell me where I can find the girl.
 All right, twinkletoes.
@@ -1108,13 +1108,13 @@ Wait, I'm sorry.
 All right, let me... Let me...
 Do I get another guess?
 Is it... Do they know exactly how to annoy a boy called Tristan Thorn?
-- How long will that take?
-- Maybe two days.
+How long will that take?
+Maybe two days.
 But we don't have two days.
 Victoria's birthday is tomorrow.
 Yes, it is. Well remembered.
-- Nice cup of Earl Grey.
-- Get out, everybody. Get out.
+Nice cup of Earl Grey.
+Get out, everybody. Get out.
 Did he hurt you, Captain?
 Did you tell him where your nephew and the girl went?
 So what's the problem?
@@ -1122,8 +1122,8 @@ It's my reputation.
 No. No, no. Don't be silly. Nonsense.
 It's all right, Captain.
 We always knew you were a whoopsie.
-- You'll always be our captain, Captain.
-- Aye, aye, Captain.
+You'll always be our captain, Captain.
+Aye, aye, Captain.
 Captain.
 Yeah. Let's go, let's go.
 Prince Septimus, your men, they're dead.
@@ -1132,10 +1132,10 @@ Go on!
 I met that woman.
 She's friends with the Captain.
 He said she trades at the market near Wall.
-- We could hitch a lift.
-- Really? She's a friend of the Captain's?
-- You sure?
-- Yes, yes.
+We could hitch a lift.
+Really? She's a friend of the Captain's?
+You sure?
+Yes, yes.
 Wait! Sorry!
 My name is Tristan Thorn. This...
 That's my flower.
@@ -1148,8 +1148,8 @@ Oh.
 Perhaps I was mistaken.
 It's all right.
 It's obviously very valuable to you, so you can have it in exchange for what I need.
-- A Babylon candle?
-- And safe passage to the wall.
+A Babylon candle?
+And safe passage to the wall.
 A Babylon candle?
 Oh, no, no, no.
 I don't deal in black magic.
@@ -1158,15 +1158,15 @@ Well, can you give us a lift then?
 To the wall?
 Well, why didn't you say so in the first place?
 For that flower, I can offer you passage.
-- Food and lodging on the way?
-- Safe passage.
+Food and lodging on the way?
+Safe passage.
 I swear that you will arrive at the wall in the exact same condition that you're in now.
 Do you have any idea what manner of thing it was that you had?
 Some kind of lucky charm?
 A very lucky charm indeed. Protection.
 In fact, the exact same thing that would've prevented me from doing this.
-- Oh, my God! What did you do?
-- Much better.
+Oh, my God! What did you do?
+Much better.
 <i>You shall not see the star, touch it, smell or hear it.</i>
 Though I'll keep me word.
 You shall not be harmed.
@@ -1215,12 +1215,12 @@ Come on. There's an inn over there.
 Victoria's birthday's not till tomorrow.
 I think you need a bath and a good night's sleep before you present me to her.
 Come on. Come.
-- Come on, Tristan. It's not that far.
-- Okay.
-- Excuse me?
-- Oh!
-- I think you're in my bath.
-- Well, close your eyes!
+Come on, Tristan. It's not that far.
+Okay.
+Excuse me?
+Oh!
+I think you're in my bath.
+Well, close your eyes!
 I'm not... Honestly, I'm not looking.
 Here, I'll turn away.
 All right, you can open them now.
@@ -1236,10 +1236,10 @@ He told me that my true love was right in front of my eyes.
 And he was right.
 Hey, guys! Guys, come on! Come on, you got to come up and see this!
 No, thank you.
-- Pervert!
-- Suit yourself.
-- Ironic, isn't it?
-- Yeah. What is?
+Pervert!
+Suit yourself.
+Ironic, isn't it?
+Yeah. What is?
 Septimus will be here by the morning, find the girl, get the stone and be king forever.
 So unjust.
 Still, at least we will be free.
@@ -1257,8 +1257,8 @@ Can I have a piece of paper and a pen?
 Ask me again at a more reasonable hour.
 No, I can't. I have to go.
 Look, if my friend wakes up before I get back,
-- please, can you give her a message?
-- Go on.
+please, can you give her a message?
+Go on.
 You know, that's the first time
 I've ever slept at night.
 I can't believe it.
@@ -1268,8 +1268,8 @@ He left absurdly early.
 He left?
 He told me to tell you he's gone to see Victoria because he's sorry, but he's found his true love and he wants to spend the rest of his life with her.
 What?
-- Are you sure?
-- I'm positive.
+Are you sure?
+I'm positive.
 Hey! Hey, wait! Wait!
 Happy birthday.
 Tristan.
@@ -1277,8 +1277,8 @@ What happened to you?
 I found the star.
 I can't believe you did it.
 Where's my star? Can I see it?
-- Is it beautiful?
-- Yes.
+Is it beautiful?
+Yes.
 Well, it's awfully small.
 Well, that's just a little piece.
 A token for your birthday.
@@ -1287,8 +1287,8 @@ It's not the star that I want.
 You know what I want.
 Yeah. I do.
 You want to grow up and get over yourself.
-- Humphrey.
-- Thorn.
+Humphrey.
+Thorn.
 You must have a death wish.
 Humphrey. Humphrey, it's all right.
 She's all yours.
@@ -1321,8 +1321,8 @@ Trust you? Not a mistake
 I'd be likely to make again.
 What's it to be, Ditchwater Sal?
 Heads or tails?
-- Oh, God. Time to go.
-- She's not going anywhere.
+Oh, God. Time to go.
+She's not going anywhere.
 I think you'll find she is.
 It's all right. You can come, too.
 You can ride in the carriage or be dragged behind it. Your choice.
@@ -1354,18 +1354,18 @@ Do as I say and we may stand a chance.
 Wait.
 How do I know you can be trusted?
 You don't. Why? Do you have a choice?
-- No.
-- Well, then, let's go.
+No.
+Well, then, let's go.
 Get off me! Get off!
-- Una?
-- Septimus.
-- Una!
-- Sister!
+Una?
+Septimus.
+Una!
+Sister!
 Tristan! No! Tristan!
 I'm your... I'm your... I'm your mother.
 I'm your mother.
-- Rather well.
-- Good riddance to you. Yes.
+Rather well.
+Good riddance to you. Yes.
 Oh!
 Let's put out those flames.
 Shall we?
@@ -1374,11 +1374,11 @@ We have to learn to live with each other.
 Forever?
 Let's get on with it.
 Be the man that I know you are.
-- Get outside.
-- Okay.
+Get outside.
+Okay.
 Go.
-- Tristan!
-- Get him.
+Tristan!
+Get him.
 Get off!
 Get out!
 So, what's it to be, Prince Charming?
@@ -1396,12 +1396,12 @@ No!
 I owe you thanks, boy.
 What use was her heart to me when it was broken?
 And you got rid of my sisters and now I can have it all for myself.
-- Hold me tight and close your eyes.
-- What? Why?
+Hold me tight and close your eyes.
+What? Why?
 What do stars do?
 Shine.
-- Bravo!
-- Yeah!
+Bravo!
+Yeah!
 Very good.
 Why didn't you do that earlier?
 I couldn't have done that without you.

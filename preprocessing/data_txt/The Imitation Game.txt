@@ -18,10 +18,10 @@ Come in.
 <i>What happens from this moment forwards is not my responsibility.</i>
 <i>It's yours.</i>
 <i>Pay attention.</i>
-- What's all this, then?
-- Turing, Alan. Professor at King's.
-- Seems there's been a burglary.
-- Oh? What of?
+What's all this, then?
+Turing, Alan. Professor at King's.
+Seems there's been a burglary.
+Oh? What of?
 Well, that's just it.
 Nothing missing, really.
 What's he doing in Manchester?
@@ -33,11 +33,11 @@ Detective Nock, Manchester Police.
 Sergeant Staehl here tells me you had a burglary last night.
 Professor Turing?
 Take a step back, and don't breath heavily.
-- Breathe?
-- Undiluted cyanide.
+Breathe?
+Undiluted cyanide.
 It wouldn't take more than a thimbleful to kill you.
-- Disappointing.
-- Pardon?
+Disappointing.
+Pardon?
 I had hoped for a bit more.
 Sergeant Staehl, is it just me, or do you get the sense that we're being insulted?
 Last night, you had a break-in.
@@ -52,11 +52,11 @@ I suggest you file your reports and leave me alone.
 As you say, Professor Turing.
 Best of luck with your cyanide.
 I'll give you a quid if you can name me a more insufferable sod.
-- Seemed a bit forced, though, didn't it?
-- Don't know what you mean.
+Seemed a bit forced, though, didn't it?
+Don't know what you mean.
 Well, if you didn't want a pair of bobbies digging around in your personal affairs, that'd have been a stellar way to make sure they don't.
-- Tell me you don't think this is suspicious.
-- I don't think this is suspicious.
+Tell me you don't think this is suspicious.
+I don't think this is suspicious.
 A mysterious professor who won't admit he's had something stolen from his house?
 I think Alan Turing's hiding something.
 War declared!
@@ -80,31 +80,31 @@ German bombs expected soon!
 <i>a peaceful way out...</i>
 Papers, please.
 What are you doing here?
-- Oh, the lady told me to wait.
-- In my office?
+Oh, the lady told me to wait.
+In my office?
 She tell you to help yourself to tea while you were here?
 No, she didn't.
 She obviously didn't tell you what a joke was, then, either, I gather.
 Was she supposed to?
-- Who are you?
-- Alan Turing.
+Who are you?
+Alan Turing.
 Turing. The mathematician.
-- Correct.
-- However could I have guessed?
+Correct.
+However could I have guessed?
 Well, you didn't. You just read it on that piece of paper.
 King's College, Cambridge.
 Now, it says here you were a bit of a prodigy in the maths department.
 I'm not sure I can evaluate that, Mr....
-- How old are you, Mr. Turing?
+How old are you, Mr. Turing?
 And how old were you when you became a Fellow at Cambridge?
-- And how old were you... when you published this paper that has a title I can barely understand?
+And how old were you... when you published this paper that has a title I can barely understand?
 And you don't think that qualifies you as a certified prodigy?
 Well, Newton discovered binomial theorem aged 22.
 Einstein wrote four papers that changed the world by the age of 26.
 As far as I can tell, I've...
 I've barely made par.
-- My God, you're serious.
-- Would you prefer I made a joke?
+My God, you're serious.
+Would you prefer I made a joke?
 Oh, I don't think you know what those are.
 Hardly seems fair that that's a requirement for employment here, Mr...
 Commander Denniston, Royal Navy.
@@ -114,20 +114,20 @@ Oh, I don't, really.
 Are you a bleeding pacifist?
 I'm... agnostic about violence.
 Well, you do realize that 600 miles away from London there's this nasty little chap called Hitler who wants to engulf Europe in tyranny?
-- Politics isn't really my area of expertise.
-- Really?
+Politics isn't really my area of expertise.
+Really?
 Well, I believe you've just set the record for the shortest job interview in British military history.
 Mother says I can be off-putting sometimes on account of being one of the best mathematicians in the world.
-- In the world?
-- Oh, yes.
+In the world?
+Oh, yes.
 Do you know how many people
 I've rejected for this program?
 No.
 Well, that's right, because we're a top-secret program.
 But I'll tell you, just because we're friends, that only last week, I rejected one of our great nation's top linguists.
 Knows German better than Bertolt Brecht.
-- I don't speak German.
-- What?
+I don't speak German.
+What?
 I don't... speak German.
 Well, how the hell were you supposed to decrypt German communications if you don't...
 I don't know, speak German?
@@ -135,8 +135,8 @@ Well, I'm really quite excellent at crossword puzzles.
 Margaret!
 The German codes are a puzzle.
 A game, just like any other game.
-- Margaret, where are you?
-- I'm really very good at games. Puzzles.
+Margaret, where are you?
+I'm really very good at games. Puzzles.
 And this is the most difficult puzzle in the world.
 Margaret! For the love of God.
 This is a joke, obviously.
@@ -171,8 +171,8 @@ But we have an Enigma machine.
 Yes, Polish Intelligence smuggled it out of Berlin.
 So, what's the problem?
 Just put the intercepted messages
-- back into the Enigma and you'll...
-- Look, it's not that simple, is it?
+back into the Enigma and you'll...
+Look, it's not that simple, is it?
 Just having an Enigma machine doesn't help you to decode the messages.
 Very good, Mr. Turing.
 To decode a message, you need to know the machine's settings.
@@ -181,19 +181,19 @@ We usually intercept our first message around 6:00 a.m., which gives you exactly
 18 hours every day to crack the code before it changes, and you start again.
 Five rotors. Ten plugboard cables.
 That's...
-- One million...
-- A thousand million...
+One million...
+A thousand million...
 No, no, it's, I've got it.
-- It's million, million.
-- It's in the millions, obviously.
+It's million, million.
+It's in the millions, obviously.
 It's over 150 million million million possible settings.
 Very good.
 159. If you want to be exact about it.
 1-5-9 with 18 zeroes behind it.
 Possibilities. Every single day.
 Gentlemen, meet Hugh Alexander.
-- I personally selected him to run this unit.
-- Didn't you...
+I personally selected him to run this unit.
+Didn't you...
 Mr. Alexander won Britain's national chess championship.
 Twice.
 You're not the only one who's good at games around here, Turing.
@@ -207,8 +207,8 @@ This is Stewart Menzies, MI6.
 There are only five divisions of military intelligence. There is no MI6.
 Exactly. That's the spirit.
 Mr. Turing, do you know how many British servicemen have died because of Enigma?
-- No, I don't.
-- Three... while we've been having this conversation.
+No, I don't.
+Three... while we've been having this conversation.
 Oh, look, there's another.
 I rather hope he didn't have a family.
 This war Commander Denniston's been going on about, we're not winning it.
@@ -230,10 +230,10 @@ Let's play.
 <i>how many days do you think it would take to...</i>
 <i>to check each of the settings?</i>
 <i>Well, it's not days, it's years.</i>
-- Good morning.
-- <i>It's 20 million years.</i>
-- <i>To stop a coming attack...</i>
-- Thank you.
+Good morning.
+<i>It's 20 million years.</i>
+<i>To stop a coming attack...</i>
+Thank you.
 <i>...we would have to check
 20 million years' worth of settings</i>
 <i>in 20 minutes.</i>
@@ -241,27 +241,27 @@ I'm famished. Lunch?
 Good Lord.
 What is it about women with little hats?
 The boys, we're going to get some lunch.
-- Alan?
-- Yes?
+Alan?
+Yes?
 I said we're going to get some lunch.
-- Alan?
-- Yes?
-- Can you hear me?
-- Yes.
+Alan?
+Yes?
+Can you hear me?
+Yes.
 I said we're off to get some lu...
 This is starting to get a little bit repetitive.
 What is?
 I had asked if you wanted to come to lunch with us.
 No, you didn't. You said you were going to get some lunch.
-- Have I offended you in some way?
-- Why would you think that?
-- Would you like to come to lunch with us?
-- What time's lunchtime?
+Have I offended you in some way?
+Why would you think that?
+Would you like to come to lunch with us?
+What time's lunchtime?
 Christ, Alan, it's a bleeding sandwich.
-- What is?
-- Lunch.
-- Oh, I don't like sandwiches.
-- Never mind.
+What is?
+Lunch.
+Oh, I don't like sandwiches.
+Never mind.
 You know, to pull off this irascible genius routine, one actually has to be a genius, Alan.
 And yet we're the ones making progress here, aren't we?
 Oh, you are?
@@ -289,13 +289,13 @@ I suggest you make a proper appointment.
 Alexan... Complaint?
 No, no, Hugh Alexander has denied my requisition for parts and equipment that I need to build the machine I've designed.
 Your fellow code-breakers are refusing to work with you,
-- and they filed a formal complaint.
-- It's is inspired by an old Polish code machine.
-- Only this one is infinitely more advanced.
-- If you don't respond to the complaint,
+and they filed a formal complaint.
+It's is inspired by an old Polish code machine.
+Only this one is infinitely more advanced.
+If you don't respond to the complaint,
 I shall have to take it up with the Home Office.
-- Put those files by my desk.
-- Fine, my response is they're all idiots.
+Put those files by my desk.
+Fine, my response is they're all idiots.
 Fire them and use the savings to fund my machine.
 I only need about 100,000 pounds.
 Why are you building a machine?
@@ -326,18 +326,18 @@ Possibly.
 Would you deliver a letter for me?
 Look, I'm sorry, but are you joking?
 Churchill's put Alan in charge?
-- This is a terrible idea.
-- No, no, no, no, no.
+This is a terrible idea.
+No, no, no, no, no.
 So, I can give these men orders now?
 I hate to say it, but yes.
 Excellent. Keith and Charles, you're both fired.
-- Excuse me?
-- What?
+Excuse me?
+What?
 You're mediocre linguists, and positively poor code-breakers.
 Alan, you can't just fire
 Keith and Charles.
-- Well, he just said I could.
-- No, I did no such thing.
+Well, he just said I could.
+No, I did no such thing.
 But Churchill did.
 Go to hell.
 Well, this is inhuman. Even for you.
@@ -363,21 +363,21 @@ Leave him to bloody rot.
 Alan, are you all right?
 It's not my fault.
 The carrots got in with the peas and...
-- I'm sorry. I won't let them do it again.
-- They're getting worse.
+I'm sorry. I won't let them do it again.
+They're getting worse.
 They only beat me up because I'm smarter than they are.
 No, they beat you up because you're different.
-- Mother says I'm just an odd duck.
-- And she's right.
+Mother says I'm just an odd duck.
+And she's right.
 But you know, Alan, sometimes it's the very people who no one imagines anything of who do the things no one can imagine.
 So, what do we do now?
-- We're short on staff.
-- Well, we get more staff then.
+We're short on staff.
+Well, we get more staff then.
 And how do you propose to do that?
-- Alan Turing to see Stewart Menzies.
-- Very good, sir.
-- So, who are they?
-- Oh, all sorts, really.
+Alan Turing to see Stewart Menzies.
+Very good, sir.
+So, who are they?
+Oh, all sorts, really.
 Teacher, an engineer, a handful of students.
 And you think they're qualified for Bletchley
 'cause they're good at crossword puzzles?
@@ -389,38 +389,38 @@ Pardon, ma'am, this room's restricted.
 Apologies for my tardiness.
 The bus caught a flat tire.
 May I continue, please? Thank you.
-- You're not allowed in here, ma'am.
-- Oh, but I'm only a few minutes late.
+You're not allowed in here, ma'am.
+Oh, but I'm only a few minutes late.
 The secretaries are to head upstairs.
 This room's for the candidates.
 May I get on with this now, please?
-- I am a candidate.
-- For what position?
-- The letter didn't say precisely.
-- Yeah, so secretaries are to head upstairs.
-- It did say that it was top secret.
-- What is going on?
+I am a candidate.
+For what position?
+The letter didn't say precisely.
+Yeah, so secretaries are to head upstairs.
+It did say that it was top secret.
+What is going on?
 I solved a crossword puzzle in the newspaper, and I got this letter saying that I was a candidate for some sort of mysterious job.
 My name's Joan Clarke.
 Miss, did you really solve this puzzle yourself?
 What makes you think I couldn't solve the puzzle myself?
-- I'm really very good at...
-- Ma'am, I'll have to ask you to...
+I'm really very good at...
+Ma'am, I'll have to ask you to...
 Miss Clarke, I find tardiness under any circumstance, unacceptable.
 Take a seat so that we may continue.
 Thank you.
 Now, as I was saying, you have six minutes to complete the task in front of you.
 Gentlemen and lady, begin.
 Six minutes.
-- Is that even possible?
-- No, it takes me eight.
+Is that even possible?
+No, it takes me eight.
 This isn't about crossword puzzles.
 It's about how one approaches solving an impossible problem.
 Do you tackle the whole thing at once or divide it into small...
-- You've finished?
-- Yes.
-- Five minutes and 34 seconds.
-- You said to do it in under six.
+You've finished?
+Yes.
+Five minutes and 34 seconds.
+You said to do it in under six.
 Congratulations. My warmest welcome to His Majesty's service.
 If you speak a word of what I'm about to show you, you will be executed for high treason.
 You will lie to your friends, your family and everyone you meet about what it is you really do.
@@ -428,13 +428,13 @@ And what is it that we're really doing?
 We're going to break an unbreakable
 Nazi code and win the war.
 What's that you're reading?
-- It's about cryptography.
-- Like secret messages?
+It's about cryptography.
+Like secret messages?
 Not secret. That's the brilliant part.
 Messages that anyone can see, but no one knows what they mean unless you have the key.
 How's that different from talking?
-- Talking?
-- When people talk to each other, they never say what they mean.
+Talking?
+When people talk to each other, they never say what they mean.
 They say something else, and you're expected to just know what they mean. Only I never do.
 So, how's that different?
 Alan, I have a funny feeling you're going to be very good at this.
@@ -447,8 +447,8 @@ Careful, will you? It not a toy.
 Funny. Looks like a toy.
 Bloody great 100,000-pound one.
 Your new minion's arrived.
-- Jack Good. We met...
-- Well, where's Miss Clarke?
+Jack Good. We met...
+Well, where's Miss Clarke?
 Lovely, isn't he?
 It's not just a usual humdrum production mill factory.
 I mean, well, as I was saying, it's a very important radio factory.
@@ -473,28 +473,28 @@ Yes.
 Wonderful ladies. They even organize social events at St. Martin's Church down the road.
 Really, the whole thing is quite... decorous.
 Now, you won't have proper security clearance, of course, so,
-- we'll have to improvise things a bit.
-- Why are you helping me?
+we'll have to improvise things a bit.
+Why are you helping me?
 Because there is only one thing that matters in this entire world right now.
 Do you understand?
 And that is breaking Enigma.
 But, Mr. Turing... why are you helping me?
 Sometimes it's the very people who no one imagines anything of who do the things that no one can imagine.
 Sir.
-- What's this?
-- Alan Turing's classified military file.
-- It's bloody empty.
-- Exactly.
-- It's an empty manila envelope.
-- Yeah.
+What's this?
+Alan Turing's classified military file.
+It's bloody empty.
+Exactly.
+It's an empty manila envelope.
+Yeah.
 Well, you've cracked the case wide open, then, haven't you?
 Alan Turing's war records aren't just classified, they're nonexistent.
 That means someone's got rid of them.
 Erased them. Burned them.
 And that same person broke into his house and stole nothing?
 Guy Burgess and Donald Maclean.
-- What, the spies from the papers?
-- The Soviet spies.
+What, the spies from the papers?
+The Soviet spies.
 But first they were professors, weren't they?
 Radicalized at Cambridge, then they joined the Communist Party, then Foreign Office, then leaked information to Stalin during the war.
 Now, can you think of anyone else we know who was at Cambridge, then took up something murky and top secret when war broke out?
@@ -517,12 +517,12 @@ Damn it!
 What just happened?
 Midnight, all the work we've done today is useless.
 Oh, but don't worry, we've a few hours before tomorrow's messages start flooding in... and we start all over again.
-- From scratch.
-- I'm so sick of this.
+From scratch.
+I'm so sick of this.
 Four hours rewiring his plugboard matrix.
 Three hours yesterday on his rotor positions!
-- Don't go over there.
-- Look, John, no.
+Don't go over there.
+Look, John, no.
 If this job wasn't already impossible before, it bloody well is now.
 Hugh, don't.
 Damn you and your useless machine.
@@ -530,8 +530,8 @@ My machine is how we are going to win.
 Really?
 This machine?
 Are you talking about this bloody machine?!
-- Hugh! Hugh! Hugh, don't!
-- Hugh! Hugh! Stop!
+Hugh! Hugh! Hugh, don't!
+Hugh! Hugh! Stop!
 You arrogant bastard.
 You could help us.
 You could make this go faster, but you won't.
@@ -549,13 +549,13 @@ Joan?
 Will you...
 Could you make a bit more noise?
 I'm not quite sure my landlady woke up.
-- Oh, sorry.
-- Oh... look.
+Oh, sorry.
+Oh... look.
 I think that's the best I can do.
 No male visitors after dark.
 So... what did you bring me?
-- There you go.
-- Here.
+There you go.
+Here.
 Some men try flowers, you know.
 These are actual decrypted Enigma messages direct from Nazi High Command.
 "0600 hours.
@@ -564,15 +564,15 @@ Rain in the evening. Heil Hitler."
 Well, clearly, that vital piece of information is going to win us the war.
 It's the relationship between the encrypted and decrypted messages that interests me.
 Can we find a clue here that we can build into Christopher?
-- Who's Christopher?
-- Oh, he's my machine.
+Who's Christopher?
+Oh, he's my machine.
 You named him?
 Is that a bad name?
 No.
 No, never mind.
 Are you trying to build your universal machine?
-- I read your paper at university.
-- Is it already being taught?
+I read your paper at university.
+Is it already being taught?
 No. No. No, I was precocious. So... you theorized a machine that could solve any problem.
 It didn't just do one thing, it did everything.
 It wasn't just programmable, it was reprogrammable.
@@ -582,12 +582,12 @@ To make a calculation and then... to determine what to do next.
 Like a person does.
 Think of it.
 Electrical brain.
-- A digital computer.
-- Digital computer.
+A digital computer.
+Digital computer.
 What's going on?
 What's happening?
-- No. No, no. No, no, no! Don't touch that!
-- Stay back.
+No. No, no. No, no, no! Don't touch that!
+Stay back.
 That's my desk.
 Thank goodness. I'd hate to think we were searching the wrong one.
 What are you doing? What's going on?
@@ -615,39 +615,39 @@ I heard about what happened.
 It's all the girls in Hut 3 can talk about.
 I have an idea of what might cheer you up.
 So, because no letter can be encoded as itself, there's already a handful of settings that can be rejected at the outset.
-- Is that your team?
-- Yes.
-- Shall we say hello?
-- No.
+Is that your team?
+Yes.
+Shall we say hello?
+No.
 Hello.
 I told you not to do that.
 Alan.
-- Hugh, hello.
-- Didn't know you drank.
+Hugh, hello.
+Didn't know you drank.
 He doesn't, really.
 He just sort of sips at the foam.
 Well, I'll let you into a little secret, Miss...?
-- Clarke.
-- Miss Clarke.
-- Please.
-- Foam's my favorite part, too.
-- Is it really?
-- Come and join us for a drink?
-- We'll be there in a moment.
-- Miss Clarke.
-- Well, he likes you.
-- Yes.
+Clarke.
+Miss Clarke.
+Please.
+Foam's my favorite part, too.
+Is it really?
+Come and join us for a drink?
+We'll be there in a moment.
+Miss Clarke.
+Well, he likes you.
+Yes.
 You... got him to like you.
-- Yes.
-- Why?
+Yes.
+Why?
 Because I'm a woman in a man's job, and I don't have the luxury of being an ass.
 Alan... it doesn't matter how smart you are,
 Enigma is always smarter.
 If you really want to solve your puzzle, then you're going to need all the help you can get, and they are not going to help you if they do not like you.
-- What are those?
-- Apples.
-- No.
-- Oh, they really are.
+What are those?
+Apples.
+No.
+Oh, they really are.
 I... well, Miss Clarke, Joan actually... said that it would be... nice if
 I was to bring you all something.
 So, here we are. I...
@@ -664,8 +664,8 @@ To which the second person responds,
 I only have to outrun you."
 I'll be with Christopher, if anyone needs me.
 If we assume that the square root of two is a rational number, then we can say that the square root of two is A over B... where A and B are whole numbers and B is not zero.
-- Mr. Turing, passing notes, are we?
-- No, sir.
+Mr. Turing, passing notes, are we?
+No, sir.
 Only Turing would pass notes written in gibberish.
 All right, gentlemen, do not forget your algebra over the break.
 Have a pleasant holiday, and we'll resume your irrationals when you return.
@@ -675,8 +675,8 @@ If you run the wires across the plugboard matrix diagonally, it will eliminate r
 500 times faster.
 That's... actually not an entirely terrible idea.
 I think that was Alan for "thank you."
-- That's my sandwich.
-- You don't like sandwiches.
+That's my sandwich.
+You don't like sandwiches.
 You nervous?
 What happens now?
 It should work out the day's
@@ -689,15 +689,15 @@ Lithuania to Denmark, Norway to France.</i>
 <i>The Nazi flag now flies from more than two dozen national capitals.</i>
 <i>Their campaign mounts in fury as a free Europe crumbles.</i>
 Oh, it's still going.
-- Good morning, sir.
-- Morning, Margaret.
+Good morning, sir.
+Morning, Margaret.
 Gears keep spinning on and on.
 Rotors on and on. It's endless.
-- With no result in sight?
-- No.
+With no result in sight?
+No.
 Turing.
-- Turing, open the bloody door.
-- No. No.
+Turing, open the bloody door.
+No. No.
 Open the door or we'll break it down.
 I can't let you in!
 I cannot let you interfere.
@@ -706,8 +706,8 @@ Turn that thing off.
 No. Don't, please. Please.
 Please! Please! No! No. No!
 Well, then, it seems that your great big expensive machine doesn't work.
-- It does.
-- Wonderful.
+It does.
+Wonderful.
 So, you've broken Enigma, then?
 It was just... still working.
 This is my associate from the Home Office.
@@ -735,8 +735,8 @@ Six months, and if the machine doesn't produce any results that we need, then we
 One month.
 And then, so help me God, you're all gone.
 Oh, leave him.
-- Thank you.
-- You're welcome.
+Thank you.
+You're welcome.
 Oh, and, Alan, your machine... it better bloody work.
 Hugh.
 I swear...
@@ -754,8 +754,8 @@ Sir, I think I've got Turing.
 I tailed him to a pub last night, where he met a bloke.
 They exchanged an envelope.
 So, I follow this other fella, pick him up, give him a good shake.
-- He's a poofter. He confessed.
-- What?
+He's a poofter. He confessed.
+What?
 The man admitted it. Arnold Murray.
 Hangs around that pub; men pay him for a go.
 Turing's one of the men that paid.
@@ -763,16 +763,16 @@ Only Mr. Murray here then has the bright idea of robbing
 Turing's house after, with a friend.
 That's what Turing's hiding.
 Well, he's a poof, not a spy.
-- No.
-- What's the matter?
+No.
+What's the matter?
 We can charge a university professor with indecency.
 No, this is... it's bloody rubbish.
 Turing's up to something important...
 He's committed a crime and he's broken the law. And with a bloke.
-- Jesus Christ, it's bloody disgusting.
-- This isn't the investigation I was conducting.
-- Bring him in.
-- Wait.
+Jesus Christ, it's bloody disgusting.
+This isn't the investigation I was conducting.
+Bring him in.
+Wait.
 Let me interrogate him. Please.
 Give me half an hour alone, and then I swear,
 I'll spend the next month running errands on as many rubbish cases as you like.
@@ -781,20 +781,20 @@ Alan?
 Christopher's simply not moving fast enough.
 We should talk.
 And even with the diagonal board, he's still not eliminating settings as quickly
-- as we need him to in order...
-- I'm leaving.
+as we need him to in order...
+I'm leaving.
 But you've just walked in.
 No. No. Bletchley.
-- What?
-- It's my parents.
+What?
+It's my parents.
 I'm 25, I'm unmarried, I'm living alone, and they want me home.
-- That's ridiculous.
-- That's my parents.
+That's ridiculous.
+That's my parents.
 You... you can't leave.
 I won't let you.
 "I'll miss you." That's what a normal person might say in this situation.
-- I don't care what is normal.
-- What am I supposed to do, Alan?
+I don't care what is normal.
+What am I supposed to do, Alan?
 I will not... give up my parents.
 You... you have an opportunity here to make some actual use of your life.
 And end up like you? No, thanks.
@@ -813,18 +813,18 @@ Hugh?
 Hugh's terribly attractive,
 I'll give you that, but...
 I don't really think he's the marrying kind.
-- No, I wasn't thinking of Hugh.
-- Or Peter. Peter's so quiet.
-- Oh, my God.
-- But this makes sense.
-- Did you just propose to me?
-- Well, it is the logical thing to do.
-- This is ridiculous.
-- This is your parents.
+No, I wasn't thinking of Hugh.
+Or Peter. Peter's so quiet.
+Oh, my God.
+But this makes sense.
+Did you just propose to me?
+Well, it is the logical thing to do.
+This is ridiculous.
+This is your parents.
 I can't... believe that this is happening.
 Joan...
-- Is your middle name Caroline or Catherine?
-- Elizabeth.
+Is your middle name Caroline or Catherine?
+Elizabeth.
 Joan Elizabeth... Clarke... will you marry me?
 It's beautiful.
 Well, I know it isn't ordinary, but... whoever loved ordinary?
@@ -845,19 +845,19 @@ You know, in my... admittedly limited experience, women... tend to be a bit touc
 Perhaps not spreading this information about might be in your best interest.
 I care for her, I truly do. I...
 I... I just don't know if I can...
-- ...pretend.
-- You can't tell anyone, Alan.
+...pretend.
+You can't tell anyone, Alan.
 It's illegal.
 And Denniston is looking for any excuse he can to put you away.
-- I know.
-- This has to stay a secret.
+I know.
+This has to stay a secret.
 Come on, it's your turn.
 Okay.
-- Cup of tea?
-- No, thank you.
+Cup of tea?
+No, thank you.
 Mr. Turing, can I tell you a secret?
-- I'm quite good with those.
-- I'm here to help you.
+I'm quite good with those.
+I'm here to help you.
 Oh, clearly.
 Can machines think?
 Oh, so, you've read some of my published works?
@@ -883,16 +883,16 @@ And that's... this big paper you wrote?
 What's it called?
 "The Imitation Game."
 Right, that's... that's what it's about?
-- Would you like to play?
-- Play?
+Would you like to play?
+Play?
 It's a game.
 A test of sorts.
 For determining whether something is a... a machine or a human being.
 How do I play?
 Well, there's a judge and a subject, and... the judge asks questions, and... depending on the subject's answers, determines who he is talking with... what he is talking with, and...
 All you have to do is ask me a question.
-- What did you do during the war?
-- I worked in a radio factory.
+What did you do during the war?
+I worked in a radio factory.
 What did you really do during the war?
 Are you paying attention?
 Damn it!
@@ -907,15 +907,15 @@ If we knew what the messages were going to say, we wouldn't have to decrypt them
 Who's Alan's friend?
 Hugh. He's a bit of a cad, actually.
 So, my type, then?
-- Well, I'll introduce you.
-- No. He'll come over.
-- Are you sure?
-- Yes.
+Well, I'll introduce you.
+No. He'll come over.
+Are you sure?
+Yes.
 I smiled at him 15 minutes ago and haven't looked back since.
 Who's that with Joan?
 Helen. Works with her.
-- She's really pretty.
-- She wants me to come over.
+She's really pretty.
+She wants me to come over.
 What? How on earth can you know that?
 She smiled at me a while back and she hasn't looked again since.
 And got him.
@@ -923,23 +923,23 @@ Now, why is this, that when I was single
 I found it very boring, but now that I'm engaged,
 I just find it dreadfully fun.
 Bingo. She's in.
-- Alan, introduce us.
-- What? Why me?
+Alan, introduce us.
+What? Why me?
 Because there's nothing like a friend's engagement to make a woman want to do something she'll later regret with the fiance's better looking chum.
 Let's go.
 Half a crown says Alan bollixes this up entirely.
 No bet.
-- Alan Turing has a theory.
-- He has many.
+Alan Turing has a theory.
+He has many.
 He believes that the regulations against men and women working side by side are sound because such proximity will necessarily lead to romance.
 What? No, I don't. I...
-- However I disagree.
-- You do?
+However I disagree.
+You do?
 Yeah. I think that if I were working beside a woman all day long,
 I could appreciate her abilities and intellect without taking her to bed.
 I'm sorry, have we met?
-- I don't recall. But let's assume we haven't.
-- Helen Stewart. Hugh Alexander.
+I don't recall. But let's assume we haven't.
+Helen Stewart. Hugh Alexander.
 So, who do you agree with,
 Alan or myself?
 Well, Alan, of course.
@@ -969,13 +969,13 @@ Helen...
 Alan?
 Yes, Alan?
 Why do you think your German counterpart has a girlfriend?
-- It's just a stupid joke, don't worry.
-- No, no, no, no. Tell me.
+It's just a stupid joke, don't worry.
+No, no, no, no. Tell me.
 Well, each of his messages begins with the same five letters:
 C-I-L-L-Y. So, I suspect that Cilly must be the name of his amore.
 But that's impossible. The Germans are instructed to use five random letters
-- at the start of every message.
-- Well, this bloke doesn't.
+at the start of every message.
+Well, this bloke doesn't.
 Love will make a man do strange things, I suppose.
 In this case, love just lost Germany the whole bloody war.
 Go, Peter.
@@ -989,8 +989,8 @@ What...?
 What...
 What if... what if Christopher doesn't have to search through all of the settings?
 What if he only has to search through ones that produce words we already know will be in the message?
-- Repeated words, predictable words.
-- Exactly.
+Repeated words, predictable words.
+Exactly.
 Look, look, like this one.
 "0600 hours. Weather today is clear.
 Rain in the evening. Heil Hitler."
@@ -998,90 +998,90 @@ Well, that's it. Exactly.
 They send a weather report every day at 6:00 a.m.
 So, that's three words we know will be in every 6:00 a.m. message...
 "weather," obviously, and...
-- Heil bloody Hitler.
-- Heil bloody Hitler.
+Heil bloody Hitler.
+Heil bloody Hitler.
 Here's the 6:00 message from this morning.
 Hugh, the the right-hand letter wheel, set them to...
 I know, I know. "Weather" and "Hitler."
 Peter, John, run voltages through those letters, through the back scramblers.
 So, we'll use the loops?
 Yes. Joan, what was the last 6:00 a.m. message?
-- L.
-- L.
-- H.
-- H.
-- W.
-- W.
-- A.
-- A.
-- Q.
-- Q.
+L.
+L.
+H.
+H.
+W.
+W.
+A.
+A.
+Q.
+Q.
 Done.
 Come on. Come on. Come on, Christopher.
 Oh, my God.
 What happened?
-- Did it work?
-- Alan?
+Did it work?
+Alan?
 Alan! Alan!
 I need a new message.
 The latest intercept.
 Thank you.
 O... T.
-- Ready?
-- Yes.
-- M.
-- M.
-- Y.
-- Y.
-- M. S.
-- M. S.
-- A. I.
-- A. I.
-- C.
-- C.
-- T. R.
-- T. R.
-- I. S.
-- I. S.
-- O. A.
-- O. A.
-- Y. R.
-- Y. R.
-- I.
-- I.
+Ready?
+Yes.
+M.
+M.
+Y.
+Y.
+M. S.
+M. S.
+A. I.
+A. I.
+C.
+C.
+T. R.
+T. R.
+I. S.
+I. S.
+O. A.
+O. A.
+Y. R.
+Y. R.
+I.
+I.
 "KMS Jaguar is aufpunkt is directed to 53 degrees 24 minutes north and aufpunkt one... degree west."
 Heil Hitler.
 Turns out that's the only German you need to know to break Enigma.
 Yes!
-- M.
-- M.
-- A.
-- A.
-- Y.
-- Y.
-- I.
-- I.
-- T.
-- T.
-- R.
-- R.
-- O.
-- O. T.
-- T. A.
-- A.
-- H.
-- H.
-- Q.
-- Q.
-- U.
-- U.
+M.
+M.
+A.
+A.
+Y.
+Y.
+I.
+I.
+T.
+T.
+R.
+R.
+O.
+O. T.
+T. A.
+A.
+H.
+H.
+Q.
+Q.
+U.
+U.
 R.
 R.
 My God, you did it.
 You just defeated Nazism with a crossword puzzle.
 There are five people in the world who know the position of every ship in the Atlantic.
-- They're all in this room.
-- Oh, good God.
+They're all in this room.
+Oh, good God.
 Oh, I don't think even He has the power that we do right now.
 No. There's going to be an attack on a
 British passenger convoy. Right there.
@@ -1089,38 +1089,38 @@ God, you're right. All those U-boats are only 20, 30 minutes away.
 Civilians. Hundreds of them.
 We can save their lives.
 I'll phone Denniston's office so that he can alert the Admiralty.
-- Do you think there's enough time to save them?
-- There should be, if we can get a message...
+Do you think there's enough time to save them?
+There should be, if we can get a message...
 Commander Denniston's office, please.
 It's urgent.
 No.
-- What the hell are you doing?
-- You can't call Denniston.
-- You can't tell him about the attack.
-- What are you talking about?
+What the hell are you doing?
+You can't call Denniston.
+You can't tell him about the attack.
+What are you talking about?
 We can have air support over that convoy in ten minutes.
-- Let the U-boats sink the convoy.
-- It's been a big day, maybe you're suffering...
-- We don't have time...
-- No!
-- Hugh! Hugh! That's enough! That's enough!
-- Stop, Hugh!
+Let the U-boats sink the convoy.
+It's been a big day, maybe you're suffering...
+We don't have time...
+No!
+Hugh! Hugh! That's enough! That's enough!
+Stop, Hugh!
 John, the attack is in minutes.
 Yes, no, I'm fine, I'm fine. I'm fine.
 You know why people like violence, Hugh?
 It's because it feels good.
 Sometimes we can't do what feels good.
-- We have to do what is logical.
-- What's logical?
+We have to do what is logical.
+What's logical?
 Hardest time to lie to somebody is when they're expecting to be lied to.
-- Oh, God.
-- What?
+Oh, God.
+What?
 If someone's waiting for a lie, you can't just give them one.
-- Damn it, Alan's right.
-- What?
+Damn it, Alan's right.
+What?
 What would the Germans think if we destroy their U-boats?
-- Nothing. They'll be dead.
-- No.
+Nothing. They'll be dead.
+No.
 No, you can't be right.
 So, our convoy suddenly veers off course... a squadron of our air bombers miraculously descends on the coordinates of the U-boats... what will the Germans think?
 The Germans will know that we have broken Enigma.
@@ -1132,18 +1132,18 @@ There are 500 civilians in that convoy.
 Women, children.
 We're about to let them die.
 Our job is not to save one passenger convoy, it is to win the war.
-- Our job was to crack Enigma.
-- We've done that.
+Our job was to crack Enigma.
+We've done that.
 Now for the hard part.
-- Keeping it a secret.
-- Carlisle.
+Keeping it a secret.
+Carlisle.
 What?
 The convoy you're about to... it's...
 The HMS Carlisle is one of the ships.
 We can't act on every piece of intelligence.
 So, fine, we won't.
-- Just this one.
-- Peter, what's the matter with you?
+Just this one.
+Peter, what's the matter with you?
 My brother's... well, he's on the Carlisle.
 A gunnery ensign.
 I'm...
@@ -1176,8 +1176,8 @@ While we develop a system to help you determine how much intelligence to act on.
 Statistical analysis.
 The minimal number of actions it would take for us to win the war... but the maximum number we can take before the Germans get suspicious.
 And you're going to trust all this to statistics?
-- To maths?
-- Correct.
+To maths?
+Correct.
 And then MI6 can come up with the lies that we tell everybody else.
 You'll need a believable alternative source for all the pieces of information you use.
 A false story so that we can explain how we got our information that has nothing to do with Enigma.
@@ -1229,8 +1229,8 @@ Military prison.
 What have you done?
 Decoded Enigma intercepts. I found a pile of them in the bedside table.
 No, no. I gave those to her over a year ago when I was trying to figure out
-- a link between...
-- I'm sure you did.
+a link between...
+I'm sure you did.
 Denniston's been looking for a Soviet spy.
 He's been looking inside Hut 8.
 I know who the spy is.
@@ -1263,14 +1263,14 @@ She's gonna be back in an hour. I lied.
 I better hold on to these.
 If anybody finds out about them, prison will be the least of her worries.
 Oh, Alan... we're gonna have such a wonderful war together.
-- I need you to leave Bletchley.
-- What?
+I need you to leave Bletchley.
+What?
 It's Menzies. I don't trust him.
 It's not safe here.
-- Do you think it's any safer anywhere else?
-- You need to get away.
-- You need to get very far away from me.
-- Alan, what's happened?
+Do you think it's any safer anywhere else?
+You need to get away.
+You need to get very far away from me.
+Alan, what's happened?
 We can't be engaged anymore.
 You... your parents need to take you back and find you a husband elsewhere.
 What's wrong with you?
@@ -1279,10 +1279,10 @@ I'm...
 I'm a homosexual.
 All right.
 No, no. Men, Joan...
-- not women.
-- So what?
-- Well, I just told you.
-- So what?
+not women.
+So what?
+Well, I just told you.
+So what?
 I had my suspicions; I always did.
 But we're not like other people.
 We love each other in our own way, and we can have the life together that we want.
@@ -1298,8 +1298,8 @@ Because I care for you.
 And you care for me.
 And we understand one another more than... more than anyone else ever has.
 I don't.
-- What?
-- Care for you.
+What?
+Care for you.
 I never did.
 I just needed you to break Enigma.
 I've done that now, so... so you can go.
@@ -1344,13 +1344,13 @@ So, what happens now?
 Is it... back to university for us, I suppose?
 Yes, pretty much.
 But you've one thing left to do before your service to your government in concluded.
-- What's that?
-- Burn everything.
-- Burn? Why?
-- You were told when you started this was a top-secret program.
+What's that?
+Burn everything.
+Burn? Why?
+You were told when you started this was a top-secret program.
 Did you think we were joking?
-- But the war is over.
-- This war is. But there'll be others.
+But the war is over.
+This war is. But there'll be others.
 And we know how to break a code that everybody else believes is unbreakable.
 Precisely.
 Tear it down. Light it up.
@@ -1381,8 +1381,8 @@ Cryptography, to pass the time.
 The class is too simple.
 You and your friend solve maths problems during maths class because the maths class is too dull?
 He's not my friend.
-- Well, I'm told he's your only friend.
-- Who said that?
+Well, I'm told he's your only friend.
+Who said that?
 Something's come up concerning Morcom.
 Why am I here?
 Christopher is dead.
@@ -1398,8 +1398,8 @@ Did he not tell you?
 Well, he's been sick for a long time.
 He knew this was coming soon.
 But he had a stiff upper lip about it. Good lad.
-- Are you all right, Turing?
-- Yes. Of course.
+Are you all right, Turing?
+Yes. Of course.
 Like I said,
 I didn't know him very well.
 I see. Very well.
@@ -1412,8 +1412,8 @@ And what would you have said, that I... I wasn't a homosexual.
 Alan... this is serious.
 They could send you to jail.
 Damn it.
-- Your hands. You're twitching.
-- No, I'm not.
+Your hands. You're twitching.
+No, I'm not.
 Alan.
 It's the medication.
 The medication?
@@ -1428,8 +1428,8 @@ All right.
 Now, I'm going to speak to your doctors.
 I'm going to speak to your lawyers.
 I'm fine.
-- Please let me help you.
-- No, I don't need your help, thank you.
+Please let me help you.
+No, I don't need your help, thank you.
 Alan, you do not have to do this alone.
 I'm not alone.
 Never have been.

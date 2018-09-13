@@ -40,7 +40,7 @@ What's your name?
 What's your name?
 Uh, I don't know.
 <i>- Oh, God.
-- [Thud]</i>
+[Thud]</i>
 CENTRAL INTELLIGENCE AGENCY
 LANGLEY, VIRGINIA
 <i>[Chattering]</i>
@@ -182,7 +182,7 @@ You have no jurisdiction here.
 This was my current address until two days ago... when I started standing in line outside.
 Now, I lose my apartment, okay? That means no address, no phone, no money, no time.
 <i>- I still have no visa.
-- Miss Kreutz, I'm gonna have to ask you to keep your voice down.</i>
+Miss Kreutz, I'm gonna have to ask you to keep your voice down.</i>
 <i>[Kreutz]
 Excuse me. But where's the guy that I talked to last week?</i>
 Every week it's a new person.
@@ -190,14 +190,14 @@ How am I supposed to...
 I don't know who you saw last week.
 Well, let me help you.
 <i>- I'm sure I have it. Hold on.
-- Could I have your attention for a moment, please?</i>
+Could I have your attention for a moment, please?</i>
 <i>[Kreutz]
 It's right here. Look at it.</i>
 <i>[Man Speaking, Indistinct]</i>
 This is a student visa now.
 It's not about a green card anymore.
 <i>- It's completely different.
-- It's not a menu, Miss Kreutz.</i>
+It's not a menu, Miss Kreutz.</i>
 <i>You dont just pick what you want.</i>
 You! Red bag! The red bag!
 Stop right there!
@@ -215,7 +215,7 @@ Proceeding to second floor.</i>
 <i>[Alarm Continues Blaring]</i>
 <i>[Man's Voice In Earphone, Indistinct]</i>
 <i>- [Woman Screams]
-- On the floor! Down!</i>
+On the floor! Down!</i>
 <i>Clear!</i>
 <i>[Man] Go! Go! Come on!</i>
 He's in Zurich now?
@@ -225,8 +225,8 @@ But they're sure?
 Sure it's him?
 Yes. He went to the bank.
 Our source at the bank, that's who called.
-- Come on.
-- He's got to assume we're watching the bank, right?
+Come on.
+He's got to assume we're watching the bank, right?
 I don't know. Come on.
 I mean, he cleaned out the box. He left the gun.
 What does that mean?
@@ -253,7 +253,7 @@ Some kind of scam?
 [Siren Blares]
 Jesus.
 <i>- Is that for you?
-- Look. You drive, I pay.
+Look. You drive, I pay.
 It's that simple.</i>
 <i>Scheiße.
 I got enough trouble, okay?</i>
@@ -271,7 +271,7 @@ Did you get the address?
 The street?
 Gemeinschaft.
 <i>- Here we go.
-- I got it. I think I got it.</i>
+I got it. I think I got it.</i>
 <i>Is it him?
 Unreal.</i>
 This is 38 minutes ago.
@@ -340,8 +340,8 @@ Yes.
 Amnesia?
 Yes.
 Great.
-- That's the best angle of the courtyard?
-- That's the only angle.
+That's the best angle of the courtyard?
+That's the only angle.
 <i>Well, what do they have of the streets or the area?</i>
 They must have something.
 Hang on.
@@ -456,11 +456,11 @@ You sure this is all yours?
 [Clanks]
 This is my kitchen.
 <i>- Any clues?
-- I think I'm in the shipping business.</i>
+I think I'm in the shipping business.</i>
 So it's all coming back, huh?
 Do you mind if I use the bathroom?
-- Uh, sure.
-- Okay.
+Uh, sure.
+Okay.
 [Beeps, Dialing]
 [Woman Speaking French]
 Uh, yeah. Hello? Hello?
@@ -496,8 +496,8 @@ There was an accident on the motorway.
 Apparently, he was killed instantly.
 Really. I'm terribly sorry to be the one to tell you this.
 When they came for his things, people made note for us, you see?
-- Who-Who came?
-- His brother.
+Who-Who came?
+His brother.
 Did his, uh, brother leave a number or a way to get in touch with him?
 I think not.
 So I'm sorry...
@@ -515,8 +515,8 @@ I got it running though.
 So...
 What?
 Nothing.
-- Are you okay?
-- Mm-hmm. Yeah.
+Are you okay?
+Mm-hmm. Yeah.
 <i>What is it?
 Something wrong?</i>
 <i>[Machine Gun Fire]</i>
@@ -529,11 +529,11 @@ Who are you?
 <i>[Bourne Speaking French]
 Oh, my God.</i>
 <i>- [Bourne Speaking German]
-- Ohh.</i>
+Ohh.</i>
 <i>[Bourne]
 Answer me! Who are you?</i>
-- He's got my picture.
-- All right. Just... stop.
+He's got my picture.
+All right. Just... stop.
 <i>[Babbling, Indistinct]
 No, no, no!</i>
 <i>I don't... How...
@@ -572,7 +572,7 @@ Ohh! Ohh!
 Quiet. Quiet.</i>
 [Vomits]
 <i>- Don't look.
-- [Siren Approaching]</i>
+[Siren Approaching]</i>
 [Dialing]
 [Man's Voice] Code in.
 Alpha 37509.
@@ -634,8 +634,8 @@ I don't know about that picture!
 I don't know who I am!
 Look, I'm... You're acting like
 I'm trying to burn you here.
-- I'm just trying to do the right thing.
-- Nobody does the right thing.
+I'm just trying to do the right thing.
+Nobody does the right thing.
 Look, I can't run with you. I can't...
 We run... I gotta live like this. I gotta...
 I don't even know who I'm hiding from.
@@ -660,8 +660,8 @@ What?
 Turn your head away.
 Turn your head away.
 [Horns Honking]
-- Ohh!
-- [Yelling]
+Ohh!
+[Yelling]
 [Turns Engine Off]
 You can never come back to this car.
 You understand?
@@ -740,7 +740,7 @@ Then we will give them war.
 If they want to kill me, they better kill me the first time.
 They better kill me dead.
 <i>- They better kill me in my sleep.
-- Nykwana, listen to me.</i>
+Nykwana, listen to me.</i>
 We need these people.
 It's hard enough getting people we know to help us.
 We need to be careful.
@@ -905,8 +905,8 @@ John Michael Kane.
 <i>##[Singing Continues]</i>
 Kane.
 It's number 121.
-- I want to see the body.
-- Our boss could come back.
+I want to see the body.
+Our boss could come back.
 I'm not supposed to do that.
 Come on.
 Is this it?
@@ -1072,8 +1072,8 @@ Daryl, Ray, stay on the grids.
 <i>Brian, Harris, Steve...</i>
 I want to work on this girl.
 Where do we stand with this residency pattern?
-- Uh, we started it.
-- Get it out.
+Uh, we started it.
+Get it out.
 <i>[Line Ringing]
 [Truck Passing]</i>
 <i>[Man] We cross-referenced numbers from the grandmother and the stepbrother.</i>
@@ -1150,7 +1150,7 @@ I'll sleep on the floor.
 This was when?
 Which is definitely within the driving range of Paris.
 <i>- The call came from a highway rest stop, southbound side.
-- What's this yellow pin?</i>
+What's this yellow pin?</i>
 She spent a couple of months there in 1997.
 Closest town is Riome.
 We took her family's phone records and collated the international calls.
@@ -1212,13 +1212,13 @@ Not a chance.
 It's always something, right?
 Get in the basement.
 What?
-- Get everyone in the basement.
-- What the hell are you talking about?
+Get everyone in the basement.
+What the hell are you talking about?
 We're in danger.
 Your family's in danger.
 I don't have time to explain.
-- What the...
-- Eamon, you should go.
+What the...
+Eamon, you should go.
 <i>What the hell have you done?
 It's not her. It's me.</i>
 You need to get out of sight and in the basement as quick as you can.
@@ -1234,8 +1234,8 @@ Scheiße. Scheiße.
 <i>What are you doing?</i>
 We should never have come here. I... These children...
 That's not gonna happen.
-- [Snaps Shotgun Shut]
-- [No Audible Dialogue]
+[Snaps Shotgun Shut]
+[No Audible Dialogue]
 <i>[Gunshots]</i>
 <i>[Bird Cawing]</i>
 <i>[Birds Twittering]</i>
@@ -1245,12 +1245,12 @@ That's not gonna happen.
 [Cawing]
 <i>[Cawing Continues]</i>
 <i>- [Gunshot]
-- [Groaning]</i>
+[Groaning]</i>
 <i>[Grunting]</i>
 <i>[Grunting Continues]</i>
 [Groans]
 <i>- [Gunshot]
-- [Yells]</i>
+[Yells]</i>
 <i>[Groaning]</i>
 [Groaning Continues]
 Where is it?
@@ -1296,8 +1296,8 @@ Take it.</i>
 [Engine Starts]
 I took out 30 grand.
 The rest is yours.
-- That's it?
-- That's all I got.
+That's it?
+That's all I got.
 No, that's not what I meant.
 This is not gonna stop, Marie.
 You gotta get out now, away from me.
@@ -1400,8 +1400,8 @@ Negative.
 <i>[Earphone Static]</i>
 <i>[Cell Phone Rings]</i>
 <i>En position.</i>
-- Jason?
-- I told you to come alone.
+Jason?
+I told you to come alone.
 I guess that was too complicated.
 So try this... I'm gone.
 [Beeps]
@@ -1417,7 +1417,7 @@ Get Nicky on the phone.</i>
 Yeah.</i>
 [Man] How long does it take to wipe the room down and get it moved?
 <i>- Get rid of everything?
-- [Man] Yeah.</i>
+[Man] Yeah.</i>
 <i>[Nicky]
 Two to three hours.
 All right. Get started.</i>
@@ -1426,7 +1426,7 @@ Listen, no breaks.
 Two men outside, one in the lobby and keep your eyes open.
 [Beeping Quickly]
 <i>- [Man] Keep the truck?
-- Keep the truck. I'm gonna close this unit down.</i>
+Keep the truck. I'm gonna close this unit down.</i>
 We'll move the gear in the truck.
 They were covering Spain,
 Malta, Morocco. Yes, all local police radio traffic.
@@ -1446,10 +1446,10 @@ Where's your field box?</i>
 <i>[Electronic Beeping]</i>
 <i>[Beeping Continues]
 [Typing]</i>
-- Where's your field box?
-- It's right there.
+Where's your field box?
+It's right there.
 <i>- [Beeping Continues]
-- [Nicky]
+[Nicky]
 The system's gone haywire.</i>
 That's this window right here.
 <i>Dining room window?</i>
@@ -1464,8 +1464,8 @@ It's Bourne, isn't it?</i>
 Just quiet.
 [Lamp Rattles]
 You move, you die.
-- Bourne.
-- Gun down.
+Bourne.
+Gun down.
 In there.
 Okay, so what do you want?
 [Groans]
@@ -1480,16 +1480,16 @@ He's lost it.</i>
 You better start filling in the blanks, 'cause I thought we were on the same side.
 <i>Whose side is that?
 You don't know what you're doing, do you, Jason?</i>
-- You don't have a goddamn clue.
-- Who am I?
+You don't have a goddamn clue.
+Who am I?
 You're U.S. Government property.
 You're a malfunctioning,
 $30 million weapon.
 You're a total goddamn catastrophe.
 By God, you're gonna tell me how this happened.
 Why are you trying to kill me?
-- What happened in Marseilles?
-- Why are you try...
+What happened in Marseilles?
+Why are you try...
 You sent me to kill Wombosi.
 Kill Wombosi?
 We can do that anytime we want.
@@ -1547,7 +1547,7 @@ I'm on my own side now.
 <i>[Gunshot]</i>
 <i>[Gunshot]</i>
 <i>- [Shell Casings Rattling On Floor]
-- [Door Opens]</i>
+[Door Opens]</i>
 <i>[Man Speaking French]</i>
 <i>[Woman Speaking French]
 [Grunts]</i>

@@ -4,8 +4,8 @@ Unchained
 [chains rattling]
 [man grunting]
 [horse nickering]
-- Whoa.
-- [horses snorting]
+Whoa.
+[horses snorting]
 [gentle metallic rattling]
 Whoa.
 Who's that stumblin' around in the dark?
@@ -17,19 +17,19 @@ Whoa, boy.
 Good cold evening, gentlemen.
 I'm looking for a pair of slave traders that go by the name of the Speck Brothers.
 Might that be you?
-- Who wants to know?
-- Well, I do.
+Who wants to know?
+Well, I do.
 I'm Dr. King Schultz.
 This is my horse, Fritz.
 [snorting]
-- What kinda doctor?
-- [Schultz] Dentist.
+What kinda doctor?
+[Schultz] Dentist.
 Now, are you the Speck Brothers?
 And did you purchase those men at the Greenville slave auction?
-- So what?
-- So I wish to parley with you.
-- Speak English.
-- [chuckles] Oh, I'm sorry.
+So what?
+So I wish to parley with you.
+Speak English.
+[chuckles] Oh, I'm sorry.
 Please forgive me.
 It is a second language.
 Now, amongst your inventory,
@@ -52,10 +52,10 @@ They was overseers at the Carrucan plantation.
 Not anymore.
 Tell me...
 ...if you were to see any of these three gentlemen again,
-- would you recognize them?
-- [man] Hey.
-- Stop talkin' to him like that.
-- Like What?
+would you recognize them?
+[man] Hey.
+Stop talkin' to him like that.
+Like What?
 Like that.
 My good man,
 I'm simply trying to ascertain...
@@ -76,19 +76,19 @@ Oh, very well.
 [screaming continues]
 I'm sorry to put a bullet in your beast, but I didn't want you to do anything rash before you had a moment to come to your senses.
 You goddamn son of a bitch!
-- You shot Roscoe!
-- Well...
+You shot Roscoe!
+Well...
 And you killed Ace!
 I only shot your brother once he threatened to shoot me.
 And I do believe I have... one, two, three, four...
 ...five witnesses who can attest to that fact.
-- Damn leg's busted!
-- No doubt.
+Damn leg's busted!
+No doubt.
 Now, if you could keep your caterwauling down to a minimum,
 I'd like to finish my line of inquiry with young Django.
 [screaming resumes]
-- [man] God-fuckin'-damn it!
-- As I was saying...
+[man] God-fuckin'-damn it!
+As I was saying...
 ...if you were to see the Brittle
 Brothers again, you could recognize 'em?
 Yeah.
@@ -114,8 +114,8 @@ I'd like to purchase your brother's nag.
 Also, Mr. Speck, I'm afraid
 I will require a bill of sale.
 Do you have one?
-- You go to hell, dentist.
-- [scoffs]
+You go to hell, dentist.
+[scoffs]
 I thought not.
 No worries. I come prepared.
 Thank you.
@@ -133,24 +133,24 @@ Oh, and on the off chance there are any astronomy aficionados amongst you, the N
 Ta-ta. [clucking]
 Now wait a minute, fellas.
 Let's talk about this!
-- [lantern crashing]
-- [chains rattling]
+[lantern crashing]
+[chains rattling]
 You gotta be reasonable in a situation like this!
 I'm not a bad guy.
 I'm just doin' my job!
 Blueberry, didn't I give you my last apple?
 Tell you what, boys:
 Take me to the doc in El Paso,
-- I'll get you your freedom.
-- [gun cocking]
-- No. No, please...
-- [gunshot echoing]
+I'll get you your freedom.
+[gun cocking]
+No. No, please...
+[gunshot echoing]
 [dogs barking nearby]
 [squeaking]
 All right, now.
 I'd like you to take two of these tonight...
-- [coughing]
-- ...and then in the morning...
+[coughing]
+...and then in the morning...
 That's a nigger on a horse.
 What's everybody staring at?
 They ain't never seen no nigger on a horse before.
@@ -163,15 +163,15 @@ We won't be open for another hour.
 By then, we'll be servin' breakfast.
 [gasping] Whoa, whoa, whoa, whoa... what the hell you think you're doing, boy?
 Get that nigger outta here!
-- [panting] Help! Help!
-- Innkeeper!
+[panting] Help! Help!
+Innkeeper!
 Remember, get the sheriff, not the marshal.
 [man] Sheriff! Help!
 Alas.
 Now we must act as our own bartender.
 Sit down, my boy.
-- What kind of dentist are you?
-- [chortles]
+What kind of dentist are you?
+[chortles]
 Despite that cart, I haven't practiced dentistry in five years.
 But these days,
 I practice a new profession...
@@ -211,8 +211,8 @@ I'm at a slight disadvantage insofar as I don't know what they look like.
 But you do. Don't ya?
 I know what they look like all right.
 Good. So here's my agreement.
-- You travel with me until we find them.
-- Where we goin'?
+You travel with me until we find them.
+Where we goin'?
 I hear at least two of them are overseeing up in Gatlinburg, but I don't know where.
 That means we visit every plantation in Gatlinburg till we find 'em.
 And when we find them, you point them out, and I kill them.
@@ -221,28 +221,28 @@ $25 per Brittle Brother. That's $75.
 And, as if on cue, here comes the sheriff.
 [scoffs]
 OK, boys. Fun's over. Come on out.
-- [overlapping chatter]
-- All right, folks, calm down.
+[overlapping chatter]
+All right, folks, calm down.
 Go about your business.
 These jokers will be gone soon.
 Now, why y'all wanna come into my town and start trouble?
 And scare all these nice people.
 You ain't got nothing better to do than to come into Bill Sharp's town and show your ass?
-- [metal springing noise]
-- [sheriff screaming]
-- [crowd gasping]
-- [groaning]
+[metal springing noise]
+[sheriff screaming]
+[crowd gasping]
+[groaning]
 [woman screams]
-- What'd you just do to our sheriff?
-- [groaning]
-- [yelling]
-- [shot echoing]
+What'd you just do to our sheriff?
+[groaning]
+[yelling]
+[shot echoing]
 [woman gasps]
 [crowd screaming]
 Now you can get the marshal.
 [man] Marshal! Marshal!
-- Should we wait inside?
-- Can we just leave?
+Should we wait inside?
+Can we just leave?
 After you.
 Move that buckboard a long ways across the street from the saloon.
 I want six men, six rifles behind it.
@@ -273,13 +273,13 @@ Fair enough, marshal.
 Here we come.
 They're a little tense out there.
 So don't make any quick movements, and let me do the talking.
-- [doors squeaking open]
-- Come ahead.
+[doors squeaking open]
+Come ahead.
 You unarmed?
 [Schultz] Yes, indeed we are.
 Marshal Tatum, may I address you and your deputies, and apparently the entire town of Daughtrey, as to the incident that just occurred?
-- Go on.
-- Thank you.
+Go on.
+Thank you.
 My name is Dr. King Schultz.
 Like yourself, marshal,
 I'm a servant of the court.
@@ -327,17 +327,17 @@ You know when she was sold...
 ...you know where she came from, and you know her name.
 What is her name?
 Broomhilda.
-- What?
-- Broom-hilda.
-- Broomhilda?
-- Hm-mm.
-- Were her owners German?
-- Yeah, how you know?
+What?
+Broom-hilda.
+Broomhilda?
+Hm-mm.
+Were her owners German?
+Yeah, how you know?
 She wasn't born on the Carrucan plantation.
 She was raised by a German mistress, the Von Shafts.
 She speak a little German, too.
-- Your wife?
-- Hm-mm.
+Your wife?
+Hm-mm.
 When she was little, her mistress taught her so she'd have somebody to speak German with.
 Well, let me get this straight.
 Your slave wife speaks German and her name is Broomhilda Von Shaft?
@@ -354,8 +354,8 @@ Yeah. Don't break character.
 And your character is that of The Valet.
 What that is?
 That's a fancy word for servant.
-- Valet?
-- Hm-mm.
+Valet?
+Hm-mm.
 [chuckles]
 And now, Django, you may choose your character's costume.
 Youse gonna let me pick out my own clothes?
@@ -365,8 +365,8 @@ Whoa.
 It's against the law for niggers to ride horses in this territory.
 This is my valet.
 My valet does not walk.
-- I said niggers on horses...
-- [Schultz] His name is Django.
+I said niggers on horses...
+[Schultz] His name is Django.
 He's a free man.
 He can ride what he pleases.
 Not on my property.
@@ -377,8 +377,8 @@ My name is Dr. King Schultz.
 This is my valet, Django.
 And these are our horses,
 Tony and Fritz.
-- [snorting]
-- [women giggling]
+[snorting]
+[women giggling]
 Mr. Bennett?
 I've been led to believe that you are a gentleman and a businessman.
 And it is for these attributes we've ridden from Texas to Tennessee to parley with you now.
@@ -402,8 +402,8 @@ Hm-mm.
 Oh, maybe while we discuss business, you could provide one of your loveliest black creatures to escort Django here around your magnificent grounds.
 Oh, well, absolutely!
 Uh, Betina.
-- Yessir, Big Daddy?
-- Uh...
+Yessir, Big Daddy?
+Uh...
 What's your Jimmie's name again?
 <i>'</i> Django.
 <i>'</i> Django.
@@ -413,8 +413,8 @@ Oh, Mr. Bennett, I must remind you,
 Django is a free man.
 He cannot be treated like a slave.
 He... within the bounds of good taste, he must be treated as an extension of myself.
-- Understood, Schultz. Betina, sugar?
-- Yes'm?
+Understood, Schultz. Betina, sugar?
+Yes'm?
 Django isn't a slave.
 Django is a free man, you understand?
 You can't treat him like any of the other niggers around here,
@@ -426,11 +426,11 @@ Big Daddy.
 Yes, I can see that. Uh...
 What's the name of that peckerwood boy from town that works with the glass?
 His mama work over at the lumberyard.
-- Oh, you mean Jerry.
-- That's the boy's name. Jerry!
+Oh, you mean Jerry.
+That's the boy's name. Jerry!
 You know Jerry, don't you, sugar?
-- Yes'm, Big Daddy.
-- Well, that's it, then.
+Yes'm, Big Daddy.
+Well, that's it, then.
 You just treat him like you would Jerry.
 [playing medium-tempo tune]
 That house we just left from is The Big House.
@@ -441,27 +441,27 @@ Po' little squirrels.
 What you do for your massa?
 Didn't you hear him tell you
 I ain't no slave?
-- So you really free?
-- Yes, I's free.
+So you really free?
+Yes, I's free.
 You mean you wanna dress like that?
-- Betina, I need to ask you somethin'.
-- What you want?
+Betina, I need to ask you somethin'.
+What you want?
 I'm lookin' for three white men.
 Three brothers. Overseers.
 Their name is Brittle. You know 'em?
-- Brittle?
-- Yes, Brittle.
+Brittle?
+Yes, Brittle.
 John Brittle, Ellis Brittle,
 Roger Brittle, sometime called Lil Raj.
 I don't know them.
 They could be usin' a different name.
 They woulda come to the plantation this past year.
-- You mean the Shaffers?
-- Maybe.
-- Three brothers?
-- Uh-huh.
-- They here?
-- Uh-huh.
+You mean the Shaffers?
+Maybe.
+Three brothers?
+Uh-huh.
+They here?
+Uh-huh.
 Could you point one of 'em out to me?
 Well, one's over in that field.
 [medium-tempo song plays]
@@ -476,8 +476,8 @@ Now, I been here long enough, you know me, you know me a long time, now.
 [dogs barking in distance]
 You know Massa Carrucan ain't gonna appreciate this.
 She's a... she's a house slave.
-- She a house slave, she can't be...
-- [screaming]
+She a house slave, she can't be...
+[screaming]
 [dogs howling]
 [screaming]
 On my knees. I'm asking you this, please. Ain't this what you want?
@@ -496,33 +496,33 @@ Point me in that direction.
 You go to that tree and keep goin' that-a way.
 Go get that white man
 I came here with.
-- [man] Come on, now.
-- No, no, please!
-- Come on, girlie.
-- [shrieks] Please!
-- Come on. Get you set up now.
-- [screaming]
+[man] Come on, now.
+No, no, please!
+Come on, girlie.
+[shrieks] Please!
+Come on. Get you set up now.
+[screaming]
 "And the Lord said,
 'The fear of ye..."
-- [cracking]
-- "...and the dread of ye shall be on every beast of the earth."'
+[cracking]
+"...and the dread of ye shall be on every beast of the earth."'
 [cracking]
 Come here now, woman!
-- You'd better give me that arm!
-- [screaming]
+You'd better give me that arm!
+[screaming]
 OK, she's ready!
 [whimpering]
 And after this, we'll see if you break eggs again.
 John Brittle!
-- You remember me?
-- [metal springing noise]
+You remember me?
+[metal springing noise]
 I like the way you die, boy.
 Goddamn son of a bitch!
 [grunting]
 [whip cracking]
 [groaning]
-- Keep it funny!
-- [grunting]
+Keep it funny!
+[grunting]
 [yelling]
 [man groaning]
 Y'all wanna see somethin'?
@@ -533,16 +533,16 @@ Who were they?
 That's Big John, and that's Lil Raj.
 Where's Ellis?
 He's the one hightailin' it across that field right now.
-- You sure that's him?
-- Yeah.
-- Positive?
-- I don't know.
-- You don't know if you're positive?
-- I don't know what "positive" mean.
-- It means you're sure.
-- Yes.
-- "Yes," what?
-- Yes, I'm sure that's Ellis Brittle.
+You sure that's him?
+Yeah.
+Positive?
+I don't know.
+You don't know if you're positive?
+I don't know what "positive" mean.
+It means you're sure.
+Yes.
+"Yes," what?
+Yes, I'm sure that's Ellis Brittle.
 I'm positive he dead.
 Django!
 Everybody calm down.
@@ -564,18 +564,18 @@ Now, may I please remove the warrant from my pocket so you may examine it?
 Gimme.
 Satisfied?
 May I have that back, please?
-- Get off my land.
-- Posthaste.
+Get off my land.
+Posthaste.
 Load up the bodies as quickly as you can and let's get outta here.
 [Schultz whistling indistinctly]
 Yeah, that's them sons-a-bitches.
 [galloping hoofbeats]
-- [dramatic choral music]
-- [horses snorting, whinnying]
+[dramatic choral music]
+[horses snorting, whinnying]
 [men yelling, whooping]
 Come on, men!
-- [man 1] We're coming for you, nigger!
-- [man 2] Hee-haw!
+[man 1] We're coming for you, nigger!
+[man 2] Hee-haw!
 Now, unless they start shootin' first, nobody shoot 'em.
 That's way too simple for these jokers.
 We're gonna whup that nigger-lover to death.
@@ -585,12 +585,12 @@ I can't see fuckin' shit outta this thing.
 We ready or what?
 [Big Daddy] Aw, hold on,
 I'm fuckin' with my eyeholes.
-- [fabric ripping]
-- Oh... Oh, shit.
+[fabric ripping]
+Oh... Oh, shit.
 I just made it worse.
 Who made this goddamn shit?
-- Willard's wife.
-- Well, make your own goddamn masks!
+Willard's wife.
+Well, make your own goddamn masks!
 Look, nobody's sayin' they don't appreciate what Jenny did.
 Well, if all I had to do was cut a hole in a bag,
 I coulda cut it better than this!
@@ -599,8 +599,8 @@ Can you see?
 Not too good.
 I mean, if I don't move my head I can see you pretty good, more or less.
 But when I start ridin', the bag's movin' all over, and I'm ridin' blind.
-- Shit.
-- [man] Yeah.
+Shit.
+[man] Yeah.
 I just made mine worse.
 Oh, God.
 Anybody bring any extra bags?
@@ -620,12 +620,12 @@ And we gotta make a lesson out of him.
 OK, I'm confused.
 Are the bags on or off?
 I think we all think the bag was a nice idea.
-- Yeah.
-- [mumbling agreements]
+Yeah.
+[mumbling agreements]
 But, not pointin' any fingers, they coulda been done better.
 So how 'bout no bags this time, but next time we do the bags right and then we go full regalia.
-- I like that idea a lot.
-- You get my vote, Robert.
+I like that idea a lot.
+You get my vote, Robert.
 Wait a minute!
 I didn't say no bags.
 But nobody can see.
@@ -634,37 +634,37 @@ So it'd be nice to see.
 Goddamn it! This is a raid!
 I can't see, you can't see!
 So what? All that matters is can the fuckin' horse see! That's a raid!
-- [overlapping shouts]
-- [man] Sons of bitches!
+[overlapping shouts]
+[man] Sons of bitches!
 I can't see shit!
 [Big Daddy] There he is! Get that nigger out from under that wagon!
 And get that nigger-lover outta the wagon!
 That nigger ain't down here,
 Big Daddy!
-- What?
-- They tricked us!
+What?
+They tricked us!
 Well, where are they?
 Auf Wiedersehen.
-- [all shouting]
-- [horses whinnying]
+[all shouting]
+[horses whinnying]
 Oh! [chuckles]
 Bull's-eye.
-- [men yelling]
-- [horses whinnying]
-- [Django] Look at 'em run.
-- [all shouting]
+[men yelling]
+[horses whinnying]
+[Django] Look at 'em run.
+[all shouting]
 Yeah, cowards tend to do that.
 Goddamn it!
 [Big Daddy] Goddamn it!
 Would you care to?
 Can't see shit outta this!
-- He's getting away.
-- I got him.
+He's getting away.
+I got him.
 [Schultz]
 Big Daddy's getting away.
 I got him.
-- [slow-motion impact sound]
-- [Big Daddy grunting]
+[slow-motion impact sound]
+[Big Daddy grunting]
 Got him.
 [chuckles] The kid's a natural.
 [animal yipping nearby]
@@ -675,8 +675,8 @@ Lots of gals where you're from named Broomhilda?
 Broomhilda is the name of a character in the most popular of all the German legends.
 There's a story about Broomhilda?
 Oh, yes, there is.
-- Do you know it?
-- Oh, every German knows that story.
+Do you know it?
+Oh, every German knows that story.
 Would you like me to tell you?
 Well, Broomhilda was a princess.
 She was a daughter of Wotan, god of all gods.
@@ -734,8 +734,8 @@ As a German, I'm obliged to help you on your quest to rescue your beloved Broomh
 [man] You got her.
 Ooh. What happened to Mr. "I Wanna
 Shoot White Folks For Money"?
-- His son's with him.
-- Well, good.
+His son's with him.
+Well, good.
 He'll have a loved one with him.
 Maybe even share a last word.
 That's better than most of them get.
@@ -748,22 +748,22 @@ Consider that today's lesson.
 "Wanted. Dead or alive.
 Smitty Bacall and the
 Smitty Bacall
-- [Schultz] Gang.
-- "Gang."
+[Schultz] Gang.
+"Gang."
 "For murder and stagecoach...
 ...robbery.
-- Seven-zero-zero-zero. .
-- Seven thousand.
+Seven-zero-zero-zero. .
+Seven thousand.
 Thousand.
 "$7,000 for Smitty Bacall.
 $1,500 for each of his...
 .âgangâP
-- Mem...
-- "Members.
+Mem...
+"Members.
 Known members of the Smitty Bacall
 Gang are as follas:"
-- Follows.
-- "Follows."
+Follows.
+"Follows."
 "Dandy Michaels, Gerald Nash and..."
 Crazy Craig Koons.
 That is who Smitty Bacall is.
@@ -781,13 +781,13 @@ Pa!
 Here.
 You need to keep this
 Smitty Bacall handbill.
-- Why?
-- It's good luck.
+Why?
+It's good luck.
 You always keep the handbill of your first bounty.
 [up-tempo guitar music plays]
 That's accurate.
-- [horses whinny]
-- [overlapping gunshots]
+[horses whinny]
+[overlapping gunshots]
 [shell casings clinking]
 [bellowing]
 Doctor, Django, how the hell are ya?
@@ -818,8 +818,8 @@ Candyland?
 Oh, so you've heard of it.
 Ain't no slave ain't heard of Candyland.
 Well, apparently, that's where your wife is...
-- [sighs]
-- ...and that's the repellant gentleman who owns her. Let's just hope she works in the house, not in the field.
+[sighs]
+...and that's the repellant gentleman who owns her. Let's just hope she works in the house, not in the field.
 Oh, no, she ain't no field nigger.
 She... she pretty.
 And she talk good, too.
@@ -827,8 +827,8 @@ But when they tore her back up and then they...
 ...burned that runaway "r" on her cheek...
 ...they goddamned her.
 [yells]
-- [sizzling]
-- [screaming]
+[sizzling]
+[screaming]
 She ain't no field nigger but she ain't good enough for the house no more either.
 They gonna try to make her a comfort girl.
 What's a comfort...? Oh.
@@ -852,8 +852,8 @@ Go ahead.
 So... the man walks up to the farmer's farm, he knocks on the farmer's door...
 ...and asks not to buy the horse, but the farm.
 And makes an offer so ridiculous, the farmer is forced to say yes.
-- We gonna offer to buy Candyland?
-- No, it's far too big.
+We gonna offer to buy Candyland?
+No, it's far too big.
 But apparently this farmer ain't all about the farm.
 How much do you know about Mandingo fighting?
 What?
@@ -869,8 +869,8 @@ Bonjour.
 [speaks French]
 We're here to see Mr. Calvin Candie.
 <i>Entraz.</i>
-- Thank you.
-- Hm-mm.
+Thank you.
+Hm-mm.
 You want me to play a black slaver?
 Ain't nothin' lower than a black slaver.
 A black slaver is lower than the head house nigger...
@@ -882,11 +882,11 @@ Give me your black slaver.
 Toot! Toot! Peanut butter!</i>
 [singing continues indistinctly]
 Dr. Schultz!
-- Good to see you again!
-- Mr. Moguy.
+Good to see you again!
+Mr. Moguy.
 Thank you for your assistance in creating the opportunity
-- for this appointment.
-- Nonsense, it's my job.
+for this appointment.
+Nonsense, it's my job.
 So this is the One-Eyed Charley
 I've heard so much about.
 Yes, this is Django Freeman.
@@ -902,8 +902,8 @@ One could almost say
 I was raised to be Calvin's lawyer.
 One could almost say youse a nigger.
 What did you say?
-- I said...
-- Nothing, he's just being cheeky.
+I said...
+Nothing, he's just being cheeky.
 Uh, anything else about Mr. Candie that I should know before I meet him?
 Yes, he is a bit of a Francophile.
 [chuckles]
@@ -929,17 +929,17 @@ We got us a fight goin' on that's a good bit of fun.
 Won't you accompany me to the bar?
 [grunting, punches continue]
 You don't wear a hat in the house, white man. Even I know that.
-- Dr. Schultz.
-- What a rare pleasure.
+Dr. Schultz.
+What a rare pleasure.
 Keep fighting, niggers.
-- And I might add, an honor.
-- Honor to meet you.
+And I might add, an honor.
+Honor to meet you.
 Please have a seat, the pleasure's all mine.
 Get free man Django here whatever he wants.
 And I'll have sweet tea and bourbon.
 [grunting from fighters continues]
-- [man yelling]
-- [grunting]
+[man yelling]
+[grunting]
 [Calvin] Use your weight, boy, use your weight! There you go.
 He's much bigger and stronger!
 Come on, now!
@@ -947,12 +947,12 @@ He's not doing what I told him, for God's sakes.
 [speaking foreign language]
 Come on, now, boy!
 It's a fight to the death!
-- [grunting]
-- You either hit him or are you ain't?
+[grunting]
+You either hit him or are you ain't?
 [yelling]
 [speaking foreign language]
-- Big Fred, come on!
-- [grunting]
+Big Fred, come on!
+[grunting]
 [Calvin] Turn him around! Now...
 [Calvin] Use your strength, boy!
 Come on, now! Use your strength!
@@ -961,28 +961,28 @@ Come on, now! Use your strength!
 There you go! Look at that.
 See, I told you to put some more power in there.
 Do what I told you, boy!
-- There you go!
-- [bones cracking]
-- No!
-- [Calvin] Do what I told ya!
+There you go!
+[bones cracking]
+No!
+[Calvin] Do what I told ya!
 Blind him black, boy!
 Blind him black!
 [man screaming]
-- Oh, no, Luigi.
-- [screaming]
-- Whoo! Whoo-hoo-hoo!
-- [screaming]
+Oh, no, Luigi.
+[screaming]
+Whoo! Whoo-hoo-hoo!
+[screaming]
 Oh...
-- [panting]
-- [man continues screaming]
+[panting]
+[man continues screaming]
 [playing pool]
 [screaming continues]
 Finish him.
 Go on, boy, finish him!
 [screaming halts]
 [Moguy] That's why they call him Big Fred.
-- Worth every penny.
-- Well, arrivederci, Luigi.
+Worth every penny.
+Well, arrivederci, Luigi.
 Come on up, now, boy.
 Get yourself a rest.
 You did a fine job.
@@ -1005,8 +1005,8 @@ Roscoe, get Fred here a tall beer.
 You enjoy that, boy.
 You've earned it.
 Yessir.
-- What's your name, boy?
-- His name is Django Freeman.
+What's your name, boy?
+His name is Django Freeman.
 [Calvin chuckles]
 Where'd you dig him up?
 A fortuitous turn of events brought Django and myself together.
@@ -1015,8 +1015,8 @@ I heard you been telling everybody them Mandingos ain't no damn good.
 Ain't nothin' nobody is sellin' is worth buyin'.
 I'm curious... what makes you such a Mandingo expert?
 I'm curious what makes you so curious.
-- What did you say, boy?
-- Calm down, Butch.
+What did you say, boy?
+Calm down, Butch.
 No offense given...
 ...none taken.
 [Schultz] Monsieur Candie...
@@ -1024,8 +1024,8 @@ No offense given...
 One...
 ...you do not have anything to drink.
 Can I get you a tasty refreshment?
-- Yes! I'll have a beer.
-- Wunderbar.
+Yes! I'll have a beer.
+Wunderbar.
 Roscoe, a beer for the man with the beard, and I will have a
 Polynesian Pearl Diver.
 Do not spare the rum.
@@ -1042,8 +1042,8 @@ Thank you.
 [Calvin] Roscoe, Coco, go outside and play.
 Sheba... you stay right there.
 I know you didn't mean me.
-- Prost!
-- German.
+Prost!
+German.
 Now, according to Moguy, if I do business with you,
 I'm doing business with both y'all.
 He does the eyeballin', you the billfold? Is that it?
@@ -1075,10 +1075,10 @@ Twelve thousand dollars.
 Well, gentlemen, you had my curiosity, but now you have my attention.
 Willie. Willie.
 Hold up! Hold up. Ah!
-- Good morning, gentlemen.
-- Good Dr. Schultz.
-- Beautiful morning, isn't it?
-- You couldn't have picked a better one.
+Good morning, gentlemen.
+Good Dr. Schultz.
+Beautiful morning, isn't it?
+You couldn't have picked a better one.
 Please, won't you take a ride with us here in the Victoria.
 [Schultz]
 Oh, thank you very much.
@@ -1090,26 +1090,26 @@ The exceptional nigger.
 Bright day, huh, Bright Boy?
 Sun is up.
 Shining on all of us.
-- [Calvin] Have a seat, doc.
-- [Schultz] Thank you.
+[Calvin] Have a seat, doc.
+[Schultz] Thank you.
 Quite an honor.
-- The honor is all ours.
-- Thank you.
+The honor is all ours.
+Thank you.
 <i>[Calvin] But I do believe that, given time,</i> exceptional niggers like Bright Boy here...
 ...become if not frequent...
 ...more frequent.
 Bright Boy, you are that one in 10,000.
 The name of the game is keep up, not catch up, nigger.
 [men laughing]
-- Whoa!
-- [whinnying]
-- Touch your guns, you die.
-- Everybody, calm down!
+Whoa!
+[whinnying]
+Touch your guns, you die.
+Everybody, calm down!
 Now I saw the whole thing.
 No harm done.
 Are you kidding me?
-- This nigger just...
-- I said no harm done!
+This nigger just...
+I said no harm done!
 Now take your hand off your pistol!
 Butch, that means you too.
 Everybody stop antagonizing my guest.
@@ -1117,8 +1117,8 @@ Hoot! Get back up on your horse.
 He broke my collarbone!
 For God's sake, somebody please help
 Hoot here back up on his goddamn horse.
-- [man] Yessir, boss.
-- Oh, now you are one lucky nigger.
+[man] Yessir, boss.
+Oh, now you are one lucky nigger.
 You better listen to your boss, white boy.
 Oh, I'm gonna go walking in the moonlight with you.
 You wanna hold my hand?
@@ -1146,14 +1146,14 @@ May we stop for a moment so I may put a word in my man's ear?
 You know, I'm expecting to fall in love once I see the specimens at Candyland, so before that moment, it would be good if I could have a confidential strategy meeting with my confidant.
 You mind telling me what the hell you doing?
 I confirmed that Broomhilda's at Candyland.
-- You're sure it's her?
-- He didn't call her by name, but she's a young lady, whip marks on her back and speaks German.
+You're sure it's her?
+He didn't call her by name, but she's a young lady, whip marks on her back and speaks German.
 Now, while it's not wise to assume, in this instance,
 I think it's pretty safe.
 Point being, don't get so carried away with your retribution.
 You lose sight of why we're here.
-- You think I lost sight of that?
-- Yes, I do.
+You think I lost sight of that?
+Yes, I do.
 Stop antagonizing Candie.
 You're going to blow this whole charade, or more than likely get us both killed.
 And I, for one, don't intend to die in Chickasaw County, Mississippi, USA.
@@ -1182,8 +1182,8 @@ I can't fight no more, Monsieur Candie.
 [Calvin] Yes, you can.
 You might not be able to win, but your ass can fight.
 Mr. Stonesipher, would you please shut these goddamn dogs up?
-- I cannot hear myself think!
-- Quiet down, Marsha!
+I cannot hear myself think!
+Quiet down, Marsha!
 Marsha, hush up! Marsha!
 Hush up! Hey!
 Get these goddamn dogs away from this nigger!
@@ -1205,19 +1205,19 @@ One-a this new lot.
 Well, way he looks now, a blind Indian wouldn't bet a bead on him.
 [D'Artagnan weeping] Please, Monsieur
 Candie, I ain't got it in me no more.
-- Now, now, now, now, now.
-- I can't...
+Now, now, now, now, now.
+I can't...
 Now, no beggin'.
 No playin' on my soft heart.
-- You in trouble now, son.
-- Yessir.
+You in trouble now, son.
+Yessir.
 I done paid $500 for you.
 When I pay $500, then I expect to get five fights out of a nigger
-- 'fore he roll over and play dead.
-- Sir.
+'fore he roll over and play dead.
+Sir.
 You got to understand that I'm runnin' a business here.
-- You fought three fights.
-- But I won every one.
+You fought three fights.
+But I won every one.
 Yes, you did. Yes, you did.
 But that last one, you muddled the line between winnin' and losin'.
 Yessir.
@@ -1227,8 +1227,8 @@ So what about my $500, huh?
 What about my $500?
 You gonna reimburse me?
 You even know what "reimburse" means?
-- [laughing]
-- [Calvin] Huh?
+[laughing]
+[Calvin] Huh?
 [laughter continues]
 I'll reimburse you!
 You Will?
@@ -1254,21 +1254,21 @@ Now...
 He's your nigger.
 Mr. Stonesipher?
 Let Marsha and her bitches send D'Artagnan to nigger heaven.
-- Marsha! Marsha, hey, get him!
-- [barks echoing]
+Marsha! Marsha, hey, get him!
+[barks echoing]
 Get 'im, get 'im!
-- Yeah!
-- Whoo!
+Yeah!
+Whoo!
 Whoo-ee!
-- [dogs snarling]
-- [screaming]
+[dogs snarling]
+[screaming]
 Your boss looks a little green around the gills for a blood sport like nigger fighting.
 Nah, he just ain't used to seein' a man ripped apart by dogs is all.
 Hm.
 You are used to it?
 I'm just a little more used to Americans than he is.
-- Hm.
-- Now, Monsieur Candie...
+Hm.
+Now, Monsieur Candie...
 ...whenever you're ready.
 We rode five hours so you could show off your stock.
 Let's get to it.
@@ -1290,11 +1290,11 @@ Hello, my ass.
 Who this nigger up on that nag?
 Stephen, you have nails for breakfast?
 What's-a matter? Why you so ornery?
-- You miss me, huh?
-- Oh, yessir. [laughs]
+You miss me, huh?
+Oh, yessir. [laughs]
 I miss you like a hog miss slop!
-- Like a baby miss mammy's titty.
-- [all chuckling]
+Like a baby miss mammy's titty.
+[all chuckling]
 I miss you like I misses a rock in my shoe.
 [laughing]
 Now, I axed you:
@@ -1304,14 +1304,14 @@ Wanna know my name or the name of my horse, you ask me.
 Just who the hell you callin'
 "Snowball," horse boy?
 I'll snatch your black ass off that nag there
-- and in the mud so fast...
-- Whoa, whoa, whoa!
-- ...make your head spin.
-- Stephen, Stephen, Stephen.
+and in the mud so fast...
+Whoa, whoa, whoa!
+...make your head spin.
+Stephen, Stephen, Stephen.
 Let's keep it funny.
 Django here's a free man.
-- This nigger here?
-- That nigger there.
+This nigger here?
+That nigger there.
 Let me at least introduce the two of you.
 Django, this is another cheeky black bugger like yourself, Stephen.
 Stephen, this here's Django.
@@ -1321,8 +1321,8 @@ Django and his friend in gray here,
 Dr. Schultz, are customers.
 And they are our guests, Stephen.
 And you, you old decrepit bastard, oughta show them every hospitality.
-- You understand that?
-- Yessir. Him I understand.
+You understand that?
+Yessir. Him I understand.
 But I don't know why
 I got to take lip off this nigger.
 You don't have to know why.
@@ -1334,8 +1334,8 @@ Go up in the guest bedrooms and get two ready.
 He gonna stay in The Big House?
 Stephen, he's a slaver.
 It's different.
-- In The Big House?
-- Well, you got a problem with that?
+In The Big House?
+Well, you got a problem with that?
 Oh, no.
 I ain't got no problem with it, if you ain't got no problem with burnin' the bed, the sheets, the pillowcases, everything else when this black-ass motherfucker's gone!
 That is my problem!
@@ -1359,13 +1359,13 @@ May I present to you
 Lara Lee Candie-Fitzwilly.
 Chester, Rodney, Chicken Charly.
 Y'all get your ass over by that pen.
-- Come on, Charly. Come on, now!
-- Let's go.
+Come on, Charly. Come on, now!
+Let's go.
 You know where it is.
 Like you on a rope!
 Niggers don't walk around here, niggers run!
-- Monsieur Candie?
-- Hm?
+Monsieur Candie?
+Hm?
 Yeah. About that matter about the nigger girl you were talking about?
 Nigger gal?
 Yeah, I believe you mentioned she spoke German.
@@ -1377,16 +1377,16 @@ Stephen, when you get through showin' them to their rooms, go fetch Hildi, get h
 Dr. Schultz's room here.
 Actually, Monsieur Candie, sir, there's-a somethin'
 I ain't told you 'bout yet.
-- What?
-- [stammers] Uh, Hildi in the Hot Box.
+What?
+[stammers] Uh, Hildi in the Hot Box.
 [Calvin] What's she doin' there?
 [Stephen] What you think she doin' there in the Hot Box?
 She bein' punished.
-- [Calvin] What she do?
-- [Stephen] She run off again.
+[Calvin] What she do?
+[Stephen] She run off again.
 Jesus Christ, Stephen, how many people ran away while I was gone?
-- Two.
-- When did she go?
+Two.
+When did she go?
 Last night.
 They brung her back this morning.
 How bad did Stonesipher's dogs tear her up?
@@ -1398,15 +1398,15 @@ But she done that to her own damn self runnin' through them damn bushes and shit
 How long she been in the box?
 [Stephen] How long you think she been in there? All damn day.
 And the little bitch got ten more days to be in there.
-- Still, take her out.
-- Take her out? Why?
+Still, take her out.
+Take her out? Why?
 Because I said so, that's why.
 Dr. Schultz is my guest.
 Hildi is my nigger.
 Southern hospitality dictates
 I make her available to him.
-- But, Monsieur Candie, she run off.
-- Jesus Christ, Stephen.
+But, Monsieur Candie, she run off.
+Jesus Christ, Stephen.
 What is the point of havin' a nigger that speaks German if you can't wheel 'em out when you have a German guest?
 Now, I realize it is inconvenient, but still, you take her ass out.
 Yessir.
@@ -1420,12 +1420,12 @@ Y'all done heard the man!
 Get her ass up outta there!
 Cora! Come here!
 Get over there and get her cleaned up, bring her back over here to Dr...
-- What he say your name is? Shoots?
-- Schultz.
+What he say your name is? Shoots?
+Schultz.
 Schultz. Get her back over here.
 Hurry up, girl.
-- Yessir.
-- [soft guitar music plays]
+Yessir.
+[soft guitar music plays]
 [Hildi screams]
 Come on, girl. Stand up.
 [Hildi yelling]
@@ -1442,8 +1442,8 @@ Hildi, this is Dr. Schultz.
 It's a pleasure to meet you, Broomhilda.
 I've heard a lot of good things about you.
 Well, it's not every nigger speaks German, don't ya know.
-- [chuckles]
-- [forced chuckle]
+[chuckles]
+[forced chuckle]
 As I look at you now, Broomhilda,
 I can see all the passions you inspire are completely justified.
 The doctor here speaks German.
@@ -1454,8 +1454,8 @@ Speak a little German.
 Ha! [laughs]
 Astonishing.
 [Speaking German]
-- And I shall bring you...
-- [Schultz] Much obliged.
+And I shall bring you...
+[Schultz] Much obliged.
 <i>Ja.</i>
 [speaks German]
 Don't be afraid.
@@ -1467,19 +1467,19 @@ Hey, Little Trouble Maker.
 [gasping]
 [moaning]
 You silver-tongued devil, you.
-- Hurry up, girl.
-- These ready, Miss Cora.
+Hurry up, girl.
+These ready, Miss Cora.
 No, no, no, they drinkin' tonight.
 Go downstairs, get the big jug with the red stuff Monsieur Candie like, hear?
-- Get your big pretty ass out the way.
-- You know you like it.
+Get your big pretty ass out the way.
+You know you like it.
 [laughs] That's 'cause you knows what I like.
 Ooh!
 Come on with these biscuits, girl.
 Look, Monsieur Candie, they were all fine specimens, no doubt about it.
 But the best three by far were Samson...
-- What's that other one's name?
-- Goldie.
+What's that other one's name?
+Goldie.
 Goldie. And Eskimo Joe.
 By the way, why is he called Eskimo Joe?
 [chuckles] You never know how these nigger nicknames get started.
@@ -1502,10 +1502,10 @@ Hence, I have big ideas when it comes to presentation.
 Hm.
 I need something more than just a big nigger.
 Yeah, he needs to have panache.
-- Need to have what? What?
-- Panache. Uh...
-- A sense of Showmanship.
-- Showmanship, yes.
+Need to have what? What?
+Panache. Uh...
+A sense of Showmanship.
+Showmanship, yes.
 I want to be able to bill him as The Black Hercules.
 [all chuckling]
 The Black Hercules, isn't that clever?
@@ -1521,8 +1521,8 @@ I will have you know there is no one in the nigger fight game that appreciates t
 Calvin J. Candie here.
 Nobody.
 But one must not forget the most important thing
-- in the nigger fight game.
-- Hm-mm.
+in the nigger fight game.
+Hm-mm.
 And that is a nigger that can win fights.
 Hm-mm.
 Now that should be your first, second, third, fourth, and fifth concern.
@@ -1537,19 +1537,19 @@ Well, hell,
 I can't imagine two weeks in Boston.
 [laughing]
 Two weeks in Boston!
-- Monsieur Candie, you a mess!
-- [coughing]
+Monsieur Candie, you a mess!
+[coughing]
 [Stephen] Two weeks in Boston!
 I can't express the joy I felt conversing in my mother tongue.
 And Hildi is a charming conversation companion.
 [Calvin] Well, be careful now,
 Dr. Schultz.
 You might-a caught yourself
-- a little dose of nigger love.
-- Hm!
+a little dose of nigger love.
+Hm!
 [Calvin] Nigger love's a powerful emotion, boy.
-- [Stephen] Hm!
-- It's like a pool of black tar.
+[Stephen] Hm!
+It's like a pool of black tar.
 Once it catches your ass, you're caught.
 Yessir, you stuck. [laughs]
 [Lara Lee] I don't know, doctor.
@@ -1558,23 +1558,23 @@ German sweet talk you want, but it looks like this pony's got big eyes for Djang
 [Lara Lee giggles]
 Well, naturally.
 It is the soaring eagle that attracts her attention,
-- not the plucked chicken.
-- [all chuckle]
+not the plucked chicken.
+[all chuckle]
 [Calvin] Dr. Schultz, don't be so down on yourself.
 You are quite the dapper
 European gentleman.
 [Cora] You got to clean these dishes, you got to put your elbow in these dishes, you hear me?
 You know that nigger, don't you?
-- Who?
-- "Who?"
+Who?
+"Who?"
 Don't "who" me, bitch.
 You know who I'm talkin' about.
 At the table?
 I don't know him.
-- You don't know him.
-- No.
-- "No," what?
-- No, sir.
+You don't know him.
+No.
+"No," what?
+No, sir.
 [chuckles]
 You wouldn't lie to me, now, would you?
 OK.
@@ -1591,24 +1591,24 @@ Dr. Schultz, let me reclarify how this whole negotiation came about.
 You see, it wasn't me who came to you to sell a nigger.
 Sure wasn't.
 It was you who approached me to buy one.
-- Sure was.
-- Now, that $9,000 figure
+Sure was.
+Now, that $9,000 figure
 Bright Boy's been bandyin' about, that ain't too far off from right.
 And if I wanted to sell
 Eskimo Joe for that,
-- I could do so any day of the week.
-- Any day.
+I could do so any day of the week.
+Any day.
 But, like you said in Greenville, doctor... I don't want to sell him.
 It was only your ridiculous offer of $12,000
-- that made me even consider it.
-- Hm-mm.
+that made me even consider it.
+Hm-mm.
 [deep inhale]
 You know, Monsieur Candie, you do possess the power of persuasion.
 [chuckles]
 [slamming table] Why not?
 Monsieur Candie, you have a deal.
-- Eskimo Joe, $12,000.
-- [banging table] Hooray, doctor.
+Eskimo Joe, $12,000.
+[banging table] Hooray, doctor.
 Hooray.
 And a wise decision that is.
 However, that is a tremendous amount of money.
@@ -1618,11 +1618,11 @@ And I would need my Mr. Tuttle to draw up a legal contract before I'd feel comfo
 Hm-mm.
 Not to mention having
 Eskimo Joe examined
-- by a physician of my choosing.
-- [Calvin] Naturally.
+by a physician of my choosing.
+[Calvin] Naturally.
 So, say I return in about...
-- ...five days time.
-- Five days?
+...five days time.
+Five days?
 With my Mr. Tuttle.
 And then my Mr. Tuttle and your Mr. Moguy can hash out the finer details between themselves.
 I say splendid, doctor. Splendid.
@@ -1630,8 +1630,8 @@ Gentlemen...
 ...may I propose a toast.
 To Eskimo Joe.
 Or shall we call him The Black Hercules?
-- [all chuckling]
-- To The Black Hercules.
+[all chuckling]
+To The Black Hercules.
 [Stephen] The Black Hercules.
 [speaks low]
 To The Black Hercules.
@@ -1641,26 +1641,26 @@ Hm.
 Hildi, top my drink off.
 So, Hildi, how you like servin' at the big table in The Big House, huh?
 When Monsieur Candie talk to you, you answers.
-- I like it a lot, Monsieur Candie.
-- Hm-mm.
+I like it a lot, Monsieur Candie.
+Hm-mm.
 It's a lot better than sizzlin' in that Hot Box or draggin' your ass through a bramble bush.
 But maybe it's not quite as much fun as gettin' to pleasure all them Mandingos,
-- huh, sugar bear?
-- Oh, Lord, she like them niggers.
-- Sure do.
-- Like Samson? Huh?
+huh, sugar bear?
+Oh, Lord, she like them niggers.
+Sure do.
+Like Samson? Huh?
 [Hildi] No, sir.
 You know, Monsieur Candie, the doctor here might be interested in seein' Hildi's peeled back, seein' as how they don't have many niggers where he come from.
 Dr. Schultz, when you was alone with Hildi, here, did you just speak German or did you get to take her clothes off?
 No, we just talked and...
 [Calvin] Oh, so you haven't seen her back?
-- I haven't...
-- No, no, no, no.
+I haven't...
+No, no, no, no.
 Stephen's right, you might find this interesting.
 Hildi, go on, take off your dress.
 Show Dr. Schultz your back here.
-- Go on.
-- [Lara Lee] Uh, Calvin.
+Go on.
+[Lara Lee] Uh, Calvin.
 I just got her all dressed up and lookin' nice.
 [Calvin] But, Lara Lee,
 Dr. Schultz is from Dusseldorf.
@@ -1671,21 +1671,21 @@ These niggers are tough,
 Dr. Schultz, no doubt about it.
 Hildi's got somethin' like four lashes on her back.
 Lara Lee just get one, she'd lose her goddamn mind.
-- [Stephen] Sure would.
-- [Calvin] Look at that, doctor.
-- It's like a paintin'. Look at that.
-- Calvin!
+[Stephen] Sure would.
+[Calvin] Look at that, doctor.
+It's like a paintin'. Look at that.
+Calvin!
 We are eating. Ain't no one wanna look at her whipped up back.
-- [exhales]
-- Fine. Fine, fine, fine, fine.
+[exhales]
+Fine. Fine, fine, fine, fine.
 After dinner, then, Stephen.
 After dinner.
 During the brandies, gentlemen, hm?
 [Lara Lee]
 Cora, come get this girl!
 [approaching footsteps]
-- [Lara Lee] She a mess.
-- Yes, ma'am. [gasps] Oh!
+[Lara Lee] She a mess.
+Yes, ma'am. [gasps] Oh!
 Why are you all undone?
 I just got you done up.
 Come on in here.
@@ -1693,16 +1693,16 @@ Baby, you on Stephen bad side, and you need to be on his blind side.
 You say you ain't know him.
 Huh?
 I said, you said you ain't know him.
-- I don't.
-- Yes, you do.
+I don't.
+Yes, you do.
 Mr. Stephen...
 ...I don't.
 Why is you lying to me?
 I ain't.
 Then why is you crying?
 You scarin' me.
-- Why is I'm scaring you?
-- Because you scary.
+Why is I'm scaring you?
+Because you scary.
 [Schultz] To speak German this afternoon with Hildi was positively soul-enriching.
 [Calvin] Doctor, that warms my heart to hear that.
 You stay right here.
@@ -1712,18 +1712,18 @@ Yessiree bob, I did.
 In that case, allow me to propose another proposition.
 I'm all ears.
 Hurry up, goddamn it!
-- Monsieur Candie...
-- [Calvin] Stephen!
+Monsieur Candie...
+[Calvin] Stephen!
 You just interrupted Dr. Schultz here.
 [Stephen] I'm sorry, Dr. Schultz.
 My ears ain't worth a damn these days.
 Excuse him.
 Monsieur Candie, could I get a word with you in the kitchen?
 You mean get up out of my chair?
-- If'n you could manage it.
-- Why?
-- It's about dessert.
-- What about dessert?
+If'n you could manage it.
+Why?
+It's about dessert.
+What about dessert?
 I'd rather discuss that in private.
 We're having white cake!
 What sort of melodrama could be brewing back there?
@@ -1746,8 +1746,8 @@ So, Dr. Schultz, why don't you regale us with a tale of the circus.
 [fire crackling]
 What is the matter?
 Them motherfuckers ain't here to buy no Mandingos.
-- They wants that girl.
-- [chuckling]
+They wants that girl.
+[chuckling]
 Stephen, what the hell are you talking about? Hm?
 They playing your ass for a fool is what I'm talking about.
 They ain't here for no musclebound Jimmie.
@@ -1755,8 +1755,8 @@ They here for that girl.
 Wh... What girl? Hildi?
 Yeah, Hildi. Her and Django, them niggers know each other.
 He just bought Eskimo Joe.
-- Did he give you any money?
-- No! Not yet. But...
+Did he give you any money?
+No! Not yet. But...
 Then he ain't bought diddly.
 Not yet, nohow.
 But he's just about to buy who he come here to buy when I interrupted him.
@@ -1788,10 +1788,10 @@ That'd be a hell of a note, wouldn't it?
 Lara Lee, I was just looking out the big window.
 Billy Crash is out there dealing with some shady slaver trying to sell a passel of ponies.
 Would you be a dear, go out there and give them gals an eyeball? Hm?
-- Of course, brother.
-- Thank you, darling.
-- Yeah. Business never sleeps.
-- Hm-mm.
+Of course, brother.
+Thank you, darling.
+Yeah. Business never sleeps.
+Hm-mm.
 Apropos, before your exit, we were discussing the possibility of my purchasing Broomhilda.
 Ah, yes. Yes, we were, doctor.
 And we will again. In a moment.
@@ -1809,8 +1809,8 @@ I spent my whole life here, right here in Candyland...
 ...surrounded by black faces.
 Now, seeing them every day, day in, day out,
 I only had one question:
-- Why don't they kill us?
-- [laughs]
+Why don't they kill us?
+[laughs]
 Now, right out there on that porch, three times a week for 50 years,
 Old Ben here would shave my daddy with a straight razor.
 Now, if I was Old Ben, I woulda cut my daddy's goddamn throat and it wouldn't have taken me no 50 years to do it, neither.
@@ -1839,8 +1839,8 @@ If you lift those palms off that turtle shell tabletop,
 Mr. Pooch is gonna let loose with both barrels of that sawed-off.
 There have been a lot of lies said around this dinner table here tonight, but that you can believe!
 Mr. Moguy, would you be so kind as to collect the pistol hanging off these boys' hips here?
-- Thank you ever so much.
-- Doctor.
+Thank you ever so much.
+Doctor.
 Where were we?
 Jackass.
 Ah, yes.
@@ -1849,16 +1849,16 @@ Am I right?
 Right.
 Bring out Hildi!
 Get over there yonder.
-- [screams]
-- Sit your ass in that goddamn...
+[screams]
+Sit your ass in that goddamn...
 [Stephen] Lay your hand flat on that tabletop.
 [Calvin] Now shut your mouth!
 Dr. Schultz, in Greenville, you yourself said that for the right nigger you'd be willin' to pay what some may consider is a ridiculous amount.
 To which me myself said,
 "What is your definition of ridiculous?"
 To which you said, "$12,000."
-- [yells]
-- Now, considering y'all have ridden a whole lot of miles, went through a whole lot of trouble, and done spread a whole lot of bull to purchase this lovely lady right here, it would appear that Broomhilda is, in fact... the right nigger.
+[yells]
+Now, considering y'all have ridden a whole lot of miles, went through a whole lot of trouble, and done spread a whole lot of bull to purchase this lovely lady right here, it would appear that Broomhilda is, in fact... the right nigger.
 And if y'all want to leave
 Candyland with Broomhilda, the price is $12,000.
 And I take it you prefer the "take it or leave it" style of negotiation?
@@ -1868,32 +1868,32 @@ Broomhilda here is my property.
 And I can choose to do with my property whatever I so desire!
 And if y'all think my price...
 ...for this nigger here is too steep...
-- [grunts]
-- ...what I'm gonna desire to do is...
+[grunts]
+...what I'm gonna desire to do is...
 ...take this goddamn hammer here and beat her ass to death with it!
-- Right in front of both y'all!
-- Easy, big fella.
+Right in front of both y'all!
+Easy, big fella.
 Then we can examine the three dimples inside Broomhilda's skull!
 Now, what's it gonna be, doc?
 Huh?
-- [Hildi whimpering]
-- What's it gonna be?
+[Hildi whimpering]
+What's it gonna be?
 May I lift the hands off the tabletop in order to remove my billfold?
 Yes, you may.
 That 12.
-- Sold!
-- [screaming]
+Sold!
+[screaming]
 To the man with the exceptional beard and his unexceptional nigger.
-- Mr. Moguy.
-- Yes, Calvin?
+Mr. Moguy.
+Yes, Calvin?
 Will you make these gentlemen a receipt for $12,000, please?
 It was a pleasure doing business with y'all.
 Now, gentlemen...
 ...if you care to join me in the parlor...
 ...we will be serving white cake.
 [Beethoven's "Fur Elise" played on harp]
-- [screaming]
-- [dogs snarling]
+[screaming]
+[dogs snarling]
 [screaming]
 Well done, Calvin.
 Excuse me.
@@ -1901,8 +1901,8 @@ Excuse me, ma'am?
 Could you please stop playing Beethoven?
 Take your hands off the harp!
 [Stephen] Doctor!
-- Doctor, you can't go in there!
-- Stephen, Stephen.
+Doctor, you can't go in there!
+Stephen, Stephen.
 He ain't got no business going in there.
 Let it be.
 He's just a little upset, that's all.
@@ -1928,15 +1928,15 @@ You doubt he'd approve, huh?
 Yes. His approval would be a dubious proposition at best.
 Soft-hearted Frenchie.
 Alexandre Dumas is black.
-- Are these Broomhilda's papers?
-- Yes, they are.
-- May I?
-- Of course.
+Are these Broomhilda's papers?
+Yes, they are.
+May I?
+Of course.
 Thank you.
 That is her bill of sale, her ownership history, and, of course, her freedom papers, doctor.
 Would you have ink and pen for me?
-- Right over there on that little table.
-- Thank you.
+Right over there on that little table.
+Thank you.
 Thank you.
 Broomhilda Von Shaft...
 ...consider yourself a free woman.
@@ -1951,20 +1951,20 @@ What?
 It's a custom here in the South...
 ...once a business deal is concluded that the two parties shake hands.
 It implies good faith.
-- I'm not from the South.
-- But you are...
+I'm not from the South.
+But you are...
 ...in my house, doctor.
-- So I'm afraid I must insist.
-- Insist?
+So I'm afraid I must insist.
+Insist?
 On what?
 That I shake your hand?
 Oh, then I'm afraid
 I must insist in the opposite direction.
-- You know what I think you are?
-- What you think I am?
+You know what I think you are?
+What you think I am?
 No, I don't.
-- I think you are a bad loser.
-- And I think you're an abysmal winner.
+I think you are a bad loser.
+And I think you're an abysmal winner.
 Nevertheless, here in Chickasaw
 County, a deal ain't done until the two parties have shook hands.
 Even after all that paper signin', don't mean shit...
@@ -1984,10 +1984,10 @@ Calvin!
 I'm sorry. I couldn't resist.
 [sobbing]
 Ni99er's gone crazy! Help!
-- [screaming]
-- Help, he's killing everyone!
+[screaming]
+Help, he's killing everyone!
 -[gunshot]
-- [Screaming]
+[Screaming]
 Ah! [screams]
 [grunting]
 [screaming]
@@ -1995,16 +1995,16 @@ Holy...!
 Shit! Son of a bitch!
 [overlapping gunfire]
 [man] Damn it! Fuckin'...!
-- Get the...!
-- [screaming continues]
+Get the...!
+[screaming continues]
 [man] Damn it, son of a bitch!
 What...? Fucking...
 Goddamn it!
-- What the fuck is going on?
-- [screams]
+What the fuck is going on?
+[screams]
 You shot me!
-- You stupid son of a bitch!
-- [man] Sorry, Jessie!
+You stupid son of a bitch!
+[man] Sorry, Jessie!
 Who the fuck gave a nigger a goddamn gun?
 [whimpering]
 [screaming]
@@ -2029,16 +2029,16 @@ Django!
 What?
 We got your woman!
 Billy Crash here got his pistol upside her head.
-- [gasping]
-- You don't stop all that carrying on,
-- he gonna blow her goddamn brains out.
-- [gasping]
+[gasping]
+You don't stop all that carrying on,
+he gonna blow her goddamn brains out.
+[gasping]
 And that ain't no threat, horse boy.
 That there is a promise.
 Or...
 ...you can give up, throw your gun out...
-- ...we won't kill Hildi.
-- Horseshit!
+...we won't kill Hildi.
+Horseshit!
 Honest lnjun, Django.
 I swear 'fore God.
 You give up, ain't no harm gonna come to her.
@@ -2048,16 +2048,16 @@ I believe if you don't give up in the next ten seconds, we gonna blow this bitch
 Believe that!
 Don't do it. [sniffling]
 You give me up.
-- [Stephen] Six!
-- Just let me go.
-- Seven!
-- They got too much.
-- [Hildi] Django.
-- [Stephen] Eight!
-- I love you.
-- Nine!
-- [Django] Hold it!
-- No.
+[Stephen] Six!
+Just let me go.
+Seven!
+They got too much.
+[Hildi] Django.
+[Stephen] Eight!
+I love you.
+Nine!
+[Django] Hold it!
+No.
 <i>L</i> give UP-
 I can't hear you, nigger.
 I said I give up!
@@ -2080,13 +2080,13 @@ Probably pretty good while it lasted, huh?
 [Django yells, muffled]
 [grunting]
 Time to say good night to them nuts, blackie.
-- [yelling]
-- On three. One...
-- [screaming]
-- I got you. Two...
-- [screaming]
-- Calm down, now, here it comes.
-- [screaming]
+[yelling]
+On three. One...
+[screaming]
+I got you. Two...
+[screaming]
+Calm down, now, here it comes.
+[screaming]
 " [Stephen] Captain?
 Miss Lara want to see you.
 Something to do with the Old Man's funeral.
@@ -2173,15 +2173,15 @@ I got the handbill right here in my pocket, if you let me get it.
 Get it out.
 [man 1] "Wanted. Dead or alive. Smitty
 Bacall and the Smitty Bacall Gang."
-- [man 2] But you're a slave.
-- [man 1] "For murder..."
-- [Django] I ain't no goddamn slave.
-- [man 1] "...and stagecoach robbery."
+[man 2] But you're a slave.
+[man 1] "For murder..."
+[Django] I ain't no goddamn slave.
+[man 1] "...and stagecoach robbery."
 Do I sound like a fuckin' slave?
-- [man 1] "$7,000 for Smitty Bacall."
-- Hm?
-- [man 2] That's a shitload.
-- I'm a bounty hunter.
+[man 1] "$7,000 for Smitty Bacall."
+Hm?
+[man 2] That's a shitload.
+I'm a bounty hunter.
 Yesterday, as a free man,
 I rode into Candyland on a horse with my German white partner,
 Dr. King Schultz.
@@ -2210,28 +2210,28 @@ Is he a Candyland slave, or did he ride in with a white man on a horse yesterday
 Yeah. They walked us from the Greenville auction, and he rode in on a horse with a white man.
 Now this white man, was the black his slave?
 He weren't no slave.
-- You fuckin' sure about that?
-- Damn sure.
-- What happened over in Candyland?
-- Bunch-a shootin'.
+You fuckin' sure about that?
+Damn sure.
+What happened over in Candyland?
+Bunch-a shootin'.
 Massa got shot.
-- Who shot him?
-- The German.
+Who shot him?
+The German.
 Why'd he do that?
 Nigger and the German was actin' like they were slavers but they wasn't.
-- Well, what were they?
-- Bounty hunters.
+Well, what were they?
+Bounty hunters.
 Fuck me, Roy.
 I mean, this could be big, mate.
 Well, smoke, you got a deal.
-- I got one more condition.
-- What's that?
+I got one more condition.
+What's that?
 When we get there, when time come...
-- ...you let me help you kill 'em.
-- Hey... [laughs]
+...you let me help you kill 'em.
+Hey... [laughs]
 ...you're a funny bugger.
-- Cut him loose.
-- Yeah, yeah.
+Cut him loose.
+Yeah, yeah.
 You got yourself a deal, blackie.
 [mimics accent]
 You got yourself a deal, mate.
@@ -2243,8 +2243,8 @@ There you go, mate.
 Yeah.
 We're gonna give you that packhorse over there.
 What them saddlebags got in 'em?
-- Dynamite.
-- No. I ain't ridin' no horse with no goddamn dynamite on its back.
+Dynamite.
+No. I ain't ridin' no horse with no goddamn dynamite on its back.
 I can understand that.
 Frankie, why don't you take them sticks off that horse and stick 'em in the nigger cage.
 A little dynamite for you black fellas to play with.
@@ -2256,21 +2256,21 @@ Righto.
 Now, don't drop the fuckin' thing, all right?
 I've just had the sights fixed and they're perfect.
 Oh, that's good to know.
-- [all yelling]
-- [horses whinnying]
+[all yelling]
+[horses whinnying]
 [medium-tempo song plays]
 Throw me up that dynamite.
 [medium-tempo song plays]
 [dogs barking outside]
-- [man] Jake!
-- Yeah?
+[man] Jake!
+Yeah?
 Get out there and see what's wrong with them goddamn dogs!
 [man grunts]
 [Django] D'Artagnan, motherfuckers!
-- [gunshots]
-- [shouting]
-- Hey!
-- [grunting]
+[gunshots]
+[shouting]
+Hey!
+[grunting]
 [horse whinnying]
 [horse nickering]
 Auf Wiedersehen.
@@ -2288,8 +2288,8 @@ Auf Wiedersehen.
 <i>âª By-and-by</i>
 <i>âª By-and-by</i>
 <i>âª We will</i> meet
-- <i>J' We will</i> meet <i>by-and-by</i>
-- Cora?
+<i>J' We will</i> meet <i>by-and-by</i>
+Cora?
 Would you prepare us some coffee?
 Sheba, you help her.
 Come on.
@@ -2301,8 +2301,8 @@ Just a bit sooner than y'all was expectin'.
 [shrieking]
 [screaming]
 Billy Crash.
-- Now, where were we?
-- [Billy continues screaming]
+Now, where were we?
+[Billy continues screaming]
 Oh, that's right.
 Last time I seen you, you had your hands on my...
 [screaming]
@@ -2316,10 +2316,10 @@ I suggest you get away from all these white folks.
 Not you, Stephen.
 You right where you belong.
 Cora, before you go, will you tell Miss Lara goodbye?
-- Do what now?
-- I said, "Tell Miss Lara goodbye."
-- Bye, Miss Lara.
-- [gasps]
+Do what now?
+I said, "Tell Miss Lara goodbye."
+Bye, Miss Lara.
+[gasps]
 Y'all two run along now.
 [both gasping]
 [door slamming]
@@ -2330,8 +2330,8 @@ I count two guns, nigger.
 You said in 76 years on this plantation, you seen all manner-a shit done to niggers.
 But I notice, you didn't mention kneecappin'.
 Oh, God! Motherfucker! Damn it!
-- Seventy-six years, Stephen.
-- [Stephen groaning]
+Seventy-six years, Stephen.
+[Stephen groaning]
 How many niggers you think you see come and go, huh?
 Seven thousand?
 Eight thousand?

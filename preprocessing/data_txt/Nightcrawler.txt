@@ -8,23 +8,23 @@ Why?
 There's a broken gate back there, and you're trespassing.
 Excuse me, sir, that gate was open and I was under the opinion that this was a detour.
 Let me see the ID. Take it out.
-- What kind of uniform is that?
-- I'll ask the fucking questions.
+What kind of uniform is that?
+I'll ask the fucking questions.
 It's a private outfit, huh?
 I tried to get one of those jobs.
 I like guarding things.
 Really?
 Here you go, sir.
 I think what must have happened is I just must have gotten turned around.
-- <i>Is it in the high-end or the low-end range?</i>
-- <i>Oh, there's no question it's up!</i>
-- <i>Yes, but 20%?</i>
-- <i>Foreclosure, foreclosure, foreclosure!</i>
+<i>Is it in the high-end or the low-end range?</i>
+<i>Oh, there's no question it's up!</i>
+<i>Yes, but 20%?</i>
+<i>Foreclosure, foreclosure, foreclosure!</i>
 <i>We're talking about over two-thirds of the market,</i>
 <i>and, of course, it's linked to unemployment.</i>
 <i>So, the opportunity for the average investor with the right know-how...</i>
-- <i>Is all in the book. In the seminars.</i>
-- <i>Very little doubt?</i>
+<i>Is all in the book. In the seminars.</i>
+<i>Very little doubt?</i>
 <i>Yes, their distress sales makes them want them off the books.</i>
 <i>They need to sell them.
 They have to, right?</i>
@@ -34,16 +34,16 @@ I guesstimate that I have about
 100 pounds of chain-link fence and two manhole covers. The nice thick ones.
 I'll give 50 cents a pound for the wire,
 15 for the fence, and 10 for the covers.
-- That's below market value.
-- Market value?
+That's below market value.
+Market value?
 You know the cops came by asking about manhole covers?
 I'd like to counter at a dollar a pound for the copper,
 30 cents a pound for the fence, and 20 cents per for the covers.
-- Sell them somewhere else.
-- I'd feel good at 75, 25, and 15.
+Sell them somewhere else.
+I'd feel good at 75, 25, and 15.
 I'm not negotiating with you.
-- I think we're close.
-- I'm done.
+I think we're close.
+I'm done.
 I'm willing to take less to establish a business relationship.
 If that's your last best offer, then I guess I accept.
 All right. Drive around back and unload them.
@@ -73,21 +73,21 @@ This thing is not budging. Hold on.
 I can't move!
 Let's go. Let's go!
 Let's go!
-- We're first!
-- No shit! Get a shot on the other side!
+We're first!
+No shit! Get a shot on the other side!
 All right, all right.
 Get a shot inside the car.
 Go around. Get inside the car.
 The fuck am I paying you for?
 Yeah, it's free.
-- Get back, Loder. Get back!
-- I'm back, I'm back, I'm back!
+Get back, Loder. Get back!
+I'm back, I'm back, I'm back!
 All units. EMS, just past exit 31.
 Excuse me.
-- Will this be on television?
-- Morning news. If it bleeds, it leads.
-- What channel?
-- Whoever pays the most.
+Will this be on television?
+Morning news. If it bleeds, it leads.
+What channel?
+Whoever pays the most.
 What do you get for something like this?
 Not nearly enough.
 Enough to buy all that gear.
@@ -105,8 +105,8 @@ Coming through.
 <i>There was another drive-by shooting today downtown...</i>
 <i>You're entitled to fear and adequate compensation.</i>
 <i>We'll fight for you.</i>
-- <i>Potatoes!</i>
-- <i>Okay, I give up. Potatoes!</i>
+<i>Potatoes!</i>
+<i>Okay, I give up. Potatoes!</i>
 <i>Any family would agree.</i>
 <i>Bird's Eye turns vegetables you want to serve</i>
 <i>into vegetables they want to eat.
@@ -120,15 +120,15 @@ Thanks for joining us. I'm Pat Harvey.</i>
 <i>Hope your day's getting off to a good start. I'm Kent Shocknek.</i>
 <i>An unclaimed Mega Millions ticket sold at a 7-Eleven in South San Diego</i>
 <i>is worth a whopping $266 million.</i>
-- <i>The question is, is it yours?</i>
-- <i>We'll have the numbers, coming up.</i>
+<i>The question is, is it yours?</i>
+<i>We'll have the numbers, coming up.</i>
 <i>Evidence has police hunting for one of their own.</i>
 <i>A fast-moving bank robber in
 Sylmar didn't move fast enough.</i>
 <i>And we'll explain how the FBI...</i>
 <i>A landmark court decision, Lisa, has cyber-music fans singing the blues.</i>
-- <i>I may have to budget more for my music.</i>
-- <i>Closet space!</i>
+<i>I may have to budget more for my music.</i>
+<i>Closet space!</i>
 <i>Twisted metal, a shattered life.
 All of it caught on tape last night</i>
 <i>at the scene of a fiery one-car collision out on the 110.</i>
@@ -150,12 +150,12 @@ This bike has a light-weight, space-age carbon frame and handlebars positioned t
 It also has micro-shifters and 37 gears, and weighs under six pounds.
 I won the Tour de Mexico on this bike.
 $700 is as high as I'll go.
-- It cost me over $8,000 new.
-- $2,500, and that's giving it away.
-- No bike has got 37 gears.
+It cost me over $8,000 new.
+$2,500, and that's giving it away.
+No bike has got 37 gears.
 No.
-- Could I please speak to your boss?
-- I'm the owner.
+Could I please speak to your boss?
+I'm the owner.
 How about $800 in store credit?
 What are you after?
 A camcorder and a police scanner.
@@ -170,19 +170,19 @@ Young, John, one. R.O. not on file.</i>
 No further description.</i>
 <i>Code Two, incident 3679. ID 1125.</i>
 Hey! Who the hell are you?
-- Freelance!
-- What are you doing?
-- Filming for TV.
-- No. Back away.
-- What's happening?
-- I said turn around and leave.
+Freelance!
+What are you doing?
+Filming for TV.
+No. Back away.
+What's happening?
+I said turn around and leave.
 I'm fairly certain
 I'm allowed to film this.
-- Film what?
-- I don't know. What's happening?
+Film what?
+I don't know. What's happening?
 Walk away, or get arrested for obstruction.
-- Yes, Officer.
-- Hurry up. Get out of here.
+Yes, Officer.
+Hurry up. Get out of here.
 Blow, blow, blow, blow blow.
 Almost. Almost.
 Will you move that cam?
@@ -196,23 +196,23 @@ Just occurred.</i>
 All right, let's get some blood pressure.
 He's pretty shocked.
 Breathing is very shallow.
-- He's got a second chest wound here.
-- Put pressure on it.
+He's got a second chest wound here.
+Put pressure on it.
 We got it. Strap it on the other side.
-- You got a dressing on it?
-- Yeah.
-- GCS is 1-1-1, guys.
-- Give me pressure.
-- 90 over 60.
-- No radial pulse.
+You got a dressing on it?
+Yeah.
+GCS is 1-1-1, guys.
+Give me pressure.
+90 over 60.
+No radial pulse.
 We're losing him.
-- He's bleeding out.
-- Can you bag him?
+He's bleeding out.
+Can you bag him?
 Let's start bagging him.
 Keep on high flow, too.
 Yep.
-- I got no pulse here.
-- Unresponsive.
+I got no pulse here.
+Unresponsive.
 Get back. You. Get back.
 Get the fuck back now.
 Okay. Shit. All right.
@@ -236,27 +236,27 @@ Okay, dip into graphics.
 I don't think that's going to cover it.
 Frank, it's not my call.
 Oh, excuse me.
-- Excuse me. I have video footage.
-- Down the hall, to the right.
-- Right here.
-- Okay.
+Excuse me. I have video footage.
+Down the hall, to the right.
+Right here.
+Okay.
 Put the neighbor here, and the kids with their mother by the door.
-- You can get it back from 2:16.
-- Yeah.
+You can get it back from 2:16.
+Yeah.
 Then I want to lay in some nat-sound.
 Let's loop the neighbor's dog barking.
 And then try taking the crying kid from B-roll
-- and dropping that in the background.
-- Got it.
+and dropping that in the background.
+Got it.
 You my fill-in operator?
 I don't think so. I'm Lou Bloom.
 I have some footage for sale.
 A stringer?
-- What?
-- Who do you work for?
+What?
+Who do you work for?
 At the moment, I work for myself.
 Okay, see Frank out there, the way you came.
-- What's it timed to?
+What's it timed to?
 What do you have?
 Something I'm fairly certain you'll be very excited about.
 What is it?
@@ -264,10 +264,10 @@ It's a shooting. A man was shot.
 Several times, in fact.
 He's lying on the ground, and he's bleeding on the ground.
 I'd be surprised if he survived, honestly.
-- He was shot during a carjacking.
-- Western and First?
-- Yes, that's right.
-- We're getting that from Ace.
+He was shot during a carjacking.
+Western and First?
+Yes, that's right.
+We're getting that from Ace.
 I was there. I was much closer to what happened.
 Okay. Okay. Let's see it.
 You can fast forward through this.
@@ -275,30 +275,30 @@ Keep going, keep going.
 <i>Walk away, or I'll arrest you for...</i>
 A minute-and-a-half in.
 There.
-- I got no pulse...
-- Oh, fuck.
+I got no pulse...
+Oh, fuck.
 I need you to see something.
-- Yeah?
-- Lou Bloom.
+Yeah?
+Lou Bloom.
 Frank Kruse, our assignment editor.
 Play it back.
 <i>I got no pulse, here.</i>
 That's the lead. I want to break it up and do a wrap-around from the scene.
 I want a walking stand-up, teaser at five, repeat on the half and I want the copy to start with a warning.
 You're going to show this?
-- With a warning.
-- It's excessive.
+With a warning.
+It's excessive.
 We should have packages like this every day.
-- People are eating breakfast.
-- And they'll talk about it at work.
+People are eating breakfast.
+And they'll talk about it at work.
 Tie it in with the carjacking last month in Glendale.
 And the other one, the van in Palms.
 When was that? In March?
-- March, yeah.
-- It's a carjacking crime wave.
+March, yeah.
+It's a carjacking crime wave.
 That's the banner. Call the victim's family, get a quote, mic it.
-- You know what to do.
-- Yeah.
+You know what to do.
+Yeah.
 How much?
 I'm selling this particular piece for $1,000.
 Not even close. This late, you have nowhere else to go.
@@ -306,13 +306,13 @@ And the quality's for shit.
 I'll give you $250, that's the most I'll do.
 Now, let's get you paid.
 Here you go. Buy yourself some better equipment, a directional mic, and get interviews when you can.
-- You have a good eye.
-- Thank you.
+You have a good eye.
+Thank you.
 I'm just beginning, so praise from someone such as yourself, well, you can imagine that it means quite a lot.
 I'll help in any way I can. And, of course, you can help me by calling us first.
 I want you to contact me when you have something.
-- Something like this.
-- That's right.
+Something like this.
+That's right.
 Bloody.
 Well, that's only part of it.
 We like crime. Not all crime.
@@ -360,12 +360,12 @@ Viewer discretion is advised.</i>
 Last seen northbound La Brea at Oakwood.</i>
 <i>Blue Prius. No suspect description.</i>
 <i>Code Two, incident 2475. RD 693.</i>
-- Hey. I'm sorry I'm late.
-- Are you Richard?
-- Rick.
-- I'm Louis Bloom.
-- Hey, Lou.
-- Louis. Sit down.
+Hey. I'm sorry I'm late.
+Are you Richard?
+Rick.
+I'm Louis Bloom.
+Hey, Lou.
+Louis. Sit down.
 The situation is that I lost an employee, and I'm interviewing for a replacement.
 Okay. The ad didn't say what the job was.
 It's a fine opportunity for some lucky someone.
@@ -380,8 +380,8 @@ I don't know.
 Like, a week here, a week there.
 Why hire you?
 Sell yourself.
-- Okay.
-- Go.
+Okay.
+Go.
 Okay.
 I'm Rick. Of course.
 I... I took three buses to get here.
@@ -392,33 +392,33 @@ So...
 What's your address, Richard?
 I don't have one.
 Not a permanent one right now.
-- You're homeless.
-- I was for a while.
-- You trick.
-- Work the street? No.
-- Wasn't a question.
-- I'm straight.
+You're homeless.
+I was for a while.
+You trick.
+Work the street? No.
+Wasn't a question.
+I'm straight.
 Plenty of straight guys trick.
 Do you have a driver's license?
 Yeah.
-- Do you know Los Angeles?
-- Yeah. I grew up all around here.
-- Can you start tonight?
-- Doing what?
+Do you know Los Angeles?
+Yeah. I grew up all around here.
+Can you start tonight?
+Doing what?
 I run a successful TV news business.
 We film breaking stories.
 Maybe you saw my item this morning of a fatal carjacking.
 No. I don't have a TV, but that sounds cool.
 Do you have a cellphone?
 Yeah.
-- Does it have GPS?
-- Yes, it does.
-- Congratulations. You're hired.
-- Okay.
+Does it have GPS?
+Yes, it does.
+Congratulations. You're hired.
+Okay.
 Your job will be to listen to the emergency radio, learn police codes, help navigate, and watch the car.
 Okay.
-- And what does it pay?
-- It's an internship.
+And what does it pay?
+It's an internship.
 Man, I...
 I can't do that. I need money.
 I'm giving you a chance to explore career options and get insight into my organization.
@@ -436,8 +436,8 @@ Sixth and Rampart.</i>
 <i>Female Hispanic wearing a blue shirt.
 Code 2, incident 2156, RD 235.</i>
 Code Two is "Respond immediately, no lights and sirens."
-- And Code Three is?
-- With the lights and sirens on.
+And Code Three is?
+With the lights and sirens on.
 Very good.
 <i>2-A-1 responding.
 Sixth and Rampart, Code Two.</i>
@@ -456,12 +456,12 @@ No, thank you.
 <i>Structure fire. Station 58. Engine 58.</i>
 <i>Task force 58, task force 43.
 Engine 43. Battalion 10.</i>
-- <i>1642 Rincon Avenue...</i>
-- Structure fire!
+<i>1642 Rincon Avenue...</i>
+Structure fire!
 <i>Engine 58 on scene. 1642 Rincon Avenue.</i>
 Seat belt. Seat belt. Seat belt.
-- Where are we going?
-- We're taking the next right coming up.
+Where are we going?
+We're taking the next right coming up.
 Slow down, man.
 That's too fast!
 Talk to me, Richard.
@@ -470,15 +470,15 @@ Next left, coming up.
 Fuck!
 I need more warning next time.
 Where are we going?
-- Talk to me! What's next?
-- Okay. Keeping on this five...
-- No, six blocks. Then a right.
-- On what?
+Talk to me! What's next?
+Okay. Keeping on this five...
+No, six blocks. Then a right.
+On what?
 I made a mistake!
 It's a right five blocks back.
 It's just five blocks.
-- Did they bring him out?
-- Ambulance left two minutes ago.
+Did they bring him out?
+Ambulance left two minutes ago.
 You're a lifetime too late. Nice camera!
 On to the next.
 I bet I wasted five dollars of gas just getting here or don't you think that's a lot of money?
@@ -503,14 +503,14 @@ Are you the one that made the call?
 No, no. I think...
 I was trying to go to sleep, and I heard a sound.
 It scared me. That's why I called.
-- Sir, what's going on?
-- Who the fuck are you?
-- TV news. What happened?
-- It was a shooting.
+Sir, what's going on?
+Who the fuck are you?
+TV news. What happened?
+It was a shooting.
 I told the cops that he was waving a gun last week, but they didn't fucking care.
 Can you try one more time without swearing?
-- I'm not doing it again.
-- But this is for TV.
+I'm not doing it again.
+But this is for TV.
 Yeah? I don't have a TV.
 It's over.
 Shot the place to shit.
@@ -520,38 +520,38 @@ Let's move it out.
 <i>Great shot.</i>
 Oh, that's fantastic.
 Oh, that's a great piece of tape.
-- You didn't get an interview with the couple?
-- I have footage of them.
+You didn't get an interview with the couple?
+I have footage of them.
 I have an interview with a neighbor.
 She curses, but you can cut that out.
 How did you get inside the house?
-- The door was open.
-- They allowed you?
+The door was open.
+They allowed you?
 I heard somebody yell to come in, and when nobody was inside, I left.
 And the only shot of the couple is through a window?
-- The police were shutting it down.
-- I don't like it.
-- Like what?
-- The footage looks like he broke in.
+The police were shutting it down.
+I don't like it.
+Like what?
+The footage looks like he broke in.
 There's no close-up of the homeowners and he's giving us their name
-- off a piece of private correspondence.
-- Excuse me, that's junk mail.
-- Well, I have a problem with that.
-- We'll knock out a killer package.
-- This is my job.
-- No!
+off a piece of private correspondence.
+Excuse me, that's junk mail.
+Well, I have a problem with that.
+We'll knock out a killer package.
+This is my job.
+No!
 Your job is writing the tweet of the day.
 And getting Deb to turn sideways during the weather forecast.
 We're running it.
 I like how you handled Frank.
 You didn't soften the truth or dilute it.
 I think being clear with your objectives is more important than trying to present your ideas in a non-confrontational manner.
-- Do you have experience in an office?
-- Myself? Not presently, no.
-- Where did you get all that?
-- I study a lot online.
-- Yeah? Like what?
-- All sorts of things, actually.
+Do you have experience in an office?
+Myself? Not presently, no.
+Where did you get all that?
+I study a lot online.
+Yeah? Like what?
+All sorts of things, actually.
 I'm on my computer all day.
 I haven't had what you'd call much of a formal education, but you can find most anything if you look hard enough.
 Last year, I took an online business course, for example.
@@ -600,16 +600,16 @@ Living with what you ain't got, right?
 Don't you think?
 <i>Traffic units, ambulance traffic,
 Benedict Canyon.</i>
-- <i>Overturned vehicle with injuries.</i>
-- Crash with injuries. Good neighborhood.
+<i>Overturned vehicle with injuries.</i>
+Crash with injuries. Good neighborhood.
 TV news. What happened?
 I think it was a head-on collision, and there's a guy who's dead over there.
-- There's a woman...
-- Did you see what happened?
+There's a woman...
+Did you see what happened?
 Am I supposed to help?
 I didn't see, I came after.
-- Can you tell me exactly what happened?
-- Will you get the camera out of my face?
+Can you tell me exactly what happened?
+Will you get the camera out of my face?
 Get it out! I'm trying to talk to 911!
 No, it's at... The guy is down.
 Make some room! We'll block it off.
@@ -635,22 +635,22 @@ Cabanita has been called
 "an authentic taste of Mexico City."
 Do you wanna go with me?
 I think we could have fun together.
-- Thanks, but I'm busy.
-- Saturday is your night off, isn't it?
+Thanks, but I'm busy.
+Saturday is your night off, isn't it?
 I have a rule, Lou.
 I don't date people I work with.
-- And I'm twice your age.
-- I like older women.
+And I'm twice your age.
+I like older women.
 Besides, I don't work with you.
 You're someone I sell to.
 And I don't wanna fuck that up.
 What if by saying no, you fuck it up?
 All right, 10 seconds to go and back on.
 Is that what you're saying?
-- I didn't say that.
-- Eight, seven...
-- ...six, five, four...
-- Well, I don't know what to say.
+I didn't say that.
+Eight, seven...
+...six, five, four...
+Well, I don't know what to say.
 ...three, two, one.
 Good morning. Thank you for joining us. I'm Lisa Mays.
 And I'm Ben Waterman.
@@ -672,15 +672,15 @@ Otherwise, it's a nice ride.
 Listen, man, you got a good run going but there's valleys out there.
 Take it from me.
 I've been nightcrawling for 14 years.
-- You heard I'm adding a second van?
-- No. I didn't hear that.
+You heard I'm adding a second van?
+No. I didn't hear that.
 Gonna be a game changer.
 Cut my on-scene time in half.
 I'm setting up a dedicated dispatch, too.
 No more listening and driving.
 That's for suckers.
-- You like the Canon 305s?
-- Never used one.
+You like the Canon 305s?
+Never used one.
 Six thou a piece. 2.4 megapixels.
 Night vision. 18:1 zoom.
 I got one of those puppies with your name on it.
@@ -698,8 +698,8 @@ This is the big move, the next level.
 We can corner this whole thing.
 I'm talking about putting some heavy digits in our pocket, brah.
 Thank you for offering me the position but working for myself is more in line with my skills and career goals.
-- Take a few days to think about it.
-- No.
+Take a few days to think about it.
+No.
 You'll need to hire someone else, and I don't want to hold up the process.
 You want to be on the inside of this, man because I'm going to be tag-teaming every call.
 You keep talking like it's something that
@@ -733,10 +733,10 @@ I'm sure you look at those, of course.
 No. God, no.
 Not without a drink in my hand.
 I watch my work all the time.
-- Yeah? Do you want to become a reporter?
-- No.
-- Most of you guys want air time.
-- Not me.
+Yeah? Do you want to become a reporter?
+No.
+Most of you guys want air time.
+Not me.
 I want to be the guy that owns the station that owns the camera.
 The business is going well, but in order to grow to the next level,
 I need to stay one step ahead of my competition and take risks.
@@ -757,8 +757,8 @@ I don't think it's any secret that I've single-handedly raised the unit price of
 Our ratings book price?
 I'm a very fast learner.
 We had a conversation where I specifically mentioned that. Do you remember that?
-- Well, do you?
-- Yes.
+Well, do you?
+Yes.
 I recently learned, for instance, that... most Americans watch local news to stay informed.
 I also learned that the average half-hour of Los Angeles television news packs all of its local government coverage including law enforcement, budget, transportation, education and immigration into 22 seconds.
 Local crime stories, however, not only usually led the news but filled 14 times the broadcast, averaging five minutes and seven seconds.
@@ -781,13 +781,13 @@ You're the news director on the vampire shift of the lowest-rated station in Los
 We have what could be considered an almost-exclusive relationship.
 There are many other places I could go.
 I have to think that you're invested in this transaction.
-- Here you are.
-- Wow.
-- Enjoy.
-- Thank you.
+Here you are.
+Wow.
+Enjoy.
+Thank you.
 Where did you get the balls to even suggest something like this?
-- We're still talking.
-- No. There's nothing more to say.
+We're still talking.
+No. There's nothing more to say.
 You can leave.
 Okay, look. You've done well. Okay?
 And we pay you well, very well.
@@ -802,8 +802,8 @@ I happen to know that you haven't stayed at one station for longer than two year
 I can imagine that your contract is for that length of time.
 And that next month's ratings directly affect that.
 So, you're threatening that if I don't...
-- I'm negotiating.
-- You're threatening to stop selling to me.
+I'm negotiating.
+You're threatening to stop selling to me.
 That's your choice.
 The true price of any item is what somebody's willing to pay for it.
 You want something. And I want you.
@@ -817,14 +817,14 @@ You're putting me on the 5?
 Yeah, the 2 to the 5 to the 110 to the 10.
 Did you read my traffic memo yesterday?
 Did I read it?
-- Yeah, I read it.
-- What did it say?
-- About the 5?
-- Okay. I looked at it. What?
+Yeah, I read it.
+What did it say?
+About the 5?
+Okay. I looked at it. What?
 Well, for one thing, it included that the 5 has floating construction in the fast lane for the next three weeks.
 So, given that, I expect you to put me on the 2 to the 101 to the 110 to the 10.
-- That's half of one, six of the other.
-- It's half dozen of one, six of the other.
+That's half of one, six of the other.
+It's half dozen of one, six of the other.
 What I'd like you to do is admit that you didn't read what you said you did.
 You know I'm a reasonable person, but nobody likes to be lied to!
 Okay! When am I going to get my raise?
@@ -839,8 +839,8 @@ Most firms have set starting wages. Ideally, you could leverage with other offer
 North division. Battalion 12.</i>
 <i>Heavy rescue. 56. Air ops respond.
 Reported plane down.</i>
-- <i>Whiteman Field, south of Foothill.</i>
-- Reroute us to that.
+<i>Whiteman Field, south of Foothill.</i>
+Reroute us to that.
 We're, like 22 minutes from Foothill, and only five from a hit and run.
 They're rolling heavy rescue and an air ambulance. Get me there, please.
 It's good right there.
@@ -864,11 +864,11 @@ A car crash.
 Well, none of this is gonna knock anybody out.
 I can't use any of this in my rundown.
 Is this it?
-- No, I have a stabbing in Corona.
-- Where's the plane crash at Foothill?
+No, I have a stabbing in Corona.
+Where's the plane crash at Foothill?
 I don't mind saying that I'm trying to bring you stories that happen here on the ground.
-- Two has it. It'll be their lead.
-- Well, I hope that works well for them.
+Two has it. It'll be their lead.
+Well, I hope that works well for them.
 Now, let me show you the stabbing in Corona.
 I don't give a goddamn about fucking Corona!
 You know how important this week is.
@@ -876,8 +876,8 @@ This shit is fucking death to me!
 I understand your frustration. I was just trying not to be too hard on myself.
 I sold you upstairs as some kind of fucking sweeps savior.
 And I'm leading with a goddamn stabbing. In Corona!
-- So, you want that, then?
-- I want you to get in the goddamn game!
+So, you want that, then?
+I want you to get in the goddamn game!
 I want something people can't turn away from.
 I want what you fucking promised me!
 <i>Good morning, everyone.
@@ -918,8 +918,8 @@ What's his name? Fucking Marcus.
 Park the car and get your camera.
 Now, let's get one guy inside.
 Hold the seats back.
-- You can't get that in right there?
-- No, there's no room.
+You can't get that in right there?
+No, there's no room.
 Here we go.
 What the hell happened?
 According to witnesses, they were driving at a high rate of speed, probably toward Griffith Park, when, apparently, they ran head-on into this light pole.
@@ -932,17 +932,17 @@ Not anymore, Rick. We're professionals.
 He's a sale.
 Got facial trauma.
 Got lacerations all the way down...
-- Yeah, I'm calling it in.
-- Minimize that movement.
+Yeah, I'm calling it in.
+Minimize that movement.
 Get him back in the ambulance and put some oxygen on him. Drop him down.
-- Keep pressure on him.
-- Back that unit off.
+Keep pressure on him.
+Back that unit off.
 Yeah, let's get some four-by-fours on there.
 Bring the gurney all the way up.
 Come on, let's go. Stay with me.
 I got him, I got him.
-- Make sure you size him right.
-- All right.
+Make sure you size him right.
+All right.
 Man, we are way the hell out here.
 <i>Any Mission unit.
 Residential 211 in progress.</i>
@@ -953,13 +953,13 @@ We're five blocks away. Pull a U-turn.
 At the end of the street. Coming up.
 4808. Here!
 We beat the police.
-- What do you want me to do?
-- You know what to do, Rick!
+What do you want me to do?
+You know what to do, Rick!
 <i>3-X-21. Go ahead.</i>
 <i>3-X-21, confirm address on the 211 at Bonhill Road.</i>
 What is going on?
-- We're leaving.
-- What?
+We're leaving.
+What?
 What's in there? What's going on?
 What happened in there?
 You should have walked in and looked,
@@ -971,18 +971,18 @@ I heard gunshots!
 All the more reason you might have helped me.
 You might have learned a new skill that made you more useful and put us on a track toward growth!
 Stay in the car.
-- Why?
-- Because I said so.
+Why?
+Because I said so.
 We have a hit-and-run in Beverly Hills, a car versus pedestrian incident and a robbery.
-- Do we have footage of the crash?
-- Surveillance footage.
+Do we have footage of the crash?
+Surveillance footage.
 I've been trying to reach you for the last hour.
 In the future, when you don't have anything, man up and don't dodge my fucking calls.
 I do have something.
 What?
 Home invasion, triple murder in Granada Hills.
-- That's just breaking now.
-- We got there before the police.
+That's just breaking now.
+We got there before the police.
 You have it?
 I'm not going to list the many benefits of this piece.
 I think it's probably best if you just watch it for yourself.
@@ -994,16 +994,16 @@ Home invasion in Granada.
 He got there before the cops.
 We have 10 minutes to airtime.
 How much of this can we show?
-- You mean, legally?
-- No, morally. Of course, legally.
+You mean, legally?
+No, morally. Of course, legally.
 Have they been identified?
 It just happened, so you have to assume no, and that's just one of the issues.
 We can't broadcast their identities without notifying the next of kin.
-- We're not identifying them.
-- You are by proxy, by showing their faces.
+We're not identifying them.
+You are by proxy, by showing their faces.
 We pixelate the faces.
-- Where did you get this?
-- Stringer.
+Where did you get this?
+Stringer.
 Hi, Linda. I'm Lou.
 Jesus. Is there a dead baby inside of there?
 No. The crib was empty.
@@ -1011,36 +1011,36 @@ Oh, for Christ's sake.
 Are we breaking the law by showing this?
 Block the faces, don't give out the exact address. Do that, I guess.
 I don't know. I wouldn't think so, no.
-- Journalistically and ethically?
-- This isn't Hartford.
-- We are beyond all broadcast standards.
-- Have you seen the overnights?
-- I'll risk the fine.
-- What did you pay for this?
+Journalistically and ethically?
+This isn't Hartford.
+We are beyond all broadcast standards.
+Have you seen the overnights?
+I'll risk the fine.
+What did you pay for this?
 The price hasn't been negotiated yet.
 Give us a minute. Thanks.
-- How much?
-- How much?
+How much?
+How much?
 I need a number. Nine minutes.
 I need a number.
-- I just gave you two.
-- I got $3,000 for the food truck stabbings.
-- There were more dead.
+I just gave you two.
+I got $3,000 for the food truck stabbings.
+There were more dead.
 Those were poor Mexican people in a roach coach. Two of them were illegals.
 These are three wealthy white people, shot and killed in their mansion.
 Including a suburban housewife shotgunned in her bed. I know you, Nina.
 I know your interest and excitement in this product is greater than the amount you're offering.
-- Give me a serious number.
+Give me a serious number.
 Can't do it. Never happen. There's a matter of precedent. Ten is my last best offer.
 Okay.
 Really? Where are you going?
 Seven has approached me at least several times.
 The ND there gave me his number.
 They'll make me a better offer.
-- It's a five-minute drive.
-- Hold on!
-- Twelve.
-- Fifteen.
+It's a five-minute drive.
+Hold on!
+Twelve.
+Fifteen.
 I can't spend a month's budget on a single story.
 What if the story's not over?
 The people who did this escaped.
@@ -1079,23 +1079,23 @@ That could lead by itself on an average night.
 I'd be willing to throw that in for free.
 So what do you say, do we have a deal?
 Lisa Mays, Ben Waterman, Lou Bloom.
-- Hi.
-- Hello. How are you, Lisa?
+Hi.
+Hello. How are you, Lisa?
 You remember Lou from the Benedict Canyon crash.
 Oh, yeah. Amazing stuff.
 That was my company,
 Video Production News.
 I would just like to say that I think that what the two of you do is incredibly valuable.
-- Thank you.
-- That's nice of you to say.
+Thank you.
+That's nice of you to say.
 We appreciate it.
 I don't know how long this tape runs, we might dump out.
 Twenty seconds to back.
 Ben and Lisa, 20 seconds to back.
 Set up a sting dig,
 Camera Two on a two-shot.
-- Where's the banner?
-- Did we decide on one?
+Where's the banner?
+Did we decide on one?
 Horror House. What did we talk about?
 Can you build that?
 Put it on CG-one. Back in 10 seconds.
@@ -1107,8 +1107,8 @@ This is KWLA with breaking news.</i>
 <i>we've now received word of an apparent home invasion triple homicide</i>
 <i>in the Granada Hills area of the San Fernando Valley.</i>
 <i>Now, at present, the number of those dead...</i>
-- Preset Camera Two.
-- <i>...have not been confirmed yet by the police</i>
+Preset Camera Two.
+<i>...have not been confirmed yet by the police</i>
 <i>but KWLA has obtained exclusive footage from inside the crime scene</i>
 <i>in which at least three bodies can be observed.</i>
 <i>Now, we're going to show you segments of that footage</i>
@@ -1116,12 +1116,12 @@ This is KWLA with breaking news.</i>
 Ben, Lisa, I have a tape. When you're ready, throw to it. I'll follow you.
 <i>Again, we're about to show you exclusive KWLA video</i>
 <i>from inside the actual crime scene.</i>
-- It's graphic. Repeat it.
-- <i>And before broadcasting this video,</i>
+It's graphic. Repeat it.
+<i>And before broadcasting this video,</i>
 <i>we want to warn our viewers that these are extremely graphic images.</i>
 <i>And I'm hearing from our control room that we have that video,</i>
 <i>- and we're going to show it now.
-- Let's roll it now.</i>
+Let's roll it now.</i>
 <i>This is footage that we have obtained exclusively by KWLA</i>
 <i>from Video Production News. This is a professional news-gathering service.</i>
 <i>And this is what appears to be a shotgun, something you might use for home defense.</i>
@@ -1135,30 +1135,30 @@ Ben, Lisa, I have a tape. When you're ready, throw to it. I'll follow you.
 I'm guessing, from this angle.</i>
 <i>A young woman on a sofa, there.</i>
 <i>All of the faces, though, have been blurred out.</i>
-- They've escaped. They're on the loose.
-- <i>That is the first of what we understand</i>
+They've escaped. They're on the loose.
+<i>That is the first of what we understand</i>
 <i>are three bodies in the home in Granada Hills.</i>
 <i>And this was committed by a suspect, or suspects who are still out there.</i>
 <i>They're believed to have escaped.
 And if you think about that,</i>
-- <i>that is a very frightening thought.</i>
-- Repeat that.
+<i>that is a very frightening thought.</i>
+Repeat that.
 <i>Yes, scary, and very concerning, particularly given what we're looking at here.</i>
 <i>The savagery of what these pictures show.</i>
 <i>And now, look, there on the floor.</i>
 Lisa, what is that?
 A bloodied article of clothing?
 <i>It looks like a silk shirt.</i>
-- <i>Maybe a woman's silk blouse.</i>
-- <i>It's just so sad.</i>
+<i>Maybe a woman's silk blouse.</i>
+<i>It's just so sad.</i>
 Stand by to dissolve, Two.
 <i>...obviously, there is the second body.</i>
-- They've escaped. Repeat it.
-- <i>The person or people</i>
+They've escaped. Repeat it.
+<i>The person or people</i>
 <i>who committed all of this brutal home invasion robbery,</i>
 <i>they're presently unidentified and at large, still on the streets.</i>
-- Hit it again. Harder.
-- <i>This has got to be a huge worry</i>
+Hit it again. Harder.
+<i>This has got to be a huge worry</i>
 <i>not only to the residents in this neighborhood, Granada Hills area as well.</i>
 <i>All of Los Angeles, if you think about it.</i>
 <i>Yeah, the entire Southland, really.
@@ -1167,11 +1167,11 @@ Tonight, absolutely.</i>
 <i>We believe this is their own home.
 In what is one of the quieter,</i>
 <i>I think a frankly more upscale and affluent neighborhoods</i>
-- <i>in the whole Valley.</i>
-- <i>In all of Los Angeles.</i>
+<i>in the whole Valley.</i>
+<i>In all of Los Angeles.</i>
 <i>And now, as we're moving, this is a nursery.</i>
 <i>- And you hope to God...</i>
-- Build it.
+Build it.
 <i>...that there's not a baby in that crib.</i>
 <i>Yeah, you're just praying that that crib is empty.</i>
 <i>Because this is definitely a child's room.</i>
@@ -1179,19 +1179,19 @@ In what is one of the quieter,</i>
 Absolutely great.</i>
 <i>In fact, our understanding right now is that there was no baby found in the house.</i>
 <i>Or any baby that was seen at all by the people who filmed this for us.</i>
-- <i>Thank goodness.</i>
-- <i>That's Video News,</i>
+<i>Thank goodness.</i>
+<i>That's Video News,</i>
 <i>this is a professional news-gathering service that we use.</i>
 <i>Apparently, what we're hearing from their photographer</i>
 <i>is that they arrived even before the police did.</i>
 <i>And then entered this home to help, or at least offer some sort of assistance</i>
 <i>and then came upon what you're looking at here.</i>
-- <i>They came upon three bodies.</i>
-- <i>Gruesome crime scenes that we're watching.</i>
+<i>They came upon three bodies.</i>
+<i>Gruesome crime scenes that we're watching.</i>
 <i>And that, right there is the third body on the floor.</i>
 <i>This is a man, gray hair. What would you think, Lisa? Maybe 40s, 50s?</i>
-- <i>Yeah, 50s. Maybe even 60s.</i>
-- "Vicious attack."
+<i>Yeah, 50s. Maybe even 60s.</i>
+"Vicious attack."
 <i>We've been looking at all this graphic footage</i>
 <i>and just the viciousness, the severity of violence.</i>
 Stand by master control, we're going to come to a break.
@@ -1208,23 +1208,23 @@ That's a 10-share.
 I want theme music on the return, the cut we used for the Simi rail crash.
 Audio, cut 32, please.
 Cut 32 when we come back.
-- Hello?
-- Rolling with your banner.
+Hello?
+Rolling with your banner.
 Thank you.
 Actually, he'd like to meet you.
 Come back, One, and key on Ben.
 <i>Hey, heads up, you guys.
 The police spokesman</i>
 <i>- is making an announcement in 60 seconds.</i>
-- I gotta go.
+I gotta go.
 <i>Nina, we are getting a ton of heat from the police out here about that video.</i>
-- Tell them to call the station.
-- Fifteen seconds.
+Tell them to call the station.
+Fifteen seconds.
 <i>They want to talk to the person who shot it.</i>
 I shot it.
 Joel, it's Video Production News.
-- Tell them to call me.
-- Lou, they can't hear you.
+Tell them to call me.
+Lou, they can't hear you.
 Coming back in five, four, three, two, one.
 Fade up.
 <i>We have more information coming in from the Granada Hills area</i>
@@ -1238,64 +1238,64 @@ Fade up.
 <i>that we work with from time to time.</i>
 <i>They, apparently, arrived on the scene in
 Granada Hills before the police got there.</i>
-- <i>Before anybody.</i>
-- <i>The photographer who took those pictures</i>
+<i>Before anybody.</i>
+<i>The photographer who took those pictures</i>
 <i>told us earlier that he walked up to the door,</i>
 <i>he saw what we all saw in his videotape.</i>
 <i>And then he started to look inside, so that he could help</i>
 <i>or render assistance to someone.</i>
 <i>That's when he walked into the house and started shooting the video.</i>
 <i>- He found the three deceased in the house.
-- He found the three bodies.</i>
+He found the three bodies.</i>
 <i>The two females and the one...</i>
-- Hello.
-- Hi.
+Hello.
+Hi.
 I'm Detective Frontieri.
 This is my partner, Detective Lieberman.
-- Are you Louis Bloom?
-- Yes, I'm Lou.
-- You live here?
-- Yes, that's right.
+Are you Louis Bloom?
+Yes, I'm Lou.
+You live here?
+Yes, that's right.
 May we come inside?
-- Why?
-- Why not?
-- You want to?
-- Yes.
-- I don't care.
-- Wonderful.
-- You were in Granada Hills last night.
-- Yes, that's right.
-- You shot the video in the house?
-- Yes, ma'am, I did. That's right.
+Why?
+Why not?
+You want to?
+Yes.
+I don't care.
+Wonderful.
+You were in Granada Hills last night.
+Yes, that's right.
+You shot the video in the house?
+Yes, ma'am, I did. That's right.
 You went inside the house?
 You filmed all through the house?
 You even filmed the bodies.
 All before the police came.
-- That door was open, ma'am.
-- Detective.
+That door was open, ma'am.
+Detective.
 The door was open and what I did was
 I went in to see if I could help,
-- because the alarm was ringing.
-- An active crime scene.
+because the alarm was ringing.
+An active crime scene.
 I didn't know it was a crime scene.
 You knew what it was.
 I know that an alarm means someone is in trouble.
 And you sold it to be shown on TV.
 We're a professional news-gathering service.
 What did you see when you arrived?
-- Two men leaving in a vehicle.
-- You saw two men?
+Two men leaving in a vehicle.
+You saw two men?
 They were just shapes, really.
 I was afraid, so I hid.
 And then I saw the shapes of two men moving inside the vehicle, if that helps.
-- Describe the men.
-- It was dark. And then they drove away.
-- Black? White? Tall?
-- I couldn't see.
-- What were they driving?
-- An SUV.
-- Dark-colored.
-- Rims? Tinted windows?
+Describe the men.
+It was dark. And then they drove away.
+Black? White? Tall?
+I couldn't see.
+What were they driving?
+An SUV.
+Dark-colored.
+Rims? Tinted windows?
 Maybe. Not that I saw.
 Do you have any film on the men or the car?
 No, I don't. I only started filming when I was inside.
@@ -1324,8 +1324,8 @@ But a moment has arrived that could allow the company to make enough money to ex
 We could call this... the critical moment.
 I'm inviting you, Rick, to be a part of the team that pounces on this opportunity.
 You've been asking a lot about your performance review.
-- Yeah.
-- Well.
+Yeah.
+Well.
 For starters,
 I've been seeing a great improvement in your overall focus and order-following.
 Given complex problems, you're developing a real ability to find clear and simple solutions. I'm also aware of your increased enthusiasm.
@@ -1336,8 +1336,8 @@ Which is why I'm promoting you to Executive Vice President of Video News.
 What am I now?
 You're an assistant.
 That's... Big.
-- Does it come with a raise?
-- Absolutely.
+Does it come with a raise?
+Absolutely.
 How much?
 Pick a number. You pick a number.
 A...
@@ -1345,24 +1345,24 @@ $75 a night?
 Agreed.
 What about... What about more? You know?
 Not now. We closed the deal.
-- I could have gotten more, couldn't I?
-- Absolutely.
+I could have gotten more, couldn't I?
+Absolutely.
 All right. It's coming up on the left.
 Halfway down the block.
 1701 North Burns.
-- Is that the car?
-- That's the car.
+Is that the car?
+That's the car.
 Oh, shit.
-- Do you think there's a reward?
-- There is a reward.
-- How much?
-- Do I get any of that?
-- I just gave you a raise.
+Do you think there's a reward?
+There is a reward.
+How much?
+Do I get any of that?
+I just gave you a raise.
 That's salary. I mean, like a bonus, you know?
 Bonuses come at the end of the year.
 So, we're gonna call it in?
-- We're gonna wait.
-- For what?
+We're gonna wait.
+For what?
 First, we want to see if he's actually inside.
 And then, we want to find a more interesting place to film the arrest.
 Like where?
@@ -1414,8 +1414,8 @@ I'll take the first watch.
 Okay.
 Rise and shine.
 He's leaving.
-- Is that him?
-- That's one of them.
+Is that him?
+That's one of them.
 You're too fucking close, man.
 Oh, shit.
 You're too fucking close.
@@ -1425,15 +1425,15 @@ Oh, shit.
 They're gonna see us.
 We're in a red fucking car.
 Lower your window, please.
-- Keep your window down.
-- I'm fucking cold.
+Keep your window down.
+I'm fucking cold.
 Shit, they're parking.
 Keep going.
 <i>911, what's your emergency?</i>
 Yes, good evening. Hello?
 I'd like to report the location of two men responsible for the triple murder in Granada Hills last night.
-- <i>What's your address?</i>
-- I followed them, and they just pulled into the Chinatown
+<i>What's your address?</i>
+I followed them, and they just pulled into the Chinatown
 Express at Western and Third.
 I can see them inside.
 <i>Okay, it's a restaurant called
@@ -1441,7 +1441,7 @@ Chinatown Express at Western and Third.</i>
 That's right. I can see them at the counter and they're ordering.
 These men are wanted for the triple murder in Granada Hills last night.
 <i>- What's your name, sir?</i>
-- Louis Bloom.
+Louis Bloom.
 <i>Do you have a description of the men?</i>
 Yes, I do.
 They're both Latin American men.
@@ -1466,13 +1466,13 @@ Number one, large build.</i>
 <i>Number two with scratches on his face, inside the location. Possibly armed.</i>
 <i>Code Three, incident 357 and 9753.</i>
 There's fucking people in there.
-- I count six.
-- Oh, shit!
+I count six.
+Oh, shit!
 So, they could start shooting.
 They could.
 So you said we were waiting for a better neighborhood with more people,
-- not a fucking restaurant.
-- We work with what we're given.
+not a fucking restaurant.
+We work with what we're given.
 <i>Unit 14, responding to that Code Three.</i>
 You're going to go down the street, get an angle inside from over there.
 Steady hands. Use the zoom.
@@ -1508,24 +1508,24 @@ Officer down. Officer needs help.</i>
 One's down! In pursuit!
 Go, go, go!
 <i>Suspect leaving in a black Escalade and out of the location, heading north.</i>
-- Fuck!
-- Did you get it?
+Fuck!
+Did you get it?
 There's people dead in there!
 <i>7-A-27. I'm behind vehicle, we are in pursuit.</i>
 <i>7-A-27, roger.</i>
-- <i>All units at all frequencies, stand by.</i>
-- Aim the camera at the car and start filming.
+<i>All units at all frequencies, stand by.</i>
+Aim the camera at the car and start filming.
 <i>7-A-27 in pursuit, northbound through the alley of 187.</i>
 <i>Suspect vehicle is a black Escalade.</i>
 Rick, start filming!
 <i>7-A-27. We just turned northbound on Western.</i>
-- Stay on the police car.
-- You're right up his ass.
+Stay on the police car.
+You're right up his ass.
 Wide angle. We want all of this.
 <i>Requesting backup and an air unit.</i>
 <i>Any air unit, come in on Wilshire frequency.</i>
-- Lou, Lou, Lou!
-- I got it.
+Lou, Lou, Lou!
+I got it.
 <i>Northbound. 70 miles an hour.
 Approaching a fresh red.</i>
 Steady hands, Rick.
@@ -1535,8 +1535,8 @@ Red light!
 Oh, shit!
 <i>Six, North, Charles, Queen,</i>
 <i>5-3-2. Black Escalade.</i>
-- <i>Give me an ETA on an air ship.</i>
-- Fuck!
+<i>Give me an ETA on an air ship.</i>
+Fuck!
 <i>Air A team responding with a light for mission. Stand by.</i>
 <i>Heading northbound Western, south of suspect.</i>
 <i>Approaching another fresh red.
@@ -1549,21 +1549,21 @@ Did you see that?
 Lou, look out, look out!
 <i>7-L-0-7. I'm now primary.</i>
 <i>Suspect is behind me.</i>
-- <i>7-L-7 is now primary.</i>
-- Lou, Lou, please. We're way too close.
-- This guy's crazy. Fucking shit!
-- <i>He's ramming my vehicle!</i>
+<i>7-L-7 is now primary.</i>
+Lou, Lou, please. We're way too close.
+This guy's crazy. Fucking shit!
+<i>He's ramming my vehicle!</i>
 <i>All units. Officer needs help.
 Northbound Western.</i>
 <i>Suspect now ramming a police vehicle.</i>
-- No matter what, keep shooting.
-- <i>Continuing northbound.</i>
+No matter what, keep shooting.
+<i>Continuing northbound.</i>
 Fuck!
 Oh, shit! Shit!
 Oh, my God!
 <i>7-L-7, come in.</i>
-- <i>7-L-7, come in.</i>
-- Turn off the car.
+<i>7-L-7, come in.</i>
+Turn off the car.
 He's dead. Get this shot.
 Steady hands.
 Use your zoom.
@@ -1590,14 +1590,14 @@ Go around the vehicle.
 Let them through, here they come.
 Hello, Juliana.
 Hello, Willy.
-- Hello, Ben. Hello, Lisa.
-- Hi!
-- Hey. It's Lou, right?
-- Yes, that's right!
-- Video News?
-- That's right.
-- You got something good for us tonight?
-- I think so.
+Hello, Ben. Hello, Lisa.
+Hi!
+Hey. It's Lou, right?
+Yes, that's right!
+Video News?
+That's right.
+You got something good for us tonight?
+I think so.
 I'm about to show Nina right now.
 I can tell by your tie, it's Friday.
 You can leave.
@@ -1611,27 +1611,27 @@ Thank you.
 No, thank you.
 Thank you for bringing it to me.
 You're welcome.
-- I want it, obviously.
-- How much do you want it?
+I want it, obviously.
+How much do you want it?
 You tell me.
 Get this to graphics.
-- Who's in charge here?
-- Who are you?
+Who's in charge here?
+Who are you?
 LAPD. Major case.
 Pull the footage from these screens.
-- Round it up. Let's go. All copies.
-- Excuse me.
+Round it up. Let's go. All copies.
+Excuse me.
 I'm the news director. Can I help you?
 You can help yourself by collecting up every copy of the shootout
-- the chase, the crash, all of it. Now.
-- It's KWLA property.
-- It's evidence.
-- Of what?
+the chase, the crash, all of it. Now.
+It's KWLA property.
+It's evidence.
+Of what?
 I got a cop near death in the hospital, three dead, four wounded, and a dozen major crimes stretching a mile of Third. This tape is evidence.
 It's news footage bought and paid for from an independent contractor.
 And how do you think he got it?
-- If there's an issue, speak to him.
-- Don't get in the way of this.
+If there's an issue, speak to him.
+Don't get in the way of this.
 Unless you have a judge's order, we're going with it in four minutes.
 Hey. Isn't that him?
 Camera One, stay centered up.
@@ -1642,12 +1642,12 @@ And he confirmed it with an investigator at the scene.
 It wasn't a home invasion.
 It was a drug robbery.
 Give it to the noon crew.
-- This is news.
-- It detracts from the story.
+This is news.
+It detracts from the story.
 It is the story.
 The story is urban crime creeping into the suburbs. That's the story.
-- Jesus, you sound like Lou.
-- Ten seconds to back.
+Jesus, you sound like Lou.
+Ten seconds to back.
 I think Lou is inspiring all of us to reach a little higher.
 Five, four, three, two, one. Sting it.
 Mics. Dissolve.
@@ -1686,10 +1686,10 @@ What do you think about that?
 I think that would be... a very unprofessional thing for me to do in my business.
 It would be murder.
 I can understand why you're looking into it, but I didn't do anything like that.
-- Nothing that could be considered wrong.
-- You don't fool me for a minute.
-- I'm glad.
-- I think everything you said is a lie.
+Nothing that could be considered wrong.
+You don't fool me for a minute.
+I'm glad.
+I think everything you said is a lie.
 I wish my partner was here to back up what happened.
 You left your dead partner.
 No, the ambulances arrived.

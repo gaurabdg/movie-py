@@ -14,10 +14,10 @@ General Ripper, sir.
 Group captain Mandrake speaking.
 This is general Ripper speaking. 
 Yes, sir.
-- Do you recognize my voice?
-- I do, sir. Why?
-- Why do you think?
-- I don't know, sir.
+Do you recognize my voice?
+I do, sir. Why?
+Why do you think?
+I don't know, sir.
 We spoke a few moments ago on the phone, didn't we?
 You don't think I'd ask unless it was pretty damned important, do you?
 No, I don't, sir. Let's see if we can stay on the ball.
@@ -28,8 +28,8 @@ The base is being put on condition red.
 I want this flashed to all sections immediately.
 Condition red. Jolly good.
 Keeps the men on their toes.
-- Group captain, I'm afraid this is not an exercise.
-- Not an exercise, sir?
+Group captain, I'm afraid this is not an exercise.
+Not an exercise, sir?
 I shouldn't tell you this,
 Mandrake, but you're a good officer.
 You have a right to know. It looks like we're in a shooting war.
@@ -88,8 +88,8 @@ Ain't nobody ever got the go code yet.
 Old Ripper wouldn't be givin' us plan r...
 Unless them ruskies had already clobbered washington...
 And a lot of other towns with a sneak attack.
-- Yes, sir.
-- Major kong, message from base confirmed.
+Yes, sir.
+Major kong, message from base confirmed.
 Well, boys, I reckon this is it.
 Nuclear combat toe-to-toe with the ruskies.
 Now, look, boys, I ain't much of a hand at makin' speeches.
@@ -193,8 +193,8 @@ This is your attack profile.
 "the emergency base code prefix is to be set on the dials of the c.R.M.
 "this will block any transmission other than those preceded by a code prefix.
 Stand by to set code prefix."
-- Roger. Ready to set code prefix.
-- "set code prefix."
+Roger. Ready to set code prefix.
+"set code prefix."
 [clicking]
 Code prefix set.
 "lock code prefix."
@@ -363,8 +363,8 @@ But since there are 17,000 permutations,
 It's going to take us about two-and-a-half days to transmit them all.
 How soon did you say the planes would penetrate russian radar cover?
 About 18 minutes from now.
-- Are you in contact with general Ripper?
-- No, sir.
+Are you in contact with general Ripper?
+No, sir.
 General Ripper sealed off the base and cut off communications.
 Where did you get this information?
 General Ripper called strategic air command headquarters...
@@ -481,8 +481,8 @@ He's having a fit about that squad of m.P.S. Can't be helped.
 Have him brought here straightaway.
 Yes, sir.
 Is that--
-- Is that the russian ambassador?
-- Yes, it is, general.
+Is that the russian ambassador?
+Yes, it is, general.
 A-am I to understand the russian ambassador...
 Is to be admitted entrance to the war room?
 Correct. He is here on my orders.
@@ -779,8 +779,8 @@ We're okay here. [laughs]
 Mandrake, do you realize that in addition to fluoridating water,
 There are studies underway to fluoridate salt, flour,
 Fruit, juices, soup, sugar, milk, ice cream.
-- Ice cream, Mandrake. Children's ice cream.
-- Good lord.
+Ice cream, Mandrake. Children's ice cream.
+Good lord.
 You know when fluoridation first began?
 Uh, no, no. I don't, jack. 1946.
 1946, Mandrake. Tsk, tsk, tsk.
@@ -800,8 +800,8 @@ During the physical act of love. Huh.
 Yes, a, uh, profound sense of fatigue,
 Feeling of emptiness followed.
 <i>Luckily I was able to interpret these feelings correctly. Uh-huh.</i>
-- Loss of essence.
-- Huh.
+Loss of essence.
+Huh.
 I can assure you it has not recurred, Mandrake.
 Women sense my power,
 And they seek the life essence.
@@ -815,8 +815,8 @@ My boys must have surrendered.
 <i>Well, there it is. Now, jack, listen.</i>
 <i>While there's still time, I beg you, let's recall the wing and--</i>
 Those boys were like my children, Mandrake.
-- Now they let me down.
-- No, no, jack! Not a bit of it.
+Now they let me down.
+No, no, jack! Not a bit of it.
 I'm sure they all gave it their very best.
 I'm equally sure they all died thinking of you,
 Every man jack of them, jack.
@@ -921,8 +921,8 @@ Range: Two miles.
 Missile still deflecting.
 Range: One mile. Missile detonated!
 [indistinct shouting]
-- Start lever to cut off!
-- Cut off!
+Start lever to cut off!
+Cut off!
 [electronic shorting-out sounds]
 We're losin' power! [indistinct]
 Re-select essential power!
@@ -941,8 +941,8 @@ Fuel valves three, four and six!
 <i>P.O.E.</i>
 <i>Purity of essence.</i>
 <i>O.P.O.E.</i>
-- O.P.E.--
-- [gunshots]
+O.P.E.--
+[gunshots]
 Put your hands over your head.
 What the devil do you think you're doing? Who are you?
 I said, put your hands over your head.
@@ -950,8 +950,8 @@ What kind of suit do you call that, fella?
 What do you mean, suit?
 This happens to be an r.A.F. Uniform, sir, and I am group captain lionel Mandrake.
 I am general Ripper's executive officer.
-- Where's general Ripper?
-- He's dead, in the bathroom.
+Where's general Ripper?
+He's dead, in the bathroom.
 Where's the bathroom?
 <i>Next to you.</i>
 [vehicle engine revving]
@@ -1192,8 +1192,8 @@ Approaching target at distance 1-0 miles.
 Switch from green grid to target orange.
 Ready for final bomb run check.
 Take over, ace. Roger.
-- D.S.O. Ready.
-- Bombardier ready, sir.
+D.S.O. Ready.
+Bombardier ready, sir.
 Bomb fusing, master safety on.
 Electronic barometric time and impact.
 Uh, bomb fusing, master safeties on.
@@ -1214,8 +1214,8 @@ Detonator set to zero altitude.
 Detonator set to zero altitude.
 Release first safety.
 First safety released.
-- First safety.
-- Release second safety.
+First safety.
+Release second safety.
 Second safety released.
 Second safety.
 Check bomb door circuits, one through four.
@@ -1223,16 +1223,16 @@ Uh, bomb door circuits,
 Negative function, lights red.
 Switch in backup circuits. Roger.
 Backup circuits switched in. Still negative function.
-- Engage emergency power.
-- Roger.
+Engage emergency power.
+Roger.
 Uh, emergency power on.
 Still negative function.
 Operate manual override!
 Roger.
 Uh, still negative function.
 The teleflex drive cable must be sheared away.
-- Fire the explosive bolts!
-- Roger.
+Fire the explosive bolts!
+Roger.
 Uh--
 Still negative, sir. The operating circuits are dead, sir.
 Stay on the bomb run, ace. I'm goin' down below and see what I can do.
@@ -1268,7 +1268,7 @@ Target in sight! Where in hell is major Kong?
 Ya-hoo!
 Ya-hoo!
 Ya-hoo!
-- Hey, what about major Kong? - Ya-hoo!
+Hey, what about major Kong? - Ya-hoo!
 Ye-haw!
 Whoo-hoo!
 Mr.  President, I would not rule out the chance...

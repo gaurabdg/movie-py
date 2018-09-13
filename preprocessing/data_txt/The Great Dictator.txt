@@ -12,52 +12,52 @@ Tomainia's army fought on...</i>
 <i>was this day to strike terror into the hearts of the enemy.</i>
 <i>Seventy-five miles away was her target, the cathedral of Notre Dame.</i>
 Range: 95,452!
-- Range: 95,452!
-- Yes, sir!
-- Stand clear!
-- Fire!
+Range: 95,452!
+Yes, sir!
+Stand clear!
+Fire!
 Hey!
 Stand by your trigger.
 Yes, sir.
 Range correction: 95,455!
-- Range: 95,455!
-- Yes, sir!
+Range: 95,455!
+Yes, sir!
 Breach secured!
 Stand clear!
 Ready! Fire!
 Defective shell.
 We'll examine it. Come on.
 Come on.
-- We'd better check the fuse.
-- Yes, check the fuse.
+We'd better check the fuse.
+Yes, check the fuse.
 Yes, sir. The fuse.
 Look out! Come on! Run!
-- What's that?
-- An air raid!
-- They're after Big Bertha!
-- Right! To the antiaircraft gun!
-- To the gun!
-- Quick!
+What's that?
+An air raid!
+They're after Big Bertha!
+Right! To the antiaircraft gun!
+To the gun!
+Quick!
 Hey! Have you gone crazy?
 Come down out of there!
 Get up there, will you!
 What do you think you're doing?
 Have you gone crazy?
-- Sorry, sir -
-- Sir! Report from Captain Snout!
+Sorry, sir -
+Sir! Report from Captain Snout!
 The enemy have broken through!
 Every man to the front!
 Muster the gun crew, quick!
 You, report to Sergeant Bloom.
-- Come on!
-- Yes, sir!
+Come on!
+Yes, sir!
 Get your hand grenades there, soldiers.
 Come on there.
 Get your hand grenades.
 Hey, soldier! Where's your hand grenade?
 Hey, come here!
-- Where's your hand grenade?
-- Haven't got any, sir.
+Where's your hand grenade?
+Haven't got any, sir.
 Give him a hand grenade.
 Go on.
 Keep moving. Come along.
@@ -86,69 +86,69 @@ Oh, excuse me!
 The enemy!
 Come on, fellas! Let's get him!
 Good afternoon, sir. May I come in?
-- Who is it?
-- Friend.
+Who is it?
+Friend.
 Come in.
-- Sir.
-- What division?
+Sir.
+What division?
 21 st Artillery, sir.
 Take this. Hold 'em off.
 And keep firing.
-- I'll be back in a moment.
-- Yes, sir.
+I'll be back in a moment.
+Yes, sir.
 Help! Comrade, help!
-- What is it?
-- I'm exhausted.
+What is it?
+I'm exhausted.
 Quick! Help me to my plane!
 Yes, sir.
-- Thank you, my lad.
-- Steady.
+Thank you, my lad.
+Steady.
 I'll see you get the Tomainian Cross for this.
 That's all right, sir.
 I'm only too willing to oblige.
 Oh, you saved my life.
-- Thank you.
-- I'll strap you in.
+Thank you.
+I'll strap you in.
 I'm weak.
 I can't make it alone.
-- You'll have to stay with me.
-- All right, sir.
-- Can you fly a plane?
-- I can try.
+You'll have to stay with me.
+All right, sir.
+Can you fly a plane?
+I can try.
 Quick! Lift my hand to the stick.
 I haven't the strength.
-- Take charge of that gun, Sergeant!
-- Yes, sir!
+Take charge of that gun, Sergeant!
+Yes, sir!
 The enemy! They're coming!
 Quick! Lift my hand to the throttle!
 We'll fool 'em!
-- Here. Hold on to these dispatches.
-- Yes, sir.
+Here. Hold on to these dispatches.
+Yes, sir.
 If we can deliver them to General Schmelloffel,
 Tomainia may yet win the day!
-- I think I'm going to faint.
-- Oh, don't say that.
+I think I'm going to faint.
+Oh, don't say that.
 I'm sorry, old man.
-- Huh?
-- I'm sorry.
+Huh?
+I'm sorry.
 Oh, wait - Please! Hey!
 Hey, mister!
-- Hey!
-- Where am I?
-- Don't you know me?
-- Oh, yes. Of course.
-- Of course.
-- Yes.
+Hey!
+Where am I?
+Don't you know me?
+Oh, yes. Of course.
+Of course.
+Yes.
 Yes, I - I feel better now.
-- Ah.
-- The blood's returning to my head.
+Ah.
+The blood's returning to my head.
 What's below?
-- Looks like the sun.
-- The sun?
-- Seems to be shining upwards.
-- Strange.
-- How's the gas?
-- Terrible. It kept me awake all night.
+Looks like the sun.
+The sun?
+Seems to be shining upwards.
+Strange.
+How's the gas?
+Terrible. It kept me awake all night.
 No, no, no!
 The gasoline in the tank!
 Oh. Almost empty.
@@ -160,37 +160,37 @@ Strange.
 Look at that.
 Seem to be defying the laws of gravity.
 Water!
-- Huh?
-- Quick! I'm going to faint!
+Huh?
+Quick! I'm going to faint!
 Uh, wait a while. Wait a wh -
 You'll get - We'll get into trouble if you faint any more now.
-- Ohh. Ohh.
-- Now be careful.
-- Here now. Just hold it.
-- Quick.
+Ohh. Ohh.
+Now be careful.
+Here now. Just hold it.
+Quick.
 Hold it. Hold it. I think I can - We'll just see -
 Faint. Water.
-- What on -
-- Oh, water.
-- Here, take it!
-- Oh! Quick!
+What on -
+Oh, water.
+Here, take it!
+Oh! Quick!
 There's something wrong.
 Oh, I can't reach it.
 Oh, water! Faint!
 Ah! Oh, it's all gone!
 What's the matter?
-- This belt is too tight.
-- Well, loosen it.
+This belt is too tight.
+Well, loosen it.
 I'm trying to.
 We're upside down.
-- I know it.
-- Give me that stick!
+I know it.
+Give me that stick!
 Impossible.
 Oh. There it goes.
 We're out of gas.
 Well, I suppose this is the end.
-- Cigarette?
-- Not now.
+Cigarette?
+Not now.
 Then I shan't need this anymore.
 What month is it?
 April.
@@ -208,15 +208,15 @@ Comrade, where are you?
 Comrade!
 Comrade, the dispatches!
 Tell me, where are they?
-- Are you hurt?
-- Quick! Take me to General Schmelloffel!
-- What's that?
-- Hurry, man!
+Are you hurt?
+Quick! Take me to General Schmelloffel!
+What's that?
+Hurry, man!
 If I don't deliver these dispatches at once, we're defeated!
-- Well, the war's over.
-- What?
-- We lost.
-- Lost?
+Well, the war's over.
+What?
+We lost.
+Lost?
 <i>Hynkel Party Takes Power!</i>
 <i>Meanwhile, the Jewish soldier, ex-barber, veteran of the World War...</i>
 <i>suffered a loss of memory and remained an inmate of the soldier's hospital for many years.</i>
@@ -299,9 +299,9 @@ Are you hurt?
 <i>Da fluten da banana!</i>
 <i>Da banana!</i>
 <i>- Da banana!
-- Da bitte booben!</i>
+Da bitte booben!</i>
 <i>- Banana!
-- Banana!</i>
+Banana!</i>
 <i>Dein big booben!
 Cheesen crackers!</i>
 <i>Banana.</i>
@@ -320,13 +320,13 @@ Hail Hynkel!
 Hynkelstrasse, the avenue of culture...</i>
 <i>where he will pass Tomainia's modern masterpieces...</i>
 The Venus of Today and The Thinker of Tomorrow.
-- How was it?
-- The speech?
-- Yes.
-- Oh, very good.
+How was it?
+The speech?
+Yes.
+Oh, very good.
 Thought your reference to the Jews might have been a little more violent.
-- What?
-- You've got to rouse the people's anger.
+What?
+You've got to rouse the people's anger.
 At this time, violence against the Jews might take the public's mind off its stomach.
 Hmm. Perhaps you're right.
 Things have been quiet in the ghetto lately.
@@ -338,8 +338,8 @@ Aha. You heard Hynkel's speech.
 I heard nothing.
 I've got my own troubles.
 Well, you're better off than a lot of other people.
-- What have you heard from the barber?
-- Still in the hospital.
+What have you heard from the barber?
+Still in the hospital.
 Aye. Ever since the war he's been there.
 Yep.
 Why don't you try and rent his barbershop for him?
@@ -351,11 +351,11 @@ With the taxes the government will soon take it away from him.
 Aye, perhaps you're right.
 It isn't such a good morning after all.
 Now you said it.
-- Hannah.
-- Yes, Mr. Jaeckel?
+Hannah.
+Yes, Mr. Jaeckel?
 On the mantelpiece you'll find my tobacco pouch.
-- Will you get it?
-- All right, Mr. Jaeckel.
+Will you get it?
+All right, Mr. Jaeckel.
 Yeah, seems everyone is full of troubles.
 Ah, everyone.
 Look at Hannah, poor girl.
@@ -365,8 +365,8 @@ Father was killed in the war.
 Mother died last year.
 Can't earn enough to pay the rent for her room. What can I do?
 I can't throw her out.
-- You'll need some more tobacco.
-- Where are you going?
+You'll need some more tobacco.
+Where are you going?
 I'm delivering Mrs. Shoemaker's laundry.
 Oh, you'd better take the key.
 Mrs. Jaeckel and myself are going out.
@@ -388,10 +388,10 @@ Why don't some of you do something?
 I wish I was a man. I'd show ya.
 Now what would you do, my pretty maid?
 Ah, you're very brave all together, but not one of ya got guts to stand up alone and fight.
-- Aw, shut up!
-- Is that why you got a truck?
-- To run away in case somebody hits you back?
-- Shut up, or we'll take you down.
+Aw, shut up!
+Is that why you got a truck?
+To run away in case somebody hits you back?
+Shut up, or we'll take you down.
 All right, come on and take me.
 You'll get a lot of medals for it.
 That's all you can do is to pick on women and rob defenseless people.
@@ -401,7 +401,7 @@ Here!
 Oh, I'll have to do it all over again.
 Pigs.
 <i>- Send in patient 33.
-- Yes, sir.</i>
+Yes, sir.</i>
 Here's an interesting case.
 Amnesia. Jewish soldier.
 Been here since the war.
@@ -412,11 +412,11 @@ His one interest seems to be in his barbershop, which he believes he left only a
 Poor devil. He'll have many surprises waiting for him.
 I'm afraid so.
 <i>- Yes?
-- Number 33 is gone.</i>
+Number 33 is gone.</i>
 Gone?
 But he was to be examined.
 <i>- I know, sir, but he disappeared.
-- Disappeared?</i>
+Disappeared?</i>
 Well, let him go.
 It isn't a serious case.
 Besides, there's little more we can do for him.
@@ -425,31 +425,31 @@ Beat it up there.
 Come on! Get outta -
 You! Go on!
 What do you think you're doing?
-- I really don't know.
-- Well, you leave that alone.
-- Don't be silly.
-- I'm not silly!
+I really don't know.
+Well, you leave that alone.
+Don't be silly.
+I'm not silly!
 I appreciate that.
 When you talk to me, hail Hynkel and salute.
 Who are you anyway?
 I'll show you who I am.
 Come down to headquarters.
-- Say, that's my shop!
-- I don't care if it is or not.
-- You leave me alone!
-- Oh! Gonna put up a fight, are ya?
+Say, that's my shop!
+I don't care if it is or not.
+You leave me alone!
+Oh! Gonna put up a fight, are ya?
 Come on down, pal.
 I'll show you.
 Now let me tell you something -
 Are you a policeman?
 Arrest that man for assault.
-- Come here, you!
-- Leave me alone!
+Come here, you!
+Leave me alone!
 Attacking a storm trooper, huh?
-- Take him down!
-- You'll hear from my lawyer!
-- Come on, you little -
-- Why, you -
+Take him down!
+You'll hear from my lawyer!
+Come on, you little -
+Why, you -
 Turn him around!
 He bit my finger!
 <i>Pardon.</i>
@@ -457,27 +457,27 @@ Oh, I'm sorry, mister.
 I didn't mean to hit you.
 You were wonderful.
 I enjoyed that.
-- But don't stand there. You'd better beat it.
-- No, I'll call a policeman.
-- No, no, don't do that.
-- Why not?
+But don't stand there. You'd better beat it.
+No, I'll call a policeman.
+No, no, don't do that.
+Why not?
 You crazy?
-- Look out. There's more coming.
-- More what?
+Look out. There's more coming.
+More what?
 Wait a minute!
 Come in here!
 What's wrong with you?
 There's no use being foolhardy.
-- Who?
-- Shh!
+Who?
+Shh!
 Stop the car!
 Hello! What's this?
 Who hit you?
-- I don't know. I think there were a gang of 'em.
-- Here, you'd better go along, get fixed up.
+I don't know. I think there were a gang of 'em.
+Here, you'd better go along, get fixed up.
 We'll investigate later.
-- What time is it?
-- Come on. Get in.
+What time is it?
+Come on. Get in.
 I don't see what is -
 It's all right now.
 They've gone.
@@ -496,14 +496,14 @@ But the storm troopers, they'll be looking for ya.
 Storm troopers?
 You'd better hide.
 Wait. I'll get the key to the cellar.
-- Is this the man?
-- That's him.
+Is this the man?
+That's him.
 Hail Hynkel.
 Who's he?
 Don't fool with me.
 I said, hail Hynkel!
-- All right.
-- Put out your hands.
+All right.
+Put out your hands.
 Just a moment. We won't put 'em on here.
 Bring him outside.
 Yes. Come on, you.
@@ -516,25 +516,25 @@ Wait a minute, boys! Wait a minute!
 I've got an idea.
 A bright idea.
 Sure! That's it!
-- And... give it the works!
-- Heave ho!
+And... give it the works!
+Heave ho!
 Wait a minute! Commander Schultz!
 Attention!
 First in command.
-- Yes, sir.
-- What the -
+Yes, sir.
+What the -
 Second in command.
-- Yes, sir.
-- Oh, never mind.
-- You!
-- Yes, sir.
+Yes, sir.
+Oh, never mind.
+You!
+Yes, sir.
 What the devil goes on here? And who told you to hang people from lampposts?
-- No one, sir.
-- My orders were to keep these streets tidy.
-- What was the trouble?
-- A Jew was attacking storm troopers, sir.
-- Where is he?
-- There.
+No one, sir.
+My orders were to keep these streets tidy.
+What was the trouble?
+A Jew was attacking storm troopers, sir.
+Where is he?
+There.
 Break ranks.
 Oh, so there you are.
 Stand him up.
@@ -543,24 +543,24 @@ You!
 Don't you remember me?
 The war.
 You saved my life.
-- Me?
-- Strange.
+Me?
+Strange.
 And I always thought of you as an Aryan.
-- I'm a vegetarian.
-- Well, don't you remember?
+I'm a vegetarian.
+Well, don't you remember?
 The enemy tried to capture us, but we got away in my plane.
 Plane?
 And then we crashed.
 Cra -
 Oh, yes.
 Now I remember.
-- Well, how are you?
-- What has my friend done?
+Well, how are you?
+What has my friend done?
 Our men were painting his windows,
 Commander, and he resisted.
 Any brave man would resist.
-- I'm sorry this occurred.
-- Oh. No harm.
+I'm sorry this occurred.
+Oh. No harm.
 I'm sure that in the future you will not be molested again.
 However, if you or your friends are ever in any trouble, I hope you'll let me know.
 Who did that?
@@ -580,32 +580,32 @@ Your Excellency,
 I believe we've got something now.
 A bulletproof uniform.
 Material as light as silk.
-- Where is it?
-- I've arranged for a demonstration in the anteroom.
+Where is it?
+I've arranged for a demonstration in the anteroom.
 It will only take two minutes.
 I can spare one.
-- Professor Herr Kibitzen!
-- Hail Hynkel!
+Professor Herr Kibitzen!
+Hail Hynkel!
 Your Excellency, actions speak louder than words.
-- A bulletproof uniform!
-- And 100% perfect!
+A bulletproof uniform!
+And 100% perfect!
 Shoot.
 Far from perfect.
 Zevell!
-- My secretary. Where is she?
-- In the outer office, Your Excellency.
-- Call her.
-- Yes, sir.
+My secretary. Where is she?
+In the outer office, Your Excellency.
+Call her.
+Yes, sir.
 Hail Hynkel.
 Take a letter.
 No! No, no!
 <i>- Hello?
-- This is Field Marshal Herring.</i>
+This is Field Marshal Herring.</i>
 <i>I'm in the Tower Room.
 We've got something marvelous.</i>
 All right. I shall be up.
-- What is it?
-- A parachute.
+What is it?
+A parachute.
 The most compact in the world.
 Worn like an ordinary hat.
 It will open in 25 feet.
@@ -618,16 +618,16 @@ Enough.
 Hail Hynkel.
 Garbitsch, what's the meaning of this, these appropriations?
 25 million for prison camps when we need every penny for the manufacturing of munitions.
-- We've had to make a few arrests.
-- A few? How many?
+We've had to make a few arrests.
+A few? How many?
 Nothing astronomical.
 Five or ten thousand.
-- Oh.
-- A day.
-- A day?
-- Just a few dissenters, that's all.
-- What do they dissent about?
-- The working hours. The cut in wages.
+Oh.
+A day.
+A day?
+Just a few dissenters, that's all.
+What do they dissent about?
+The working hours. The cut in wages.
 Chiefly, the synthetic food - the quality of the sawdust in the bread.
 What more do they want? It's from the finest lumber our mills can supply.
 Nevertheless, the condition is getting dangerous.
@@ -639,13 +639,13 @@ Burn down some of their houses.
 Spectacular assault on the ghetto now might prove diverting.
 We must do something more dramatic.
 Now is the time to invade Osterlich.
-- How soon can we be ready?
-- According to Herring, three months.
+How soon can we be ready?
+According to Herring, three months.
 I can't wait that long. Besides, Napaloni's army might invade Osterlich before me.
 We must strike now.
 In that case, we should require foreign capital.
-- Borrow it. Borrow it.
-- The bankers have all refused.
+Borrow it. Borrow it.
+The bankers have all refused.
 But wait. There's one man who might make us a loan - Epstein.
 Epstein?
 He's a Jew, isn't he?
@@ -666,11 +666,11 @@ Believe me, you don't appreciate what a good time you were having.
 Well, if things get worse we can go to Osterlich.
 That's still a free country.
 Sooner or later we'll have to go.
-- Excuse me.
-- Anyway... it's nice to see you back.
+Excuse me.
+Anyway... it's nice to see you back.
 It's like the old days again, eh?
-- Yes.
-- How's business?
+Yes.
+How's business?
 Very slow. Very slow.
 Trouble is, the men are all in concentration camps.
 You should go in for fixing up the women.
@@ -689,12 +689,12 @@ You're not gonna put mud on my face, are you?
 Ah, we are going to take some off.
 Make me look beautiful?
 Sure. We can't make you look any worse.
-- Hannah!
-- Oh, there's Mrs. Shoemaker for the laundry.
+Hannah!
+Oh, there's Mrs. Shoemaker for the laundry.
 That's all right.
 I'll give it to her.
-- You sit here and enjoy yourself.
-- What?
+You sit here and enjoy yourself.
+What?
 I know.
 I've seen you making eyes.
 Don't pay any attention to Mr. Jaeckel.
@@ -707,8 +707,8 @@ But I can never save.
 Money slips through my fingers like that.
 Trouble is, I've always lived up to every penny I've earned.
 Why shouldn't I? You're here today and gone tomorrow. And then where are you?
-- Do you believe in God?
-- Well -
+Do you believe in God?
+Well -
 I do. But if there wasn't one, would you live any different?
 I wouldn't. Life could be wonderful if people'd leave you alone.
 Things are looking brighter now.
@@ -720,12 +720,12 @@ I do.
 That's the only time I'm really happy - dreaming.
 Back.
 Sometimes I get so carried away I don't know what I'm doing. Aren't you like that?
-- Do you know we're very much alike?
-- Are we?
+Do you know we're very much alike?
+Are we?
 Yeah.
 We're both absentminded.
-- You think so?
-- Yes.
+You think so?
+Yes.
 I like absentminded people.
 Do you know the story about the man that put his watch in boiling water... and held the egg in his hand?
 No!
@@ -740,8 +740,8 @@ Wonder why women never grow whiskers.
 Hmm? What?
 I s -
 What -
-- Oh, my!
-- Isn't that foolish of me!
+Oh, my!
+Isn't that foolish of me!
 I could kick myself in the shins, I could.
 I'll give you a shampoo.
 That's good.
@@ -751,8 +751,8 @@ Ain't I cute!
 How'd you do it?
 You should try it on yourself.
 If you were fixed up, you'd look handsome.
-- Yes?
-- Yes!
+Yes?
+Yes!
 No.
 Four pecks a pound! New potatoes!
 There's the potato man.
@@ -761,8 +761,8 @@ Potatoes!
 One, please!
 Take it easy there.
 Well, did you hurt yourself?
-- Careful next time.
-- Here's another one.
+Careful next time.
+Here's another one.
 How do you do?
 Something's happened. I know it.
 The storm troopers, they helped me up.
@@ -776,35 +776,35 @@ Period.
 Nothing works! Not a decent pen!
 Not even a sharp pencil!
 I'm surrounded by nothing but incompetent, stupid, sterile stenographers!
-- I'll get you a pen.
-- Don't bother.
+I'll get you a pen.
+Don't bother.
 I won't send it.
 Get out! Get out! Get out!
 We've just discovered the most wonderful, the most marvelous poison gas!
 It will kill everybody!
 All right, later, later, later.
 <i>B-76 to see Herr Herring.</i>
-- Who's that?
-- A lady.
+Who's that?
+A lady.
 My secret agent.
 Your secret agent.
 Tell her to come here.
 Have B-76 come right in.
 Hail Hynkel.
-- Oh, Garbitsch, what do you hear from Epstein?
-- Most encouraging.
+Oh, Garbitsch, what do you hear from Epstein?
+Most encouraging.
 Our agent reports that all the board of directors are Aryans, so the loan is bound to go through.
-- Good.
-- Hail Hynkel.
+Good.
+Hail Hynkel.
 Come here.
-- Well?
-- The men are planning a strike at the arms factory.
-- Who's the leader?
-- There were five of them.
-- Have them shot.
-- They were, Your Excellency.
-- How many do you say were going on strike?
-- The whole factory - 3,000 of them.
+Well?
+The men are planning a strike at the arms factory.
+Who's the leader?
+There were five of them.
+Have them shot.
+They were, Your Excellency.
+How many do you say were going on strike?
+The whole factory - 3,000 of them.
 Have them all shot. I don't want any of my workers dissatisfied.
 But, Your Excellency, these men are skilled craftsmen.
 Why not let them work till they can train others, then shoot them?
@@ -828,21 +828,21 @@ We shall never have peace until we have a pure Aryan race.
 How wonderful.
 Tomainia, a nation of blue-eyed blondes.
 Why not a blonde Europe, a blonde Asia, a blonde America?
-- A blonde world.
-- And a brunette dictator.
+A blonde world.
+And a brunette dictator.
 Dictator of the world.
 Why not?
 <i>Aut Caesar aut nulles.</i>
 The world is effete, worn-out, afraid.
 No nation would dare to oppose you.
-- Dictator of the world!
-- It's your destiny.
+Dictator of the world!
+It's your destiny.
 We'll kill off the Jews, wipe out the brunettes.
 Then will come forth our dream - a pure Aryan race.
-- Beautiful blonde Aryans.
-- They will love you. They will adore you.
-- They will worship you as a god!
-- No, no! You mustn't say it!
+Beautiful blonde Aryans.
+They will love you. They will adore you.
+They will worship you as a god!
+No, no! You mustn't say it!
 You make me afraid of myself.
 Yes, dictator of the world.
 We'll start with the invasion of Osterlich.
@@ -878,38 +878,38 @@ No, sir.
 The trouble, Mr. Jaeckel, is, you're so used to bad times you're unhappy without them.
 Mary? Mary!
 Get my Sunday shoes.
-- You'll find them on the window sill.
-- All right.
-- I can't find the shawl.
-- Don't bother. I've got the shawl.
-- What's going on upstairs?
-- It's Hannah.
+You'll find them on the window sill.
+All right.
+I can't find the shawl.
+Don't bother. I've got the shawl.
+What's going on upstairs?
+It's Hannah.
 They're dressing her up to go out this evening.
-- Is that so?
-- She's got a beau.
-- Who is it?
-- The barber.
+Is that so?
+She's got a beau.
+Who is it?
+The barber.
 Now turn around.
 Oh, my dear, those hands.
-- What's the matter with them?
-- Those calluses - they're so rough.
-- Maybe I'd better not go.
-- Don't be foolish.
+What's the matter with them?
+Those calluses - they're so rough.
+Maybe I'd better not go.
+Don't be foolish.
 He knows you do housework.
 Wait a minute.
 I'll get a pair of mittens from Mrs. Morris.
-- Mrs. Morris?
-- Yes, Mrs. Jaeckel? Come in!
+Mrs. Morris?
+Yes, Mrs. Jaeckel? Come in!
 Aggie.
-- Yeah?
-- See if he's ready yet.
+Yeah?
+See if he's ready yet.
 All right.
 Not yet.
 He's polishing a bald man's head.
 Bad news.
 The invasion of Osterlich will have to be delayed.
-- What?
-- Epstein refuses to lend us the money.
+What?
+Epstein refuses to lend us the money.
 Epstein refuses, huh?
 Send for Schultz!
 Commander Schultz.
@@ -947,8 +947,8 @@ Excellency, here are the notes for your speech.
 Thank you.
 I'll not need them.
 What I say tonight will not be directed to the sons and daughters of the Double Cross... but to the children of Israel.
-- Ah. Good evening.
-- Good evening.
+Ah. Good evening.
+Good evening.
 Good night.
 Good night.
 Do you know, that Hynkel isn't such a bad fella after all.
@@ -961,8 +961,8 @@ A fine photo of the Phooey on each and every button.
 But the Juden! The Juden!
 <i>...und the ghetto...</i>
 <i>The ghetto -</i>
-- We'd better go home.
-- Yeah.
+We'd better go home.
+Yeah.
 Come on, let's hurry.
 Wait a minute. No!
 <i>...the Juden. The Juden -</i>
@@ -978,8 +978,8 @@ No, no!
 Oh, come on! Get in!
 Come on! Come on! Get in!
 <i># The Ary-Ary-Ary-Ary-Aryan #</i>
-- Bar that door!
-- Get some water!
+Bar that door!
+Get some water!
 Mr. Jaeckel.
 Mr. Jaeckel, Mr. Jaeckel, Mr. Jaeckel!
 Oh, my dear!
@@ -1011,31 +1011,31 @@ I'm gonna get that girl.
 Out.
 <i>Aww.</i>
 Extry! Paper!
-- Schultz arrested! Paper!
-- Did you hear that?
-- He's arrested Commander Schultz.
-- What?
+Schultz arrested! Paper!
+Did you hear that?
+He's arrested Commander Schultz.
+What?
 Commander Schultz has been arrested!
-- TTroopers!
-- Listen.
-- A Jew corrupted our commander!
-- Let's kill the lot of them!
+TTroopers!
+Listen.
+A Jew corrupted our commander!
+Let's kill the lot of them!
 Commander Schultz is under arrest, accused of treason!
 And you know why. Schultz was a friend of the ghetto, a friend of that barber!
-- Let's get the barber!
-- We want the barber!
+Let's get the barber!
 We want the barber!
-- It's the storm troopers! They're after you!
-- We want the barber!
-- You better get up on the roof.
-- No. I'll stay here.
+We want the barber!
+It's the storm troopers! They're after you!
+We want the barber!
+You better get up on the roof.
+No. I'll stay here.
 Come on! They'll kill you!
-- No, I'll stay and fight!
-- Don't be a fool!
+No, I'll stay and fight!
+Don't be a fool!
 Do you want to be murdered?
 Get on to the roof. Quick!
-- Come on! Come on!
-- Agar, get inside.
+Come on! Come on!
+Agar, get inside.
 We want the barber!
 We want the barber!
 We want the barber!
@@ -1044,8 +1044,8 @@ Smash in the door! Come on!
 Come on, boys!
 Come on, boys!
 We'll give the barber a haircut!
-- All right, where are the bombs?
-- Come on. This way!
+All right, where are the bombs?
+Come on. This way!
 Let 'er go!
 # Aryan, the Ary-Ary-Ary-Ary-Aryan #
 There goes the barbershop.
@@ -1117,8 +1117,8 @@ Proceed.
 Gentlemen, the coin is here.
 What's the meaning of all this?
 Somebody made a fool of us.
-- You're quite right. I did.
-- What?
+You're quite right. I did.
+What?
 I put a coin in every pudding.
 Mr. Jaeckel!
 Blowing up palaces and wanting to kill people.
@@ -1133,8 +1133,8 @@ Good morning.
 By the papers they are saying Commander
 Schultz may be hiding in the ghetto.
 Here it is. Read it for yourself.
-- Good morning.
-- Good morning.
+Good morning.
+Good morning.
 Hannah, here. Read that.
 "Mystery still surrounds the disappearance... of ex-Commander Schultz.
 At police headquarters it was believed that the commander may be hiding in the ghetto.
@@ -1143,11 +1143,11 @@ Me?
 Well, if it's just for questioning, it can't be serious.
 Meyerberg was only wanted for questioning, and we never heard of him since.
 Shh!
-- Who is it?
-- It's me - Mr. Mann.
+Who is it?
+It's me - Mr. Mann.
 Hello, Jaeckel. How are you, Mr. Agar?
-- How are you, Mrs. Jaeckel?
-- How do you do?
+How are you, Mrs. Jaeckel?
+How do you do?
 Did you hear what they're saying in the papers... about Commander Schultz hiding in the ghetto?
 Oh, I know, I know.
 Well, don't you think that it's serious for you if they find him here in the house?
@@ -1168,65 +1168,65 @@ Of course not.
 But I should like to know, how long is he going to stay here?
 That's all.
 Come. Your breakfast is on the table.
-- Mr. Mann?
-- Thank you.
+Mr. Mann?
+Thank you.
 I have breakfast waiting at home.
 Take the other side of the street and search every house.
-- Good morning.
-- Good morning.
-- What's wrong now?
-- They're looking for Commander Schultz.
-- Commander Schultz?
-- He's supposed to be hiding in one of those houses.
+Good morning.
+Good morning.
+What's wrong now?
+They're looking for Commander Schultz.
+Commander Schultz?
+He's supposed to be hiding in one of those houses.
 Oh, they're always looking for somebody.
-- Who is it?
-- It's me. Let me in!
-- For heaven's sake, hurry up!
-- Open the door.
-- They're coming this way.
-- What?
+Who is it?
+It's me. Let me in!
+For heaven's sake, hurry up!
+Open the door.
+They're coming this way.
+What?
 The storm troopers are searching every house.
 Quick! Tell the commander.
-- Did you tell him?
-- Yes.
-- What is it?
-- The storm troopers, they're going to search the house.
-- What?
-- You'd better get up on the roof. Quick! Both of you!
+Did you tell him?
+Yes.
+What is it?
+The storm troopers, they're going to search the house.
+What?
+You'd better get up on the roof. Quick! Both of you!
 Wait a minute!
-- We can't leave all these things about.
-- That's right. All of you, pack my valises.
+We can't leave all these things about.
+That's right. All of you, pack my valises.
 You pack this valise.
-- Clear this shelf. Quickly.
-- Oh, yes.
+Clear this shelf. Quickly.
+Oh, yes.
 Pack this and this.
 Oh, this mustn't be found here.
 Open the door.
 Listen! They are here!
 Get up on the roof. Quick!
-- I'll take this.
-- Be sure they don't leave anything behind.
-- My golf clubs.
-- The hatbox!
-- Here. Take this.
-- Come on! Let's hurry!
-- Where are you going?
-- I'm going with him.
+I'll take this.
+Be sure they don't leave anything behind.
+My golf clubs.
+The hatbox!
+Here. Take this.
+Come on! Let's hurry!
+Where are you going?
+I'm going with him.
 You stay here. You'll see him later.
 Here. Take this.
-- I'll meet you on the roof tonight.
-- All right.
+I'll meet you on the roof tonight.
+All right.
 Oh, take this.
 Come on. Quick! Come on.
 Open in the name of Hynkel!
 Stop!
-- Look where you are.
-- Look where?
+Look where you are.
+Look where?
 Look where you are.
 Wait, I can't - I can't see.
 Wait a moment.
-- My bag! You've dropped it!
-- No, it's right here. Here it is.
+My bag! You've dropped it!
+No, it's right here. Here it is.
 Don't drop the other one!
 Don't drop the other one!
 My golf clubs! Not my golf clubs!
@@ -1248,11 +1248,11 @@ Well, good morning. How are you?
 Oh, so-so.
 Commander Schultz, who's your friend?
 Remember, your silence will be appreciated.
-- Yes, sir.
-- Take him down to the wagon.
+Yes, sir.
+Take him down to the wagon.
 Come on.
-- Hey! Where you going?
-- To the smoking room.
+Hey! Where you going?
+To the smoking room.
 Ah, come on! Down this way!
 Osterlich.
 <i>Ja.</i>
@@ -1273,8 +1273,8 @@ He's going to take Osterlich!
 I can't believe it.
 You can't believe it?
 But, Your Excellency, I -
-- You let him steal a march on us!
-- No, I -
+You let him steal a march on us!
+No, I -
 You can't believe it?
 I did everything that was -
 I had the ground covered.
@@ -1283,17 +1283,17 @@ Haven't you any brains?
 No! No, no, no, no, no!
 No, no, no, no, no!
 No, no - No!
-- Declare war on Napaloni!
-- Napaloni?
+Declare war on Napaloni!
+Napaloni?
 Yes, Napaloni! Listen, you blockhead! Mobilize every division of the army and the air force.
-- Proceed to Bacteria and attack at once!
-- But war will be the end of us.
-- Do as I tell you.
-- Madness.
-- Shut up!
-- Very well. Will you sign this?
-- Yes, I'll - What is it?
-- A declaration of war.
+Proceed to Bacteria and attack at once!
+But war will be the end of us.
+Do as I tell you.
+Madness.
+Shut up!
+Very well. Will you sign this?
+Yes, I'll - What is it?
+A declaration of war.
 I'll sign it. A pen.
 I'll sign it.
 A pen!
@@ -1302,11 +1302,11 @@ I'll sign it! Napaloni.
 Der cheesy ravioli!</i>
 There!
 Hello?
-- It's Napaloni.
-- Wait a minute.
+It's Napaloni.
+Wait a minute.
 Napaloni?
-- You talk to him.
-- What shall I say?
+You talk to him.
+What shall I say?
 Be nice, affable, pleasant.
 Hello?
 Well, well, well. How are you?
@@ -1328,8 +1328,8 @@ Good. We'll give him the works.
 We'll put on the greatest military show the world has ever known!
 Convinced of my strength, Napaloni will leave the invasion of Osterlich to me.
 What shall I do with this?
-- What is it?
-- Your declaration of war.
+What is it?
+Your declaration of war.
 Peace is declared.
 <i>2,975,000 eager citizens are massed in the station square...</i>
 <i>awaiting the arrival of Benzine Napaloni.</i>
@@ -1338,31 +1338,31 @@ Peace is declared.
 <i>that has long existed between our Phooey and the dictator of Bacteria.</i>
 Order... arms!
 <i>His Excellency is about to greet the Bacterian ambassador.</i>
-- How do you do?
-- Thank you, sir.
+How do you do?
+Thank you, sir.
 Garbitsch.
 See about the photography.
 When Their Excellencies meet... tell the press to see that our Phooey is well-photographed.
-- Full face, not the back of his head.
-- Yes, sir.
+Full face, not the back of his head.
+Yes, sir.
 <i>Benzino Napaloni's private train is now coming into the station.</i>
 <i>And from a pink and white car...</i>
 <i>- Napaloni and his wife will step onto a crimson carpet...
-- Present arms!</i>
+Present arms!</i>
 <i>where Adenoid Hynkel will deliver his address of welcome.</i>
 What's the matter with this stupid -
 Hey! What's all of this-a mix-up-a?
 Come on. They've gone too far.
 At ease! Bring along the carpet.
 Papa, why can't we get out here?
-- There is no carpet.
-- Who cares about a carpet?
+There is no carpet.
+Who cares about a carpet?
 Il Dig-a-Ditchy, me - Napaloni.
 I never get out without a carpet.
 Come on.
 Lay it down here. Quick.
-- Hurry up!
-- It's going back again!
+Hurry up!
+It's going back again!
 What?
 What do you do? You salami?
 Let's get out!
@@ -1375,10 +1375,10 @@ You got-a the carpet?
 Well, put 'em-a down!
 Hmm. Oh, come on, come on.
 Here he is.
-- My friend!
-- Napaloni!
-- This is indeed a pleasure.
-- Thank you.
+My friend!
+Napaloni!
+This is indeed a pleasure.
+Thank you.
 Welcome to Tomainia. This way.
 Pictures, Your Excellencies?
 Oh, sure. Salute!
@@ -1387,21 +1387,21 @@ Ah, this is really a pleasure to be here, my friend Hynkel.
 Oh, you want another picture?
 Just a moment.
 There.
-- Hey, hey, hey, hey!
-- My bambino!
-- All right. It's all right-a, Mama.
-- Get rid of those men.
-- Where is my ambassador?
-- Dismissed.
-- There you are. Hello, Spook.
-- Your Excellency.
+Hey, hey, hey, hey!
+My bambino!
+All right. It's all right-a, Mama.
+Get rid of those men.
+Where is my ambassador?
+Dismissed.
+There you are. Hello, Spook.
+Your Excellency.
 How do you feel?
 Good! Look after Mama.
 Oh, Hynkie, did you meet-a my wife?
-- Your wife?
-- That's her.
-- I -
-- Let's go.
+Your wife?
+That's her.
+I -
+Let's go.
 Tomainia! Very nice. Very nice.
 Present... arms!
 Napaloni! Napaloni!
@@ -1410,25 +1410,25 @@ This way.
 Napaloni! Napaloni!
 Napaloni!
 It's-a very nice-a people.
-- I say, the people are very nice.
-- Oh, yes. Thank you.
-- He is my husband!
-- Keep back!
-- You make a mistake!
-- Let me go!
-- You make a big-a mistake-a!
-- Get back!
+I say, the people are very nice.
+Oh, yes. Thank you.
+He is my husband!
+Keep back!
+You make a mistake!
+Let me go!
+You make a big-a mistake-a!
+Get back!
 Please!
 At all costs, Napaloni shall not invade Osterlich.
 That country belongs to me.
 At this meeting we shall not discuss the Osterlich situation.
 This interview is solely to impress upon him the force of your personality.
-- Hmm.
-- To make him feel your superiority.
+Hmm.
+To make him feel your superiority.
 This man Napaloni is aggressive, domineering.
 Before we make our demands, we must put him in his place.
-- Precisely. But how?
-- By means of applied psychology.
+Precisely. But how?
+By means of applied psychology.
 In other words, by making him feel inferior.
 This can be done in many subtle ways.
 For instance, at this interview,
@@ -1490,39 +1490,39 @@ Ivory and gold - that makes a lovely combination.
 Gets away from that gingerbread idea.
 Say, tell me something-a, Garbitsch.
 What's on the program?
-- There's the grand ball this evening.
-- Grand ball?
+There's the grand ball this evening.
+Grand ball?
 The grand ball. And this afternoon, a review of the army.
 Review of the army?
 Well, that won't take-a long.
-- I'm afraid it will.
-- Oh? So you got a big army, huh?
+I'm afraid it will.
+Oh? So you got a big army, huh?
 Modesty forbids.
 Yes, seems I've heard something about it.
 If I'm gonna review the army,
 I think I'll get me a shave.
-- We have a barbershop in the palace.
-- Is that so?
+We have a barbershop in the palace.
+Is that so?
 Hynkie, you look a little blue under the gills.
-- What do you say we take a shave together?
-- I should be delighted.
-- Good!
-- Very well. This way.
+What do you say we take a shave together?
+I should be delighted.
+Good!
+Very well. This way.
 Ah, this is the barbershop.
 I can-a smell 'em.
 Ah, now this is-a sweet - a- very sweet.
-- Do you like it? It was the emperor's library.
-- Makes a good a-barbershop.
-- Too old fashioned. I want something modern.
-- Is that so?
+Do you like it? It was the emperor's library.
+Makes a good a-barbershop.
+Too old fashioned. I want something modern.
+Is that so?
 You see, when I get shaved, I'm very nervous.
 I like something to look at.
 So I'm putting in glass walls and ceiling... so that when my head is turned this way,
 I shall have a view of the mountains.
 And when it's tipped this way,
 I shall have a view through the glass ceiling.
-- What's above-a the ceiling?
-- The ballroom.
+What's above-a the ceiling?
+The ballroom.
 Then in my summer palace
 I have a barbershop.
 Is that so?
@@ -1533,12 +1533,12 @@ Oh, yes.
 With goldfish swimming inside.
 Wait a minute.
 Goldfish swimming inside-a the walls?
-- Mm-hmm.
-- How do you feed 'em?
+Mm-hmm.
+How do you feed 'em?
 You can't. They're all dead.
 That's why I'm building a new barbershop.
-- Very interesting. Very interesting.
-- Yes? Do you like it?
+Very interesting. Very interesting.
+Yes? Do you like it?
 <i>This is the Hynkel Stadium.</i>
 <i>Before a half million spectators, the greatest display of arms the world has ever known...</i>
 <i>marches by in review.</i>
@@ -1546,17 +1546,17 @@ That's why I'm building a new barbershop.
 <i>in the reviewing stand, thrilled by this historic event.</i>
 What?
 Nothing. I'm just chewing.
-- Ah, yes.
-- Would you care for some peanuts?
-- Thank you. I've had some.
-- Oh. Good shape. Here you are, Spook.
+Ah, yes.
+Would you care for some peanuts?
+Thank you. I've had some.
+Oh. Good shape. Here you are, Spook.
 <i>Now passing -
 Tomainia's heavy artillery.</i>
 It's all right.
 I want to show you my new bombing planes.
 I just called up a half hour ago to start 'em over.
-- Where are they coming from?
-- Aroma.
+Where are they coming from?
+Aroma.
 Aroma? That's 400 miles away.
 That's right. They should be here now.
 I don't know what's detaining them.
@@ -1568,18 +1568,18 @@ Hmm. That's very light.
 <i>The latest design, the last word in modern warfare.</i>
 Wait a minute.
 Where's the propellers?
-- Propellers?
-- Sure. For going under the water.
-- Tanks that go under the water?
-- Submarine work!
+Propellers?
+Sure. For going under the water.
+Tanks that go under the water?
+Submarine work!
 You never heard of aero-marine tanks that go under the water and then fly up-a-stairs?
-- What's that?
-- Tanks that go under the water and fly in the air.
+What's that?
+Tanks that go under the water and fly in the air.
 Oh, yes. Those are obsolete now.
 We're concentrating on flying dreadnoughts.
 Flying dreadnoughts.
-- What's that?
-- My planes!
+What's that?
+My planes!
 <i>Now passing -
 Hynkel's flying division number 34.</i>
 Our planes!
@@ -1598,8 +1598,8 @@ In the meantime... it might be advisable for you to dance with Madam Napaloni.
 It'll carry weight.
 You mean I will carry weight.
 You find him. Let me know at once.
-- Madam Napaloni.
-- Your Excellency.
+Madam Napaloni.
+Your Excellency.
 Why so triste?
 'Cause I no speak-a.
 No? May I have the pleasure of this dance?
@@ -1609,41 +1609,41 @@ Madam, your dancing was superb.
 Excellent.
 Very good.
 Good.
-- Ah, my dear Adenoid!
-- Benzine!
+Ah, my dear Adenoid!
+Benzine!
 I've been-a looking for you all evening.
 What do you say we have a sandwich... go to some quiet little place where we can sit down and talk-a things over, huh?
-- As you wish.
-- An excellent idea! Gentlemen, to the buffet.
+As you wish.
+An excellent idea! Gentlemen, to the buffet.
 Of course. This way.
 There's an old Tomainian proverb.
 That's very funny! I wish I understand it.
 Now, about the border situation.
-- Ah, yes, yes. No problem.
-- Oh, it should be no trouble at all.
-- Shh, shh.
-- Not at all.
-- What's the matter?
-- Wait.
+Ah, yes, yes. No problem.
+Oh, it should be no trouble at all.
+Shh, shh.
+Not at all.
+What's the matter?
+Wait.
 Out!
 You two, out!
 Out.
-- Out?
-- Out.
+Out?
+Out.
 Out?
 Out.
 As I was saying, about the border question.
-- Ah, yes, yes, yes.
-- Just a matter of detail. Mere formalities.
+Ah, yes, yes, yes.
+Just a matter of detail. Mere formalities.
 Strawberries.
 Pardon me.
 Have you English mustard?
-- English mustard, Your Excellency.
-- That's the hot-a stuff?
-- Very hot.
-- Ah, good shape, good shape.
-- Cream.
-- Cream, Your Excellency.
+English mustard, Your Excellency.
+That's the hot-a stuff?
+Very hot.
+Ah, good shape, good shape.
+Cream.
+Cream, Your Excellency.
 Now, Hynkie, as far as I'm concerned,
 I'm gonna make this very simple.
 This is the treaty -
@@ -1651,8 +1651,8 @@ You agree not to invade Osterlich...
 I agree not to invade Osterlich.
 We sign-a the treaty, then I remove-a my troops from the border.
 Good. In other words, when your troops are off the border, I sign.
-- That's-a right.
-- Very good.
+That's-a right.
+Very good.
 Oh, just a minute.
 You don't understand.
 First we sign-a the treaty, then I remove-a the troops.
@@ -1662,14 +1662,14 @@ Hey, Spook, treaty.
 Hold-a this.
 Now, look.
 You a-sign this-a treaty a-first... then I remove-a the troops after.
-- Well, what are we arguing about?
-- You just said I remove-a the troops a-first.
+Well, what are we arguing about?
+You just said I remove-a the troops a-first.
 You don't expect me to sign while your troops are there on the border?
 You don't expect me to remove-a the troops until you sign?
-- Why not?
-- Why should I?
-- Why shouldn't you? Osterlich is a free country.
-- So?
+Why not?
+Why should I?
+Why shouldn't you? Osterlich is a free country.
+So?
 Your soldiers are there, on the Osterlich border!
 And they'll stay there until you sign this-a treaty!
 You'll take them off, or I'll blow them off!
@@ -1679,8 +1679,8 @@ He's a-right! Speak-a to him!
 Strawberries.
 Where's my-a sandwich?
 Well, give me another one!
-- Can't we sit down and discuss this -
-- I'm a guest-a here.
+Can't we sit down and discuss this -
+I'm a guest-a here.
 Nobody talk to me in my own-a joint like that!
 Can't we sit down and discuss this thing without passion?
 I am not-a passionate.
@@ -1691,16 +1691,16 @@ Can't you understand?
 What would my people think... signing such a treaty when your soldiers are there on the Osterlich border?
 I will not-a move a-soldiers until you-a sign!
 Not until you clear that border will I sign anything.
-- Then my soldiers remain!
-- Then I kick them off!
+Then my soldiers remain!
+Then I kick them off!
 One move-a from you, Hynkie, and my artillery take-a like this and blow you to pieces!
 Yes, and my aeroplanes will bomb your artillery like that!
 You want to start a world-a war?
 I'll get you one!
 You and the world!
 I'll throw in the ocean!
-- Mmm!
-- Gentlemen, please!
+Mmm!
+Gentlemen, please!
 I'm-a coming home!
 I cannot talk to this ignoramus!
 Strawberries!
@@ -1714,8 +1714,8 @@ If he start-a something,
 I'll blow him to "passes!"
 Excellency, what's the matter?
 What ails you? What has -
-- Your Excellency, this isn't like you.
-- Hey! What is the matter?
+Your Excellency, this isn't like you.
+Hey! What is the matter?
 Hey, Garbitsch, come here!
 What is the matter with-a Hynkie?
 He's put mustard on his strawberries.
@@ -1728,18 +1728,18 @@ My little bambino!
 ... Tomainia -
 You cannot treat-a the Bacterian people this way!
 I'll take the Bacterian people and I'll tear them apart like this!
-- Excellency, please!
-- Look! Look what he's-a doing!
+Excellency, please!
+Look! Look what he's-a doing!
 It's an insult to my people!
 Look, he's-a pulling spaghetti!
 The spaghetti!
 He either sign-a the treaty, or we have a war!
-- Ooh!
-- Listen! Listen!
+Ooh!
+Listen! Listen!
 Give me a-something! Quick!
 Give me a-something! I want to -
-- But it's all right. I have an appointment.
-- What's this?
+But it's all right. I have an appointment.
+What's this?
 I'm from the international press.
 How's the conference progressing?
 Very successfully. How did you get in?
@@ -1747,23 +1747,23 @@ Excuse me, will you?
 How did this man get in here?
 You know the regulations of the palace in regard to reporters. Go down to Captain Block.
 Tell him not to allow anyone else to enter the palace under any circumstances tonight.
-- You understand?
-- Yes, sir.
+You understand?
+Yes, sir.
 Of course, there are minor details to be cleaned up, things that you must -
 Excuse me. We're very busy.
-- Oh!
-- Gentlemen, please!
+Oh!
+Gentlemen, please!
 The press are outside. The whole world will know that we're fighting.
-- So what?
-- Can't we come to some agreement?
-- Not until he-a signs!
-- I sign nothing!
+So what?
+Can't we come to some agreement?
+Not until he-a signs!
+I sign nothing!
 Your Excellency,
 I must speak to you alone.
-- Do you mind?
-- Mind? I don't a-mind!
-- What is it?
-- Sign. Sign.
+Do you mind?
+Mind? I don't a-mind!
+What is it?
+Sign. Sign.
 Why should he have the advantage?
 What does it matter, a mere scrap of paper?
 The moment you sign, he'll take his troops off the border.
@@ -1792,17 +1792,17 @@ Cheese and crackers!
 <i>...da Blitzen!</i>
 A yodeler, huh?
 Where'd you get that outfit?
-- What?
-- Don't answer back!
+What?
+Don't answer back!
 Where's your partner? Where's Schultz?
 You won't talk, huh?
-- He'll talk when he gets into camp!
-- Come on!
+He'll talk when he gets into camp!
+Come on!
 There it is - the village of Pretzelberg.
 Pretzelberg.
 If we can pass through there, we're safe across the Osterlich border.
-- Couldn't we go through the woods?
-- Of course not.
+Couldn't we go through the woods?
+Of course not.
 The woods are swarming with soldiers.
 They'd suspect us at once.
 We must face the music.
@@ -1811,49 +1811,49 @@ We must bluff our way through.
 Remember, you're a storm trooper.
 Here they come.
 Can you see what they're doing?
-- They're looking this way.
-- Well, pay no attention. Keep going.
+They're looking this way.
+Well, pay no attention. Keep going.
 They're beginning to follow us.
 Shall we run?
 Certainly not.
-- Just a little bit?
-- Keep walking.
+Just a little bit?
+Keep walking.
 We could walk a little faster.
 Hmm? Make up your mind.
-- Perhaps we'd better slow down.
-- No, no. Keep going.
-- There's no hurry.
-- Come on.
-- What is it?
-- He's here!
+Perhaps we'd better slow down.
+No, no. Keep going.
+There's no hurry.
+Come on.
+What is it?
+He's here!
 What? Bugler! Sound assembly!
 Company! Attention!
 Present... arms!
-- You don't want to change your mind and turn back?
-- No, keep going. Keep going.
-- Hail Hynkel.
-- Order... arms!
+You don't want to change your mind and turn back?
+No, keep going. Keep going.
+Hail Hynkel.
+Order... arms!
 Your Excellency will be pleased to know that everything is under control.
-- Good.
-- Good.
+Good.
+Good.
 I have been in continued communication with Marshal Herring in Osterlich, sir.
 The route ahead of us is well-guarded.
 And at the back of us are 200 tanks,
 50 armored cars and 500 machine guns.
-- Is that -
-- Good.
-- Good.
-- Are we ready to start?
-- Yes.
-- Yes.
+Is that -
+Good.
+Good.
+Are we ready to start?
+Yes.
+Yes.
 Gentlemen.
 Schultz, I'm certainly happy to see you with us again.
 Thank you.
-- Where are we going?
-- You're invading Osterlich.
+Where are we going?
+You're invading Osterlich.
 Mr. Jaeckel! Mr. Jaeckel!
-- Hannah!
-- Mr. Jaeckel, look, they're coming!
+Hannah!
+Mr. Jaeckel, look, they're coming!
 Present... arms!
 Hail Hynkel!
 Hail Hynkel!

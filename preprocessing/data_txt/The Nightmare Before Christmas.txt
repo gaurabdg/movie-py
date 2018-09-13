@@ -32,10 +32,10 @@ Don't we love it now</i>
 <i>'Round that corner, man
 Hiding in the trash can</i>
 <i>- Something's waiting now to pounce and how you'll
-- Scream</i>
+Scream</i>
 <i>- This is Halloween - Red and black - And slimy green</i>
 <i>- Aren't you scared
-- Well, that's just fine</i>
+Well, that's just fine</i>
 <i>Say it once, say it twice
 Take a chance and roll the dice</i>
 <i>Ride with the moon in the dead of night</i>
@@ -55,7 +55,7 @@ Halloween, Halloween</i>
 <i>Tender lumplings everywhere</i>
 <i>Life's no fun without a good scare</i>
 <i>- That's ourjob
-- But we're not mean</i>
+But we're not mean</i>
 <i>In our town of Halloween</i>
 <i>In this town
 Don't we love it now</i>
@@ -75,29 +75,29 @@ Halloween, Halloween</i>
 <i>In this town we call home</i>
 <i>Everyone hail to the pumpkin song</i>
 <i>- La, la, la, la, la, la
-- Halloween, Halloween</i>
+Halloween, Halloween</i>
 <i>La, la, la, la, la, la
 Whee</i>
-- It's over!
-- We did it!
-- Wasn't it terrifying?
-- What a night!
+It's over!
+We did it!
+Wasn't it terrifying?
+What a night!
 Great Halloween, everybody.
 I believe it was our most horrible yet.
 Thank you, everyone.
 No! Thanks to you, Jack.
 Without your brilliant leadership...
-- Not at all, Mayor.
-- You're such a scream, Jack.
-- You're a witch's fondest dream.
-- You made walls fall, Jack.
+Not at all, Mayor.
+You're such a scream, Jack.
+You're a witch's fondest dream.
+You made walls fall, Jack.
 Walls fall? You made the very mountains crack, Jack.
-- The deadly nightshade you slipped me wore off, Sally.
-- Let go!
-- You're not ready for so much excitement.
-- Yes, I am!
-- You're coming with me!
-- No, I'm not!
+The deadly nightshade you slipped me wore off, Sally.
+Let go!
+You're not ready for so much excitement.
+Yes, I am!
+You're coming with me!
+No, I'm not!
 Come back here, you foolish...
 Oh! Oh! Oh-oh-oh.
 Ooh, Jack, you made wounds ooze and flesh crawl.
@@ -164,13 +164,13 @@ Jack.
 I know how you feel.
 Sally!
 You've come back.
-- I had to.
-- For this!
-- Yes.
-- Shall we, then?
+I had to.
+For this!
+Yes.
+Shall we, then?
 That's twice this month you've slipped deadly nightshade into my tea and run off.
-- Three times.
-- You're mine, you know!
+Three times.
+You're mine, you know!
 I made you with my own hands.
 You can make other creations.
 I'm restless. I can't help it.
@@ -188,10 +188,10 @@ I need to go over them with you so we can get started.
 Jack, please! I'm only an elected official here.
 I can't make decisions by myself.
 Jack, answer me!
-- Huh?
-- He's not home.
-- Where is he?
-- He hasn't been home all night.
+Huh?
+He's not home.
+Where is he?
+He hasn't been home all night.
 Where are we?
 It's someplace new!
 What is this?
@@ -258,10 +258,10 @@ Christmas Town?
 Hmm.
 Ho-ho-ho-ho!
 Hmm.
-- This has never happened before.
-- It's suspicious.
-- It's peculiar.
-- It's scary.
+This has never happened before.
+It's suspicious.
+It's peculiar.
+It's scary.
 Stand aside. Coming through.
 We've got to find Jack!
 There's only 35 days left till next Halloween!
@@ -293,15 +293,15 @@ Oh, don't be silly.
 Mmm! See? Scrumptious!
 Did anyone think to dredge the lake?
 Oh, this morning.
-- Hear that? -
+Hear that? -
 Ah, what? - Shh.
 Zero!
-- Jack's back!
-- Jack's back! Jack's back!
-- Where have you been?
-- Call a town meeting and I'll tell everyone all about it.
-- When?
-- Immediately!
+Jack's back!
+Jack's back! Jack's back!
+Where have you been?
+Call a town meeting and I'll tell everyone all about it.
+When?
+Immediately!
 Town meeting! Town meeting!
 Town meeting tonight!
 Town meeting!
@@ -322,18 +322,18 @@ Ooh!
 <i>This is a thing called a present</i>
 <i>The whole thing starts with a box</i>
 <i>- A box - Is it steel
-- Are there locks</i>
+Are there locks</i>
 <i>- Is it filled with a pox
-- A pox, how delightful, a pox</i>
+A pox, how delightful, a pox</i>
 If you please.
 <i>Just a box with bright colored paper</i>
 <i>And the whole thing's topped with a bow</i>
 <i>- A bow - But why - How ugly
-- What's in it, what's in it</i>
+What's in it, what's in it</i>
 <i>That's the point of the thing
 Not to know</i>
 <i>- It's a bat - Will it bend
-- It's a rat - Will it break</i>
+It's a rat - Will it break</i>
 <i>Perhaps it's the head that I found in the lake</i>
 <i>Listen now
 You don't understand</i>
@@ -343,11 +343,11 @@ We pick up an oversized sock</i>
 <i>And hang it like this on the wall</i>
 <i>Oh, yes, does it still have a foot</i>
 <i>- Let me see, let me look
-- Is it rotted and covered with gook</i>
+Is it rotted and covered with gook</i>
 Um, let me explain.
 <i>There's no foot inside but there's candy</i>
 <i>- Or sometimes it's filled with small toys
-- Small toys</i>
+Small toys</i>
 <i>- Do they bite - Do they snap - Or explode in the sack</i>
 <i>Well, perhaps they just spring out and scare girls and boys</i>
 <i>What a splendid idea
@@ -386,15 +386,15 @@ There's got to be a logical way to explain this Christmas thing.
 You've poisoned me for the last time, you wretched girl.
 Oh, my head!
 The door is open!
-- Hello!
-- Jack Skellington!
-- Up here, my boy.
-- Doctor, I need to borrow some equipment.
+Hello!
+Jack Skellington!
+Up here, my boy.
+Doctor, I need to borrow some equipment.
 Is that so? Whatever for?
 I'm conducting a series of experiments.
 How perfectly marvelous!
-- Curiosity killed the cat, you know.
-- I know.
+Curiosity killed the cat, you know.
+I know.
 Come on into the lab and we'll get you all fixed up.
 Hmm. Experiments?
 Zero, I'm home!
@@ -410,7 +410,7 @@ Something's up with Jack</i>
 <i>Don't know if we're ever going to get him back</i>
 <i>He's all alone up there locked away inside</i>
 <i>- Never says a word
-- Hope he hasn't died</i>
+Hope he hasn't died</i>
 <i>Something's up with Jack
 Something's up with Jack</i>
 <i>Christmastime is buzzing in my skull</i>
@@ -475,8 +475,8 @@ Dr. Beetlestein.
 Your Christmas assignment is ready.
 Dr. Beetlestein, to the front of the line.
 What kind of noise is that for a baby to make?
-- Perhaps it can be improved?
-- No problem!
+Perhaps it can be improved?
+No problem!
 I knew it!
 Doctor, thank you for coming.
 We need some of these.
@@ -485,11 +485,11 @@ Their construction should be exceedingly simple, I think.
 How horrible our Christmas will be.
 No! How jolly!
 Oh. How jolly our Christmas will be.
-- What are you doing here?
-- Jack sent for us.
-- Specifically.
-- By name.
-- Lock. -
+What are you doing here?
+Jack sent for us.
+Specifically.
+By name.
+Lock. -
 Shock. - Barrel.
 Jack, Jack, it's Boogie's boys.
 Ah, Halloween's finest trick-or-treaters.
@@ -505,11 +505,11 @@ And one more thing.
 Leave that no-account
 Oogie Boogie out of this!
 Whatever you say, Jack.
-- Of course, Jack.
-- Wouldn't dream of it, Jack.
+Of course, Jack.
+Wouldn't dream of it, Jack.
 <i>Kidnap Mr. Sandy Claws</i>
 <i>- I wanna do it - Let's draw straws
-- Jack said we should work together</i>
+Jack said we should work together</i>
 <i>- Three of a kind - Birds of a feather - Now and forever</i>
 <i>La, la, la, la, la, la
 La, la, la, la, la</i>
@@ -544,7 +544,7 @@ Tie him in a bag</i>
 Then see if he is sad</i>
 <i>Because Mr. Oogie Boogie is the meanest guy around</i>
 <i>- If I were on his boogie list
-- I'd get out of town</i>
+I'd get out of town</i>
 <i>He'll be so pleased by our success</i>
 <i>That he'll reward us too
 I'll bet</i>
@@ -553,7 +553,7 @@ I'll bet</i>
 <i>We're his little henchmen and we take ourjob with pride</i>
 <i>We do our best to please him and stay on his good side</i>
 <i>- I wish my cohorts weren't so dumb
-- I'm not the dumb one</i>
+I'm not the dumb one</i>
 <i>- You're no fun -
 Shut up - Make me</i>
 <i>I've got something, listen now
@@ -577,16 +577,16 @@ It goes something like this.
 How about it?
 Think you can manage?
 A- one, and a-two, and a-three, and a...
-- Next!
-- Fantastic!
+Next!
+Fantastic!
 Now, why don't you all practice on that, and we'll be in great shape.
 Sally, I need your help more than anyone's.
 You certainly do, Jack.
 I had the most terrible vision.
-- That's splendid!
-- No! It was about your Christmas.
-- There was smoke and fire.
-- That's not my Christmas.
+That's splendid!
+No! It was about your Christmas.
+There was smoke and fire.
+That's not my Christmas.
 My Christmas is filled with laughter and joy.
 And this: My Sandy Claws outfit.
 I want you to make it.
@@ -596,13 +596,13 @@ How could it be?
 Just follow the pattern.
 This part's red.
 The trim is white.
-- It's a mistake, Jack.
-- Now, don't be modest.
+It's a mistake, Jack.
+Now, don't be modest.
 Who else is clever enough to make my Sandy Claws outfit?
-- Next!
-- I have...
-- Oh.
-- Every confidence in you.
+Next!
+I have...
+Oh.
+Every confidence in you.
 But it seems wrong to me.
 Very wrong.
 This device is called a nutcracker.
@@ -610,31 +610,31 @@ Jack! Jack! We caught 'im!
 We got 'im!
 Perfect! Open it up. Quickly!
 That's not Sandy Claws!
-- It isn't?
-- Who is it?
-- Bunny!
-- Eek! Ooh.
+It isn't?
+Who is it?
+Bunny!
+Eek! Ooh.
 Not Sandy Claws! Take him back!
-- We followed your instructions.
-- We went through the door.
+We followed your instructions.
+We went through the door.
 Which door?
 There's more than one.
 Sandy Claws is behind the door shaped like this.
 I told you!
-- You knock it off!
-- Get... Ow! Ow!
+You knock it off!
+Get... Ow! Ow!
 I'm very sorry for the inconvenience, sir.
 Take him home first!
 And apologize again.
 Be careful with Sandy Claws when you fetch him.
-- Treat him nicely.
-- Got it.
+Treat him nicely.
+Got it.
 We'll get it right next time.
 You will be a decided improvement... over that treacherous Sally.
 Master. The plans.
 Excellent, Igor.
-- What?
-- What's goin' on?
+What?
+What's goin' on?
 <i>This time</i>
 <i>This time</i>
 <i>Making Christmas</i>
@@ -649,7 +649,7 @@ Christmas - Making Christmas</i>
 <i>Time to give them something fun</i>
 <i>They'll talk about for years to come</i>
 <i>- Let's have a cheer from everyone
-- It's time to party</i>
+It's time to party</i>
 <i>Making Christmas
 Making Christmas</i>
 <i>Snakes and mice get wrapped up so nice</i>
@@ -666,9 +666,9 @@ I am a genius</i>
 <i>See how I transform this old rat</i>
 <i>Into a most delightful hat</i>
 <i>- Hmm.
-- My compliments from me to you on this your most intriguing hat</i>
+My compliments from me to you on this your most intriguing hat</i>
 <i>- Consider though this substitute A bat in place of this old rat
-- Huh!</i>
+Huh!</i>
 <i>No, no, no, now that's all wrong
 This thing will never make a present</i>
 <i>It's been dead for much too long Try something fresher Something pleasant</i>
@@ -677,7 +677,7 @@ Don't give up</i>
 <i>All together that and this</i>
 <i>With all our tricks we're making Christmastime</i>
 <i>- This time, this time
-- It's ours</i>
+It's ours</i>
 <i>Making Christmas
 Making Christmas</i>
 <i>La, la, la
@@ -690,8 +690,8 @@ Yes, Susie's been nice.
 Nice, nice, naughty, nice, nice, nice...
 There are hardly any naughty children this year.
 Now, who could that be?
-- Trick or treat!
-- Huh?
+Trick or treat!
+Huh?
 Ya!
 You don't look like yourself,
 Jack, not at all.
@@ -701,50 +701,50 @@ But you're the Pumpkin King!
 Not anymore.
 And I feel so much better now!
 Jack, I know you think something's missing, but...
-- Ow!
-- Sorry.
+Ow!
+Sorry.
 You're right.
 Something is missing, but what?
 I've got the beard, the coat, the boots, the belt...
-- Jack, Jack, this time we bagged him.
-- This time we really did!
-- He sure is big, Jack!
-- And heavy!
+Jack, Jack, this time we bagged him.
+This time we really did!
+He sure is big, Jack!
+And heavy!
 Let me out!
 Sandy Claws in person!
 What a pleasure to meet you!
 Wh... Why, you have hands!
-- You don't have claws at all!
-- Wha...
+You don't have claws at all!
+Wha...
 Where am I?
 Surprised, aren't you?
 I knew you would be.
 You don't need to have another worry about Christmas this year.
-- Wha... Well, wha... Wha...
-- Consider this a vacation, Sandy, a reward.
-- It's your turn to take it easy.
-- B-But there must be some mistake!
+Wha... Well, wha... Wha...
+Consider this a vacation, Sandy, a reward.
+It's your turn to take it easy.
+B-But there must be some mistake!
 See that he's comfortable.
 Just a second, fellas. Of course!
-- That's what I'm missing!
-- B-B-but...
-- Thanks.
-- Y-You just can't...
+That's what I'm missing!
+B-B-but...
+Thanks.
+Y-You just can't...
 Hold on.
 Where are we going now?
 Ho, ho, ho! No.
-- This is worse than I thought.
-- Ho, ho, ho. - Much worse.
-- Ho, ho, ho!
-- I know.
+This is worse than I thought.
+Ho, ho, ho. - Much worse.
+Ho, ho, ho!
+I know.
 Me, on vacation?
 On Christmas Eve?
-- Where are we taking him?
-- Where?
+Where are we taking him?
+Where?
 To Oogie Boogie, of course.
 There isn't anywhere in the whole world more comfortable than that.
-- And Jack said to make him comfortable, didn't he?
-- Yes, he did.
+And Jack said to make him comfortable, didn't he?
+Yes, he did.
 Haven't you heard of peace on earth and goodwill toward men?
 No!
 Ah! This'll stop Jack.
@@ -752,8 +752,8 @@ What a joy to think of all we'll have in common.
 We'll have conversations won'th having!
 Don't do this!
 Naughty children never get any presents!
-- I think he might be too big!
-- Ooh!
+I think he might be too big!
+Ooh!
 No, he's not.
 If he can go down a chimney... he can fit down here.
 Well, well, well!
@@ -775,9 +775,9 @@ I don't know which is worse</i>
 <i>And if you aren't shakin' there's somethin' very wrong</i>
 <i>'Cause this may be the last time you hear the boogie song</i>
 <i>- Whoa-oh
-- Whoa-oh</i>
+Whoa-oh</i>
 <i>- I'm the Oogie Boogie man
-- He's the Oogie Boogie man</i>
+He's the Oogie Boogie man</i>
 <i>Release me now or you must face the dire consequences</i>
 <i>The children are expecting me
 So please, come to your senses</i>
@@ -791,8 +791,8 @@ I'm laughin'</i>
 <i>You really are too much</i>
 <i>And now with your permission
 I'm going to do my stuff</i>
-- What are you going to do?
-- I'm gonna do the best I can.
+What are you going to do?
+I'm gonna do the best I can.
 <i>Whoa</i>
 <i>The sound of rolling dice to me is music in the air</i>
 <i>'Cause I'm a gamblin' boogie man although I don't play fair</i>
@@ -813,15 +813,15 @@ Whoa! It's Jack!
 Think of us as you soar triumphantly through the sky... outshining every star... your silhouette a dark blot on the moon.
 You, who are our pride.
 You, who are our glory.
-- You, who have frightened millions into an early grave.
-- Ow!
+You, who have frightened millions into an early grave.
+Ow!
 You, who have, uh... devastated the, the souls of the living?
 Oh, no! We can't take off in this.
-- The reindeer can't see an inch in front of their noses.
-- Whew!
+The reindeer can't see an inch in front of their noses.
+Whew!
 This fog's as thick as, as...
-- Jellied brains.
-- Or thicker!
+Jellied brains.
+Or thicker!
 There go all of my hopes... my precious plans, my glorious dreams.
 There goes Christmas.
 No, Zero. Down, boy.
@@ -861,8 +861,8 @@ Santa!
 Santa?
 Merry Christmas!
 And what is your name?
-- Uh, uh, uh, uh...
-- That's all right.
+Uh, uh, uh, uh...
+That's all right.
 I have a special present for you anyway. There you go, sonny.
 Ho-ho-ho-ho!
 Hee-hee-hee-hee-hee!
@@ -885,9 +885,9 @@ Turn off all the lights. Make sure the doors are locked. Hello. Police.
 Reports are pouring in from all over the globe... that an impostor is shamelessly impersonating Santa Claus... mocking and mangling this joyous holiday.
 Authorities assure us that at this moment... military units are mobilizing to stop the perpetrator of this heinous crime.
 <i>- Jack! Someone has to help Jack.
-- Wherever you are...</i>
+Wherever you are...</i>
 <i>- Where'd they take that Sandy Claws?
-- Come back and save Christmas.</i>
+Come back and save Christmas.</i>
 Look, Zero, searchlights!
 They're celebrating!
 They're thanking us for doing such a good job.
@@ -967,8 +967,8 @@ What's that you said about luck, rag doll?
 Help! Help! Help!
 Shh.
 Looks like it's Oogie's turn to boogie now.
-- Help!
-- One, two, three... four, five, six, seven.
+Help!
+One, two, three... four, five, six, seven.
 Help!
 Ashes to ashes, and dust to dust.
 Oh, I'm feeling weak with hunger!
@@ -978,8 +978,8 @@ Eleven!
 Looks like I won the jackpot!
 Bye-bye, doll face and sandman.
 What the...
-- Hello, Oogie.
-- J-J-J-Jack!
+Hello, Oogie.
+J-J-J-Jack!
 But they said you were dead.
 You must be double dead!
 Oh!
@@ -999,8 +999,8 @@ I'm afraid I've made a terrible mess of your holiday.
 Bumpy sleigh ride, Jack?
 The next time you get the urge to take over someone else's holiday, I'd listen to her.
 She's the only one who makes any sense around this insane asylum.
-- Skeletons! Boogie men! Ooh.
-- I hope there's still time.
+Skeletons! Boogie men! Ooh.
+I hope there's still time.
 To fix Christmas?
 Of course there is!
 I'm Santa Claus.
@@ -1009,14 +1009,14 @@ He knows what to do.
 How did you get down here, Sally?
 Oh, I-I was trying to...
 Well, I wanted to, to...
-- To help me.
-- I couldn't let you just...
+To help me.
+I couldn't let you just...
 Sally, I can't believe
 I never realized that you...
-- Jack! Jack! -
+Jack! Jack! -
 Here he is! - Alive!
-- Just like we said!
-- Grab ahold, my boy!
+Just like we said!
+Grab ahold, my boy!
 Whoa!
 Good news, folks. Santa Claus, the one and only, has finally been spotted.
 Old Saint Nick appears to be traveling at supersonic speed.
@@ -1024,9 +1024,9 @@ He's setting things right, bringing joy and cheer wherever he goes.
 Yes, folks, Kriss Kringle has pulled it out of the bag... and delivered Christmas to excited children all over the world.
 <i>La, la, la, la
 La-la-la-la</i>
-- Jack!
-- Jack's back!
-- Jack? - Jack's okay! -
+Jack!
+Jack's back!
+Jack? - Jack's okay! -
 He's all right! - It's Jack!
 <i>Jack's okay
 And he's back</i>
@@ -1037,17 +1037,17 @@ Scream it out, whee</i>
 <i>Jack is back now
 Everyone sing</i>
 <i>In the town of Halloween</i>
-- It's great to be home!
-- Ho-ho-ho-ho!
+It's great to be home!
+Ho-ho-ho-ho!
 Happy Halloween!
 Merry Christmas!
 <i>- What's this - What's this - I haven't got a clue</i>
 <i>- What's this
-- Why, it's completely new</i>
+Why, it's completely new</i>
 <i>What's this
 Must be a Christmas thing</i>
 <i>- What's this
-- It's really very strange</i>
+It's really very strange</i>
 <i>This is Halloween
 Halloween, Halloween, Halloween</i>
 <i>What's this

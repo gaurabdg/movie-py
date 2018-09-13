@@ -54,8 +54,8 @@ Chicago O'hare has been delayed.</i>
 <i>please contact the ticket agent. </i>
 When are Grandma and Grandpa and Grandma and Grandpa gonna come?
 They're gonna be here tomorrow, honey.
-- Mom?
-- Yeah.
+Mom?
+Yeah.
 Do you think Grandpa Walt's gonna give me a noogie?
 Of course he's gonna give you a noogie.
 He loves to give you noogies.
@@ -93,16 +93,16 @@ Just a hot dog, then.
 I'm kind of picky about what I eat.
 Some coffee.
 No.
-- Milk?
-- No.
-- Soda?
-- No.
-- Some tea?
-- No.
-- Lifesavers?
-- No.
-- Slurpee?
-- Sir, please.
+Milk?
+No.
+Soda?
+No.
+Some tea?
+No.
+Lifesavers?
+No.
+Slurpee?
+Sir, please.
 Just let me know. I'm here.
 I knew I knew you.
 This is something you should have discussed with the ticket agent.
@@ -134,8 +134,8 @@ And you are?
 Neal Page.
 Neal Page. Pleased to meet you, Neal Page.
 So what do you do for a living, Neal Page?
-- Marketing.
-- Marketing? Super, super.
+Marketing.
+Marketing? Super, super.
 Fabulous. Isn't that nice?
 Look, I don't want to be rude, but...
 I'm not much of a conversationalist, and I'd pretty like to finish this article.
@@ -150,8 +150,8 @@ Oh, God, I'm telling you.
 My dogs are barking today.
 That feels better.
 Six bucks and my right nut says we're not landing in Chicago.
-- Hello.
-- <i>Hi.</i>
+Hello.
+<i>Hi.</i>
 Where are you?
 I'm in Wichita.
 <i>Wichita, Kansas?</i>
@@ -183,8 +183,8 @@ I'm saying you are stuck in Wichita.
 <i>due to severe weather in Chicago.</i>
 Hi, I was wondering if you had any rooms available for tonight?
 Anything. Anything will do.
-- <i>No, I'm sorry.</i>
-- All right.
+<i>No, I'm sorry.</i>
+All right.
 Do you know of any other motel...
 Neal.
 Hi.
@@ -200,8 +200,8 @@ I know the manager pretty well.
 I sold him some rings for his curtains.
 If you want to pick up the cab fare,
 I'll make sure you get a room for the night.
-- Yeah. Yeah, sure. Great.
-- All right.
+Yeah. Yeah, sure. Great.
+All right.
 Grab an end of this thing, will you?
 Thanks, thanks a lot.
 This your trunk?
@@ -223,8 +223,8 @@ Evening, Gus.
 Del Griffith! How the hell are you?
 Well, I'm still a million bucks shy of being a millionaire.
 Gus, I want you to meet an old friend of mine. This is Neal Page.
-- Neal, Gus Mooney.
-- Glad to meet you, Nick.
+Neal, Gus Mooney.
+Glad to meet you, Nick.
 Nice to meet you.
 Gus, I told my friend here you'd be able to fix him up with a room tonight.
 Do you have a major credit card?
@@ -239,17 +239,17 @@ Well, I guess you're all fixed.
 So... there you are.
 Last room in the complex.
 You mean share?
-- Hey, easy on that.
-- Okay.
-- Hell of a cab ride, wasn't it?
-- Yeah, yeah. It was a great cab ride.
+Hey, easy on that.
+Okay.
+Hell of a cab ride, wasn't it?
+Yeah, yeah. It was a great cab ride.
 You don't see cabs like that too often, you know.
-- Want to take a shower?
-- No!
+Want to take a shower?
+No!
 No, I meant, did you want to go first?
 You thought... I wouldn't...
-- What do you think I am?
-- Yeah, I know.
+What do you think I am?
+Yeah, I know.
 Gee, that's funny. That's funny.
 Oh, come... come on.
 Excuse me.
@@ -278,8 +278,8 @@ Good night.
 <i>and flights will be moving out of there very shortly. </i>
 Sorry.
 Goddamn!
-- What, what?
-- That's it!
+What, what?
+That's it!
 If I don't clear my sinuses, I'll snore all night.
 If your kid spills his milk, what do you do, slap him in the head?
 What, what, what?
@@ -297,8 +297,8 @@ Screw you!
 You spilled beer all over the bed, you smoke, you mess up the bathroom...
 Who let you stay in the room?
 I even let you pay for it, so you wouldn't feel like an intruder, which you most certainly are.
-- Oh, I'm an intruder?
-- Yes, you are an intruder.
+Oh, I'm an intruder?
+Yes, you are an intruder.
 I was having a prefectly nice trip, untill you walked into my life.
 I walked into your life? Who was that who talked my ear off on the plane?
 Who was that? I'm curious.
@@ -356,8 +356,8 @@ Why are you holding my hand?
 Where's your other hand?
 Between two pillows.
 Those aren't pillows!
-- See that Bears' game last week?
-- Yeah, hell of game. Hell of a game.
+See that Bears' game last week?
+Yeah, hell of game. Hell of a game.
 Bears've got a great team this year.
 They're gonna go all the way.
 Hey, Neal, take my socks out of the sink if you're going to brush your teeth, all right?
@@ -378,12 +378,12 @@ Not by airplane.
 They got 18 hours of air traffic backed up.
 Anyway you slice it, the odds are we're going to have our turkey roll right here.
 If we wait for the flight.
-- How the hell else can we get home?
-- Thanks.
+How the hell else can we get home?
+Thanks.
 Burt Dingman. A buddy of mine.
 He works for the railroad.
-- Train?
-- Yeah.
+Train?
+Yeah.
 I sold them all their shower curtain rings.
 He owes me a favor.
 I'll get that. I paid for everything else.
@@ -410,8 +410,8 @@ There's a dollar more, then you can call me a thief.
 Just count it.
 Count it!
 263, right?
-- Empty.
-- What?!
+Empty.
+What?!
 We were robbed.
 Do you think so?
 You know, I've been thinking.
@@ -486,8 +486,8 @@ Yeah. So, if I don't see you again.
 Well, I'll see you on the train.
 You want to get together for a drink in the bar car?
 I'm going to get some sleep.
-- You sure?
-- Yeah.
+You sure?
+Yeah.
 Anyway, it's been interesting.
 That's the understatement of the year.
 And thanks for the ticket.
@@ -500,8 +500,8 @@ Del, it's a gift.
 Happy holidays.
 Same to you.
 Hi.
-- Going home for Thanksgiving?
-- Yeah.
+Going home for Thanksgiving?
+Yeah.
 Me, too.
 We're just going to make it.
 What did you do here?
@@ -528,8 +528,8 @@ That was fun, wasn't it?
 All right. Who knows a tune here?
 Who wants to sing a tune?
 Who's got a song?
-- I got one...
-- You got one? Neal Page has got one.
+I got one...
+You got one? Neal Page has got one.
 # Three coins in a fountain #
 # Each one seeking hap... #
 You know this? # ...seeking happiness #
@@ -602,8 +602,8 @@ Okay?
 Okay.
 I see.
 I think I'm just going to take care of this and I think I'm going to get going.
-- I appreciate that.
-- Yeah, that's fine.
+I appreciate that.
+Yeah, that's fine.
 You know, it's just harder for two people to travel. You know?
 Yeah. Yeah. Sure it is.
 And if you've got reservations...
@@ -612,16 +612,16 @@ Thanks for the meal.
 Yeah, okay, that's all right.
 And I owe you some of this, too.
 No, no, no, no. Del.
-- Del, I told you it was a gift.
-- This is your cut, all right?
-- I'm not taking your money.
-- Take the money.
-- Buy your kids a chocolate turkey or something.
-- No, no, you get your kids something.
-- You take it. Take it. Take it.
-- I don't want the money, okay?
-- I don't need anything for my kids.
-- I'm just going to leave it there.
+Del, I told you it was a gift.
+This is your cut, all right?
+I'm not taking your money.
+Take the money.
+Buy your kids a chocolate turkey or something.
+No, no, you get your kids something.
+You take it. Take it. Take it.
+I don't want the money, okay?
+I don't need anything for my kids.
+I'm just going to leave it there.
 Then leave it. If you want to leave it, fine.
 That's okay. I'm done, okay?
 I've got to get going now, so if you'll excuse me...
@@ -673,10 +673,10 @@ You're fucked.
 <i>You're messing with the wrong guy!</i>
 Okay, 86, wake up.
 You're going to block the line.
-- Yeah, where you going?
-- Chicago.
-- Chicago?
-- Chicago.
+Yeah, where you going?
+Chicago.
+Chicago?
+Chicago.
 You know you're in St. Louis?
 Yes, I do.
 Why don't you try the airlines? They are a lot faster and you get a free meal.
@@ -707,8 +707,8 @@ Remember what I said about going with the flow?
 How I am supposed to go with the flow when the rental car agency leaves me in a 100-acre parking-lot with keys to a car that isn't there, and then I have to hike 3 miles back to find out they don't have any more cars?
 I got a car, no sweat at all.
 Well, Del, you're a charmed man.
-- Nope.
-- Oh, I know.
+Nope.
+Oh, I know.
 You just go with the flow.
 Like a twig on the shoulders of a mighty stream.
 Would you please stop doing that with the seat?
@@ -732,15 +732,15 @@ I don't care to breathe your foot odor.
 Leave the shoes on!
 Gee, it must be swell to be so perfect and odor-free.
 You know, there's plenty of things about you that bother me, but I'm decent enough not to bring them up.
-- Really, really?
-- That's right, yeah.
+Really, really?
+That's right, yeah.
 What do I do that bothers you?
-- I'm just curious.
-- Well, there's lots of things that you do.
-- Name one. Why don't you name one?
-- There's quite a few things.
-- You want me to name one?
-- Yeah.
+I'm just curious.
+Well, there's lots of things that you do.
+Name one. Why don't you name one?
+There's quite a few things.
+You want me to name one?
+Yeah.
 Fine...
 You play with your balls a lot.
 I do not play with my balls.
@@ -754,10 +754,10 @@ Oh, that's humor.
 Oh, that's real humor.
 What would make be happy is if you give your mouth a rest.
 My pleasure.
-- I'd like a little silence when I drive.
-- No problem.
-- Thank you very much.
-- You're welcome.
+I'd like a little silence when I drive.
+No problem.
+Thank you very much.
+You're welcome.
 You broke the seat.
 You broke the goddamn seat.
 I don't believe it.
@@ -766,8 +766,8 @@ You messed around with it till you broke it.
 How can you break a car seat.
 It's impossible.
 What do you mean it's impossible?
-- You want to drive?
-- No I don't.
+You want to drive?
+No I don't.
 Why did you do this?
 Look, I'm not going to be held responsible for faulty engineering.
 Oh, boy, this is comfortable.
@@ -812,8 +812,8 @@ He wants something.
 He's probably drunk.
 You're going the wrong way!
 What?
-- You're going the wrong way!
-- You're going the wrong way!
+You're going the wrong way!
+You're going the wrong way!
 He says we're going the wrong way.
 Oh, he's drunk.
 How would he know where we're going?
@@ -823,11 +823,11 @@ Terrific.
 Thank you.
 What a moron.
 You're going in the wrong direction!
-- You're going to kill somebody!
-- You're going to kill somebody!
+You're going to kill somebody!
+You're going to kill somebody!
 You're going the wrong way!
-- Truck. Truck. Truck.
-- What?
+Truck. Truck. Truck.
+What?
 What?!
 Well, this isn't so bad.
 I thought it would be a lot worse than this.
@@ -857,19 +857,19 @@ I mean you couldn't. How could you do it?
 I gave this gal behind the counter a set of shower curtain rings.
 You can't rent a car with shower curtain rings, Del.
 Well... somehow your... diner's club card wound up in my wallet, and I just...
-- You stole it!
-- Not exactly.
-- You stole my card!
-- No, I swear on my life I didn't.
-- I know you stole it.
-- You stole my card...
-- I did not steal your card!
-- ...and then you rented a car,
-- I didn't!
-- ...and then you burned it up!
-- I did not!
-- I found it in my wallet!
-- I knew you stole it.
+You stole it!
+Not exactly.
+You stole my card!
+No, I swear on my life I didn't.
+I know you stole it.
+You stole my card...
+I did not steal your card!
+...and then you rented a car,
+I didn't!
+...and then you burned it up!
+I did not!
+I found it in my wallet!
+I knew you stole it.
 I thought you put it there.
 Why would I put it there?
 Kindness?
@@ -986,11 +986,11 @@ Now how the hell does this thing turn off?
 You all set?
 Just a minute.
 Give it a good push now.
-- All right.
-- All right.
+All right.
+All right.
 Oh, geez.
-- Push! Put some oomph into it!
-- I am! I am!
+Push! Put some oomph into it!
+I am! I am!
 Push, for Christ sake!
 I think we have to rock it a bit.
 All right. Okay.
@@ -1069,8 +1069,8 @@ God, I hope there isn't a next time.
 I know what you mean. I really do.
 This you?
 Yeah.
-- It's been great meeting you, Neal. It really has.
-- Nice to meet you.
+It's been great meeting you, Neal. It really has.
+Nice to meet you.
 Again, I'm sorry if I caused you any trouble.
 Oh, no, you didn't cause me trouble.
 You got me home.
@@ -1081,12 +1081,12 @@ I'm a little wiser, too. So...
 Me, too.
 Happy holidays.
 Same to you.
-- Happy Thanksgiving, Neal.
-- Okay.
-- Give my love to the family, will you?
-- Same to you.
-- Maybe I'll get the chance to meet them someday.
-- Okay.
+Happy Thanksgiving, Neal.
+Okay.
+Give my love to the family, will you?
+Same to you.
+Maybe I'll get the chance to meet them someday.
+Okay.
 Say hello to Marie for me.
 I feel like I know her.
 Yeah.
@@ -1117,18 +1117,18 @@ Hiya, kiddo.
 Daddy!
 Neal's home!
 Del Griffith, I want you to meet my father-in-law, Walt...
-- ...my mother-in-law, Peg...
-- Hi.
-- ...my mother, Joy...
-- Hello.
-- ...and my dad Martin.
-- How are you doing son?
-- Welcome, Del.
-- Pleased to meet you, sir.
-- This little guy's Neal Jr...
-- Hello.
-- ...my little gem, Marti...
-- Hi. and somewhere around here is my little baby boy, Seth.
+...my mother-in-law, Peg...
+Hi.
+...my mother, Joy...
+Hello.
+...and my dad Martin.
+How are you doing son?
+Welcome, Del.
+Pleased to meet you, sir.
+This little guy's Neal Jr...
+Hello.
+...my little gem, Marti...
+Hi. and somewhere around here is my little baby boy, Seth.
 Honey, I'd like you to meet a friend of mine.
 Hello, Mr. Griffith.
 Hello, Mrs. Page.

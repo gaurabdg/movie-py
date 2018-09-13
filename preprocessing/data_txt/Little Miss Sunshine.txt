@@ -27,7 +27,7 @@ Your brother's fine.
 <i>I need you to keep him away from sharp objects-knives, scissors.</i>
 <i>If you have medications, depressants in your house, keep them secure.</i>
 <i>- I'd prefer to keep him, but-
-- I know. The insurance.</i>
+I know. The insurance.</i>
 You want to see him?
 Hey, Frank.
 Sheryl.
@@ -39,7 +39,7 @@ Well, that makes one of us.
 <i>There will be no significant accumulations of rainfall-</i>
 Do you want to talk or no?
 <i>- Nearly nothing, but statewide 93%-
-- No.</i>
+No.</i>
 Hello?
 Anyone?
 Down here.
@@ -65,25 +65,25 @@ Dwayne, honey, there's a bucket of chicken in the car.
 Can you get it?
 And, uh, I'll make a salad.
 <i>- Olive?
-- Yeah?</i>
+Yeah?</i>
 <i>- Is Grandpa with you?
-- Yeah.</i>
+Yeah.</i>
 <i>- What are you guys doing?
-- Rehearsing.</i>
+Rehearsing.</i>
 <i>- Okay, well, dinner in 10 minutes.
-- Okay.</i>
-- Hi.
-- Hi. Frank's here.
+Okay.</i>
+Hi.
+Hi. Frank's here.
 Oh, God.
 Did, uh, Stan Grossman call?
 <i>Well, check the machine.</i>
-- Dwayne, please, come on.
+Dwayne, please, come on.
 The chicken. It's in the car.
 Will you set the table?
 We'll do paper plates tonight.
 <i>Remember Olive was runner-up in the Little Miss Sunshine?</i>
 <i>- Theyjust called right now-
-- Hey, it's your sister!</i>
+Hey, it's your sister!</i>
 Fuck.
 Hi. Richard Hoover for Stan Grossman, please.
 Any way to reach him or-
@@ -94,8 +94,8 @@ Okay, could you please just have him call me anytime over the weekend?
 He has my cell number.
 Just to let me know we're on.
 Okay? Thank you. Bye.
-- So what happened with Stan Grossman?
-- He's in Scottsdale.
+So what happened with Stan Grossman?
+He's in Scottsdale.
 <i>Why didn't he call?</i>
 Will you let me worry about this, please?
 Dwayne, can you check on Frank?
@@ -119,15 +119,15 @@ So who do you hang out with?
 No one?
 <i>What about your family?</i>
 <i>Frank! Hey!</i>
-- Richard.
-- Good to... see you.
+Richard.
+Good to... see you.
 Let me get Olive.
 <i>- Olive? Dad?
-- You guys, go on and start.</i>
+You guys, go on and start.</i>
 <i>- Let's go!
-- We're coming.</i>
+We're coming.</i>
 <i>- Frank, some Sprite?
-- Yes.</i>
+Yes.</i>
 <i>And I want everyone to have at least a little salad.</i>
 Thanks, Sheryl.
 Honey.
@@ -137,16 +137,16 @@ Oh, yeah, he's taken a vow of silence.
 You've taken a vow of silence?
 <i>Yeah. He's gonna join the Air Force Academy, become a test pilot...</i> and he's taken a vow of silence until he reaches that goal.
 <i>- You're kidding?
-- Hi, Uncle Frank.</i>
+Hi, Uncle Frank.</i>
 Oh, hey, Olive.
 Wow, you're gettin' big.
 <i>Almost like a real person.</i>
-- What happened to your arms?
-- Olive.
+What happened to your arms?
+Olive.
 <i>That's all right.
 I had a little accident. I'm okay.</i>
-- How's the, uh, routine coming, honey?
-- It's good.
+How's the, uh, routine coming, honey?
+It's good.
 Yeah? When are you gonna show it to us?
 I don't know.
 It's up to Grandpa.
@@ -154,22 +154,22 @@ A couple of days.
 It still needs work.
 What's that? Chicken?
 Every night it's the fuckin' chicken!
-- Holy God Almighty! It is possible just once-
-- Dad!
+Holy God Almighty! It is possible just once-
+Dad!
 We could get something to eat around here that's not the goddamn fucking chicken?
 <i>- Hey, Dad! Dad!
-- I'm just sayin'-</i>
+I'm just sayin'-</i>
 <i>- Christ.
-- When you want to start cooking your own food, you're welcome.</i>
-- At Sunset Manor, you know- - If you like
+When you want to start cooking your own food, you're welcome.</i>
+At Sunset Manor, you know- - If you like
 Sunset Manor, you shouldn't have got kicked out.
 <i>For God's sakes.</i>
 So when did you start with the vow?
 <i>Been nine months, Frank.
 He hasn't said a word.</i>
 Not one. I think it shows tremendous discipline.
-- Richard.
-- I really do.
+Richard.
+I really do.
 Really. I think we could learn something from Dwayne.
 Dwayne has a goal.
 He has a dream.
@@ -182,8 +182,8 @@ Well, I'm just saying
 I've come around.
 I think he could use our support.
 How did it happen?
-- How did what happen?
-- Your accident.
+How did what happen?
+Your accident.
 Honey, here.
 <i>Oh, no, it's okay.
 Unless you object.</i>
@@ -198,17 +198,17 @@ Honey, let's let Uncle Frank finish his dinner, okay? Shh.
 Why did you want to kill yourself?
 <i>No, don't answer the question, Frank.</i>
 <i>- Richard! Richard!
-- He's not gonna answer the question. Frank.</i>
-- I wanted to kill myself-
-- Don't listen to him.
+He's not gonna answer the question. Frank.</i>
+I wanted to kill myself-
+Don't listen to him.
 <i>- I was very unhappy.
-- He's sick in his head.</i>
-- Richard!
-- I'm sorry! I don't think it's an appropriate conversation...
-- for a seven-year-old.
-- She's gonna find out anyway.
-- Okay.
-- Go on, Frank.
+He's sick in his head.</i>
+Richard!
+I'm sorry! I don't think it's an appropriate conversation...
+for a seven-year-old.
+She's gonna find out anyway.
+Okay.
+Go on, Frank.
 Why were you unhappy?
 Um, well, there are a lot of reasons.
 Mainly, though, I fell in love with someone who didn't love me back.
@@ -218,22 +218,22 @@ I was very much in love with him.</i>
 Him?
 <i>It was a boy?
 You fell in love with a boy?</i>
-- Yes, I did. Very much so.
-- That's silly.
+Yes, I did. Very much so.
+That's silly.
 <i>You're right. It was silly.
 It was very, very silly.</i>
-- There's another word for it.
-- Dad.
+There's another word for it.
+Dad.
 <i>- So, that's when you tried to kill yourself?
-- Well, no.</i>
+Well, no.</i>
 The boy that I was in love with fell in love with another man- Larry Sugarman.
-- Who's Larry Sugarman?
-- Larry Sugarman is, perhaps... the second most highly regarded
+Who's Larry Sugarman?
+Larry Sugarman is, perhaps... the second most highly regarded
 Proust scholar in the U.S.
-- Who's number one?
-- That would be me, Rich.
-- Really?
-- Mm-hmm.
+Who's number one?
+That would be me, Rich.
+Really?
+Mm-hmm.
 So that's when.
 No. What happened was
 I was a bit upset... so I said some things that I shouldn't have said...
@@ -241,7 +241,7 @@ I was a bit upset... so I said some things that I shouldn't have said...
 I was fired from my job...
 <i>and forced to move out of my apartment and move into a motel.</i>
 <i>- And that's when you tried to-
-- Well, no.</i>
+Well, no.</i>
 Actually, all of that was okay.
 What happened was two days ago the
 MacArthur Foundation, in its infinite wisdom...
@@ -259,27 +259,27 @@ Now, everyone, just let's move on and, uh-
 Olive, tell him about your routine while you're doing this.
 Okay. Little Miss Chili Pepper is a beauty contest for everyone in Albuquerque... but you have to be six or seven and you have to be a girl.
 This is our sister.
-- Cindy.
-- Spring break.
+Cindy.
+Spring break.
 Dwayne went to see his dad in Florida for two weeks... and Olive went to Laguna to see her cousins.
-- She made it to the top of the regionals out there.
-- I was in second place.
+She made it to the top of the regionals out there.
+I was in second place.
 Well, what do you think your chances are?
 I think I can win, because some of the other girls...
 <i>they've been doing it longer, but I practice every day.</i>
-- Yeah. Good luck.
-- Not about luck, Frank.
+Yeah. Good luck.
+Not about luck, Frank.
 <i>Luck is the name losers give to their own failings.</i>
 It's about wanting to win, willing yourself to win.
-- You've got to want it badder than anybody else.
-- I do.
+You've got to want it badder than anybody else.
+I do.
 <i>- Then you're gonna be a winner.
-- Richard.</i>
+Richard.</i>
 It's the truth.
 <i>You know, actually, there is a message from Cindy on the machine.</i>
 Something about Little Mrs. Sunshine.
 <i>- What? Little Miss Sunshine?
-- Yeah.</i>
+Yeah.</i>
 What?
 <i>Sheryl, it's Cindy.</i>
 Remember when Olive was here last month?
@@ -287,27 +287,27 @@ She was runner-up in the regional Little Miss Sunshine?
 <i>Theyjust called right now and said that the girl who won had to forfeit her crown.</i>
 I don't know why.
 Something about diet pills.
-- Now she has a place in the state contest in Redondo Beach!
+Now she has a place in the state contest in Redondo Beach!
 Oh, my gosh! I won!
 I won! I won! I won!
 <i>- Finish your dinner!
-- I'm finished!</i>
-- What happened?
-- I'm just calling to- Cindy!
+I'm finished!</i>
+What happened?
+I'm just calling to- Cindy!
 Yeah, we just got it.
 Yeah, she basically went crazy.
 <i>- I won! I won! I won!
-- No, I didn't get that.</i>
+No, I didn't get that.</i>
 <i>The machine cut you off. Okay.</i>
 <i>Redondo Beach. This Sunday?</i>
 <i>- Wh-Are you guys going?
-- Yes.</i>
-- Can you put it off?
-- They have to. They have to.
-- Where does that leave us?
-- We can't do it. We can't.
+Yes.</i>
+Can you put it off?
+They have to. They have to.
+Where does that leave us?
+We can't do it. We can't.
 No, no- No, I understand that, Cindy. Yeah.
-- They- - I just- No, I'll just figure it out. Okay, bye-bye.
+They- - I just- No, I'll just figure it out. Okay, bye-bye.
 It's this Sunday?
 Why can'tJeff and Cindy take her?
 They have some equestrian thing in Santa Barbara.
@@ -318,30 +318,30 @@ Little Miss Sunshine!
 Little Miss Sunshine! I won!
 I won!
 I'm going! We're going!
-- You promised?
-- We'll fly out and come back Monday.
-- How are you gonna get around out there?
-- We'll rent a car.
-- And stay at a hotel?
-- We can afford it.
-- This is our seed money.
-- Well, if I had a little help bringin' it in.
-- Don't start that.
-- It all goes to your nine steps!
+You promised?
+We'll fly out and come back Monday.
+How are you gonna get around out there?
+We'll rent a car.
+And stay at a hotel?
+We can afford it.
+This is our seed money.
+Well, if I had a little help bringin' it in.
+Don't start that.
+It all goes to your nine steps!
 I told you I'm gonna talk to Stan Grossman!
 We're gonna get locked and loaded on this deal and start generating some income!
 <i>- But in the meantime we've gotta be-
-- Okay, okay! We'll drive!</i>
-- I'm not drivin'.
-- How are you gonna fit Grandpa in the Miata?
+Okay, okay! We'll drive!</i>
+I'm not drivin'.
+How are you gonna fit Grandpa in the Miata?
 <i>- Well, Grandpa does not have to come.
-- What? I coached her!</i>
+What? I coached her!</i>
 I gave her the moves.
 I gotta go.
-- Why don't you take the V. W?
-- I cannot drive a shift. I tried.
+Why don't you take the V. W?
+I cannot drive a shift. I tried.
 <i>- We'll fly there.
-- We can't afford it.</i>
+We can't afford it.</i>
 Well, that's what we're gonna do unless you have a better idea.
 Here. This is dessert.
 <i>I won! I won!
@@ -352,8 +352,8 @@ Little Miss Sunshine!</i>
 All right.
 I'll drive the bus.
 Richard, I was told explicitly not to leave Frank by himself.
-- No offense, Frank.
-- None taken.
+No offense, Frank.
+None taken.
 You got Dwayne here.
 They can look after each other.
 No, Richard! That's asking too much.
@@ -361,7 +361,7 @@ If something happened-
 We can't go, then, unless
 Dwayne and Frank go with us.
 <i>- Mom, where's my bathing suit?
-- Right.</i>
+Right.</i>
 Frank?
 <i>I found it!</i>
 Okay.
@@ -384,7 +384,7 @@ I'm gonna win this one too!</i>
 Grandpa! Grandpa!
 Is Grandpa coming to California?
 <i>- We're all coming, honey.
-- Hey, uh, hold on.</i>
+Hey, uh, hold on.</i>
 Olive, come over here for a second.
 <i>Come here.
 Sit down for a second.</i>
@@ -406,62 +406,62 @@ I'm so fucking tired.
 Do you know how tired I am?
 If some girl came up to me, begged me to fuck her, I couldn't do it.
 <i>- Dad? Watch the language, huh?
-- That's how tired I am.</i>
+That's how tired I am.</i>
 She's listening to music.
 Olive, I'll give you a million dollars if you turn around.
 <i>- See?
-- All right.</i>
+All right.</i>
 <i>- But the rest of us.
-- Oh, the rest of you.</i>
+Oh, the rest of you.</i>
 Can I give you some advice?
 Well, I'm gonna give it to you anyway.
-- I don't want you making the same mistakes I made.
-- Can't wait to hear this.
+I don't want you making the same mistakes I made.
+Can't wait to hear this.
 Dwayne-That's your name, right? Dwayne?
 <i>This is the voice of experience talking.</i>
 <i>Are you listening?
 Fuck a lot of women, Dwayne.</i>
 <i>- Hey! Dad!
-- Not just one woman. A lot of women.</i>
+Not just one woman. A lot of women.</i>
 <i>- That's enough, all right?
-- Are you gettin' any?</i>
+Are you gettin' any?</i>
 <i>- Dad!
-- You can tell me, Dwayne. Are you gettin' any?</i>
+You can tell me, Dwayne. Are you gettin' any?</i>
 <i>- Come on, please.
-- No? Jesus. You're what, 15?</i>
+No? Jesus. You're what, 15?</i>
 <i>- My God, man!
-- Dad!</i>
+Dad!</i>
 <i>You should be gettin'that young stuff.
 That young stuff is the best in the world.</i>
-- Dad, that's enough! Stop it!
-- Will you kindly not interrupt!
+Dad, that's enough! Stop it!
+Will you kindly not interrupt!
 See, right now you're jailbait.
 They're jailbait. It's perfect.
 I mean, you hit 18- Man, you're talking about three to five.
 Hey, I will pull this truck over right now!
 So pull the truck over!
 Fuck you! I can say what I want.
-- I still got Nazi bullets in my ass!
-- Ah, the Nazi bullets!
+I still got Nazi bullets in my ass!
+Ah, the Nazi bullets!
 You're as bad as those fuckers at Sunset Manor.
-- What happened at Sunset Manor?
-- Frank, don't encourage him.
+What happened at Sunset Manor?
+Frank, don't encourage him.
 <i>I'll tell you what happened.
 I paid my money. They took my money.</i>
 I should be able to do what the fuck I want!
-- He started snorting heroin.
-- You started snorting heroin?
-- I'm old!
-- Well, that stuff'll kill you.
+He started snorting heroin.
+You started snorting heroin?
+I'm old!
+Well, that stuff'll kill you.
 What am I, an idiot?
 And don't you start taking that shit.
 When you're young, you're crazy to do that stuff.
-- What about you?
-- I'm old. When you're old, you're crazy not to do it.
+What about you?
+I'm old. When you're old, you're crazy not to do it.
 <i>We've tried. Believe me. The intervention was a fiasco. He's worse than a two-year-old.</i>
 Can we please talk about something else?
 <i>- I take it you didn't like it at Sunset Manor.
-- Frank.</i>
+Frank.</i>
 Are you kidding me?
 It was a fuckin' paradise.
 They got a pool.
@@ -469,11 +469,11 @@ They got golf.
 Now I'm stuck with Mr. Happy here, sleepin' on a fuckin' sofa.
 <i>Look, I know you're a homo and all, but maybe you can appreciate this.</i>
 You go to one of those places, there's four women for every guy.
-- Can you imagine what that's like?
-- You must've been very busy.
+Can you imagine what that's like?
+You must've been very busy.
 Whoa! I had second-degree burns on my johnson. I kid you not.
 <i>- Really?
-- Forget about it.</i>
+Forget about it.</i>
 What are you guys talking about?
 Politics.
 Oh.
@@ -493,23 +493,23 @@ Hi. You ready?
 Yeah, I'm gonna have the, uh, number five with coffee, please.
 <i>All right.</i>
 A number seven, over easy, and a grapefruit juice.
-- Grapefruit. Okay.
-- I would like a fruit plate.
+Grapefruit. Okay.
+I would like a fruit plate.
 <i>- And do you have chamomile?
-- Yes.</i>
+Yes.</i>
 <i>- With honey, please.
-- I would like the lumberjack and coffee.</i>
+I would like the lumberjack and coffee.</i>
 <i>- And extra bacon.
-- Extra.</i>
-- Now, Dad, you should probably-
-- Richard, don't start.
-- He's gonna kill himself.
-- Well, it's his life.
+Extra.</i>
+Now, Dad, you should probably-
+Richard, don't start.
+He's gonna kill himself.
+Well, it's his life.
 <i>- Thank you, Sheryl.
-- Garden salad?</i>
+Garden salad?</i>
 And you.
 <i>- L- I'm sorry. I, um- Sorry.
-- Take your time.</i>
+Take your time.</i>
 <i>Don't apologize, Olive.
 It's a sign of weakness.</i>
 <i>Um, well, I want- Okay, okay.
@@ -517,10 +517,10 @@ I know what I want. I know.</i>
 Okay, can I get the waffles and, uh-
 I don't-
 What does "alamodey" mean?
-- Oh, that means it comes with ice cream.
-- Okay, "alamodey" then.
+Oh, that means it comes with ice cream.
+Okay, "alamodey" then.
 <i>- Olive, for breakfast?
-- You said four dollars.</i>
+You said four dollars.</i>
 Okay. You're right.
 Thank you.
 Okay. Be right back.
@@ -529,23 +529,23 @@ Okay. Be right back.
 À la mode.
 <i>"Mode"is derived from Latin modus, meaning "due or proper measure. "</i>
 <i>- Frank, shut up.
-- Richard!</i>
+Richard!</i>
 <i>Olive, can I tell you a little something about ice cream?</i>
 <i>- Yeah.
-- Well, ice cream is made from cream...</i> which comes from cow's milk... and cream has a lot of fat in it.
-- Richard.
-- What?
-- She's gonna find out anyway, remember?
-- What? Find out what?
+Well, ice cream is made from cream...</i> which comes from cow's milk... and cream has a lot of fat in it.
+Richard.
+What?
+She's gonna find out anyway, remember?
+What? Find out what?
 Well, when you eat ice cream, the fat in the ice cream becomes fat in your body.
 <i>- Richard, I swear to God-
-- It's true.</i>
-- What? What's wrong?
-- Nothing, honey. Nothing's wrong.
+It's true.</i>
+What? What's wrong?
+Nothing, honey. Nothing's wrong.
 So if you eat a lot of ice cream, you might become fat.
 And if you don't, you're gonna stay nice and skinny, sweetie.
-- Mom-
-- Olive, Richard is an idiot.
+Mom-
+Olive, Richard is an idiot.
 I like a woman with meat on her bones.
 <i>I don't- Why's everyone so upset?</i>
 <i>No, no one's upset, honey. L-</i>
@@ -558,46 +558,46 @@ Are they skinny, or are they fat?
 <i>Well, they're skinny, I guess.</i>
 <i>Yeah. I guess they don't eat a lot of ice cream.</i>
 <i>Okay. Coffee. Coffee.</i>
-- Grapefruit.
-- Thank you.
+Grapefruit.
+Thank you.
 Chamomile.
 And here's your ice cream.
 "Alamodey," right? I'll be back with your waffles in a second.
 Does anyone want my ice cream?
 <i>Yeah, I'd like a little.
 Dwayne? Frank?</i>
-- Olive's not gonna have her ice cream.
-- Do you mind if I have a little?
-- Yeah, let's dig in.
-- That looks really good.
+Olive's not gonna have her ice cream.
+Do you mind if I have a little?
+Yeah, let's dig in.
+That looks really good.
 <i>Boy, I feel sorry for anybody...</i> that doesn't want to enjoy their ice cream so early in the morning.
 <i>- Boy, that looks good.
-- You sure you don't wanna have some, Olive?</i>
+You sure you don't wanna have some, Olive?</i>
 <i>Those waffles are gonna be awful lonely in there.</i>
-- Mmm! Mmm!
-- Watch this.
+Mmm! Mmm!
+Watch this.
 Wait! Stop!
 Don't eat it all.
-- All right, Olive-
-- Richard!
+All right, Olive-
+Richard!
 Hey, Stan!
 Stan, it's Richard. Again.
 Listen, I know you're busy... but we're just dying to hear what sort of numbers you came up with in Scottsdale.
-- So, uh, give me a call, please.
-- Hey, did you get him?
+So, uh, give me a call, please.
+Hey, did you get him?
 No, I can't get a signal out of this thing.
 <i>How long till we get there?</i>
-- A long time, honey.
-- I know. But how long?
+A long time, honey.
+I know. But how long?
 Well, we gotta do 600 miles of driving today and 200 tomorrow.
-- That's a lot of driving. Let's go.
-- I'll drive for a while.
-- No, no. I got it.
-- No. I gotta learn how to do this.
+That's a lot of driving. Let's go.
+I'll drive for a while.
+No, no. I got it.
+No. I gotta learn how to do this.
 You're doing it.
 How hard can it be?
-- Push the stick down hard.
-- I'm pushing hard.
+Push the stick down hard.
+I'm pushing hard.
 <i>Okay. Okay, there you go.</i>
 Now push the clutch in all the way to the floor.
 It's on the floor.
@@ -627,8 +627,8 @@ What if there's no hill?
 What do you-
 Yeah, it's-
 Olive, Dad, I want you in the car first.
-- I know. We know.
-- All right, here we go!
+I know. We know.
+All right, here we go!
 Everybody push!
 All right.
 <i>Here we go! Push! Push!</i>
@@ -637,32 +637,32 @@ I just want everyone here to know... that I am the preeminent
 Proust scholar in the United States.
 <i>Here we go!</i>
 <i>- Go on, honey.
-- I'm putting it in gear!</i>
+I'm putting it in gear!</i>
 <i>- Go, honey!
-- Come on!</i>
+Come on!</i>
 Come on, Olive!
 Run! Run! Come on!
-- Come on!
-- Sheryl, let's go!
+Come on!
+Sheryl, let's go!
 Sheryl!
 <i>- Frank, let's go!
-- I'm coming.</i>
+I'm coming.</i>
 <i>- You're losing them. Slow down!
-- I can't slow down!</i>
-- Come on! Come on! Come on, you dumb bastard!
-- I can't. I can't slow down.
-- I can't slow down!
-- Let's go!
+I can't slow down!</i>
+Come on! Come on! Come on, you dumb bastard!
+I can't. I can't slow down.
+I can't slow down!
+Let's go!
 <i>Help him. Come on!</i>
 Come on. Come on. Get in.
 No one gets left behind.
-- Close the door!
-- No one gets left behind!
+Close the door!
+No one gets left behind!
 Outstanding, soldier!
 Outstanding!
 Outstanding.
-- Was that fun?
-- Yeah.
+Was that fun?
+Yeah.
 <i>So finally I'm just sitting there...</i> and I decide, you know,
 "This is Stan Grossman. What the hell?"
 And I start pitching him the nine steps.
@@ -673,7 +673,7 @@ Yeah, and this is the guy who knows how to do it.
 You start with a book, and then you do a media tour, corporate events, DVD, VHS series.
 <i>I mean, there's a whole fascinating science into how you roll these things out.</i>
 <i>- Wow.
-- Yeah, so he's in Scottsdale right now, you know...</i>
+Yeah, so he's in Scottsdale right now, you know...</i>
 <i>building the buzz and kind of getting the whole hype thing going.</i>
 <i>He's doing what the pros call a ticking clock auction.</i>
 Oh, how about that!
@@ -685,20 +685,20 @@ I feel sorry for you.
 You do? Good.
 <i>Yeah, I do. Because sarcasm is the refuge oflosers.</i>
 <i>- It is? Really?
-- Yep.</i>
+Yep.</i>
 Sarcasm is losers trying to bring winners down to their level... and that's step four in the program.
 Wow, Richard, you've really opened my eyes to what a loser I am.
-- How much do I owe you for those pearls of wisdom?
-- That one's on the house.
+How much do I owe you for those pearls of wisdom?
+That one's on the house.
 <i>- Okay, you guys, that's enough.
-- It's on the house.</i>
-- That was for free?
-- No charge. No charge.
-- Stop it!
-- He started it.
+It's on the house.</i>
+That was for free?
+No charge. No charge.
+Stop it!
+He started it.
 <i>That's- Oh, wait a second.</i>
 <i>- You are so bad.
-- Quiet. This is it. This is that call.</i>
+Quiet. This is it. This is that call.</i>
 He-Hello?
 Stan?
 Stan?
@@ -719,14 +719,14 @@ Hold on now.</i>
 <i>I am going to get something to drink.
 You want anything?</i>
 <i>- Stay positive and-
-- Yeah, get me some porn.</i>
+Yeah, get me some porn.</i>
 Okay.
 Get me something really nasty too.
 I don't want any of that airbrushed shit.
-- Okay.
-- Okay, here's a 20. Get yourself a little treat too.
-- Get yourself a fag rag.
-- All right. I will.
+Okay.
+Okay, here's a 20. Get yourself a little treat too.
+Get yourself a fag rag.
+All right. I will.
 <i>Uh, that one. Yes. And that one.</i>
 And I would like that one- No, down.
 Yes. Yes. Yes.
@@ -734,19 +734,19 @@ I would like that one.
 And, uh, I will have a- a blue raspberry Slushee.
 Frank?
 <i>Oh, my God! How are you?</i>
-- Uh- - I thought you were gonna be in Santa Fe for the conference.
+Uh- - I thought you were gonna be in Santa Fe for the conference.
 <i>I was looking for you.</i>
 <i>- Aren't you supposed to be in New Haven?
-- Yeah.</i>
-- Well, you heard about Larry and the whole genius thing, right?
-- Yeah.
-- It's official.
-- Oh, good.
+Yeah.</i>
+Well, you heard about Larry and the whole genius thing, right?
+Yeah.
+It's official.
+Oh, good.
 So we're going to this private spa in Sedona for the week-
-- Larry's here?
-- Yeah.
-- He's out filling the tank. He's, uh-
-- Oh. Yeah, there he is.
+Larry's here?
+Yeah.
+He's out filling the tank. He's, uh-
+Oh. Yeah, there he is.
 Wow. I can't believe this.
 How have you been?
 I've been fine.
@@ -759,10 +759,10 @@ Um, I'm weighing my options... and, um, just, you know, taking some time off, an
 Great. That's great.
 <i>$ 19.79, sir.</i>
 So-
-- Well, it was great to see you.
-- Yeah, you too.
-- Take care of yourself.
-- You too.
+Well, it was great to see you.
+Yeah, you too.
+Take care of yourself.
+You too.
 <i>Bye.</i>
 <i>Hey.</i>
 <i>You forgot your Slushee.</i>
@@ -779,13 +779,13 @@ So what happened?
 Nothing.
 Let's get out of here.
 Wait a minute. I thought you said this was a done deal.
-- He said it was a done deal.
-- What, you didn't get anything?
+He said it was a done deal.
+What, you didn't get anything?
 Oh, my God!
 Where does that leave us?
 Fucked.
 That's where it leaves us.
-- I can't believe I'm hearing- Did you even try negotiating? - Yes! Of course I tried!
+I can't believe I'm hearing- Did you even try negotiating? - Yes! Of course I tried!
 What do you think I-
 Let's just go, okay?
 Let's go. Let's go.
@@ -794,12 +794,12 @@ Let's go!
 "Where's Olive?"
 Oh!
 <i>All right, Frank.</i>
-- Come on, Olive.
-- Come on, Olive.
+Come on, Olive.
+Come on, Olive.
 Come on, sweetie, jump.
 Jump in the car.
-- We can't stop. Jump.
-- I got her! I got her!
+We can't stop. Jump.
+I got her! I got her!
 Richard.
 Yeah.
 Whatever happens, you tried to do something on your own... which is more than most people ever do... and I include myself in that category.
@@ -813,20 +813,20 @@ Frank, you're 12.
 And Grandpa's 13.
 Can I sleep with Grandpa tonight?
 Well, you'll have to ask Grandpa.
-- Grandpa?
-- I got two beds.
+Grandpa?
+I got two beds.
 You could still use some rehearsing.
 <i>Yeah, that's what I was thinking.</i>
 All right, everybody, we have a long day tomorrow.
 I'll knock on your doors at 7:00 a. m.
 That means no lollygagging.
 We need to be packed and on the road by 7:40, guys.
-- Frank, you guys'll be okay?
-- Yeah, we're fine.
-- Okay, well, good night.
-- Good night.
-- Sleep tight.
-- Okay.
+Frank, you guys'll be okay?
+Yeah, we're fine.
+Okay, well, good night.
+Good night.
+Sleep tight.
+Okay.
 What a fucking nightmare.
 Richard, we- we have to talk.
 Please.
@@ -834,7 +834,7 @@ Sheryl, let's just get through this and go home.
 <i>No, Richard, we have to talk now!</i>
 <i>I tried to tell you we couldn't afford this trip!</i>
 <i>- Do you realize we're becoming bankrupt?
-- We are not bankrupt!</i>
+We are not bankrupt!</i>
 <i>Hey, don't listen to that.</i>
 Let's turn on the tube.
 <i>- We agree that the right man to preserve the traditions- - I'm gonna brush my teeth.</i>
@@ -856,31 +856,31 @@ Get in there.
 There you go.
 Good night.
 <i>- Grandpa?
-- Yeah.</i>
+Yeah.</i>
 I'm kinda scared about tomorrow.
 Are you kiddin' me?
 You're gonna blow 'em out of the water.
 They're not gonna know what hit 'em.
 <i>- Grandpa?
-- Yeah.</i>
+Yeah.</i>
 Am I pretty?
 <i>Olive, you are...</i> the most beautiful girl in the whole world.
 Nah, you're just saying that.
 No, I'm not. I'm madly in love with you.
 And it's not because of your brains or your personality.
 It's because you're beautiful, inside and out.
-- Grandpa?
-- What?
-- I don't want to be a loser.
-- You're not a loser.
+Grandpa?
+What?
+I don't want to be a loser.
+You're not a loser.
 Where'd you get the idea you're a loser?
 Because Daddy hates losers.
 Whoa, whoa, whoa, whoa.
 Back up a minute.
 You know what a loser is?
 A real loser is somebody that's so afraid of not winning, they don't even try.
-- Now, you're trying, right?
-- Yeah.
+Now, you're trying, right?
+Yeah.
 Well, then, you're not a loser.
 We're gonna have fun tomorrow, right?
 Yeah.
@@ -917,8 +917,8 @@ There is none.
 We had our shot.
 It didn't fly.
 We move on.
-- You-You mean give up?
-- Richard.
+You-You mean give up?
+Richard.
 Hey, wh-Whoa, hey! One setback here, and you're ready to just quit?
 Richard, listen.
 I pushed this thing hard, okay?
@@ -930,10 +930,10 @@ You know what?
 Good. I'm glad.
 You know why?
 Because this is what the nine steps are all about.
-- Right here, Stan. Right here!
-- Richard.
+Right here, Stan. Right here!
+Richard.
 <i>- Richard, please.
-- You blew it!</i>
+You blew it!</i>
 You blew it.
 You're out.
 <i>Mom? Dad?</i>
@@ -975,8 +975,8 @@ He passed away.
 <i>Put it in the machine.
 Center it. Turn it around.</i>
 Hi. I'm your bereavement liaison, Linda.
-- My consolations for your loss.
-- Thank you.
+My consolations for your loss.
+Thank you.
 Okay, these are the forms you need to fill out.
 A death certificate.
 A report of death.
@@ -986,8 +986,8 @@ Um, this is a brochure... for a grief recovery support group that meets on Tuesd
 And, if you like, at this time,
 I can refer you to a funeral home... so you can begin making your own arrangements.
 Actually, prearrangements have already been made in Albuquerque.
-- Albuquerque?
-- We're actually on our way to California right now.
+Albuquerque?
+We're actually on our way to California right now.
 If the body is crossing state lines, you're gonna need a burial transit permit.
 Okay, but we're trying to get to Redondo Beach by 3:00.
 3:00 today? Hmm.
@@ -1004,12 +1004,12 @@ You are not the only one that's had somebody die here today, okay?
 Is there any way we might be able to view the remains?
 We haven't had a chance to move him downstairs... so someone may come in in a few minutes to take him to the basement.
 Just tell them who you are, and they will wait.
-- Thank you.
-- Okay?
+Thank you.
+Okay?
 And when you're done with the paperwork,
 I'll be at the nurses' station.
-- Great. Thank you, Linda.
-- Thank you.
+Great. Thank you, Linda.
+Thank you.
 Goddamn it, Dad.
 Goddamn it!
 Stupid.
@@ -1020,12 +1020,12 @@ We've come 700 miles.
 I will be damned if I'm not making that contest, Sheryl.
 Well, Richard, we can't leave him here.
 We're not gonna leave him.
-- Richard, what are you doing?
-- Fuck.
-- Dwayne, go around outside.
-- Richard, what are you thinking?
+Richard, what are you doing?
+Fuck.
+Dwayne, go around outside.
+Richard, what are you thinking?
 <i>- We're gonna take him with us.
-- No, no. That is not happening.</i>
+No, no. That is not happening.</i>
 He's better off with us that these people.
 <i>I want you to go around outside and underneath this window.</i>
 <i>Dwayne, don't you dare move.</i>
@@ -1052,18 +1052,18 @@ Get the back.
 Shh. Go, go, go.
 <i>Yeah, 1:00.</i>
 Now?
-- He's very heavy. Be gentle.
-- Mm-hmm.
+He's very heavy. Be gentle.
+Mm-hmm.
 <i>Now!</i>
 <i>One, two-</i>
 Okay, three.
 Wait, wait, wait!
 <i>Not yet. Not yet.</i>
-- Okay, go. Go, go, go.
-- Shh, shh, shh. Okay.
+Okay, go. Go, go, go.
+Shh, shh, shh. Okay.
 <i>Richard, I can't do it!</i>
-- I got him. I got him.
-- Come on.
+I got him. I got him.
+Come on.
 Come on!
 Hurry up!
 Okay, he's slipping.
@@ -1072,8 +1072,8 @@ Hold on.
 I got it. I got it.
 I got it. I got it.
 Be careful.
-- Be cool. Be cool.
-- Hurry up.
+Be cool. Be cool.
+Hurry up.
 Keep watch, Olive.
 Watch the curb.
 Watch the curb.
@@ -1082,15 +1082,15 @@ Watch it!
 <i>Keys.</i>
 <i>Swing him around this way.</i>
 <i>- Olive, get in.
-- Here we go.</i>
+Here we go.</i>
 Okay, let's go.
 Sheryl. Let's go, Frank.
 Did I mention that I am the preeminent
 Proust scholar in the U. S?
 Here we go! Here we go!
 Are you okay?
-- Dad?
-- Yeah, honey?
+Dad?
+Yeah, honey?
 What's gonna happen to Grandpa?
 Uncle Frank?
 Yeah?
@@ -1100,20 +1100,20 @@ L- I don't think anyone knows for sure.
 <i>I know, but what do you think?</i>
 Um, well-
 I think there is one.
-- You think I'll get in?
-- Yes.
-- Promise?
-- Yes.
+You think I'll get in?
+Yes.
+Promise?
+Yes.
 Whoa! Hey! Son of a bitch!
-- What happened?
-- He- He cut me off.
+What happened?
+He- He cut me off.
 <i>- It's stuck.
-- Okay, just leave it.</i>
+Okay, just leave it.</i>
 It's stuck or something.
-- Maybe-Try pulling it from under here.
-- No, no. Just leave it.
+Maybe-Try pulling it from under here.
+No, no. Just leave it.
 <i>- Fix it when we get there.
-- Okay, fine.</i>
+Okay, fine.</i>
 Shit!
 Oh, Jesus! God!
 <i>I'm being pulled over.
@@ -1123,31 +1123,31 @@ Okay. Everybody just pretend to be normal, okay?
 How you folks doin'?
 Yeah. Yeah, yeah, we're fine.
 Just-
-- Little trouble with the horn?
-- Sorry. What?
-- Havin' a little trouble with your horn?
-- Yeah.
+Little trouble with the horn?
+Sorry. What?
+Havin' a little trouble with your horn?
+Yeah.
 Little trouble. Sorry.
 Uh, sorry.
 Could you step outside the vehicle?
-- Step this way, please.
-- No, no.
-- What?
-- Don't-
+Step this way, please.
+No, no.
+What?
+Don't-
 "Don't" what?
-- Do you have something in your trunk, sir?
-- It's nothing. L-
-- Don't- Don't open it. - You've just given me probable cause to search your trunk.
-- Just- I- I just-
-- Put your hands on the vehicle now! Now!
-- Don't move.
-- Okay.
-- It's not illegal!
-- Sir, I would advise you to keep your mouth shut!
+Do you have something in your trunk, sir?
+It's nothing. L-
+Don't- Don't open it. - You've just given me probable cause to search your trunk.
+Just- I- I just-
+Put your hands on the vehicle now! Now!
+Don't move.
+Okay.
+It's not illegal!
+Sir, I would advise you to keep your mouth shut!
 Oh, my God.
 What is he doing?
 <i>- It's not illegal.
-- Goddamn.</i>
+Goddamn.</i>
 Sir, could you come back here?
 I love this stuff. I love it.
 God bless ya.
@@ -1156,21 +1156,21 @@ Don't worry.
 I'm not gonna bust ya.
 Oh, thank you.
 How you doin'?
-- Cute- Cute family. That's nice.
-- Thank you.
-- This on the side. A little of this, a little of that. - It's-
-- Oh, man.
-- Sweet- Sweetness.
+Cute- Cute family. That's nice.
+Thank you.
+This on the side. A little of this, a little of that. - It's-
+Oh, man.
+Sweet- Sweetness.
 That is sweet. Yeah.
-- Dirty.
-- And this one is one of my favorites.
+Dirty.
+And this one is one of my favorites.
 Ahh, good, yeah.
 <i>That's a little different choice.</i>
 No?
-- Gonna leave that with ya.
-- All right.
-- You have a good day there.
-- Yeah.
+Gonna leave that with ya.
+All right.
+You have a good day there.
+Yeah.
 What happened?
 <i>I'll tell you when I regain consciousness.</i>
 Frank, Dwayne, get out and push.
@@ -1179,9 +1179,9 @@ It's 2:15.
 Might be a few minutes late.
 <i>They said 3:00 sharp. They were very explicit.
 We can't cross these people. Trust me.</i>
-- Mom, Dwayne has 20/20 vision.
-- I bet he does.
-- Okay, now I'm gonna check to see if you're color blind.
+Mom, Dwayne has 20/20 vision.
+I bet he does.
+Okay, now I'm gonna check to see if you're color blind.
 <i>Asshole!</i>
 What's the letter in the circle?
 <i>No, no, no.
@@ -1195,38 +1195,38 @@ Dwayne, I think you might be color blind.
 You can't fly jets if you're color blind.
 We've got a little bit of-
 Okay, got an emergency back here.
-- I think we need to pull over.
-- What is it?
+I think we need to pull over.
+What is it?
 <i>- What's the emergency?
-- Pull over.</i>
+Pull over.</i>
 <i>It's all right, man. Dwayne, Dwayne!
 It's all right. Hold on.</i>
-- Just pull over the car!
-- Okay! All right!
-- Could you get him to pull over, please?
-- Richard, pull over!
-- Richard, pull over the car!
-- It's all right. We're pulling over.
-- I'm pulling over. Stop it.
-- It's all right.
-- Dwayne! No, no. Dwayne. Sit down.
-- God, this better be good.
+Just pull over the car!
+Okay! All right!
+Could you get him to pull over, please?
+Richard, pull over!
+Richard, pull over the car!
+It's all right. We're pulling over.
+I'm pulling over. Stop it.
+It's all right.
+Dwayne! No, no. Dwayne. Sit down.
+God, this better be good.
 <i>- Pull over.
-- I'm pulling over. All right.</i>
-- Stop the car. It's gonna be okay, Dwayne.
-- All right. Don't open the door.
+I'm pulling over. All right.</i>
+Stop the car. It's gonna be okay, Dwayne.
+All right. Don't open the door.
 Dwayne? Oh, God!
 Fuck!
-- What happened?
-- He's color blind. He can't fly.
+What happened?
+He's color blind. He can't fly.
 Oh, Jesus. Oh, no.
 Uh, just- just give him a second.
 Dwayne?
 Dwayne, honey, I'm sorry.
-- Dwayne, come on. We have to go.
-- I'm not going.
-- Dwayne-
-- I said I'm not.
+Dwayne, come on. We have to go.
+I'm not going.
+Dwayne-
+I said I'm not.
 Okay? I don't care.
 I'm not getting on that bus again.
 Dwayne, for better or worse, we're your family.
@@ -1245,8 +1245,8 @@ Shit.
 I don't know what to do.
 <i>Well, it's gettin'late.</i>
 Maybe- Can somebody stay here with him?
-- I'll stay.
-- Oh, that is not happening.
+I'll stay.
+Oh, that is not happening.
 All right. Well... uh...
 I'm just worried about the time.
 Olive, you, uh- you wanna try talking to him?
@@ -1265,45 +1265,45 @@ Okay, here! Here's the turnoff.
 Turn in here.
 Does anybody see the Redondo Suites?
 <i>- There's the hotel!
-- There it is! There it is, Olive.</i>
+There it is! There it is, Olive.</i>
 <i>We're gonna make it.
 We're gonna make it. All right.</i>
 How- How the hell do you get over there?
 <i>- Sheryl?
-- No, no, no, no!</i>
+No, no, no, no!</i>
 <i>- You're passing it!
-- Turn around, turn around.</i>
-- You drove past it!
-- You've gotta turn around!
-- It's back there!
-- I can't turn around.
-- Anybody see a way back? It's a one-way street!
-- Oh!
+Turn around, turn around.</i>
+You drove past it!
+You've gotta turn around!
+It's back there!
+I can't turn around.
+Anybody see a way back? It's a one-way street!
+Oh!
 Rich! You've got parking lots on the right!
 <i>- Here, here!
-- Put your seat belt on, baby!</i>
-- What are you doing?
-- I can't slow down! I can't!
-- What time is it, Frank?
-- Oh, 2:59.
-- Dad!
-- Straight shot from here. We're gonna make it.
-- Oh, it's a dead end!
-- I'm not goin' back!
-- You have to go back!
-- That is a one-way road!
+Put your seat belt on, baby!</i>
+What are you doing?
+I can't slow down! I can't!
+What time is it, Frank?
+Oh, 2:59.
+Dad!
+Straight shot from here. We're gonna make it.
+Oh, it's a dead end!
+I'm not goin' back!
+You have to go back!
+That is a one-way road!
 That'll take us all the way back to the freeway!
-- You're the one who told me to go left back there!
+You're the one who told me to go left back there!
 I'm not turnin' back.
 <i>- Richard!
-- It's right there.</i>
+It's right there.</i>
 What-What are you doing?
 You can't do this!
-- God, Richard!
-- Okay, here's the hotel.
+God, Richard!
+Okay, here's the hotel.
 <i>Okay, stop!</i>
 <i>- Where's the entrance?
-- Right here!</i>
+Right here!</i>
 You passed it!
 You're passing it!
 Hold on!
@@ -1312,16 +1312,16 @@ Little bump.
 Mom!
 Hello?
 Hi. We'd like to register.
-- Sorry, we're closed.
-- Uh, no. We have the entrant right here.
-- We just wanna check in.
-- Registration ended at 3:00.
-- It's 3:00 now.
-- No.
+Sorry, we're closed.
+Uh, no. We have the entrant right here.
+We just wanna check in.
+Registration ended at 3:00.
+It's 3:00 now.
+No.
 Come on. Have a heart. We're four minutes late.
 We just drove all the way from Albuquerque.
-- Then you should've been here by 3:00.
-- Wait, wait.
+Then you should've been here by 3:00.
+Wait, wait.
 There must be some way we can work this out. Please.
 <i>Everybody else was here before 3:00.
 I'd be giving unfair advantage.</i>
@@ -1331,15 +1331,15 @@ Don't yell at me, sir.
 I didn't make you late.
 We've settled on the schedule for the show.
 We've turned off the computers.
-- Our lineup is final. I have a hair check to do.
-- Okay-
+Our lineup is final. I have a hair check to do.
+Okay-
 I'm sorry that you're late, but I can't help you.
 Please.
 You don't know what we've been through.
 <i>Um, Miss Jenkins?
 L- I can put 'em in the system.</i>
 <i>- Oh, Kirby, you don't have to.
-- No, it's okay. Takes five minutes.</i>
+No, it's okay. Takes five minutes.</i>
 Well, it's your time.
 Excuse me.
 <i>Thank you, Kirby.
@@ -1349,18 +1349,18 @@ Please, it's only five minutes.
 I am not working for these people next year. These people are crazy.
 <i>Okay, so, what's your name?</i>
 <i>- Olive.
-- That's a nice name.</i>
+That's a nice name.</i>
 <i>- Mom, Mom! Look!
-- What's her last name?</i>
-- It's Miss California. It's really her!
-- You want to go say hi?
+What's her last name?</i>
+It's Miss California. It's really her!
+You want to go say hi?
 <i>Albuquerque-</i>
 <i>- Thank you.
-- Bonnie, come here.</i>
-- Hi! What's your name?
-- Olive.
-- What's your talent, Olive?
-- I like dancing.
+Bonnie, come here.</i>
+Hi! What's your name?
+Olive.
+What's your talent, Olive?
+I like dancing.
 Dancing was too hard for me.
 I'm a singer.
 You must be a good dancer.
@@ -1369,58 +1369,58 @@ I am. I'm really good.
 Well, thanks for stopping by,
 Olive. Best of luck.
 Hmm. Miss California?
-- Do you eat ice cream?
-- I love ice cream.
+Do you eat ice cream?
+I love ice cream.
 My favorite flavor is
 Chocolate Cherry Garcia...
 <i>although, technically,
 I think that's a frozen yogurt.</i>
-- Okay?
-- Okay. Thanks. Bye.
+Okay?
+Okay. Thanks. Bye.
 Bye.
-- Mom, she eats ice cream.
-- I heard.
+Mom, she eats ice cream.
+I heard.
 Your packet has tickets in it, and there's your badge number.
-- Okay.
-- Is there anything else?
+Okay.
+Is there anything else?
 Uh, yeah. Is there a funeral home around here?
-- Hi.
-- Hi.
+Hi.
+Hi.
 <i>Okay, Olive, let's get your swimsuit on.</i>
 You wanna go change behind the curtain?
 <i>This is the last touch-up, everybody.
 Final touch-ups. Last touch-up.</i>
 <i>- Okay! Wait!
-- I won't wait for you!</i>
+I won't wait for you!</i>
 Let's get outta here.
 Hey! Hey, Olive Hoover.
-- Mm-hmm?
-- Hey, I need your music.
-- Oh, music, right.
-- Yeah.
+Mm-hmm?
+Hey, I need your music.
+Oh, music, right.
+Yeah.
 Where is it? All right.
 Here you go.
-- This? Did you choose this?
-- No, my grandpa did.
-- Your grandpa?
-- Mm-hmm.
-- Which track?
-- Twelve.
+This? Did you choose this?
+No, my grandpa did.
+Your grandpa?
+Mm-hmm.
+Which track?
+Twelve.
 We were drivin' five, six hours.
 Thought he was napping.
 By the time we figured it out, it's-
-- You know.
-- Too late.
+You know.
+Too late.
 So where's the body?
 Um-
 Personal effects.
-- Thank you.
-- You take care.
+Thank you.
+You take care.
 You too.
 <i>I'm ready.</i>
 <i>I'm ready.</i>
-- She was scared, but she did very well.
-- Was she?
+She was scared, but she did very well.
+Was she?
 <i>Ladies and gentlemen, welcome to the 24th annual...</i>
 Little Miss Sunshine Pageant!
 <i>Yes!</i>
@@ -1441,8 +1441,8 @@ Yeah, yeah.
 <i>Sometimes I just wish
 I could go to sleep till I was 18...</i> and skip all this crap- high school and everything-just skip it.
 You know Marcel Proust?
-- He's the guy you teach.
-- Yeah.
+He's the guy you teach.
+Yeah.
 French writer.
 Total loser.
 Never had a real job.
@@ -1483,40 +1483,40 @@ Oh, look at you.
 Is that your costume?
 Mm-hmm.
 Okay, here.
-- Hey, what's goin' on?
-- Oh, I just- I came to wish Olive good luck.
-- How you doin', honey?
-- Good.
-- Nervous.
-- Yeah. You're gonna do great.
+Hey, what's goin' on?
+Oh, I just- I came to wish Olive good luck.
+How you doin', honey?
+Good.
+Nervous.
+Yeah. You're gonna do great.
 I just know it.
-- Can I talk to you for a second?
-- Yeah.
+Can I talk to you for a second?
+Yeah.
 What's up?
 I don't want her to go on.
-- Are you authorized to be backstage?
-- No. Hey.
+Are you authorized to be backstage?
+No. Hey.
 <i>- Where are the dressing rooms?
-- Are you allowed to be here?</i>
+Are you allowed to be here?</i>
 Just tell me where the dressing rooms are.
 <i>Listen, we're not in Albuquerque anymore.</i>
-- Hey, how are you feeling?
-- Better. Where's Olive?
-- There. What's up?
-- Mom, I don't want Olive doing this.
+Hey, how are you feeling?
+Better. Where's Olive?
+There. What's up?
+Mom, I don't want Olive doing this.
 Oh, my God!
-- Look around. This place is fucked!
-- He's right!
+Look around. This place is fucked!
+He's right!
 Look, I don't want these people judging Olive. Fuck them!
-- Listen, it is too late.
-- No, it's not too late. You're the mom... and you're supposed to protect her.
+Listen, it is too late.
+No, it's not too late. You're the mom... and you're supposed to protect her.
 Everyone is gonna laugh at her, Mom.
 Please don't let her do this.
 <i>Olive Hoover, two minutes.</i>
 <i>Look, she's not a beauty queen.</i>
 <i>She's just not.</i>
-- I'm gonna tell her.
-- No, Dwayne. You listen to me. Olive is who she is.
+I'm gonna tell her.
+No, Dwayne. You listen to me. Olive is who she is.
 <i>She has worked so hard.
 She's poured everything into this.</i>
 We can't just take it away from her. We can't.
@@ -1525,8 +1525,8 @@ I know you wanna protect her. I know, honey, but... we gotta let Olive be Olive.
 Yeah. Okay?
 Olive, it's time. Okay?
 Yeah.
-- We gotta go now.
-- Hang on.
+We gotta go now.
+Hang on.
 Olive, look at me.
 If you don't want to do this, that's okay.
 If you want to sit this one out, it's totally fine by us. We're proud of you anyway.
@@ -1535,8 +1535,8 @@ If you want to sit this one out, it's totally fine by us. We're proud of you any
 Ready? Let's go.
 Good luck, honey.
 Copy that. Twenty-five is performance ready... and we're walkin'... as fast as we can.
-- Is she going on?
-- Yeah.
+Is she going on?
+Yeah.
 She's going on.
 <i>Pure fairy-tale magic.</i>
 Miss Charisma Whiteman!
@@ -1565,28 +1565,28 @@ That's what she's doin'.
 Get over here!
 Get over here!
 <i>- I want that little ragamuffin off the stage this minute.
-- All right.</i>
-- Get her. Right this minute!
-- Don't touch- Don't touch her.
-- Your act's over, honey.
-- Hey!
-- Hey! Hey, let go of my daughter!
-- Oh!
+All right.</i>
+Get her. Right this minute!
+Don't touch- Don't touch her.
+Your act's over, honey.
+Hey!
+Hey! Hey, let go of my daughter!
+Oh!
 Holy sh-
 Let her finish!
 <i>Get off me!
 Help! Get off me!</i>
-- Help me!
-- Take charge! Just take charge!
+Help me!
+Take charge! Just take charge!
 <i>Keep dancin', honey!
 Daddy's okay.</i>
 Get your daughter off this stage right now!
 Now!
 <i>Honey?</i>
 <i>- Like that?
-- Oh!</i>
-- Ooh!
-- Ah!
+Oh!</i>
+Ooh!
+Ah!
 Yeah! All right!
 Okay, you're out- on the condition that you never enter your daughter in a beauty pageant... in the state of California ever again.
 Ever.
@@ -1596,9 +1596,9 @@ We're back in business.
 Lock and load.
 Olive, your grandpa would've been really proud of you.
 <i>- Yeah, you were great. Mm-wah!
-- You were beyond great.</i>
+You were beyond great.</i>
 <i>- You were incredible.
-- Thank you.</i>
+Thank you.</i>
 Let's get outta here.
 Whoo!
 It's in gear.

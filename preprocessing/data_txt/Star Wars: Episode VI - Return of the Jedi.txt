@@ -18,8 +18,8 @@ The emperor does not share your optimistic appraisal of the situation.
 But he asks the impossible.
 I need more men.
 Then perhaps you can tell him when he arrives.
-- The emperor's coming here?
-- That is correct, Commander... and he is most displeased with your apparent lack of progress.
+The emperor's coming here?
+That is correct, Commander... and he is most displeased with your apparent lack of progress.
 We shall double our efforts.
 I hope so, Commander, for your sake.
 The emperor is not as forgiving as I am.
@@ -109,13 +109,13 @@ He agrees!
 Just relax for a moment.
 You're free of the carbonite.
 You have hibernation sickness.
-- I can't see.
-- Your eyesight will return in time.
-- Where am I?
-- Jabba's palace.
+I can't see.
+Your eyesight will return in time.
+Where am I?
+Jabba's palace.
 Who are you?
-- Someone who loves you.
-- Leia.
+Someone who loves you.
+Leia.
 I gotta get you out of here.
 What's that?
 I know that laugh.
@@ -171,14 +171,14 @@ Oh, no! The rancor!
 Bring me Solo and the Wookiee.
 They will all suffer for this outrage.
 Han.
-- Are you all right?
-- Fine. Together again, huh?
-- Wouldn't miss it.
-- How are we doin'?
-- Same as always.
-- That bad, huh?
-- Where's Leia?
-- I'm here.
+Are you all right?
+Fine. Together again, huh?
+Wouldn't miss it.
+How are we doin'?
+Same as always.
+That bad, huh?
+Where's Leia?
+I'm here.
 Oh, dear.
 His High Exaltedness, the great Jabba the Hutt... has decreed that you are to be terminated immediately.
 Good. I hate long waits.
@@ -220,16 +220,16 @@ Han, Chewie!
 Lando.
 Boba Fett?
 Boba Fett? Where?
-- Lando, grab it!
-- Lower it!
+Lando, grab it!
+Lower it!
 I'm trying!
 Grab me, Chewie. Grab it!
 Grab it. Almost. You almost got it.
 Gently, now.
 Easy. Hold me, Chewie.
 Chewie, give me the gun.
-- Don't move, Lando.
-- Wait! I thought you were blind!
+Don't move, Lando.
+Wait! I thought you were blind!
 I can see a lot better. Don't move.
 A little higher!
 Chewie, pull us up.
@@ -244,12 +244,12 @@ Point it at the deck!
 R2, where are we going?
 I couldn't possibly...
 Come on.
-- Let's go. Don't forget the droids.
-- We're on our way.
+Let's go. Don't forget the droids.
+We're on our way.
 I'll meet you back at the fleet.
 Hurry. The Alliance should be assembled by now.
-- I will.
-- Luke, thanks.
+I will.
+Luke, thanks.
 Thanks for coming after me.
 Now I owe you one.
 That's right, R2.
@@ -348,8 +348,8 @@ But I have no sister.
 To protect you both from the emperor... you were hidden from your father when you were born.
 The emperor knew, as I did... if Anakin were to have any offspring... they would be a threat to him.
 That is the reason why your sister remains safely anonymous.
-- Leia is my sister.
-- Your insight serves you well.
+Leia is my sister.
+Your insight serves you well.
 Bury your feelings deep down, Luke.
 They do you credit... but they could be made to serve the emperor.
 Look at you. A general, huh?
@@ -385,11 +385,11 @@ General Solo, is your strike team assembled?
 My team's ready. I don't have a command crew for the shuttle.
 It's gonna be rough.
 I didn't wanna speak for you.
-- That's one.
-- General, count me in.
+That's one.
+General, count me in.
 I'm with you too.
-- What is it?
-- Ask me again sometime.
+What is it?
+Ask me again sometime.
 Hi, Han, Chewie.
 "Exciting" is hardly the word I would choose.
 Look, I want you to take her.
@@ -406,15 +406,15 @@ I got your promise. Not a scratch.
 Would you get going, you pirate?
 Good luck.
 You too.
-- Got her warmed?
-- Yeah, she's coming up.
+Got her warmed?
+Yeah, she's coming up.
 I don't think the Empire had Wookiees in mind when they designed her, Chewie.
 Hey, you awake?
 Yeah. I just got a funny feeling, like I'm not gonna see her again.
 Come on, General. Let's move.
 Right. Chewie, let's see what this piece of junk can do.
-- Ready, everybody?
-- All set.
+Ready, everybody?
+All set.
 Here we go again.
 All right, hang on.
 What is thy bidding, my master?
@@ -459,8 +459,8 @@ Follow your present course.
 Okay. I told you it was gonna work.
 No problem.
 I told you it was dangerous here.
-- Should we try and go around?
-- It'll take time.
+Should we try and go around?
+It'll take time.
 This whole party will be for nothing if they see us.
 Chewie and I will take care of this.
 You stay here.
@@ -477,8 +477,8 @@ Get alongside that one.
 Keep on that one. I'll take these two.
 General Solo, somebody's coming.
 Where's Leia?
-- She didn't come back?
-- I thought she was with you.
+She didn't come back?
+I thought she was with you.
 We got separated.
 We better go look for her.
 Take the squad ahead. We'll meet at the shield generator at 0300.
@@ -502,16 +502,16 @@ You're a jittery little thing, aren't you?
 What is it?
 Freeze!
 Come on. Get up.
-- Get your ride. Take her back to base.
-- Yes, sir.
+Get your ride. Take her back to base.
+Yes, sir.
 What the...
 Come on. Let's get out of here.
 I told you to remain on the command ship.
 A small rebel force has penetrated the shield and landed on Endor.
 Yes, I know.
 My son is with them.
-- Are you sure?
-- I have felt him, my master.
+Are you sure?
+I have felt him, my master.
 Strange that I have not.
 I wonder if your feelings on this matter are clear, Lord Vader.
 They are clear, my master.
@@ -593,8 +593,8 @@ Master Luke...
 Han Solo...
 ...carbon.
 ...Sarlacc.
-- What's going on?
-- I don't know.
+What's going on?
+I don't know.
 Wonderful. We are now a part of the tribe.
 Just what I always wanted.
 Short help's better than no help at all, Chewie.
@@ -624,8 +624,8 @@ He's come for me.
 He can feel when I'm near.
 That's why I have to go.
 As long as I stay, I'm endangering the group and our mission here.
-- I have to face him.
-- Why?
+I have to face him.
+Why?
 He's my father.
 Your father?
 There's more. It won't be easy for you to hear it, but you must.
@@ -646,8 +646,8 @@ I've always known.
 Then you know why I have to face him.
 Luke, run away. Far away.
 If he can feel your presence, then leave this place.
-- I wish I could go with you.
-- No, you don't.
+I wish I could go with you.
+No, you don't.
 You've always been strong.
 But why must you confront him?
 Because there is good in him. I've felt it.
@@ -700,8 +700,8 @@ The emperor will show you the true nature of the Force.
 He is your master now.
 Then my father is truly dead.
 The main entrance to the control bunker is on the far side of that landing platform.
-- This isn't gonna be easy.
-- Don't worry.
+This isn't gonna be easy.
+Don't worry.
 Chewie and me got into a lot of places more heavily guarded than this.
 What's he saying?
 He says there's a secret entrance on the other side of the ridge.
@@ -719,8 +719,8 @@ It's only a few guards.
 This shouldn't be too much trouble.
 It only takes one to sound the alarm.
 Then we'll do it real quiet-like.
-- Oh, my. Princess Leia.
-- Quiet.
+Oh, my. Princess Leia.
+Quiet.
 I'm afraid our furry companion... has gone and done something rather rash.
 There goes our surprise attack.
 Look, over there! Stop him!
@@ -769,10 +769,10 @@ Wait! Come back!
 R2, stay with me.
 Freeze!
 You rebel scum.
-- All wings report in.
-- Red Leader standing by.
-- Gray Leader standing by.
-- Green Leader standing by.
+All wings report in.
+Red Leader standing by.
+Gray Leader standing by.
+Green Leader standing by.
 Lock S-foils in attack positions.
 May the Force be with us.
 We've gotta be able to get a reading on that shield... up or down.
@@ -813,8 +813,8 @@ Freeze.
 Don't move.
 We surrender.
 The code's changed.
-- We need R2.
-- Here's the terminal.
+We need R2.
+Here's the terminal.
 R2, where are you?
 We need you at the bunker right away.
 Going? What do you mean?
@@ -822,8 +822,8 @@ Going where, R2?
 Wait. R2, this is no time for heroics.
 Come back!
 Watch yourself, Wedge. Three from above.
-- Red Three, Red Two, pull in.
-- Got it.
+Red Three, Red Two, pull in.
+Got it.
 Three of them coming in, 20 degrees.
 Cut left. I'll take the leader.
 They're heading for the medical frigate.
@@ -831,8 +831,8 @@ Pressure's steady.
 Only the fighters are attacking.
 What are the Stardestroyers waiting for?
 We're in attack position, sir.
-- Hold here.
-- We're not going to attack?
+Hold here.
+We're not going to attack?
 My orders are from the emperor himself.
 He has something special planned.
 We only need to keep them from escaping.
@@ -871,18 +871,18 @@ Good.
 I can feel your anger.
 I am defenseless. Take your weapon.
 Strike me down with all of your hatred... and your journey towards the dark side will be complete.
-- Look!
-- Get him off of there.
+Look!
+Get him off of there.
 I think I got it.
 I got it!
 Are you all right?
-- Let's see.
-- It's not bad.
-- Freeze!
-- Oh, dear.
+Let's see.
+It's not bad.
+Freeze!
+Oh, dear.
 Don't move.
-- I love you.
-- I know.
+I love you.
+I know.
 Hands up.
 Stand up.
 Stay back.
@@ -903,8 +903,8 @@ You underestimate the power of the dark side.
 If you will not fight... then you will meet your destiny.
 Good.
 Good.
-- Watch out. Squad at .06.
-- I'm on it, Gold Leader.
+Watch out. Squad at .06.
+I'm on it, Gold Leader.
 Good shot, Red Two.
 We're sure in the middle of it now.
 Come on, Han, old buddy.
@@ -914,8 +914,8 @@ The rebels have been routed.
 They're fleeing.
 We need reinforcements to continue the pursuit.
 Send three squads to help.
-- Open the back door.
-- Sir.
+Open the back door.
+Sir.
 Throw me another charge.
 You cannot hide forever, Luke.
 I will not fight you.

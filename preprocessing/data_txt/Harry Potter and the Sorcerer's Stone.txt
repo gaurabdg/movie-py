@@ -3,22 +3,22 @@ Good evening, Professor Dumbledore.
 Are the rumors true, Albus?
 I'm afraid so, professor.
 The good and the bad.
-- And the boy?
-- Hagrid is bringing him.
+And the boy?
+Hagrid is bringing him.
 Is it wise to trust Hagrid with something so important?
 Professor, I would trust Hagrid with my life.
 Professor Dumbledore, sir.
 Professor McGonagall.
-- No problems, I trust, Hagrid?
-- No, sir.
+No problems, I trust, Hagrid?
+No, sir.
 Little tyke fell asleep as we were flying over Bristol.
 Try not to wake him.
 There you go.
 Do you really think it's safe, leaving him with these people?
 I've watched them all day.
 They're the worst sort of Muggles.
-- They really are...
-- The only family he has.
+They really are...
+The only family he has.
 He'll be famous. Every child in our world will know his name.
 Exactly.
 He's far better off growing up away from all of that.
@@ -31,21 +31,21 @@ Up. Get up!
 Now!
 Wake up, cousin!
 We're going to the zoo!
-- Here he comes, the birthday boy.
-- Happy birthday, son.
+Here he comes, the birthday boy.
+Happy birthday, son.
 Cook breakfast.
 And try not to burn anything.
-- Yes, Aunt Petunia.
-- I want everything to be perfect...
+Yes, Aunt Petunia.
+I want everything to be perfect...
 ...for my Dudley's special day!
-- Hurry up! Bring my coffee, boy.
-- Yes, Uncle Vernon.
+Hurry up! Bring my coffee, boy.
+Yes, Uncle Vernon.
 Aren't they wonderful, darling?
-- How many are there?
-- 36. Counted them myself.
+How many are there?
+36. Counted them myself.
 36?! But last year I had 37!
-- But some are bigger than last year's.
-- I don't care!
+But some are bigger than last year's.
+I don't care!
 This is what we're going to do.
 We're going to buy you two new presents. How's that, pumpkin?
 It should be a lovely day at the zoo.
@@ -56,8 +56,8 @@ Any funny business, any at all...
 Get in.
 Make it move.
 Move!
-- Move!
-- He's asleep!
+Move!
+He's asleep!
 He's boring.
 Sorry about him.
 He doesn't understand what it's like, lying there...
@@ -81,13 +81,13 @@ How did you get in there?
 Who did this? How did you get in there? Is there a snake?
 It's all right, sweetheart.
 We'll get you out of these cold clothes.
-- What happened?
-- I swear, I don't know!
+What happened?
+I swear, I don't know!
 The glass was there and then it was gone, like magic.
 There's no such thing as magic.
 Marge is ill. Ate a funny whelk.
-- Dad, look! Harry's got a letter!
-- It's mine!
+Dad, look! Harry's got a letter!
+It's mine!
 Yours? Who'd be writing to you?
 No more mail through this letterbox.
 Have a lovely day at the office, dear.
@@ -95,8 +95,8 @@ Shoo! Go on.
 Fine day, Sunday.
 In my opinion, best day of the week.
 Why is that, Dudley?
-- Because there's no post on Sundays?
-- Right you are, Harry!
+Because there's no post on Sundays?
+Right you are, Harry!
 No post on Sunday.
 No blasted letters today! No, sir.
 Not one single bloody letter. Not one!
@@ -120,8 +120,8 @@ I haven't seen you since you was a baby, Harry.
 You're a bit more along than I expected.
 Particularly in the middle.
 I'm not Harry.
-- I am.
-- Well, of course you are.
+I am.
+Well, of course you are.
 Got something for you.
 Afraid I sat on it, but I imagine it'll taste fine just the same.
 Baked it myself, words and all.
@@ -129,13 +129,13 @@ Thank you.
 It's not every day your young man turns 11, is it?
 Excuse me, but who are you?
 Rubeus Hagrid, Keeper of Keys and Grounds at Hogwarts.
-- Of course, you know about Hogwarts.
-- Sorry, no.
+Of course, you know about Hogwarts.
+Sorry, no.
 Didn't you ever wonder where your mum and dad learned it all?
 Learned what?
 You're a wizard, Harry.
-- I'm a what?
-- A wizard.
+I'm a what?
+A wizard.
 A good one, I'd wager, once you're trained up.
 No, you've made a mistake.
 I mean...
@@ -163,8 +163,8 @@ And then she got herself blown up, and we got landed with you.
 Blown up? You told me my parents died in a car crash.
 A car crash? A car crash killed
 Lily and James Potter?
-- We had to say something.
-- It's an outrage! A scandal!
+We had to say something.
+It's an outrage! A scandal!
 He'll not be going.
 A great Muggle like you is going to stop him?
 Muggle?
@@ -176,8 +176,8 @@ I will not pay to have a crackpot old fool teach him magic tricks.
 Never insult Albus Dumbledore...
 ...in front of me.
 I'd appreciate it if you didn't tell anyone at Hogwarts about that.
-- I'm not allowed to do magic.
-- Okay.
+I'm not allowed to do magic.
+Okay.
 We're a bit behind schedule.
 Best be off.
 Unless you'd rather stay, of course.
@@ -206,8 +206,8 @@ Not that you need it, eh, Potter?
 Yes, well, must be going now.
 Lots to buy.
 Goodbye.
-- See, Harry? You're famous.
-- But why am I famous?
+See, Harry? You're famous.
+But why am I famous?
 All those people, how is it they know who I am?
 I'm not sure I'm the right person to tell you that.
 Welcome, Harry, to Diagon Alley.
@@ -238,8 +238,8 @@ Vault 687.
 Lamp, please.
 Key, please.
 Did you think your parents would leave you with nothing?
-- Vault 713.
-- What's in there, Hagrid?
+Vault 713.
+What's in there, Hagrid?
 Can't tell you.
 Hogwarts business. Very secret.
 Stand back.
@@ -295,11 +295,11 @@ Not all wizards are good.
 Some of them go bad.
 A few years ago...
 ...there was a wizard who went as bad as you can go. His name was V...
-- His name was V...
-- Maybe if you wrote it down?
+His name was V...
+Maybe if you wrote it down?
 No, I can't spell it.
-- All right, Voldemort.
-- Voldemort?
+All right, Voldemort.
+Voldemort?
 It was dark times, Harry.
 <i>Voldemort started to gather some followers.</i>
 <i>Brought them over to the Dark Side.</i>
@@ -339,12 +339,12 @@ Can you tell me where
 I might find platform 93/4?
 Think you're being funny, do you?
 It's the same every year, packed with Muggles.
-- Muggles?
-- Platform 93/4, this way.
+Muggles?
+Platform 93/4, this way.
 All right, Percy, you first.
 Fred, you next.
-- He's not Fred, I am.
-- You call yourself our mother?
+He's not Fred, I am.
+You call yourself our mother?
 I'm sorry, George.
 I'm only joking. I am Fred.
 Excuse me.
@@ -353,8 +353,8 @@ How to get onto the platform?
 Not to worry, dear.
 It's Ron's first time to Hogwarts as well.
 All you do is walk straight at the wall between platforms 9 and 10.
-- Best to run if you're nervous.
-- Good luck.
+Best to run if you're nervous.
+Good luck.
 Excuse me. Do you mind?
 Everywhere else is full.
 Not at all.
@@ -363,24 +363,24 @@ Ron Weasley.
 I'm Harry. Harry Potter.
 So it's true!
 I mean, do you really have the?
-- The what?
-- The scar?
+The what?
+The scar?
 Wicked!
-- Anything off the trolley, dears?
-- No, thanks. I'm all set.
+Anything off the trolley, dears?
+No, thanks. I'm all set.
 We'll take the lot.
-- Bertie Bott's Every Flavor Beans?
-- They mean every flavor.
+Bertie Bott's Every Flavor Beans?
+They mean every flavor.
 There's chocolate and peppermint and also...
 ...spinach, liver and tripe.
 George sweared he got a booger-flavored one once.
-- Are they real frogs?
-- It's a spell. You want the cards.
+Are they real frogs?
+It's a spell. You want the cards.
 Each pack's got a famous witch or wizard. I've got about 500 meself.
 Watch it!
 That's rotten luck. They've only got one good jump in them.
-- I've got Dumbledore!
-- I got about six of him.
+I've got Dumbledore!
+I got about six of him.
 Hey, he's gone!
 You can't expect him to hang around all day, can you?
 This is Scabbers.
@@ -389,8 +389,8 @@ A little.
 Fred gave me a spell to turn him yellow. Want to see?
 Yeah.
 Has anyone seen a toad?
-- A boy named Neville's lost one.
-- No.
+A boy named Neville's lost one.
+No.
 Oh, are you doing magic?
 Let's see, then.
 <i>Sunshine, daisies, butter mellow</i>
@@ -405,8 +405,8 @@ That's better, isn't it?
 Holy cricket, you're Harry Potter!
 I'm Hermione Granger.
 And you are?
-- I'm Ron Weasley.
-- Pleasure.
+I'm Ron Weasley.
+Pleasure.
 You two better change into robes.
 I expect we'll be arriving soon.
 You've got dirt on your nose.
@@ -416,8 +416,8 @@ Right, then.
 First years, this way, please!
 Come on, first years, don't be shy.
 Come on now, hurry up.
-- Hello, Harry.
-- Hi, Hagrid.
+Hello, Harry.
+Hi, Hagrid.
 Right, then. This way to the boats.
 Come on now, follow me.
 Wicked.
@@ -504,8 +504,8 @@ Me dad's a Muggle. Mum's a witch.
 Bit of a nasty shock for him when he found out.
 Percy, who's that teacher talking to Professor Quirrell?
 Professor Snape, head of Slytherin house.
-- What's he teach?
-- Potions.
+What's he teach?
+Potions.
 But he fancies the Dark Arts.
 He's been after Quirrell's job for years.
 Hello! How are you?
@@ -529,10 +529,10 @@ They like to change.
 Keep up, please, and follow me.
 Quickly now, come on. Come on.
 That picture's moving.
-- Look at that one.
-- I think she fancies you.
-- Look!
-- Who's that girl?
+Look at that one.
+I think she fancies you.
+Look!
+Who's that girl?
 Welcome to Hogwarts.
 Password?
 Caput Draconis.
@@ -546,12 +546,12 @@ Your belongings have already been brought up.
 Made it!
 Can you imagine the look on old
 McGonagall's face if we were late?
-- That was bloody brilliant!
-- Thank you for that assessment.
+That was bloody brilliant!
+Thank you for that assessment.
 It'd be better if I transfigured
 Mr. Potter and you into a watch.
-- Then one of you might be on time.
-- We got lost.
+Then one of you might be on time.
+We got lost.
 Then perhaps a map? I trust you don't need one to find your seats.
 There will be no foolish wand-waving or silly incantations in this class.
 As such, I don't expect many of you to appreciate...
@@ -592,8 +592,8 @@ Somebody broke into Gringotts. Listen.
 The vault in question, number 713, had been emptied earlier that same day."
 That's odd. That's the vault
 Hagrid and I went to.
-- Good afternoon, class.
-- Good afternoon, Madam Hooch.
+Good afternoon, class.
+Good afternoon, Madam Hooch.
 Good afternoon, Amanda.
 Good afternoon.
 Welcome to your first flying lesson.
@@ -613,8 +613,8 @@ Keep your broom steady, hover for a moment...
 ...then lean forward slightly and touch back down.
 On my whistle. Three, two...
 Mr. Longbottom.
-- Mr. Longbottom!
-- Down, down!
+Mr. Longbottom!
+Down, down!
 Neville!
 Come back down this instant!
 Everyone out of the way!
@@ -638,8 +638,8 @@ What an idiot.
 Give it here or I'll knock you off your broom!
 Is that so?
 Have it your way, then.
-- Nice going, Harry.
-- That was wicked, Harry!
+Nice going, Harry.
+That was wicked, Harry!
 Harry Potter!
 Follow me.
 You wait here.
@@ -651,8 +651,8 @@ Wood, I have found you a Seeker.
 Have you heard? Harry Potter's the new Gryffindor Seeker.
 I always knew he'd do well.
 Seeker? But first years never make the house teams.
-- You must be the youngest player in...
-- A century, McGonagall says.
+You must be the youngest player in...
+A century, McGonagall says.
 Well done, Harry.
 Wood's just told us.
 Fred and George are on the team.
@@ -675,18 +675,18 @@ She knows more about you than you do.
 Who doesn't?
 What's happening?
 The staircases change, remember?
-- Let's go this way.
-- Before the staircase moves again.
+Let's go this way.
+Before the staircase moves again.
 Does anybody feel like we shouldn't be here?
 We're not supposed to be here.
 This is the third floor.
 It's forbidden.
 Let's go.
-- It's Filch's cat!
-- Run!
+It's Filch's cat!
+Run!
 Quick, let's hide through that door!
-- It's locked!
-- We're done for!
+It's locked!
+We're done for!
 Move over!
 <i>Alohomora.</i>
 Get in.
@@ -694,10 +694,10 @@ Get in.
 <i>Standard Book of Spells, chapter seven.</i>
 Anyone here, my sweet?
 Come on.
-- Filch is gone.
-- He thinks this door's locked.
-- It was locked.
-- And for good reason.
+Filch is gone.
+He thinks this door's locked.
+It was locked.
+And for good reason.
 What are they doing, keeping a thing like that locked up in a school?
 Didn't you see what it was standing on?
 I wasn't looking at its feet!
@@ -706,8 +706,8 @@ Or maybe you didn't notice.
 There were three!
 It was standing on a trap door.
 It wasn't there by accident.
-- It's guarding something.
-- Guarding something?
+It's guarding something.
+Guarding something?
 That's right. Now, if you two don't mind,
 I'm going to bed...
 ...before you come up with another idea to get us killed.
@@ -730,8 +730,8 @@ Bludger. Nasty little buggers.
 But you are a Seeker.
 The only thing I want you to worry about is this.
 The Golden Snitch.
-- I like this ball.
-- You like it now.
+I like this ball.
+You like it now.
 Just wait. It's wicked fast and damn near impossible to see.
 What do I do with it?
 You catch it.
@@ -779,8 +779,8 @@ Gryffindors, keep up, please, and stay alert.
 How could a troll get in?
 Not on its own. Trolls are really stupid.
 Probably people playing jokes.
-- What?
-- Hermione! She doesn't know.
+What?
+Hermione! She doesn't know.
 I think the troll's left the dungeon.
 It's going into the girls' bathroom.
 Hermione, move!
@@ -788,10 +788,10 @@ Help! Help!
 Hey, pea brain!
 Help!
 Do something!
-- What?
-- Anything!
-- Hurry up!
-- Swish and flick.
+What?
+Anything!
+Hurry up!
+Swish and flick.
 <i>Wingardium Leviosa.</i>
 Cool.
 Is it dead?
@@ -799,8 +799,8 @@ I don't think so. Just knocked out.
 Troll boogers.
 Oh, my goodness!
 Explain yourselves, both of you!
-- Well, what it is...
-- It's my fault, Professor McGonagall.
+Well, what it is...
+It's my fault, Professor McGonagall.
 Miss Granger?
 I went looking for the troll.
 I thought I could handle it.
@@ -827,8 +827,8 @@ Good luck today, Potter.
 You've proven yourself against a troll.
 A game of Quidditch should be easy work.
 Even if it is against Slytherin.
-- That explains the blood.
-- Blood?
+That explains the blood.
+Blood?
 Last night, I'm guessing Snape let the troll in as a diversion...
 ...so he could get past that dog.
 But he got bit, that's why he's limping.
@@ -838,17 +838,17 @@ Said it was Hogwarts business, very secret.
 You're saying...
 That's what the dog's guarding.
 That's what Snape wants.
-- Bit early for mail, isn't it?
-- But I never get mail.
+Bit early for mail, isn't it?
+But I never get mail.
 Let's open it.
 It's a broomstick.
 That's not just a broomstick, it's a Nimbus 2000!
 But who?
-- Scared, Harry?
-- A little.
+Scared, Harry?
+A little.
 It's all right. I felt the same way before my first game.
-- What happened?
-- I don't really remember.
+What happened?
+I don't really remember.
 I took a Bludger to the head two minutes in.
 Woke up in hospital a week later.
 Welcome to Hogwarts' first
@@ -874,8 +874,8 @@ Take that side!
 What's going on with Harry's broomstick?
 It's Snape.
 He's jinxing the broom!
-- Jinxing the broom? What do we do?
-- Leave it to me.
+Jinxing the broom? What do we do?
+Leave it to me.
 Come on, Hermione!
 <i>Lacarnum Inflamarae.</i>
 Fire! You're on fire!
@@ -886,10 +886,10 @@ Harry Potter receives 150 points for catching the Snitch!
 Gryffindor wins!
 Nonsense! Why would Snape put a curse on Harry's broom?
 Who knows? Why was he trying to get past that three-headed dog?
-- Who told you about Fluffy?
-- Fluffy?
-- That thing has a name?
-- Of course he has a name. He's mine.
+Who told you about Fluffy?
+Fluffy?
+That thing has a name?
+Of course he has a name. He's mine.
 I bought him off an Irishman.
 I lent him to Dumbledore to guard...
 Shouldn't have said that.
@@ -923,8 +923,8 @@ That's wizard's chess.
 I see you've packed.
 I see you haven't.
 Change of plans. My parents went to Romania to visit my brother Charlie.
-- He's studying dragons there.
-- Good. You can help Harry.
+He's studying dragons there.
+Good. You can help Harry.
 He's going to the library to look up Nicholas Flamel.
 We've looked a hundred times!
 Not in the restricted section.
@@ -932,19 +932,19 @@ Happy Christmas.
 I think we've had a bad influence on her.
 Harry, wake up!
 Come on, Harry, wake up!
-- Happy Christmas, Harry.
-- Happy Christmas, Ron.
+Happy Christmas, Harry.
+Happy Christmas, Ron.
 What are you wearing?
 Oh, my mum made it.
 Looks like you've got one too.
-- I've got presents?
-- Yeah.
+I've got presents?
+Yeah.
 There they are.
 "Your father left this in my possession before he died.
 It is time it was returned to you.
 Use it well."
-- What is it?
-- Some kind of cloak.
+What is it?
+Some kind of cloak.
 Well, let's see, then. Put it on.
 My body's gone!
 I know what that is.
@@ -964,8 +964,8 @@ You can't hide.
 Who is it? Show yourself.
 Severus, I...
 You don't want me as your enemy, Quirrell.
-- I don't know what you mean.
-- You know perfectly well what I mean.
+I don't know what you mean.
+You know perfectly well what I mean.
 We'll have another little chat soon.
 When you've had time to decide where your loyalties lie.
 Professors. I found this in the restricted section.
@@ -975,15 +975,15 @@ Dad?
 Ron, you've really gotta see this!
 Ron, you've gotta see this!
 Ron, come on, get out of bed!
-- Why?
-- There's something you've got to see!
+Why?
+There's something you've got to see!
 Come on! Come!
 Come look, it's my parents!
 I only see us.
 Look in properly.
 Go on, stand there.
-- There. You see them, don't you?
-- That's me! Only I'm head boy.
+There. You see them, don't you?
+That's me! Only I'm head boy.
 And I'm holding the Quidditch Cup.
 And bloody hell!
 I'm Quidditch captain too!
@@ -1027,8 +1027,8 @@ Honestly, don't you two read?
 "The Philosopher's Stone is a legendary substance with astonishing powers.
 It'll transform any metal into pure gold...
 ...and produces the Elixir of Life which will make the drinker immortal."
-- Immortal?
-- It means you'll never die.
+Immortal?
+It means you'll never die.
 I know what it means!
 "The only Stone currently in existence belongs to Mr. Nicholas Flamel...
 ...the noted alchemist who last year celebrated his 665th birthday."
@@ -1037,8 +1037,8 @@ That's what's under the trap door.
 The Philosopher's Stone.
 Don't wish to be rude, but I'm in no state to entertain.
 We know about the Philosopher's Stone.
-- We think Snape's trying to steal it.
-- Are you still on about him?
+We think Snape's trying to steal it.
+Are you still on about him?
 We know he's after it.
 We don't know why.
 Snape is one of the teachers protecting the Stone. He won't steal it.
@@ -1048,15 +1048,15 @@ I'm a bit preoccupied today.
 Wait a minute.
 "One of the teachers"?
 There are other things defending the Stone, aren't there?
-- Spells, enchantments.
-- Right.
+Spells, enchantments.
+Right.
 Waste of bloody time, if you ask me.
 Ain't no one gonna get past Fluffy.
 Ain't a soul knows how, except for me and Dumbledore.
 I shouldn't have told you that.
 I should not have told you that.
-- Hagrid, what exactly is that?
-- That? It's...
+Hagrid, what exactly is that?
+That? It's...
 I know what that is!
 But, Hagrid, how did you get one?
 I won it. Off a stranger
@@ -1070,8 +1070,8 @@ My brother works with these in Romania.
 Isn't he beautiful? Oh, bless him.
 Look, he knows his mummy.
 Hello, Norbert.
-- Norbert?
-- He's gotta have a name, don't he?
+Norbert?
+He's gotta have a name, don't he?
 Don't you, Norbert?
 He'll have to be trained up a bit, of course.
 Who's that?
@@ -1081,14 +1081,14 @@ Hagrid always wanted a dragon.
 Told me so the first time I met him.
 It's crazy.
 And worse, Malfoy knows.
-- I don't understand. Is that bad?
-- It's bad.
+I don't understand. Is that bad?
+It's bad.
 Good evening.
 Nothing, I repeat, nothing...
 ...gives a student the right to walk about at night.
 Therefore, as punishment for your actions,
 50 points will be taken.
-- Each.
+Each.
 To ensure it doesn't happen again...
 ...all four of you will receive detention.
 Excuse me, professor, perhaps I heard you wrong.
@@ -1152,8 +1152,8 @@ Drinking its blood will keep you alive even if you are an inch from death.
 But at a terrible price. For you have slain something so pure...
 ...that the moment the blood touches your lips, you will have a half-life.
 A cursed life.
-- Who would choose such a life?
-- Can you think of no one?
+Who would choose such a life?
+Can you think of no one?
 Do you mean to say that that thing that killed the unicorn...
 ...that was drinking its blood, that was Voldemort?
 Do you know what is hidden in the school at this very moment?
@@ -1186,14 +1186,14 @@ As long as Dumbledore is around, you can't be touched.
 I'd heard Hogwarts' final exams were frightful, but I found that enjoyable.
 Speak for yourself.
 All right there, Harry?
-- My scar. It keeps burning.
-- It's happened before.
-- Not like this.
-- You should see the nurse.
+My scar. It keeps burning.
+It's happened before.
+Not like this.
+You should see the nurse.
 I think it's a warning.
 It means danger's coming.
-- Of course!
-- What is it?
+Of course!
+What is it?
 Isn't it odd that what Hagrid wants more than anything is a dragon...
 ...and a stranger just happens to have one?
 How many people wander around with dragon eggs?
@@ -1205,8 +1205,8 @@ He kept his hood up.
 You and this stranger must have talked.
 He wanted to know what sort of creatures I looked after.
 I said, "After Fluffy, a dragon's gonna be no problem."
-- Was he interested in Fluffy?
-- Of course he was interested.
+Was he interested in Fluffy?
+Of course he was interested.
 How often do you come across a three-headed dog?
 But I told him, "The trick with any beast is to know how to calm him."
 Take Fluffy, for example. Play him music and he falls straight to sleep.
@@ -1219,19 +1219,19 @@ He received an urgent owl from the Ministry of Magic and left.
 He's gone?
 But this is important!
 This is about the Philosopher's Stone!
-- How do you know?
-- Someone's going to try and steal it.
+How do you know?
+Someone's going to try and steal it.
 I don't know how you know, but I assure you it is well protected.
 Now would you go back to your dormitories? Quietly.
 That was no stranger Hagrid met.
 It was Snape.
 Which means he knows how to get past Fluffy.
-- And with Dumbledore gone...
-- Good afternoon.
+And with Dumbledore gone...
+Good afternoon.
 What would three young Gryffindors...
 ...be doing inside on a day like this?
-- We were just...
-- You ought to be careful.
+We were just...
+You ought to be careful.
 People will think you're...
 ...up to something.
 Now what do we do?
@@ -1240,8 +1240,8 @@ Trevor.
 Trevor, go! You shouldn't be here!
 Neither should you.
 You're sneaking out again, aren't you?
-- Neville, listen. We were...
-- No, I won't let you!
+Neville, listen. We were...
+No, I won't let you!
 You'll get Gryffindor into trouble again.
 I'll fight you.
 <i>Neville, I'm really sorry about this.
@@ -1249,18 +1249,18 @@ Petrificus Totalus.</i>
 You're a little scary sometimes, you know that?
 Brilliant, but scary.
 Let's go.
-- Sorry.
-- It's for your own good, you know.
-- You stood on my foot!
-- Sorry.
+Sorry.
+It's for your own good, you know.
+You stood on my foot!
+Sorry.
 <i>Alohomora.</i>
 Wait a minute. He's...
 ...snoring.
 Snape's already been here.
 He's put a spell on the harp.
 It's got horrible breath.
-- We have to move its paw.
-- What?
+We have to move its paw.
+What?
 Come on!
 Okay. Push.
 I'll go first. Don't follow until I give you a sign.
@@ -1276,24 +1276,24 @@ You have to relax. If you don't, it will only kill you faster.
 Kill us faster?
 Oh, now I can relax!
 Hermione!
-- Now what are we gonna do?
-- Just relax!
-- Hermione, where are you?
-- Do what I say! Trust me.
-- Are you okay?
-- Yeah, I'm fine.
-- He's not relaxing, is he?
-- Apparently not.
-- We've gotta do something.
-- What?
+Now what are we gonna do?
+Just relax!
+Hermione, where are you?
+Do what I say! Trust me.
+Are you okay?
+Yeah, I'm fine.
+He's not relaxing, is he?
+Apparently not.
+We've gotta do something.
+What?
 I remember reading something in Herbology.
 Devil's Snare, Devil's Snare.
 It's deadly fun...
 ...but will sulk in the sun!
 That's it! It hates sunlight.
 <i>Lumus Solem.</i>
-- Ron, you okay?
-- Yeah.
+Ron, you okay?
+Yeah.
 Lucky we didn't panic.
 Lucky Hermione pays attention in Herbology.
 What is that?
@@ -1302,8 +1302,8 @@ Curious. I've never seen birds like these.
 They're not birds.
 They're keys.
 And I'll bet one of them fits that door.
-- What's this all about?
-- I don't know.
+What's this all about?
+I don't know.
 Strange.
 <i>Alohomora!</i>
 Well, it was worth a try.
@@ -1342,14 +1342,14 @@ Yes, Hermione.
 I think this is gonna be exactly like wizard's chess.
 Castle to e4!
 Pawn to c3!
-- Wait a minute.
-- You understand right, Harry.
+Wait a minute.
+You understand right, Harry.
 Once I make my move, the queen will take me.
 Then you're free to check the king.
-- No. Ron, no!
-- What is it?
-- He's going to sacrifice himself.
-- No, there must be another way!
+No. Ron, no!
+What is it?
+He's going to sacrifice himself.
+No, there must be another way!
 Do you wanna stop Snape from getting that Stone or not?
 Harry, it's you that has to go on.
 I know it.
@@ -1387,8 +1387,8 @@ If Snape's cloak hadn't caught fire and broken my eye contact...
 Even with Snape muttering his countercurse.
 Snape was trying to save me?
 I knew you were a danger to me, especially after Halloween.
-- Then you let the troll in!
-- Very good, Potter, yes.
+Then you let the troll in!
+Very good, Potter, yes.
 Snape, unfortunately, wasn't fooled.
 While everyone ran about, he went to the third floor to head me off.
 He, of course, never trusted me again.
@@ -1407,8 +1407,8 @@ I'm shaking hands with Dumbledore.
 I've won the house cup.
 He lies.
 Tell the truth! What do you see?
-- Let me speak to him.
-- Master, you are not strong enough.
+Let me speak to him.
+Master, you are not strong enough.
 I have strength enough for this.
 Harry Potter...
 ...we meet again.
@@ -1439,11 +1439,11 @@ Together, we'll do extraordinary things.
 Just give me the Stone!
 You liar!
 Kill him!
-- What is this magic?
-- Fool, get the Stone!
+What is this magic?
+Fool, get the Stone!
 Good afternoon, Harry.
-- Tokens from your admirers?
-- Admirers?
+Tokens from your admirers?
+Admirers?
 What happened in the dungeons between you and Professor Quirrell is a secret.
 So, naturally, the whole school knows.
 I see that your friend Ronald has saved you the trouble...
@@ -1451,8 +1451,8 @@ I see that your friend Ronald has saved you the trouble...
 Ron was here? Is he all right?
 What about Hermione?
 Fine. They're both just fine.
-- What happened to the Stone?
-- Relax, dear boy.
+What happened to the Stone?
+Relax, dear boy.
 The Stone has been destroyed.
 My friend Nicholas and I have had a little chat...
 ...and agreed it was best all around.
@@ -1475,8 +1475,8 @@ It was because of your mother.
 She sacrificed herself for you.
 And that kind of act leaves a mark.
 No, this kind of mark cannot be seen.
-- It lives in your very skin.
-- What is it?
+It lives in your very skin.
+What is it?
 Love, Harry. Love.
 Bertie Bott's Every Flavor Beans.
 I was most unfortunate in my youth to come across a vomit-flavored one.
@@ -1486,8 +1486,8 @@ But I think I could be safe...
 ...with a nice toffee.
 Alas!
 Earwax.
-- All right there, Ron?
-- All right. You?
+All right there, Ron?
+All right. You?
 All right. Hermione?
 Never better.
 Another year gone.
@@ -1528,8 +1528,8 @@ Come on, now.
 Hurry up, you'll be late.
 Train's leaving. Go on.
 Come on, hurry up.
-- Come on, Harry.
-- One minute.
+Come on, Harry.
+One minute.
 Thought you were leaving without saying goodbye, did you?
 This is for you.
 Thanks, Hagrid.

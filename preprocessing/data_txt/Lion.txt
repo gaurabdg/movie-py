@@ -25,10 +25,10 @@ Guddu, I want some jalebis!
 One day I will buy you some jalebis
 We'll buy the whole shop!
 Ha, alright
-- Which way should I go now?
-- Left, left!
-- Which way now?
-- Right, right
+Which way should I go now?
+Left, left!
+Which way now?
+Right, right
 Do you want to drink some milk?
 I got some milk!
 It's magic
@@ -44,12 +44,12 @@ Sleep... sleep
 How long will you be away for?
 You did a really good job today
 I want to come too
-- How many days?
-- I'm going for a week
-- Who's going to look after Shekila?
-- Kallu will be here
-- You're too small to lift bales
-- I can lift anything
+How many days?
+I'm going for a week
+Who's going to look after Shekila?
+Kallu will be here
+You're too small to lift bales
+I can lift anything
 Guddu!
 Can I come too?
 You're too small, you can't do this
@@ -61,14 +61,14 @@ I can lift this
 Okay, fine
 Hey, Guddu!
 Hey! How are you, Shankar?
-- Saroo, come on, wake up now!
-- I want to sleep
-- Saroo, wake up!
-- I want to sleep
-- Saroo
-- I want to sleep
-- Saroo, wake up
-- Don't annoy me, I am sleeping
+Saroo, come on, wake up now!
+I want to sleep
+Saroo, wake up!
+I want to sleep
+Saroo
+I want to sleep
+Saroo, wake up
+Don't annoy me, I am sleeping
 It's my fault, I brought you here
 You're too young for the night work
 It's so late you will never be able to work
@@ -80,8 +80,8 @@ Guddu?
 Guddu!
 Just bring back a hundred jalebis
 You want jalebis?
-- Bring me two thousand jalebis!
-- Jalebis?
+Bring me two thousand jalebis!
+Jalebis?
 Just wait there, don't go anywhere
 Guddu?
 Guddu!
@@ -120,15 +120,15 @@ Move! What's the matter?
 You don't understand Bengali?
 Ganestalay?
 Don't walk on that you're going to fall off
-- Do you understand Hindi?
-- Yes
-- Where are you going?
-- I have to go home, I am lost
-- Did you come from this way or that w
-- I don't know which way
+Do you understand Hindi?
+Yes
+Where are you going?
+I have to go home, I am lost
+Did you come from this way or that w
+I don't know which way
 Then how will you go?
-- What's your name?
-- Saroo
+What's your name?
+Saroo
 My name is Noor
 You're hungry?
 Come on
@@ -153,8 +153,8 @@ Sleep
 Oh, my baby
 Were you sleeping?
 I wonder what worlds you've travelled
-- Are you Rama?
-- Yes, but not the God
+Are you Rama?
+Yes, but not the God
 Come and lie down
 Come closer
 Do you know? I've come to meet you from really far away and I want to take you to a really nice place
@@ -196,22 +196,22 @@ I've never heard of it
 Ganestalay
 Okay, which district is Ganestalay in?
 Which district is Ganestalay in?
-- What is your mother's name?
-- Mum
+What is your mother's name?
+Mum
 LOST
-- What's your name?
-- Amita
+What's your name?
+Amita
 This is a very bad place
 Does anybody ever leave here?
 I've seen it
-- What are you going to do once you le
-- I'm going to buy a watch
+What are you going to do once you le
+I'm going to buy a watch
 Did you write it?
 Hey, Shonedeep!
 What are you doing?
 Stop!
-- Stop! Stop right now!
-- Shonedeep!
+Stop! Stop right now!
+Shonedeep!
 Why are you being so naughty?
 Shonedeep!
 Come with me, I'm going to give you a good beating!
@@ -239,8 +239,8 @@ In all the newspapers in Calcutta
 But we haven't had a single reply
 My home is really far
 Not one reply
-- What about Mum?
-- No not even Mum
+What about Mum?
+No not even Mum
 Guddu?
 Saroo...
 We have found a family over in Austral who want to look after you
@@ -263,8 +263,8 @@ Looked everywhere
 You'll have a nice home
 Australia is a great place
 Does everybody have a napkin?
-- This is called a "serviette"
-- Serviette
+This is called a "serviette"
+Serviette
 Lay it down on your lap like this so that food doesn't fall on your clot
 So it doesn't ruin them
 I'm going to teach you how to eat using cutlery
@@ -272,8 +272,8 @@ I will ask you, and you will tell me in English what each thing is called
 What do you call this?
 Fork.
 Fork. Yes good.
-- What do you call this?
-- Nice
+What do you call this?
+Nice
 Knife.
 Good.
 And this?
@@ -285,8 +285,8 @@ Salt.
 Salt.
 Very good.
 Payper!
-- Pepper.
-- Pepper.
+Pepper.
+Pepper.
 Okay, okay.
 HOBART, AUSTRALIA
 Thank you.
@@ -300,8 +300,8 @@ Hello. Here this is for you.
 Good on the plane?
 Eh, good?
 Sue...
-- This is...
-- Mummy and...
+This is...
+Mummy and...
 Dad.
 And we're so happy to meet you.
 A boat.
@@ -323,8 +323,8 @@ Yes, pepper.
 That's right and...
 Sauce!
 Sauce?
-- Salt.
-- Salt.
+Salt.
+Salt.
 Very good.
 Hi.
 So, you've come a long way, haven't you? Hmm?
@@ -337,11 +337,11 @@ I'll always listen.
 Always.
 Stay, yeah yeah...
 Yeah, that's... that's it.
-- Go easy on me, yeah?
-- Yeah.
+Go easy on me, yeah?
+Yeah.
 Okay mate.
-- Mum... Daddy...
-- Pay attention.
+Mum... Daddy...
+Pay attention.
 Here he comes! Come on mate!
 She's out!
 Oh my gosh!
@@ -360,12 +360,12 @@ Hi.
 Hey Man...
 This is Saroo. I'm Sue...
 This is Saroo, your brother.
-- And John...
-- Hello mate!
+And John...
+Hello mate!
 Show, show Mantosh what you've done.
 He did a picture, Yeah...
-- It's been a long flight?
-- Yes, Yes, Yes.
+It's been a long flight?
+Yes, Yes, Yes.
 You must be hungry.
 We're going to get something to eat.
 Would you... like to join us?
@@ -374,17 +374,17 @@ Stop, stop, stop, stop...
 No no no, It's alright.
 I know it's Okay.
 Stop it! Stop it! Stop it! Stop!
-- Come on...
-- I know I know...
-- No no no.
-- Hey mate.
-- It's okay, Man...
-- Just play with your toys.
+Come on...
+I know I know...
+No no no.
+Hey mate.
+It's okay, Man...
+Just play with your toys.
 No, no, no, don't hit mate.
 Don't hit yourself. No no no..
 Not your head.. Not your head.
-- Come on
-- You're right, you're right...
+Come on
+You're right, you're right...
 It's okay.
 Come on, it's okay Man.
 Look, there's a boat.
@@ -393,8 +393,8 @@ I'm okay.
 Hey!
 I'm all right.
 This one.
-- We're gonna miss you.
-- Yeah.
+We're gonna miss you.
+Yeah.
 It's only Melbourne.
 Who is across the water?
 Saroo...
@@ -403,8 +403,8 @@ May this bring you all that you could wish for.
 Yeah, and then some.
 Thanks mum. Thanks dad.
 From the moment you came into our lives...
-- Mum...
-- No no no, let me finish.
+Mum...
+No no no, let me finish.
 From the moment you came into our lives...
 You were all that we could have hoped for.
 More, more than we hoped for, really.
@@ -412,20 +412,20 @@ And, er, more work, that's for sure.
 You really embraced every opportunity.
 We're very proud of you, son.
 Very proud and very excited with this next chapter in your life.
-- To success!
-- Excuse me guys?
+To success!
+Excuse me guys?
 Are you still waiting on someone?
 Or can I take this plate away?
-- Yeah, you can take it away.
-- No no no, you can leave it.
+Yeah, you can take it away.
+No no no, you can leave it.
 No, take it.
 I'd like to keep it.
 Thank you.
 You don't really think he will turn up, do you?
 No, just leave it, son.
 That's a nice one.
-- Yeah it's a good one.
-- This one's a local one.
+Yeah it's a good one.
+This one's a local one.
 Mantosh?
 Yeah...
 Sorry, I didn't meet lunch.
@@ -468,40 +468,40 @@ Okay, Saroo...
 Why did you choose this course?
 What else do you want to get out of it?
 Hi, Hey!
-- Welcome.
-- Come in. Come in.
+Welcome.
+Come in. Come in.
 Hi!
 Hi, how are you?
 Do you guys like Indian food?
 That's all we have.
 That's all we have.
-- It smells so great.
-- I tried to copy from someone...
+It smells so great.
+I tried to copy from someone...
 You've ever done Bollywood dance?
-- Oh, just like, one leg.
-- Yeah, one leg...
+Oh, just like, one leg.
+Yeah, one leg...
 Where I grew up, I say flashlight.
 What do you say?
-- Lampo de poche.
-- Lampo de poche?
-- Flashlight
-- Flashlight
-- Lampo de poche.
-- Flashlight is er...(Indian word)
+Lampo de poche.
+Lampo de poche?
+Flashlight
+Flashlight
+Lampo de poche.
+Flashlight is er...(Indian word)
 What do you say?
 Torch.
 If you want to eat with your hands, you need to use the naan, like a spoon.
-- Use a fork.
-- No, let him use the naan.
+Use a fork.
+No, let him use the naan.
 So how do you say taxi?
-- Taxi.
-- Taxi.
+Taxi.
+Taxi.
 It is the same in every language.
 Do you want a fork, Saroo?
 Yeah!
 He's like my father.
-- You want another beer?
-- Yes please, thank you.
+You want another beer?
+Yes please, thank you.
 Guddu, I want some jalebi.
 Guddu, jalebis
 Hello...
@@ -513,8 +513,8 @@ Howrah station is enormous, you must have been freaking out.
 I once went through there on a pilgrimage to Puri, and I missed my connection twice.
 And you didn't speak Bengali?
 I didn't even know it was called that.
-- How long were you on the train?
-- A couple of days.
+How long were you on the train?
+A couple of days.
 A couple of days?
 Saroo, what was your hometown again?
 Ganestlay.
@@ -538,12 +538,12 @@ Ok, even half the stations..
 Really guys,
 I don't want to talk about this.
 Did your parents try to find you?
-- What?
-- They tried to find him.
+What?
+They tried to find him.
 No I just mean like, if they tried to find him, maybe they left like a paper trail.
 What paper trail?
-- He didn't know his surname.
-- My mum couldn't read or write.
+He didn't know his surname.
+My mum couldn't read or write.
 What does she do?
 A labourer, she carried rocks.
 Your mum?
@@ -576,8 +576,8 @@ I never show anybody this.
 Okay, they're beautiful.
 I do enjoy it.
 My little hobby.
-- Oh wow, look at Mantosh!
-- Uh huh.
+Oh wow, look at Mantosh!
+Uh huh.
 I'm so glad he's coming tonight.
 Cheeky little thing.
 Pure energy.
@@ -597,31 +597,31 @@ There's plenty more in the garage.
 Hey, where you going, mate?
 Finishing my smoke.
 I can barely get him off... the couch these days.
-- Lucy!
+Lucy!
 Why can't you just tell them... what you've been up to?
-- Don't!
+Don't!
 Tell us.
 They will understand and they will support you.
 What? Come on.
 Hey, um, dinner!
 Better eat it, while it's hot.
-- You hungry?
-- Yeah.
+You hungry?
+Yeah.
 What?
 What have I missed?
 Nothing.
-- She looks upset.
-- She's not upset!
+She looks upset.
+She's not upset!
 You and I are leaving.
 Saroo knows everything.
-- He's an expert.
-- Uh oh!
+He's an expert.
+Uh oh!
 He's a manager.
 Why are you here?
 He's here because he's your brother.
 No, he's not.
-- We're different.
-- Hey, now now, Saroo!
+We're different.
+Hey, now now, Saroo!
 Saroo...
 All right.
 It's all right.
@@ -641,15 +641,15 @@ Saroo!
 Hey!
 Hey...
 Kiss me.
-- Stop, please.
-- Hey!
+Stop, please.
+Hey!
 Look at me.
 Look at me!
-- Can this wait?
-- Where are you?
+Can this wait?
+Where are you?
 Can this wait 'til we get home?
-- Yah?
-- Home?
+Yah?
+Home?
 What home?
 You mean, where I'm alone in one room and you're alone in another room?
 Come on.
@@ -734,8 +734,8 @@ We...
 We... weren't blank pages, were we?
 Like your own would have been.
 You weren't just adopting us but our past as well.
-- I feel like, we're killing you.
-- I could have had kids.
+I feel like, we're killing you.
+I could have had kids.
 What?
 We chose not to have kids.
 We wanted the two of you.
@@ -781,8 +781,8 @@ I could keep this family together.
 And now...
 Now I don't know.
 Where...
-- Mum...
-- What's happening? I don't understand.
+Mum...
+What's happening? I don't understand.
 You don't talk to me any more.
 I need you, Saroo.
 Mantosh!
@@ -809,8 +809,8 @@ I... used to...
 Can I help?
 That's me. I'm Saroo.
 I used to live here.
-- You lived here?
-- Yes I used to live here.
+You lived here?
+Yes I used to live here.
 I'm looking for Guddu,
 Kallu, Shekila.
 My mother.
@@ -840,12 +840,12 @@ Where is he?
 Guddu is no more.
 He is with God.
 Shekila.
-- Shekila
-- Shekila
+Shekila
+Shekila
 Shekila?
 Shekila?
-- Shekila?
-- He's your brother!
+Shekila?
+He's your brother!
 She's so big!
 It's me, Saroo.
 Beautiful.

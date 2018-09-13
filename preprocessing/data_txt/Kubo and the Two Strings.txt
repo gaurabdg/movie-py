@@ -80,7 +80,7 @@ Rip it to pieces.</font>
 You can't leave!</font>
 <font color="#ffff80">Kubo.</font>
 <font color="#ffff80">- Kubo.
-- Yes, Mother.</font>
+Yes, Mother.</font>
 <font color="#ffff80">I'm here.</font>
 <font color="#ffff80">Hungry?</font>
 <font color="#ffff80">And even though he could barely see</font>
@@ -494,7 +494,7 @@ I promise I won't even blink.</font>
 <font color="#ffff80">I actually don't think
 I even can blink.</font>
 <font color="#ffff80">- Do I have eyelids?
-- Fine.</font>
+Fine.</font>
 <font color="#ffff80">Walk and talk.
 Hanzo has found a path.</font>
 <font color="#ffff80">So, you used to be a toy monkey.</font>
@@ -599,7 +599,7 @@ Oh, is that right?</font>
 <font color="#ffff80">Then play louder.</font>
 <font color="#ffff80">This conversation is over. Monkeys don't swim.</font>
 <font color="#ffff80">- Not to worry. Monkey see, monkey do.
-- Oh.</font>
+Oh.</font>
 <font color="#ffff80">How long have you been waiting to say that?</font>
 <font color="#ffff80">Ever since
 I met you.</font>

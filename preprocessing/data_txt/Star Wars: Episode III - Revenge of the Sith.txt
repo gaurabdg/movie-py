@@ -1,8 +1,8 @@
 Lock onto him, R2.
 Master, General Grievous's ship is directly ahead... the one crawling with vulture droids.
 I see it. Oh, this is going to be easy.
-- Oddball, do you copy?
-- Copy, Red Leader.
+Oddball, do you copy?
+Copy, Red Leader.
 Mark my position.
 Form your squad up behind me.
 We're on your tail, General Kenobi.
@@ -10,19 +10,19 @@ Set S-foils in attack position.
 This is where the fun begins.
 Let them pass between us.
 They're all over me.
-- Get them off my...
-- I'm gonna go help them out.
+Get them off my...
+I'm gonna go help them out.
 No. They are doing their job so we can do ours.
 Missiles. Pull up.
-- They overshot us.
-- They're coming around.
+They overshot us.
+They're coming around.
 All right, R4. No, no. Nothing too fancy.
 Surge all power units, R2.
 Stand by reverse thrusters.
 We got 'em, R2.
 Flying is for droids.
-- I'm hit. Anakin?
-- I see them.
+I'm hit. Anakin?
+I see them.
 Buzz droids.
 R4, be careful. You have a...
 Oh, dear.
@@ -32,20 +32,20 @@ The mission. Get to the command ship.
 Get the chancellor.
 I'm running out of tricks here.
 In the name of...
-- Hold your fire! You're not helping.
-- I agree. Bad idea.
+Hold your fire! You're not helping.
+I agree. Bad idea.
 I can't see a thing. My cockpit's fogging.
 They're all over me. Anakin!
-- Move to the right.
-- Hold on. You'll get us both killed.
+Move to the right.
+Hold on. You'll get us both killed.
 Get out of here.
 There's nothing more you can do.
 I'm not leaving without you, Master.
 Get him, R2.
 Watch out.
 R2, hit the buzz droid's center eye.
-- Yeah, you got him!
-- Great, R2.
+Yeah, you got him!
+Great, R2.
 The general's command ship is dead ahead.
 Have you noticed the shields are still up?
 Sorry, Master.
@@ -54,8 +54,8 @@ There they are. Get them.
 R2, locate the chancellor.
 The chancellor's signal is coming from right there... the observation platform at the top of that spire.
 I sense Count Dooku.
-- I sense a trap.
-- Next move?
+I sense a trap.
+Next move?
 Spring the trap.
 R2, go back.
 I need you to stay with the ship.
@@ -65,17 +65,17 @@ Two Jedi have landed in the main hangar bay. We're tracking them.
 Just as Count Dooku predicted.
 Destroyers.
 Drop your weapons. I said drop 'em.
-- Roger.
-- Roger, roger.
+Roger.
+Roger, roger.
 Those are Jedi fighters all right.
-- Did you press the stop button?
-- No. Did you?
+Did you press the stop button?
+No. Did you?
 There's more than one way out of here.
 We don't want to get out.
 We want to get moving.
 R2, activate elevator 31174.
-- Come in, R2.
-- What that?
+Come in, R2.
+What that?
 R2, do you copy?
 R2, activate the elevator number 31174.
 Get back to work. That nothin'.
@@ -96,17 +96,17 @@ That's better.
 You stupid little astro droid.
 Oh, it's you.
 My eyes! My eyes!
-- What was that all about?
-- R2 has been...
-- No loose wire jokes.
-- Did I say anything?
-- He's trying.
-- I didn't say anything.
-- Chancellor.
-- Are you all right?
+What was that all about?
+R2 has been...
+No loose wire jokes.
+Did I say anything?
+He's trying.
+I didn't say anything.
+Chancellor.
+Are you all right?
 Count Dooku.
-- This time we will do it together.
-- I was about to say that.
+This time we will do it together.
+I was about to say that.
 Get help. You're no match for him.
 He's a Sith lord.
 Chancellor Palpatine,
@@ -137,23 +137,23 @@ Remember what you told me about your mother and the Sand People?
 Now we must leave before more security droids arrive.
 Anakin, there's no time.
 We must get off this ship before it's too late.
-- He seems to be all right.
-- Leave him, or we'll never make it.
+He seems to be all right.
+Leave him, or we'll never make it.
 His fate will be the same as ours.
 Prepare for attack!
 All batteries, fire! Fire!
 Elevator's not working.
 R2, activate elevator 3224.
-- Reverse stabilizers.
-- Reversing stabilizers.
+Reverse stabilizers.
+Reversing stabilizers.
 Magnetize! Magnetize!
 Fire the emergency booster engines.
 We're leveling out, sir.
 Easy. We're in a bit of a situation here.
-- Did I miss something?
-- Hold on.
-- What is that?
-- Oops.
+Did I miss something?
+Hold on.
+What is that?
+Oops.
 R2. R2, shut down the elevator.
 Too late. Jump!
 Let's see if we can find something in the hangar bay that's still flyable.
@@ -166,8 +166,8 @@ Ray shields.
 Wait a minute. How did this happen?
 We're smarter than this.
 Apparently not.
-- I say patience.
-- Patience?
+I say patience.
+Patience?
 Yes. R2 will be along in a few moments... and then he'll release the ray shields.
 See? No problem.
 Don't move.
@@ -176,8 +176,8 @@ Ah, yes.
 The negotiator.
 General Kenobi. We've been waiting for you.
 Excuse me.
-- That wasn't much of a rescue.
-- You're welcome.
+That wasn't much of a rescue.
+You're welcome.
 And...
 Anakin Skywalker.
 I was expecting someone with your reputation to be a little... older.
@@ -197,15 +197,15 @@ Stay at your stations!
 Get him! Get him!
 Run!
 Don't bother with them.
-- Keep the ship in orbit.
-- Yes, sir.
+Keep the ship in orbit.
+Yes, sir.
 You lose, General Kenobi.
 Get out of here! Run!
 Time to abandon ship.
 All the escape pods have been launched.
 Grievous. Can you fly a cruiser like this?
-- You mean, can I land what's left of it?
-- Well?
+You mean, can I land what's left of it?
+Well?
 Under the circumstances, I'd say the ability to pilot this thing is irrelevant.
 Strap yourselves in.
 Open all hatches.
@@ -215,15 +215,15 @@ Not to worry.
 We are still flying half a ship.
 Now we're really picking up speed.
 Eight plus 60.
-- We're in the atmosphere.
-- Grab that. Keep us level.
+We're in the atmosphere.
+Grab that. Keep us level.
 Steady.
 Easy, R2.
 Fire ships on the left and the right.
-- We'll take you in.
-- Copy that.
-- Landing strip, straight ahead.
-- We're coming in too hot.
+We'll take you in.
+Copy that.
+Landing strip, straight ahead.
+We're coming in too hot.
 Another happy landing.
 Coming, Master?
 No. I'm not brave enough for politics.
@@ -246,10 +246,10 @@ General Grievous will run and hide, as he always does. He's a coward.
 But with Count Dooku dead, he is the leader of the droid army.
 And I assure you... the senate will vote to continue the war as long as Grievous is alive.
 Then the Jedi Council will make finding Grievous our highest priority.
-- Watch it.
-- Excuse me.
-- Come along, R2.
-- The Republic cannot praise you enough.
+Watch it.
+Excuse me.
+Come along, R2.
+The Republic cannot praise you enough.
 Thank you, Senator Organa.
 It couldn't possibly be as bad as all that.
 Now there I agree with you.
@@ -257,8 +257,8 @@ In fact, I could do with a tune-up myself.
 But the fighting will continue until
 General Grievous is spare parts.
 I will do everything I can in the senate.
-- Excuse me.
-- Certainly.
+Excuse me.
+Certainly.
 Oh, Anakin.
 I've missed you, PadmÃ©.
 There were whispers that you'd been killed.
@@ -266,8 +266,8 @@ I'm all right.
 It feels like we've been apart for a lifetime.
 And it might have been, if the chancellor hadn't been kidnapped.
 I don't think they would have ever brought us back from the outer rim sieges.
-- Wait. Not here.
-- Yes, here.
+Wait. Not here.
+Yes, here.
 I'm tired of all this deception.
 I don't care if they know we're married.
 Anakin, don't say things like that.
@@ -305,8 +305,8 @@ What's bothering you?
 Nothing.
 I remember when I gave this to you.
 How long is it gonna take for us to be honest with each other?
-- It was a dream.
-- Bad?
+It was a dream.
+Bad?
 Like the ones I used to have about my mother, just before she died.
 And?
 And it was about you.
@@ -315,8 +315,8 @@ It was only a dream.
 You die in childbirth.
 And the baby?
 I don't know.
-- It was only a dream.
-- I won't let this one become real.
+It was only a dream.
+I won't let this one become real.
 This baby will change our lives.
 I doubt the queen will continue to allow me to serve in the senate.
 If the council discovers you're the father, you'll be expelled...
@@ -345,8 +345,8 @@ What must I do, Master Yoda?
 Train yourself to let go... of everything you fear to lose.
 You've missed the report on the outer rim sieges.
 I'm sorry. I was held up.
-- I have no excuse.
-- In short, they are going very well.
+I have no excuse.
+In short, they are going very well.
 Saleucami has fallen, and Master Vos has moved his troops to Boz Pity.
 What's wrong, then?
 The senate is expected to vote more executive powers to the chancellor today.
@@ -354,8 +354,8 @@ That can only mean less deliberating and more action. Is that bad?
 It'll make it easier for us to end this war.
 Be careful of your friend Palpatine.
 Be careful of what?
-- He has requested your presence.
-- What for?
+He has requested your presence.
+What for?
 He would not say.
 He didn't inform the council?
 That's unusual, isn't it?
@@ -419,8 +419,8 @@ What situation?
 The council wants you to report on all the chancellor's dealings.
 They want to know what he's up to.
 They want me to spy on the chancellor?
-- But that's treason.
-- We are at war, Anakin.
+But that's treason.
+We are at war, Anakin.
 Why didn't the council give me this assignment when we were in session?
 This assignment is not to be on record.
 The chancellor is not a bad man, Obi-Wan.
@@ -459,16 +459,16 @@ Now you're closer to the chancellor than anyone.
 Please, ask him to stop the fighting and let diplomacy resume.
 Don't ask me to do that.
 Make a motion in the senate, where that kind of a request belongs.
-- What is it?
-- Nothing.
+What is it?
+Nothing.
 Don't do this. Don't shut me out.
 Let me help you.
 Hold me.
 Like you did by the lake on Naboo.
 So long ago, when there was nothing but our love.
 No politics, no plotting, no war.
-- You wanted to see me, Chancellor.
-- Yes, Anakin.
+You wanted to see me, Chancellor.
+Yes, Anakin.
 Come closer. I have good news.
 Our clone intelligence units... have discovered the location of General Grievous.
 He's hiding in the Utapau system.
@@ -484,8 +484,8 @@ I'm not sure I understand.
 You must sense what I have come to suspect.
 The Jedi Council want control of the Republic.
 They're planning to betray me.
-- I don't think that...
-- Anakin.
+I don't think that...
+Anakin.
 Search your feelings.
 You know, don't you?
 I know they don't trust you.
@@ -499,8 +499,8 @@ I don't...
 I don't know what to say.
 Remember back to your early teachings.
 All who gain power are afraid to lose it.
-- Even the Jedi.
-- The Jedi use their power for good.
+Even the Jedi.
+The Jedi use their power for good.
 Good is a point of view, Anakin.
 The Sith and the Jedi are similar in almost every way... including their quest for greater power.
 The Sith rely on their passion for their strength.
@@ -539,12 +539,12 @@ Aye.
 Aye.
 Very well. Council adjourned.
 The droids have started up their main power generators.
-- Then now the time is, Commander.
-- Yes, sir.
+Then now the time is, Commander.
+Yes, sir.
 Charge!
 Head for cover!
-- You're gonna need me on this one.
-- I agree.
+You're gonna need me on this one.
+I agree.
 However, it may turn out just to be a wild bantha chase.
 Master.
 I've disappointed you. I haven't been very appreciative of your training.
@@ -563,8 +563,8 @@ May the Force be with you.
 Fortunately, most of the cities are concentrated on this small continent here.
 On the far side.
 I'll keep them distracted until you get there.
-- Just don't take too long.
-- Come on. When have I ever let you down?
+Just don't take too long.
+Come on. When have I ever let you down?
 Very well. The burden is on me not to destroy all the droids until you arrive.
 Save your energy.
 I can't.
@@ -583,14 +583,14 @@ I'm not the Jedi I should be.
 I want more.
 And I know I shouldn't.
 You expect too much of yourself.
-- I found a way to save you.
-- Save me?
+I found a way to save you.
+Save me?
 From my nightmares.
 Is that what's bothering you?
 I won't lose you, PadmÃ©.
 I'm not gonna die in childbirth, Ani.
-- I promise you.
-- No, I promise you.
+I promise you.
+No, I promise you.
 Greetings, young Jedi.
 What brings you to our remote sanctuary?
 Unfortunately, the war.
@@ -598,20 +598,20 @@ There's no war here... unless you brought it with you.
 With your kind permission,
 I should like some fuel... and to use your city as a base as I search nearby systems for General Grievous.
 He is here. We are being held hostage.
-- They are watching us.
-- I understand.
+They are watching us.
+I understand.
 Tenth level, thousands of battle droids.
 Tell your people to take shelter.
 If you have warriors, now is the time.
 Take the fighter back to the ship.
 Tell Cody I've made contact.
-- Is he bringing additional warriors?
-- He didn't say.
+Is he bringing additional warriors?
+He didn't say.
 It won't be long before the armies of the Republic track us here.
 I am sending you to the Mustafar system in the outer rim.
 It is a volcanic planet.
-- You will be safe there.
-- Safe?
+You will be safe there.
+Safe?
 Chancellor Palpatine managed to escape your grip, General.
 Without Count Dooku, I have doubts about your ability to keep us safe.
 Be thankful, Viceroy, you have not found yourself in my grip.
@@ -681,8 +681,8 @@ Listen to me.
 Don't continue to be a pawn of the Jedi Council.
 Ever since I've known you, you've been searching for a life... greater than that of an ordinary Jedi.
 A life of significance... of conscience.
-- Are you going to kill me?
-- I would certainly like to.
+Are you going to kill me?
+I would certainly like to.
 I know you would.
 I can feel your anger.
 It gives you focus... makes you stronger.
@@ -704,11 +704,11 @@ I think Chancellor
 Palpatine is a Sith lord.
 A Sith lord?
 Yes. The one we've been looking for.
-- How do you know this?
-- He knows the ways of the Force.
+How do you know this?
+He knows the ways of the Force.
 He's been trained to use the dark side.
-- Are you sure?
-- Absolutely.
+Are you sure?
+Absolutely.
 Then our worst fears have been realized.
 We must move quickly if the Jedi order is to survive.
 Master, the chancellor is very powerful.
@@ -716,8 +716,8 @@ You'll need my help if you're going to arrest him.
 For you own good, stay out of this affair.
 I sense a great deal of confusion in you, young Skywalker.
 There is much fear that clouds your judgment.
-- I must go, Master.
-- No.
+I must go, Master.
+No.
 If what you've told me is true, you will have gained my trust.
 But for now, remain here.
 Wait in the council chambers until we return.
@@ -728,8 +728,8 @@ I must say you're here sooner than expected.
 In the name of the Galactic Senate of the Republic... you're under arrest, Chancellor.
 Are you threatening me, Master Jedi?
 The senate will decide your fate.
-- I am the senate.
-- Not yet.
+I am the senate.
+Not yet.
 It's treason then.
 You are under arrest, my lord.
 Anakin, I told you it would come to this. I was right.
@@ -756,11 +756,11 @@ He must stand trial.
 He has control of the senate and the courts.
 He's too dangerous to be left alive.
 I'm too weak.
-- Don't kill me. Please.
-- It's not the Jedi way.
+Don't kill me. Please.
+It's not the Jedi way.
 He must live.
-- Please don't.
-- I need him.
+Please don't.
+I need him.
 Please don't!
 Power!
 Unlimited power!
@@ -828,8 +828,8 @@ What are we going to do?
 The chancellor's office indicated Master
 Anakin returned to the Jedi temple.
 Don't worry. I'm sure he'll be all right.
-- What's going on here?
-- There's been a rebellion, sir.
+What's going on here?
+There's been a rebellion, sir.
 Don't worry.
 The situation is under control.
 I'm sorry, sir. It's time for you to leave.
@@ -850,16 +850,16 @@ Move it.
 Emergency code 913.
 I have no contact on any frequency.
 Master Kenobi.
-- Repeat.
-- Master Kenobi.
+Repeat.
+Master Kenobi.
 Senator Organa. My clone troops turned on me. I need help.
 We have just rescued Master Yoda.
 It appears this ambush has happened everywhere.
 We're sending you our coordinates.
 Hush! Not so loud.
 Are you all right? I heard there was an attack on the Jedi temple.
-- You could see the smoke from here.
-- I'm fine.
+You could see the smoke from here.
+I'm fine.
 I came to see if you and the baby are safe.
 What's happening?
 The Jedi have tried to overthrow the Republic.
@@ -868,8 +868,8 @@ I saw Master Windu attempt to assassinate the chancellor myself.
 What are you gonna do?
 I will not betray the Republic.
 My loyalties lie with the chancellor... and with the senate and with you.
-- What about Obi-Wan?
-- I don't know.
+What about Obi-Wan?
+I don't know.
 Many Jedi have been killed.
 We can only hope that he's remained loyal to the chancellor.
 Anakin, I'm afraid.
@@ -893,8 +893,8 @@ That's why I went looking for Yoda.
 Have we had any contact from the temple?
 Received a coded retreat message we have.
 It requests all Jedi to return to the temple.
-- It says the war is over.
-- Then we must go back.
+It says the war is over.
+Then we must go back.
 If there are any stragglers, they will fall into the trap and be killed.
 Suggest dismantling the coded signal, do you?
 Yes, Master. There is too much at stake.
@@ -905,13 +905,13 @@ You have done well, Viceroy.
 When my new apprentice
 Darth Vader arrives... he will take care of you.
 We're receiving a message from the chancellor's office, sir.
-- Send it through.
-- Yes, sir.
+Send it through.
+Yes, sir.
 Senator Organa, the supreme chancellor requests your presence... at a special session of Congress.
-- I will be there.
-- He'll be expecting you.
-- Could be a trap.
-- I don't think so.
+I will be there.
+He'll be expecting you.
+Could be a trap.
+I don't think so.
 The chancellor will not be able to control the thousands of star systems... without keeping the senate intact.
 If a special session of
 Congress there is... easier for us to enter the Jedi temple it will be.
@@ -961,11 +961,11 @@ I do not know where the emperor has sent him.
 I don't know where to look.
 Use your feelings, Obi-Wan, and find him you will.
 When was the last time you saw him?
-- Yesterday.
-- And do you know where he is now?
+Yesterday.
+And do you know where he is now?
 PadmÃ©, I need your help.
-- He is in grave danger.
-- From the Sith?
+He is in grave danger.
+From the Sith?
 From himself.
 Anakin has turned to the dark side.
 You're wrong. How could you even say that?
@@ -984,8 +984,8 @@ He has become a very great threat.
 I can't.
 Anakin is the father, isn't he?
 I'm so sorry.
-- Milady, let me come with you.
-- There's no danger.
+Milady, let me come with you.
+There's no danger.
 The fighting's over. And this is personal.
 As you wish, milady, but
 I strongly disagree.
@@ -1001,8 +1001,8 @@ Send a message to the ships of the Trade Federation.
 All droid units must shut down immediately.
 Very good, my lord.
 I saw your ship.
-- What are you doing out here?
-- I was so worried about you.
+What are you doing out here?
+I was so worried about you.
 Obi-Wan told me terrible things.
 What things?
 He said you've turned to the dark side.
@@ -1014,8 +1014,8 @@ He knows.
 He wants to help you.
 Anakin, all I want is your love.
 Love won't save you, PadmÃ©.
-- Only my new powers can do that.
-- At what cost?
+Only my new powers can do that.
+At what cost?
 You're a good person. Don't do this.
 I won't lose you the way I lost my mother.
 I am becoming more powerful than any Jedi has ever dreamed of.
@@ -1041,8 +1041,8 @@ Because of Obi-Wan?
 Because of what you've done.
 What you plan to do.
 Stop. Stop now. Come back.
-- I love you.
-- Liar!
+I love you.
+Liar!
 You're with him!
 You brought him here to kill me.
 Let her go, Anakin.
@@ -1083,12 +1083,12 @@ As is your faith in the dark side of the Force.
 Hurry. Careful timing we will need.
 Activate your homing beacon when you're ready.
 There's no sign of his body, sir.
-- Then he is not dead.
-- Double your search.
+Then he is not dead.
+Double your search.
 Yes, sir. Right away, sir.
 Tell Captain Kagi to prepare my shuttle for immediate takeoff.
-- Yes, Master.
-- I sense Lord Vader is in danger.
+Yes, Master.
+I sense Lord Vader is in danger.
 Into exile I must go.
 Failed I have.
 I have failed you, Anakin.
@@ -1122,16 +1122,16 @@ We'll take her to the medical center.
 Quickly.
 Medically, she's completely healthy.
 For reasons we can't explain, we are losing her.
-- She's dying?
-- We don't know why.
+She's dying?
+We don't know why.
 She has lost the will to live.
 We need to operate quickly if we are to save the babies.
 Babies?
 She's carrying twins.
 Luke.
 Oh, Luke.
-- It's a girl.
-- Leia.
+It's a girl.
+Leia.
 There's good in him.
 I know.
 I know there's... still...
@@ -1163,8 +1163,8 @@ One who has returned from the netherworld of the Force.
 Your old master.
 Qui-Gon?
 How to commune with him I will teach you.
-- Captain Antilles.
-- Yes, Your Highness?
+Captain Antilles.
+Yes, Your Highness?
 I'm placing these droids in your care.
 Treat them well. Clean them up.
 Have the protocol droid's mind wiped.

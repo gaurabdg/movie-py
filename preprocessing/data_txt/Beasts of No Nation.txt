@@ -18,17 +18,17 @@ Let's go!
 Soap opera.
 Be quick!
 Please, I love you.
-- Please, I love you.
-- I don't love you.
+Please, I love you.
+I don't love you.
 But why?
-- But why?
-- Because you're not handsome. Go!
+But why?
+Because you're not handsome. Go!
 Oh, please, I beg.
-- Oh, please, I beg.
-- Don't follow me. Go!
+Oh, please, I beg.
+Don't follow me. Go!
 <i>I am having the ideas.</i>
-- Go!
-- <i>And Dike is having the talent.</i>
+Go!
+<i>And Dike is having the talent.</i>
 Dance! Dance! Dance!
 Kung fu! Kung fu!
 Kung fu! Kung fu!
@@ -58,13 +58,13 @@ Huh? Three thousand. Too much!
 Thousand five.
 Thousand five no good.
 Two thousand. Two thousand.
-- Two thousand. Two thousand.
-- Two thou.
+Two thousand. Two thousand.
+Two thou.
 Oh, no, no, no, no.
 Thousand five.
 Some food, some food.
-- Some food, some food.
-- Bring out some of your food and take it.
+Some food, some food.
+Bring out some of your food and take it.
 Uche, bring the foods and come.
 Here, take. Go!
 <i>I am a good boy from a good family.</i>
@@ -75,8 +75,8 @@ It's good.
 "B is for butterfly.
 "Sara, small..."
 "Soaring."
-- "Soaring."
-- "Soaring overhead."
+"Soaring."
+"Soaring overhead."
 Nice idea.
 <i>My father was a teacher.</i>
 Clap for him!
@@ -133,10 +133,10 @@ Then cut that one instead.
 Have your lazy friend do it.
 He's the driver. Cut that one.
 You're too small, you'll fall!
-- Shut up!
-- You shut up!
-- Go home!
-- You go home!
+Shut up!
+You shut up!
+Go home!
+You go home!
 Midget.
 Cut it.
 He wants me to fall.
@@ -266,8 +266,8 @@ Please, please, I am the Section Chief.
 This is my family. There must be space.
 No space.
 This one woman and this small-small children.
-- And the little boy?
-- Yes, him, too.
+And the little boy?
+Yes, him, too.
 Where are you thinking this woman and child would be fitted?
 They're gonna be sitting in the front with you.
 No, no, no, no, no.
@@ -278,8 +278,8 @@ I'd rather walk. I can't leave my child.
 You can't walk!
 Please, how much to fit the boy?
 Seventy thousand, no boy.
-- Seventy thousand, no boy.
-- Driver! Driver, driver!
+Seventy thousand, no boy.
+Driver! Driver, driver!
 Please, please, please.
 Hey, hey. With the boy!
 No boy. No bargaining.
@@ -336,28 +336,28 @@ Give me a rope!
 I will kill you today.
 Quiet.
 Y'all shut your mouth!
-- Y'all shut your mouth!
-- Shut your fuckin' mouth!
+Y'all shut your mouth!
+Shut your fuckin' mouth!
 Which faction do you fight for?
 No faction.
-- No faction.
-- We are not fighters.
+No faction.
+We are not fighters.
 We are from this town.
 We are protecting the stores.
 You are Native Defense Forces, hmm?
-- You are Native Defense Forces, hmm?
-- No.
+You are Native Defense Forces, hmm?
+No.
 I am the Section Chief.
 We are trying to stop the looters.
 Bring the woman.
 You are calling us looters.
-- You are calling us looters.
-- No. No. No, no, no.
+You are calling us looters.
+No. No. No, no, no.
 You fuckin' shit. Quiet!
 No, no.
 Do you know these men?
-- Do you know these men?
-- Master, master, master, please. Please.
+Do you know these men?
+Master, master, master, please. Please.
 This woman, everybody knows she's crazy.
 I don't know them.
 Master! Master, talk to her and you know that she's not right in the head.
@@ -365,8 +365,8 @@ They are not from here.
 They must be rebels.
 We are not rebels.
 We, the armed forces of the National Reformation Council, find you all to be spies.
-- No!
-- Please!
+No!
+Please!
 I sentence you to immediate and summary execution.
 Waste them.
 Run!
@@ -377,18 +377,18 @@ Kill them all!
 You! Hey!
 <i>Cease fire!</i>
 Wanna die, fucking PLF?
-- Wanna die, fucking PLF?
-- Fucking rebel.
+Wanna die, fucking PLF?
+Fucking rebel.
 Tie this fucking spongebag up.
 Hurry! Hurry!
 I'm gonna kill you, man!
-- I'm gonna kill you, man!
-- This is not the right place.
+I'm gonna kill you, man!
+This is not the right place.
 Take position.
 CO Hope, take your man.
 I'm gonna kill you.
-- I'm gonna kill you.
-- Fucking PLF!
+I'm gonna kill you.
+Fucking PLF!
 Strip those PLF soldiers!
 Strip them.
 Move, move!
@@ -404,8 +404,8 @@ Strika, untie him.
 So all of you grown men, it is Strika, the small boy, that is finding this prisoner.
 Where is Two-I-C?
 Two-I-C!
-- Two-I-C!
-- Two-I-C!
+Two-I-C!
+Two-I-C!
 Two-I-C!
 Commandant, sir!
 Two-I-C, what are we to be doing with this thing?
@@ -422,11 +422,11 @@ Why you saying a boy is nothing? Huh?
 A boy is very, very dangerous.
 You understand me?
 Very dangerous, you understand?
-- Very dangerous, you understand?
-- Yes, sir!
+Very dangerous, you understand?
+Yes, sir!
 Huh?
-- Huh?
-- Yes, sir!
+Huh?
+Yes, sir!
 Strika, are you hungry?
 Are you wanting to be eating this thing?
 Let me see your hands.
@@ -442,11 +442,11 @@ What are you doing here?
 The government army killed my father... and my big brother... and my father told me to run... into the bush.
 Everybody here is calling me Commandant.
 How does the Commandant look?
-- How does the Commandant look?
-- All right, sir!
 How does the Commandant look?
-- How does the Commandant look?
-- All right, sir!
+All right, sir!
+How does the Commandant look?
+How does the Commandant look?
+All right, sir!
 Ah.
 Now, what are they calling you?
 Agu.
@@ -454,8 +454,8 @@ Oh, you must say it like you are prouder!
 Agu.
 One more time.
 Agu.
-- Agu.
-- Uh-huh.
+Agu.
+Uh-huh.
 Well, Agu, that is what I will be calling you then, eh?
 Leave this one under my charge.
 I will be training him to be a warrior.
@@ -464,78 +464,78 @@ Is that what you want?
 You must be saying yes!
 Formation!
 Say yes!
-- Say yes!
-- Yes.
+Say yes!
+Yes.
 "Yes, sir!"
-- "Yes, sir!"
-- Yes, sir!
 "Yes, sir!"
-- "Yes, sir!"
-- Yes, sir!
-"Yes, sir!"
-- "Yes, sir!"
-- Yes, sir!
-- "Yes, sir!"
-- Yes, sir!
-One more time.
-- One more time.
-- Yes, sir!
-One more time. Mmm-hmm.
-- One more time. Mmm-hmm.
-- Yes, sir!
 Yes, sir!
-- Again.
-- Yes, sir!
+"Yes, sir!"
+"Yes, sir!"
+Yes, sir!
+"Yes, sir!"
+"Yes, sir!"
+Yes, sir!
+"Yes, sir!"
+Yes, sir!
+One more time.
+One more time.
+Yes, sir!
+One more time. Mmm-hmm.
+One more time. Mmm-hmm.
+Yes, sir!
+Yes, sir!
 Again.
-- Again.
-- Yes, sir!
-- Again.
-- Yes, sir!
+Yes, sir!
+Again.
+Again.
+Yes, sir!
+Again.
+Yes, sir!
 Rambo, give this SBU some work.
 You must carry this one.
 I saved your life. I saved your life.
 I saved your life. Go!
 Straight line, straight line!
 NDF!
-- NDF!
-- Yes, sir!
+NDF!
+Yes, sir!
 Move out.
-- Move out.
-- Soldier, move!
+Move out.
+Soldier, move!
 What are you waiting for?
 Move! Quick, quick, quick.
 Move it! Move it! Move it! Move it!
 Move! Move! Move it!
 Move out!
-- Move out!
-- Move out!
+Move out!
+Move out!
 Move, move, move, move.
 Move, move, move.
 Move it!
-- Yes, Commandant, sir!
-- Yes, sir!
-- Commandant, sir!
-- Yes, sir!
-- How our Commandant look?
-- All right, sir!
-- How our Commandant look?
-- All right, sir.
+Yes, Commandant, sir!
+Yes, sir!
+Commandant, sir!
+Yes, sir!
+How our Commandant look?
+All right, sir!
+How our Commandant look?
+All right, sir.
 How the Commandant look?
-- How the Commandant look?
-- All right, sir!
-- How our Commandant look?
-- All right, sir!
+How the Commandant look?
+All right, sir!
+How our Commandant look?
+All right, sir!
 You are now under NDF control.
 If you're willing to stay, then stay.
 But you must be initiated.
 Am I clear?
-- Am I clear?
-- Yes, sir!
+Am I clear?
+Yes, sir!
 They are not understanding me, boys.
 Show them what I'm talking about.
 Raise... Put up your fucking hands!
-- Raise... Put up your fucking hands!
-- Check them. Check them. Make sure...
+Raise... Put up your fucking hands!
+Check them. Check them. Make sure...
 Bring me the small boy.
 This way.
 CO Hope!
@@ -554,8 +554,8 @@ You're not doing nothing here.
 I carry ammunition all day.
 You! Hey! Hey! Move!
 What? What I do?
-- What? What I do?
-- Wake up!
+What? What I do?
+Wake up!
 You go back and stand on top of the chair.
 Do it!
 I said go and stand on top of the chair!
@@ -585,11 +585,11 @@ I can be finding her again.</i>
 The National Reformation Council took advantage of this instability and militarily seized power to restore UPC dominance.
 We NDF refuse to recognize this illegitimate government.
 Who are we?
-- Who are we?
-- We are NDF.
+Who are we?
+We are NDF.
 I said who are we?
-- I said who are we?
-- We are NDF!
+I said who are we?
+We are NDF!
 <i>Our very own politicians, who steal our resources</i>
 <i>and give them away for small-small dollar in exchange for private pay-offs,</i> they are spit on the constitution!
 They are spit on your rights!
@@ -597,18 +597,18 @@ They are trying to spit on your future!
 I say, who is your Supreme Commandant?
 Dada Goodblood!
 I say, who do you fight for?
-- I say, who do you fight for?
-- Dada Goodblood!
+I say, who do you fight for?
+Dada Goodblood!
 <i>In the battlefield, you not be thinking normally.</i>
 <i>Do you hear me?</i>
 <i>- Do you hear me?
-- Yes, sir!</i>
+Yes, sir!</i>
 <i>The only thing mattering is the mission of the NDF!</i>
 Am I clear?
-- Am I clear?
-- Yes, sir!
-- Soldiers, are you hearing me?
-- Yes, sir!
+Am I clear?
+Yes, sir!
+Soldiers, are you hearing me?
+Yes, sir!
 You fight and kill anyone who destroys the peace.
 Yes, sir!
 Offside, offside! That's what I saw.
@@ -617,18 +617,18 @@ Hey, stop it!
 All right, stop it!
 Native Defense Forces!
 How does your Commandant look?
-- How does your Commandant look?
-- All right, sir!
 How does your Commandant look?
-- How does your Commandant look?
-- All right, sir!
+All right, sir!
+How does your Commandant look?
+How does your Commandant look?
+All right, sir!
 What is it that has brought this big family of strangers together?
 Was it fear?
-- Was it fear?
-- No, sir!
+Was it fear?
+No, sir!
 Was it war?
-- Was it war?
-- Yes, sir!
+Was it war?
+Yes, sir!
 We were defending ourselves.
 We have to get revenge. Huh?
 We have been defending ourselves against the killings and rapings of our own people from the PLF and now from the NRC junta.
@@ -640,33 +640,33 @@ We will not wait to inherit any wealth. Huh?
 We will not wait for them to come and give it to us.
 No, sir!
 We are going to take it.
-- We are going to take it.
-- Yes, sir!
+We are going to take it.
+Yes, sir!
 We're going to take it from them.
-- We're going to take it from them.
-- Yes, sir!
+We're going to take it from them.
+Yes, sir!
 Seize it!
-- Seize it!
-- Yes, sir!
+Seize it!
+Yes, sir!
 All of you that have never been listened to before and have seen your family killed, huh, you now have something that stands for you.
 You now have something that stands for you!
 That is your defense.
 That is your defense.
 That is your family's blood.
-- That is your family's blood.
-- Yes, sir!
+That is your family's blood.
+Yes, sir!
 Victory!
-- Victory!
-- Victory!
 Victory!
-- Victory!
-- Victory!
+Victory!
+Victory!
+Victory!
+Victory!
 We are going to seize it!
-- We are going to seize it!
-- Victory!
+We are going to seize it!
 Victory!
-- Victory!
-- Victory!
+Victory!
+Victory!
+Victory!
 You are my family.
 You must die... before you are reborn.
 The spirits have blessed you... and cleansed you.
@@ -685,24 +685,24 @@ We are not to stay here.
 Don't be leaving anything for the enemy to be using.
 We are going to burn it down.
 Am I clear?
-- Am I clear?
-- Yes, sir!
+Am I clear?
+Yes, sir!
 You are dismissed.
-- You are dismissed.
-- Yes, sir. Thank you.
+You are dismissed.
+Yes, sir. Thank you.
 COs dismissed!
-- COs dismissed!
-- Thank you, sir.
+COs dismissed!
+Thank you, sir.
 All of you, pack your weapons.
 Be ready to move.
 Moving out in one hour!
 Ah-ha!
 Make sure this thing is burned.
-- The whole place!
-- Yes, sir!
+The whole place!
+Yes, sir!
 Don't make me be waiting for you, soldiers!
-- Yes, sir!
-- Yes, sir!
+Yes, sir!
+Yes, sir!
 Got all of it?
 We are leaving nothing for them to find.
 Burn it down!
@@ -771,26 +771,26 @@ You want me to die?
 Search this vehicle.
 Search all the vehicles.
 Yes, sir!
-- Yes, sir!
-- I want them disarmed.
+Yes, sir!
+I want them disarmed.
 I want them disrobed.
 I want this victory mapped.
 Map them. Map this victory.
 Controller, map them!
-- Controller, map them!
-- Yes, sir!
+Controller, map them!
+Yes, sir!
 This vehicle, all the bodies,
 I want them pockets searched.
 All of it! Search them good-good.
 Pack it up.
-- Pack it up.
-- Sir.
+Pack it up.
+Sir.
 Ah-ha!
 Go and bring me my charge.
 Agu!
 Sir! I find this.
-- Sir! I find this.
-- Why don't you open it?
+Sir! I find this.
+Why don't you open it?
 I find this.
 Oh!
 Uh-huh.
@@ -808,12 +808,12 @@ I not be a soldier.
 Please, sir.
 I'm an engineering student from the university in the capital.
 I'm supposed to be fixing the bridges,
-- not be a...
-- Shut up!
+not be a...
+Shut up!
 Shut your mouth.
 Pass me something for this guy.
-- Nah, that's too big.
-- It will be cutlass.
+Nah, that's too big.
+It will be cutlass.
 Yeah, I see.
 Does he have strength for this?
 Yeah, he is strong. You can do it.
@@ -824,11 +824,11 @@ So when you are chopping wood, lift up high-high. Up, high.
 Uh-huh!
 Then when you are ready, you come down so well-well into the flesh.
 You have chopped melon before? Melon?
-- You have chopped melon before? Melon?
-- Please, no.
+You have chopped melon before? Melon?
+Please, no.
 Well, this is not a melon.
-- Well, this is not a melon.
-- Please, no.
+Well, this is not a melon.
+Please, no.
 I said shut your mouth, huh?
 Shut your mouth.
 You are making it hard.
@@ -839,8 +839,8 @@ Huh?
 Go on.
 Go on.
 Shut up!
-- Shut up!
-- Please. Please.
+Shut up!
+Please. Please.
 Agu, go on.
 Agu!
 Please, no.
@@ -864,22 +864,22 @@ That is what you call justice. Hmm.
 <i>but I am knowing too,</i>
 <i>it is the right thing to be doing.</i>
 Tripod!
-- Tripod!
-- Yes, sir.
+Tripod!
+Yes, sir.
 This will be the Commandant's car.
 Take this fucker out.
 He is filthy.
 Two-I-C! Two-I-C!
 Give this to my charge. Huh?
 This will be the Commandant's car.
-- This will be the Commandant's car.
-- Yes, sir.
+This will be the Commandant's car.
+Yes, sir.
 If you are losing it, then I am losing you.
 Hmm!
 Uh-huh.
 This...
-- You are driving?
-- Okay to move out.
+You are driving?
+Okay to move out.
 Everyone, get ready to move out.
 Get ready to move out, Agu.
 You got this stuff from where?
@@ -897,8 +897,8 @@ Go! Go! Fast!
 Go! Go, go!
 I got you, Strika.
 Where is he?
-- Where is he?
-- Keep going, keep going.
+Where is he?
+Keep going, keep going.
 Grass cutter! Grass cutter!
 Grass cutter!
 Left, left, left.
@@ -921,8 +921,8 @@ You will see with your own eyes, gentlemen.
 Mmm-hmm.
 Commandant, sir!
 Who is this?
-- Who is this?
-- Refugees from the village, sir.
+Who is this?
+Refugees from the village, sir.
 They said the PLF and the NRC took their village three days ago.
 They killed most of the town, but they let these ones go.
 Hmm.
@@ -932,11 +932,11 @@ Look at that.
 They are cutting people's hands.
 Fucking PLF.
 Radio!
-- Radio!
-- Yes, sir.
+Radio!
+Yes, sir.
 Two-I-C!
-- Two-I-C!
-- <i>Roger, you are loud.</i>
+Two-I-C!
+<i>Roger, you are loud.</i>
 Report!
 <i>Uh, we are facing heavy fire, sir. Over.</i>
 Can you take the bridge?
@@ -944,21 +944,21 @@ It's very difficult, sir.
 Men are fighting bravely, but I don't know if we can hold too much longer. Over.
 <i>Press on!</i>
 <i>- Press on!</i>
-- Roger. We need support, sir.
+Roger. We need support, sir.
 Some of our men are injured.
 <i>The men's spirits are low.
 Sir, do you copy?</i>
 Sir?
-- Sir?
-- <i>Can you take the bridge?</i>
+Sir?
+<i>Can you take the bridge?</i>
 Copy, sir. We will reapply pressure and push for the bridge. Over.
 <i>Take the bridge!</i>
 That is your task! Mortar.
-- That is your task! Mortar.
-- Yes, sir!
+That is your task! Mortar.
+Yes, sir!
 Your ammo now!
-- Your ammo now!
-- Ammunition ready, sir!
+Your ammo now!
+Ammunition ready, sir!
 Stand by!
 Agu and Strika.
 Yes, sir!
@@ -972,14 +972,14 @@ Look, we are taking them.
 You see?
 Fire!
 See that?
-- See that?
-- Yeah.
+See that?
+Yeah.
 That is magic. Huh?
 We want to take that bridge.
 Now we are going to take that bridge.
 Formation!
-- Formation!
-- Formation!
+Formation!
+Formation!
 That bridge, we are taking it!
 Yes, sir.
 Better look me in the eyes, motherfucker.
@@ -989,35 +989,35 @@ I'm only taking the brave!
 I'm not taking the scared.
 I'm not taking no girls.
 Are you ready to fight?
-- Are you ready to fight?
-- Yes, sir!
 Are you ready to fight?
-- Are you ready to fight?
-- Yes, sir!
+Yes, sir!
+Are you ready to fight?
+Are you ready to fight?
+Yes, sir!
 You want to take that bridge?
-- You want to take that bridge?
-- Yes, sir!
+You want to take that bridge?
+Yes, sir!
 We're gonna take that fucking bridge?
-- We're gonna take that fucking bridge?
-- Yes, sir!
+We're gonna take that fucking bridge?
+Yes, sir!
 Fucking PLF!
 Fucking PLF!
 No retreat!
-- No retreat!
-- No surrender!
 No retreat!
-- No retreat!
-- No surrender!
+No surrender!
+No retreat!
+No retreat!
+No surrender!
 We're moving!
-We're moving!
-- No retreat!
-- No surrender!
 We're moving!
 No retreat!
-- No retreat!
-- No surrender!
-- Move it!
-- Move it!
+No surrender!
+We're moving!
+No retreat!
+No retreat!
+No surrender!
+Move it!
+Move it!
 Move it! Move it!
 Move it!
 Our Father, from dust we were created.
@@ -1057,23 +1057,23 @@ Keep that spirit up,</i>
 Of course, Supremo. Over.
 <i>You want to be a general, don't you, Commandant?</i>
 Yes, sir.
-- Yes, sir.
-- <i>Earn it. Over and out.</i>
+Yes, sir.
+<i>Earn it. Over and out.</i>
 Over and out.
 Agu, you fought well today.
-- Agu, you fought well today.
-- Thank you, sir.
+Agu, you fought well today.
+Thank you, sir.
 A-ha! What is this?
 Ah!
 Wow, wow, wow, wow, wow.
 Agu, you are wanting to be knowing how to be leading?
 I am happy to be following you, sir.
-- I am happy to be following you, sir.
-- That is good, because there is no learning how to be leading.
+I am happy to be following you, sir.
+That is good, because there is no learning how to be leading.
 Some people are born to be leaders, others are born to be followers, and others are just waiting to be dying.
 I'm a good follower, sir.
-- I'm a good follower, sir.
-- Agu, you are different.
+I'm a good follower, sir.
+Agu, you are different.
 You are reminding me of when I was a small boy.
 That is how I know you are going to be a leader.
 You see, even the best leader sometimes he must be knowing how to be a follower.
@@ -1089,8 +1089,8 @@ So, hmm, if it is important to him, it is important to me.
 Yes, sir.
 Because if we get that, then we can go to Taro.
 That is where your mother is, eh?
-- That is where your mother is, eh?
-- She is in the capital.
+That is where your mother is, eh?
+She is in the capital.
 Come, Agu.
 After we've been greeted by Dada Goodblood, we'll be taking the capital certainly.
 Come.
@@ -1099,11 +1099,11 @@ Thank you, sir.
 You see, I've been wanting to help you more than the others, Agu, but you cannot be telling the others how I'm helping you like this.
 It'll have to be our secret.
 You are knowing how to keep secret?
-- You are knowing how to keep secret?
-- Yes, sir.
+You are knowing how to keep secret?
+Yes, sir.
 Well, be saying it.
-- Well, be saying it.
-- I can be keeping this secret, sir.
+Well, be saying it.
+I can be keeping this secret, sir.
 I'm not punishing you, Agu.
 Mmm?
 But I do care for you.
@@ -1112,10 +1112,10 @@ Agu, kneel down.
 Be doing this thing... for me.
 They are jumping like rabbits.
 Move, move to your left.
-- Go, go. Keep going.
-- Go. Keep going.
-- Keep going.
-- Move, move.
+Go, go. Keep going.
+Go. Keep going.
+Keep going.
+Move, move.
 To your left side.
 Agu.
 Agu?
@@ -1139,8 +1139,8 @@ More protection.
 <i>Nobody is your friend where we are going.</i>
 <i>They are the enemy.</i>
 <i>They are the farmers that have fed the enemy.</i>
-- <i>The farmers' wives whose breasts...</i>
-- Agu. Agu.
+<i>The farmers' wives whose breasts...</i>
+Agu. Agu.
 <i>...have been feeding babies.</i>
 <i>Agu.</i>
 That is the nature of the land that we are going.
@@ -1162,13 +1162,13 @@ God, let us pray.
 <i>Because we are invincible.
 We are invincible!</i>
 NDF! NDF!
-- Who are we?
-- NDF, sir!
-- Who are we?
-- NDF, sir!
 Who are we?
-- Who are we?
-- NDF, sir!
+NDF, sir!
+Who are we?
+NDF, sir!
+Who are we?
+Who are we?
+NDF, sir!
 NDF, spare nobody!
 Kill them all!
 Kill them all!
@@ -1176,54 +1176,54 @@ Come on, move, NDF!
 Move, move! Move!
 <i>How the Commandant look?</i>
 <i>- How the Commandant look?
-- All right, sir!</i>
+All right, sir!</i>
 <i>I say, how the Commandant look?</i>
 <i>- I say, how the Commandant look?
-- All right, sir!</i>
+All right, sir!</i>
 <i>- How the Commandant look?
-- All right, sir!</i>
+All right, sir!</i>
 <i>I say, how the Commandant look?</i>
 <i>- I say, how the Commandant look?
-- All right, sir!</i>
+All right, sir!</i>
 <i>NDF! NDF!</i>
 <i>NDF! NDF!</i>
 <i>- Who are we?
-- NDF, sir!</i>
+NDF, sir!</i>
 <i>- Who are we?
-- NDF, sir!</i>
+NDF, sir!</i>
 <i>- Who are we?
-- NDF, sir!</i>
+NDF, sir!</i>
 <i>- Who are we?
-- NDF, sir!</i>
+NDF, sir!</i>
 <i>Agu!</i>
 Shoot them! Shoot! Shoot! Shoot!
 Commandant! Sir!
 Leave this one under my charge.
 I will be training him to be a warrior.
-- Yes, sir!
-- Yes, sir!
-- Yes, sir!
-- Yes, sir!
-- Yes, sir!
-- Yes, sir!
-- Yes, sir!
-- Again!
-- Yes, sir!
-- Again!
-Yes, sir! Yes, sir!
-- Yes, sir! Yes, sir!
-- Again!
-- Again!
-- Yes, sir!
-- Again!
-- Yes, sir!
-- Again!
-- Yes, sir!
-- Again!
-- Yes, sir!
+Yes, sir!
+Yes, sir!
+Yes, sir!
+Yes, sir!
+Yes, sir!
+Yes, sir!
+Yes, sir!
 Again!
-- Again!
-- Yes, sir!
+Yes, sir!
+Again!
+Yes, sir! Yes, sir!
+Yes, sir! Yes, sir!
+Again!
+Again!
+Yes, sir!
+Again!
+Yes, sir!
+Again!
+Yes, sir!
+Again!
+Yes, sir!
+Again!
+Again!
+Yes, sir!
 Move, move!
 Move, move, move! Move!
 Fuck!
@@ -1276,34 +1276,34 @@ A piece of RPG is hitting his temple.
 I beg you, please, don't shoot me!
 Please!
 Hey, keep your eyes down!
-- Hey, keep your eyes down!
-- Oi! Oi! Oi!
+Hey, keep your eyes down!
+Oi! Oi! Oi!
 What do we do with the civilians?
 Leave one of them alive.
 Send him up north to the next village and then the next village after that.
 Tell them that we are coming.
 It's only the beginning.
 Get on board, everybody.
-- Tripod!
-- Yes, sir.
+Tripod!
+Yes, sir.
 Take note and act accordingly.
 Strika and Agu are now part of my squad.
 Mountain View. Iron Jacket. Over.
 Get in there now! Move!
 We are proceeding to Taro with arms. Over!
 Get in!
-- Get in!
+Get in!
 <i>- Okay. Roger.</i>
 Echo, tango, alpha, 1800 hours.
 Tripod!
-- Tripod!
-- Yes, sir!
+Tripod!
+Yes, sir!
 Guns up!
 Halt! Halt!
-- Enemy or friend?
-- Friend!
-- Who are you?
-- NDF!
+Enemy or friend?
+Friend!
+Who are you?
+NDF!
 Who is your commander?
 I am.
 What kind of welcome is this?
@@ -1316,8 +1316,8 @@ Right this way.
 Fuck you!
 Victory! Victory! Victory!
 Commandant, welcome.
-- Commandant, welcome.
-- Hello, Deputy.
+Commandant, welcome.
+Hello, Deputy.
 Follow us.
 Weapons are not allowed in here.
 So you place them here.
@@ -1336,8 +1336,8 @@ I'm sorry. The Supreme Commander is so very upset to keep you waiting.
 Please, will you follow me?
 Please sit.
 What is this?
-- What is this?
-- He'll be with you shortly.
+What is this?
+He'll be with you shortly.
 Huh? Where is the water?
 Bring them water, quickly!
 Commandant.
@@ -1409,15 +1409,15 @@ I'm a soldier... not a politician.
 I will have one more night... with my men.
 Dada Goodblood.
 Move out!
-- Move out!
-- Move!
 Move out!
-- Move out!
-- Move out!
+Move!
+Move out!
+Move out!
+Move out!
 Let's go.
 Tripod.
-- Tripod.
-- Yes, sir.
+Tripod.
+Yes, sir.
 Assemble the COs and the troops and bivouac outside of town.
 I'm taking Two-I-C and the boys to all celebrate tonight.
 Yes, sir.
@@ -1429,12 +1429,12 @@ Are you hearing me?
 <i>Imagination TV.</i>
 Ha! So you come!
 Ha! Commandant! Commandant!
-- Ha! Commandant! Commandant!
-- Ah, Mama.
+Ha! Commandant! Commandant!
+Ah, Mama.
 Welcome, welcome.
 Yeah, make 'em bring something for my soldiers.
-- Okay.
-- And my own soldier.
+Okay.
+And my own soldier.
 Hey, hey...
 Bring beer. Bring soda.
 Bring whatever you have.
@@ -1444,8 +1444,8 @@ Can't you see we have guests? Hurry!
 The beer is warm.
 How is the beer warm?
 No ice.
-- No ice.
-- No ice?
+No ice.
+No ice?
 No light.
 But I am seeing light.
 No ice.
@@ -1457,8 +1457,8 @@ Negative!
 You will be staying here so we can celebrate you.
 In fact, Mama, I want you to bring a special one for my Two-I-C, who will soon be the Commandant.
 Who is your Commandant?
-- Who is your Commandant?
-- You, sir!
+Who is your Commandant?
+You, sir!
 Hmm.
 But you have one special for Two-I-C.
 No problem.
@@ -1477,8 +1477,8 @@ Ah.
 See this little yeah-yeah boy born yesterday.
 Don't mind him. Don't mind him.
 Where are the girls?
-- Where are the girls?
-- They are coming.
+Where are the girls?
+They are coming.
 We've got enough girls for the men, but no more for the little boys.
 Leave your weapons with Strika.
 Oh-ho!
@@ -1488,11 +1488,11 @@ Look at you.
 Look at you.
 Commandant. Commandant.
 You are looking very hot.
-- You are looking very hot.
-- Yeah, I miss you.
+You are looking very hot.
+Yeah, I miss you.
 Oh, you miss me. Really?
-- Oh, you miss me. Really?
-- Mmm-hmm.
+Oh, you miss me. Really?
+Mmm-hmm.
 Strika.
 SBU, be watching guard.
 Don't be watching your Commandant because you can't have what I'm having.
@@ -1505,32 +1505,32 @@ What happened to my man?
 What happened here?
 I was just playing with his gun and it just went off.
 I don't know what happened. I'm sorry.
-- I don't know what happened. I'm sorry.
-- You did this.
-- You did this.
-- Relax, relax, relax, relax!
+I don't know what happened. I'm sorry.
+You did this.
+You did this.
+Relax, relax, relax, relax!
 You did this! You did this!
 I didn't mean to.
-- You thought you were shooting me!
-- No, no, no!
+You thought you were shooting me!
+No, no, no!
 You thought it was me?
-- You thought it was me?
-- I didn't mean to. I'm so sorry.
+You thought it was me?
+I didn't mean to. I'm so sorry.
 Were you trying to kill me and you kill my soldier?
 It was an accident!
 No! Not me...
 Go!
-- Let's go. Let's go! Hey!
-- Move!
+Let's go. Let's go! Hey!
+Move!
 Pick him up! Pick him up!
 Let's go! Let's go! Let's go!
 Pick him up!
 I want you to take all their women!
-- Move! Move! Move! Move!
-- All of them!
+Move! Move! Move! Move!
+All of them!
 Move!
-- Move!
-- Let's go! Let's go! Move!
+Move!
+Let's go! Let's go! Move!
 <i>All call signs, all call signs,</i>
 <i>anyone have eyes on Iron Jacket?</i>
 <i>All call signs report visual of Iron Jacket. Over.</i>
@@ -1556,11 +1556,11 @@ This...
 This was all for nothing.
 <i>Iron Jacket, this is Mountain View.</i>
 Agu, is that you?
-- <i>Iron Jacket, where are you?</i>
-- Yes, sir.
-- <i>Do you read me? Over.</i>
-- Come.
-- Come and sit with me.
+<i>Iron Jacket, where are you?</i>
+Yes, sir.
+<i>Do you read me? Over.</i>
+Come.
+Come and sit with me.
 <i>- Iron Jacket, do you copy? Over.</i>
 <i>Iron Jacket, you are disobeying a direct...</i>
 Agu, these are very dangerous times.
@@ -1680,15 +1680,15 @@ People sick here and dying every day.
 It madness, Commander.
 Who want to stay here and die?
 I want to go!
-- I want to go!
-- I want to going!
+I want to go!
+I want to going!
 Who want to stay here and die?
 I want to go, sir!
 Me, too. I want to go, sir!
 Who want to stay here and die?
 Nobody want to stay here, sir!
-- Nobody want to stay here, sir!
-- We want to go, sir.
+Nobody want to stay here, sir!
+We want to go, sir.
 Then come and tell him how you feel.
 Come and tell him how much we are suffering here.
 Come! Everybody, come.
@@ -1722,8 +1722,8 @@ And you, Agu?
 You wanna kill Commandant?
 Hey, Agu, I want you to kill Commandant. Come.
 Push it.
-- Push it.
-- Do it.
+Push it.
+Do it.
 Come, Agu, come.
 Put it here. Here!
 A-ha! A-ha!
@@ -1742,8 +1742,8 @@ Just remember, when you are all poor and hungry you'll remember me!
 You'll remember your Commandant.
 Just go! Just go!
 Come on. Everybody, let's move!
-- Yes, sir!
-- Come on, let's go.
+Yes, sir!
+Come on, let's go.
 And know that I will be calling for you one day.
 Go and drink gunpowder tea and playing draughts.
 No, no, no. You remember me.
@@ -1758,8 +1758,8 @@ Just chop for you... your heart.
 Agu, you stay here because they don't...
 Halt! Stop there!
 Who are you?
-- Who are you?
-- NDF, sir!
+Who are you?
+NDF, sir!
 And what is your mission here?
 Surrender, sir!
 Raise up your arms!
@@ -1792,10 +1792,10 @@ Okay?
 Hey, calm down!
 This is your home!
 No, they are giving us poison there!
-- They want us to die!
-- Yes!
-- They want us to die!
-- Calm!
+They want us to die!
+Yes!
+They want us to die!
+Calm!
 <i>Preacher is tiring of this place.</i>
 <i>He's saying, "The war is not over,</i>
 <i>"and they are needing fighters like us."</i>
@@ -1806,17 +1806,17 @@ And we're soldiers, fighting is what we know.
 That's what we should do.
 Have you forgotten?
 We have food to eat.
-- We have shelter.
-- Shh!
+We have shelter.
+Shh!
 And even we learn, we learn.
-- And even we learn, we learn.
-- Yeah.
+And even we learn, we learn.
+Yeah.
 You for shut up!
 You NRC soldier, with the talk, you talk too much.
 Agu, I can't stay here. I'm leaving.
 Preacher!
-- Preacher!
-- Let's go!
+Preacher!
+Let's go!
 Randy, don't go into the bush again.
 Don't follow Preacher.
 Randy!

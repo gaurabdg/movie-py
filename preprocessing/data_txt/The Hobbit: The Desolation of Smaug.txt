@@ -1,11 +1,11 @@
 I'm dying of thirst over here.
 Come on! Come on!
-- Here you are.
-- Thank you kindly.
-- Oh, watch it!
-- Sorry, darling.
-- There you are.
-- Thank you.
+Here you are.
+Thank you kindly.
+Oh, watch it!
+Sorry, darling.
+There you are.
+Thank you.
 Master Stadle.
 Mind if I join you?
 I'll have the same.
@@ -59,10 +59,10 @@ Which is why we're going to need a burglar.
 How close is the pack?
 Too close. A couple of leagues, no more.
 But that's not the worst of it.
-- Have the Wargs picked up our scent?
-- Not yet. But they will do.
-- We have another problem.
-- Did they see you?
+Have the Wargs picked up our scent?
+Not yet. But they will do.
+We have another problem.
+Did they see you?
 They saw you.
 No, that's not it.
 What did I tell you?
@@ -93,8 +93,8 @@ Run!
 Come on, get inside.
 Open the door!
 Quickly!
-- Push!
-- Push!
+Push!
+Push!
 Dwalin!
 Come on, lads!
 What is... that?
@@ -200,8 +200,8 @@ You must stay on the path. Do not leave it.
 If you do, you'll never... find it again.
 No matter what may come, stay on... the path!
 Come on. We must reach the mountain before the sun sets on Durin's Day.
-- Durin's Day?
-- Let's go.
+Durin's Day?
+Let's go.
 It is our one chance to find the hidden door.
 The path turns this way.
 This way.
@@ -268,8 +268,8 @@ Feast! Feast!
 Feast! Feast!
 Eat them alive!
 Feast!
-- What is it?
-- What is it?
+What is it?
+What is it?
 Eat them alive!
 Fat and juicy.
 Just a... little taste.
@@ -282,8 +282,8 @@ Sting.
 That's a good name.
 Sting.
 You all right there, Bofur?
-- I'm all right!
-- Get it off me!
+I'm all right!
+Get it off me!
 Where's Bilbo?
 I'm up here!
 Grab the legs!
@@ -302,16 +302,16 @@ Come on... keep up!
 We're clear!
 Do not think I won't kill you, Dwarf.
 It would be my pleasure.
-- Help!
-- Kili!
+Help!
+Kili!
 Throw me a dagger!
 Quick!
 If you think I'm giving you... a weapon, Dwarf... you're mistaken!
 Search them.
 B'ey! Give it back! That's private!
 Who is this?
-- Your brother?
-- That is... my wife!
+Your brother?
+That is... my wife!
 And what is this horrid creature?
 A Goblin-mutant?
 That's my wee lad, Gimli.
@@ -320,8 +320,8 @@ It was given to me.
 Not just a thief, but a liar as well.
 Thorin, where's Bilbo?
 Unh! This is not the end of it!
-- Do you hear me?!
-- Hey, let us out of here!
+Do you hear me?!
+Hey, let us out of here!
 Get off me!
 Aren't you going to search me?
 I could have anything down my trousers.
@@ -447,12 +447,12 @@ Not stuck in here, you're not.
 Bilbo!
 What?
 Shh! There are guards nearby!
-- Ha, ha, ha.
-- Close the doors.
-- It'll buy us more time.
-- All right, Nori.
-- Up the stairs.
-- You first.
+Ha, ha, ha.
+Close the doors.
+It'll buy us more time.
+All right, Nori.
+Up the stairs.
+You first.
 Ori.
 Not that way.
 Down here. Follow me.
@@ -467,10 +467,10 @@ I know what I'm doing!
 Shh!
 This way! This way!
 Everyone...
-- climb into the barrels quickly.
-- Are you mad?
-- They'll find us.
-- No, no.
+climb into the barrels quickly.
+Are you mad?
+They'll find us.
+No, no.
 They won't, I promise you.
 Please, please. You must trust me.
 Do as he says.
@@ -528,8 +528,8 @@ A commander of legions.
 The Enemy is preparing for war.
 It will begin in the East.
 His mind is set upon that mountain.
-- Where are you going?
-- To rejoin the others.
+Where are you going?
+To rejoin the others.
 Gandalf.
 I started this.
 I cannot forsake them.
@@ -537,13 +537,13 @@ They are in grave danger.
 If what you say is true... the world is in grave danger.
 The power in that fortress will only grow stronger.
 You want me to cast my friends aside?
-- Anything behind us?
-- Not that I can see.
-- I think we've outrun the Orcs.
-- Not for long. We've lost the current.
+Anything behind us?
+Not that I can see.
+I think we've outrun the Orcs.
+Not for long. We've lost the current.
 Bombur's half drowned.
-- Make for the shore!
-- Aye.
+Make for the shore!
+Aye.
 Come on, let's go!
 Gloin, help me, my brother.
 Come on, lift yourself.
@@ -558,8 +558,8 @@ We keep moving.
 To where?
 To the mountain. We're so close.
 A lake lies between us and that mountain.
-- We have no way to cross it.
-- So then we go around.
+We have no way to cross it.
+So then we go around.
 The Orcs will run us down, as sure as daylight.
 We've no weapons to defend ourselves.
 Bind his leg, quickly.
@@ -657,8 +657,8 @@ If I wanted to drown you...
 I would not do it here.
 Oh, I've had enough of this lippy Lakeman.
 I say we throw him over the side and be done with it.
-- Bard, his name's Bard.
-- How do you know?
+Bard, his name's Bard.
+How do you know?
 Uh, I asked him.
 I don't care what he calls himself.
 I don't like him.
@@ -671,15 +671,15 @@ There's... just a wee problem.
 We're 10 coins short.
 Gloin.
 Come on.
-- Give us what you have.
-- Don't look to me.
+Give us what you have.
+Don't look to me.
 I have been bled dry... by this venture.
 What have I seen... for my investment?
 Naught but misery and... grief and...
 Bless my beard.
 Take it.
-- Take all of it.
-- Ahem.
+Take all of it.
+Ahem.
 The money, quick. Give it to me.
 We will pay you when we get our provisions but not before.
 If you value your freedom, you'll do as I say.
@@ -688,8 +688,8 @@ What's he doing?
 He's talking to someone.
 He's pointing right at us.
 Now they're... shaking hands.
-- What?
-- The villain.
+What?
+The villain.
 He's selling us out.
 Quiet.
 We're approaching the tollgate.
@@ -715,8 +715,8 @@ Oh, come on, Alfrid, have a heart.
 People need to eat.
 These fish are illegal.
 Empty the barrels...
-- ...over the side.
-- You heard him. In the canal.
+...over the side.
+You heard him. In the canal.
 Come on. Get a move on.
 Folk in this town are struggling.
 Times are hard.
@@ -829,8 +829,8 @@ Then this quest has been for nothing.
 What is this?
 Pike hook.
 Made from an old harpoon.
-- And this?
-- A crowbill, we call it.
+And this?
+A crowbill, we call it.
 Fashioned from a smithy's hammer.
 It's heavy in hand, I grant... but in defense of your life, these will serve you better than none.
 We paid... you for weapons.
@@ -841,8 +841,8 @@ All iron-forged weapons are held there under lock and key.
 Thorin... why not take what's... on offer and go?
 I've made do with less.
 So have you.
-- I say we leave now.
-- You're not going anywhere.
+I say we leave now.
+You're not going anywhere.
 What did you say?
 There are spies watching this house... and probably every dock and wharf in the town.
 You must wait... till nightfall.
@@ -877,8 +877,8 @@ I tell you. Appeared... out of nowhere.
 Full beards. Fierce eyes.
 I've never seen the like.
 What are Dwarves doing in these parts?
-- It's the prophecy.
-- The prophecy?
+It's the prophecy.
+The prophecy?
 The Prophecy of Durin's Folk.
 Prophecy.
 Prophecy.
@@ -897,8 +897,8 @@ Has the lord of silver fountains returned?
 <i>And the lake will shine and burn</i>
 Da, I tried to stop them.
 How long have they been gone?
-- Can you see anything?
-- Shh! Keep it down.
+Can you see anything?
+Shh! Keep it down.
 As soon as we have the weapons, we make straight for the mountain.
 Go, go!
 Go, Nori.
@@ -912,8 +912,8 @@ Get off me! Get off!
 Move them along here.
 Move on!
 What is the meaning of this?
-- We caught them stealing weapons, sire.
-- Ah.
+We caught them stealing weapons, sire.
+Ah.
 Enemies of the state, eh?
 A desperate bunch of... mercenaries, if ever there was, sire.
 Hold your tongue!
@@ -964,8 +964,8 @@ Welcome!
 And thrice... welcome...
 King Under the Mountain!
 You do know we're one short. Where's Bofur?
-- If he's not here, we leave him behind.
-- We'll have to.
+If he's not here, we leave him behind.
+We'll have to.
 If we're to find the door before nightfall, we can risk no more delays.
 Not you.
 We must travel at speed.
@@ -985,7 +985,7 @@ Uncle.
 We grew up on tales of the mountain.
 Tales you told us.
 You cannot take that away... from him!
-- Fili.
+Fili.
 I will carry him if I must!
 One day you will be king and you will understand.
 I cannot risk the fate of this quest for the sake of one Dwarf.
@@ -995,8 +995,8 @@ You belong with the company.
 I belong with my brother.
 By my beard, is that the time?! Ah!
 Go now with our goodwill... and good wishes.
-- And may your return bring good fortune...
-- Wait! to all!
+And may your return bring good fortune...
+Wait! to all!
 Good bye.
 Out of the way!
 No! No!
@@ -1016,8 +1016,8 @@ We must find the hidden door into the mountain before it sets.
 This way.
 Wait. Is this the overlook?
 Gandalf said to meet him here.
-- On no account were we to...
-- Do you see him?
+On no account were we to...
+Do you see him?
 We have no time... to wait upon the Wizard.
 We're on our own. Come!
 Dol Guldur.
@@ -1054,8 +1054,8 @@ Be quiet! I can't hear when you're thumping.
 I can't find it.
 It's not here!
 It's not here!
-- Break it down!
-- Aye.
+Break it down!
+Aye.
 Come on!
 Break!
 It has to break.
@@ -1074,8 +1074,8 @@ There's no more to be done.
 We had but... one chance.
 Come away, lads.
 It's over.
-- Wait a minute.
-- We're too late.
+Wait a minute.
+We're too late.
 Where are they going?
 You can't give up now!
 Thorin.
@@ -1256,19 +1256,19 @@ Once I'm at the top of the tower,
 I'll set the arrow to the bow.
 There he is!
 Bard!
-- After him!
-- Quickly! Down there. Go!
+After him!
+Quickly! Down there. Go!
 Stop him!
 Stop him!
 Stop!
 Bain! Bain.
 Keep it safe. Don't let anyone find it. I'll deal with them.
-- I'm not leaving you.
-- Now go!
+I'm not leaving you.
+Now go!
 Braga.
 You're under arrest.
-- On what charge?
-- Any charge the Master chooses.
+On what charge?
+Any charge the Master chooses.
 Where's he gone?
 What about Bilbo?
 Give him more time.
@@ -1322,8 +1322,8 @@ I think our little game ends here.
 So tell me... thief... how do you choose to die?
 Nah.
 Da? Is that you, Da?
-- Aah!
-- Stay down!
+Aah!
+Stay down!
 Get down!
 You killed them all.
 There are others.
@@ -1335,8 +1335,8 @@ Athelas.
 Athelas.
 What are you doing?
 I'm going to save him.
-- You're alive!
-- Not for much longer.
+You're alive!
+Not for much longer.
 Did you find the Arkenstone?
 The Arkenstone.
 The dragon's coming.
@@ -1345,8 +1345,8 @@ We have to get out.
 Thorin.
 Thorin.
 You will burn!
-- Run!
-- Ah!
+Run!
+Ah!
 Come on, Bilbo!
 Come on.
 Hold him down.
@@ -1359,8 +1359,8 @@ So where to now?
 The western guardroom.
 There may be a way out.
 It's too high. There's no chance...
-- that way.
-- It's our only chance.
+that way.
+It's our only chance.
 We have to try.
 Come on.
 I've heard tell of the wonders of Elvish medicine.
@@ -1407,8 +1407,8 @@ This way. It's this way!
 Come on!
 Thorin!
 Follow Balin!
-- Thorin.
-- Come on!
+Thorin.
+Come on!
 Thorin!
 Hold on!
 Thorin!

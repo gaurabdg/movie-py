@@ -18,10 +18,10 @@ But it's not the worst.
 Parents believe a hideous name will frighten off gnomes and trolls.
 Like our charming Viking demeanor wouldn't do that.
 Morning!
-- What are you doing here?!
-- Get inside!
-- What are you doing out?!
-- Get back inside!
+What are you doing here?!
+Get inside!
+What are you doing out?!
+Get back inside!
 Hiccup! What is he doing?
 What are you doing out?! Get inside!
 That's Stoick the Vast, chief of the tribe.
@@ -30,8 +30,8 @@ Do I believe it? Yes, I do.
 What have we got?
 Gronckles. Nadders. Zipplebacks.
 Hoark saw a Monstrous Nightmare.
-- Any Night Furies?
-- None so far.
+Any Night Furies?
+None so far.
 Good.
 Hoist the torches!
 Nice of you to join the party!
@@ -64,8 +64,8 @@ You can't swing an axe.
 You can't even throw one of these!
 OK, fine, but this will throw it for me.
 See? Now this right here is what I'm talking about!
-- Mild calibration issue...
-- Hiccup!
+Mild calibration issue...
+Hiccup!
 If you ever want to get out there to fight dragons...
 ...you need to stop all this.
 But you just pointed to all of me.
@@ -87,15 +87,15 @@ A Zippleback?
 Exotic. Two heads, twice the status.
 They found the sheep!
 Concentrate fire over the lower bank.
-- Hurry up!
-- Fire!
+Hurry up!
+Fire!
 And then there's the Monstrous Nightmare.
 Only the best Vikings go after those.
 They have this nasty habit of setting themselves on fire.
 Reload! I'll take care of this.
 But the ultimate prize is the dragon no one's ever seen.
-- We call it the...
-- Night Fury!
+We call it the...
+Night Fury!
 Get down!
 Jump!
 This thing never steals food, never shows itself and...
@@ -106,10 +106,10 @@ Man the fort, Hiccup.
 They need me out there.
 Stay. Put. There.
 You know what I mean.
-- Where are you going?
-- Yeah, I know!
-- Hiccup!
-- Be right back!
+Where are you going?
+Yeah, I know!
+Hiccup!
+Be right back!
 Let's get him!
 Mind yourselves!
 The devils still have some juice in them!
@@ -117,8 +117,8 @@ Come on. Give me something to shoot at. Give me something to shoot at.
 I hit it. Yes, I hit it!
 Did anybody see that?
 Except for you.
-- Do not let them escape!
-- Right!
+Do not let them escape!
+Right!
 You're all out.
 Oh, and there's one more thing you need to know.
 Sorry, Dad.
@@ -148,10 +148,10 @@ I have his mess to clean up.
 Quite the performance.
 I've never seen anyone mess up that badly. That helped.
 Thank you, thank you. I was trying.
-- I really did hit one.
-- Sure, Hiccup.
-- He never listens.
-- It runs in the family.
+I really did hit one.
+Sure, Hiccup.
+He never listens.
+It runs in the family.
 When he does, it's with this disappointed scowl, like someone skimped on meat in his sandwich.
 "Excuse me, barmaid.
 You brought me the wrong offspring.
@@ -170,11 +170,11 @@ One more search before the ice sets in.
 Those ships never come back.
 We're Vikings. It's an occupational hazard. Now who's with me?!
 Count me out.
-- Today's no good for me.
-- I have to do my axe returns.
+Today's no good for me.
+I have to do my axe returns.
 All right. Those who stay will look after Hiccup.
-- To the ships!
-- I'm with you!
+To the ships!
+I'm with you!
 That's more like it.
 I'll pack my undies.
 No, I need you to stay and train some new recruits.
@@ -184,13 +184,13 @@ Molten steel, razor-sharp blades, lots of time to himself.
 What could possibly go wrong?
 What am I going to do with him, Gobber?
 Put him in training.
-- No, I'm serious.
-- So am I.
+No, I'm serious.
+So am I.
 He'd be killed before the first dragon is out of its cage.
-- You don't know that.
-- I do, actually.
-- No, you don't.
-- No, I do.
+You don't know that.
+I do, actually.
+No, you don't.
+No, I do.
 No, you don't.
 Listen, you know what he's like.
 From the time he could crawl, he's been... different.
@@ -199,12 +199,12 @@ I take him fishing and he goes hunting for trolls!
 Trolls exist. They steal your socks.
 But only the left ones.
 What's with that?
-- When I was a boy...
-- Here we go.
+When I was a boy...
+Here we go.
 ...my father told me to bang my head against a rock and I did it.
 I thought it was crazy, but I didn't question him.
-- And you know what happened?
-- You got a headache.
+And you know what happened?
+You got a headache.
 That rock split in two.
 It taught me what a Viking could do, Gobber.
 He could crush mountains, level forests, tame seas!
@@ -229,12 +229,12 @@ Hiccup.
 Dad...
 ...I have to talk to you, Dad.
 I need to speak with you, too, son.
-- I don't want to fight dragons.
-- It's time you learn to fight dragons.
-- What?
-- What?
-- You go first.
-- No, you go first.
+I don't want to fight dragons.
+It's time you learn to fight dragons.
+What?
+What?
+You go first.
+No, you go first.
 All right.
 You get your wish. Dragon training... you start in the morning.
 Oh, man, I should have gone first.
@@ -246,16 +246,16 @@ Come on. Yes, you do.
 Rephrase. Dad, I can't kill dragons.
 But you will kill dragons.
 No, I'm really very extra-sure that I won't.
-- It's time, Hiccup.
-- Can you not hear me?
+It's time, Hiccup.
+Can you not hear me?
 This is serious, son.
 When you carry this axe, you carry all of us with you.
 Which means you walk like us, you talk like us...
 ...you think like us.
 No more of... this.
 You just gestured to all of me.
-- Deal?
-- This conversation is very one-sided.
+Deal?
+This conversation is very one-sided.
 Deal?
 Deal.
 Good.
@@ -279,14 +279,14 @@ Don't worry. You're small and weak... that'll make you less of a target.
 They'll see you as sick or insane and go after the more
 Viking-like teens instead.
 Behind these doors are just a few of the many species you will learn to fight!
-- The Deadly Nadder!
-- Speed 8, armor 16.
+The Deadly Nadder!
+Speed 8, armor 16.
 The Hideous Zippleback.
 Plus 11 stealth. Times 2.
-- The Monstrous Nightmare.
-- Firepower 15.
-- The Terrible Terror.
-- Attack 8, venom 12.
+The Monstrous Nightmare.
+Firepower 15.
+The Terrible Terror.
+Attack 8, venom 12.
 Can you stop that?!
 And the Gronckle.
 Jaw strength 8.
@@ -296,24 +296,24 @@ Today is about survival.
 If you get blasted...
 ...you're dead!
 What's the first thing you'll need?
-- A doctor?
-- Plus 5 speed?
-- A shield.
-- Shields. Go!
+A doctor?
+Plus 5 speed?
+A shield.
+Shields. Go!
 Your most important piece of equipment is your shield!
 If you must choose between a sword or a shield, take the shield!
-- Let go of my shield!
-- There are a million shields!
+Let go of my shield!
+There are a million shields!
 Take that one. It has a flower... girls like flowers.
 Oops, this one has blood on it.
-- Tuffnut, Ruffnut! You're out!
-- What?
+Tuffnut, Ruffnut! You're out!
+What?
 Shields are good for another thing.
 Noise! Make lots of it to throw off a dragon's aim!
 All dragons have a limited number of shots.
 How many does a Gronckle have?
-- Five?
-- No, six!
+Five?
+No, six!
 Correct, six!
 That's one for each of you!
 Fishlegs, out!
@@ -336,14 +336,14 @@ Why don't you just fly away?
 All right, where did Astrid go wrong in the ring today?
 I mistimed my somersault dive.
 It was sloppy.
-- It threw off my reverse tumble.
-- Yeah, we noticed.
+It threw off my reverse tumble.
+Yeah, we noticed.
 No, no, you were great.
 That was so "Astrid."
 She's right. You have to be tough on yourselves.
 Where did Hiccup go wrong?
-- He showed up.
-- He didn't get eaten.
+He showed up.
+He didn't get eaten.
 He's never where he should be.
 Thank you, Astrid.
 You need to live and breathe this stuff. The dragon manual.
@@ -355,12 +355,12 @@ Why read words when you can just kill the stuff the words tell you stuff about?
 I've read it seven times.
 There's this water dragon that sprays boiling water at your face. And there's this other one...
 Yeah. That sounds great.
-- There was a chance I'd read it...
-- But now...
+There was a chance I'd read it...
+But now...
 You guys read. I'll go kill stuff.
 Another one has spines like trees.
-- So I guess we'll share?
-- Read it.
+So I guess we'll share?
+Read it.
 All mine, then. Wow.
 So, OK, I'll see you...
 ...tomorrow.
@@ -414,8 +414,8 @@ Blind spot, yes.
 Deaf spot, not so much.
 Hey, so, how would one sneak up on a Night Fury?
 No one's ever met one and lived to tell the tale. Get in there!
-- I know, I know, but hypothetically...
-- Hiccup!
+I know, I know, but hypothetically...
+Hiccup!
 Get down.
 Watch out, babe.
 I'll take care of this.
@@ -524,18 +524,18 @@ Astrid. Hey.
 Hi, Astrid. Hi, Astrid. Hi, Astrid.
 I normally don't care what people do, but you're acting weird.
 Well, weirder.
-- I trust you found the nest, at least?
-- Not even close.
+I trust you found the nest, at least?
+Not even close.
 Excellent.
 I hope you had more success than me.
 Well, if by success, you mean that your parenting troubles are over, yes.
 Congratulations, Stoick!
 Everyone is so relieved!
 Out with the old and in with the new, right?
-- No one will miss that nuisance!
-- We're throwing a party to celebrate!
-- Come over here.
-- Hurry!
+No one will miss that nuisance!
+We're throwing a party to celebrate!
+Come over here.
+Hurry!
 He's gone?
 Most afternoons, but who can blame him? The life of a celebrity's rough.
 He can barely walk through the village without being swarmed by his new fans.
@@ -571,8 +571,8 @@ Everything we know about you guys is wrong.
 Dad! You're back!
 Gobber's not here so...
 I know.
-- I came looking for you.
-- You did?
+I came looking for you.
+You did?
 You've been keeping secrets.
 I have?
 Just how long did you think you could hide it?
@@ -586,8 +586,8 @@ I was going to tell you.
 I just didn't know how to...
 You're not upset?
 What?! I was hoping for this!
-- You were?
-- And believe me, it only gets better!
+You were?
+And believe me, it only gets better!
 Wait till you spill a Nadder's guts the first time!
 And mount your first
 Gronckle head on a spear!
@@ -608,25 +608,25 @@ Matching set.
 It keeps her close, you know.
 Wear it proudly. You deserve it.
 You've held up your end of the deal.
-- I should really get to bed.
-- Yes, good. OK, good talk.
-- I'll see you back at the house. Great.
-- We should do this again.
+I should really get to bed.
+Yes, good. OK, good talk.
+I'll see you back at the house. Great.
+We should do this again.
 Thanks for stopping by...
 ...and for the breast hat.
-- I hope you like the hat.
+I hope you like the hat.
 Well... Yep. Good night.
 Stay out of my way!
 I'm winning this thing.
 Please, by all means.
 This time, this time for sure!
 No! No, son of a half-troll,
-- rat-eating, munge-bucket!
-- Wait, wait.
-- So, later.
-- Not so fast.
-- I'm kind of late for...
-- What?!
+rat-eating, munge-bucket!
+Wait, wait.
+So, later.
+Not so fast.
+I'm kind of late for...
+What?!
 Late for what, exactly?
 Quiet down! The elder has decided.
 You've done it, Hiccup!
@@ -699,8 +699,8 @@ Don't remind me.
 Toothless, what's happening?
 What is it?
 Get down!
-- What's going on?
-- I don't know.
+What's going on?
+I don't know.
 Toothless, you gotta get us out of here, bud.
 It looks like they're hauling in their kill.
 What does that make us?
@@ -737,8 +737,8 @@ And no one is more surprised or more proud than I am.
 Today, my boy becomes a Viking.
 Today, he becomes one of us!
 Be careful with that dragon.
-- It's not the dragon I'm worried about.
-- What are you going to do?
+It's not the dragon I'm worried about.
+What are you going to do?
 Put an end to this. I have to try.
 Astrid, if something goes wrong, just make sure they don't find Toothless.
 I will. Just promise me it won't go wrong.
@@ -752,8 +752,8 @@ What is he doing?
 Hey, it's OK. It's OK.
 I'm not one of them.
 What's he thinking?
-- Stop the fight.
-- No!
+Stop the fight.
+No!
 I need you all to see this.
 They're not what we think they are.
 We don't have to kill them.
@@ -776,8 +776,8 @@ Please don't hurt him.
 Put it with the others.
 I should have known.
 I should have seen the signs.
-- Dad?
-- We had a deal!
+Dad?
+We had a deal!
 I know we did. That was before...
 It's all so messed up.
 So everything in the ring, a trick? A lie?
@@ -796,8 +796,8 @@ If they don't bring enough food back, they'll be eaten themselves.
 There's something else on their island. It's a dragon like...
 Their island?
 So you've been to the nest?
-- Did I say nest?
-- How did you find it?
+Did I say nest?
+How did you find it?
 What? No, I didn't. Toothless did.
 Only a dragon can find the island.
 No, no, no. No, Dad.
@@ -821,13 +821,13 @@ You've lost everything:
 Your father, your tribe, your best friend.
 Thank you for summing that up.
 Why couldn't I have killed that dragon when I found him in the woods?
-- Would have been better for everyone.
-- Yep. The rest of us would've done it.
+Would have been better for everyone.
+Yep. The rest of us would've done it.
 So why didn't you?
-- Why didn't you?
-- I don't know.
-- I couldn't.
-- That's not an answer.
+Why didn't you?
+I don't know.
+I couldn't.
+That's not an answer.
 Why is this so important to you all of a sudden?
 Because I want to remember what you say right now.
 For the love of... I was a coward.
@@ -842,18 +842,18 @@ I wouldn't kill him because he looked as frightened as I was.
 I looked at him and I saw myself.
 I bet he's really frightened now.
 What are you going to do about it?
-- Probably something stupid.
-- Good, but you've already done that.
+Probably something stupid.
+Good, but you've already done that.
 Then something crazy.
 That's more like it.
 Sound your positions.
 Stay within earshot.
-- Here!
-- One length to your stern.
+Here!
+One length to your stern.
 Listen, Stoick, I was overhearing some of the men and, well, some of them are wondering what it is we're up to here. Not me, of course.
 I know you're always the man with the plan. But some, not me, are wondering if there is in fact a plan at all
-- and what it might be.
-- Find the nest and take it.
+and what it might be.
+Find the nest and take it.
 Of course. Send them running.
 The old Viking fallback.
 Nice and simple.
@@ -863,16 +863,16 @@ If you're planning on getting eaten,
 I'd definitely go with the Gronckle.
 You were wise to seek help from the world's most deadly weapon.
 It's me.
-- I love this plan.
-- I didn't...
+I love this plan.
+I didn't...
 You're crazy. I like that.
 So, what is the plan?
 That's not really encouraging.
 I was wondering where that went.
 Stay low and ready your weapons.
 We're here.
-- Wait! What are you?
-- Relax.
+Wait! What are you?
+Relax.
 It's OK. It's OK.
 Where are you going?
 You'll need something to help you hold on.
@@ -888,17 +888,17 @@ Get clear!
 Beard of Thor! What is that?!
 Odin help us.
 Catapults!
-- Get to the ships!
-- No! No!
-- Smart, that one.
-- I was a fool.
+Get to the ships!
+No! No!
+Smart, that one.
+I was a fool.
 Lead the men to the far side of the island!
 Gobber, go with the men!
 I think I'll stay, in case your thinking of doing something crazy.
 I can buy them a few minutes if I give that thing someone to hunt!
 Then I can double that time.
-- Here!
-- Oh, no! Here!
+Here!
+Oh, no! Here!
 Come on! Fight me!
 No, me!
 Ruff, Tuff! Watch your backs!
@@ -907,8 +907,8 @@ Look at us! We're on a dragon.
 We're on dragons! All of us!
 Up! Let's move it!
 Every bit the boar-headed stubborn Viking you ever were!
-- Fishlegs, break it down!
-- OK.
+Fishlegs, break it down!
+OK.
 Heavily armored skull and tail made for bashing and crushing!
 Steer clear of both. Small eyes, large nostrils! Relies on hearing and smell!
 OK, Lout, Legs! Hang in its blind spot, make noise, keep it confused!
@@ -918,17 +918,17 @@ Since when?! Everyone knows
 I'm more irritating! See.
 Just do what I told you!
 I'll be back as soon as I can!
-- Don't worry! We got it covered!
-- Yeah!
-- Troll!
-- Butt elf!
+Don't worry! We got it covered!
+Yeah!
+Troll!
+Butt elf!
 Bride of Grendel!
 This thing doesn't have a blind spot!
 There!
 Go help the others!
 OK, hold on. Hold on.
-- It's working!
-- Yeah, it's working!
+It's working!
+Yeah, it's working!
 I've lost power on the Gronckle!
 Snotlout, do something!
 I'm OK!
@@ -948,13 +948,13 @@ I'm proud to call you my son.
 Thanks, Dad.
 He's up!
 Get Snotlout out of there.
-- I'm on it!
-- I'm on it first!
-- Hey, let me drive!
-- I'm ahead of you.
+I'm on it!
+I'm on it first!
+Hey, let me drive!
+I'm ahead of you.
 No, this way.
-- Don't push me!
-- I'll take your teeth out!
+Don't push me!
+I'll take your teeth out!
 I can't believe that worked!
 Night Fury!
 Get down!
@@ -996,8 +996,8 @@ What? OK, OK.
 Toothless, no. No, Toothless.
 Toothless! Oh, come on.
 OK. Thanks, bud.
-- Toothless, stay here.
-- Come on, guys. Get ready!
+Toothless, stay here.
+Come on, guys. Get ready!
 Hold on tight! Here we go!
 What?
 I knew it. I'm dead.
@@ -1016,8 +1016,8 @@ That's for scaring me.
 What is it always going to be this way? 'Cause...
 ...I could get used to it.
 Welcome home.
-- Night Fury!
-- Get down!
+Night Fury!
+Get down!
 You ready?
 This is Berk.
 It snows nine months of the year and hails the other three.

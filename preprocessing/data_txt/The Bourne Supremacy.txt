@@ -90,8 +90,8 @@ In just six years,
 Gretkov has turned Pecos into an oil empire, which in turn...
 He's Become one of the wealthiest men in Russia, after consolidating drilling rights in the Caspian Sea and gaining control of one of the...
 MARIE: How much?
-- Good morning, sir.
-- Morning.
+Good morning, sir.
+Morning.
 KIRILL: He is my friend. There's been a death in the family.
 And I wonder if you've seen him.
 MARIE: Hey.
@@ -147,8 +147,8 @@ MAN 1: No.
 Nobody's got it.
 We checked out every database we could access.
 But we're hooked into Langley now.
-- Run it.
-- Okay.
+Run it.
+Okay.
 PAMELA: What the hell's Treadstone?
 All right. Get me a flight.
 We're going to Langley.
@@ -209,8 +209,8 @@ What are you after, Pam?
 You wanna fry me?
 You want my desk.
 Is that it?
-- I wanna know what happened.
-- What happened?
+I wanna know what happened.
+What happened?
 ABOTT: Jason Bourne happened.
 You got the files.
 Then let's cut the crap.
@@ -233,8 +233,8 @@ PAMELA: And Bourne?
 Where is he now?
 ABBOTT: Dead in a ditch.
 Drunk in a Bar in Mogadishu.
-- Who knows.
-- I think I do.
+Who knows.
+I think I do.
 I had a deal going down in Berlin last week.
 And during the Buy, Both our case officer and the seller were killed.
 They were killed by
@@ -247,8 +247,8 @@ And were we?
 We never found out.
 We were negotiating a meet with
 Mr. Neski when he was killed.
-- By who?
-- His wife.
+By who?
+His wife.
 PAMELA: The case had gone cold until a month ago when we found a source.
 Another Russian in
 Berlin who claimed to have access to the Neski murder files.
@@ -324,8 +324,8 @@ Jason Bourne is armed and extremely dangerous.
 Last week in Berlin, he assassinated two men, one a highly experienced field officer.
 I want you to secure that area.
 I want any evidence secured, and I want it done right now.
-- Is that clear?
-- Yes, sir... Ma'am.
+Is that clear?
+Yes, sir... Ma'am.
 PAMELA: I'm getting on a plane to Berlin in 45 minutes which means you're gonna call me Back in 30.
 And when I ask you where we stand, I had better be impressed.
 Berlin? I already have a team in place there.
@@ -355,15 +355,15 @@ CRONIN: And what exactly did your job with Treadstone in Paris consist of?
 NICKY: I had two responsibilities.
 One was to coordinate logistical operations.
 The other was to monitor the health of the agents.
-- Health, meaning what?
-- Their mental health.
+Health, meaning what?
+Their mental health.
 NICKY: Because of what they had been through, they were prone to a variety of problems.
 PAMELA: What kind of problems?
 NICKY: Depression, anger, compulsive behaviors.
 They had physical symptoms.
 Headaches, sensitivity to light.
-- Amnesia?
-- Before Bourne? No.
+Amnesia?
+Before Bourne? No.
 CRONIN: The plane's ready.
 ABOTT: There's a car waiting for you.
 Good luck.
@@ -525,8 +525,8 @@ It might be Nicky.
 It will be someone.
 You're not hearing me. Bourne dead gives me nothing.
 ABOTT: Can I talk to you privately?
-- What?
-- I know how you're feeling.
+What?
+I know how you're feeling.
 You lost two men in Berlin, and you want it to mean something.
 But nothing Bourne gives you will bring your men back.
 Nothing in those files makes their sacrifice worthwhile.
@@ -599,10 +599,10 @@ NICKY: No, she's the deputy director.
 Why is she trying to kill me?
 Last week an Agency field officer tried to make a Buy off of one of her ops.
 He was trying to sell out a mole or something.
-- And?
-- And you got to him before we did.
-- I killed him?
-- You left a print.
+And?
+And you got to him before we did.
+I killed him?
+You left a print.
 And they were partial prints that trace Back to Treadstone.
 They know it was you.
 That is insane.
@@ -621,8 +621,8 @@ Abbott dragged us...
 Abbott? Who's Abbott?
 Conklin's boss.
 He shut down Treadstone.
-- Is he here in Berlin?
-- Yes.
+Is he here in Berlin?
+Yes.
 BOURNE: Did he run Treadstone?
 Did he run Treadstone?
 Yes. Conklin reported to him.
@@ -740,8 +740,8 @@ Have a nice night.
 Where?
 Brecker Hotel.
 Okay, we're there. Take the van!
-- Brecker? How far?
-- About five, six minutes.
+Brecker? How far?
+About five, six minutes.
 CONKLIN: Congratulations, soldier.
 Training is over.
 Go!
@@ -751,8 +751,8 @@ PAMELA:
 That will really work.
 What the hell's he doing here?
 Maybe he just wanted to stay the night.
-- They missed him?
-- Yeah, so far.
+They missed him?
+Yeah, so far.
 But they found Nicky.
 She's back at the Westin.
 Bourne let her go.

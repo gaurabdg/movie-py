@@ -68,26 +68,26 @@ R-31 David, Sherman Code Six at the Sixth Street Bridge and Santa Fe on electric
 <b><font color="#0080C0">(ON RADIO)</font></b> 'Ten-four, R-31 David.'
 Ugh!
 <b><font color="#0080C0">(COCKS PISTOL)</font></b>
-- <b><font color="#0080C0">(ENGINE REVVING)</font></b>
-- John!
+<b><font color="#0080C0">(ENGINE REVVING)</font></b>
+John!
 John, get in there and clean up that pigsty of yours.
 <b><font color="#0080C0">(ROCK MUSIC PLAYING)</font></b>
-- John!
-- <b><font color="#0080C0">(REVS ENGINE)</font></b>
+John!
+<b><font color="#0080C0">(REVS ENGINE)</font></b>
 Your foster parents are kind of dicks, huh?
 I swear, I have had it with that goddamn kid.
-- He won't even answer me anymore.
-- <b><font color="#804000">TODD:</font></b> Honey, move.
+He won't even answer me anymore.
+<b><font color="#804000">TODD:</font></b> Honey, move.
 Would you get off your butt and help me?
-- Todd!
-- What?
+Todd!
+What?
 He hasn't cleaned that room of his in a month.
 Well, it's an emergency. Hang on.
 I'll get right on it.
 <b><font color="#0080C0">(SIGHS)</font></b>
 <b><font color="#0080C0">(ENGINE REVVING OUTSIDE)</font></b>
-- Come on!
-- John!
+Come on!
+John!
 C'mon! Get your ass inside.
 Do what your mother tells you.
 She's not my mother, Todd.
@@ -101,8 +101,8 @@ The delusional architecture is fairly unique.
 She believes that a machine called the Terminator, which looked human, of course, was sent back through time to kill her.
 That's original.
 And also, that the father of her child was a soldier sent back to protect her.
-- No?
-- He was from the future too.
+No?
+He was from the future too.
 The year 2029, if I remember correctly.
 And here we are.
 Morning, Sarah.
@@ -116,26 +116,26 @@ Repeated escape attempts...
 Let's move on, shall we?
 Lewis.
 I don't like to see the patients disrupting their rooms like this.
-- See she takes her Thorazine.
-- Sure. I'll take care of it.
+See she takes her Thorazine.
+Sure. I'll take care of it.
 Time to take you meds, Connor.
 You take it.
 You gotta be good.
 You're up for review this afternoon.
 I'm not taking it.
-- I don't want any trouble.
-- Ain't no trouble...
+I don't want any trouble.
+Ain't no trouble...
 Yeah, zap her.
 Last call, sugar.
 Sweet dreams.
 Are you the legal guardian of John Connor?
 That's right, Officer.
 What's he done now?
-- Could I speak with him, please?
-- You could if he were here.
+Could I speak with him, please?
+You could if he were here.
 He took off on his bike this morning so he could be anywhere.
-- Do you have a photograph of John?
-- <b><font color="#804000">JANELLE:</font></b> Yeah. Hold on.
+Do you have a photograph of John?
+<b><font color="#804000">JANELLE:</font></b> Yeah. Hold on.
 You gonna tell me what this is about?
 I just need to ask him a few questions.
 He's a good-looking boy.
@@ -152,21 +152,21 @@ PIN number.
 This is taking too long.
 <b><font color="#804000">JOHN:</font></b> Go, baby. Go, baby.
 All right!
-- PIN number 9003.
-- Where'd you learn this stuff from?
+PIN number 9003.
+Where'd you learn this stuff from?
 From my mom.
 My real mom, I mean.
 Withdraw three-zero-zero bucks.
 Come on, baby. 
 Come on! Come on!
-- Yes!
-- Hey, it worked.
+Yes!
+Hey, it worked.
 All right. Easy money. Come on!
 Yes! Piece of cake.
-- Is that her?
-- Yes.
-- She's pretty cool, huh?
-- No, she's a complete psycho.
+Is that her?
+Yes.
+She's pretty cool, huh?
+No, she's a complete psycho.
 That's why she's at Pescadero.
 It's a mental institute, OK?
 She tried to blow up a computer factory, but she got shot and arrested.
@@ -180,8 +180,8 @@ Kyle?
 You're dead.
 Where's our son, Sarah?
 They took him away from me.
-- He's the target now.
-- I know!
+He's the target now.
+I know!
 He's alone.
 You have to protect him.
 I know.
@@ -189,13 +189,13 @@ You tell me how I am supposed to do that.
 He doesn't even believe me anymore.
 I've lost him.
 You're strong, Sarah.
-- Stronger than you ever thought.
-- No.
+Stronger than you ever thought.
+No.
 On your feet, soldier!
 I love you. 
 I always will.
-- I need you.
-- I'll always be with you.
+I need you.
+I'll always be with you.
 Remember the message?
 "The future is not set.
 "There is no fate but what we make for ourselves."
@@ -206,8 +206,8 @@ Kyle!
 It's like a giant strobe light, burning right to my eyes.
 Somehow I can still see.
 We know the dream's the same every night.
-- Why do I have to...
-- Please continue.
+Why do I have to...
+Please continue.
 Children look like burnt paper.
 Black.
 Not moving.
@@ -217,8 +217,8 @@ And they fly apart like leaves.
 Dreams of cataclysm, the end of the world are very common.
 <b><font color="#804000">SARAH:</font></b> It's not a dream, you moron.
 It's real.
-- I know the date it happens.
-- I'm sure it feels very real to you.
+I know the date it happens.
+I'm sure it feels very real to you.
 On August 29, 1997, it's gonna feel pretty fuckin' real to you, too!
 Anybody not wearing two-million sunblock is gonna have a real bad day. 
 Get it?
@@ -253,32 +253,32 @@ So, you don't believe any more that the company covered it up?
 No. Why would they?
 Let's try a new position right there.
 The neuronal sensors are correct, because it works.
-- Right.
-- Those neurons are all centred.
+Right.
+Those neurons are all centred.
 Maybe the inhibitor circuits failed...
 Mr Dyson?
 Mr Dyson, the materials team is running another...
-- Mr Dyson.
-- Yes?
+Mr Dyson.
+Yes?
 The materials team is running another series this afternoon.
 You have to sign for the...
 Er... it.
-- You have to sign it out.
-- OK. Come on. I'll get it.
+You have to sign it out.
+OK. Come on. I'll get it.
 Mr Dyson,
 I know I haven't been here long, but I was wondering if you could tell me,
-- I mean, if you know...
-- Know what?
+I mean, if you know...
+Know what?
 Well, if you know where "it" came from.
 I asked them that very same question once.
 You know what they told me?
 "Don't ask."
-- Good morning, Mr Dyson.
-- How's it going?
+Good morning, Mr Dyson.
+How's it going?
 Insert key.
 Left on three, two, one, turn.
-- How are the wife and kids?
-- Great. Thanks.
+How are the wife and kids?
+Great. Thanks.
 There you go.
 <b><font color="#804000">SARAH:</font></b> So, what do you think, Doctor?
 I have shown improvement, haven't I?
@@ -298,11 +298,11 @@ Not for a while.
 I don't see any choice but to recommend to the review board that you stay here for another six months.
 I'll kill you, you son of a bitch!
 <b><font color="#0080C0">(SILBERMAN CHOKING)</font></b>
-- Get her off of me!
-- You son of a bitch!
+Get her off of me!
+You son of a bitch!
 10cc of sodium amobarbital, stat!
-- You don't know what you're doing!
-- Get some restraints in here now!
+You don't know what you're doing!
+Get some restraints in here now!
 You don't know what you're doing!
 Model citizen.
 <b><font color="#0080C0">(ROCK MUSIC BLARING)</font></b>
@@ -320,18 +320,18 @@ The galleria?
 I'm gonna get some quarters.
 I'll be back, all right?
 <b><font color="#0080C0">(EXPLOSIONS, GUNFIRE)</font></b>
-- Oh, no!
-- Girls, do you know John Connor?
+Oh, no!
+Girls, do you know John Connor?
 <b><font color="#804000">GIRLS:</font></b> No.
-- Hey, do you know this guy?
-- Nah, I don't know him.
-- John.
-- Not now.
+Hey, do you know this guy?
+Nah, I don't know him.
+John.
+Not now.
 Hey, there's this cop scoping for you. Check it out.
-- He's right over there.
-- Split, man.
-- Just go.
-- Yeah.
+He's right over there.
+Split, man.
+Just go.
+Yeah.
 I saw that kid...
 Hey!
 Hey! You're not supposed to be in here!
@@ -354,10 +354,10 @@ Time out.
 Come on, stop the bike.
 Holy shit.
 Now, don't take this the wrong way.
-- But you are a Terminator, right?
-- Yes.
-- Cyberdyne Systems, Model 101.
-- No?
+But you are a Terminator, right?
+Yes.
+Cyberdyne Systems, Model 101.
+No?
 Holy shit! 
 You're really real.
 I mean...
@@ -378,37 +378,37 @@ Oh, this is deep.
 This other guy, he's a terminator like you, right?
 Not like me.
 A T-1000, advanced prototype.
-- More advanced than you are?
-- Yes. A mimetic poly-alloy.
-- What the hell does that mean?
-- Liquid metal.
+More advanced than you are?
+Yes. A mimetic poly-alloy.
+What the hell does that mean?
+Liquid metal.
 Where are we going?
 We have to get out of the city immediately and avoid the authorities.
 Listen, I got to stop by my house.
 I want to pick up some stuff.
 Negative. The T-1000 would definitely try to reacquire you there.
-- You sure?
-- I would.
+You sure?
+I would.
 Look, Todd and Janelle are dicks...
 ...but I gotta warn them.
 Shit! You got a quarter?
 <b><font color="#0080C0">(PHONE RINGING)</font></b>
-- Hello.
-- 'Janelle, it's me.'
-- John?
-- 'Yeah. ls everything all right?'
-- Are you guys OK?
-- 'Sure, honey, everything's OK.'
-- Are you all right?
-- 'Yeah, I'm fine.'
+Hello.
+'Janelle, it's me.'
+John?
+'Yeah. ls everything all right?'
+Are you guys OK?
+'Sure, honey, everything's OK.'
+Are you all right?
+'Yeah, I'm fine.'
 John, it's late.
 I was beginning to worry about you.
 If you hurry home, we can sit down and have dinner together.
 I'm making beef stew.
 Something's wrong.
 She's never this nice.
-- John, where are you?
-- <b><font color="#0080C0">(DOG BARKING)</font></b>
+John, where are you?
+<b><font color="#0080C0">(DOG BARKING)</font></b>
 What the hell is the goddamn dog barking at?
 Hey, shut up, you worthless piece of shit!
 The dog's really barking.
@@ -416,13 +416,13 @@ You were gonna tell the kid to get rid of that fucking mutt.
 <b><font color="#0080C0">(THUD)</font></b>
 John, honey, it's late.
 Please don't make me worry.
-- Could he already be there?
-- Honey, are you OK?
+Could he already be there?
+Honey, are you OK?
 <b><font color="#0080C0">(JOHN'S VOICE)</font></b> I'm right here.
 I'm fine.
 'Are you sure you're all right?'
-- <b><font color="#0080C0">(OWN VOICE)</font></b> What's the dog's name?
-- Max.
+<b><font color="#0080C0">(OWN VOICE)</font></b> What's the dog's name?
+Max.
 <b><font color="#0080C0">(JOHN'S VOICE)</font></b> Janelle, what's wrong with Wolfie?
 I can hear him barking. ls he OK?
 Wolfie's fine, honey.
@@ -440,8 +440,8 @@ It can't form complex machines.
 Guns, explosives have chemicals, moving parts.
 It doesn't work that way.
 But it can form solid metal shapes.
-- Like what?
-- Knives and stabbing weapons.
+Like what?
+Knives and stabbing weapons.
 These were taken by a video surveillance camera at the West Highland police station in 1984.
 He killed 17 police officers that night.
 Men with families...
@@ -453,8 +453,8 @@ That the foster parents have been murdered.
 We know this guy's involved.
 Doesn't that mean anything to you?
 Don't you care?
-- We're wasting our time. Let's go.
-- <b><font color="#804000">SILBERMAN:</font></b> Sorry, guys.
+We're wasting our time. Let's go.
+<b><font color="#804000">SILBERMAN:</font></b> Sorry, guys.
 She's grown more and more disconnected from reality as time goes on.
 I'm afraid she can't help us now.
 If she clears at all and can give us anything, I'll call you.
@@ -491,15 +491,15 @@ Fuck you!
 She's a priority to me!
 Goddamn it! What's your problem?
 Damn it!
-- Help! Help!
-- This does not help our mission.
+Help! Help!
+This does not help our mission.
 Get this psycho off of me! 
 Help!
 Help! I'm being kidnapped!
 Get this psycho off of me!
 Let me go!
-- Why the hell did you do that?
-- Because you told me to.
+Why the hell did you do that?
+Because you told me to.
 What?
 You have to do what I say, huh?
 That's one of my mission parameters.
@@ -508,25 +508,25 @@ Stand on one foot.
 Yes!
 Cool. My own Terminator. 
 Wow.
-- You OK, kid?
-- Take a hike, bozo.
-- Let's get outta here, man.
-- Fuck you, you little dipshit!
+You OK, kid?
+Take a hike, bozo.
+Let's get outta here, man.
+Fuck you, you little dipshit!
 Dipshit?
 Put your leg down.
-- Did you call moi dipshit?
-- Just trying to help this punk.
+Did you call moi dipshit?
+Just trying to help this punk.
 Grab this guy.
 I can't believe he called me...
 Agh! God! 
 Get him off of me!
 Now who's the dipshit, you jock douche bag?
 Get off me!
-- No!
-- <b><font color="#0080C0">(GUNSHOT)</font></b>
+No!
+<b><font color="#0080C0">(GUNSHOT)</font></b>
 Put the gun down, now!
-- Get outta here!
-- Come on. Let's split!
+Get outta here!
+Come on. Let's split!
 Jesus! You were gonna kill that guy!
 Of course. 
 I'm a Terminator.
@@ -547,8 +547,8 @@ Hm!
 <b><font color="#0080C0">(CLATTERING)</font></b>
 <b><font color="#0080C0">(CLATTERING FADES)</font></b>
 Hi!
-- You have a Sarah Connor here?
-- You're running late, aren't you?
+You have a Sarah Connor here?
+You're running late, aren't you?
 They've been in there for an hour.
 Hold on a second.
 I'll buzz you in.
@@ -556,19 +556,19 @@ Oh, here come your friends now.
 <b><font color="#0080C0">(BUZZER)</font></b>
 <b><font color="#804000">OFFICER:</font></b> Well, that was productive.
 <b><font color="#0080C0">(LOCKS DOOR)</font></b>
-- Hey, Gwen, you want some coffee?
-- <b><font color="#804000">GWEN:</font></b> No, thanks.
+Hey, Gwen, you want some coffee?
+<b><font color="#804000">GWEN:</font></b> No, thanks.
 How 'bout a beer?
 Yeah, right!
-- Hey, I got a full house.
-- <b><font color="#804000">GWEN:</font></b> That's good, Lewis.
+Hey, I got a full house.
+<b><font color="#804000">GWEN:</font></b> That's good, Lewis.
 Must be my lucky day.
 <b><font color="#0080C0">(THUD)</font></b>
 <b><font color="#0080C0">(GROANS)</font></b>
 <b><font color="#0080C0">(YAWNING)</font></b> I think you're right about number 24.
 Increase the medication to 250 milligrams.
-- Same time?
-- Mm-hmm.
+Same time?
+Mm-hmm.
 <b><font color="#0080C0">(GROANS)</font></b> You!
 You broke my arm.
 There are 215 bones in the human body.
@@ -577,19 +577,19 @@ Now, don't move.
 What are you gonna do?
 Why do we stop now?
 You gotta promise me you're not gonna kill anyone, right?
-- Right.
-- Swear?
+Right.
+Swear?
 What?
 Just put up your hand and say,
 "I swear I won't kill anyone."
-- I swear I will not kill anyone.
-- All right. Let's go.
+I swear I will not kill anyone.
+All right. Let's go.
 Visiting hours is 10:00 to 4:00,
 Monday through Friday.
 <b><font color="#0080C0">(GUNSHOTS)</font></b>
 <b><font color="#0080C0">(GROANS)</font></b>
-- What the hell are you doing?
-- You son of a bitch! You shot me!
+What the hell are you doing?
+You son of a bitch! You shot me!
 You crazy bastard!
 Don't shoot me again.
 Don't kill me.
@@ -612,16 +612,16 @@ I don't believe you can do it.
 You're already dead, Silberman.
 Everybody dies.
 You know I believe it.
-- So don't fuck with me!
-- Open the door. Open the door.
+So don't fuck with me!
+Open the door. Open the door.
 <b><font color="#0080C0">(BUZZER)</font></b>
 Back off!
 Get back!
 I'll pump him full of this shit.
 I swear!
 Don't move!
-- Drop the shit!
-- <b><font color="#804000">SILBERMAN:</font></b> Do it! Do it!
+Drop the shit!
+<b><font color="#804000">SILBERMAN:</font></b> Do it! Do it!
 Get in the office.
 On the floor, face down.
 Not you!
@@ -632,26 +632,26 @@ Get her! Get her!
 <b><font color="#0080C0">(ALARM BLARES)</font></b>
 <b><font color="#0080C0">(ALARM BLARING)</font></b>
 Sarah!
-- Hurry up! Open the door!
-- The door's locked!
+Hurry up! Open the door!
+The door's locked!
 Let's go! Open it!
 Get the other door!
-- She broke it off.
-- Open it!
+She broke it off.
+Open it!
 Let's go around! Come on!
 Move it!
 <b><font color="#0080C0">(PANTING)</font></b>
 <b><font color="#0080C0">(GASPS)</font></b>
 No!
 <b><font color="#0080C0">(SCREAMS)</font></b> No!
-- No!
-- Mom, wait!
-Mom!
-- Come back here!
-- No! No!
 No!
-- Help her!
-- Wait here.
+Mom, wait!
+Mom!
+Come back here!
+No! No!
+No!
+Help her!
+Wait here.
 Hurry UP!
 He'll kill us all!
 He'll kill us all!
@@ -685,8 +685,8 @@ Right now!
 Go!
 I'm out.
 <b><font color="#0080C0">(GUNSHOT)</font></b>
-- Come on.
-- Here.
+Come on.
+Here.
 <b><font color="#804000">TERMINATOR:</font></b> Reload.
 Last one!
 <b><font color="#804000">TERMINATOR:</font></b> Hang on.
@@ -696,10 +696,10 @@ Here, drive.
 <b><font color="#0080C0">(GUNSHOT)</font></b>
 He's not back there.
 There's nobody behind us.
-- Are you all right?
-- Yeah.
-- Can you even see anything?
-- I see everything.
+Are you all right?
+Yeah.
+Can you even see anything?
+I see everything.
 Cool.
 Come here.
 I said I was OK.
@@ -733,8 +733,8 @@ Does it hurt when you get shot?
 I sense injuries. 
 The data could be called pain.
 John, help me with the light.
-- Will these heal up?
-- Yes.
+Will these heal up?
+Yes.
 Good. If you can't pass for human, you're not much good to us.
 How long do you live,
 I mean "last", whatever?
@@ -752,14 +752,14 @@ Now open the port cover.
 Pull to break the seal.
 Good, now remove the shock damping assembly.
 You can now access the CPU.
-- Do you see it?
-- Yes.
+Do you see it?
+Yes.
 Pull the CPU by its base tap.
 Pull.
 Can you see the pin switch?
 No!
-- Out of my way, John!
-- Don't kill him!
+Out of my way, John!
+Don't kill him!
 "It", John, not "him".
 Okay, "it". 
 But we need "it".
@@ -783,8 +783,8 @@ Are we learning yet?
 We have to get as far away from the city as possible.
 Just head south.
 Keep it under 65.
-- We don't wanna be pulled over.
-- Affirmative.
+We don't wanna be pulled over.
+Affirmative.
 No, no, no. You gotta listen to the way people talk.
 You don't say "affirmative" or some shit like that.
 You say, <i>"No problemo."</i>
@@ -793,14 +793,14 @@ And if you want to shine them on, it's <i>"Hasta la vista,</i> baby."
 <b><font color="#0080C0">(MONOTONE)</font></b> <i>Hasta la vista,</i> baby.
 Yeah, or "Later, dick-wad."
 And if someone gets upset, you say, "Chill out."
-- Or you can do combinations.
-- Chill out, dick-wad.
+Or you can do combinations.
+Chill out, dick-wad.
 That's great. See?
 You're getting it.
 <i>No problemo.</i>
 <b><font color="#0080C0">(TRUCK HORN BLASTS)</font></b>
-- You got any cash?
-- I got a couple of hundred bucks.
+You got any cash?
+I got a couple of hundred bucks.
 I'll give you half.
 Mom!
 Get some food.
@@ -823,10 +823,10 @@ You could practice in front of a mirror or something.
 Want some of my fries?
 Do you need any help?
 No.
-- Got you!
-- No, you didn't!
-- Got you!
-- No, you didn't!
+Got you!
+No, you didn't!
+Got you!
+No, you didn't!
 We're not gonna make it, are we?
 People, I mean.
 It's in your nature to destroy yourselves.
@@ -839,8 +839,8 @@ Miles Bennett Dyson.
 He's the director of special projects at Cyberdyne Systems Corporation.
 Why him?
 In a few months he creates a revolutionary type of microprocessor.
-- Go on. Then what?
-- In three years,
+Go on. Then what?
+In three years,
 Cyberdyne will become the largest supplier of military computer systems.
 All Stealth bombers are upgraded with Cyberdyne computers, becoming fully unmanned.
 Afterwards, they fly with a perfect operational record.
@@ -851,8 +851,8 @@ Skynet begins to learn at a geometric rate.
 It becomes self-aware at 02:14 am
 Eastern time, August 29.
 In a panic, they try to pull the plug.
-- Skynet fights back.
-- Yes.
+Skynet fights back.
+Yes.
 It launches its missiles against the targets in Russia.
 Why attack Russia?
 Aren't they our friends now?
@@ -864,8 +864,8 @@ Want to know everything.
 What he looks like.
 Where he lives. Everything.
 Miles!
-- You going to work all day?
-- I'm sorry, baby.
+You going to work all day?
+I'm sorry, baby.
 This thing is kicking my ass.
 It's Sunday. You promised to take the kids to Raging Waters today.
 I can't. 
@@ -890,8 +890,8 @@ Your heart and your mind are in here.
 But it doesn't love you like we do.
 I'm sorry. Really.
 How about spending some time with your other babies?
-- Raging Waters?
-- Yeah!
+Raging Waters?
+Yeah!
 Wait in the car.
 <b><font color="#0080C0">(WIND HOWLING)</font></b>
 Enrique!
@@ -908,8 +908,8 @@ It's good to see you.
 Jolanda!
 Get out here, we got company.
 And bring some tequila.
-- Hey, big John. <i>Â¿CÃ³mo te va?</i>
-- What's up?
+Hey, big John. <i>Â¿CÃ³mo te va?</i>
+What's up?
 <b><font color="#0080C0">(CONTINUES IN SPANISH)</font></b>
 Who's this big guy?
 He's cool, Enrique.
@@ -930,18 +930,18 @@ I just came for my stuff.
 I need clothes, food and one of your trucks.
 How about the fillings out of my fucking teeth?
 Now, Enrique!
-- You two, you're on weapons detail.
-- Come on. Let's go.
+You two, you're on weapons detail.
+Come on. Let's go.
 One thing about my mom...
 ...she always plans ahead.
 Excellent.
 This is the best truck I got, but the starter is gone.
-- You got the time to change it out?
-- Yeah.
+You got the time to change it out?
+Yeah.
 I'm gonna wait till dark to cross the border.
 Enrique, it's dangerous for you here.
-- You get out tonight too, okay?
-- Sure.
+You get out tonight too, okay?
+Sure.
 Just drop by any time and totally fuck up my life.
 See, I grew up in places like this, so I thought that's how people lived: riding around in helicopters, learning how to blow shit up.
 But then, when my mom got busted,
@@ -960,41 +960,41 @@ I'm "too important".
 That's definitely you.
 Most of the guys my mom hung round with were geeks.
 But there was this one guy, he was kinda cool.
-- He taught me engines.
-- Hold here.
+He taught me engines.
+Hold here.
 Mom screwed it up, of course.
 She'd always tell 'em about Judgment Day and me being this world leader.
-- That'd be all she wrote.
-- Torque wrench, please.
+That'd be all she wrote.
+Torque wrench, please.
 Here.
-- I wish I could've met my real dad.
-- You will.
+I wish I could've met my real dad.
+You will.
 Yeah, I guess.
 When I'm, like, 45, I think.
 I sent him back through time to 1984.
 Man!
 He hasn't even been born yet.
 It messes with your head.
-- The other bolt.
-- Oh. Here.
+The other bolt.
+Oh. Here.
 Mom and him were only together for one night.
 She still loves him, I guess.
 I see her crying sometimes.
 She denies it totally, of course, like she got something stuck in her eye.
 Why do you cry?
-- You mean people?
-- Yeah.
+You mean people?
+Yeah.
 I don't know. We just cry.
 You know, when it hurts.
-- Pain causes it?
-- Er... no. It's different.
+Pain causes it?
+Er... no. It's different.
 It's when there's nothing wrong with you, but you hurt anyways.
-- Get it?
-- No.
+Get it?
+No.
 <b><font color="#0080C0">(ENGINE STARTS)</font></b>
 All right, my man!
-- <i>No problemo.</i>
-- Give me five.
+<i>No problemo.</i>
+Give me five.
 Just put out your hand, like this.
 All right! Now hit me.
 Give me five. Do the same thing.
@@ -1033,8 +1033,8 @@ There we go.
 <b><font color="#0080C0">(SCREAMING)</font></b>
 <b><font color="#0080C0">(LAUGHTER)</font></b>
 <b><font color="#804000">ENRIQUE:</font></b> She said you go south with him like you planned.
-- She'll meet you tomorrow.
-- Mom!
+She'll meet you tomorrow.
+Mom!
 Mom, wait!
 "No fate".
 "No fate, but what we make."
@@ -1044,22 +1044,22 @@ Never mind.
 Now, OK, the whole thing goes...
 The future's not set.
 There's no fate, but what we make for ourselves.
-- She intends to change the future.
-- Yeah, I guess.
+She intends to change the future.
+Yeah, I guess.
 Oh, shit!
-- Dyson.
-- Yeah.
+Dyson.
+Yeah.
 Gotta be. 
 Miles Dyson.
 She's gonna blow him away.
 Come on! Let's go!
 Let's go! Come on!
-- This is tactically dangerous.
-- Drive faster.
+This is tactically dangerous.
+Drive faster.
 The T-1000 has the same files that I do.
 It knows what I know.
-- It might anticipate this move.
-- I don't care. We gotta stop her.
+It might anticipate this move.
+I don't care. We gotta stop her.
 Killing Dyson might prevent the war.
 I don't care!
 Haven't you learned anything yet?
@@ -1081,20 +1081,20 @@ Come brush your teeth and get to bed.
 Danny!
 Ugh!
 <b><font color="#0080C0">(AUTOMATIC GUNFIRE)</font></b>
-- Daddy!
-- Danny, just go! Go, Danny! Go!
+Daddy!
+Danny, just go! Go, Danny! Go!
 Miles?
 Miles!
-- Tarissa, run!
-- Oh, my God!
+Tarissa, run!
+Oh, my God!
 Tarissa, just take Danny and go.
 Run!
 Run!
 Oh, Jesus! Miles!
-- Daddy!
-- Danny! Danny!
-- Nobody fucking move!
-- Don't hurt my daddy!
+Daddy!
+Danny! Danny!
+Nobody fucking move!
+Don't hurt my daddy!
 Get down on the floor, bitch.
 Get down now!
 Get out of the way.
@@ -1104,8 +1104,8 @@ Just let the boy go.
 Shut up. Shut up.
 Shut up! Shut up!
 It's all your fault, motherfucker.
-- It's all your fault!
-- What?
+It's all your fault!
+What?
 I'm not gonna let you do it.
 Shhh !
 Shhh.
@@ -1120,8 +1120,8 @@ I almost...
 It'll be OK. It's gonna be OK.
 We'll figure something out. OK?
 I promise.
-- You came here to stop me.
-- Yeah, I did.
+You came here to stop me.
+Yeah, I did.
 I love you, John.
 I always have.
 I know.
@@ -1129,8 +1129,8 @@ Deep penetration.
 <b><font color="#0080C0">(MOANING)</font></b>
 No shattered bone.
 You hold here. The pressure should stop the bleeding.
-- Who are you people?
-- Show him.
+Who are you people?
+Show him.
 Danny, I want you to come with me right now. Show me your room.
 Oh, God! No!
 <b><font color="#0080C0">(MILES CRIES OUT)</font></b>
@@ -1166,19 +1166,19 @@ That's right. There's no way
 I'm gonna finish the new processor.
 Not now. Forget it.
 I'm out of it.
-- I'll quit Cyberdyne tomorrow.
-- That's not good enough.
-- No one must follow your work.
-- Right.
+I'll quit Cyberdyne tomorrow.
+That's not good enough.
+No one must follow your work.
+Right.
 All right, then we have to destroy all the stuff at the lab: the files, the disk drives, everything, everything here.
 Everything. I don't care.
 The chip.
-- Do you know about the chip?
-- What chip?
+Do you know about the chip?
+What chip?
 They keep it in a vault at Cyberdyne.
 It must be from the other one like you.
-- The CPU from the first Terminator.
-- Son of a bitch! I knew it!
+The CPU from the first Terminator.
+Son of a bitch! I knew it!
 They told us not to ask where they got it.
 Those lying motherfuckers.
 It's scary stuff.
@@ -1201,8 +1201,8 @@ Hi!
 ...take 'em upstairs and show 'em around.
 Mr Dyson, you know the rules concerning visitors in the lab.
 I need written authorisation...
-- I insist.
-- Don't even think about it.
+I insist.
+Don't even think about it.
 <b><font color="#804000">MILES:</font></b> Come on. It's OK.
 It takes two keys to open the vault.
 They have to be turned simultaneously.
@@ -1217,8 +1217,8 @@ Oh, shit.
 My card should access this.
 <b><font color="#0080C0">(BUZZ)</font></b>
 <b><font color="#0080C0">(BUZZ)</font></b>
-- What? What is it?
-- Damn it.
+What? What is it?
+Damn it.
 The silent alarm's been tripped.
 It's neutralised all the codes in the entire building.
 Nothing will open anywhere now.
@@ -1233,8 +1233,8 @@ It's him and the woman.
 Look, just send everything you got in the area right now.
 <b><font color="#804000">MILES:</font></b> I have a personal entry code for the lab. It may still work.
 <b><font color="#0080C0">(BUZZ)</font></b>
-- It's no good.
-- Let me try mine.
+It's no good.
+Let me try mine.
 John, fire in the hold!
 Wait! You can't go in there.
 The fire set off the halon system.
@@ -1258,8 +1258,8 @@ Could I...
 Excuse me...
 Could I borrow that thing?
 I worked a lot of years on this thing.
-- Give me that location again.
-- 2111, Kramer.
+Give me that location again.
+2111, Kramer.
 The suspects are armed and considered extremely dangerous.
 All right!
 <b><font color="#0080C0">(BEEP)</font></b>
@@ -1269,27 +1269,27 @@ Uh-oh.
 Oh, shit! 
 Not good.
 Not good!
-- How we doing?
-- Primer cord is set.
+How we doing?
+Primer cord is set.
 One more barrel, two more minutes.
-- How do we set them off?
-- Remote control.
+How do we set them off?
+Remote control.
 Piece of cake.
-- We got company.
-- Police?
-- How many?
-- All of 'em, I think.
+We got company.
+Police?
+How many?
+All of 'em, I think.
 Go. I'll finish here.
 Come on.
-- I'll take care of the police.
-- Wait! You swore!
+I'll take care of the police.
+Wait! You swore!
 Trust me.
 <b><font color="#0080C0">(LOUDSPEAKER)</font></b> 'You at the window!
 'Drop your weapon and place your hands on top of your head!'
-- Holy shit!
-- That's a damn mini-gun!
-- Come on!
-- Oh, shit!
+Holy shit!
+That's a damn mini-gun!
+Come on!
+Oh, shit!
 Go! Go! Go!
 Fire!
 We go same time, to the left.
@@ -1298,11 +1298,11 @@ All right, in order to get that out, you have to...
 We got Skynet by the balls now, don't we? 
 Come on, let's book.
 Hold your fire!
-- Ready to rock?
-- Ready.
+Ready to rock?
+Ready.
 Time to go. Now.
-- Take this. They'll use gas.
-- Come on.
+Take this. They'll use gas.
+Come on.
 Get started on the door.
 Miles, hand me the detonator.
 Mom! Mom!
@@ -1342,47 +1342,47 @@ Shit!
 Get out.
 Aagh!
 Listen. No matter what happens, you stay under these vests.
-- You got it?
-- Yeah.
+You got it?
+Yeah.
 All right.
-- Chopper's coming in!
-- It's him.
+Chopper's coming in!
+It's him.
 Yeah!
 John! Stay down!
-- Aagh!
-- Mom!
+Aagh!
+Mom!
 Hello?
 Goddamn! You all right...?
 Come on, Mom, we gotta get out.
-- Take the shotgun.
-- OK.
-- Agh!
+Take the shotgun.
+OK.
+Agh!
 Are you hurt?
-- Holy shit! Come on, Mom. Come on!
-- We need your truck.
+Holy shit! Come on, Mom. Come on!
+We need your truck.
 Hurry!
-- Come on. Hurry.
-- Get in.
+Come on. Hurry.
+Get in.
 Come on! Go!
 What the hell...?
-- I'm bleeding bad.
-- Keep pressure on it.
+I'm bleeding bad.
+Keep pressure on it.
 Here. This'll work.
 He's gaining.
-- Step on it!
-- This is the vehicle's top speed.
+Step on it!
+This is the vehicle's top speed.
 I can run faster than this!
 Coming up, to the right.
 Watch it! Watch it!
-- Drive a minute.
-- Where the hell are you going?
+Drive a minute.
+Where the hell are you going?
 Take the off-ramp.
 Shit!
 Hold on!
 Don't stop!
 Go straight!
-- Look out!
-- Duck!
+Look out!
+Duck!
 Get the hell outta here!
 Get outta here! Let's go!
 <b><font color="#0080C0">(ALARM BLARING)</font></b>
@@ -1400,18 +1400,18 @@ Come on! Get up!
 Put your weight on me, Mom.
 Hurry!
 Come on, Mom.
-- Agh!
-- Come on, Mom. Get up! Come on!
+Agh!
+Come on, Mom. Get up! Come on!
 This way. 
 Come on!
 Wait! No. No. 
 It's too hot.
 <b><font color="#804000">JOHN:</font></b> Go back.
-- Go. Run.
-- No! We gotta stick together.
+Go. Run.
+No! We gotta stick together.
 John, you've got to go now.
-- John!
-- Go! Now!
+John!
+Go! Now!
 No!
 <b><font color="#804000">SARAH:</font></b> Get up the steps.
 Go on.
@@ -1430,8 +1430,8 @@ Agh!
 Call to John.
 No!
 I know this hurts.
-- Ugh!
-- Call John.
+Ugh!
+Call John.
 Call to John now.
 Fuck you!
 <b><font color="#0080C0">(WHIRRING)</font></b>
@@ -1443,8 +1443,8 @@ John?
 John!
 John.
 John.
-- Mom.
-- Help me.
+Mom.
+Help me.
 Help me.
 Help me.
 Get Out of the way, John!
@@ -1465,8 +1465,8 @@ Come on.
 Holy shit!
 I need a vacation.
 <b><font color="#0080C0">(FURNACE BUBBLING)</font></b>
-- ls it dead?
-- Terminated.
+ls it dead?
+Terminated.
 Will this melt in there?
 Yes. Throw it in.
 <i>AdiÃ³s!</i>
@@ -1481,18 +1481,18 @@ I cannot self-terminate.
 You must lower me into the steel.
 No.
 No.
-- I'm sorry, John. I'm sorry.
-- No!
+I'm sorry, John. I'm sorry.
+No!
 No, it'll be OK. Stay with us.
-- It'll be OK.
-- I have to go away.
+It'll be OK.
+I have to go away.
 No, don't do it.
 Please, don't go.
-- I must go away, John.
-- No!
+I must go away, John.
+No!
 No, wait.
-- You don't have to do this.
-- I'm sorry.
+You don't have to do this.
+I'm sorry.
 No, don't do it! 
 Don't go!
 It has to end here.

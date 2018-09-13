@@ -7,12 +7,12 @@ PHINEAS: âª Watchin' it come true, it's takin' over you âª âª Oh! Th
 PHINEAS: âª It's ev'rything you ever want âª âª It's ev'rything you ever need âª âª And it's here right in front of you âª
 ALL: âª This is where you wanna be âª âª It's ev'rything you ever want âª âª It's ev'rything you ever need âª âª And it's here right in front of you âª âª This is where you wanna be âª
 PHINEAS: âª It's ev'rything you ever want âª âª It's ev'rything you ever need âª
-- âª And it's here right in front of you âª
-- (MUSIC STOPS) âª This is where you wanna be âª âª It's ev'rything you ever want âª
-- âª It's ev'rything you ever need âª
-- (EERIE LAUGHTER ECHOES)
-- âª And it's here right in front of you âª
-- (TRAIN WHISTLE BLOWS)
+âª And it's here right in front of you âª
+(MUSIC STOPS) âª This is where you wanna be âª âª It's ev'rything you ever want âª
+âª It's ev'rything you ever need âª
+(EERIE LAUGHTER ECHOES)
+âª And it's here right in front of you âª
+(TRAIN WHISTLE BLOWS)
 I understand, yes.
 Thank you so much, Mr. Jeffries.
 Thank you. You'll have the money by the end of the day.
@@ -36,8 +36,8 @@ Is this how we've taught you to behave?
 It's my fault, sir.
 I made her laugh.
 Well, thank you for your honesty.
-- (GRUNTS)
-- (GASPS)
+(GRUNTS)
+(GASPS)
 Stay away from my daughter.
 How'd you get out?
 The window.
@@ -45,16 +45,16 @@ Father is sending me to finishing school.
 I don't know what my future will be.
 I do. âª I close my eyes and I can see âª âª A world that's waiting up for me âª âª That I call my own âª âª Through the dark, through the door âª âª Through where no one's been before âª âª But it feels like home âª âª They can say, they can say âª âª It all sounds crazy âª âª They can say, they can say
 I've lost my mind âª âª I don't care, I don't care âª
-- âª So call me crazy âª
-- (GIGGLES) âª We can live in a world that we design âª âª 'Cause ev'ry night I lie in bed âª âª The brightest colors fill my head âª âª A million dreams âª
-- (SCREAMS)
-- âª Are keepin' me awake âª âª I think of what the world could be âª âª A vision of the one I see âª âª A million dreams is all it's gonna take âª âª Oh, a million dreams âª âª For the world we're gonna make âª âª They can say, they can say âª âª It all sounds crazy âª âª They can say, they can say âª
-- Enough!
-- âª We've lost our minds âª
+âª So call me crazy âª
+(GIGGLES) âª We can live in a world that we design âª âª 'Cause ev'ry night I lie in bed âª âª The brightest colors fill my head âª âª A million dreams âª
+(SCREAMS)
+âª Are keepin' me awake âª âª I think of what the world could be âª âª A vision of the one I see âª âª A million dreams is all it's gonna take âª âª Oh, a million dreams âª âª For the world we're gonna make âª âª They can say, they can say âª âª It all sounds crazy âª âª They can say, they can say âª
+Enough!
+âª We've lost our minds âª
 PHINEAS: Charity! âª I don't care, I don't care âª âª If they call us crazy âª âª Run away to a world that we design âª âª 'Cause ev'ry night I lie in bed âª âª The brightest colors fill my head âª âª A million dreams are keepin' me awake âª âª I think of what the world could be âª
 Hey! âª A vision of the one I see âª âª A million dreams is all âª
-- No!
-- âª It's gonna take âª âª Oh, a million dreams âª âª For the world we're gonna make âª
+No!
+âª It's gonna take âª âª Oh, a million dreams âª âª For the world we're gonna make âª
 Newspapers! Amazing stories from around the world! âª A million dreams are keepin' me âª âª Awake âª âª I think of what the world could be âª
 CHARITY: âª A vision of the one I see âª âª A million dreams is all it's gonna take âª âª Oh, a million dreams âª âª For the world we're gonna make âª
 MAN:
@@ -72,10 +72,10 @@ She'll be back.
 Sooner or later, she'll tire of your life... of having nothing, and she'll come running back home. âª Ev'ry night I lie in bed âª âª The brightest colors fill my head âª âª A million dreams are keepin' me awake âª âª I think of what the world could be âª âª A vision of the one I see âª âª A million dreams is all it's gonna take âª âª Oh, a million dreams âª âª For the world we're gonna make âª âª However big, however small âª âª Let me be a part of it all âª âª Share your dreams with me âª âª You may be right, you may be wrong âª âª But say that you'll bring me along âª âª To the world you see âª
 BOTH: âª To the world I close my eyes to see âª âª I close my eyes to see âª âª Cause ev'ry night I lie in bed âª âª The brightest colors fill my head âª âª A million dreams are keepin' me awake âª âª A million dreams, a million dreams âª
 BOTH: âª I think of what the world could be âª âª A vision of the one I see âª âª A million dreams is all it's gonna take âª âª A million dreams for the world âª âª We're gonna make âª âª For the world we're gonna make âª
-- CHALMERS: Mr. Smith?
-- SMITH: Yes.
-- CHALMERS: Have a look at this.
-- SMITH: Of course.
+CHALMERS: Mr. Smith?
+SMITH: Yes.
+CHALMERS: Have a look at this.
+SMITH: Of course.
 SMITH: Yes, yes, I see it.
 Thank you, Chalmers, that'll do.
 Sir, Phineas Taylor Barnum.
@@ -85,18 +85,18 @@ Well, I've read about this German fellow,
 Lilienthal, I believe, who's developed a glider that can take a man in the air, sir.
 Isn't that amazing?
 I mean, if you were to apply that to this business,
-- it would be revolutionary.
-- Gentlemen!
+it would be revolutionary.
+Gentlemen!
 Can I have your attention?
 You're all dismissed.
 Bankrupt?
 I thought the company had a dozen trading ships.
 Yes, at the bottom of the South China Sea.
 Typhoon sank 'em all.
-- Tag, you're it!
-- Oh, you're in for it!
-- Hey.
-- Oh, God!
+Tag, you're it!
+Oh, you're in for it!
+Hey.
+Oh, God!
 You're home early.
 And until further notice.
 Well, I didn't think you were long for that job.
@@ -109,14 +109,14 @@ What about the magic?
 What do you call those two girls?
 Hey, you partners, look who moseyed into the corral.
 Daddy!
-- PHINEAS: Come here!
-- Did you bring a present?
-- A present for what?
-- (LAUGHING)
-- For my birthday!
-- Your what?
-- My birthday.
-- It's not your birthday.
+PHINEAS: Come here!
+Did you bring a present?
+A present for what?
+(LAUGHING)
+For my birthday!
+Your what?
+My birthday.
+It's not your birthday.
 Okay, I do have a present... but not just any present. Oh, no.
 The most amazing birthday present ever.
 This extraordinary machine was originally created by Leonardo da Vinci, 400 years ago.
@@ -137,16 +137,16 @@ Hey, that's... that's a good wish, too.
 What's your wish, Mommy?
 I wish... for happiness like this forever for you and you... and for your father.
 Boring!
-- (PHINEAS LAUGHS)
-- CHARITY (LAUGHS): Boring?
+(PHINEAS LAUGHS)
+CHARITY (LAUGHS): Boring?
 Since when has happiness ever been boring? âª Ev'ry night I lie in bed âª âª The brightest colors fill my head âª âª A million dreams are keepin' me awake âª
 GIRLS: âª I think of what the world could be âª âª A vision of the one I see âª âª A million dreams is all it's gonna take âª
 PHINEAS: âª A million dreams âª âª For the world we're gonna make âª
-- (TYPING, CLACKING)
-- (MAN LAUGHING)
+(TYPING, CLACKING)
+(MAN LAUGHING)
 The goat prices go up, so the pork bellies go down.
-- Charles, we're leaving.
-- Huh?
+Charles, we're leaving.
+Huh?
 This bank only wants to lend money to people with money.
 What are you looking at, flop-doodle?
 Mr. Barnum.
@@ -173,8 +173,8 @@ What kind of museum is it?
 A place to be transported.
 A place where people can see things they've never seen before.
 Huh?
-- Wax figures?
-- Yeah. Yeah.
+Wax figures?
+Yeah. Yeah.
 They're all the rage in Europe. Look.
 Marie Antoinette with the sore throat. Napoleon.
 Come here. See?
@@ -187,46 +187,46 @@ You don't look like a magician.
 I'm a thief.
 A very good thief.
 I caught him nicking my watch.
-- (SPITS)
-- (COIN CLATTERS)
-- See?
-- An elephant!
+(SPITS)
+(COIN CLATTERS)
+See?
+An elephant!
 PHINEAS: Not just any elephant.
 I can get you somethin' real nice.
 Just say the word.
 CHARITY: Oh. Thank you.
 Oh, yeah. This is a ten-ton bull straight from the plains of Africa.
-- And look at that.
-- (LAUGHING)
+And look at that.
+(LAUGHING)
 The tallest giraffe in the world.
 CAROLINE:
 Can I climb up its leg?
-- Absolutely not. Okay.
-- (GIGGLING)
+Absolutely not. Okay.
+(GIGGLING)
 Now... I know how it looks.
 If you didn't, I'd be worried.
 I mean, it just needs a little work, but...
 The loan has to be paid back every month.
 Oh, yeah, we're gonna pay it.
 We just need customers.
-- Hundreds of them.
-- We're gonna get them.
+Hundreds of them.
+We're gonna get them.
 Welcome to the Barnum Museum.
 It is one hour of your time, sir, but it will change your life.
-- We have shows on the hour every hour.
-- I love your dress.
+We have shows on the hour every hour.
+I love your dress.
 Surely not for the faint of heart, but I can tell you're gonna love it.
 Half price for anyone who's wearing a hat.
 Ho, ho! That's you, sir.
-- Welcome to the Barnum Museum.
-- (SIGHS)
+Welcome to the Barnum Museum.
+(SIGHS)
 MAN: Load of garbage.
 WOMAN:
 Goodness, no. It's rubbish.
 Welcome to the Barnum Museum, where everyone's special...
 How many tickets?
-- Three.
-- Three.
+Three.
+Three.
 CAROLINE: Daddy.
 Daddy.
 Did you sell any more tickets today?
@@ -240,8 +240,8 @@ Something sensational.
 That's a big word.
 It's your word.
 Something that isn't stuffed.
-- Like a mermaid.
-- Or a unicorn.
+Like a mermaid.
+Or a unicorn.
 CAROLINE: Unicorns aren't real.
 HELEN:
 Well, mermaids aren't real either.
@@ -282,25 +282,25 @@ This line is so...
 Oh, my God! Oh, goodness.
 PHINEAS: Okay. Anne and W.D. Wheeler.
 Brother and sister?
-- ANNE: Yes, sir.
-- PHINEAS: Terrific. And what do you do?
-- Trapeze.
-- PHINEAS: Trapeze.
-- Okay.
-- You know, people aren't gonna like it if you put us on the stage.
+ANNE: Yes, sir.
+PHINEAS: Terrific. And what do you do?
+Trapeze.
+PHINEAS: Trapeze.
+Okay.
+You know, people aren't gonna like it if you put us on the stage.
 Oh, I'm counting on it.
-- Is this over... your...
-- Entire body.
+Is this over... your...
+Entire body.
 Terrific. I don't need to see it.
-- Now. (LAUGHING) Yes!
-- (SHOUTS)
+Now. (LAUGHING) Yes!
+(SHOUTS)
 Can I just ask how heavy you are?
 Do you have a number for that?
-- I prefer not to say, but...
-- Just between you and me.
+I prefer not to say, but...
+Just between you and me.
 500 pounds.
-- 750 pounds, you said?
-- 750 pounds, it is!
+750 pounds, you said?
+750 pounds, it is!
 What is your name?
 Vasily Palvos, sir.
 Yeah, we're gonna change that name.
@@ -313,11 +313,11 @@ Barnum's American Museum.
 MAN: Nice to see you, sir. âª You stumble through your days âª âª Got your head hung low âª âª Your sky's a shade of gray I âª Like a zombie in a maze âª
 Two, please. âª You're asleep inside âª âª But you can shake awake âª âª 'Cause you're just a dead man walkin' âª âª Thinkin' that's your only option âª âª But you can flick the switch âª âª And brighten up your darkest day âª âª Sun is up and the color's blindin' âª âª Take a world and redefine it âª âª Leave behind your narrow mind âª âª You'll never be the same âª âª Come alive, come alive âª âª Go and light your light âª âª Let it burn so bright âª âª Reachin' up to the sky âª âª And it's open wide âª âª You're electrified âª âª And the world becomes a fantasy âª âª And you're more than you could ever be âª âª 'Cause you're dreamin' with your eyes wide open âª
 Whoa! âª And you know you can't go back again âª âª To the world that you were livin' in âª âª 'Cause you're dreamin' with your eyes wide open âª
-- âª So come alive! âª
-- Whoa!
+âª So come alive! âª
+Whoa!
 Lettie! Lettie!
-- They're waiting!
-- For what?
+They're waiting!
+For what?
 For you.
 They don't know it yet... but they are gonna love you.
 Trust me.
@@ -326,24 +326,24 @@ LETTIE: âª No more livin' in those shadows âª âª You and me, we know
 LETTIE: âª A little bit of lightnin' strikin' âª âª Bottled up to keep on shinin' âª
 PHINEAS: âª You can prove there's more to you âª âª You cannot be afraid âª
 ALL: âª Come alive, come alive âª âª Go and light your light âª âª Let it burn so bright âª âª Reachin' up to the sky âª âª And it's open wide âª âª You're electrified âª âª And the world becomes a fantasy âª âª And you're more than you could ever be âª âª 'Cause you're dreamin' with your eyes wide open âª âª And we know we can't go back again âª âª To the world that we were livin' in âª âª 'Cause we're dreamin' with our eyes wide open âª âª So come alive! âª
-- (APPLAUSE)
-- Bravo!
+(APPLAUSE)
+Bravo!
 MAN: That was great!
-- More!
-- Fantastic!
+More!
+Fantastic!
 O'MALLEY: This is bad.
 "Criminal." "Degrading."
 "A circus." I like "circus."
 MAN: That's right, fat boy!
 You gonna protect that bearded lady?
 PHINEAS: Hey!
-- Hey! That's enough!
-- MAN: Freak!
+Hey! That's enough!
+MAN: Freak!
 Walter!
 Inside, all of you. Right now.
 Look at 'em run!
-- We don't want your kind!
-- Get outta here!
+We don't want your kind!
+Get outta here!
 That's right, you freaks!
 Your master's calling!
 That's quite enough, sir.
@@ -354,8 +354,8 @@ Half price tickets to anyone who brings it in.
 ALL: âª Come one, come all âª âª Come in, come on âª âª To anyone who's bursting with a dream âª
 ALL: âª Come one, come all âª âª You hear the call âª âª To anyone who's searching for a way to break free âª
 ALL: âª Break free âª âª Break free! âª âª And the world becomes a fantasy âª âª And you're more than you could ever be âª âª 'Cause you're dreamin' with your eyes wide open âª âª And we know we can't go back again âª âª To the world that we were livin' in âª âª 'Cause we're dreamin' with our eyes wide open âª âª Hey âª âª And the world becomes a fantasy âª âª And you're more than you could ever be âª âª 'Cause you're dreamin' with your eyes wide open âª âª Yeah, yeah âª âª And we know we can't go back again âª âª To the world that we were livin' in âª âª 'Cause we're dreamin' with our eyes wide open âª âª 'Cause we're dreamin' with our eyes wide open âª âª So come alive! âª âª Come alive âª âª Yeah âª
-- (BREATHING HARD)
-- (INAUDIBLE)
+(BREATHING HARD)
+(INAUDIBLE)
 VENDOR:
 Peanuts. Get your peanuts here.
 Hot, salted peanuts. Piping hot!
@@ -379,17 +379,17 @@ Now who's a fraud?
 Oh, Mr. Bennett.
 That word you used to describe my show?
 Has a nice ring to it.
-- (GIGGLING)
-- And right this way.
+(GIGGLING)
+And right this way.
 Don't you think there's enough blind trust in my life?
 Well, isn't that what makes it fun?
 Keep coming. Okay. Are you ready?
-- CHARITY: Is it?
-- PHINEAS: It is.
+CHARITY: Is it?
+PHINEAS: It is.
 Come on. Let's go.
 Push.
-- Oh.
-- Wow.
+Oh.
+Wow.
 Helen, that's for you.
 And, Caroline, this is for you.
 There's a ballet school right down the street.
@@ -399,16 +399,16 @@ Well, that wasn't the only reason.
 This is the life I promised you.
 Shall we?
 Phin... it's beautiful, but you know, we don't need all of this to be...
-- (LAUGHS)
-- PHINEAS: It only took me 25 years, but... welcome home, Charity Barnum.
-- Hello, there.
-- MAN: There goes Barnum.
+(LAUGHS)
+PHINEAS: It only took me 25 years, but... welcome home, Charity Barnum.
+Hello, there.
+MAN: There goes Barnum.
 PHINEAS: Hey, sweetheart, who's that young man over there?
 Oh, that's Phillip Carlyle.
 A bit of a scandal, they say.
 His last play was a hit in London.
-- Play?
-- Mmm.
+Play?
+Mmm.
 You pay good money to watch people stand around and talk for two hours, and they call me a con man.
 Ew, what's that smell? Do you smell that?
 Ew. Something does smell.
@@ -457,8 +457,8 @@ If you only knew how suffocating they are.
 So come join the circus.
 You clearly have a flair for show business.
 Teach me how to appeal to the highbrows.
-- Are you serious?
-- Mm-hmm.
+Are you serious?
+Mm-hmm.
 Mr. Barnum, I can't just run off and join the circus.
 Why not? Sounds thrilling, doesn't it?
 Let's just say that I find it much more comfortable admiring your show from afar.
@@ -477,21 +477,21 @@ Sir, it looks like you have yourself a junior partner.
 What I have is an overcompensated apprentice.
 BOTH: âª Don'tchu wanna get away âª âª To a whole âª - âª New âª
 BOTH: âª Part you're gonna play âª
-- âª 'Cause I got âª
-- âª What you need âª
+âª 'Cause I got âª
+âª What you need âª
 BOTH: âª So come with me and take the ride âª âª To the other side âª âª So if you do like I do âª âª So if you do like me âª
 BOTH: âª Forget the cage âª âª 'Cause we know how to make the key âª âª Oh, damn âª âª Suddenly we're free to fly âª âª We're goin' to the other side âª
-- âª So if you do like I do âª
-- âª To the other side âª
-- âª So if you do like me âª
-- âª Goin' to the other side âª âª 'Cause if you do âª
-- âª We're goin' to the other side âª
-- (LAUGHS) âª We're goin' to the other side âª
+âª So if you do like I do âª
+âª To the other side âª
+âª So if you do like me âª
+âª Goin' to the other side âª âª 'Cause if you do âª
+âª We're goin' to the other side âª
+(LAUGHS) âª We're goin' to the other side âª
 Who is that?
 Hey, hey! No one's buying hats back here. Get out front, go!
 W.D., Anne, I wanna introduce my newest hire, Mr. Phillip Carlyle.
-- It's a pleasure to meet you.
-- Yeah, pleasure.
+It's a pleasure to meet you.
+Yeah, pleasure.
 And what is your act, Mr. Carlyle?
 I don't have an act.
 Everyone's got an act.
@@ -499,8 +499,8 @@ O'MALLEY: Mr. Barnum!
 Yeah.
 You better come see this.
 PHINEAS: Phillip, keep up!
-- (INDISTINCT SHOUTING)
-- A bit of a nasty element.
+(INDISTINCT SHOUTING)
+A bit of a nasty element.
 There always is, isn't there?
 Nothing draws a crowd quite like a crowd.
 We don't want you in our city!
@@ -514,18 +514,18 @@ Mr. Bennett, I am blushing.
 HELEN:
 No, I'm blushing. (GIGGLING)
 WOMAN: What do you care what Bennett thinks?
-- LETTIE: He's a prig.
-- And a snob.
+LETTIE: He's a prig.
+And a snob.
 Yeah, and all the snobs in New York read him.
 He does their thinking for them.
 Whatever happened to thriving off controversy?
 Yeah, well... hey.
-- Do you have any thoughts on this?
-- HELEN: Phillip!
+Do you have any thoughts on this?
+HELEN: Phillip!
 You know what?
 As a matter of fact, I do.
-- Helen, come on.
-- (HELEN GIGGLES)
+Helen, come on.
+(HELEN GIGGLES)
 "The Master of the Household
 "has it in command of the Queen
 "to invite Mr. Phineas T. Barnum
@@ -533,8 +533,8 @@ As a matter of fact, I do.
 The Queen Victoria? Is this real?
 I had to pull a few strings.
 If you want society to accept you, you may as well start...
-- at the very, very top.
-- (GIGGLES)
+at the very, very top.
+(GIGGLES)
 Are we all invited?
 I guess I'll just have to tell the Queen that either all of us go... or none of us will.
 The Queen of England!
@@ -569,12 +569,12 @@ She's the most famous performer in all of Europe.
 She's sold out La Scala a dozen times.
 Not to mention the French Opera.
 Ah.
-- What are you doing?
-- Following you,
-- so you can introduce me to Miss Lind.
-- PHILLIP: Introduce you?
-- PHINEAS: Yeah.
-- PHILLIP: I don't know her.
+What are you doing?
+Following you,
+so you can introduce me to Miss Lind.
+PHILLIP: Introduce you?
+PHINEAS: Yeah.
+PHILLIP: I don't know her.
 Everybody knows her.
 You just said so yourself.
 Yeah, exactly. You don't just march up to someone like this.
@@ -596,8 +596,8 @@ A showman, Miss Lind, just a showman.
 The best on my side of the Atlantic.
 Well, if you do say so yourself.
 I do, but I don't have to.
-- Oh, no. No.
-- Right?
+Oh, no. No.
+Right?
 No, he is one of the best.
 Oh, that's very kind of you.
 Miss Lind... let me get to the point.
@@ -605,15 +605,15 @@ I'd like to bring you to New York.
 And if you agree, I'll make you the most famous singer not in Europe, but in the entire world.
 Mmm.
 And have you heard me sing?
-- Absolutely.
-- No. No, I haven't.
+Absolutely.
+No. No, I haven't.
 But like mine, your reputation precedes you, and, well, I trust your reputation more than my own taste, so...
 I've never been to America.
 You will sing in the grandest theater with the finest orchestra in the greatest city on Earth.
 "Jenny Lind.
 "One night only."
-- (LAUGHS)
-- Or maybe two.
+(LAUGHS)
+Or maybe two.
 And at 20 percent of the gate, it'll be a queen's ransom for your efforts.
 I give most of my earnings to charity, Mr. Barnum.
 To orphans and widows.
@@ -635,23 +635,23 @@ Oh, God. I hope she can sing.
 PHINEAS:
 What's taking her so long?
 They're still taking their seats.
-- Speaking of which.
-- Yeah?
+Speaking of which.
+Yeah?
 Torn and Lettie, the others, they've just arrived.
-- What?
-- (AUDIENCE MURMURING)
+What?
+(AUDIENCE MURMURING)
 Where should I put 'em? Your box?
 That box? No, no, no, that's a bit visible.
-- Visible?
-- The acoustics are actually better in the standing room.
+Visible?
+The acoustics are actually better in the standing room.
 That's where they should be.
 Miss Lind's ready now.
 Okay. Thank you, thank God!
 This is so awesome.
-- Isn't it wonderful?
-- Yeah.
-- I love it.
-- Look at the curtain.
+Isn't it wonderful?
+Yeah.
+I love it.
+Look at the curtain.
 Ladies and gentlemen, thank you for your patience.
 MAN: He's out of his element.
 MAN 2: What is this about?
@@ -678,23 +678,23 @@ Of course, and I've heard so much about you!
 And your father tells me you're a fan of the ballet.
 Yes, I'm studying ballet.
 Are you?
-- Of course, lam.
-- And, of course, she is.
+Of course, lam.
+And, of course, she is.
 And what about you, Helen?
 You look like a princess, ma'am.
 I have to admit, Barnum... she is remarkable.
 Enough to bring joy to the most joyless critic, isn't she?
 Mmm. And in the hands of a real purveyor of the arts,
-- she could be something in this country.
-- (LAUGHS)
+she could be something in this country.
+(LAUGHS)
 Shame, she's fallen in with you.
 You really are better on the page, Mr. Bennett, hard as that is to believe.
 WOMAN:
 Mr. Barnum, I'd love to meet Miss Lind.
-- PHINEAS: And you will meet Miss Lind.
-- WOMAN: Would you introduce us?
-- If you just give me a moment...
-- Phineas.
+PHINEAS: And you will meet Miss Lind.
+WOMAN: Would you introduce us?
+If you just give me a moment...
+Phineas.
 Yes.
 You've... done well.
 Thank you.
@@ -703,15 +703,15 @@ Uh, excuse me, Jenny.
 I'd like you to meet Charity's parents.
 Mr. and Mrs. Hallett.
 Ah, pleasure.
-- How do you do? Very nice to meet you.
-- Good to meet you.
-- Mother.
-- Hello, dear.
-- (CLEARS THROAT)
-- MRS. HALLETT: Are these...
+How do you do? Very nice to meet you.
+Good to meet you.
+Mother.
+Hello, dear.
+(CLEARS THROAT)
+MRS. HALLETT: Are these...
 Yes, yes, those are your granddaughters.
-- Phineas, not here.
-- Not here?
+Phineas, not here.
+Not here?
 You afraid I'm gonna embarrass your parents in front of their fancy friends?
 I... I really don't think
 I have that power.
@@ -720,13 +720,13 @@ All that fortune, and still just the tailor's boy.
 Get out.
 Well, Phineas...
 I believe I told you that free champagne is a recipe for disaster.
-- Charity.
-- Now would everyone please
-- raise their glasses?
-- PHINEAS: Charity.
+Charity.
+Now would everyone please
+raise their glasses?
+PHINEAS: Charity.
 To Mr. Barnum, who has shown once and for all that a man's station is limited only by his imagination.
-- To Barnum! To Barnum!
-- Thank you.
+To Barnum! To Barnum!
+Thank you.
 To Mr. Barnum.
 Thank you.
 It's hard to understand wealth and privilege when you're born into it.
@@ -735,8 +735,8 @@ You?
 I was born out of wedlock... and that brought shame upon my family.
 And life always manages to remind me that I don't deserve a place in this world.
 And that... leaves a hole that no ovation can ever fill.
-- Mr. Phineas!
-- Guys...
+Mr. Phineas!
+Guys...
 Lord, that lady can sing!
 I know.
 Think she likes a man in uniform?
@@ -744,16 +744,16 @@ I'm sure she does.
 Okay, what are you doing here?
 You got a show in an hour, okay?
 That's enough time for us to have at least three drinks, right?
-- Come on, let's go.
-- No, no, no. Lettie!
-- What?
-- It's very crowded in here, okay?
+Come on, let's go.
+No, no, no. Lettie!
+What?
+It's very crowded in here, okay?
 And I can't have you mingling... guys!
 Who's gonna pay admission if you're out there for all the world to see?
-- Okay? Have a great show.
-- Wait.
-- (GLASS CHIMES)
-- PHINEAS: Ladies and gentlemen, a toast!
+Okay? Have a great show.
+Wait.
+(GLASS CHIMES)
+PHINEAS: Ladies and gentlemen, a toast!
 Jenny, America may not know it yet... but they are going to love you.
 CROWD: To Miss Lind! âª I am not a stranger to the dark âª âª Hide away, they say âª âª 'Cause we don't want your broken parts âª âª I've learned to be ashamed of all my scars âª âª Run away, they say âª âª No one'll love you as you are âª âª But I won't let them break me down to dust âª âª I know that there's a place for us âª âª For we are glorious âª âª When the sharpest words wanna cut me down âª âª I'm gonna send a flood âª âª Gonna drown 'em out âª âª I am brave, I am bruised âª âª I am who I'm meant to be âª âª This is me âª âª Look out 'cause here I come âª âª And I'm marchin' on âª âª To the beat I drum âª âª I'm not scared to be seen âª âª I make no apologies âª âª This is me âª
 What are they doing here? âª Another round of bullets hits my skin âª âª Well, fire away âª âª 'Cause today
@@ -762,22 +762,22 @@ LETTIE: âª We are burstin' through the barricades âª âª And reachin'
 ALL: âª We are warriors âª âª Yeah, that's what we've become âª
 ALL: âª Yeah, that's what we've become âª âª I won't let them break me down to dust âª âª I know that there's a place for us âª
 Go home! âª For we are glorious âª âª When the sharpest words wanna cut me down âª âª I'm gonna send a flood, gonna drown 'em out âª âª I am brave, I am bruised âª âª I am who I'm meant to be âª âª This is me âª âª Look out 'cause here I come âª âª And I'm marchin' on âª âª To the beat I drum âª âª I'm not scared to be seen âª âª I make no apologies âª âª This is me âª âª Oh, oh, oh, oh âª âª Ey, ey âª
-- âª Oh, oh, oh, oh âª
-- âª Ey, ey âª âª Oh, oh, oh, oh âª
-- âª Ey, ey âª
-- âª Oh, oh, oh, oh âª
-- âª Oh âª
-- âª Oh âª âª Oh, oh, oh âª âª This is me âª
-- âª Oh, oh, oh, oh âª
-- âª Ey, ey âª âª And I know that I deserve your love âª âª There's nothing I'm not worthy of âª âª Oh, oh, oh, oh, oh âª âª When the sharpest words wanna cut me down âª âª I'm gonna send a flood âª âª Gonna drown 'em out âª âª This is brave, this is bruised âª âª This is who I'm meant to be âª âª This is me âª âª Look out,
+âª Oh, oh, oh, oh âª
+âª Ey, ey âª âª Oh, oh, oh, oh âª
+âª Ey, ey âª
+âª Oh, oh, oh, oh âª
+âª Oh âª
+âª Oh âª âª Oh, oh, oh âª âª This is me âª
+âª Oh, oh, oh, oh âª
+âª Ey, ey âª âª And I know that I deserve your love âª âª There's nothing I'm not worthy of âª âª Oh, oh, oh, oh, oh âª âª When the sharpest words wanna cut me down âª âª I'm gonna send a flood âª âª Gonna drown 'em out âª âª This is brave, this is bruised âª âª This is who I'm meant to be âª âª This is me âª âª Look out,
 'cause here I come âª âª Look out, 'cause here I come âª âª And I'm marchin' on to the beat I drum âª
-- âª Marchin' on, marchin', marchin' on âª
-- âª To the beat I drum âª âª I'm not scared to be seen,
+âª Marchin' on, marchin', marchin' on âª
+âª To the beat I drum âª âª I'm not scared to be seen,
 I make no apologies âª âª This is me âª âª Whenever the words wanna cut me down âª âª I'll send the flood to drown 'em out âª
-- LETTIE: âª I'm gonna send a flood âª
-- ALL: âª Oh âª
-- LETTIE: âª Gonna drown them out âª
-- ALL: âª Oh âª âª Oh, oh, oh âª âª This is me âª
+LETTIE: âª I'm gonna send a flood âª
+ALL: âª Oh âª
+LETTIE: âª Gonna drown them out âª
+ALL: âª Oh âª âª Oh, oh, oh âª âª This is me âª
 PHILLIP: Why can't you just put more shows in New York?
 Why do you need to tour the country?
 Why did Napoleon march on Russia?
@@ -788,25 +788,25 @@ Just get the cheapest musicians you can and watch that.
 We'll still have to board them.
 We'll get married ones, they can share a bunk.
 O'Malley, that's Caroline's piggy bank.
-- PHILLIP: Custom sets?
-- PHINEAS: Yeah.
-- PHILLIP: Fireworks?
-- PHINEAS: Uh-huh.
+PHILLIP: Custom sets?
+PHINEAS: Yeah.
+PHILLIP: Fireworks?
+PHINEAS: Uh-huh.
 Inside theaters?
 That's genius.
 No. Hey, P.T.
 These are the most famous theaters in the country.
 They make you buy the seats in advance just to book them.
 Yeah. I took out a loan.
-- And we have to pay Jenny in advance?
-- It was a large loan. Okay?
+And we have to pay Jenny in advance?
+It was a large loan. Okay?
 You're not gonna see a penny of profit until your 40th show...
 41st, actually.
 You're risking everything you've built here.
 How do you think I built it?
 We'll have plenty of profits to go around after this.
-- P.T.?
-- What?
+P.T.?
+What?
 Your attention has been divided long enough.
 Our gate is down, we have more protesters every day.
 You just need to get people to come back.
@@ -820,11 +820,11 @@ LETTIE:
 Ain't that a sight for sore eyes?
 Couldn't even say "hello."
 Or "goodbye." He's going on tour.
-- Sorry, guys.
-- Oh, pull yourself together, Carlyle.
+Sorry, guys.
+Oh, pull yourself together, Carlyle.
 Don't you have somewhere to be?
-- (TOM CHUCKLES)
-- (QUICK FOOTSTEPS)
+(TOM CHUCKLES)
+(QUICK FOOTSTEPS)
 Anne Wheeler.
 Mr. Barnum said he left a ticket for me.
 I'm... I'm sorry.
@@ -832,8 +832,8 @@ I... I believe there's only supposed to be one.
 No, there's meant to be two.
 I wasn't sure you'd come if I asked.
 MAN: Five minutes to curtain.
-- (INDISTINCT CHATTER)
-- (BELL DINGING)
+(INDISTINCT CHATTER)
+(BELL DINGING)
 I've always wanted to go to the theater.
 MR. CARLYLE:
 Phillip, is that you?
@@ -855,8 +855,8 @@ It's not just them.
 You've never had somebody look at you the way your parents looked at me.
 The way everyone would look at us. âª You know I want you âª âª It's not a secret I try to hide âª âª I know you want me âª âª So don't keep sayin' our hands are tied âª âª You claim it's not in the cards âª âª And fate is pulling you miles away âª âª And out of reach from me âª âª But you're here in my heart âª âª So who can stop me if I decide âª âª That you're my destiny? âª âª What if we rewrite the stars? âª âª Say you were made to be mine? âª âª Nothing could keep us apart âª âª You'd be the one I was meant to find âª âª It's up to you âª âª And it's up to me âª âª No one can say what we get to be âª âª So why don't we rewrite the stars? âª âª Maybe the world could be ours âª âª Tonight âª âª You think it's easy? âª âª You think I don't want to run to you? âª âª But there are mountains âª âª And there are doors that we can't walk through âª âª I know you're wonderin' why âª âª Because we're able to be âª âª Just you and me within these walls âª âª But when we go outside âª âª You're gonna wake up and see âª âª That it was hopeless after all âª âª No one can rewrite the stars âª âª How can you say you'll be mine? âª âª Ev'rything keeps us apart âª âª And I'm not the one you were meant to find âª âª It's not up to you âª âª It's not up to me âª âª When everyone tells us what we can be âª âª How can we rewrite the stars? âª âª Say that the world can be ours âª âª Tonight? âª
 BOTH: âª All I want is to fly with you âª âª All I want is to fall with you âª âª So just give me all of you âª
-- âª It feels impossible âª
-- âª It's not impossible âª âª Is it impossible? âª
+âª It feels impossible âª
+âª It's not impossible âª âª Is it impossible? âª
 BOTH: âª Say that it's possible âª âª How do we rewrite the stars? âª âª Say you were made to be mine? âª âª Nothing can keep us apart âª âª 'Cause you are the one
 I was meant to find âª âª It's up to you and it's up to me âª âª No one can say what we get to be âª âª Why don't we rewrite the stars? âª âª Changin' the world to be ours âª âª You know I want you âª âª It's not a secret I try to hide âª âª But I can't have you âª âª We're bound to break and my hands are tied âª
 First, it was buying a house on the same street as my parents.
@@ -865,8 +865,8 @@ Then bringing Jenny Lind, then my father the other night.
 When will it ever be enough for you?
 I'm doing this for Caroline and Helen.
 Look around you. They have everything.
-- You don't understand.
-- I do understand.
+You don't understand.
+I do understand.
 No, you don't understand.
 How could you?
 My father was treated like dirt.
@@ -878,33 +878,33 @@ Sir.
 No, no! Daddy!
 Daddy!
 Daddy, no! Wait!
-- Daddy!
-- PHINEAS: Go!
+Daddy!
+PHINEAS: Go!
 Wait, Daddy! âª Some people long for a life âª âª That is simple and planned âª âª Tied with a ribbon âª âª Some people won't sail the sea âª âª 'Cause they're safer on land âª âª To follow what's written âª âª But I'd follow you âª âª To the great unknown âª âª Off to a world âª âª We call our own âª âª Mountains and valleys âª âª And all that will come in between âª âª Desert and ocean âª âª You pull me in âª âª And together we're lost in a dream âª âª Always in motion âª âª So I risk it all âª âª Just to be with you âª âª And I risk it all âª âª For this life we choose âª âª Hand in my hand âª âª And you promised to never let go âª âª We're walkin' a tightrope âª âª High in the sky âª âª We can see the whole world down below âª âª We're walkin' a tightrope âª âª Never sure âª âª Will you catch me if I should fall? âª
 (MUFFLED) Brava! âª Well, it's all an adventure âª âª That comes with a breathtakin' view âª âª Walkin' a tightrope âª âª With you âª âª Oh, oh, oh, oh âª âª With you âª âª Oh, oh, oh, oh âª âª With you âª âª With you âª âª Oh âª âª With you âª âª Oh, oh, oh âª âª With you âª
 JENNY: "It is as though we have learned for the first time... what singing really is."
 "Miss Lind deserves our nation's highest esteem and most lavish ovations."
-- I mean...
-- The world at our feet.
-- Well, Mr. Barnum.
-- (GLASS CLINKS)
-- (LIQUID POURS)
-- This... is... to making dreams come true.
+I mean...
+The world at our feet.
+Well, Mr. Barnum.
+(GLASS CLINKS)
+(LIQUID POURS)
+This... is... to making dreams come true.
 Thank you, Jenny.
 It's two hours to curtain.
 I've given you the world, haven't I?
 I... I, uh... I should go. I...
 I've become a distraction.
 I'm sorry, Jenny.
-- No.
-- You should finish the tour without me.
+No.
+You should finish the tour without me.
 What? You're leaving?
-- Well, the itinerary's well in hand.
-- So, that's it.
+Well, the itinerary's well in hand.
+So, that's it.
 What do you mean?
 I'm just another one of your little acts.
-- Jenny.
-- I'm done.
+Jenny.
+I'm done.
 Jenny. Jenny, please.
 You have to finish the tour.
 Must I?
@@ -918,15 +918,15 @@ What was that?
 That was goodbye.
 PHILLIP:
 Hey, thank you very much for coming.
-- Tell your friends and neighbors!
-- What a wonderful show!
+Tell your friends and neighbors!
+What a wonderful show!
 Who enjoyed themselves? You? You?
 Tell everyone how much fun you had at the circus!
 New acts every night!
 MAN: Hey! Ringmaster.
 Gentlemen, gonna have to ask you to leave.
-- (MEN SNICKERING)
-- This is our town, son.
+(MEN SNICKERING)
+This is our town, son.
 We think you should leave.
 You and your freaks.
 And your spooks.
@@ -936,30 +936,30 @@ Then what, boy?
 Hey! Stop!
 Get him!
 Charge!
-- (MEN GRUNTING)
-- (GLASS SHATTERS)
-- WOMAN: Could that be her?
-- MAN: I think so.
+(MEN GRUNTING)
+(GLASS SHATTERS)
+WOMAN: Could that be her?
+MAN: I think so.
 GIRLS: Daddy!
-- (PHINEAS LAUGHS)
-- Daddy!
-- Girls, girls, girls!
-- Daddy!
+(PHINEAS LAUGHS)
+Daddy!
+Girls, girls, girls!
+Daddy!
 Oh, you've grown so much. Stop it.
 What made you decide to come back early?
 I missed you. I missed you.
-- That sounds an awful lot like humbug.
-- (BELL RINGING)
-- Fire!
-- Move aside! Move aside!
-- Come on!
-- Hurry! It's coming from the circus.
+That sounds an awful lot like humbug.
+(BELL RINGING)
+Fire!
+Move aside! Move aside!
+Come on!
+Hurry! It's coming from the circus.
 MAN: Run! Let's go! Fire!
 Girls, stay with me. Come. Quick, quick!
 Everyone, stay close!
 Phillip! Is everyone out?
-- Is everyone okay?
-- Yeah.
+Is everyone okay?
+Yeah.
 The animals? The animals?
 Yeah, we set them free.
 What else could we do?
@@ -967,29 +967,29 @@ W.D., where's Anne?
 PHINEAS:
 Where's Anne? Where's Anne?
 No, Phillip! No!
-- Hey, hey! Outside!
-- You can't go in there!
-- Anne!
-- Phillip!
+Hey, hey! Outside!
+You can't go in there!
+Anne!
+Phillip!
 Keep pumping! Keep pumping!
-- W.D.!
-- Here she is! Here she is!
+W.D.!
+Here she is! Here she is!
 Anne! Oh my God!
 PHINEAS: Phillip!
-- Phillip!
-- Daddy!
+Phillip!
+Daddy!
 +10, Daddy!
 Daddy!
-- Daddy!
-- (CROWD SCREAMING)
+Daddy!
+(CROWD SCREAMING)
 MAN: Stay back! Please!
 Daddy!
 FIREMAN: Stretcher!
 Stretcher!
 He's taken a lot of smoke.
 He's still breathing. Come on.
-- (COUGHING)
-- FIREMAN 2: Come on, let's get him on!
+(COUGHING)
+FIREMAN 2: Come on, let's get him on!
 Up! âª What if we rewrite the stars? âª âª Say you were made to be mine? âª âª Nothing can keep us apart âª âª You are the one I was meant to find âª
 MAN: Here we go, guys!
 Come on! Straight ahead!
@@ -1007,8 +1007,8 @@ Why, another critic might have even called it...
 "a celebration of humanity."
 I would've liked that.
 Mmm.
-- Well, I hope you'll rebuild.
-- Hmm.
+Well, I hope you'll rebuild.
+Hmm.
 I mean, thank God for Jenny's tour.
 We can borrow off the profits, we'll be fine.
 You don't know?
@@ -1016,8 +1016,8 @@ Hmm?
 I'm sorry.
 Charity?
 On, God, Charity.
-- I am...
-- I don't wanna talk to you.
+I am...
+I don't wanna talk to you.
 N... nothing happened. This is ridiculous.
 Oh, sure. Nothing happened.
 It's on the cover of every paper in New York.
@@ -1034,11 +1034,11 @@ Why didn't you ask me before...
 I would've said yes.
 I never minded the risk, but we always did it together.
 Figured you'd end up here.
-- Feeling sorry for yourself.
-- (DOOR OPENS)
+Feeling sorry for yourself.
+(DOOR OPENS)
 Folks, if you've come to get paid, the money is gone. All of it.
-- Nothing left to give you.
-- Shut up, Barnum.
+Nothing left to give you.
+Shut up, Barnum.
 You just don't get it.
 Our own mothers were ashamed of us.
 Hid us our whole lives.
@@ -1049,31 +1049,31 @@ Maybe it was just about making a buck.
 But you gave us a real family.
 And the circus... that was our home.
 We want our home back. âª I saw the sun begin to dim âª âª And felt that winter wind blow cold âª âª A man learns who is there for him âª âª When the glitter fades and the walls won't hold âª âª 'Cause from that rubble âª âª What remains âª âª Can only be what's true âª âª If all was lost âª âª There's more I gained âª âª 'Cause it led me back âª âª To you âª âª I drank champagne with kings and queens âª âª The politicians praised my name âª âª But those were someone else's dreams âª âª The pitfalls of the man I became âª âª For years and years âª âª I chased their cheers âª âª A crazy speed of always needing more âª âª But when I stop âª âª And see you here âª âª I remember who all this was for âª âª And from now on âª âª These eyes will not be blinded by the lights âª âª From now on âª âª What's waited 'til tomorrow âª âª Starts tonight âª
-- âª It starts tonight âª
-- (CHEERING) âª And let this promise in me start âª âª Like an anthem in my heart âª
-- âª From now on âª
-- (LETTIE LAUGHING)
-- âª From now on âª
-- GROUP: âª Hey! âª
-- âª From now on âª
-- GROUP: âª And we will come back home âª âª And we will come back home âª âª Home again âª âª And we will come back home âª âª And we will come back home âª âª Home again âª âª And we will come back home âª âª And we will come back home âª âª Home again âª
-- âª From now on âª
-- âª And we will come back home âª âª And we will come back home âª âª Home again âª
-- âª And we will come back home âª
-- âª From now on âª
-- âª And we will come back home âª
-- âª From now on âª âª Home again âª âª And we will come back home âª âª From now on âª
-- âª And we will come back home âª
-- âª From now on âª
-- âª Yes! âª
-- âª Home again âª
-- âª And we will come back home âª
-- âª From now on âª âª And we will come back home âª
-- âª From now on âª
-- âª Home again âª âª From now on âª âª These eyes will not be blinded by the lights âª
+âª It starts tonight âª
+(CHEERING) âª And let this promise in me start âª âª Like an anthem in my heart âª
+âª From now on âª
+(LETTIE LAUGHING)
+âª From now on âª
+GROUP: âª Hey! âª
+âª From now on âª
+GROUP: âª And we will come back home âª âª And we will come back home âª âª Home again âª âª And we will come back home âª âª And we will come back home âª âª Home again âª âª And we will come back home âª âª And we will come back home âª âª Home again âª
+âª From now on âª
+âª And we will come back home âª âª And we will come back home âª âª Home again âª
+âª And we will come back home âª
+âª From now on âª
+âª And we will come back home âª
+âª From now on âª âª Home again âª âª And we will come back home âª âª From now on âª
+âª And we will come back home âª
+âª From now on âª
+âª Yes! âª
+âª Home again âª
+âª And we will come back home âª
+âª From now on âª âª And we will come back home âª
+âª From now on âª
+âª Home again âª âª From now on âª âª These eyes will not be blinded by the lights âª
 GROUP: âª From now on âª âª What's waited til tomorrow starts tonight âª âª It starts tonight âª âª Let this promise in me start âª âª Like an anthem in my heart âª âª From now on âª
-- âª From now on âª
-- GROUP: âª And we will come back home âª âª And we will come back home âª âª Home again âª âª And we will come back home âª âª And we will come back home âª âª Home again âª
+âª From now on âª
+GROUP: âª And we will come back home âª âª And we will come back home âª âª Home again âª âª And we will come back home âª âª And we will come back home âª âª Home again âª
 You're here.
 GROUP: âª From now on âª âª From now on âª âª Home again âª âª From now on âª âª From now on âª âª Home again âª âª From now on âª âª From now on âª âª Home again âª
 Caroline! He's here.
@@ -1094,14 +1094,14 @@ I can fool into loaning me more money, so...
 I'm really sorry to disappoint you all.
 Don't worry, Barnum.
 We've gotten used to it by now.
-- (LAUGHTER)
-- PHILLIP: You know, Barnum... when I first met you...
+(LAUGHTER)
+PHILLIP: You know, Barnum... when I first met you...
 I had an inheritance, acclaim, an invitation to every party in town.
 And now, thanks to you, all that's gone.
 All that's left is friendship, love, and work that I adore.
 You brought joy into my life.
-- LETTIE: Into all our lives.
-- Hear, hear.
+LETTIE: Into all our lives.
+Hear, hear.
 If only the bank would take joy as collateral.
 They may not... but I will.
 I own 10% of the show.
@@ -1121,53 +1121,53 @@ Building. We don't need a building.
 Real estate in Manhattan is a terrible investment.
 Why, I can get land down by the docks for almost nothing!
 All we need is a tent.
-- âª Oh! This is the greatest show! âª
-- Come on, come on!
+âª Oh! This is the greatest show! âª
+Come on, come on!
 GROUP: âª Whoa âª âª Colossal we come âª âª These renegades in the ring âª
 GROUP: âª Whoa âª âª Where the lost get found âª âª And we crown 'em the circus kings âª
 ALL: âª Don't fight it, it's comin' for you, runnin' atcha âª âª It's only this moment, don't care what comes after âª âª It's blindin', outshinin' anything thatcha know âª âª Just surrender 'cause you're comin' âª âª And you wanna go âª âª Where it's covered in all the colored lights âª âª Where the runaways are runnin' the night âª âª Impossible comes true âª âª Intoxicatin' you âª âª Oh! This is the greatest show! âª âª We light it up, we won't come down âª âª And the sun can't stop us now âª âª Watchin' it come true âª
 ALL: âª It's takin' over you âª
-- âª Oh! This is the greatest show! âª
-- (CHEERS AND APPLAUSE)
+âª Oh! This is the greatest show! âª
+(CHEERS AND APPLAUSE)
 PHINEAS: âª It's ev'rything you ever want âª âª It's ev'rything you ever need âª âª And it's here right in front of you âª
 ALL: âª This is where you wanna be âª âª It's ev'rything you ever want âª âª It's ev'rything you ever need âª âª And it's here right in front of you âª
 PHINEAS: âª This is where you wanna be âª âª This is where you wanna be âª
 ALL: âª Where it's covered in all the colored lights âª âª Where the runaways are runnin' the night âª
-- âª Impossible comes true âª
-- This is for you. âª It's takin' over you âª âª Oh! This is the greatest show! âª
+âª Impossible comes true âª
+This is for you. âª It's takin' over you âª âª Oh! This is the greatest show! âª
 What will you be doing?
 Watching my girls grow up.
-- The show must go on.
-- âª We light it up, we won't come down âª âª And the sun can't stop us now âª âª Watchin' it come true âª âª It's takin' over you âª
+The show must go on.
+âª We light it up, we won't come down âª âª And the sun can't stop us now âª âª Watchin' it come true âª âª It's takin' over you âª
 PHILLIP: âª This is the greatest show! âª
 ALL: âª Where it's covered in all the colored lights âª âª Where the runaways are runnin' the night âª
 PHILLIP AND ANNE: âª Impossible comes true, it's takin' over you âª âª Oh! This is the greatest show! âª
 ALL: âª We light it up, we won't come down âª âª And the walls can't stop us now âª âª Watchin' it come true, it's takin' over you âª âª Oh! This is the greatest show! âª âª 'Cause ev'rything you want is right in front of you âª âª And you see the impossible is comin' true âª âª And the walls can't stop us now âª
-- âª Oh! This is the greatest show! âª
-- âª Yeah âª âª Oh! This is the greatest show! âª âª Oh! Oh! âª
+âª Oh! This is the greatest show! âª
+âª Yeah âª âª Oh! This is the greatest show! âª âª Oh! Oh! âª
 Daddy!
-- âª Oh! Oh! âª
-- (GIRLS LAUGHING)
-- âª Oh! This is the greatest show! âª
-- PHINEAS: Hey, girls!
-- Hey!
-- âª Oh! Oh! âª
-- âª Oh! Oh! âª
-- Make way. âª Oh! Oh! âª âª Oh! This is the greatest show! âª âª Oh! This is the greatest show! âª âª Oh! This is the greatest show! âª âª Oh! This is the greatest show! âª
-- âª Oh! This is the greatest show! âª
-- âª This is the greatest show! âª
-- âª Oh! This is the greatest show! Oh! âª
-- âª This is the greatest âª âª This is the greatest show! âª
-- (APPLAUSE)
-- (PIANO MUSIC PLAYS) âª It's ev'rything you ever want âª âª It's ev'rything you ever need âª âª And it's here right in front of you âª
+âª Oh! Oh! âª
+(GIRLS LAUGHING)
+âª Oh! This is the greatest show! âª
+PHINEAS: Hey, girls!
+Hey!
+âª Oh! Oh! âª
+âª Oh! Oh! âª
+Make way. âª Oh! Oh! âª âª Oh! This is the greatest show! âª âª Oh! This is the greatest show! âª âª Oh! This is the greatest show! âª âª Oh! This is the greatest show! âª
+âª Oh! This is the greatest show! âª
+âª This is the greatest show! âª
+âª Oh! This is the greatest show! Oh! âª
+âª This is the greatest âª âª This is the greatest show! âª
+(APPLAUSE)
+(PIANO MUSIC PLAYS) âª It's ev'rything you ever want âª âª It's ev'rything you ever need âª âª And it's here right in front of you âª
 LETTIE: âª Look out, cause here I come âª âª And I'm marching on to the beat I drum âª âª I'm not scared to be seen âª âª I make no apologies âª âª This is me âª
 GROUP: âª Oh, oh, oh âª âª Oh, oh âª âª Oh, oh, oh âª âª Oh, oh âª âª Oh, oh, oh, oh âª âª Oh, oh, oh âª
 LETTIE: âª Another round of bullets hits my skin âª âª Well, fire away âª âª Cause today, I won't let the shame sink in âª âª We are burstin' through the barricades âª âª And reachin' for the sun âª
 ALL: âª We are warriors âª
 LETTIE: âª Yeah, that's what we've become âª
 ALL: âª Won't let them break me down to dust âª âª I know that there's a place for us âª âª For we are glorious âª âª When the sharpest words wanna cut me down âª âª I'm gonna send a flood, gonna drown 'em out âª âª I am brave, I am bruised âª âª I am who I'm meant to be âª âª This is me âª âª Look out, cause here I come âª âª And I'm marching on to the beat I drum âª âª I'm not scared to be seen âª âª I make no apologies âª
-- âª This is me âª
-- âª Oh, oh, oh, oh âª âª Oh, oh, oh âª âª Oh, oh, oh, oh âª âª Oh, oh, oh âª âª Oh, oh, oh, oh, oh, oh âª âª Oh, oh, this is me âª âª Oh, oh, oh âª
+âª This is me âª
+âª Oh, oh, oh, oh âª âª Oh, oh, oh âª âª Oh, oh, oh, oh âª âª Oh, oh, oh âª âª Oh, oh, oh, oh, oh, oh âª âª Oh, oh, this is me âª âª Oh, oh, oh âª
 LETTIE: âª And I know that I deserve your love âª âª There's nothing I'm not worthy of âª
 ALL: âª Oh, oh âª
 LETTIE: âª When the sharpest words wanna cut me down âª âª I'm gonna send a flood, gonna drown 'em out âª âª This is brave, this is bruised âª âª This is who I'm meant to be âª âª This is me âª
@@ -1182,8 +1182,8 @@ ALL: âª Oh, oh, oh, this is me âª
 PHILLIP: âª You know I want you âª âª It's not a secret I try to hide âª âª I know you want me âª âª So don't keep saying our hands are tied âª âª You claim it's not in the cards âª âª And fate is pulling you miles away âª âª And out of reach from me âª âª But you're here in my heart âª âª So who can stop me if I decide âª âª That you're my destiny? âª âª What if we rewrite the stars âª âª Say you were made to be mine âª âª Nothing could keep us apart âª âª You'd be the one I was meant to find âª âª It's up to you âª âª And it's up to me âª âª No one can say what we get to be âª âª So why don't we rewrite the stars? âª âª Maybe the world could be ours âª âª Tonight âª
 ANNE: âª You think it's easy âª âª You think I don't want to run to you âª âª But there are mountains âª âª And there are doors that we can't walk through âª âª I know you're wondering why âª âª Because we're able to be just you and me âª âª Within these walls âª âª But when we go outside âª âª You're gonna wake up and see âª âª That it was hopeless after all âª âª No one can rewrite the stars âª âª How can you say you'll be mine? âª âª Everything keeps us apart âª âª And I'm not the one you were meant to find âª âª It's not up to you âª âª It's not up to me âª âª When everyone tells us what we can be âª âª How can we rewrite the stars? âª âª Say that the world can be ours âª âª Tonight? âª
 BOTH: âª All I want is to fly with you âª âª All I want is to fall with you âª âª So just give me all of you âª
-- ANNE: âª It feels impossible âª
-- PHILLIP: âª It's not impossible âª
+ANNE: âª It feels impossible âª
+PHILLIP: âª It's not impossible âª
 ANNE: âª Is it impossible? âª
 BOTH: âª Say that it's possible âª âª How do we rewrite the stars? âª âª Say you were made to be mine âª âª Nothing can keep us apart âª âª Cause you are the one
 I was meant to find âª âª It's up to you âª âª And it's up to me âª âª And no one can say what we get to be âª âª Why don't we rewrite the stars? âª âª Changing the world to be ours âª

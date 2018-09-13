@@ -10,8 +10,8 @@ Sir, contact changing to heading 2-1-4.
 Speed...
 80 knots.
 80 knots.
-- Still diving. Depth: 900.
-- Still diving. Depth: 900 feet.
+Still diving. Depth: 900.
+Still diving. Depth: 900 feet.
 Port clearance: 150 feet from the cliff wall, sir.
 It's getting tight in here.
 We can still give him a haircut.
@@ -43,8 +43,8 @@ Collision alarm!
 Collision alarm!
 Fire control to sonar!
 Let's get outta here!
-- Lighten her up, Charlie!
-- Port torpedo room is flooded, sir!
+Lighten her up, Charlie!
+Port torpedo room is flooded, sir!
 Blow all tanks!
 Blow all the tanks! Blow everything!
 All back full!
@@ -56,14 +56,14 @@ Main forward tanks are ruptured!
 Still descending, sir!
 Passing 1,500, sir.
 Still descending.
-- We're too deep to pump auxiliaries.
-- Passing 1,550, still descending sir.
-- We're losin' her!
-- Passing 1,600, sir...
-- ...and still descending!
-- Launch the buoy.
-- Passing 1,700, sir.
-- Launching!
+We're too deep to pump auxiliaries.
+Passing 1,550, still descending sir.
+We're losin' her!
+Passing 1,600, sir...
+...and still descending!
+Launch the buoy.
+Passing 1,700, sir.
+Launching!
 Come on! Give me your hand!
 Get the door closed!
 Benthic Explorer, Salvor 1 on final. Over.
@@ -79,11 +79,11 @@ The queen bitch of the universe.
 Sonny, how you doin'?
 I've got 2 more welds on this bypass valve.
 No light from the surface.
-- How deep are they?
-- McBride?
+How deep are they?
+McBride?
 1,700 feet.
-- I need them to go below 2,000.
-- No problem. They can do that.
+I need them to go below 2,000.
+No problem. They can do that.
 So that's it? You just cheerfully turn the whole thing over to the goon squad?
 Look, I was told to cooperate.
 I'm cooperating.
@@ -92,26 +92,26 @@ Get Brigman on the line.
 Deepcore, this is Benthic.
 Man, if Bud goes along with this...
 ...they're gonna have to shoot her with a tranquilizer gun.
-- Roger.
-- Hippy, get me Bud.
+Roger.
+Hippy, get me Bud.
 Catfish, get them old bones up here and give me a hand.
 Hang on. I'll be up there in a second.
 Hey, you guys are milkin' that job.
 Yeah, it's just because we love freezing our butts off out here for you so much.
-- Bring me another hammer!
-- Hey, Bud!
-- Yeah!?
+Bring me another hammer!
+Hey, Bud!
+Yeah!?
 Hippy's on the bitch box!
 It's a call from topside.
 That new company man.
-- Kirkhill?
-- Yeah.
+Kirkhill?
+Yeah.
 That guy don't know his butt from a rat hole.
 Perry, do me a favor, will you square away this mud hose... and get rid of some of these empty sacks.
-- This place is starting to look like my apartment.
-- You got it, boss!
-- Bud, pick up the topside line. Urgent.
-- I'm coming, I'm coming!
+This place is starting to look like my apartment.
+You got it, boss!
+Bud, pick up the topside line. Urgent.
+I'm coming, I'm coming!
 Jeez, keep your pantyhose on!
 Brigman here.
 Yeah, Kirkhill. What's goin' on?
@@ -123,8 +123,8 @@ Hey can you get that goddamn hippy shit music off the comm line, please?
 I'm almost done with the shut-off valve.
 Sonny, I'm right behind you with the next fitting.
 Hang on a second.
-- OK, give it to me.
-- Here you go.
+OK, give it to me.
+Here you go.
 Thanks, sweetie.
 All divers, drop what you're doin'.
 Everybody out of the pool.
@@ -132,27 +132,27 @@ I mean everybody right now.
 Sonny, One Night, let's go.
 Damn it. We just got out here.
 There was a time when I woulda asked why.
-- Get a move on!
-- Shit, woman!
+Get a move on!
+Shit, woman!
 Deepcore, Deepcore.
 This is Flatbed preparing to surface.
 Roger, Flatbed. Come on up.
 All rig personnel assemble at the moon pool.
 Everybody get to sub bay. ASAP.
 Come on. Let's get his hat off.
-- Take it off.
-- What the hell's goin' on?
-- How come we got recalled?
-- The hell if I know.
+Take it off.
+What the hell's goin' on?
+How come we got recalled?
+The hell if I know.
 I got it.
-- What's the drift, partner? Why are we up?
-- Just follow standard procedure.
+What's the drift, partner? Why are we up?
+Just follow standard procedure.
 Flog your dog till somebody tells you what's happenin'.
-- What's the story, boss?
-- Folks, listen up!
+What's the story, boss?
+Folks, listen up!
 We just been told to shut down the hole and prepare to move the rig.
-- Oh, shit!
-- What?
+Oh, shit!
+What?
 We've received an invitation to, um, cooperate in a matter of national security.
 Now you know as much as I do.
 Get your gear off and get to control.
@@ -160,13 +160,13 @@ We've got a briefing in 10 minutes.
 Come on, come on! Let's move it!
 At 09:22 local time today, an American nuclear submarine...
 ...the USS Montana, with 156 men aboard, went down...
-- ...about 22 miles from here.
-- Damn!
+...about 22 miles from here.
+Damn!
 There's been no contact with the sub since then. The cause of the incident is not known.
 Your company has authorized the navy's use of this facility...
 ...for a rescue operation code-named Operation Salvor.
-- You want us to search for the sub?
-- No. We know where it is.
+You want us to search for the sub?
+No. We know where it is.
 But she's in 2,000 feet of water and we can't reach her.
 We need divers to enter the sub and search for survivors, if any.
 Don't you have your own stuff for this kind of thing?
@@ -180,8 +180,8 @@ For triple time, I'd eat Beany!
 Set me on fire and put me out with horse piss.
 Look I don't know what kind of deal you made with the company...
 ...but my people are not qualified for this.
-- We're oil workers
-- This is a paycheck!
+We're oil workers
+This is a paycheck!
 Shut up! Hold it down.
 This is Lieutenant Coffey.
 He will transfer down to you with a SEAL team and supervise the operation.
@@ -199,20 +199,20 @@ I need to know when the leading edge will hit.
 Well, it's official sports fans.
 They're calling it Hurricane Frederick.
 And it's gonna be making our lives...
-- ...real interesting in a few hours.
-- Fred, huh?
+...real interesting in a few hours.
+Fred, huh?
 I don't know, man. I think hurricanes should be named after women, don't you?
-- I can't believe you're letting them do this.
-- Hi, Lins!
+I can't believe you're letting them do this.
+Hi, Lins!
 I thought you were in Houston.
 I was. Now I'm here.
-- Only here isn't where I left it, is it, Bud?
-- Wasn't up to me.
+Only here isn't where I left it, is it, Bud?
+Wasn't up to me.
 We were that close to proving a submersible drilling platform could work.
-- I can't believe you let them grab my rig!
-- Your rig?
-- My rig. I designed the damn thing.
-- Benthic Petroleum paid for it.
+I can't believe you let them grab my rig!
+Your rig?
+My rig. I designed the damn thing.
+Benthic Petroleum paid for it.
 So as long as they're holding the pink slip,
 I go where they tell me.
 I had a lot riding on this. They bought you, didn't they? More like rented you cheap!
@@ -230,18 +230,18 @@ Hang on, gentlemen.
 Touchdown! Crowd goes wild!
 Explorer, this is Cab 3.
 We are styling.
-- How you boys doin' back there?
-- Great.
+How you boys doin' back there?
+Great.
 Explorer, this is Cab 3.
 Starting our descent along the umbilical.
-- Roger that, Cab 3. Good luck.
-- Luck is not a factor.
+Roger that, Cab 3. Good luck.
+Luck is not a factor.
 Hey, One Night, how you doing?
 I got a white line fever, baby.
 Yeah, I heard that.
 Deepcore, Deepcore.
-- This is Cab 3 on final approach.
-- Roger, Cab 3. Is that you, Lindsey?
+This is Cab 3 on final approach.
+Roger, Cab 3. Is that you, Lindsey?
 None other.
 Oh, no!
 Howdy, boys!
@@ -251,8 +251,8 @@ Y'all shouldn't be down here, sweet thing.
 You might ruin your stockings.
 The bad news is we got 8 hours in this can blowin' down.
 And the worst news is it's gonna take us 3 weeks...
-- ...to decompress later.
-- We've all been fully briefed, Mrs. Brigman.
+...to decompress later.
+We've all been fully briefed, Mrs. Brigman.
 Just don't call me that, OK? I hate that.
 All right. What would you like us to call you?
 Sir?
@@ -261,55 +261,55 @@ Y'all start equalizin'... now!
 Let's watch each other closely for signs of HPNS.
 High Pressure Nervous Syndrome.
 Muscle tremors, usually in the hands first.
-- Nausea, increased excitability...
-- Disorientation.
+Nausea, increased excitability...
+Disorientation.
 And a partridge in a pear tree.
 About 1 person in 20 can't handle it.
 They just go buggo.
 Look, they've all made runs to this depth.
-- They checked out.
-- I understand that.
+They checked out.
+I understand that.
 What I'm saying is it's impossible to predict...
-- ...just who's susceptible.
-- They checked out.
-- These guys the SEALs?
-- Yeah.
+...just who's susceptible.
+They checked out.
+These guys the SEALs?
+Yeah.
 Those guys ain't so tough.
 I've fought guys plenty tougher than them.
 Now we get to hear how you could have been a contender?
 Hey! Hey!
-- You see this?
-- Yeah.
+You see this?
+Yeah.
 They used to call this the hammer.
 Y'all done to a turn and ready to serve.
 Everybody OK?
-- They're really very sweet.
-- Yeah.
+They're really very sweet.
+Yeah.
 Hey! I don't remember putting a wall here.
 How you doin', Jammer?
-- Pretty good. How are you, little lady?
-- I'm OK.
-- I want a full check on their gear.
-- Yes sir.
-- These guys are about as much fun as a tax audit.
-- Got that right.
+Pretty good. How are you, little lady?
+I'm OK.
+I want a full check on their gear.
+Yes sir.
+These guys are about as much fun as a tax audit.
+Got that right.
 Hippy, you're gonna give that rat a disease.
 Hi, Lins!
 Well, well. Mrs. Brigman.
 Not for long.
 You never did like being called that, did you?
 Not even when it meant something.
-- Is that One Night in Flatbed?
-- Yeah. Who else? Here. Say hi.
-- Hey, One Night. It's Lindsey.
-- Oh, hi, Lindsey.
+Is that One Night in Flatbed?
+Yeah. Who else? Here. Say hi.
+Hey, One Night. It's Lindsey.
+Oh, hi, Lindsey.
 OK Bud obstacle avoidance is showin' a rise out about 100 meters.
 What do you wanna do?
 Copy Bud.
 You know I can't believe you were dumb enough to come down here.
 Now you're stuck here for the storm.
-- That was dumb, hot rod. Real dumb.
-- I didn't come down here to fight with you.
+That was dumb, hot rod. Real dumb.
+I didn't come down here to fight with you.
 Copy you.
 Yeah, well...
 So what did you come down?
@@ -320,12 +320,12 @@ I mean what if something was to happen after the surface support clears off?
 What would you have done?
 Wow, you're right. Us poor dumb old boys might've had to think for ourselves.
 It could've been a disaster.
-- You wanna know what I think?
-- Jesus! Look where this thing is set.
-- You wanna know what I think?
-- Not particularly.
-- I think you were worried about me.
-- Then that must be it.
+You wanna know what I think?
+Jesus! Look where this thing is set.
+You wanna know what I think?
+Not particularly.
+I think you were worried about me.
+Then that must be it.
 No, seriously. I think you were.
 Come on. It's OK.
 It's OK. You can admit it.
@@ -368,8 +368,8 @@ Ask Dr. Bud.
 'Advice to the Lovelorn from 300 Fathoms.'
 Thank you. Thank you.
 Oh, shit!
-- Cuttin' you loose, Bud.
-- OK, One Night. Stay clear.
+Cuttin' you loose, Bud.
+OK, One Night. Stay clear.
 We're settin' her down.
 Touchdown!
 This is us, sitting right on the edge of the Cayman Trough.
@@ -379,14 +379,14 @@ We think she slid down the wall and now sits here on this outcropping.
 So we're gonna have to drop straight down... here and...
 This tell us how much radiation we're gettin'?
 Whoa whoa whoa! I'm not going near no radiation! No way!
-- Ah Hippy, you pussy.
-- Yeah what good is the money...
+Ah Hippy, you pussy.
+Yeah what good is the money...
 ...6 months later your dick drops off.
 We'll take readings as we go.
 If the reactor's breached...
 ...the warheads have released any radioactive debris, we'll just back off.
-- It's that simple.
-- Oh, OK.
+It's that simple.
+Oh, OK.
 OK. Hippy's not going, so, McWhirter, you can run Little Geek.
 Oh goddamn it! You know
 McWhirter can't run an ROV worth shit!
@@ -396,62 +396,62 @@ What is your problem huh? On this dive...
 ...you'll do absolutely nothing without direct orders from me.
 And you'll follow those orders without discussion. Is that clear?
 All right, I want everyone to finish prep and ready to get wet in 15 minutes.
-- One of you guys gimme a hand loading Little Geek, OK?
-- Let's get suited up.
+One of you guys gimme a hand loading Little Geek, OK?
+Let's get suited up.
 Hey, guys, guys! Hold it a second.
-- Before you're jumping...
-- Hold it!
-- I've to charge the main batteries
-- Whoa!
-- Ok. Here we go.
-- This goes to the right...
+Before you're jumping...
+Hold it!
+I've to charge the main batteries
+Whoa!
+Ok. Here we go.
+This goes to the right...
 Look uh...
 ...it's 3 am. These guys are running on bad coffee and about 4 hours of sleep.
 Maybe you could think about cuttin' them some slack.
-- I can't afford slack.
-- Hey you come on my rig, you don't talk to me...
+I can't afford slack.
+Hey you come on my rig, you don't talk to me...
 ...you start ordering my people around.
 It's not gonna work.
 You gotta know how to handle these people.
 We got a certain way of doing things around here.
 Right now, I'm not interested in your way of doing things.
 Just get your team ready to dive.
-- Did you check the rig?
-- Finler did it last night.
+Did you check the rig?
+Finler did it last night.
 These guys have got no sense of humor.
 Bud, do you know your hand is blue?
 Finler, why don't you just shut up and put your gear on?
 Keep it coming.
-- Hippy, throw me 1 of them cyalumes, please.
-- Yeah sure.
-- Good.
-- Excuse me.
-- What is all this stuff?
-- Fluid Breathing System. We just got them.
-- You use it when you go really deep.
-- How deep?
-- Deep.
-- How deep?
+Hippy, throw me 1 of them cyalumes, please.
+Yeah sure.
+Good.
+Excuse me.
+What is all this stuff?
+Fluid Breathing System. We just got them.
+You use it when you go really deep.
+How deep?
+Deep.
+How deep?
 It's classified.
 Anyway you breathe liquid so you can't get compressed.
-- The pressure doesn't get you.
-- You mean you got liquid in your lungs?
+The pressure doesn't get you.
+You mean you got liquid in your lungs?
 Oxygenated, fluorocarbon...
-- ...emulsion.
-- Bullshit!
+...emulsion.
+Bullshit!
 Check this out.
-- Can I borrow your rat?
-- What are you doin'?
-- Hey, no no no!
-- You're gonna... you're gonna kill her!
-- It's OK. I've done this myself.
-- Man! You're just drowning her?
+Can I borrow your rat?
+What are you doin'?
+Hey, no no no!
+You're gonna... you're gonna kill her!
+It's OK. I've done this myself.
+Man! You're just drowning her?
 She's gonna be fine.
 I've breathed this myself.
-- It's gonna be fine.
-- No, man. She's gonna drown!
-- Look, look! She's freaking out!
-- Just goin' through a normal adjustment period.
+It's gonna be fine.
+No, man. She's gonna drown!
+Look, look! She's freaking out!
+Just goin' through a normal adjustment period.
 Normal!? Does this look normal to you?
 She's gonna drown!
 He's taking the fluid into his lungs.
@@ -460,22 +460,22 @@ There he goes.
 Still has a bit of anxiety here.
 Now he's starting to relax.
 He's breathing fine. See his chest moving?
-- He's getting plenty of oxygen.
-- Damn rat's breathing that shit.
+He's getting plenty of oxygen.
+Damn rat's breathing that shit.
 That is, no bullshit, hands down, the goddamndest thing I ever saw.
 See the fluid's harder to push in and out than air.
 It's a little more work to breathe.
 But he's doing fine. He's diggin' it.
 She's doin' it. She ain't diggin' it.
 All right, let her out now!
-- Now!
-- OK. All right.
+Now!
+OK. All right.
 OK. Now we let the fluid drain from his lungs.
 All right. Give her here.
 Give her here.
 Here's your rat.
-- See? He's fine!
-- It's a she.
+See? He's fine!
+It's a she.
 Going over the wall.
 Coming to bearing 0-6-5.
 Flatbed, you online?
@@ -486,8 +486,8 @@ Divers, how you doin'?
 Everybody's OK so far.
 Hang on, boys.
 It's all downhill from here.
-- Hey, how deep's the drop-off here?
-- This here's the bottomless pit, baby.
+Hey, how deep's the drop-off here?
+This here's the bottomless pit, baby.
 2 and a half miles straight down.
 Cab 3, it's Bud.
 You on line?
@@ -497,8 +497,8 @@ Cab 1, do you see it yet?
 Magnetometer's twitching, but I don't see anything yet.
 Hang on. I'm gonna test my strobes.
 Cab 1, do you have a visual?
-- Cab 1, do you copy?
-- Uh yeah.
+Cab 1, do you copy?
+Uh yeah.
 Roger that. Found it.
 Cab 1, radiation readings?
 Neutron counter's not showing much.
@@ -513,15 +513,15 @@ Copy that.
 Coming up to the mid-ship's hatch.
 Do you see it, Cab 3?
 Yeah, roger. I got it.
-- How do you want me?
-- Just hold above it.
-- Roger. Holding.
-- OK. It's all yours, Lieutenant.
-- All right, 'A Team.'
-- Let's do it.
+How do you want me?
+Just hold above it.
+Roger. Holding.
+OK. It's all yours, Lieutenant.
+All right, 'A Team.'
+Let's do it.
 OK. Perry, Hippy.
-- Let's get that R.O.V. launched.
-- OK. We're on it, boss.
+Let's get that R.O.V. launched.
+OK. We're on it, boss.
 Go!
 Little Geek is on the case.
 Monk here, sir.
@@ -531,8 +531,8 @@ Inner hatch looks intact.
 It's flooded. All right,
 I'm gonna open her up.
 OK. Get in there.
-- Roger. Somebody get on that tether.
-- Got it.
+Roger. Somebody get on that tether.
+Got it.
 Sorry about this, little buddy, but better you than me. You know what I mean?
 Coffey, these are the missile hatches, right?
 That's right. It looks like a couple of the hatches have sprung.
@@ -549,8 +549,8 @@ Jesus Christ!
 It's World War III in a can.
 Let's knock off the chatter people.
 OK. I'm headin' into the reactor compartment.
-- Getting a reading?
-- Uh it's twitching.
+Getting a reading?
+Uh it's twitching.
 But it's below the line you said was safe.
 All right. Let's get in there.
 Flatbed, drop down starboard of the sail and stay along the cliff edge.
@@ -558,43 +558,43 @@ OK. Copy that.
 Keep heading for the bow.
 OK, Flatbed. This looks good.
 Just set it down here.
-- We're solid.
-- Let's go.
+We're solid.
+Let's go.
 All right. Let's go.
 OK. Let's just take it slow and easy goin' in.
 Don't take any chances.
 Where are we, Coffey?
 This is the forward berthing compartment.
 This way.
-- You guys OK? Cat? Jammer?
-- Right behind you, Bud.
+You guys OK? Cat? Jammer?
+Right behind you, Bud.
 Check your gauges.
 How's your O2?
-- I'm OK.
-- Yeah, gauges are good.
+I'm OK.
+Yeah, gauges are good.
 OK.
 16 minutes to go.
 Jammer here. CO2 is up.
-- Breathe slower, buddy.
-- I'm OK.
+Breathe slower, buddy.
+I'm OK.
 Come on. Let's keep up.
 All right, up this way to the control center.
 It's jammed! Gimme a hand!
 Get up here with that pry bar.
 It's moving. Pull!
-- Jesus!
-- Oh God.
+Jesus!
+Oh God.
 All right! We knew we were gonna see this.
 Just move on.
-- Jesus!
-- Come on, Jammer. Let's go.
+Jesus!
+Come on, Jammer. Let's go.
 OK. Let's stay cool.
 Everybody stay cool.
 We can't help these guys, but we might find somebody further in.
 Stay here.
 Hey, Jammer. You OK?
-- How you guys doin'?
-- I'm dealin'.
+How you guys doin'?
+I'm dealin'.
 Triple time sounded like a lot of money, Bud. It ain't.
 We're here. Let's get it done, OK?
 Brigman, take your men and continue aft.
@@ -604,14 +604,14 @@ We head back in 14 minutes.
 Let's go.
 You OK, Jammer?
 Yeah, I'm fine.
-- What's this?
-- Should be the missile launch control center.
-- Don't touch anything.
-- No, no, n-n-n-n-no.
+What's this?
+Should be the missile launch control center.
+Don't touch anything.
+No, no, n-n-n-n-no.
 This way.
 I'm right behind you.
-- Still with me, Jammer?
-- Where are we?
+Still with me, Jammer?
+Where are we?
 Missile compartment.
 Those are the launch tubes.
 Shit! Shit! Shit! Shit!
@@ -619,10 +619,10 @@ Hey, Jammer.
 Hey! Hey!
 Hey! Hey! Hey! Hey! You OK?
 Deep and slow, big guy.
-- Deep and slow. Just breathe easy.
-- Everybody's dead!
-- They're all dead!
-- OK. I'm taking you back out. Let's go.
+Deep and slow. Just breathe easy.
+Everybody's dead!
+They're all dead!
+OK. I'm taking you back out. Let's go.
 No. I'm OK. I'm OK.
 I just can't go any further in.
 OK, Jammer. No problem.
@@ -631,17 +631,17 @@ I've gotta check out this compartment, all right?
 We'll stay in voice contact.
 You hold onto the end of this rope here.
 You have any problem whatsoever, you tug twice.
-- I got it.
-- Pull it hard. 5 more minutes.
+I got it.
+Pull it hard. 5 more minutes.
 Just relax, all right? You'll be OK.
-- It's OK.
-- Be right back.
+It's OK.
+Be right back.
 You still readin' me OK, big guy?
 Read you fine, Bud.
 OK. Just a few more minutes.
 There's a couple of compartments up ahead that might have air.
-- OK. No problem.
-- We gotta be sure, right?
+OK. No problem.
+We gotta be sure, right?
 Hang on, Jammer.
 Just hold onto that...
 Shit!
@@ -654,8 +654,8 @@ Hang on, Jammer.
 Lew! Cat! Hurry up, on the double!
 I'm on my way!
 Jammer!
-- What's the problem?
-- He's convulsing!
+What's the problem?
+He's convulsing!
 It's his mixture! Too much oxygen!
 Gotta get the O2 cut down! Turn him over!
 Crank it down, man! You're losing him!
@@ -671,8 +671,8 @@ Let's give 'em 2 minutes more max...
 Lindsey, do you copy?
 Meet me at Flatbed!
 This is a diver emergency!
-- Lins, do you copy!
-- Yeah, copy you, Bud. I'm on my way.
+Lins, do you copy!
+Yeah, copy you, Bud. I'm on my way.
 Look, I'm just a medic.
 Which is mostly about patching holes.
 This type of thing, it's...
@@ -680,8 +680,8 @@ This type of thing, it's...
 The coma could last hours or days.
 So, you didn't get anything on these cameras
 No, I didn't get a picture of it.
-- What about the video?
-- No.
+What about the video?
+No.
 We lost power right then.
 Look, I just don't wanna talk about this, OK?
 Fine. Be that way.
@@ -697,14 +697,14 @@ No.
 Well, whose then?
 Come on, Lindsey. Talk to me.
 Look, Jammer saw something down there.
-- Something that scared the hell out of him.
-- His mixture got screwed up.
+Something that scared the hell out of him.
+His mixture got screwed up.
 Jammer panicked. He pranged his regulator and his mixture got screwed up.
 But what did he see that made him panic?
 Well, what do you think he saw?
 I don't know.
-- Did any of you see it?
-- No, sir. The Brigman woman saw it.
+Did any of you see it?
+No, sir. The Brigman woman saw it.
 Could have been a Russian bogey.
 CINCLANTFLT's gonna go apeshit.
 Two Russian attack subs, a Tango and a
@@ -713,67 +713,67 @@ And now they don't know where the hell they are. OK.
 I don't have any choice.
 I'm confirming you to go to Phase 2.
 You'll recover one warhead, arm it, and wait for further instructions.
-- Have we got a problem with that?
-- Negative, sir.
+Have we got a problem with that?
+Negative, sir.
 Come on!
-- What did he say?
-- Turn it up, bozo!
+What did he say?
+Turn it up, bozo!
 ...early reports that the Montana encountered a Soviet fast attack sub prior to its sinking...
 ...and the Kremlin continues to deny any involvement.
 That's us! That's us, man!
 Benthic Petroleum are apparently participating in the recovery operation...
 ...but we have little information about their involvement.
 We want names!
-- Hey, that's the Explorer! We're famous!
-- Quiet!
+Hey, that's the Explorer! We're famous!
+Quiet!
 There is a tremendous amount of activity.
 With Cuba only 80 miles away, the massive build-up of American forces...
 ...has drawn official protest from Havana and Moscow.
 Russian and Cuban trawlers, undoubtedly surveillance vessels...
 ...have been circling the area...
-- ...and Soviet aircraft have repeatedly been warned away.
-- This sucks!
-- Hippy, what's the matter with you?
-- What's the matter with me? Nothing!
+...and Soviet aircraft have repeatedly been warned away.
+This sucks!
+Hippy, what's the matter with you?
+What's the matter with me? Nothing!
 We're just in the middle of some big-time international incident...
-- ...like the Cuban Missile Crisis or something!
-- Figured that out for yourself, did you Hip?
+...like the Cuban Missile Crisis or something!
+Figured that out for yourself, did you Hip?
 You know, we got Russian subs creeping around.
 Anything goes wrong, they could say whatever they want happened.
 Relax, will you?
 You're making the women nervous.
-- Cute, Virgil.
-- You know, you know...
+Cute, Virgil.
+You know, you know...
 ...those SEALs ain't tellin' us diddly.
 Something is goin' on!
-- Come on, come on.
-- Hippy, you think everything's a conspiracy.
+Come on, come on.
+Hippy, you think everything's a conspiracy.
 Everything is.
 Hurry up, Coffey's splitting with Flatbed!
 I showed him how to work the controls and they're outta here!
-- Didn't you tell him we need it right now?
-- Yeah! He didn't pay any attention!
-- Where the hell is he takin' it?
-- I have no idea!
+Didn't you tell him we need it right now?
+Yeah! He didn't pay any attention!
+Where the hell is he takin' it?
+I have no idea!
 Shit!
 Coffey! Come back! We need...
 ...the big arm to unhook the umbilical.
 There's a goddamn hurricane coming!
-- He switched off.
-- It's unbelievable.
+He switched off.
+It's unbelievable.
 Go back down and tell those men to get below and stay there!
 We need to get unhooked and get out of here now!
-- All right. Do it, then.
-- No problem, except your boys...
+All right. Do it, then.
+No problem, except your boys...
 ...went sightseeing with Flatbed. My people need Flatbed to get unhooked at their end.
-- Back in 2 hours.
-- 2 hours?!
+Back in 2 hours.
+2 hours?!
 We're gonna get the shit kicked out of us by our pal Fred in 2 hours!
 OK. Set cold tab fitting to 200 psi.
-- Set.
-- There she goes.
-- She's breakin' loose.
-- Bringin' her up.
+Set.
+There she goes.
+She's breakin' loose.
+Bringin' her up.
 OK.
 All right.
 'K Clear the hatch.
@@ -791,16 +791,16 @@ This was denied by state department officials...
 Bud, this is big time.
 ...who said that Captain Michael
 Sweeney was acting correctly...
-- OK. It's clear.
-- It's all yours, sir.
+OK. It's clear.
+It's all yours, sir.
 I'm gonna swing it away and drop it.
 Check. OK.
 Bypass the ground connection on the separation sequencer.
-- Got it?
-- Separation sequencer disconnected.
+Got it?
+Separation sequencer disconnected.
 Remove explosive bolts 1 through 6...
-- ...in counterclockwise sequence.
-- Check. Removing bolt 1.
+...in counterclockwise sequence.
+Check. Removing bolt 1.
 Negotiators have walked out of the Strategic Arms Limitation Talks...
 ...in protest over the incident this morning.
 The sudden deterioration of relations with the United States and the Soviet...
@@ -820,8 +820,8 @@ Then clear the sub! We gotta get it outta here!
 Come on, let's go! Let's move it!
 One Night, you're up!
 Get ready to roll, baby!
-- Don't touch that! Just back away.
-- Excuse moi!
+Don't touch that! Just back away.
+Excuse moi!
 Hey, Coffey. We're a little pressed for time.
 Prick.
 This ain't no drill, Slick.
@@ -830,12 +830,12 @@ Piece of cake, baby.
 What's the problem, One Night?
 All hell must be breaking loose up there.
 This cable's pissin' me off!
-- I can't get a grip on it.
-- Well, keep tryin', baby. Just keep tryin'.
+I can't get a grip on it.
+Well, keep tryin', baby. Just keep tryin'.
 Son of a bitch!
 Shit! We got a problem!
-- What's going on?
-- We're losing number 2 thruster!
+What's going on?
+We're losing number 2 thruster!
 Bearing's going!
 It's not holding!
 We're swinging out of position here!
@@ -844,17 +844,17 @@ Shit!
 The rig is movin'!
 Yeah, I can see that. Topside!
 Topside, pay out some slack! We're gettin' dragged!
-- Down on number 1 winch!
-- We're gettin' dragged!
+Down on number 1 winch!
+We're gettin' dragged!
 Down on 1!
 Bud, we're headed right for the drop-off!
 What the hell?
 We just lost all the topside feeds!
 Shit! Get 'em on the UQC.
-- Any damage on the hull?
-- Bud!
-- We lost the crane!
-- Say again. What?
+Any damage on the hull?
+Bud!
+We lost the crane!
+Say again. What?
 The crane!
 We've lost the crane!
 It's on its way down to you!
@@ -862,12 +862,12 @@ All right, everybody!
 Everybody rig for impact!
 Close all the exterior hatches!
 Let's move it!
-- Let's go!
-- Go! Go! Go! Go!
-- Wait!
-- Get in here!
-- What the hell is goin' on around here!?
-- I don't know!
+Let's go!
+Go! Go! Go! Go!
+Wait!
+Get in here!
+What the hell is goin' on around here!?
+I don't know!
 You two help secure the rig! Let's go!
 One Night! One Night!
 You gotta get the hell outta there!
@@ -875,25 +875,25 @@ The crane's comin' down!
 I'm OK. I'm clear, Bud.
 I've got it! It's headed straight for us!
 Oh, shit!
-- Oh no! No! No! No! No! No! No! No! No!
-- Oh my God.
+Oh no! No! No! No! No! No! No! No! No!
+Oh my God.
 Bud?
 Grab onto something!
 Jesus!
-- Battery room's flooding! Let's go!
-- Cat, put that out!
-- Bud! The drill room's floodin'!
-- Get back down there!
+Battery room's flooding! Let's go!
+Cat, put that out!
+Bud! The drill room's floodin'!
+Get back down there!
 Go! I'll take the battery room!
 Jesus!
 Shit!
-- Get out of there!
-- Close the door!
+Get out of there!
+Close the door!
 Seal the room!
 Lindsey!
 Let's get outta here!
-- Hold this on me!
-- OK!
+Hold this on me!
+OK!
 Lindsey!
 I got it!
 Let's get the hell outta here!
@@ -909,8 +909,8 @@ Finler!
 Hey! Hey!!!
 Hey!
 Hey!!!
-- Come on, Sonny!
-- Hey, Cat! Cat, help me out, man!
+Come on, Sonny!
+Hey, Cat! Cat, help me out, man!
 Hang on!
 The hose! Cut the hose!
 The line to the motor! Hurry up, man!
@@ -918,16 +918,16 @@ Come on, Cat!
 Hurry!
 Come on, Sonny!
 Help me out! Come on! Push!
-- Come on, Sonny! Let's go!
-- Come on! Let's go! We gotta go! Go! Go!
+Come on, Sonny! Let's go!
+Come on! Let's go! We gotta go! Go! Go!
 Get outta here! Come on! Move it!
 Go! Go! Go! Go! Go!
 Go! Go! Go! Go!
 Get the hatch, Cat!
 Get the hatch!
 Get the hatch!
-- You all right? Everybody OK?
-- Yeah.
+You all right? Everybody OK?
+Yeah.
 Son of a bitch!
 Oh, man!
 Benthic Explorer, Benthic Explorer.
@@ -937,8 +937,8 @@ This is Deepcore.
 Do you read me? Over.
 Forget it, Sonny.
 They're gone, man.
-- Mayday, Mayday, Mayday.
-- Hey.
+Mayday, Mayday, Mayday.
+Hey.
 They're gone.
 OK?
 I just wanna get out of this.
@@ -953,27 +953,27 @@ This is Deepcore 2. Over.
 Mayday, Mayday, Mayday.
 Deepcore 2 do you read me? Over.
 Hey, Jammer.
-- You got the shakes.
-- I know what I got.
+You got the shakes.
+I know what I got.
 I'll deal with it, all right?
 I'll deal with me.
 You deal with yourself.
 Find your buddy?
-- No.
-- Tighter, tighter.
-- Brigman.
-- What?
+No.
+Tighter, tighter.
+Brigman.
+What?
 I was under orders.
 I had no choice.
 How's it going, Cat?
-- What's the scoop, ace?
-- Well...
+What's the scoop, ace?
+Well...
 ...I can get power to this module and sub-bay if I reroute these buses.
 But I gotta get past the mains, which are a total meltdown.
 Bud, there won't be enough to run the heaters.
 In a few hours, this place is gonna be as cold as a meat locker.
-- What about O2?
-- Yeah, well, brace yourself.
+What about O2?
+Yeah, well, brace yourself.
 If we close off the sections we're not using, we have about maybe
 12 hours' worth.
 The storm's gonna last a lot longer than 12 hours.
@@ -982,8 +982,8 @@ Yeah, well...
 There are some storage tanks outboard next to the wrecked module.
 I'll have to go outside, though, and tie onto them.
 Hey, Lins.
-- Lins.
-- Yeah?
+Lins.
+Yeah?
 I'm glad you're here.
 Yeah?
 I'm not.
@@ -991,8 +991,8 @@ Hey. Found Cab 3.
 Deader than dog shit, boss.
 That girder went right through the brainpan.
 Yeah, I see that.
-- Where are you?
-- Living quarters. Level 2.
+Where are you?
+Living quarters. Level 2.
 Ah jeez!
 That's Perry.
 That's it, then.
@@ -1004,17 +1004,17 @@ We got no choice.
 Our first priority is to get somethin' to breathe.
 Where are you now, Lins?
 I'm under the starboard tri-module.
-- Still with me, Hip?
-- Right behind you, Lins.
-- How's it look?
-- Well, you guys really screwed up my rig.
-- There's a lot of wreckage out here.
-- Well, don't get fouled.
-- Hey hit me with that 9/16ths, OK?
-- Yeah.
+Still with me, Hip?
+Right behind you, Lins.
+How's it look?
+Well, you guys really screwed up my rig.
+There's a lot of wreckage out here.
+Well, don't get fouled.
+Hey hit me with that 9/16ths, OK?
+Yeah.
 Thank you. So...
-- ...there you were.
-- Yeah, there we were.
+...there you were.
+Yeah, there we were.
 Side by side on the same ship for 2 months.
 I'm a tool pusher and we're testing this automated derrick of hers.
 We get back on the beach and we're livin' together.
@@ -1027,8 +1027,8 @@ OK. Good reason. Will you come over here and tighten this for me?
 Then what?
 Then it was all right there for a while, you know.
 Then she got promoted to chief engineer on this thing a couple years ago.
-- She went front office on you, man.
-- Yeah, well, you know Lindsey.
+She went front office on you, man.
+Yeah, well, you know Lindsey.
 She's just too damn aggressive.
 Son of a bitch!
 She didn't leave me.
@@ -1056,21 +1056,21 @@ Bud, do you copy? Over.
 Uh... I seem to be having a problem here.
 Shit!
 Damn it!
-- That's a great shot, Lins.
-- You drop your dive light?
+That's a great shot, Lins.
+You drop your dive light?
 Oh come on you guys, come on.
 Now that's the smaller one.
 That's the smaller one here.
-- You can kinda see how it's zigging around.
-- Yea, whatever it is.
+You can kinda see how it's zigging around.
+Yea, whatever it is.
 I'm telling you what it is.
 You're just not hearing me.
-- Now, Lindsey you...
-- There is something down there.
-- Something not us.
-- You could be more... specific.
-- Something that zigs.
-- Not us.
+Now, Lindsey you...
+There is something down there.
+Something not us.
+You could be more... specific.
+Something that zigs.
+Not us.
 Not human.
 Get it? Something non-human... but intelligent.
 A non-terrestrial intelligence.
@@ -1078,8 +1078,8 @@ A non-terrestrial intelligence.
 NTIs. Oh, man, that's better than UFOs.
 Oh but that works too huh.
 Underwater Flying Objects.
-- Are we talking little space friends here?
-- Hell, yeah!
+Are we talking little space friends here?
+Hell, yeah!
 Hot rods of the gods!
 Right, Lins?
 No, no, really.
@@ -1089,15 +1089,15 @@ Step outside.
 They abduct people all the time, man. There was once...
 Hippy, would you do me a favor?
 Stay off my side.
-- Will you step into my office, please?
-- Certainly.
+Will you step into my office, please?
+Certainly.
 I... come here.
 Jesus, Lins!
 Oh Bud, come on! Something really important is happening here.
 I'm trying to keep the situation under control.
 I can't allow you to create this kind of hysteria.
-- Who's hysterical?! Nobody's hysterical!
-- Shh!
+Who's hysterical?! Nobody's hysterical!
+Shh!
 All I'm saying is, when you're hanging on by your fingernails, you don't go waving your arms around.
 Look, I saw something.
 I'm not gonna go in there and say I didn't see it when I did. I'm sorry.
@@ -1108,8 +1108,8 @@ But I need you to believe me right now.
 Now, come on. Look at me. Come on.
 Am I stressed out?
 Do I have any symptoms of pressure - sickness, tremors, slurred speech?
-- No.
-- No.
+No.
+No.
 Bud, this is me. Lindsey. OK?
 You know me better than anybody in the world.
 Now watch my lips.
@@ -1128,8 +1128,8 @@ I don't know how I know that.
 It's just... a feeling.
 Jesus! I'm supposed to go on a feeling?
 How can I go on a feeling?
-- You think Coffey's gonna go on a feeling?
-- Well, we all see what we wanna see.
+You think Coffey's gonna go on a feeling?
+Well, we all see what we wanna see.
 Coffey looks and he sees Russians.
 He sees hate and fear.
 You have to look with better eyes than that.
@@ -1137,20 +1137,20 @@ Please.
 I can't, Lins.
 I'm sorry.
 All I want is 24 hour surveillance on exterior cameras.
-- You've got 6 people. I've got...
-- Comin' through!
+You've got 6 people. I've got...
+Comin' through!
 Everybody just stop!
 All right. I want around-the-clock manning of the sonar shack and the exterior cameras.
 That Russian bogey comes back...
-- ...I don't think we should be taking a nap.
-- Give me a break, Coffey.
+...I don't think we should be taking a nap.
+Give me a break, Coffey.
 Those things live 3 and a half miles down in an abyssal trench.
 Trust me, they're not speaking Russian.
 Have you finished the repairs...
-- ...on the acoustical transmitter yet?
-- Nope.
-- Why not?
-- I was having my nails done.
+...on the acoustical transmitter yet?
+Nope.
+Why not?
+I was having my nails done.
 Well, get it done.
 Kiss my ass.
 All right.
@@ -1169,8 +1169,8 @@ Then you spell Cat, all right?
 Hippy, you handle exterior surveillance.
 One Night...
 Will you do me a favor and see if you can get that transmitter fixed?
-- All right?
-- Give me a couple of hours.
+All right?
+Give me a couple of hours.
 Got it.
 All right.
 Come on, AJ Squared Away.
@@ -1200,12 +1200,12 @@ Lins! Just stop and think about this for a second.
 About what?
 You know, you've got some huevos bringing that thing into my rig.
 With all that's goin' on up in the world, you bring a nuclear weapon...
-- ...in here!
-- Mrs. Brigman...
+...in here!
+Mrs. Brigman...
 Does this strike anyone as particularly psychotic, or is it just me?
 Mrs. Brigman, you don't need to know the details of our operation.
-- It's better if you don't.
-- You're right! I don't need to know!
+It's better if you don't.
+You're right! I don't need to know!
 What I need to know is that thing is off this rig!
 Do you hear me, Roger Ramjet!?
 You're becoming a serious impediment to our mission.
@@ -1226,8 +1226,8 @@ All right, you let her go, man. Do it.
 Do it now!
 Let her go.
 The smartest thing you ever did.
-- Coffey, you son of a bitch!
-- Lindsey! Cool it.
+Coffey, you son of a bitch!
+Lindsey! Cool it.
 What's the problem?
 Nothing. We were just leaving. Weren't we?
 We don't need them.
@@ -1245,8 +1245,8 @@ And he's got a nuclear weapon.
 So, as a personal favor to me, will you try to put your tongue in neutral for a while? OK?
 I gotta tell you. I give this whole thing a sphincter factor of about 9.5.
 You can just punch into his primary guidance chip where you want him to go...
-- ...and he'll go there, right?
-- No. Bad idea, Lindsey.
+...and he'll go there, right?
+No. Bad idea, Lindsey.
 Why, Hip? Come on.
 Because even if it could take the pressure at that depth, which
 I don't think it can...
@@ -1282,18 +1282,18 @@ Sweet Christ almighty!
 I think it likes you.
 It's trying to communicate.
 It's Bud.
-- It's wonderful!
-- It's me!
-- No no no no no!
-- Shh it's OK. It's OK.
+It's wonderful!
+It's me!
+No no no no no!
+Shh it's OK. It's OK.
 What is it!?
 Is it alive?
 Lindsey, no...
 Seawater.
 Oh, man.
 Come on! Come on!
-- Hurry!
-- Where the hell's it going?
+Hurry!
+Where the hell's it going?
 Hurry! I think it's headed for B module!
 Lins, you see it?
 So, raise your hand if you think it was a Russian water tentacle.
@@ -1301,8 +1301,8 @@ Lieutenant?
 No? Well...
 ...a breakthrough.
 Hey, ace...
-- ...you done impressing yourself?
-- No way that thing could just be seawater.
+...you done impressing yourself?
+No way that thing could just be seawater.
 They must have learned to control water.
 I mean, at a molecular level.
 You know, they can plasticize it, they can pulverize it, do whatever they wanna do with it.
@@ -1311,13 +1311,13 @@ Maybe... their whole technology's based on that... controlling water.
 Was it the same thing that you saw the last time?
 No.
 You know, I don't think that that thing you saw was one of them.
-- What are you talkin' about?
-- I mean, I don't think it was an NTI.
+What are you talkin' about?
+I mean, I don't think it was an NTI.
 I think it was like their version of an ROV.
 Like Big Geek.
 Hippy, you mean they was just checkin' us out?
-- Yeah.
-- How come?
+Yeah.
+How come?
 Curious, I suppose.
 We're probably the first people they've ever seen right?
 Who's been down this far?
@@ -1336,8 +1336,8 @@ I don't know.
 I think... I think they're from,
 'you know.'
 Someplace with similar conditions.
-- Cold, intense pressure.
-- Oh, man!
+Cold, intense pressure.
+Oh, man!
 Happy as hogs in a waller down there, probably.
 Sniff something?
 Did you, rat boy?
@@ -1345,17 +1345,17 @@ Hey! Hey! Hey! Come on!
 Freeze!
 Don't move!
 That's right.
-- You OK, Hip?
-- They're using Big Geek...
-- ...to take the bomb to the NTIs.
-- What?
+You OK, Hip?
+They're using Big Geek...
+...to take the bomb to the NTIs.
+What?
 We set it up to go right to 'em.
 Oh my God! Oh my God!
 Take this. We're going to Phase 3.
 What!? We don't have orders for that!
 I programmed Big Geek to go down to the bottom of the trench and shoot some video.
-- Now they got the warhead tied to it.
-- Coffey.
+Now they got the warhead tied to it.
+Coffey.
 Lins...
 Coffey... no, come on, Coffey. Just think about what you're doing, OK?
 Just one minute. Just think about what you're doing!
@@ -1363,17 +1363,17 @@ Get back!
 This is something I've wanted to do since we first met.
 Come on. Take it easy.
 Take it easy.
-- All right! Into the kitchen! Let's go! Move!
-- Get your damn hands off of me!
-- Get in there!
-- I know the way.
+All right! Into the kitchen! Let's go! Move!
+Get your damn hands off of me!
+Get in there!
+I know the way.
 Your boss is fixin' to pull the pin on 50 kilotons!
 And we're all gonna be ringside!
 He's havin' a full-on meltdown!
-- What's the timer set for?
-- Three hours.
-- Shut up! Don't talk.
-- Three hours.
+What's the timer set for?
+Three hours.
+Shut up! Don't talk.
+Three hours.
 We can't get to minimum safe distance in three hours.
 We can't go to Phase 3.
 What about these people?
@@ -1382,69 +1382,69 @@ Everybody just stay calm.
 The situation is under control.
 Anybody touches that door, kill 'em.
 Shoenick! Your lieutenant's about to make a real bad career move!
-- The guy is crazier than a shithouse rat!
-- Shut it!
-- They're trying to make contact!
-- Can't you see he's lost it?
-- Shut up!
-- The shock wave will kill us.
-- Quiet!
+The guy is crazier than a shithouse rat!
+Shut it!
+They're trying to make contact!
+Can't you see he's lost it?
+Shut up!
+The shock wave will kill us.
+Quiet!
 It'll crush this rig like a beer can.
-- Shut up, man! What are you talkin' about!?
-- We gotta stop him.
+Shut up, man! What are you talkin' about!?
+We gotta stop him.
 Shut up!
 This is not our mission.
 We can't detonate without orders.
 He's about to declare war on an alien species...
 ...just when they're trying to make contact with us. Please!
-- I don't know. I think I'm reaching him.
-- Yeah!
+I don't know. I think I'm reaching him.
+Yeah!
 Ho ho ho.
 I'll be damned.
-- Jammer.
-- Is everybody OK?
+Jammer.
+Is everybody OK?
 Oh, man!
-- Don't move, jarface!
-- Look, I'm the least of your problems.
-- Take it easy, Hippy.
-- I'm all right.
+Don't move, jarface!
+Look, I'm the least of your problems.
+Take it easy, Hippy.
+I'm all right.
 How you feeling, big guy?
 I'm OK, Bud. I...
 ...I just... I just figured
 I was dead back there when I saw that angel coming for me.
 Yeah, OK.
 Yeah. Why don't you tell us about it later?
-- Come on.
-- He's got it tied off with something.
+Come on.
+He's got it tied off with something.
 Yeah come on. Ready?
 We're not gonna be able to budge it.
-- What are you doing?
-- I'm gonna swim to hatch 6.
+What are you doing?
+I'm gonna swim to hatch 6.
 What!?
 I'm gonna get inside...
 ...and I'm gonna open the door from the other side.
 Bud, this water is freezing.
 Then I guess you'd better wish me luck, huh?
-- Wish us luck.
-- You comin' along?
+Wish us luck.
+You comin' along?
 Looks that way.
-- All right, Cat.
-- Come on, Bud.
-- In case I don't die...
-- This is insane.
+All right, Cat.
+Come on, Bud.
+In case I don't die...
+This is insane.
 Come on, Bud.
 Let's go, partner. I ain't got all day.
 Come on. Yank on it.
 We have to...
 ...we have to go to the moon pool.
-- It's the only way.
-- I can't.
+It's the only way.
+I can't.
 I can't make it, partner.
 I'm sorry.
 OK... OK Cat.
 You head on back, all right?
-- What is he doing?
-- He can't make it to the door.
+What is he doing?
+He can't make it to the door.
 He's gonna try and take him out himself.
 No. God, he couldn't be that dumb.
 That guy's a trained killer.
@@ -1452,10 +1452,10 @@ No!
 Coffey... Coffey, listen.
 Hey!
 Hey!
-- Bud, you all right?
-- Get him, Cat!
-- He's dogged it, Bud!
-- We gotta get this off of here.
+Bud, you all right?
+Get him, Cat!
+He's dogged it, Bud!
+We gotta get this off of here.
 Come on. Help me. Pull the gripper!
 Cat, get the door!
 Shit!
@@ -1466,11 +1466,11 @@ The safety's on! Safety's on!
 Give me that!
 Come on! Let's go! Help me out!
 Gimme a hand. Let's move it.
-- One Night, what about Cab 1?
-- Ready to launch.
+One Night, what about Cab 1?
+Ready to launch.
 Go! You're better in these than I am.
-- You got air?
-- Come on. Come on!
+You got air?
+Come on. Come on!
 You got air. You got air.
 You got air. You got air.
 Shit!
@@ -1479,31 +1479,31 @@ Shit!
 Get in! Hurry up!
 I'm comin', baby!
 Keep your pantyhose on.
-- Are you OK?
-- Yeah.
-- Do you see Big Geek?
-- Yeah. Right out in front.
-- Oh, my God!
-- Get after him.
+Are you OK?
+Yeah.
+Do you see Big Geek?
+Yeah. Right out in front.
+Oh, my God!
+Get after him.
 OK. OK. OK. OK.
 Get on the arm.
-- To the left. A little more.
-- You missed. Try it again.
-- Stay steady. Steady. Steady. Steady.
-- OK.
-- Grab it!
-- Yeah, got it!
-- Pretty slick, Slick.
-- Hold it really steady.
-- Hold it still. Hold it still.
-- I am. I am.
+To the left. A little more.
+You missed. Try it again.
+Stay steady. Steady. Steady. Steady.
+OK.
+Grab it!
+Yeah, got it!
+Pretty slick, Slick.
+Hold it really steady.
+Hold it still. Hold it still.
+I am. I am.
 Shit! We lost Geek!
 Where is he, Bud? Do you see him?
 I'll take a look.
-- He's comin' up fast. Step on it!
-- Shit!
-- Go to the right! Swing to the right!
-- Shit!
+He's comin' up fast. Step on it!
+Shit!
+Go to the right! Swing to the right!
+Shit!
 Keep movin', baby!
 Come here.
 Son of a bitch!
@@ -1512,11 +1512,11 @@ Left! Left! Left!
 Jesus Christ, lady!
 Bud, if you think you can do any better then you're welcome up here!
 Son of a bitch!
-- Is he right on us?
-- Yeah, he's right on your ass.
+Is he right on us?
+Yeah, he's right on your ass.
 OK. OK.
-- Where you goin'?
-- Hang on!
+Where you goin'?
+Hang on!
 Deepcore, this is Cab 1.
 Do you read?
 Deepcore, Deepcore, this is Cab 1. Over.
@@ -1524,10 +1524,10 @@ I'm not getting any answer!
 And we're flooding like a son of a bitch.
 Yeah. You noticed?
 You know, you did OK back there, Virgil.
-- I was fairly impressed.
-- Yeah, well, not good enough.
-- We still gotta catch Big Geek.
-- Yeah, well, not in this thing.
+I was fairly impressed.
+Yeah, well, not good enough.
+We still gotta catch Big Geek.
+Yeah, well, not in this thing.
 Deepcore, Deepcore, this is Cab 1. Over.
 Try it again.
 Deepcore, this is Cab 1.
@@ -1543,39 +1543,39 @@ It's a good 60, 70 yards, I'd say.
 Well, they'll come after us.
 Yeah, but it's gonna take 'em a while to get here
 We gotta get this flooding stopped.
-- Can you see where it's coming in?
-- Yeah. Can you hold the lamp for me?
+Can you see where it's coming in?
+Yeah. Can you hold the lamp for me?
 There's a busted fitting behind this panel.
 Problem is I don't think I can get to it.
-- You got any tools?
-- Uh, I don't know. I'll have to look around.
+You got any tools?
+Uh, I don't know. I'll have to look around.
 Yeah, well, I looked already.
 Goddamn it!
 All I need's a goddamn crescent wrench!
 Come on.
 Son of a bitch!
 OK. Calm down, Bud.
-- Calm down.
-- OK.
-- OK.
+Calm down.
+OK.
+OK.
 OK.
 We gotta get you outta here.
-- How?
-- I don't know how.
+How?
+I don't know how.
 All right. We've only got one suit.
 I know. I know. But we gotta come up with something.
-- Oh, my God! I'm freezing!
-- Come here. Come here. Give me your hands.
+Oh, my God! I'm freezing!
+Come here. Come here. Give me your hands.
 Listen, you're smart.
 Think of something.
-- Can't you think of something?
-- OK. OK.
+Can't you think of something?
+OK. OK.
 OK. Why don't you swim back to the rig and bring back another suit?
 That'll take me about 7, or 8 minutes to swim, get the gear, and come back.
 I wouldn't make it. Look at this.
 By the time I got back, you'd be...
-- OK. OK.
-- Lins.
+OK. OK.
+Lins.
 Let's look around.
 Let's look. Oh my God!
 Is that working?
@@ -1587,19 +1587,19 @@ No! No! What, are you growing gills all of a sudden?
 Don't argue with me, goddamn it! Just put it on.
 Look, this is not an option, so just forget about it! All right?
 Lindsey, shut up! Shut up and put this thing on!
-- If you'd be logical just for one second...
-- Fuck logic!
+If you'd be logical just for one second...
+Fuck logic!
 Please! Listen...
 Just listen to me for one second.
 Now, you've got the suit on...
 ...and you're a much better swimmer than I am, right?
-- Yeah, maybe.
-- Right? Yes! So I've got a plan.
-- What's the plan?
-- I drown, and you tow me back to the rig.
+Yeah, maybe.
+Right? Yes! So I've got a plan.
+What's the plan?
+I drown, and you tow me back to the rig.
 No. No!
-- Yes! This water's...
-- No!
+Yes! This water's...
+No!
 ...is only a couple of degrees above freezing.
 I'll... go into deep hypothermia.
 My blood will go like ice water.
@@ -1608,22 +1608,22 @@ They won't stop.
 Lins...
 You tow me back and I can...
 I can be revived after maybe...
-- ...10 or 15 minutes.
-- Lins, put this on! You put it on!
+...10 or 15 minutes.
+Lins, put this on! You put it on!
 No, it's the only way! You just put this on!
 Put this on. You know I'm right.
 Please! It's the only way. You've got all the... stuff on the rig to do this.
 Put this on. Bud, please!
-- This is insane.
-- I know.
+This is insane.
+I know.
 Oh, my God.
-- Are you OK?
-- It's the only way.
+Are you OK?
+It's the only way.
 All right. Here. Hold this.
 Son of a bitch. Hold on, Lindsey.
 You can do this, you know.
-- You can do this.
-- God, Lins... I...
+You can do this.
+God, Lins... I...
 I know. You can tell me later.
 This is maybe not such a good idea!
 Oh, my God!
@@ -1632,12 +1632,12 @@ I can't! Oh, Bud,
 I'm scared!
 No!
 I got him! I got him!
-- Where?
-- Oh, my God! It's Lindsey.
-- Deepcore! Deepcore, do you read? Over.
-- Yeah, we got you, Bud.
-- We're here.
-- Go to the infirmary.
+Where?
+Oh, my God! It's Lindsey.
+Deepcore! Deepcore, do you read? Over.
+Yeah, we got you, Bud.
+We're here.
+Go to the infirmary.
 Get the cart, oxygen, defib' kit...
 ...adrenaline in a 10cc syringe, and some heating blankets.
 You got all that?
@@ -1648,20 +1648,20 @@ Let's go!
 Hippy, get the hot packs!
 Got 'em!
 Here he comes!
-- Watch her head. Watch her head.
-- I got it. I got it.
+Watch her head. Watch her head.
+I got it. I got it.
 Watch her feet.
 Watch her feet.
 Watch her head comin' down.
 Watch her head.
 Clear it out. Clear it out. Is she clear?
-- Come on!
-- Is she clear?
+Come on!
+Is she clear?
 Get the d-fib ready.
 Hurry up, Cat.
 OK. OK. Got it.
-- OK?
-- Yeah.
+OK?
+Yeah.
 Three-one thousand, four-one thousand, five-one thousand...
 Breathe!
 One-one thousand, two-one thousand, three-one thousand...
@@ -1669,27 +1669,27 @@ N-N-N-No! You gotta have bare skin or it won't work!
 Three-one thousand, four-one thousand...
 Here.
 Is that right? Is this it?
-- Bud, I got it.
-- Well, do it!
+Bud, I got it.
+Well, do it!
 Breathe!
-- Come on! Zap her!
-- Clear!
-- Come on, baby! Oh, Christ!
-- Nothing.
+Come on! Zap her!
+Clear!
+Come on, baby! Oh, Christ!
+Nothing.
 Breathe.
-- I'll jack it up to 300.
-- Do it again, One Night. Zap her again.
+I'll jack it up to 300.
+Do it again, One Night. Zap her again.
 It's going, it's going, it's going. It's charging.
 Charging... charging... charging...
-- Now!
-- ...clear!
-- Anything?
-- No pulse.
-- Come on, baby!
-- Just charging 1 more time.
+Now!
+...clear!
+Anything?
+No pulse.
+Come on, baby!
+Just charging 1 more time.
 Zap her again. Come on!
-- Come on!
-- Clear!
+Come on!
+Clear!
 God! No pulse.
 Flat, it's flat. Goddamn! It's flat.
 Get outta here.
@@ -1702,8 +1702,8 @@ One-one thousand, two-one thousand...
 ...come on, baby. One-one thousand, two-one thousand, three-one thousand, four-one thousand, five-one thousand...
 ...come on, baby!
 Breathe! Come on!
-- Two-one thousand, three-one thousand...
-- Bud...
+Two-one thousand, three-one thousand...
+Bud...
 Bud... Bud...
 It's all over, man.
 It's all over.
@@ -1713,10 +1713,10 @@ NO!!!
 No, she has a strong heart!
 She wants to live!
 Come on, Lins! Come on, baby!
-- Zap her again! Do it!
-- Charging.
+Zap her again! Do it!
+Charging.
 Do it!
-- Charging.
+Charging.
 Clear.
 Clear!
 Get outta here!
@@ -1739,8 +1739,8 @@ You can do it, baby.
 Get her some air.
 Breathe Lindsey.
 You did it, ace!
-- Make sure... Make sure her heart's good.
-- OK.
+Make sure... Make sure her heart's good.
+OK.
 Big boys don't cry, remember?
 Hi, lady.
 Hi, tough guy.
@@ -1760,8 +1760,8 @@ OK. With this much weight, you're gonna fall like a brick.
 We've still got about an hour, so you should get there in plenty of time.
 When you get down there, all you gotta do is...
 ...cut one wire, drop the weights and come on home.
-- Hand me that wrench over there will ya?
-- Maybe I oughta check out everything.
+Hand me that wrench over there will ya?
+Maybe I oughta check out everything.
 That's loose.
 I'll fix that up.
 Bud, you don't have to do this.
@@ -1770,69 +1770,69 @@ Well it doesn't have to be you.
 Who then?
 So, what, I can hear you but I can't talk, right?
 The fluid prevents the larynx from making sound. Excuse me.
-- It'll feel a little strange.
-- Yeah, no shit.
+It'll feel a little strange.
+Yeah, no shit.
 I gotta warn you all...
 I'm a pretty lousy typist.
 The moment of truth.
-- Come on. Let's go.
-- Let's go.
+Come on. Let's go.
+Let's go.
 Easy.
-- I need it in the front a little bit.
-- OK.
-- Thank you.
-- You got it.
-- Set.
-- Set.
-- Clamp?
+I need it in the front a little bit.
+OK.
+Thank you.
+You got it.
+Set.
+Set.
+Clamp?
 Set.
 OK, let's rock and roll!
 Crack it.
-- Headset...
-- Headset, please.
-- OK.
-- Relax now, Bud. Just relax.
-- Bud.
-- Relax now, Bud.
+Headset...
+Headset, please.
+OK.
+Relax now, Bud. Just relax.
+Bud.
+Relax now, Bud.
 Watch me.
-- Relax.
-- OK? Watch me. Watch me.
-- OK.
+Relax.
+OK? Watch me. Watch me.
+OK.
 Doin' fine. No, don't hold your breath. Take it in.
 Just let yourself take it in.
 Take it in.
-- That's it.
-- Oh man.
+That's it.
+Oh man.
 Don't hold your breath now.
 Take it in. There you go.
 Don't hold your breath.
 Take it in. That's it.
-- There you go.
-- Bud!
+There you go.
+Bud!
 This is not normal!
 It's normal! It'll pass in a second!
 It's perfectly normal!
-- This is normal?
-- It's perfectly normal.
+This is normal?
+It's perfectly normal.
 We all breathe liquid for 9 months, Bud.
 Your body will remember. That's it.
 That's it.
-- Perfectly normal.
-- Oh my, Christ! He's breathing!
+Perfectly normal.
+Oh my, Christ! He's breathing!
 Give me that.
-- Can you hear me?
-- There he goes.
-- Yes? Yes?
-- He's got it. That's it.
+Can you hear me?
+There he goes.
+Yes? Yes?
+He's got it. That's it.
 OK. Bud...
 Try your keypad.
 I already have.
-- OK.
-- Great.
+OK.
+Great.
 Let's go!
-- OK.
-- OK, Hippy, you got that?
-- Hold on, Jammer.
+OK.
+OK, Hippy, you got that?
+Hold on, Jammer.
 Easy. Easy.
 Watch out. Watch his side.
 Watch the back.
@@ -1841,8 +1841,8 @@ I redid Little Geek's chip the same as Big Geek!
 It should take you straight there!
 All you have to do is hang on!
 What's his depth?
-- 3,200 feet.
-- Your depth is 3,200 feet.
+3,200 feet.
+Your depth is 3,200 feet.
 You're doing fine. Now, you better watch out for crane wreckage.
 You should, you should be almost to it.
 4,800 feet. It's official.
@@ -1860,8 +1860,8 @@ It's starting. It hits the nervous system first.
 Keep talking Lindsey.
 Let him hear your voice.
 OK, Bud. Your depth is 8,900 feet.
-- You're doing fine.
-- No, Lindsey.
+You're doing fine.
+No, Lindsey.
 Talk to him.
 Bud...
 ...there's some... some things I need to say.
@@ -1876,8 +1876,8 @@ I have to wait till you're alone in the dark...
 I'm sorry. I'm, I'm rambling.
 Comin' up on the big ten thou'.
 12,000 feet. Jesus!
-- I don't believe he's doin' this!
-- Hippy!
+I don't believe he's doin' this!
+Hippy!
 Shut up! What's wrong with you?
 Bud, how are you doing?
 Signal's fading.
@@ -1894,8 +1894,8 @@ OK? So try and stay calm.
 I'm right here, all right?
 Bud.
 He's losing it.
-- Talk to him. Keep him with us.
-- Comin' up on 16,000...
+Talk to him. Keep him with us.
+Comin' up on 16,000...
 No, B-Bud, it's the pressure. All right?
 You have to listen to my voice.
 You have to try.
@@ -1907,8 +1907,8 @@ Bud? I'm not getting anything!
 Whoa! Whoa! Whoa!
 Oh come on! No! No!
 What? What!?
-- Little Geek just folded.
-- Oh, Jesus.
+Little Geek just folded.
+Oh, Jesus.
 He can still make it.
 OK.
 Bud?
@@ -1936,8 +1936,8 @@ I promise that.
 How you doin' partner?
 You still with us? Come back.
 You talk to us, Buddy boy.
-- Come on.
-- Bud?
+Come on.
+Bud?
 Talk to me, Bud.
 Now, come on. 
 You hangin' in there?
@@ -1946,8 +1946,8 @@ I need to know if you're OK.
 You s... you see light?
 What kind of light, Bud?
 He's hallucinating badly.
-- He made it.
-- Oh, my God.
+He made it.
+Oh, my God.
 OK, Bud.
 We'll go step by step.
 Remove the detonator housing by unscrewing it...
@@ -2000,8 +2000,8 @@ Seismologists are reporting...
 ...which apparently began about fifteen minutes ago.
 They are acoustic shock waves like tsunamis, but with no apparent seismological source.
 Uh, the waves are propagating towards the shorelines of every continent.
-- I'm so sorry. That's...
-- Dr. Berg, would you please...
+I'm so sorry. That's...
+Dr. Berg, would you please...
 Young lady. Young lady, listen to me.
 I don't know. We don't know what's going on yet.
 We don't have a clue.
@@ -2014,15 +2014,15 @@ I don't know, maybe
 1,000 feet high already.
 Getting bigger as I'm watching...
 ...still miles out.
-- Oh my God.
-- Get outta here!
+Oh my God.
+Get outta here!
 We're staying! We're staying!
 Give it to me, then!
 Uh, I don't even know if
 I'm still broadcasting.
 I can't be sure.
-- I'll just keep going as long as I can. Um...
-- Get out of the way!
+I'll just keep going as long as I can. Um...
+Get out of the way!
 You guys are doing this.
 You guys are doing this, right?
 You can control water.
@@ -2056,21 +2056,21 @@ And we're about out of O2
 So, whatever you're gonna do, you better do it fast.
 You boys make up your mind how to get us outta here yet?
 They're talking about flying in a DSRV from Norfolk.
-- I just wish I could've seen it.
-- OK.
+I just wish I could've seen it.
+OK.
 How long's that gonna take?
 How do you stop a half mile high tidal wave in?
-- ...come into Guantanamo on a C133.
+...come into Guantanamo on a C133.
 Hey...
-- Hey... hey it's Bud!
-- That's impossible.
-- Do you read me Deepcore?
-- No it's not.
+Hey... hey it's Bud!
+That's impossible.
+Do you read me Deepcore?
+No it's not.
 Yes!
 W-W-Wait. Wait. Wait.
 We've got a message from Bud.
-- Bud?
-- What's it say?
+Bud?
+What's it say?
 Here. Here.
 It says...
 It says, uh, Virgil Brigman back on the air.
@@ -2089,8 +2089,8 @@ What the hell's goin' on?
 One Night, get to sonar.
 Good God almighty!
 Fellas... I'm gettin' some awful big readings here.
-- Somebody's comin' up the wall!
-- What is it?
+Somebody's comin' up the wall!
+What is it?
 Whatever it is, it's major!
 Something is definitely going on down there.
 Active is pinging back something really big.

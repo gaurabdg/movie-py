@@ -3,33 +3,33 @@ Sir.
 General.
 Sir.
 Lean and hungry.
-- Still nothing?
-- Not a sign.
-- How long has he been gone?
-- Nearly two hours.
+Still nothing?
+Not a sign.
+How long has he been gone?
+Nearly two hours.
 Will they fight, sir?
 We shall know soon enough.
 Soldier, I ordered you to move those catapults forward.
-- They're out of range.
-- Range is good.
-- The danger to the cavalry...
-- Is acceptable. Agreed?
+They're out of range.
+Range is good.
+The danger to the cavalry...
+Is acceptable. Agreed?
 They say no.
 People should know when they're conquered.
 Would you, Quintus?
 Would I?
-- Strength and honor.
-- Strength and honor.
+Strength and honor.
+Strength and honor.
 At my signal, unleash hell.
 Load the catapults.
 Infantry form up for advance.
-- Archers ready.
-- Archers!
-- Nock!
-- Nock!
+Archers ready.
+Archers!
+Nock!
+Nock!
 Fratres!
-- Maximus!
-- Maximus!
+Maximus!
+Maximus!
 Three weeks from now,
 I will be harvesting my crops.
 Imagine where you will be, and it will be so.
@@ -40,8 +40,8 @@ Brothers, what we do in life echoes in eternity.
 Pull!
 Cohorts ready, sir!
 Archers, ignite!
-- Ignite!
-- Ignite!
+Ignite!
+Ignite!
 Archers, draw!
 Loose!
 All right, men, ready!
@@ -49,8 +49,8 @@ Hold the line!
 Loose!
 Reload!
 Hold the line!
-- Draw!
-- Loose!
+Draw!
+Loose!
 Stay with me!
 Roma victor!
 Do you think he's really dying?
@@ -69,8 +69,8 @@ Is honor him with games won'thy of His Majesty.
 For now, the first thing I shall do is have a hot bath.
 Your Highness?
 We seem to be almost there, sir.
-- Sire.
-- Where's the Emperor?
+Sire.
+Where's the Emperor?
 He's at the front, sire.
 They've been gone for 19 days.
 The wounded are still coming in.
@@ -94,8 +94,8 @@ Father, congratulations.
 I shall sacrifice 100 bulls to honor your triumph.
 Save the bulls.
 Honor Maximus. He won the battle.
-- General.
-- Highness.
+General.
+Highness.
 Rome salutes you, and I embrace you as a brother.
 It has been too long, my old friend.
 Highness.
@@ -106,16 +106,16 @@ Magnificent battle.
 General. Still alive?
 Still alive.
 The gods must have a sense of humor.
-- The gods must love you.
-- Valerius.
+The gods must love you.
+Valerius.
 Back to barracks, General?
 Or to Rome?
 Home. My wife, my son, the harvest.
 Maximus the farmer.
 I still have difficulty imagining that.
 You know, dirt cleans off a lot easier than blood, Quintus.
-- Here he is.
-- Highness.
+Here he is.
+Highness.
 Senator Gaius, Senator Falco.
 Beware of Gaius. He'll pour a honeyed potion in your ear, and you'll wake up one day and all you'll say is, "Republic, republic, republic. "
 Well, why not?
@@ -164,8 +164,8 @@ One! Two! Three!
 Four!
 One! Two!
 You sent for me, Caesar?
-- Caesar?
-- Tell me again, Maximus.
+Caesar?
+Tell me again, Maximus.
 Why are we here?
 For the glory of the empire, sire.
 Yes.
@@ -236,8 +236,8 @@ With all my heart, no.
 Maximus, that is why it must be you.
 But surely a prefect, a senator, somebody who knows the city, who understands her politics.
 But you have not been corrupted by her politics.
-- And Commodus?
-- Commodus is not a moral man.
+And Commodus?
+Commodus is not a moral man.
 You have known that since you were young.
 Commodus cannot rule.
 He must not rule.
@@ -249,15 +249,15 @@ Yes.
 By sunset, I hope you will have agreed.
 Now embrace me as my son.
 And bring an old man another blanket.
-- My father favors you now.
-- My lady.
-- It was not always so.
-- Many things change.
+My father favors you now.
+My lady.
+It was not always so.
+Many things change.
 Many things. Not everything.
 Maximus, stop.
 Let me see your face.
-- You seem upset.
-- I lost many men.
+You seem upset.
+I lost many men.
 What did my father want with you?
 To wish me well before I leave for home.
 You're lying.
@@ -279,8 +279,8 @@ Do you know,
 I still remember you in my prayers.
 Oh, yes. I pray.
 I was sad to hear of your husband's death. I mourned him.
-- Thank you.
-- And I hear you have a son.
+Thank you.
+And I hear you have a son.
 Yes. Lucius.
 He'll be nearly eight years old.
 My son is also nearly eight.
@@ -303,8 +303,8 @@ You will not be emperor.
 Which wiser, older man is to take my place?
 My powers will pass to Maximus, to hold in trust, until the Senate is ready to rule once more.
 Rome is to be a republic again.
-- Maximus.
-- Yes.
+Maximus.
+Yes.
 My decision disappoints you?
 You wrote to me once, listing the four chief virtues.
 Wisdom, justice, fortitude, and temperance.
@@ -324,8 +324,8 @@ One kind word, one full hug, where you pressed me to your chest and held me tigh
 What is it in me you hate so much?
 Commodus.
 All I've ever wanted was to live up to you, Caesar.
-- Father.
-- Commodus, your faults as a son is my failure as a father.
+Father.
+Commodus, your faults as a son is my failure as a father.
 Come.
 Father.
 I would butcher the whole world, if you would only have loved me!
@@ -345,16 +345,16 @@ Quintus.
 Hail, Caesar.
 I must talk to the senators.
 I need their counsel.
-- Wake Gaius and Falco.
-- Gaius and Falco.
-- Sword.
-- Sword.
+Wake Gaius and Falco.
+Gaius and Falco.
+Sword.
+Sword.
 Maximus, please be careful.
 That was not prudent.
 Prudent? The Emperor has been slain.
 The emperor died of natural causes.
-- Why are you armed, Quintus?
-- Guards!
+Why are you armed, Quintus?
+Guards!
 Please don't fight, Maximus.
 I'm sorry. Caesar has spoken.
 Ride until dawn, and then execute him.
@@ -393,10 +393,10 @@ Every day is a great day when you are here, but today is your most fortunate day
 Those giraffes you sold me, they won't mate.
 Theyjust walk around eating and not mating.
 You sold me queer giraffes.
-- I want my money back.
-- Not a chance.
-- I do special price for you.
-- On what?
+I want my money back.
+Not a chance.
+I do special price for you.
+On what?
 Have you seen my new stock?
 Come and see them.
 Do any of them fight?
@@ -409,8 +409,8 @@ I was a hunter.
 No, I bought him from a salt mine in Can'thage.
 Sit down.
 Mark of the legion.
-- Deserter.
-- Maybe so, but who cares?
+Deserter.
+Maybe so, but who cares?
 He's a Spaniard.
 I'll take six. For 1,000.
 The Numidian alone is won'th 2,000.
@@ -432,8 +432,8 @@ I salute you.
 Red.
 Yellow.
 Good.
-- Red.
-- Red.
+Red.
+Red.
 Spaniard.
 That's enough for the moment!
 His time will come.
@@ -477,8 +477,8 @@ What if I make it 2,000?
 Some of you are thinking you won't fight, some that you can't fight.
 They all say that until they're out there.
 Listen.
-- Kill! Kill! Kill!
-- Kill! Kill! Kill!
+Kill! Kill! Kill!
+Kill! Kill! Kill!
 Thrust this into another mars flesh, and they will applaud and love you for that.
 And you, you may begin to love them for that.
 Ultimately, we're all dead men.
@@ -486,22 +486,22 @@ Sadly, we cannot choose how, but we can decide how we meet that end, in order th
 Come on!
 On the left, draw your shields!
 On the right, draw your swords!
-- Kill! Kill! Kill!
-- Kill! Kill! Kill!
+Kill! Kill! Kill!
+Kill! Kill! Kill!
 Pair them up, red with yellow.
 Next!
 Move!
 Usurper!
-- Go away!
-- You'll never rule us, Commodus!
+Go away!
+You'll never rule us, Commodus!
 He enters Rome like a conquering hero. But what has he conquered?
 Give him time, Gracchus. He's young.
 I think he could do very well.
 For Rome, or for you?
 Go to your mother, Lucius.
 It's what she'd like.
-- Lucius!
-- Mother!
+Lucius!
+Mother!
 Hail, Caesar.
 Senators.
 Rome greets her new emperor.
@@ -510,8 +510,8 @@ Highness.
 Thank you, Falco.
 And for the loyal subjects,
 I trust they werert too expensive.
-- Caesar.
-- Gracchus.
+Caesar.
+Gracchus.
 All Rome rejoices in your return,
 Caesar.
 But there are many matters that require your attention.
@@ -561,8 +561,8 @@ They care about the greatness of Rome.
 "The greatness of Rome. "
 Well, what is that?
 It's an idea. Greatness.
-- Greatness is a vision.
-- Exactly. A vision.
+Greatness is a vision.
+Exactly. A vision.
 Do you not see, Lucilla?
 I will give the people a vision of Rome, and they'll love me for it.
 And they'll soon forget the tedious sermonizing of a few dry old men.
@@ -592,13 +592,13 @@ Are you not entertained?
 Are you not entertained?
 Is this not why you're here?
 Spaniard! Spaniard! Spaniard!
-- Spaniard! Spaniard! Spaniard!
-- Spaniard! Spaniard! Spaniard!
+Spaniard! Spaniard! Spaniard!
+Spaniard! Spaniard! Spaniard!
 What do you want?
 Girl?
 Boy?
-- You sent for me.
-- Yes, I did.
+You sent for me.
+Yes, I did.
 You're good, Spaniard, but you're not that good.
 You could be magnificent.
 I'm required to kill, so I kill.
@@ -615,8 +615,8 @@ Fifty thousand Romans, watching every movement of your sword, willing you to mak
 The silence before you strike and the noise afterwards.
 It rises. It rises up, like a storm.
 As if you were the thunder god himself.
-- You were a gladiator?
-- Yes, I was.
+You were a gladiator?
+Yes, I was.
 You won your freedom?
 A long time ago, the Emperor presented me with a rudius.
 It's just a wooden sword.
@@ -652,8 +652,8 @@ Of course.
 You see, my wife and my son are already waiting for me.
 You'll meet them again. But not yet.
 Not yet.
-- Unless...
-- Not yet.
+Unless...
+Not yet.
 Not yet.
 There he is.
 Out.
@@ -680,8 +680,8 @@ Will you stay with me?
 Still afraid of the dark, brother?
 Still.
 Always.
-- Stay with me tonight.
-- You know I won't.
+Stay with me tonight.
+You know I won't.
 Then kiss me.
 Sleep, brother.
 Having servants who are deaf and mute at least ensures I live a little longer.
@@ -709,8 +709,8 @@ This can't be true.
 He's selling Rome's reserves of grain.
 The people will be starving in two years.
 I hope they're enjoying the games, because soon enough they'll be dead because of them.
-- Rome must know this.
-- And how?
+Rome must know this.
+And how?
 He's going to dissolve the Senate.
 And who will tell them before it's too late? You, Gracchus?
 You, Gaius.
@@ -739,8 +739,8 @@ Come on!
 All right, that's enough.
 The Emperor wants battles, and I don't want to sacrifice my best fighters.
 The crowd wants battles, so the Emperor gives them battles.
-- You get the battle of Can'thage.
-- Massacre of Can'thage.
+You get the battle of Can'thage.
+Massacre of Can'thage.
 Well, why don't you go down to the prison, round up all the beggars and thieves?
 We've done that.
 If you want to give away the best gladiators in the whole of the empire, then I want double the rates.
@@ -754,34 +754,34 @@ They said you were a giant.
 They said you could crush a mars skull with one hand.
 A mars? No.
 A boy's.
-- Do they have good horses in Spain?
-- Some of the best.
+Do they have good horses in Spain?
+Some of the best.
 This is Argento and this is Scan'to.
 They were my horses.
 They were taken from me.
 I like you, Spaniard.
 I shall cheer for you.
-- They let you watch the games?
-- My uncle says it makes me strong.
-- And what does your father say?
-- My father is dead.
+They let you watch the games?
+My uncle says it makes me strong.
+And what does your father say?
+My father is dead.
 Master Lucius, it is time.
 I have to go.
 Your name is Lucius?
 Lucius Verus, after my father.
 Lower!
-- Claudius!
-- Yes?
-- More shields!
-- All right.
+Claudius!
+Yes?
+More shields!
+All right.
 When the Emperor enters, raise your weapons, salute him, and then speak together.
 Face the Emperor and don't turn your back on him.
 Go, and die with honor.
 Hail, mighty Caesar!
-- Caesar! Caesar! Caesar! Caesar!
-- Caesar! Caesar! Caesar! Caesar!
-- We who are about to die salute you!
-- We who are about to die salute you!
+Caesar! Caesar! Caesar! Caesar!
+Caesar! Caesar! Caesar! Caesar!
+We who are about to die salute you!
+We who are about to die salute you!
 On this day we reach back to hallowed antiquity to bring you a re-creation of the second fall of mighty Can'thage!
 On the barren plain of Zama there stood the invincible armies of the barbarian Hannibal.
 Ferocious mercenaries and warriors from all brute nations, bent on merciless destruction, conquest.
@@ -794,8 +794,8 @@ Do you understand?
 Lfwe stay together, we survive.
 The Emperor is pleased to bring you the legionnaires of Scipio Africanus!
 To the death!
-- Kill! Kill! Kill! Kill!
-- Kill! Kill! Kill! Kill!
+Kill! Kill! Kill! Kill!
+Kill! Kill! Kill! Kill!
 Stay close.
 Come together!
 Stay close. Staggered columns!
@@ -810,8 +810,8 @@ Hagen!
 This column to the chariot!
 This column stay with me!
 Quickly!
-- Get out there.
-- Hurry!
+Get out there.
+Hurry!
 Maximus!
 Single column! Single column!
 We win!
@@ -842,11 +842,11 @@ My name is Maximus Decimus Meridius, commander of the armies of the north, gener
 Marcus Aurelius, father to a murdered son, husband to a murdered wife, and I will have my vengeance, in this life or the next.
 Arms!
 Live! Live! Live! Live!
-- Live! Live! Live! Live!
-- Live! Live! Live! Live!
+Live! Live! Live! Live!
+Live! Live! Live! Live!
 Arms, at rest!
-- Maximus! Maximus! Maximus!
-- Maximus! Maximus! Maximus!
+Maximus! Maximus! Maximus!
+Maximus! Maximus! Maximus!
 Father.
 Why is he still alive?
 I don't know.
@@ -875,8 +875,8 @@ I knew your brother would send assassins.
 I didn't realize he would send his best.
 Maximus, he doesn't know.
 My family was burnt and crucified while they were still alive.
-- I knew nothing...
-- Don't lie to me!
+I knew nothing...
+Don't lie to me!
 I wept for them.
 As you wept for your father?
 As you wept for your father?
@@ -929,8 +929,8 @@ Loyal to the Emperor.
 Load your arrows!
 Prepare to fire!
 Then perhaps it was you who knew, and never told me.
-- I didn't know.
-- You didn't know?
+I didn't know.
+You didn't know?
 But a general is always in control.
 Always in command, isn't he?
 Yes, Caesar.
@@ -939,20 +939,20 @@ Fire.
 Maximus.
 You commanded legions?
 You had many victories?
-- Yes.
-- In Germania?
+Yes.
+In Germania?
 In many countries.
 General.
 You have a great name.
 He must kill your name before he kills you.
 Yes, at the far end.
-- Senator Gaius.
-- Hello.
+Senator Gaius.
+Hello.
 Senator Gracchus.
 Don't often see you enjoying the pleasures of the vulgar crowd.
 I don't pretend to be a man of the people, Senator, but I do try to be a man for the people.
-- Caesar! Caesar! Caesar! Caesar!
-- Caesar! Caesar! Caesar! Caesar!
+Caesar! Caesar! Caesar! Caesar!
+Caesar! Caesar! Caesar! Caesar!
 People of Rome!
 On the fourth day ofAntioch, we can celebrate the 64th day of the games.
 And in his majestic charity, the Emperor has deigned this day to favor the people of Rome with an historical final match.
@@ -977,15 +977,15 @@ We're with you, Maximus!
 Fight on, finish it!
 Pull, pull!
 Loose! Loose!
-- Gut him!
-- Kill!
-- Kill! Kill! Kill! Kill!
-- Kill! Kill! Kill! Kill!
-- Kill!
-- Kill!
+Gut him!
+Kill!
+Kill! Kill! Kill! Kill!
+Kill! Kill! Kill! Kill!
+Kill!
+Kill!
 Maximus the Merciful!
-- Maximus! Maximus! Maximus!
-- Maximus! Maximus! Maximus!
+Maximus! Maximus! Maximus!
+Maximus! Maximus! Maximus!
 Forward, arms at ready!
 What am I going to do with you?
 You simply won't die.
@@ -999,22 +999,22 @@ And your wife moaned like a whore when they ravaged her again and again and agai
 The time for honoring yourself will soon be at an end,
 Highness.
 General! General!
-- General!
-- Cicero!
-- General!
-- Where are you camped?
+General!
+Cicero!
+General!
+Where are you camped?
 Ostia.
-- We love you, Maximus!
-- Praise the victor!
+We love you, Maximus!
+Praise the victor!
 Tell the men their general lives.
 Find me.
-- Move along!
-- Find me!
+Move along!
+Find me!
 Can they hear you?
-- Who?
-- Your family, in the afterlife.
-- Yes.
-- What do you say to them?
+Who?
+Your family, in the afterlife.
+Yes.
+What do you say to them?
 To my boy,
 I tell him I will see him again soon, and to keep his heels down when he's riding his horse.
 To my wife, that is not your business.
@@ -1025,14 +1025,14 @@ He is defying you.
 His every victory is an act of defiance.
 The mob sees this, and so do the Senate.
 Every day he lives, they grow bolder.
-- Kill him.
-- No.
+Kill him.
+No.
 I will not make a martyr of him.
 When I went to the Senate today,
 I purposefully told them about using the grain reserves to pay for the games.
 And did you note what happened?
-- Nothing.
-- Exactly. Nothing.
+Nothing.
+Exactly. Nothing.
 Not a single word of protest.
 Even the insolent Senator Gracchus was silent as a mouse.
 Why?
@@ -1044,14 +1044,14 @@ So, we will lie still, and let our enemies come to us and nibble.
 Have every senator followed.
 Cicero, my old friend.
 I thought perhaps I'd seen you for the last time.
-- I thought you were dead.
-- Close.
+I thought you were dead.
+Close.
 How long have the men been in Ostia?
 All winter.
-- And how do they look?
-- Fat and bored.
-- Who's in command?
-- Some fool from Rome.
+And how do they look?
+Fat and bored.
+Who's in command?
+Some fool from Rome.
 How soon do you think they could be ready to fight?
 For you, tomorrow.
 I need you to do something for me.
@@ -1061,12 +1061,12 @@ Giant Maximus is defeating our emperor, Commodus.
 What are we to do?
 He's just defying everyone, by doing this to him, they do...
 My goodness!
-- He got him, he's defeated.
-- Give way!
+He got him, he's defeated.
+Give way!
 My lady?
 I served your father at Vindobona.
-- Back.
-- My lady.
+Back.
+My lady.
 I served your father at Vindobona.
 Back!
 And I served General Maximus.
@@ -1075,14 +1075,14 @@ Stop. Stop.
 Stop!
 Stand back.
 The general sends word, he will meet your politician.
-- For your loyalty, soldier.
-- Thank you, my lady.
+For your loyalty, soldier.
+Thank you, my lady.
 Leave us.
 Senator Gracchus.
 General.
 I hope my coming here today is evidence enough that you can trust me.
-- The Senate is with you?
-- The Senate?
+The Senate is with you?
+The Senate?
 Yes. I can speak for them.
 You can buy my freedom and smuggle me out of Rome?
 To what end?
@@ -1124,8 +1124,8 @@ Your word? What if you don't return?
 Do you remember what it was to have trust, Proximo?
 Trust?
 Who am I to trust?
-- I will kill Commodus.
-- Why would I want that?
+I will kill Commodus.
+Why would I want that?
 He makes me rich.
 I know that you are a man of your word, General.
 I know that you would die for honor.
@@ -1169,8 +1169,8 @@ We daren't wait any longer.
 We must leave tonight.
 Proximo will come at midnight and take you to the gate.
 Your servant, Cicero, will be waiting there with horses.
-- You have done all this?
-- Yes.
+You have done all this?
+Yes.
 You risk too much.
 I have much to pay for.
 You have nothing to pay for.
@@ -1178,8 +1178,8 @@ You love your son.
 You're strong for him.
 I am tired of being strong.
 My brother hates all the world, and you most of all.
-- Because your father chose me.
-- No.
+Because your father chose me.
+No.
 Because my father loved you.
 And because I loved you.
 A long time ago.
@@ -1192,8 +1192,8 @@ There.
 And I got you.
 Isn't it late to be playing legionnaire?
 I'm not a legionnaire.
-- Not a legionnaire?
-- I'm a gladiator.
+Not a legionnaire?
+I'm a gladiator.
 A gladiator?
 Gladiators only fight in the games.
 Wouldrt you rather be a great
@@ -1203,19 +1203,19 @@ The savior of Rome?
 And who said that?
 Where's Lucius?
 He's with the Emperor, my lady.
-- She couldn't.
-- Yes, she did.
+She couldn't.
+Yes, she did.
 She took it from a basket, and pressed it to her breast, right here above her heart.
-- It bit her in the breast?
-- Yes.
+It bit her in the breast?
+Yes.
 You see, Lucius, sometimes royal ladies behave very strangely and do very odd things in the name of love.
-- I think it's silly.
-- So do I.
+I think it's silly.
+So do I.
 So do I.
 Sister, join us.
 I've been reading to dear Lucius.
-- I've been reading, too.
-- Yes.
+I've been reading, too.
+Yes.
 He's a very clever little boy.
 He'll make a grand emperor one day.
 We've been reading about the great Mark Antony, and his adventures in Egypt.
@@ -1249,16 +1249,16 @@ Here.
 Everything is prepared.
 It seems you have won your freedom.
 Proximo, are you in danger of becoming a good man?
-- Juba.
-- All enemies of the Emperor die!
+Juba.
+All enemies of the Emperor die!
 Open the gates!
 Pull!
 Move! Form a column on the left!
 I only need moments, so do not be careless with your lives.
 If you don't want any part of this, go back to your cells.
 We'll wait here for you, Maximus.
-- Strength and honor.
-- Strength and honor.
+Strength and honor.
+Strength and honor.
 Go.
 Strength and honor.
 Aim. Arch your bows!
@@ -1278,8 +1278,8 @@ And as for you, you will love me, as I have loved you.
 You will provide me with an heir of pure blood, so that Commodus and his progeny will rule for 1,000 years.
 Am I not merciful?
 Am I not merciful!
-- Maximus! Maximus! Maximus!
-- Maximus! Maximus! Maximus!
+Maximus! Maximus! Maximus!
+Maximus! Maximus! Maximus!
 I'm a soldier. I obey.
 Nothing happens to anyone that he is not fitted by nature to bear.
 Maximus.
@@ -1291,8 +1291,8 @@ A striking story.
 Now the people want to know how the story ends.
 Only a famous death will do.
 And what could be more glorious than to challenge the Emperor himself in the great arena?
-- You would fight me?
-- Why not?
+You would fight me?
+Why not?
 Do you think I'm afraid?
 I think you have been afraid all your life.
 Unlike Maximus the Invincible, who knows no fear?

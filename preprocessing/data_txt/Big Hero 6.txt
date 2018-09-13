@@ -26,24 +26,24 @@ Fighters ready?
 Fight!
 Mega-bot, destroy.
 What?
-- No more little yama.
-- But, wha...
+No more little yama.
+But, wha...
 This is not possible!
 Hey, I'm as surprised as you are.
 Beginner's luck.
 Do you want to go again, yama?
-- No one hustles yama!
-- Whoa. Hey...
+No one hustles yama!
+Whoa. Hey...
 Teach him a lesson.
 Hey, fellas. Let's talk about this.
-- Hiro! Get on!
-- Tadashi!
+Hiro! Get on!
+Tadashi!
 Good timing!
 Oh, mama!
-- Are you okay?
-- Yeah.
-- Are you hurt?
-- No.
+Are you okay?
+Yeah.
+Are you hurt?
+No.
 Then what were you thinking, knucklehead?
 You graduated high school when you were 13, and this is what you're doing?
 There they are!
@@ -62,8 +62,8 @@ Oh, no.
 Hi, aunt cass.
 Are you guys okay?
 Tell me you're okay.
-- We're fine.
-- We're okay.
+We're fine.
+We're okay.
 Oh, good.
 Then what were you two knuckleheads thinking?
 For 10 years,
@@ -74,8 +74,8 @@ Should I have picked up a book on parenting?
 Probably!
 Where was I going with this?
 I had a point.
-- Sorry.
-- We love you, aunt cass.
+Sorry.
+We love you, aunt cass.
 Well, I love you, too!
 I had to close up early because of you two felons.
 On beat poetry night.
@@ -99,8 +99,8 @@ I don't know.
 They're gone.
 They died when I was three, remember?
 Hey!
-- I'll take you.
-- Really?
+I'll take you.
+Really?
 I can't stop you from going, but I'm not going to let you go on your own.
 Sweet.
 What are we doing at your nerd school?
@@ -114,8 +114,8 @@ Oh, great, I get to see your nerd lab!
 Heads up!
 Electro-mag suspension?
 Hey!
-- Who are you?
-- I'm...
+Who are you?
+I'm...
 Go go, this is my brother Hiro.
 Welcome to the nerd lab.
 Yeah.
@@ -127,14 +127,14 @@ Hey, wasabi. This is my brother Hiro.
 Hello, Hiro. Prepare to be amazed.
 Catch.
 Wow.
-- Laser-induced plasma?
-- Oh, yeah.
+Laser-induced plasma?
+Oh, yeah.
 With a little magnetic confinement for ultra-precision.
 Wow. How do you find anything in this mess?
 I have a system.
 There's a place for everything, and everything in its place.
-- Need this!
-- You can't do that!
+Need this!
+You can't do that!
 This is anarchy! Society has rules!
 Excuse me!
 Coming through!
@@ -172,17 +172,17 @@ But she says that's "not science."
 It's really not.
 Yeah, and I guess the shrink ray
 I asked wasabi for isn't "science" either.
-- Is it?
-- Nope.
+Is it?
+Nope.
 Well, then, what about
 "invisible sandwich"?
-- Hiro.
-- Imagine eating a sandwich, but everybody just thinks you're crazy.
+Hiro.
+Imagine eating a sandwich, but everybody just thinks you're crazy.
 Just stop.
-- Laser eyes?
-- What?
-- Tingly fingers?
-- Never gonna happen.
+Laser eyes?
+What?
+Tingly fingers?
+Never gonna happen.
 Hey, what about a growth serum?
 So, what have you been working on?
 I'll show you.
@@ -216,19 +216,19 @@ This chip is what makes baymax, baymax.
 Vinyl?
 Yeah, going for a non-threatening, huggable kind of thing.
 Looks like a walking marshmallow.
-- No offense.
-- I am a robot.
+No offense.
+I am a robot.
 I cannot be offended.
-- Hyperspectral cameras?
-- Yep.
-- Titanium skeleton?
-- Carbon fiber.
+Hyperspectral cameras?
+Yep.
+Titanium skeleton?
+Carbon fiber.
 Right. Even lighter.
 Killer actuators.
 Where did you get those?
 Machined them right here, in-house.
-- Really?
-- Yup.
+Really?
+Yup.
 He can lift 1,000 pounds.
 Shut up.
 You have been a good boy.
@@ -289,20 +289,20 @@ Hey, I'm not giving up on you.
 What are you doing?
 Shake things up.
 Use that big brain of yours to think your way out.
-- What?
-- Look for a new angle.
+What?
+Look for a new angle.
 Wow, a lot of sweet tech here today.
 How are you feeling?
 You're talking to an ex-bot fighter.
 Takes a lot more than this to rattle me.
 Yep, he's nervous.
 You have nothing to fear, little fellow.
-- He's so tense.
-- No, I'm not.
+He's so tense.
+No, I'm not.
 Relax, Hiro.
 Your tech is amazing. Tell him, go go.
-- Stop whining. Woman up.
-- I'm fine!
+Stop whining. Woman up.
+I'm fine!
 What do you need, little man?
 Deodorant? Breath mint?
 Fresh pair of underpants?
@@ -320,11 +320,11 @@ Oh, yeah. This is it.
 I guess I'm up.
 Okay, photo, photo!
 Everybody say, "Hiro."
-- Hiro!
-- Yeah!
+Hiro!
+Yeah!
 We love you, Hiro. Good luck!
-- Don't mess it up.
-- Break a leg, little man.
+Don't mess it up.
+Break a leg, little man.
 Science, yeah!
 All right, bro. This is it.
 Come on. Don't leave me hanging.
@@ -356,8 +356,8 @@ That's my nephew!
 Yes!
 My family! I love my family!
 Nailed it!
-- You did it!
-- Not bad!
+You did it!
+Not bad!
 Yeah! You just blew my mind, dude!
 They loved you. That was amazing!
 Yes.
@@ -390,8 +390,8 @@ All right, geniuses, let's feed those hungry brains.
 Back to the cafÃ©!
 Dinner is on me!
 Yes! Nothing is better than free food!
-- Aunt cass?
-- Unless it's moldy.
+Aunt cass?
+Unless it's moldy.
 We'll... we'll catch up, okay?
 Sure. I'm so proud of you.
 Both of you.
@@ -446,21 +446,21 @@ I'm fine...
 Ow.
 You have fallen.
 You think?
-- On a scale of 1 to...
-- Ow!
+On a scale of 1 to...
+Ow!
 On a scale...
 On a sca...
 On a scale of 1 to 10...
 On a scale of 1 to 10, how would you rate your pain?
 Zero.
-- It is all right to cry.
-- No. No, no, no, no.
+It is all right to cry.
+No. No, no, no, no.
 Crying is a natural response to pain.
 I'm not crying.
-- I will scan you for injuries.
-- Don't scan me.
-- Scan complete.
-- Unbelievable.
+I will scan you for injuries.
+Don't scan me.
+Scan complete.
+Unbelievable.
 You have sustained no injuries.
 However, your hormone and neurotransmitter levels indicate that you are experiencing mood swings common in adolescence.
 Diagnosis, puberty.
@@ -487,8 +487,8 @@ Baymax?
 Baymax?
 Baymax?
 What?
-- Hiro?
-- Hey, aunt cass!
+Hiro?
+Hey, aunt cass!
 Wow. You're up and...
 Yeah! I figured it was time.
 Are you registering for school?
@@ -499,12 +499,12 @@ Oh, honey, that's so great.
 Okay, special dinner tonight.
 I'll whip up some chicken wings.
 You know, with the hot sauce that makes our faces numb.
-- Okay, sounds good.
-- Great!
+Okay, sounds good.
+Great!
 Last hug.
 Baymax!
-- Baymax!
-- Hey!
+Baymax!
+Hey!
 Watch it!
 Baymax!
 Baymax!
@@ -550,23 +550,23 @@ Go! Hurry!
 All right, let me get this straight.
 A man in a kabuki mask attacked you, with an army of miniature flying robots.
 "Microbots."
-- Microbots.
-- Yeah.
+Microbots.
+Yeah.
 He was controlling them telepathically with a neurocranial transmitter.
 So, Mr. kabuki was using esp to attack you and balloon man.
 Did you file a report when your flying robots were stolen?
 No. I thought they were all destroyed.
 Look, I know it sounds crazy, but baymax was there, too.
-- Tell him.
-- Yes, officer.
+Tell him.
+Yes, officer.
 He's telling the truth.
 What the... what's wrong with you?
 Low battery.
 Try to keep it together.
 I'm healthcare, your personal baymax companion.
 Kid, how about we call your parents
-- and get them down here?
-- What?
+and get them down here?
+What?
 Write your name and number down on this piece of paper, and we can...
 I've gotta get you home to your charging station.
 Can you walk?
@@ -600,8 +600,8 @@ What was that?
 Mochi.
 That darn cat.
 At least take a plate for the road, okay?
-- Don't work too...
-- Thanks for understanding.
+Don't work too...
+Thanks for understanding.
 Hairy baby. Hairy baby.
 All right, come on.
 I'm healthcare, your personal baymax companion.
@@ -618,8 +618,8 @@ With a proper diet and exercise, he should have lived a long life.
 Yeah, he should have.
 But there was a fire and...
 Now, he's gone.
-- Tadashi is here.
-- No.
+Tadashi is here.
+No.
 People keep saying he's not really gone.
 As long as we remember him.
 It still hurts.
@@ -689,8 +689,8 @@ Hey!
 Come on!
 Your heart rate has increased dramatic...
 Okay, baymax, time to use those upgrades.
-- Hiro?
-- No, no, no!
+Hiro?
+No, no, no!
 Get out of here! Go!
 Dude, what are you doing out here?
 Nothing! Just out for a walk.
@@ -753,15 +753,15 @@ What are you doing?
 What are you doing?
 What are you doing?
 What are you doing?
-- Did we lose him?
-- Look out!
+Did we lose him?
+Look out!
 Baymax, hold on!
-- We're not gonna make it!
-- We're gonna make it!
-- We're not gonna make it!
-- We're gonna make it!
-- We're not gonna make it!
-- We're gonna make it!
+We're not gonna make it!
+We're gonna make it!
+We're not gonna make it!
+We're gonna make it!
+We're not gonna make it!
+We're gonna make it!
 We made it! Yes!
 I told you we'd make it!
 Your injuries require my attention.
@@ -797,8 +797,8 @@ It's so nice.
 Oh, yeah, that's toasty.
 Good robot.
 Does this symbol mean anything to you guys?
-- Yes! It's a bird!
-- No!
+Yes! It's a bird!
+No!
 The guy in the mask was carrying something with this symbol on it.
 Apprehending the man in the mask will improve Hiro's emotional state.
 Apprehend him?
@@ -815,8 +815,8 @@ Don't you guys get it?
 The man in the mask who attacked us is none other than...
 VoilÃ !
 Alistair krei.
-- What?
-- Think about it.
+What?
+Think about it.
 Krei wanted your microbots, and you said no.
 But rules don't apply to a man like krei.
 There's no way.
@@ -868,8 +868,8 @@ I'm still comparing your past to my future
 'cause we could be immortals immortals just not for long for long super jump!
 Super jump!
 And live with me forever now pull the blackout curtains down.
-- I breathe fire.
-- Just not for long for long we could be immortals immortals immortals immortals immortals immortals immortals immortals immortals
+I breathe fire.
+Just not for long for long we could be immortals immortals immortals immortals immortals immortals immortals immortals immortals
 I love it!
 Not bad.
 Anybody else's suit riding up on them?
@@ -932,8 +932,8 @@ So, fire up that super-sensor.
 Functionality improved.
 1000% increase in range.
 I have found a match... on that island.
-- Killer view.
-- Yeah. If I...
+Killer view.
+Yeah. If I...
 If I wasn't terrified of heights,
 I'd probably love this.
 But I'm terrified of heights, so I don't love it.
@@ -981,8 +981,8 @@ Ready to go for a ride, Abigail?
 We've invited all these people.
 Might as well give 'em a show.
 T-minus 30 seconds to launch.
-- This is argo.
-- Capsule's in position.
+This is argo.
+Capsule's in position.
 Sir, we've picked up a slight irregularity in the magnetic containment field.
 Mr. krei, is there a problem?
 No. No problem.
@@ -993,8 +993,8 @@ Pod engaged.
 Field breach! Abort!
 We've lost all contact with the pod.
 Oh, no.
-- It's breaking up!
-- The pilot is gone.
+It's breaking up!
+The pilot is gone.
 Portal two is down.
 The magnetic containment field's down!
 Krei, shut it down now!
@@ -1013,8 +1013,8 @@ Super jump!
 Gravity crush!
 Falling hard.
 Seriously, what is the plan?
-- Get the mask.
-- Right behind you.
+Get the mask.
+Right behind you.
 For real, what is the plan?
 Hey!
 Hey!
@@ -1061,8 +1061,8 @@ Your blood pressure is elevated.
 You appear to be distressed.
 I'm fine!
 There. Is it working?
-- My sensor is operational.
-- Good.
+My sensor is operational.
+Good.
 Then let's get...
 What?
 Are you going to remove my healthcare chip?
@@ -1075,8 +1075,8 @@ Just open!
 Will terminating Professor Callaghan improve your emotional state?
 Yes! No! I don't know!
 Open your access!
-- Is this what tadashi wanted?
-- It doesn't matter!
+Is this what tadashi wanted?
+It doesn't matter!
 Tadashi programed me to aid and...
 Tadashi's gone!
 Tadashi's gone.
@@ -1122,8 +1122,8 @@ Hiro.
 Guys, I... I...
 We're going to catch Callaghan, and, this time, we'll do it right.
 But maybe don't leave your team stranded on a spooky island next time.
-- Oh, man.
-- Nah, it's cool.
+Oh, man.
+Nah, it's cool.
 Heathcliff picked us up in the family chopper.
 Hiro, we found something you should see.
 You almost got us all killed!
@@ -1148,8 +1148,8 @@ This beautiful new campus is the culmination of a lifelong dream.
 But none of this would've been possible without a few bumps in the road.
 Those setbacks made us stronger, and set us on the path to a bright future.
 What is that?
-- What?
-- Setback?
+What?
+Setback?
 Was my daughter a "setback"?
 Callaghan! But you...
 Your daughter, that...
@@ -1178,18 +1178,18 @@ Baymax!
 Leaping into action!
 Oh, no!
 Getting a little tight.
-- No!
-- He's too strong!
-- There's no way out!
-- You can't beat him!
+No!
+He's too strong!
+There's no way out!
+You can't beat him!
 Help! I can't beat him.
 Hiro!
-- Hiro? Hiro?
-- Help!
-- That's it!
-- Hiro.
-- I know how to beat him.
-- Hiro.
+Hiro? Hiro?
+Help!
+That's it!
+Hiro.
+I know how to beat him.
+Hiro.
 Listen up!
 Use those big brains of yours and think your way around the problem.
 Look for a new angle.
@@ -1237,8 +1237,8 @@ The portal is gonna tear itself apart!
 We need to get out of here, now!
 Baymax!
 My sensor is detecting signs of life.
-- What?
-- Coming from there.
+What?
+Coming from there.
 The life signs are female.
 She appears to be in hyper-sleep.
 Callaghan's daughter. She's still alive.
@@ -1271,8 +1271,8 @@ There is still a way
 I can get you both to safety.
 I cannot deactivate until you say you are satisfied with your care.
 No, no, no, no. Wait. What about you?
-- You are my patient.
-- Baymax.
+You are my patient.
+Baymax.
 Your health is my only concern.
 Stop! I'm gonna figure out...
 Are you satisfied with your care?
@@ -1301,15 +1301,15 @@ Reports are still flooding in about a group of unidentified individuals, who pre
 The whole city of San fransokyo is asking,
 "who are these heroes?
 And where are they now?"
-- Hey.
-- Hi.
+Hey.
+Hi.
 It's so exciting.
 Hey, sweetie!
 Okay.
 Last hug.
 Bye!
-- And just then I was like...
-- Get out of here.
+And just then I was like...
+Get out of here.
 Ow?
 I am baymax, your personal healthcare companion.
 Hello, Hiro.

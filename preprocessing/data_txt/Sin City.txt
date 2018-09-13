@@ -37,15 +37,15 @@ Nancy Callahan, age 11.
 For all I know, she's dead already.
 [man] You've been a very good girl, Nancy.
 You've been very quiet.
-- [whimpering]
-- Don't be scared.
+[whimpering]
+Don't be scared.
 We're gonna be taking you home soon.
 But first, we're going to introduce you to somebody.
 He's a very nice man.
 [Hartigan] Halfway to the warehouse where Weevil said they took her, and it hits.
 Wicked spot of indigestion.
-- [groaning]
-- At least that's what I pray it is.
+[groaning]
+At least that's what I pray it is.
 [man] ...momentary digression.
 The briefest indulge-ment in automotive pleasure.
 [man 2] For cheap thrills.
@@ -56,8 +56,8 @@ This Jaguar you so pinheadedly covet, remanded to our custody, though it may be,
 [Hartigan] Gotta keep this quiet.
 Take 'em down fast.
 A dent, the merest scratch thereupon, and before-mentioned consequences which I made mention shall surely be athwart us.
-- [heart beating]
-- [groans]
+[heart beating]
+[groans]
 [Hartigan] Catch your breath.
 Give your heart time to slow down.
 But it won't slow down.
@@ -102,18 +102,18 @@ Cover your eyes, Nancy.
 I don't want you watching this.
 I mean it, baby.
 Cover your eyes right now.
-- [Hartigan] I take his weapons away.
-- [screaming]
-- Both of them.
-- [screaming]
+[Hartigan] I take his weapons away.
+[screaming]
+Both of them.
+[screaming]
 [grunting]
 [Nancy sobbing]
 [Hartigan] Hell of a way to end a partnership.
 [Bob] For God's sakes, don't make it any worse.
-- Don't make me kill you.
-- Doin' fine, Bob.
-- Never better.
-- [Roark groaning]
+Don't make me kill you.
+Doin' fine, Bob.
+Never better.
+[Roark groaning]
 I'm ready to kick your ass.
 [Hartigan] Keep him talking. Buy time.
 Just a few more minutes.
@@ -126,16 +126,16 @@ Run home, Nancy.
 Run for your life.
 Hey. Don't listen to him.
 He's a crazy man.
-- What a tough man you are.
-- You stay right where you're at.
+What a tough man you are.
+You stay right where you're at.
 You shoot your partner in the back... then you try to scare a girl.
 Maybe I'll pull my spare rod, plug you a couple of times, show you how it's done.
 We could've worked something out.
 Sit down or I'll blast you in half.
-- [Hartigan] So slow, never stop me.
-- Sit down!
-- You'll never be able to stop me.
-- [screams]
+[Hartigan] So slow, never stop me.
+Sit down!
+You'll never be able to stop me.
+[screams]
 [siren wails in distance]
 [Hartigan] I finally sit down, just like you told me to.
 The sirens are close now.
@@ -218,8 +218,8 @@ Now, run on home.
 It's not safe for you here.
 Bye, Nancy.
 I love you.
-- [groans]
-- John Hartigan.
+[groans]
+John Hartigan.
 Mr. Law and Order.
 Mr. By the Book.
 Mr. High and Mighty.
@@ -294,8 +294,8 @@ Nothing else matters.
 Not my life and not my pride, either.
 It's only one final surrender they want.
 You got me, Roark. You beat me.
-- [phone ringing]
-- [sirens wailing]
+[phone ringing]
+[sirens wailing]
 I'll get it, Claire.
 It's gotta be Marv.
 He never sleeps and he's always getting himself in deep.
@@ -321,10 +321,10 @@ You're gonna be exonerated.
 You're gonna be a very rich man.
 This isn't like you think it is.
 Like hell it isn't. Doesn't take a genius to figure out who framed you.
-- But even Senator Roark...
-- You hung up the phone too soon.
-- We'll use the law, the press...
-- Going to a lot of trouble for nothing.
+But even Senator Roark...
+You hung up the phone too soon.
+We'll use the law, the press...
+Going to a lot of trouble for nothing.
 He will never know what hit him.
 I'm gonna confess.
 Excuse me?
@@ -340,19 +340,19 @@ I tell them I'm a twisted, wretched child molester.
 I agree to everything they want from me.
 I love you, Nancy.
 It's a lot of miles into town, Hartigan.
-- You care for a ride?
-- Long as you stay in front of me.
+You care for a ride?
+Long as you stay in front of me.
 Prison's made you paranoid.
 Talk about water under the bridge.
 Christ.
 Eight years.
 Yeah. Eight years.
 Well, if it's any consolation to you... you made me hate myself.
-- Any word from Eileen?
-- Yeah.
+Any word from Eileen?
+Yeah.
 She got remarried four years ago.
-- She had two kids. I'm sorry, John.
-- Nah.
+She had two kids. I'm sorry, John.
+Nah.
 Don't be. I'm glad.
 Eileen always wanted kids.
 She'll make a good mother.
@@ -408,12 +408,12 @@ And here I'd figured you'd forgotten all about me. Me and my dumb letters.
 Kept me going.
 Kept me from killing myself.
 Hurry up, will you?
-- Maybe I should drive.
-- Not a chance.
+Maybe I should drive.
+Not a chance.
 Nobody but me can keep this heap running.
 Besides, from the sound of things, you might have to shoot somebody.
-- I don't have a gun.
-- Under the seat.
+I don't have a gun.
+Under the seat.
 It's loaded and it works.
 Yeah, this'll do.
 Taken it to the range a couple of times.
@@ -425,8 +425,8 @@ I've lain awake nights, thinking of you.
 What are you talking about? Damn!
 Keep driving, Nancy. Keep driving and keep the car on the road!
 [Hartigan] She's counting on you.
-- What are you doing?
-- Prove you're still worth a damn.
+What are you doing?
+Prove you're still worth a damn.
 Try to keep it on the road, Nancy!
 [Hartigan] He's a decent shot.
 He's got skill, but he's in too much of a hurry.
@@ -436,8 +436,8 @@ Aim careful and look the devil in the eye.
 Ah!
 Stop the car, Nancy.
 Gotta confirm the kill.
-- What?
-- Stop the car, now!
+What?
+Stop the car, now!
 Right. Stop the car, confirm the kill.
 Sorry. I got a little rattled.
 It's OK. You did great.
@@ -447,10 +447,10 @@ Nothing can happen to me when I'm with you.
 Please? Let me stay close.
 [Hartigan] The stink. I almost gag.
 His blood smells worse than he does.
-- Jesus.
-- And it's all over the place.
-- But the creep himself, he's gone.
-- [sirens wailing]
+Jesus.
+And it's all over the place.
+But the creep himself, he's gone.
+[sirens wailing]
 We're out of time.
 [Hartigan] The sirens.
 I used to welcome the sound.
@@ -465,8 +465,8 @@ That's the third time this year!
 I swore if I ever saw you again,
 I'd show you I grew up strong.
 But there I was, just like before, scared and helpless.
-- I'm such an asshole.
-- You should sit down.
+I'm such an asshole.
+You should sit down.
 [gagging]
 [Hartigan] You'll feel better if you sit down.
 [Hartigan] I've never been all that good with people.
@@ -477,8 +477,8 @@ All these years.
 It's just nerves making you say that, Nancy.
 You're just exhausted.
 You need to sleep.
-- Sleep with me.
-- Stop it, Nancy!
+Sleep with me.
+Stop it, Nancy!
 Eight years.
 Why do you think
 I kept writing you those letters?
@@ -596,8 +596,8 @@ Rotten way to kill a man, but it's quiet.
 Hate yourself later.
 [Whipping]
 [Roark] You're only making this worse, you stupid cow!
-- [whip lashing]
-- [Roark grunting]
+[whip lashing]
+[Roark grunting]
 Do you think I'm tired? Is that it?
 Do you think I'm getting tired?
 You're the one who's gonna crack!
@@ -620,12 +620,12 @@ In too much of a hurry.
 Damn! It can't be!
 [Hartigan] Charging in like Galahad, just like I told myself I wouldn't!
 Stupid old man!
-- [man] You tagged him good!
-- [man 2] Perforate the fool.
+[man] You tagged him good!
+[man 2] Perforate the fool.
 Good advice.
 [Hartigan] Give it up, Junior.
-- It's over. Let her go.
-- You're dreaming, Hartigan!
+It's over. Let her go.
+You're dreaming, Hartigan!
 I see your eyes while I fillet the woman of your dreams in front of you!
 Look at you!
 You're about to keel over!
@@ -637,20 +637,20 @@ Nancy, I'm sorry.
 I'm taking no chances with you.
 First I soften you up, and then it's showtime.
 Here it comes.
-- It's gonna hurt.
-- You're right about that.
+It's gonna hurt.
+You're right about that.
 ' [gasping] ' [sighs]
 Sucker.
 [Hartigan] I take away his weapon.
-- Both of them.
-- [screaming]
+Both of them.
+[screaming]
 Eight long years, son of a bitch!
 [Hartigan] After a while, all I'm doing is pounding wet chunks of bone into the floorboards, so I stop.
 So long, Junior.
 Been a pleasure.
 I didn't scream, Hartigan, not once.
-- I didn't scream.
-- I know it, baby.
+I didn't scream.
+I know it, baby.
 You grew up strong.
 [Hartigan] By the time I get her to the car, Nancy stops shaking.
 Her skin is warm again.
@@ -658,8 +658,8 @@ She's herself again.
 Thanks for remembering my coat.
 And for all the little things.
 Like saving my life, twice.
-- You better get rolling.
-- You're not coming along?
+You better get rolling.
+You're not coming along?
 No. I have friends on their way, to collect evidence.
 I'm gonna blow this whole sick mess wide open.
 I'm gonna clear my name.
@@ -713,8 +713,8 @@ Her perfume a sweet promise that brings tears to my eyes.
 I tell her that everything will be all right.
 That I'll save her from whatever she's scared of and take her far, far away.
 I tell her I love her.
-- [muffled gunshot]
-- [thunder rumbles]
+[muffled gunshot]
+[thunder rumbles]
 The silencer makes a whisper of the gunshot.
 I hold her close until she's gone.
 I'll never know what she was running from.
@@ -775,14 +775,14 @@ And when I find out who did it, it won't be quick and quiet like it was with you
 It'll be loud and nasty, my kind of kill.
 And when his eyes go dead, the hell I send him to will seem like heaven after what I've done to him.
 I love you, Goldie.
-- [siren blares in distance]
-- [helicopter passing]
+[siren blares in distance]
+[helicopter passing]
 [rustling]
 Claire?
 Now, don't worry, Lucille.
 I was just grazed.
-- You got any beers around this place?
-- No way I'm giving you any alcohol.
+You got any beers around this place?
+No way I'm giving you any alcohol.
 Besides, it's not what you came here for anyway, is it?
 No.
 Go ahead.
@@ -794,16 +794,16 @@ With that body of hers she could have any man she wants.
 The pills come from a girlfriend who's a shrink.
 She tried to analyze me once but she got too scared.
 Haven't seen you like this in a while.
-- Got in a fight with some cops.
-- Didn't happen to kill any of them?
+Got in a fight with some cops.
+Didn't happen to kill any of them?
 Not that I know. But they know they've been in a fight, that's for damn sure.
 How do you suppose
 I'm gonna square this with the board?
 There ain't no squaring it. Not this time. This isn't some barroom brawl.
 Or some creep with a gas can trying to torch someone.
 Hey, hey. This is big.
-- Settle down, Marv. Take another pill.
-- There ain't no settlin' down!
+Settle down, Marv. Take another pill.
+There ain't no settlin' down!
 This is blood for blood, and by the gallons.
 This is the old days and the bad days, the all-or-nothing days.
 They're back.
@@ -816,8 +816,8 @@ But I'm out now.
 It took somebody who was kind to me getting killed to do it.
 But I'm out.
 I know exactly what I gotta do.
-- [helicopter passing]
-- [Marv] Now, for Gladys. Sweet Gladys.
+[helicopter passing]
+[Marv] Now, for Gladys. Sweet Gladys.
 But I'll have to sneak past Mom, and her ears have gotten a whole lot better since she went blind.
 Mom still hasn't changed a thing in this room.
 Every week she dusts it all off so it looks like it was only yesterday that I moved out.
@@ -836,8 +836,8 @@ There were men here looking for you.
 They weren't police.
 It was about my job.
 I got a new job.
-- It's night work.
-- What did you do to your face?
+It's night work.
+What did you do to your face?
 Oh, I... cut myself shaving.
 You're getting confused again, aren't you?
 Mom, I feel better than I have in years.
@@ -847,8 +847,8 @@ Somebody wanted you dead and you knew it.
 So you hit the saloons, the bad places, looking for the biggest, meanest lug around and finding me.
 I'm gonna find that son of a bitch that killed you, and I'm gonna give him the hard goodbye.
 Walk down the right back alley in Sin City...
-- Leave your hands off Nancy.
-- ...and you could find anything.
+Leave your hands off Nancy.
+...and you could find anything.
 That coat looks like Baghdad.
 So does your face. Take off!
 [groaning]
@@ -878,8 +878,8 @@ That's one fine-looking coat you're wearing there.
 Your killin' days are over, you over-the-hill, do-gooder son of a bitch.
 [Marv] I love hit men. No matter what you do to them, you don't feel bad.
 [grunting]
-- [Marv] Take it off.
-- What?
+[Marv] Take it off.
+What?
 A fine coat, you're bleeding all over it.
 All right, it's all yours. Oh, God!
 It wasn't you losers who killed Goldie.
@@ -888,8 +888,8 @@ So tell me, man. Who sent you?
 I don't hear you giving me any names.
 So I guess when I shot you in the belly
 I aimed a little too high.
-- [screams]
-- [gunshot]
+[screams]
+[gunshot]
 [Marv] You keep holding out on me, and I'm gonna have to get really nasty.
 It was Telly...
 Telly Stern passed me the order.
@@ -926,15 +926,15 @@ First two were minnows, small-time messengers.
 But it was Connelly, the money man, who fingered you, Padre.
 Dear Lord, man, this is a house of God.
 Just give me a damn name.
-- Roark.
-- You really are pushing your luck, feeding me garbage like that.
+Roark.
+You really are pushing your luck, feeding me garbage like that.
 It can't be that big.
 There's a farm at North Cross and Lennox.
 It's all there. Find out for yourself.
 And while you're at it, ask yourself if that corpse of a slut is worth dying for.
 [Marv] Worth dying for.
-- Worth killing for.
-- [gunshot]
+Worth killing for.
+[gunshot]
 Worth going to hell for.
 Amen.
 His keys say the padre drove a Mercedes, or at least that's what they're passing off as a Mercedes these days.
@@ -952,10 +952,10 @@ I've been doing what I've been doing.
 When you got a condition, it's bad to forget your medicine.
 The cold thing, it creeps into my gut and tells me one more time it won't let go.
 This is a bad place, this farm.
-- People have died here...
-- [soft growling] the wrong way.
-- [barking, growling]
-- I don't want to fight, pooch.
+People have died here...
+[soft growling] the wrong way.
+[barking, growling]
+I don't want to fight, pooch.
 I got no gripe with you.
 Easy, boy.
 [dog whimpers]
@@ -980,14 +980,14 @@ A killer born.
 Why didn't he finish the job?
 He keeps the heads.
 He eats the rest.
-- Lucille?
-- It's not just that wolf of his.
+Lucille?
+It's not just that wolf of his.
 The wolf just gets scraps.
 Bones.
 It's him.
 He... eats... people.
-- He cooks them like they were steaks.
-- Let's get you warm.
+He cooks them like they were steaks.
+Let's get you warm.
 Just like they were steaks.
 Now he's got both of us.
 It's all right.
@@ -998,8 +998,8 @@ The heads on the wall.
 Son of a bitch!
 He kept smiling that damned smile.
 He made me watch him suck the meat off my fingers.
-- He made me watch!
-- Oh, Jesus.
+He made me watch!
+Oh, Jesus.
 [screaming] He made me watch!
 Christ, I could use a cigarette.
 [Marv] Dames. Sometimes all they gotta do is let it out.
@@ -1009,18 +1009,18 @@ Whoever's behind this whole thing has his connections right in the department.
 Any leads?
 One guy I talked to told me it was Roark running the show.
 Whoever it is, he knew I was checking out that hooker almost before I did.
-- What hooker?
-- The one you've been obsessing over.
+What hooker?
+The one you've been obsessing over.
 The dead one.
 Goldie.
 I didn't know she was a hooker.
 Doesn't make any difference about anything.
-- But I didn't know that.
-- She was high-class stuff.
+But I didn't know that.
+She was high-class stuff.
 Must have shown you quite a time.
 Quiet. There's a car coming.
-- [horn honks]
-- [man] Kevin!
+[horn honks]
+[man] Kevin!
 [Marv] All I've got is a face... and a name.
 I'll see you later, Kevin.
 [grunts]
@@ -1029,15 +1029,15 @@ They're done checking the house.
 They're coming this way.
 Bastards. I'll show them.
 ' [grunts]
-- [thudding]
+[thudding]
 You're not gonna get either of us killed, Marv.
 No, don't shoot! Please.
 Listen to me.
 I'm his parole officer.
 He's unconscious and unarmed, so there's no need to kill him.
 Captain, the target, there's no sign of him.
-- Here's a sign!
-- [screaming]
+Here's a sign!
+[screaming]
 [grunting]
 That there is one damn fine coat you're wearing.
 [Marv] I keep coming back to that cop
@@ -1097,10 +1097,10 @@ So, go ahead, doll.
 Shoot me now, or get the hell out of my way.
 Nuts.
 OK, I'm glad we got all that sorted out.
-- What the hell?
-- I tied those knots!
-- That's my specialty!
-- You sat there and took it, when you could've taken my gun away any time you wanted to.
+What the hell?
+I tied those knots!
+That's my specialty!
+You sat there and took it, when you could've taken my gun away any time you wanted to.
 Well, sure. I thought I might be able to talk some sense into you.
 And I probably would have had to paste you one, and I don't hurt girls.
 I need a pair of handcuffs.
@@ -1130,8 +1130,8 @@ You know, the way I look.
 It's almost killing time, and I'd better get sharp.
 I check the list: rubber tubing, gas, saw, gloves, cuffs, razor wire, hatchet,
 Gladys and my mitts.
-- We're close enough. Pull over.
-- Yes, Marv.
+We're close enough. Pull over.
+Yes, Marv.
 Keep the engine runnin'.
 If I'm not back in 20 minutes, you get the hell outta here and don't look back.
 Kill him for me, Marv.
@@ -1163,8 +1163,8 @@ Could have been a real mess around here if I didn't have that tubing for tourniq
 I gotta admit, there was a spurt or two, to get the scent in the air, to get that friend of yours to come running.
 Well, what do you know?
 Look who's here.
-- Here he comes.
-- [growling]
+Here he comes.
+[growling]
 That's a good dog.
 [Marv] He doesn't scream, not even when the mutt's had its fill and Kevin's guts are lying all over the place.
 Somehow the bastard is still alive, still staring at me.
@@ -1194,8 +1194,8 @@ I've done this one thing right.
 Quiet as a grave out here.
 No sign of target.
 [man on walkie] Keep a lookout.
-- Kevin?
-- What's left of him, anyways.
+Kevin?
+What's left of him, anyways.
 The dog ate the rest.
 Oh, my God. You monster.
 You demon.
@@ -1236,9 +1236,9 @@ You can scream now if you want to.
 It's just like I promised, only better.
 And when his eyes go dead, the hell I sent him to must seem like heaven after what I've done to him.
 ' [man] Freeze!
-- [man 2] Oh, my God!
-- [heart monitor beeping]
-- [Marv groans] Jerks.
+[man 2] Oh, my God!
+[heart monitor beeping]
+[Marv groans] Jerks.
 They should've shot me in the head, and enough times to make sure.
 It's so stupid.
 Everybody knows what's coming, but they go through the motions anyway.
@@ -1304,13 +1304,13 @@ Just open the door and you'll see how wrong you've been about me.
 Oblige him, Shellie.
 I'm ready for him.
 No! If he knew that you were here with me,
-- you don't know how bad this could get!
-- This clown's got a big, mean drunk on.
+you don't know how bad this could get!
+This clown's got a big, mean drunk on.
 He's got four friends out there in the hall, breathing hard and just as drunk as he is.
 Hey, I could swear I heard somebody in there with you just now.
 Somebody! Jackie Boy, it's a regular African love fest in here!
-- I'm no racist.
-- I mean, I got me all five starters, half the bench of the Basin City Blues keeping me company.
+I'm no racist.
+I mean, I got me all five starters, half the bench of the Basin City Blues keeping me company.
 You feel like taking them on?
 [Jackie Boy] You are teasing me, baby.
 Some of my best friends...
@@ -1319,8 +1319,8 @@ And the whole time you've been doing me like this,
 I've been too polite to point out that any time I want to,
 I could kick this damn door to splinters.
 OK, baby, you know what I can do.
-- You know what I can do. One, two...
-- All right, then!
+You know what I can do. One, two...
+All right, then!
 All right. All right, all right!
 Troops, make yourself at home.
 You brought your whole pack with you?
@@ -1328,16 +1328,16 @@ None of these bozos got lives, they gotta hang out with you?
 You're gonna love this, baby.
 Call up some of your friends who work the saloon.
 With you and the bunch of us, we're gonna hit every joint in town,
-- and it's gonna be great.
-- I ain't calling up nobody.
+and it's gonna be great.
+I ain't calling up nobody.
 That's a man's shirt, and I'm sure as hell it ain't one of mine.
 You got somebody's love stink all over you.
 You've been with another man and you've been with him tonight.
-- Who is he?
-- He's Superman.
+Who is he?
+He's Superman.
 He flew out the window just as soon as he heard you were coming,
-- 'cause you scared him so bad.
-- [Jackie Boy chuckling]
+'cause you scared him so bad.
+[Jackie Boy chuckling]
 [Jackie Boy] You think
 I have no feelings at all.
 [Shellie] If you're gonna slug me, just go ahead and get it over with, you sick bastard.
@@ -1348,17 +1348,17 @@ I have never hit a woman in my life.
 That's showing her, man.
 You goddamn bastard.
 You goddamn coward.
-- Baby, we're here to have a good time.
-- Yeah.
-- I gotta take a leak.
-- [men laughing]
+Baby, we're here to have a good time.
+Yeah.
+I gotta take a leak.
+[men laughing]
 Wish you'd dropped by earlier,
 Jackie Boy.
 Then you could've met my boyfriend.
 Could've seen what a real man looks like.
 There you go, after my nuts again.
-- But I forgive you.
-- [scoffs]
+But I forgive you.
+[scoffs]
 I'm a generous guy.
 He is generous.
 But that temper of his...
@@ -1387,8 +1387,8 @@ No questions. Now!
 [Shellie] Dwight, what did you do?
 I just gave him a taste of his own medicine.
 I don't think he'll be bothering you again.
-- How's your jaw?
-- I've been slapped around worse.
+How's your jaw?
+I've been slapped around worse.
 Dwight, he was from a while back, before you showed up again with that new face of yours.
 And it was only
 'cause I felt sorry for him.
@@ -1399,12 +1399,12 @@ I'm one of those dumb things,
 I can't give you too hard a time about that.
 But this guy, he's a menace.
 He might kill somebody if I don't stop him.
-- I'll call you later.
-- No, don't go!
+I'll call you later.
+No, don't go!
 [Dwight] Shellie shouts something
 I can't make out over the racket of a passing police 'copter.
-- Stop!
-- It sounds like "stop," but I can't be sure.
+Stop!
+It sounds like "stop," but I can't be sure.
 It's a chance I shouldn't be taking, but I can't go home and forget about it, and let Jackie Boy and his pals find their fun.
 They're a pack of predators and they're out for blood tonight: a woman's blood.
 Damn it, Dwight. Damn it.
@@ -1417,10 +1417,10 @@ If you're a murderer with a new face who's one fingerprint check away from the f
 I don't have nearly enough cash on me to bribe this cop, and even if I did, there's the outside chance he's one of the honest ones.
 Do I try to talk my way out of this, or do I take this cop down and risk it all?
 Then Jackie Boy saves me a great, big, steaming pile of trouble.
-- Watch it, Jack!
-- [horn honking]
-- [tires screeching]
-- [siren wailing]
+Watch it, Jack!
+[horn honking]
+[tires screeching]
+[siren wailing]
 Cops! They're right on our ass!
 Not for long. Not where we're headed.
 [Dwight] My gut tightens up.
@@ -1430,8 +1430,8 @@ He knows he's not the law, not in Old Town.
 The ladies are the law here, beautiful and merciless.
 If you've got cash and play by the rules, they'll make all your dreams come true.
 But if you cross 'em, you're a corpse.
-- Squad car's long gone.
-- I called it. Was I right?
+Squad car's long gone.
+I called it. Was I right?
 You're always right, Jack. None of us ever doubted you for a second.
 But I heard things about these girls.
 Things they'd done to guys who got out of line.
@@ -1460,8 +1460,8 @@ Enjoy the show.
 The ladies are their own enforcers.
 How's the barmaid?
 You know, the one that never shuts up?
-- Not right now, Gail.
-- Ooh.
+Not right now, Gail.
+Ooh.
 Wound up a little tight, aren't we?
 That's your whole problem, Dwight.
 You worry too much.
@@ -1478,8 +1478,8 @@ Us girls are safe as we can be, Lancelot.
 Those boys in that Chrysler are one mistake away from seeing what Miho can do.
 And she's been aching for some practice.
 [Dwight] She guides my glance upwards to the pixie perched on the roof's edge.
-- Deadly little Miho.
-- [girl] You're running out of alley.
+Deadly little Miho.
+[girl] You're running out of alley.
 Turn around. Save yourself and your buddies a ton of grief.
 [Jackie Boy] You're a sassy little thing.
 You ain't hardly in any kind of position to be making threats.
@@ -1495,8 +1495,8 @@ And they won't.
 Something Shellie said.
 I can't place it.
 OK, OK, OK. I sounded off a little more than I should have.
-- I'm a little on edge.
-- Over the edge.
+I'm a little on edge.
+Over the edge.
 It's not a woman you need.
 It's a good night's sleep.
 You couldn't handle a woman, the state you're in.
@@ -1514,22 +1514,22 @@ This is crazy!
 Out of nowhere, for no reason at all!
 Go ahead.
 Go ahead. Go ahead.
-- He's got the drop on her.
-- He's got squat.
+He's got the drop on her.
+He's got squat.
 He's dead.
 He's just too damn dumb to know it.
 I got you right where I want you.
 This is a career-ending wound, whore.
-- And there's gonna be hell to pay.
-- Watch your step, Jackie Boy.
+And there's gonna be hell to pay.
+Watch your step, Jackie Boy.
 Yeesh.
 This isn't funny.
 Don't anyone laugh.
 I got friends you can't imagine.
 Every one of you is gonna burn.
 [Dwight] She's just playing with you.
-- You're only making it worse.
-- You shut the hell up.
+You're only making it worse.
+You shut the hell up.
 Don't pull the trigger.
 She blocked the barrel. It'll backfire.
 I told you to shut up.
@@ -1571,8 +1571,8 @@ Women's blood.
 The cops! The mob! Things are gonna go back to the way they used to be!
 The hell they will! We got guns.
 We'll fight the cops and the mob and anybody else who tries to move in on us.
-- We'll go to war.
-- [Dwight] Don't be stupid.
+We'll go to war.
+[Dwight] Don't be stupid.
 You wouldn't stand a chance.
 Get me a car.
 Make sure it's a hardtop with a decent engine.
@@ -1585,8 +1585,8 @@ I'll haul the bodies to the pits.
 The cops won't check.
 Get that out of my face or I'll smack ya.
 Who do you think you are, giving orders?
-- You got what you wanted out of us.
-- Shut up, Gail.
+You got what you wanted out of us.
+Shut up, Gail.
 You got what you wanted out of me!
 And you were gone, off playing with that barmaid.
 Gone until you brought this unholy mess on us.
@@ -1598,8 +1598,8 @@ It'll be the bad old days all over again.
 The pimps, the beatings, the drugs, the rapes!
 They won't be watching the roads. Not yet, they won't! Get me a damn hardtop!
 If I don't make it, you can have your war.
-- Get that gun out of my face now!
-- Ah!
+Get that gun out of my face now!
+Ah!
 Bastard!
 I forgot how quick you are.
 [Dwight] My warrior woman.
@@ -1644,8 +1644,8 @@ It's got you smoking.
 You know it's true. [wheezing]
 Nobody ever really quits.
 A smoker's a smoker when the chips are down.
-- And your chips are down.
-- I'm fine. You shut the hell up.
+And your chips are down.
+I'm fine. You shut the hell up.
 Will you look at that?
 Ooh! Those hookers let you down.
 [giggles]
@@ -1658,7 +1658,7 @@ Watch it!
 [horn honking]
 Ah, this is great.
 Just like being in a buddy movie.
-- Shut up!
+Shut up!
 _ [Jackie Boy laughing]
 [siren wailing]
 Boy, you're screwed, you're out, you're finished.
@@ -1678,8 +1678,8 @@ The only question left is whether I'm gonna kill him or not.
 Tough call.
 For all I know, he's an honest cop, regular guy, a working stiff with a mortgage, a wife and a pile of kids.
 My hand moves all on its own, sliding one of my guns to my lap and thumbing back the hammer.
-- I don't know what to do.
-- Better stop. You're making him mad.
+I don't know what to do.
+Better stop. You're making him mad.
 Whatever you say.
 Your friend here... party a little too hard tonight?
 I'm the designated driver.
@@ -1722,8 +1722,8 @@ Low taxes, land of opportunity.
 Where else would one bullet buy us the fortune that we're getting for this?
 [woman] Beats blowing up airports and churches without shite to show for it.
 Yeesh.
-- You find something, Murphy?
-- Looks to be a poor, dead cop's badge.
+You find something, Murphy?
+Looks to be a poor, dead cop's badge.
 It's all bent up.
 What's this stuck in it?
 Bloody hell. It's the bullet.
@@ -1795,15 +1795,15 @@ You killed me mates.
 Someone shoulda told ya: never give an Irishman good cause for revenge.
 [Dwight] Deadly little Miho.
 You won't feel a thing unless she wants you to.
-- She twists the blade.
-- [crunching]
+She twists the blade.
+[crunching]
 He feels it.
 I tell Miho what we're gonna do and how we're gonna do it.
 I grab poor Dallas's earphone and make the most important call of my life.
 First, we gotta rescue Gail, then comes the kill.
 The big, fat kill.
 _ [gasping]
-- [crunching]
+[crunching]
 Do we just gotta stand here and watch this?
 What, are you kidding me, man?
 I could watch old Manute do his thing all night and not get tired of it.
@@ -1814,8 +1814,8 @@ Your nerves, responsive.
 Beautiful.
 Just give them what they want, Gail.
 [gasping]
-- Becky?
-- It's over, Gail.
+Becky?
+It's over, Gail.
 There's no fighting them.
 Dwight's dead.
 They got what's left of that cop we killed.
@@ -1839,8 +1839,8 @@ Your precious, scrawny, little neck!
 [Becky screams]
 You're crazy! You could have ripped my throat out, you crazy whore!
 Schutz, fetch my blades.
-- Stuka, kill this one.
-- No, I was promised!
+Stuka, kill this one.
+No, I was promised!
 Stupid little bitch!
 You deserve worse!
 I knew there was a reason
@@ -1851,12 +1851,12 @@ Nobody. I don't see nobody.
 Will you look at that?
 It's right through me. Guys, look.
 There's something wrapped around it.
-- Some kind of note.
-- [Manute] Give it to me.
+Some kind of note.
+[Manute] Give it to me.
 It's poked right through me.
 Guys, look.
-- It's starting to hurt.
-- Out back. Everyone. Bring the women.
+It's starting to hurt.
+Out back. Everyone. Bring the women.
 Do you think somebody should call me a doctor or something?
 McCarthy, you fool.
 Hey.
@@ -1869,12 +1869,12 @@ But the alley is crooked, dark and very narrow.
 They can't surround me.
 Sometimes, you can beat the odds with the careful choice of where to fight.
 You can have Old Town, I don't care.
-- Just give me the woman.
-- [muffled talking]
+Just give me the woman.
+[muffled talking]
 Shut up.
 Dwight, don't do this.
-- Wait a minute. Something's not right.
-- Shut up, or I'll plug you!
+Wait a minute. Something's not right.
+Shut up, or I'll plug you!
 Of course, Mr. McCarthy.
 A fair trade. She's all yours.
 Now, if you'll explain to me why we shouldn't blow both of you to pieces...

@@ -40,7 +40,7 @@ I looked down...</i>
 <i>Engineering says thank you.</i>
 Tell them I still prefer my '67 Corvette, though.
 <i>- Speaking of which, did I ever tell you--
-- We know the Corvette story.</i>
+We know the Corvette story.</i>
 Even Engineering?
 <i>Especially Engineering.</i>
 <i>We're going to miss you, Matt.</i>
@@ -105,7 +105,7 @@ One hour. Ahem.
 <i>...but, uh, for your information, this delay is not going to be long enough...</i>
 <i>...for you to break Anatoly Solovyev's spacewalking record.</i>
 <i>- It seems like you're gonna be left--
-- Seventy-five minutes shy?</i>
+Seventy-five minutes shy?</i>
 <i>Never crossed my mind.</i>
 Matt...
 <i>...it's been a privilege.</i>
@@ -113,7 +113,7 @@ Matt...
 <i>Enjoy your last walk.</i>
 Am I a go to assist Dr. Stone in removing the panel?
 <i>- Assistance appreciated.
-- Permission granted.</i>
+Permission granted.</i>
 Thank you, Houston. Agh.
 Mind if I join the fun?
 Certainly.
@@ -124,8 +124,8 @@ If it makes you feel any better...
 ...I coughed up everything but my kidneys on my first ride.
 Shit.
 Ah. Ah. Unh.
-- Ha, ha.
-- Sorry.
+Ha, ha.
+Sorry.
 I'm used to a basement lab in a hospital where things fall to the floor.
 Thank you.
 Well, you're the genius up here.
@@ -148,17 +148,17 @@ Aah.
 So, doc, now that you work for NASA, how do you like us?
 <i>Kind of like winning the lottery, huh?</i>
 I was just happy that they didn't cut the funding to my research.
-- How long was your training?
-- Oh, six months.
+How long was your training?
+Oh, six months.
 <i>- Including holidays?
-- Uh-huh.</i>
+Uh-huh.</i>
 So, what is this scanning system?
 <i>Oh, nothing, Matt.</i>
 <i>It's just a new set of eyes to scan the edge of the universe.</i>
 It's designed for hospital use, but this one's a prototype.
 <i>Stand by for locking.</i>
-- Unh.
-- Listen, they don't bankroll prototypes.
+Unh.
+Listen, they don't bankroll prototypes.
 Even for your pretty blue eyes.
 Well, my eyes are brown.
 Right now, your eyes are bloodshot.
@@ -190,7 +190,7 @@ And then I realize that this guy is not a guy.
 That my girl is holding hands with--
 <i>ISS, this is Houston.</i>
 <i>- Explorer, this is Houston.
-- Go ahead, Houston.</i>
+Go ahead, Houston.</i>
 <i>Mission abort. Repeat, mission abort.</i>
 <i>Initiate emergency disconnect from Hubble.
 Begin reentry procedure.</i>
@@ -200,28 +200,28 @@ Begin reentry procedure.</i>
 Repeat, immediate return to Explorer.</i>
 Copy. Explorer, prep airlock.
 <i>Airlock engaged, ready to receive.
-- Houston, elaborate.</i>
+Houston, elaborate.</i>
 <i>Debris from the missile strike has caused a chain reaction...</i>
 <i>...hitting other satellites and creating new debris.</i>
 <i>Traveling faster than a high-speed bullet up towards your altitude. All copy.</i>
 Copy all.
 Put a bow on it, Dr. Stone.
 I can't. The board is still initializing.
-- I'm not gonna ask you again.
-- One second.
+I'm not gonna ask you again.
+One second.
 Not one second. Now. Shut it down.
 That's an order.
 Okay, I'm sorry. I'm sorry, I'm done.
 I'm done.
 <i>Kowalski, initiate emergency disconnect from the Hubble.</i>
 <i>- All right, Sharif f, let's do this.
-- Roger, Matt.</i>
+Roger, Matt.</i>
 Houston, update.
 <i>Well, we have a full-on chain reaction.</i>
 <i>It's been confirmed that it's the unintentional side effect...</i>
 <i>...of the Russians striking one of their own satellites.</i>
 <i>They shot down their own satellite?
-- Right of disposal.</i>
+Right of disposal.</i>
 Most likely a spy sat gone bad.
 Now it's shrapnel.
 Explorer, ready to disengage HST.
@@ -242,25 +242,25 @@ Explorer, repeat...
 <i>Copy that, Houston.</i>
 Explorer, this is Kowalski, confirming visual contact with debris.
 Debris is from a BSE sat.
-- Heads up!
-- To repeat, I have--
+Heads up!
+To repeat, I have--
 <i>Dr. Stone requesting faster transport.
-- We have to go. We have to go, go, go!</i>
+We have to go. We have to go, go, go!</i>
 <i>Kennedy reports meteorological conditions no-go...</i>
 Houston, Explorer. Copy.
 <i>Explorer, Dr. Stone requesting faster transport to bay area.</i>
 <i>Explorer, do you copy?</i>
-- Explorer, permission to retrieve Dr. Stone.
-- You're a go, Kowalski.
+Explorer, permission to retrieve Dr. Stone.
+You're a go, Kowalski.
 <i>Houston, this is Explorer, copy.</i>
 <i>- All right.
-- We've lost Houston.</i>
+We've lost Houston.</i>
 <i>- Unh!
-- We've lost Houston.</i>
+We've lost Houston.</i>
 Unstrap. Look, we need to get the hell out of here.
 <i>Need some help there, Matt?
-- No, don't wait for us.</i>
-- Unh!
+No, don't wait for us.</i>
+Unh!
 -It's stuck!
 Man down! Man down!
 <i>Houston, this is Explorer, copy.
@@ -272,34 +272,34 @@ Explorer, over. Explorer.
 <i>Astronaut is off structure.
 Dr. Stone is off structure.</i>
 <i>- Dr. Stone, detach! You must detach!
-- No!</i>
+No!</i>
 <i>If you don't detach, that arm's gonna carry you too far!</i>
 <i>- Listen to my voice! You need to focus!
-- I can't!</i>
+I can't!</i>
 <i>I'm losing visual of you.
 In a few seconds I won't be able to track you.</i>
 <i>You need to detach!</i>
 <i>- I can't see you anymore. Do it now!
-- I'm trying! I'm trying!</i>
+I'm trying! I'm trying!</i>
 <i>Houston, I've lost visual of Dr. Stone.</i>
 <i>Houston, I've lost visual of Dr. Stone.</i>
 <i>Dr. Stone, do you copy?</i>
 <i>Repeat, do you copy?</i>
 <i>- Yes, yes, yes, I copy! I'm detached!
-- Give me your position.</i>
+Give me your position.</i>
 I don't know! I don't know,
 I'm spinning! I can't--!
 <i>Report your position.</i>
 GPS is down. I can't-- It's down, I can't--
 <i>- Give me a visual.
-- I told you, nothing. I see nothing!</i>
+I told you, nothing. I see nothing!</i>
 <i>- Do you have a visual of Explorer?
-- No.</i>
+No.</i>
 <i>- Do you have a visual of ISS?
-- No.</i>
+No.</i>
 <i>You need to focus. Anything, use the sun and the Earth, give me coordinates.</i>
 <i>- I can't breathe! I can't breathe!
-- Give me coordinates!</i>
+Give me coordinates!</i>
 <i>Dr. Stone, do you copy?</i>
 Kowalski? Kowalski, do you copy?
 Kowals-- I have a vis--
@@ -326,10 +326,10 @@ Please.
 Yeah, Lieutenant Kowalski, yes.
 Yes, Lieutenant Kowalski, I'm here!
 <i>- Repeat, do you copy?
-- Yes, yes, I copy, I'm here. I'm here.</i>
+Yes, yes, I copy, I'm here. I'm here.</i>
 <i>Flash your light.</i>
 <i>- My light?
-- Flash it so I can see you.</i>
+Flash it so I can see you.</i>
 Okay.
 Okay, okay. Here, here! I'm here!
 <i>There you are. Hang on tight.</i>
@@ -345,12 +345,12 @@ No, 8 percent.
 <i>You're burning oxygen, and we don't wanna do that.</i>
 <i>We wanna relax. Copy?</i>
 Okay, sorry. Yes, copy.
-- All right. Nearly there.
-- Copy. Please hurry.
+All right. Nearly there.
+Copy. Please hurry.
 <i>You can holster that torch, Dr. Stone.</i>
 Sorry. Sorry.
-- Aah!
-- Gotcha.
+Aah!
+Gotcha.
 All right, now I'm gonna tether you to me.
 I know, you never realized how devastatingly good-looking I am.
 But I need you to stop staring and help me with the tether.
@@ -360,15 +360,15 @@ Uh, I got it.
 All right, here we go.
 Now, to clear you from the jets,
 I'm gonna give you a little push.
-- No, no, no.
-- Not a push.
+No, no, no.
+Not a push.
 A nudge.
 No, no, no! Damn it, no!
 See? Where you go, I go.
 Better.
 Let's get out of here.
-- Goddamn it! Agh.
-- I know what you mean.
+Goddamn it! Agh.
+I know what you mean.
 Damn it.
 You're burning oxygen.
 We're going back to the shuttle.
@@ -386,8 +386,8 @@ We don't know that.
 That's why we keep talking.
 If somebody is listening, they might just save your life.
 Set your watch for 90 minutes.
-- Why 90?
-- Houston clocked that debris...
+Why 90?
+Houston clocked that debris...
 ...at 50,000 miles an hour.
 If you factor in our current orbit...
 ...then I figure we got about 90 minutes before we get our asses kicked again.
@@ -412,8 +412,8 @@ Grab him! Agh!
 I'm trying, I'm trying!
 You're pulling me away.
 I got him!
-- Clutch him like he's your valentine.
-- I got him.
+Clutch him like he's your valentine.
+I got him.
 I can't engage my thrust with you two yo-yoing around.
 Jesus Christ.
 <i>Here's hoping you have a hell of an insurance policy, Houston.</i>
@@ -457,8 +457,8 @@ The sunrise.
 That's what I'm gonna miss the most.
 So where's home, Dr. Stone?
 Ryan, where's home?
-- Home?
-- Mm-hm.
+Home?
+Mm-hm.
 Down there. Mother Earth.
 Where do you pitch your tent?
 Lake Zurich.
@@ -509,8 +509,8 @@ The good news is, we're about 5 minutes from the ISS...
 And that is good, because I'm running on fumes here.
 The bad news is...
 ...I'm gonna be about 10 minutes short of breaking Anatoly's record, and--
-- Agh!
-- What?
+Agh!
+What?
 I'm redlining. My O2 tank pressure is low.
 Your tank is out of oxygen, but you still have it in your suit.
 Got it.
@@ -531,8 +531,8 @@ This can has one or two good thrusts left...
 Steady.
 Aim.
 Fire.
-- Brake! Brake. You have to brake!
-- I can't, the can's...
+Brake! Brake. You have to brake!
+I can't, the can's...
 ...empty. We're gonna hit hard.
 Grab ahold of anything you can!
 What do I do?
@@ -543,8 +543,8 @@ I'm detached!
 Grab ahold!
 Grab anything!
 Ryan!
-- Give me five.
-- I've got you.
+Give me five.
+I've got you.
 I've got you. Right here.
 Shit!
 No,no,no!
@@ -553,23 +553,23 @@ Got you.
 You just hold on, and I'm gonna start pulling you in.
 Hey, doc.
 Just hold on. Hang on.
-- I am gonna pull you in.
-- Ryan, listen.
+I am gonna pull you in.
+Ryan, listen.
 You have to let me go.
-- No.
-- The ropes are too loose.
+No.
+The ropes are too loose.
 I'm pulling you with me.
-- Let me go or we both die.
-- I'm not letting you go!
+Let me go or we both die.
+I'm not letting you go!
 We're fine! Unh.
-- Agh!
-- No.
+Agh!
+No.
 Ryan, let go.
 No. No.
 You're not going anywhere.
 You're not going anywhere.
 -It's not up to you.
-- No, no, no.
+No, no, no.
 Please don't do this.
 Please, please, please. Please don't do this.
 Please don't do this. No, no, no.
@@ -621,15 +621,15 @@ I crashed it every time.
 <i>And by this time tomorrow, you're gonna be back in Lake Zurich with a hell of a story to tell.</i>
 <i>You COPY?</i>
 <i>Ryan, you copy?</i>
-- I'm gonna take the Soyuz and come get you.
-- No, you're not.
+I'm gonna take the Soyuz and come get you.
+No, you're not.
 <i>- I'm coming to get you.
-- I've got too much of a head start.</i>
+I've got too much of a head start.</i>
 <i>- I'm coming to get you.
-- I'm afraid that ship already sailed.</i>
+I'm afraid that ship already sailed.</i>
 <i>Ryan, you're gonna have to learn to let go.</i>
 <i>- But I--
-- I wanna hear you say...</i>
+I wanna hear you say...</i>
 <i>...you're gonna make it.</i>
 <i>Come on, Ryan, say it.</i>
 I'm gonna make it.
@@ -780,28 +780,28 @@ Is this the Chinese station?
 Is this Tiangong? Copy.
 Mayday, can you copy?
 Mayday, mayday. Mayday.
-- Mayday.
-- Yes, yes. Mayday, mayday.
-- Mayday.
-- Mayday, mayday.
+Mayday.
+Yes, yes. Mayday, mayday.
+Mayday.
+Mayday, mayday.
 <i>Aningaaq.</i>
-- Aningaaq, is that your name?
-- Aningaaq.
-- Aningaaq is your name? Is that your name?
-- Mayday. Aningaaq.
+Aningaaq, is that your name?
+Aningaaq.
+Aningaaq is your name? Is that your name?
+Mayday. Aningaaq.
 <i>Aningaaq. mayday-</i>
 No, no, no. No, my name is not mayday.
 I'm Stone. Dr. Ryan Stone.
 I need help. I am--
 Those are dogs.
 They're calling from Earth.
-- They're calling from Earth.
-- Ha-ha-ha!
+They're calling from Earth.
+Ha-ha-ha!
 Aningaaq...
 ...make your dogs bark again for me, would you, please?
 Your dogs. Dogs, you know.
-- Ha-ha-ha!
-- Woof, woof. Dogs.
+Ha-ha-ha!
+Woof, woof. Dogs.
 Woof, woof.
 Oh, I'm gonna die, Aningaaq.
 I know, we're all gonna die.
@@ -833,9 +833,9 @@ Check your watch.
 Thirteen hours and 11 minutes.
 Call Anatoly and tell him he's been bumped.
 -It's a little gloomy in here, isn't it?
-- How did you--?
-- Trust me, it's a hell of a story.
-- But how did you--?
+How did you--?
+Trust me, it's a hell of a story.
+But how did you--?
 That's better.
 I found a little extra--
 A little extra battery power.
@@ -843,27 +843,27 @@ It helps that I didn't have you around to distract me.
 I have to say, I'm glad to see you.
 I didn't think you were gonna make it.
 Did you find the vodka?
-- You never told me where it was, so...
-- Oh, well...
+You never told me where it was, so...
+Oh, well...
 Ah, ah!
 To Anatoly.
 Huh? No? All right.
 Let's get out of here.
 The Chinese station's about 100 miles.
 Just a little Sunday drive.
-- We can't.
-- Sure we can.
-- There's no fuel, I tried everything.
-- Well, there's always something we can do.
+We can't.
+Sure we can.
+There's no fuel, I tried everything.
+Well, there's always something we can do.
 I tried everything.
 Did you try the soft landing jets?
 They're for landing, so...
 Landing is launching. It's the same.
 Didn't you learn that in training?
-- I never got to land the simulator, I told you.
-- But you know about it.
-- And I crashed it every time.
-- Do you wanna go back or stay here?
+I never got to land the simulator, I told you.
+But you know about it.
+And I crashed it every time.
+Do you wanna go back or stay here?
 I get it, it's nice up here.
 You can just shut down all the systems...
 ...turn out all the lights...

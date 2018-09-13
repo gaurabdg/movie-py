@@ -34,13 +34,13 @@ I assure you, ladies and gentlemen, no matter what the others promise to do, whe
 Sit down! Sit down, you have no right...
 Let us discuss what the man has to say.
 Let us discuss what the man has to say.
-- Prescott, do you trust this man?
-- Let's discuss what he has to say.
-- There's logic to what he's saying.
-- How does he know? My lot is there!
+Prescott, do you trust this man?
+Let's discuss what he has to say.
+There's logic to what he's saying.
+How does he know? My lot is there!
 Two or three years, it could be ten years!
-- We gain nothing by losing our heads!
-- Look at that well out there!
+We gain nothing by losing our heads!
+Look at that well out there!
 Nobody's losing their heads.
 You have no business being here!
 Sit that woman down, sir!
@@ -48,8 +48,8 @@ You can sit down.
 Mr. Plainview! Please, Mr. Plainview.
 No, Mr. Plainview!
 No, where are you going?
-- I don't need the lease. Thank you.
-- But we need you.
+I don't need the lease. Thank you.
+But we need you.
 Too much confusion.
 Thank you for your time.
 No, no, there's no confusion.
@@ -84,13 +84,13 @@ What can I do for you?
 You look for oil.
 That's right.
 What do you pay for a place that has it?
-- Well, that depends.
-- What does it depend on?
+Well, that depends.
+What does it depend on?
 On a lot of things.
 If I told you I knew a place that had oil where land could be bought cheaply, what do you think that would be worth?
 I think that you should let me know what you know and then we'll try and work something out.
-- Can I sit down?
-- Please.
+Can I sit down?
+Please.
 What church do you belong to?
 I...
 I enjoy all faiths. I don't belong to one church in particular.
@@ -104,12 +104,12 @@ Do you want to pay me to know where it is?
 Just 'cause there's something on the ground doesn't mean there's anything beneath it.
 Why did Standard Oil buy up land?
 Is it in California?
-- Maybe.
-- How much land did they buy?
+Maybe.
+How much land did they buy?
 I'd like it better if you didn't think I was stupid.
 Why did you come to me?
-- You just brought this well in.
-- That's right.
+You just brought this well in.
+That's right.
 Yes, so just give me $500 in cash right now and I'll tell you where it is.
 I'll tell you what I'll do, son.
 I'll give you $100 now, and if it proves to be a promising lease, then give you a $1,000 bonus.
@@ -126,10 +126,10 @@ Or alkali deposits?
 Alkali nearby. I don't know sulfur.
 Is that your son?
 Yes.
-- Hi.
-- Hi.
-- Who are you?
-- I'm Fletcher Hamilton.
+Hi.
+Hi.
+Who are you?
+I'm Fletcher Hamilton.
 Nice to meet you, son.
 What's your name?
 What do you do?
@@ -144,70 +144,70 @@ There's a sheep trail that takes you there.
 It's a mile out of town headed west, not far.
 Just through a small pass here near the base of the hills.
 You'll pass a church and just follow the sheep trail.
-- Where's Standard buying up?
-- Here and here.
-- Your family name is Sunday, yes?
-- That's right.
+Where's Standard buying up?
+Here and here.
+Your family name is Sunday, yes?
+That's right.
 How many's in your family?
 My father and mother and sisters and my brother Eli.
-- How many sisters do you have?
-- Two.
-- What's your name?
-- Paul.
+How many sisters do you have?
+Two.
+What's your name?
+Paul.
 Does any of your family know about the oil that you say is there?
 I don't know.
 My uncle always said there was oil there, but I don't know what they heard or what they think.
 What do you grow? lt's goats. It's a goat farm.
 I told you, nothing grows but weeds.
-- Is there water?
-- It's salty.
+Is there water?
+It's salty.
 You drill a well, it's hard not to get saltwater.
 The oil is there. I'm telling you.
-- I want to go now, so...
-- You can stay tonight.
-- No, I want to go now. I want to leave.
-- Listen, Paul.
+I want to go now, so...
+You can stay tonight.
+No, I want to go now. I want to leave.
+Listen, Paul.
 If I travel all the way out there and I find that you've been lying to me,
 I'm going to find you and I'm going to take more than my money back.
 Is that all right with you?
-- Yes, sir.
-- All right, then.
-- Nice luck to you. God bless.
-- And to you, young man.
-- There's someone coming.
-- Thank you, Mary.
-- Good evening.
-- Good evening.
+Yes, sir.
+All right, then.
+Nice luck to you. God bless.
+And to you, young man.
+There's someone coming.
+Thank you, Mary.
+Good evening.
+Good evening.
 My name's Daniel Plainview.
 This is my son, H.W.
-- Are you hunting?
-- Hunting for quail.
+Are you hunting?
+Hunting for quail.
 We're told there might be a good place to camp up near the Sunday ranch.
 This is the Sunday ranch.
 You can camp here.
-- Thank you. Do you have water?
-- Yes.
+Thank you. Do you have water?
+Yes.
 We heard there was an earthquake up here a few days ago.
-- Is that right?
-- Yes.
-- Your family?
-- Yeah, all fine. Thank you.
-- We have goat's milk, if you'd like.
-- That would be fine.
+Is that right?
+Yes.
+Your family?
+Yeah, all fine. Thank you.
+We have goat's milk, if you'd like.
+That would be fine.
 Now, if we set our tent away over there, we'd be out of your way over there.
 That's fine.
 Ruth! Help these men and bring them some water.
 No! H.W.
 Mr. Plainview, would you like that milk now?
-- That would be fine. Thank you.
-- Mary! Bring them some milk.
+That would be fine. Thank you.
+Mary! Bring them some milk.
 My family will help you set up your tent.
 No, please.
 We set ourselves on this camping trip.
 We have to do the camping.
 Hurry up!
-- Do you have bread?
-- We have potatoes.
+Do you have bread?
+We have potatoes.
 Potatoes would be nice, thank you.
 I'll have them boil you up some potatoes.
 That's all right.
@@ -216,12 +216,12 @@ I wanted to work with my son on making a fire.
 All right. My son, Eli, will bring you some wood.
 Thank you so much for your hospitality,
 Mr. Sunday.
-- Yes.
-- And we'll be out of your way.
-- We're just hunting for quail.
-- Yes.
-- I'm sorry we don't have any bread.
-- No, no, no.
+Yes.
+And we'll be out of your way.
+We're just hunting for quail.
+Yes.
+I'm sorry we don't have any bread.
+No, no, no.
 Corn doesn't fill out in the hills here.
 It's mostly rock.
 We don't have room to raise the grain.
@@ -229,12 +229,12 @@ Thank you, young lady.
 My name is Eli.
 Yes, you're Eli Sunday.
 Welcome.
-- H.W.
-- Eli.
-- You're hunting quail?
-- That's right.
-- We will bring dinner.
-- Thank you. Thank you so much.
+H.W.
+Eli.
+You're hunting quail?
+That's right.
+We will bring dinner.
+Thank you. Thank you so much.
 Dad!
 Dad, look at my shoe.
 That's earthquake oil. Set loose.
@@ -247,8 +247,8 @@ This is what we do.
 Then we don't need the railroads and their shipping costs anymore.
 You see?
 Yeah.
-- You see that?
-- Yeah.
+You see that?
+Yeah.
 Then we're making money.
 We're making the real money.
 What we should be making.
@@ -269,44 +269,44 @@ My boy has been sick, you know.
 He needs fresh air.
 Doctors all say he needs plentiful fresh air.
 So, what would you say would be a fair price for this lot, Abel?
-- To buy this place?
-- That's right.
+To buy this place?
+That's right.
 Take a moment.
-- I'm sorry. I don't know.
-- Six dollars an acre.
+I'm sorry. I don't know.
+Six dollars an acre.
 Six dollars? Thank you, Eli.
 And then with the improvements to the ranch over the years at $500...
 I'd like to offer you $3,700 for this ranch.
-- That's $3,700.
-- No.
+That's $3,700.
+No.
 The Lord has sent this man here, Eli.
 Yes, I believe He has.
-- My offer to you is $3,700.
-- What is it that brought you here, sir?
+My offer to you is $3,700.
+What is it that brought you here, sir?
 The Good Lord's guidance.
-- Now, of course, within that...
-- What about our oil?
+Now, of course, within that...
+What about our oil?
 ...we're going to develop a lease.
-- What's that?
-- What about our oil?
+What's that?
+What about our oil?
 What about it?
 We have oil here.
 That's worth something.
 Do you have someone who can drill for it?
-- Do you think there's oil here?
-- I know there is.
+Do you think there's oil here?
+I know there is.
 It's very expensive to drill.
 To get it up and out of the ground.
 You ever tried that before?
-- How much is it?
-- Costly.
+How much is it?
+Costly.
 Well, our oil sits right up on top of the ground.
 I believe that's called seepage.
 Doesn't necessarily mean there's anything underneath.
-- What would you give us for it?
-- I don't know.
-- Something you don't know.
-- That's right.
+What would you give us for it?
+I don't know.
+Something you don't know.
+That's right.
 What would you like, Eli?
 Ten thousand dollars.
 For what?
@@ -328,10 +328,10 @@ Yes. What Eli says.
 Well, good! Let's draw up some contracts and let's...
 Let's give it a try.
 Appreciate your help with this, Eli.
-- Good afternoon.
-- Good afternoon.
-- Real estate?
-- Yes.
+Good afternoon.
+Good afternoon.
+Real estate?
+Yes.
 Yes, I'd like to talk to you.
 I'm looking for some land.
 I just bought the Sunday ranch.
@@ -340,10 +340,10 @@ Where are the hills behind the Sunday ranch?
 That's here. It's the Bandy tract.
 He has over 600 acres.
 Bandy, 600.
-- What about this?
-- A.C. Maude, Blodget, Redlick, Carr.
-- What's it held at?
-- Six dollars an acre.
+What about this?
+A.C. Maude, Blodget, Redlick, Carr.
+What's it held at?
+Six dollars an acre.
 Six.
 What about this?
 That's the Belvins, and that could be got, I'm sure.
@@ -354,36 +354,36 @@ That's right.
 Well, you get here just as soon as you can. Bring Fred English.
 Good enough.
 Thank you, porter.
-- H.W., how are you?
-- Fine, and you?
-- Pretty good. Where's your dad?
-- He's inside.
+H.W., how are you?
+Fine, and you?
+Pretty good. Where's your dad?
+He's inside.
 You fellas are a long way from Signal Hill.
-- Hello, Plainview.
-- Hello, Gene.
-- Good to see you.
-- Charlie.
-- On your way somewhere else?
-- Passing through. Looking around.
-- Funny to see you.
-- Funny, isn't it?
+Hello, Plainview.
+Hello, Gene.
+Good to see you.
+Charlie.
+On your way somewhere else?
+Passing through. Looking around.
+Funny to see you.
+Funny, isn't it?
 You boys are a regular family business.
 You boys are a little late.
-- What did you find?
-- I found some interesting prospects.
+What did you find?
+I found some interesting prospects.
 Did you hear Standard bought up?
-- Mostly in the north, so far.
-- That's what I hear.
+Mostly in the north, so far.
+That's what I hear.
 I'm gonna tell you, Gene, if you're gonna make a play, look east.
 I'd rather it be you than someone else.
 This mud around here has been taken.
 It must be easy when you have such a cute face to carry around with you.
-- Telling me how handsome my son is?
-- Well, that I am.
+Telling me how handsome my son is?
+Well, that I am.
 That's very nice. Thank you.
 Good luck, Gene.
-- Take care.
-- Like I said, go east.
+Take care.
+Like I said, go east.
 H.W.
 I'll be your lawyer if you need to draw up a contract.
 Make sure you don't get swindled, boy.
@@ -398,12 +398,12 @@ One thousand dollars?
 Mary said that her father beats her if she doesn't pray.
 Mary, she's the smaller one?
 Yes, she is.
-- Everyone here?
-- Very successful.
+Everyone here?
+Very successful.
 But?
 There were a few vacant lots and one holdout.
-- Who?
-- William Bandy.
+Who?
+William Bandy.
 ...eight. Who's he?
 He's an old man who homesteaded here.
 Lives with his grandson.
@@ -472,23 +472,23 @@ Just follow the new road right to the church.
 <i>Cumbered with a load of care?
 <i>Precious Savior still our refuge
 <i>Take it to the Lord in prayer...
-- Daniel, may I speak with you?
-- Yes, come in.
+Daniel, may I speak with you?
+Yes, come in.
 I'll bring them up when they arrive.
-- Good morning.
-- Good morning.
+Good morning.
+Good morning.
 How is all the work coming?
 Everything's good.
-- All the men are provided for?
-- Of course.
+All the men are provided for?
+Of course.
 Spirits seem high.
 Is there anything that you need from me?
-- Anything the church can do for you?
-- I don't believe so. No. Thank you.
+Anything the church can do for you?
+I don't believe so. No. Thank you.
 I understand you've asked the people to gather around and watch the well begin tomorrow.
 Is that right?
-- That's right.
-- I will bless the well.
+That's right.
+I will bless the well.
 Before you begin, you should introduce me.
 You'll see me walk up towards the oil well, and when I...
 The derrick.
@@ -497,15 +497,15 @@ When you walk up?
 Yes. You'll see me walk up, and then you could say,
 "The proud son of these hills who tended his Father's flock," and then you could say my name.
 That's fine.
-- And what happens then?
-- Well, then we start the drill.
+And what happens then?
+Well, then we start the drill.
 It's a simple blessing, Daniel, but an important one.
 It's just a few words. It won't take long.
-- What time?
-- What time's good for you, Eli?
-- Well, let's make it 4:00 then.
-- My thanks for your visit.
-- Good day. Thank you.
+What time?
+What time's good for you, Eli?
+Well, let's make it 4:00 then.
+My thanks for your visit.
+Good day. Thank you.
 Afternoon, everyone.
 Come with me.
 I thank you all so much for visiting with us at this time.
@@ -531,11 +531,11 @@ If you'll all just care to help yourselves,
 I'll be back in a minute.
 Mary.
 Mary Sunday.
-- Do you like your new dress?
-- Yes. Thank you.
+Do you like your new dress?
+Yes. Thank you.
 You're welcome. I thought you'd like it.
-- Are you happy I came here?
-- Yes.
+Are you happy I came here?
+Yes.
 Your daddy doesn't hit you anymore, does he? Does he now?
 Better not, right?
 I'll take care of you.
@@ -550,27 +550,27 @@ Daniel!
 Daniel!
 What?
 Lost a man down the well.
-- What man?
-- Joe Gundha.
-- Did I know him?
-- No.
+What man?
+Joe Gundha.
+Did I know him?
+No.
 What happened?
 Pick it up.
 Set the brake.
-- Tie it down.
-- Tie it on.
+Tie it down.
+Tie it on.
 Shit!
 God damn it. Where's the body?
-- They're fishing it out now.
-- All right.
-- Where's the bit?
-- It's on the deck.
+They're fishing it out now.
+All right.
+Where's the bit?
+It's on the deck.
 Clean him up. Put some clothes on him.
 And...
 Set up a tent.
 Anyone goes down into the cellar, you tell somebody. Yes?
-- Yes, sir.
-- Yes, sir.
+Yes, sir.
+Yes, sir.
 Shut down till midday.
 And I had a vision.
 Yes, last night, I had a vision and I felt God's breath move through me.
@@ -579,8 +579,8 @@ It sloshed around.
 And my stomach spoke in a whisper, not a shout,
 "Touch this woman with your hands and caress her." Yes.
 My dear Mrs. Hunter, you have arthritis, don't you?
-- Yes, I do, Eli.
-- Yes.
+Yes, I do, Eli.
+Yes.
 The devil is in your hands, and I will suck it out.
 Now, I will not cast this ghost out with a fever for the new spirit inside me has shown me I have a new way to communicate.
 It is a gentle whisper.
@@ -590,7 +590,7 @@ Get out.
 Get out of here, ghost.
 Get out of here, ghost.
 ...and enter this woman's body now.
-- Get out of here, ghost.
+Get out of here, ghost.
 Get out of here. Don't you dare turn around and come back.
 For if you do, all the armies of my boot will kick you in the teeth and you will be cast up and thrown in the dirt and thrust back to perdition!
 And as long as I have teeth,
@@ -601,18 +601,18 @@ Now, get out of here, ghost!
 Get out of here, ghost!
 Get out of here, ghost!
 And it left!
-- Hallelujah!
-- Hallelujah!
-- Praise the Lord and his holy days!
-- Praise God!
-- Amen! Thank you.
-- Thank you, Jesus. Thank you, God.
+Hallelujah!
+Hallelujah!
+Praise the Lord and his holy days!
+Praise God!
+Amen! Thank you.
+Thank you, Jesus. Thank you, God.
 My dear Mrs. Hunter.
 Dance with me.
-- Thanks for coming.
-- It was a wonderful sermon.
-- Will I see you tomorrow?
-- Yes.
+Thanks for coming.
+It was a wonderful sermon.
+Will I see you tomorrow?
+Yes.
 Eli.
 Had a tragedy at the well last night.
 Yes, I heard.
@@ -620,10 +620,10 @@ Joe Gundha was a man of considerable faith.
 So if you wish to say a few words, his burial is at noon tomorrow.
 Daniel, this accident could have been avoided.
 It is terrible to think of that well
-- working away out there...
-- These men work in 12-hour shifts.
+working away out there...
+These men work in 12-hour shifts.
 ...unblessed.
-- They need their rest.
+They need their rest.
 If they don't have it, they start to make stupid mistakes.
 I've seen the men drinking. Don't you think that has something to do with this?
 We need these men well-rested to bring in this well.
@@ -635,8 +635,8 @@ Now, would you see to it that his personal possessions find their way back to hi
 Thank you.
 Heard you were planning some renovations.
 Yes, our congregation is growing strongly.
-- We need more room.
-- That was one goddamn hell of a show.
+We need more room.
+That was one goddamn hell of a show.
 We were happy to have you, Daniel.
 Gas, gas, gas!
 Lights out! Wait here. Wait here.
@@ -644,10 +644,10 @@ Lights out!
 Put that fire out!
 Is he hurt? H.W.!
 Hand him down to me!
-- Hand him down!
-- Here.
-- Got him?
-- I've got him!
+Hand him down!
+Here.
+Got him?
+I've got him!
 Oh, God.
 Come on.
 Open the door.
@@ -657,13 +657,13 @@ You're safe now. I got you here.
 You're safe. Let go, son.
 Tell me where it hurts.
 Tell me where it hurts. Tell me where...
-- Did you see this?
-- No.
+Did you see this?
+No.
 Tell me where it hurts.
 Where does it hurt you?
 Where does it hurt you?
-- I can't hear my voice.
-- Were you hit in the head?
+I can't hear my voice.
+Were you hit in the head?
 Were you hit in the head? Tell me!
 You have to tell me if you were!
 I can't hear my voice.
@@ -671,22 +671,22 @@ I have to go and deal with this now.
 You wait here for me.
 You understand? You wait here for me.
 I'll be back. I'll be back in a minute.
-- Wait here.
-- Don't leave!
+Wait here.
+Don't leave!
 I'm going to take care of you. Wait.
 Stay here, son. I'm going to fix this.
-- Don't leave!
-- You're going to be fine!
+Don't leave!
+You're going to be fine!
 Wait for me here!
-- Hold him down. Hold him down.
-- Don't leave!
+Hold him down. Hold him down.
+Don't leave!
 Got to break the cables, Daniel!
 Get me a hammer!
 Get me a hammer!
 Here you go.
 Get back!
-- Michael!
-- Sir!
+Michael!
+Sir!
 Take Dave and two of the fellas, pick up some hoses...
 Billy, protect the roof.
 Don't wait before it gets too hot.
@@ -695,21 +695,21 @@ There's a whole ocean of oil under our feet!
 No one can get at it except for me.
 H.W. okay?
 No, he isn't.
-- Where is he?
-- Mess room.
+Where is he?
+Mess room.
 That's enough now.
 That's enough, H.W. That's enough.
 Do you hear me?
 Can you hear me in there?
 That's enough.
-- Grab his legs.
-- I have his legs.
-- No. Nope.
-- No, lad.
+Grab his legs.
+I have his legs.
+No. Nope.
+No, lad.
 Give me that.
 Steady. That's it.
-- Easy, boy. Easy.
-- Soon be over.
+Easy, boy. Easy.
+Soon be over.
 Yeah, and that's good.
 Now the other side. Turn him over.
 Almost done.
@@ -729,8 +729,8 @@ Aren't you a healer?
 And a vessel for the Holy Spirit?
 When are you coming over and make my son hear again?
 Can't you do that? lf you had let me bless the well, this wouldn't have happened.
-- Daniel.
-- You shouldn't have done that.
+Daniel.
+You shouldn't have done that.
 You owe the Church of the Third Revelation $5,000 as part of the arrangement that we made!
 Don't even try it, you little runt!
 You splash around in here.
@@ -748,8 +748,8 @@ He doesn't save stupid people, Abel.
 I will tear you apart for what you've done, you stupid man!
 How did he come here?
 Do you really know? I know!
-- Son, don't do this, please!
-- Be quiet!
+Son, don't do this, please!
+Be quiet!
 Shut your mouth, Abel! lt was your stupid son! lt was Paul who told him to come here.
 I know it.
 He went to him and he said,
@@ -760,8 +760,8 @@ A stupid father to a stupid son.
 Get out of there!
 Can I help you?
 Daniel?
-- Who's that?
-- My name is Henry.
+Who's that?
+My name is Henry.
 Yeah?
 I'm Henry.
 What can I do for you?
@@ -771,8 +771,8 @@ I'm your brother, from another mother.
 Ernest is my father.
 Who are you?
 Henry.
-- Mary Branch? Is that your mother?
-- Yes, sir, that's right.
+Mary Branch? Is that your mother?
+Yes, sir, that's right.
 I read about your gusher in the paper, about your success.
 You heard about my strike?
 You just show up?
@@ -783,8 +783,8 @@ When?
 Three months ago.
 I got a letter from Annabelle.
 My sister, Annabelle?
-- Where is she?
-- Still at home. Fond du Lac.
+Where is she?
+Still at home. Fond du Lac.
 You came all the way from Wisconsin to tell me this?
 I'm coming from New Mexico.
 I've been there.
@@ -792,18 +792,18 @@ I came to find you.
 Did you know about me?
 Do you have identification?
 Do you have this letter?
-- Where are you coming from?
-- From New Mexico.
+Where are you coming from?
+From New Mexico.
 Yes, I know, but from where?
 Yes, I know, but from where?
 Silver City.
 I've been there for two years.
 I was trying drilling of my own for years.
-- Getting leases in Texas. Louisiana.
-- Anything that produced?
+Getting leases in Texas. Louisiana.
+Anything that produced?
 No. Not like your success, no.
-- Are you married?
-- No.
+Are you married?
+No.
 I spent time in jail.
 I had a stretch of very bad time.
 I had nothing.
@@ -823,10 +823,10 @@ Nothing.
 If you can spare something,
 I can work for you in any way.
 I know I'll keep moving, before long, to get back to Fond du Lac.
-- Do you have any money?
-- Some.
-- Not much.
-- Just answer me directly.
+Do you have any money?
+Some.
+Not much.
+Just answer me directly.
 You say "nothing," then you say you'd like to stay and work.
 And it's better, I'd just like to hear you say you'd like to be here.
 I'd like to be here.
@@ -842,14 +842,14 @@ Good.
 I worked for Geological Survey and went to Kansas.
 I couldn't stay there. I just couldn't.
 I don't like to explain myself.
-- Are you an angry man, Henry?
-- About what?
+Are you an angry man, Henry?
+About what?
 Are you envious? Do you get envious?
 I don't think so, no.
 I have a competition in me.
 I want no one else to succeed.
-- I hate most people.
-- That part of me is gone.
+I hate most people.
+That part of me is gone.
 Working and not succeeding, all my failures have left me...
 I just don't care.
 Well, if it's in me, it's in you.
@@ -861,8 +861,8 @@ I don't know.
 Maybe it'll change.
 Does your sound come back to you?
 I don't know. Maybe no one knows that.
-- Doctor might not know that.
-- Where's his mother?
+Doctor might not know that.
+Where's his mother?
 I don't want to talk about those things.
 I see the worst in people, Henry.
 I don't need to look past seeing them to get all I need.
@@ -877,37 +877,37 @@ You stay here.
 I'll be right back.
 No! No!
 No!
-- Tilford!
-- Plainview.
+Tilford!
+Plainview.
 This is my brother,
 Henry Plainview from Fond du Lac.
 H.M. Tilford. Pleasure.
 Henry Plainview. J.J. Carter.
 So...
-- Shall we?
-- Yes.
+Shall we?
+Yes.
 How's your boy?
-- Thank you for asking.
-- Is there anything we can do?
+Thank you for asking.
+Is there anything we can do?
 Thanks for asking is enough.
 So what are your plans?
 Is this about buying up my tracts here?
 Yes.
 The cable was about my Coyote Hills lease.
-- We'd like that, too.
-- What's your offer on Coyote Hills?
-- We'll offer 150,000 for full title.
-- That's a deal. What's next?
+We'd like that, too.
+What's your offer on Coyote Hills?
+We'll offer 150,000 for full title.
+That's a deal. What's next?
 You have 11,000 acres in Little Boston.
 You have one proven well
-- that was damaged...
-- I have three wells proven.
+that was damaged...
+I have three wells proven.
 You haven't been paying attention.
 That's three proven wells.
 We'll make you a millionaire while you're sitting here from one minute to the next.
 And what else would I do with myself?
-- Are you asking me?
-- What else would I do with myself?
+Are you asking me?
+What else would I do with myself?
 Take care of your son.
 I don't know what you would do.
 If you were me and Standard offered to buy what you had for a million dollars, why? So, why?
@@ -933,13 +933,13 @@ One night I'm going to come to you, inside of your house, or wherever you're sle
 What?
 What are you talking about?
 Have you gone crazy?
-- Did you hear what I said?
-- I heard what you said,
-- why did you say it?
-- You don't tell me about my son.
+Did you hear what I said?
+I heard what you said,
+why did you say it?
+You don't tell me about my son.
 Why are you acting insane and threatening to cut my throat?
-- You don't tell me about my son.
-- I'm not telling you anything!
+You don't tell me about my son.
+I'm not telling you anything!
 I'm asking you to be reasonable.
 If I've offended you, I apologize.
 You'll see what I can do.
@@ -947,38 +947,38 @@ This parcel here is the 3,000-acre ranch owned by B.L. Harper.
 This is San Luis Obispo County land.
 And from here to the coast, it's all Union Oil.
 What's this? Why don't I own this?
-- Why don't I own this?
-- That's the Bandy tract.
+Why don't I own this?
+That's the Bandy tract.
 He was the holdout, when we were doing the buying.
 He had hoped to speak with you.
 Can't you just build the pipeline around this tract?
 Can I build around 50 miles of Tehachapi mountains?
 Don't be thick in front of me, Al.
-- I can go to him again.
-- No, I'll go and talk to the man.
+I can go to him again.
+No, I'll go and talk to the man.
 I'll talk to him. Show you how it's done.
 All right. Pack it up, Henry.
-- How big is his room?
-- He's sharing with another boy.
-- Who?
-- An older boy. About 12.
+How big is his room?
+He's sharing with another boy.
+Who?
+An older boy. About 12.
 He's been there for a year.
 Named Ballard.
-- How big is the room?
-- It's a fair size. Got enough space.
+How big is the room?
+It's a fair size. Got enough space.
 Are you taking Henry with you to meet Union Oil?
-- Are you the son of William Bandy?
-- Grandson.
-- Is he here?
-- No, he's out.
+Are you the son of William Bandy?
+Grandson.
+Is he here?
+No, he's out.
 Where is he?
 Told you, he's out.
 Now, what do you want?
 I'm Daniel Plainview. I want to talk with him about his property.
-- About what?
-- I believe I'll talk with him about that.
-- You're that oilman, aren't you?
-- That's right.
+About what?
+I believe I'll talk with him about that.
+You're that oilman, aren't you?
+That's right.
 We don't want you drilling out here.
 I don't want it either.
 Now, when will he be back?
@@ -1000,8 +1000,8 @@ And clean it.
 And even as a boy, I wanted to have children to run around in it.
 You can have anything you'd like now, Daniel.
 And you should.
-- Where are you going to build it?
-- Here, maybe. Near the ocean.
+Where are you going to build it?
+Here, maybe. Near the ocean.
 Would you make it look like that house?
 I think if I saw that house now, it'd make me sick.
 We can eat and get some women.
@@ -1014,8 +1014,8 @@ I want you to tell me something.
 What?
 What's the name of the farm next to the Hill House?
 What was the name of the farm next to the Hill House?
-- I can't remember...
-- Who are you?
+I can't remember...
+Who are you?
 I'll leave, Daniel.
 Who are you?
 I'm no one.
@@ -1047,8 +1047,8 @@ That's right, yes.
 My boy's been very sick, you know.
 This was before your boy got sick.
 Now, I know that you would like to build a pipeline through my property.
-- Is that right, what I've heard?
-- It's absolutely right. And, well...
+Is that right, what I've heard?
+It's absolutely right. And, well...
 Eight inch pipe.
 It could be buried with your consent.
 I guarantee you absolutely no disruption...
@@ -1074,8 +1074,8 @@ My sin of drilling?
 <i>Yes.
 <i>I am afraid that's just not the case.
 The doctrine of universal salvation is a lie, is it not?
-- It's a lie.
-- It's a lie.
+It's a lie.
+It's a lie.
 I wish everyone could be saved, but they won't. No, they won't.
 You will never be saved if you...
 Reject the blood.
@@ -1089,12 +1089,12 @@ Allow me.
 Thank you for coming, brother Daniel.
 Thank you, Eli.
 We have a sinner with us here who wishes for salvation!
-- Daniel, are you a sinner?
-- Yes.
+Daniel, are you a sinner?
+Yes.
 The Lord can't hear you, Daniel.
 Say it to him. Go ahead and speak to him. It's all right.
-- Yes.
-- Down on your knees.
+Yes.
+Down on your knees.
 Pray to him.
 Look up to the sky and say it.
 What do you want me to say?
@@ -1102,26 +1102,26 @@ Daniel, you've come here and you've brought good and wealth, but you have also b
 You've lusted after women, and you have abandoned your child.
 Your child, that you raised, you have abandoned all because he was sick and you have sinned.
 So say it now. I am a sinner.
-- I am a sinner.
-- Say it louder.
-- I am a sinner.
-- I am a sinner.
+I am a sinner.
+Say it louder.
+I am a sinner.
+I am a sinner.
 Louder, Daniel! I am a sinner!
-- I am a sinner.
-- I am sorry, Lord.
-- I am sorry, Lord.
-- I want the blood.
-- I want the blood.
-- You have abandoned your child.
+I am a sinner.
+I am sorry, Lord.
+I am sorry, Lord.
+I want the blood.
+I want the blood.
+You have abandoned your child.
 I have abandoned my child.
-- I will never backslide.
-- I will never backslide.
+I will never backslide.
+I will never backslide.
 I was lost, but now I am found.
-- I was lost, but now I'm found.
-- I have abandoned my child.
+I was lost, but now I'm found.
+I have abandoned my child.
 Say it. Say it.
-- I abandoned my child.
-- Say it louder. Say it louder!
+I abandoned my child.
+Say it louder. Say it louder!
 I've abandoned my child!
 I've abandoned my child!
 I've abandoned my boy!
@@ -1130,15 +1130,15 @@ Just give me the blood, Eli.
 Let me get out of here.
 Give me the blood, Lord, and let me get away!
 Do you accept Jesus Christ as your Lord and Savior?
-- Yes, I do.
-- Get out of here, devil!
+Yes, I do.
+Get out of here, devil!
 Out, devil! Out, sin!
-- Let me feel the power of the Lord, Eli.
-- Do you accept the Church of the Third Revelation as your spiritual guide?
-- Get out of here, ghost!
-- Where is your Lord, Eli?
-- Get out! Go back where you belong!
-- Where is he? There he is!
+Let me feel the power of the Lord, Eli.
+Do you accept the Church of the Third Revelation as your spiritual guide?
+Get out of here, ghost!
+Where is your Lord, Eli?
+Get out! Go back where you belong!
+Where is he? There he is!
 Do you accept Jesus Christ as your Savior?
 Yes, I do.
 <i>Would you be free from the burden of sin?
@@ -1154,26 +1154,26 @@ Welcome to the fold, brother Plainview.
 Welcome, brother Daniel.
 God bless you.
 God bless you.
-- Hallelujah.
-- Amen.
+Hallelujah.
+Amen.
 Welcome home, brother.
 That's enough. That's enough, now.
 He must take the spirit in on his own.
 We have a new member.
-- Yes, brother.
-- Hallelujah.
-- Hallelujah.
-- Amen.
-- My sweet Mary.
-- Mr. Plainview has been generous enough to make a $5,000 donation to the church which we are still waiting for.
+Yes, brother.
+Hallelujah.
+Hallelujah.
+Amen.
+My sweet Mary.
+Mr. Plainview has been generous enough to make a $5,000 donation to the church which we are still waiting for.
 That does me good.
 That does me good.
 Welcome home, son.
 Welcome home, son.
 This here's George Reynolds.
 Teacher from the deaf school.
-- Mr. Plainview.
-- Fletcher.
+Mr. Plainview.
+Fletcher.
 You're too heavy for me.
 Do you want to get something to eat?
 That's the pipeline, see?
@@ -1185,77 +1185,77 @@ All right. That's it, that's it. That's it.
 Let's get some decent food inside of you.
 That's all we need here is a good, strong, expensive meal.
 You hungry?
-- Waiter?
-- Yes, sir.
+Waiter?
+Yes, sir.
 Two steaks, a whiskey, and water for him.
-- And goat's milk.
-- Very good, sir.
+And goat's milk.
+Very good, sir.
 We're going to have this teacher help you.
 He's going to help take care of all of this. Understand?
 'Cause I need you. Need your help.
 Got everything we need now to build this company. Come here.
 Good afternoon.
-- How are you doing?
-- It's nice to see you again.
-- We need four.
-- I'll have them right up.
-- Good afternoon, Daniel.
-- Tilford.
+How are you doing?
+It's nice to see you again.
+We need four.
+I'll have them right up.
+Good afternoon, Daniel.
+Tilford.
 Good afternoon.
-- Hello! H.M. Tilford!
-- You don't have to shout.
+Hello! H.M. Tilford!
+You don't have to shout.
 Pleasure.
 It's good to be in Little B.
-- Could use some rain out here.
-- Yeah, we could.
-- There we go.
-- R.J., how's the London broil?
+Could use some rain out here.
+Yeah, we could.
+There we go.
+R.J., how's the London broil?
 Believe we ordered these drinks before those people.
-- R.J., tell us. How's the London broil?
-- Excuse me, gentlemen. Sorry.
+R.J., tell us. How's the London broil?
+Excuse me, gentlemen. Sorry.
 I am sorry about that, sir.
 I'll have your steaks right out.
-- So that green turtle soup is fantastic.
-- Is it? lt's delicious.
+So that green turtle soup is fantastic.
+Is it? lt's delicious.
 Sounds good to me.
 So Standard offered us a million dollars for the Little Boston leases.
 I told H.M. Tilford where he could shove that.
 And we made a deal with Union!
 On the pipeline!
 And that whole ocean of oil underneath our fields.
-- Yes.
+Yes.
 We needed the money to drill.
-- Who is this guy?
-- I go out to meet him.
+Who is this guy?
+I go out to meet him.
 He's getting oil on the property.
 We're trying to make a claim on it.
 Offered him a million dollars.
-- Turned us down flat.
-- Well, I'm hungry.
+Turned us down flat.
+Well, I'm hungry.
 Orange fritters, mashed potatoes, green peas.
-- All the way around?
-- All right.
+All the way around?
+All right.
 Hold on.
 I want you to look over there.
-- Daniel, let me introduce...
-- Look over there. You see?
+Daniel, let me introduce...
+Look over there. You see?
 That's my son. See him?
-- Yes.
-- Do you see?
+Yes.
+Do you see?
 I see him.
 You don't tell me how to raise my family.
 I told you not to tell me how to raise my family.
 Daniel...
 So what do you see?
-- I'm very happy for you that the deal...
-- Yes, I made a deal with Union.
-- My son is happy. He's safe.
-- Congratulations.
-- I'm taking care of him now, so...
-- Excellent.
+I'm very happy for you that the deal...
+Yes, I made a deal with Union.
+My son is happy. He's safe.
+Congratulations.
+I'm taking care of him now, so...
+Excellent.
 You look like a fool, don't you, Tilford?
-- Yes.
-- Yes.
+Yes.
+Yes.
 Yes, you do.
 Excuse me, gentlemen.
 Excuse me, gentlemen.
@@ -1263,14 +1263,14 @@ Excuse him, gentlemen.
 I told you what I was going to do.
 My son.
 Mr. Sunday, I understand that you're leaving our fair community.
-- Yes, I'm going on a mission.
-- Where you going?
+Yes, I'm going on a mission.
+Where you going?
 Oildale, Taft, and then on to Bakersfield.
 Well, I want you to know...
 Three quarters of an hour.
 ...you done a great job for us.
-- Thank you. You will be in my prayers.
-- I thank you very much.
+Thank you. You will be in my prayers.
+I thank you very much.
 Union Oil Company,
 Santa Paula, California.
 "The woman saith unto him,
@@ -1280,8 +1280,8 @@ Come in, come in.
 Can we be alone?
 This is my closest associate.
 He hears everything.
-- I'd prefer to speak to you in private.
-- You can't speak.
+I'd prefer to speak to you in private.
+You can't speak.
 So why don't you flap your hands about and have what's-his-name tell me where you've been.
 Or do you think I don't know?
 This is hard for me to say.
@@ -1295,8 +1295,8 @@ I miss the fields.
 It'll only be for a time, for me to do my own drilling and start my own company.
 It's time to make a change.
 This makes you my competitor.
-- No. No, it's not like that.
-- It is like that, boy.
+No. No, it's not like that.
+It is like that, boy.
 Your own company, huh?
 That's right.
 In Mexico?
@@ -1385,13 +1385,13 @@ Have you met his grandson, William?
 William Bandy is one of the finest members we have at the Church of the Third Revelation.
 He's eager to come to Hollywood to be in movies.
 He is very good-looking.
-- And I do think he will have success.
-- That's wonderful.
+And I do think he will have success.
+That's wonderful.
 Would you like me to speak with him?
 Daniel, I'm asking if you'd like to have business with the Church of the Third Revelation in developing this lease on young Bandy's 1,000-acre tract.
 I'm offering you to drill on one of the great undeveloped fields of Little Boston.
-- I'd be happy to work with you.
-- You would?
+I'd be happy to work with you.
+You would?
 Yes, yes, of course. That's wonderful.
 But there is one condition for this work.
 All right.
@@ -1400,24 +1400,24 @@ I'd like you to tell me that you are, and have been a false prophet.
 And that God is a superstition.
 But that's a lie.
 It's a lie. I cannot say it.
-- When can we begin to drill?
-- Very soon.
+When can we begin to drill?
+Very soon.
 How long will it take to bring in the well? lt shouldn't take long.
 I would like a $100,000 signing bonus, plus the five that is owed to me with interest.
 That's only fair.
 I am a false prophet, and God is a superstition.
 If that's what you believe, then I will say it.
-- Say it like you mean it.
-- Daniel.
+Say it like you mean it.
+Daniel.
 Say it like it's your sermon.
 Don't smile.
 I am a false prophet.
-- God is a superstition.
-- Why don't you stand up?
+God is a superstition.
+Why don't you stand up?
 Put your glass down.
 I am a false prophet.
-- God is a superstition.
-- Eli, stop.
+God is a superstition.
+Eli, stop.
 Just imagine this is your church here and you have a full congregation, so...
 I am a false prophet.
 God is a superstition.
@@ -1436,8 +1436,8 @@ God is a superstition!
 Those areas have been drilled.
 What?
 Those areas, they've been drilled.
-- No, they haven't.
-- Yes, it's...
+No, they haven't.
+Yes, it's...
 It's called drainage, Eli.
 See, I own everything around it, so, of course, I get what's underneath it.
 But there are no derricks there.
@@ -1452,22 +1452,22 @@ You can sit down again.
 Daniel.
 Daniel.
 Please.
-- I am in desperate times.
-- I know.
-- I need a friend.
-- Yes. Of course, you do.
+I am in desperate times.
+I know.
+I need a friend.
+Yes. Of course, you do.
 I've sinned.
 I need help. I'm a sinner.
 I've let the devil grab hold of me in ways I never imagined.
 I'm so full of sin.
 The Lord sometimes challenges us, doesn't He, Eli?
-- Yes, He does, Daniel.
-- Yes, He does.
+Yes, He does, Daniel.
+Yes, He does.
 Yes, He does!
 Yes, He does!
 He's completely failed to alert me to the recent panic in our economy.
-- And this...
-- Oh, dear.
+And this...
+Oh, dear.
 I must have this, Daniel.
 I must, I must, I must have this.
 My investments have...
@@ -1478,10 +1478,10 @@ Because you're not the chosen brother, Eli.
 Because you're not the chosen brother, Eli.
 'Twas Paul who was chosen.
 He found me and told me about your land. You're just a fool.
-- Why are you talking about Paul?
-- I did what your brother couldn't.
-- Don't say this to me.
-- I broke you and I beat you.
+Why are you talking about Paul?
+I did what your brother couldn't.
+Don't say this to me.
+I broke you and I beat you.
 It was Paul told me about you.
 He's the prophet. He's the smart one.
 He knew what was there and he found me to take it out of the ground.
@@ -1494,8 +1494,8 @@ Prosperous little business.
 Three wells producing, $5,000 a week.
 Stop crying, you sniveling ass.
 Stop your nonsense.
-- You're just the afterbirth, Eli.
-- No.
+You're just the afterbirth, Eli.
+No.
 That slithered out on your mother's filth.
 No.
 They should've put you in a glass jar on the mantelpiece.
@@ -1505,8 +1505,8 @@ Who was nursing you, poor Eli?
 One of Bandy's sows?
 That land has been had.
 Nothing you can do about it. It's gone.
-- lf you would just take this lease...
-- You lose.
+lf you would just take this lease...
+You lose.
 Drainage!
 Drainage, Eli, you boy.
 Drained dry. I'm so sorry.
@@ -1515,24 +1515,24 @@ That's the straw, you see?
 Watch it.
 Now my straw reaches across the room and starts to drink your milkshake.
 I drink your milkshake!
-- I drink it up!
-- Don't bully me, Daniel.
+I drink it up!
+Don't bully me, Daniel.
 Did you think your song and dance and your superstition would help you, Eli?
 I am the Third Revelation.
 I am who the Lord has chosen.
-- Daniel!
-- Because I'm smarter than you!
+Daniel!
+Because I'm smarter than you!
 I'm older!
 I'm your old friend, Daniel!
-- I'm not a false prophet...
-- Help me! Help me!
+I'm not a false prophet...
+Help me! Help me!
 ...you sniveling boy!
 I am the Third Revelation!
 I am the Third Revelation!
-- I told you I would eat you.
-- We're family!
-- I told you I would eat you up!
-- We're brothers! We're brothers!
+I told you I would eat you.
+We're family!
+I told you I would eat you up!
+We're brothers! We're brothers!
 Daniel, please forgive me. I beg you.
 That's it. That's it.
 Mr. Daniel?

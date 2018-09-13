@@ -1,13 +1,13 @@
 <i>[Door Opens, Closes]</i>
 [Shivering]
 <i>- ## [Jazz]
-- [Footsteps Ascending Stairs]</i>
+[Footsteps Ascending Stairs]</i>
 <i>[Door Opens, Closes]</i>
 It's gettin' cold.
 That is one fine frame.
 One fine frame that is.
-- [Shivering]
-- How much...
+[Shivering]
+How much...
 [Grunts]
 Does a fine frame like that cost, do you think?
 I never told you, but you sound a little like Dr. Seuss when you're drunk.
@@ -16,13 +16,13 @@ I'm serious.
 Serious, I am.
 I'd say it cost at least a couple hundred.
 <i>- I'm gonna read it for you.
-- Do I really sound like Dr. Seuss?</i>
+Do I really sound like Dr. Seuss?</i>
 <i>"In recognition of his outstanding achievement...</i>
-- "in the field of child psychology,
-- Mm-hmm.
+"in the field of child psychology,
+Mm-hmm.
 His dedication to his work and his continuing efforts to improve the quality of life..."
-- [Blowing Bubbles]
-- Will you concentrate?
+[Blowing Bubbles]
+Will you concentrate?
 "...his continuing efforts to improve the quality of life...
 "for countless children and their families,
 "the city of Philadelphia proudly bestows upon its son...
@@ -36,16 +36,16 @@ This is an important night for us.
 Finally, someone is recognizing the sacrifices you've made... that you have put everything second, including me, for those families that they're talking about.
 They're also saying that my husband has a gift.
 You have a gift that teaches children...
-- how to be strong in situations...
-- [Kissing]
+how to be strong in situations...
+[Kissing]
 Where most adults would piss on themselves.
 I believe what they wrote is real.
 Thank you.
-- I would like some wine in a glass.
-- Mm-hmm.
+I would like some wine in a glass.
+Mm-hmm.
 I would not like it in a mug.
-- I would not like it in a jug.
-- [Laughing]
+I would not like it in a jug.
+[Laughing]
 ## [Humming]
 Look.
 [Phone Buzzing Off The Hook]
@@ -67,7 +67,7 @@ What do you want?
 What he promised me!
 I want what he promised me.
 <i>- [Anna] Oh, my God.
-- Do I know you?</i>
+Do I know you?</i>
 Don't you know me, hero?
 Don't you even remember your own patients?
 Downtown clinic.
@@ -79,7 +79,7 @@ You were wrong.
 You were wrong.
 Now look at me!
 <i>- I don't want to be afraid no more.
-- Just give me a minute to think.</i>
+Just give me a minute to think.</i>
 I waited ten years for you!
 I'm not giving you nothin'!
 Ben Friedkin?
@@ -102,12 +102,12 @@ Vincent, I'm sorry if I wasn't... if I didn't help you.
 But if you just let me try,
 <i>if you just give me a chance...</i>
 <i>- [Anna Screams]
-- [Groaning]</i>
+[Groaning]</i>
 <i>[Gunshot]</i>
 [Whispering]
 Oh, God! Oh, God!
-- Did Vincent...
-- Don't talk. Shh.
+Did Vincent...
+Don't talk. Shh.
 [Groaning]
 <i>[Train Crossing Bells Ringing]</i>
 <i>[Train Horn Blowing]</i>
@@ -130,8 +130,8 @@ The lenses hurt my eyes.
 What were you talking about with your soldiers when I came in? Day...
 <i>De profundus clamo adite domine.</i>
 It's called "Latin."
-- All your soldiers speak Latin?
-- No.
+All your soldiers speak Latin?
+No.
 Just one.
 Are you a good doctor?
 Well,
@@ -148,7 +148,7 @@ It's me.
 <i>[Man On Radio] The turnpike westbound slows at Valley Forge 24.</i>
 <i>On the Blue Ridge, both directions generally slow between number three and two...</i>
 <i>- [Volume Decreases]
-- [Dog Barking]</i>
+[Dog Barking]</i>
 [Man Continues, Indistinct]
 Hey, good morning.
 Cole.
@@ -157,8 +157,8 @@ Hey, your Cocoa Puffs are gettin' soggy.
 Let me see you.
 Oh, honey, you got a spot.
 Head up.
-- [Machine Whirring]
-- Okay, here we go.
+[Machine Whirring]
+Okay, here we go.
 [Screams]
 Something you were looking for, baby?
 Pop Tarts?
@@ -173,9 +173,9 @@ I was not thinking something bad about you.
 Got it?
 Got it.
 <i>- Here, head up.
-- [Doorbell Rings]</i>
-- That's Tommy.
-- That's okay. You tuck it in.
+[Doorbell Rings]</i>
+That's Tommy.
+That's okay. You tuck it in.
 Cole, you want this?
 Hey, freak, how'd you like that
 "arm around the shoulder" bit?
@@ -184,7 +184,7 @@ I went with it.
 It's what great actors do.
 It's called "improv."
 <i>- [School Bell Ringing]
-- [Chattering]</i>
+[Chattering]</i>
 Hey, baby.
 How was your day?
 <i>Hmm?</i>
@@ -265,14 +265,14 @@ I know that I've been a little distant, all right?
 I know that it makes you mad.
 I just... feel like I'm being given a second chance, and
 I don't want it to slip away.
-- [Sighs]
-- Anna.
+[Sighs]
+Anna.
 Happy anniversary.
 [Sighs]
 <i>[Cole] Stop looking at me.</i>
 I don't like when people look at me like that.
-- [Malcolm] Okay.
-- [Children Chattering]
+[Malcolm] Okay.
+[Children Chattering]
 I walk this way to school with Tommy Tammisimo.
 Is he your best buddy?
 He hates me.
@@ -281,11 +281,11 @@ No.
 Did your mom set that up?
 Yes.
 Did you ever talk to your mom about how things are with Tommy?
-- I don't tell her things.
-- Why not?
+I don't tell her things.
+Why not?
 'Cause she doesn't look at me like everybody else, and I don't want her to.
-- I don't want her to know.
-- Know what?
+I don't want her to know.
+Know what?
 That I'm a freak.
 Hey.
 You are not a freak.
@@ -294,8 +294,8 @@ Don't you believe anybody that tries to convince you of that. That's bullshit.
 You don't have to go through your life believing that.
 Okay?
 Come on.
-- You said the "S" word.
-- Yeah, I know.
+You said the "S" word.
+Yeah, I know.
 Sorry.
 ## [Rock On Headphones]
 ## [Fades]
@@ -337,11 +337,11 @@ I don't want to be scared anymore.
 <i>[Knocking Continues]</i>
 Are you gonna get that?
 <i>- [Footsteps]
-- [Door Opens]</i>
+[Door Opens]</i>
 <i>- [Anna] Hi.
-- [Man] Hi.</i>
+[Man] Hi.</i>
 <i>- Don't you see enough of me at the store?
-- Yeah, I'm on my way out...</i>
+Yeah, I'm on my way out...</i>
 <i>to the flea market in the Amish country.</i>
 <i>I thought maybe you'd wanna come along...</i>
 <i>and show me how to buy at one of these things.</i>
@@ -358,14 +358,14 @@ I can see on Monday.</i>
 I'm just...</i>
 <i>Okay, so I guess I'm gonna get going then. I'll speak to you later.</i>
 <i>- Don't step in the horse manure.
-- Thank you very much.</i>
+Thank you very much.</i>
 <i>[Door Closes]</i>
 Keep moving, cheese dick.
 Can anybody guess what city was capital of the United States of America... from 1790 to 1800?
 I'll give you a hint:
 It's the city you live in.
-- [All Together] Philadelphia!
-- Right, right.
+[All Together] Philadelphia!
+Right, right.
 Philadelphia's one of the oldest cities in this country.
 A lot of generations have lived here and died here.
 <i>Almost anyplace you go in this city has a history and a story behind it.</i>
@@ -380,7 +380,7 @@ Uh, Cole, this building was a legal courthouse.
 Laws were passed here... some of the very first laws of this country.
 This whole building was full of, uh, lawyers,
 <i>- lawmakers.
-- They were the ones that hanged everybody.</i>
+They were the ones that hanged everybody.</i>
 <i>[Children Whispering, Giggling]</i>
 Uh...
 I don't know which one of these guys told you that, but, uh, they were just trying to scare you.
@@ -389,22 +389,22 @@ Like what?
 Stop it!
 I, uh, I-I-I don't know how else to look.
 You're Stuttering Stanley!
-- Excuse me?
-- You talked funny when you went to school here.
+Excuse me?
+You talked funny when you went to school here.
 You talked funny all the way to high school.
 <i>- What?
-- You shouldn't look at people.
+You shouldn't look at people.
 It makes them feel bad.</i>
 <i>- How did you...
-- Stop looking at me!</i>
+Stop looking at me!</i>
 Who have you... [Stammering]
 Been speaking to?
 Stuttering Stanley!
 Stuttering Stanley!
 <i>- Stop it. St-St-St...
-- Stuttering Stanley!</i>
+Stuttering Stanley!</i>
 <i>- Stop that!
-- Stuttering Stanley!
+Stuttering Stanley!
 Stuttering Stanley!</i>
 <i>Stuttering Stanley!
 Stuttering Stanley!</i>
@@ -463,10 +463,10 @@ I want my penny back.
 <i>[Miss Sear] He doesn't get invited places, so it's our pleasure.</i>
 Last time was a Chuck E. Cheese party a year ago.
 He hid in one of those purple plastic tunnels and didn't come out.
-- Chucky who?
-- Cheese. It's a kids place.
+Chucky who?
+Cheese. It's a kids place.
 <i>- Excuse me.
-- Sorry.</i>
+Sorry.</i>
 <i>## [Continues]</i>
 <i>[Man Speaking, Indistinct]</i>
 <i>Is someone out there?</i>
@@ -476,11 +476,11 @@ Come on.</i>
 If you can hear me, open this door.</i>
 <i>I swear on my life I didn't take the master's horse.</i>
 <i>Open this door, or I'll break through it and grab you!</i>
-- The star of the commercial always gets his own trailer.
-- For what?
+The star of the commercial always gets his own trailer.
+For what?
 He needs a place to think about his character, alone.
-- You only had one line.
-- [Sighs]
+You only had one line.
+[Sighs]
 <i>[Tommy] Derrick, check it out.</i>
 Oh, yeah.
 My dad made me invite him.
@@ -489,8 +489,8 @@ Happy birthday, Derrick.
 Is there somethin' you want to see in there?
 No.
 We're gonna put on a pretend play.
-- Wanna be in it?
-- Okay.
+Wanna be in it?
+Okay.
 It's called
 "Locked in the Dungeon."
 Yes, Cole, and, uh, you get to be the one locked in the dungeon.
@@ -502,15 +502,15 @@ Don't!
 Let me out! No! No!</i>
 <i>No! No!</i>
 <i>- [Pounding Stops]
-- [Footsteps Shuffling]</i>
+[Footsteps Shuffling]</i>
 <i>[Cole Screams]</i>
 <i>- ## [Continues Loudly]
-- [Screaming Continues, Muffled]</i>
+[Screaming Continues, Muffled]</i>
 <i>[Pounding, Screaming Continue]</i>
 <i>- [Screaming Intensifies]
-- Cole?</i>
+Cole?</i>
 <i>- [Screaming, Sobbing Hysterically]
-- Cole!</i>
+Cole!</i>
 Is there a key for this door?
 Cole? Honey?
 Honey, can you hear me?
@@ -519,14 +519,14 @@ Honey, can you hear me?
 <i>Help me! Help!
 Help! Help!</i>
 <i>- [Door Unlocks]
-- [Screaming, Pounding Stop]</i>
+[Screaming, Pounding Stop]</i>
 <i>[Man] The tests would indicate he did not have a seizure.</i>
 <i>He's doing fine.</i>
 <i>After some rest, he can go home tonight.</i>
 [Chuckles]
 There's some cuts and bruises on your son...
 <i>- that are concerning me.
-- Oh, man.</i>
+Oh, man.</i>
 Yeah, those are from sports.
 You think I hurt my child?
 You think I'm a bad mother?
@@ -547,7 +547,7 @@ And, uh, they drove so much that he fell asleep.
 <i>And...</i>
 Then he woke up, and he realized they were still driving.
 <i>- This was a very long trip.
-- Dr. Crowe?</i>
+Dr. Crowe?</i>
 You haven't told bedtime stories before.
 Uh, not too many, no.
 You have to add some twists and stuff.
@@ -555,7 +555,7 @@ Okay. Some twists.
 <i>Like what kind of twists?
 Give me an example.</i>
 <i>- Maybe they run out of gas.
-- They run out of gas?</i>
+They run out of gas?</i>
 That's good, 'cause they're driving, right? Okay, so...
 Tell me the story about why you're sad.
 You think I'm sad?
@@ -604,7 +604,7 @@ Of course.
 <i>[Malcolm] Cole has pathologies more severe than initially assessed.</i>
 He's suffering from visual hallucinations,
 <i>- paranoia,
-- [Tires Screeching]</i>
+[Tires Screeching]</i>
 Some kind of... school-age schizophrenia.
 Medication, hospitalization may be required.
 And I'm not helping him.
@@ -631,7 +631,7 @@ Neddy!</i>
 He lived in the jungle, and he could speak to the animals.
 <i>## [Piano]</i>
 <i>- [Children Making Animal Noises]
-- [Applause]</i>
+[Applause]</i>
 <i>[Cole] Did you think the play sucked big time?</i>
 [Chuckles]
 What?
@@ -641,8 +641,8 @@ He said the play sucked big time.
 This Tommy kid sounds like a real punk.
 <i>I thought the play was excellent.
 Better than "Cats."</i>
-- "Cats"?
-- Never mind.
+"Cats"?
+Never mind.
 Cole, I was really interested in what you told me at the hospital.
 I'd like to hear more about it.
 Cole?
@@ -672,8 +672,8 @@ Mommy, Daddy?
 My throat hurts.
 Run! Run!
 [Male Announcer] Pedia Ease cough suppressant.
-- Gentle, fast, effect...
-- Cole.
+Gentle, fast, effect...
+Cole.
 I don't care what they say, this thing is broken.
 Take 'em off.
 I don't want them on my table.
@@ -693,7 +693,7 @@ Don't get mad.
 So, who moved it this time?
 Maybe someone came in our house, took the bumblebee pendant out of my closet... and placed it nicely in your drawer.
 <i>- Maybe.
-- [Sighs] God, I am so tired, Cole.</i>
+[Sighs] God, I am so tired, Cole.</i>
 I'm tired in my body,
 I'm tired in my mind,
 I'm... tired in my heart.
@@ -707,7 +707,7 @@ Now, tell me, baby.
 I-I-I won't get mad, honey.
 Did you take the bumblebee pendant?
 <i>- No.
-- [Silverware Clattering]</i>
+[Silverware Clattering]</i>
 You've had enough roast beef.
 You need to leave the table.
 Go!
@@ -718,13 +718,13 @@ Hey, come on. I'll show you where my dad keeps his gun. Come on.
 <i>[Sobbing]
 Sebastian, come on!</i>
 <i>- Mama?
-- [Dog Whimpering]</i>
+[Dog Whimpering]</i>
 [Sobbing]
 If you're not very mad, can I sleep in your bed tonight?
 Look at my face.
 I'm not very mad.
-- [Sobbing]
-- Baby, why are you shaking?
+[Sobbing]
+Baby, why are you shaking?
 Cole, what's wrong?
 Oh, God, please tell me!
 Oh, please.
@@ -733,7 +733,7 @@ Oh.
 It's Edwardian, beautifully worked... with mine-cut diamonds and an actual color Burmese sapphire.
 It's timeless.
 <i>- Oh.
-- [Door Closes, Bells Jingling]</i>
+[Door Closes, Bells Jingling]</i>
 You, uh...
 [Clears Throat]
 Got anything a little plainer?
@@ -743,39 +743,39 @@ No! Baby, don't get in a tissy.
 Uh...
 You're so beautiful.
 You're like a Burmese sapphire all by yourself.
-- You don't need all that.
-- Uh-huh.
+You don't need all that.
+Uh-huh.
 Why don't you try it on... and see how you both feel about it.
 There. How does that feel?
 I think this piece, um, communicates a longing.
 I imagine that the woman who owned it... loved a man that she couldn't be with.
 Did he have wavy hair and chestnut eyes?
-- Huh?
-- Um, I don't know, but... a lot of the pieces in this store communicate, and I think you should choose a piece that speaks to you.
+Huh?
+Um, I don't know, but... a lot of the pieces in this store communicate, and I think you should choose a piece that speaks to you.
 I think maybe when people own things and then they pass away, a part of themselves gets printed on those things, like... like fingerprints.
 I'll just wrap it up.
 You don't need a guy with a Master's.
 You need a wrestler with a neck larger than his head.
 [Chuckles]
 No, I need a wrestler with a Master's.
-- What's this?
-- Happy birthday.
-- For me?
-- Mm-hmm.
+What's this?
+Happy birthday.
+For me?
+Mm-hmm.
 It's a... first edition.
-- Wow.
-- [Chuckles]
-- You know, this is too much.
-- No.
+Wow.
+[Chuckles]
+You know, this is too much.
+No.
 Took it out of your Christmas bonus.
 [Chuckles]
 It's perfect, Anna.
-- Thanks.
-- [Chuckles]
+Thanks.
+[Chuckles]
 <i>[Cole] What do you want more than anything?</i>
 <i>[Malcolm] I don't know.</i>
 <i>- [Cole] I've told you what I want.
-- [Glass Breaking]</i>
+[Glass Breaking]</i>
 <i>[Malcolm] I know what I want.</i>
 <i>I want to be able to talk to my wife again.</i>
 <i>The way we used to talk to each other.</i>
@@ -785,12 +785,12 @@ Can't be your doctor anymore.
 I haven't paid enough attention to my family.
 Bad things happen when you do that.
 Do you understand?
-- I'm going to transfer you.
+I'm going to transfer you.
 I know two psychologists.
-- Don't fail me.
+Don't fail me.
 Don't give up. You're the only one who can help me, I know it.
-- I can't help you.
-- [Sobbing]
+I can't help you.
+[Sobbing]
 You...
 Someone else can help you.
 You believe me, right?
@@ -814,21 +814,21 @@ I didn't leave you alone too long.</i>
 <i>Whew.
 It's cold in here.</i>
 <i>- Vincent...
-- [Tape Machine Rewinding]</i>
+[Tape Machine Rewinding]</i>
 <i>Whew.
 It's cold in here.</i>
 <i>- [Tape Machine Clicks]
-- Nah, you know what?
+Nah, you know what?
 I never liked him either.</i>
 <i>When I was a kid,
 I had this blood test done,</i>
 <i>- and I threw up chili cheese fries all over this male nurse.
-- [Vincent Laughing]</i>
+[Vincent Laughing]</i>
 <i>[Woman] Excuse me.
 Dr. Reed is on line two.</i>
 <i>[Malcolm] Vincent, will you excuse me? I have to take this.</i>
 <i>- Just give me a minute, okay?
-- [Vincent] Okay.</i>
+[Vincent] Okay.</i>
 <i>[Door Opens, Closes]</i>
 [Volume Increases]
 <i>[Faint Voice, Indistinct]</i>
@@ -839,8 +839,8 @@ Dr. Reed is on line two.</i>
 Yo no quiero morir.
 <i>[Continues Speaking In Spanish]</i>
 Yo no quiero morir.
-- Oh, my God.
-- Yo no quiero morir!
+Oh, my God.
+Yo no quiero morir!
 <i>You been running around?</i>
 Make you feel better?
 <i>I like to run around.
@@ -862,8 +862,8 @@ What do you think these ghosts want when they talk to you?
 I want you to think about it, Cole.
 I want you to think about it really carefully.
 What do you think they want?
-- Just help.
-- That's right. That's what I think too.
+Just help.
+That's right. That's what I think too.
 They just want help, even the scary ones.
 I think I might know a way to make them go away.
 How?
@@ -874,10 +874,10 @@ I don't think that's the way it works.
 How do you know for sure?
 I don't.
 <i>[Door Opens, Closes]</i>
-- [Engine Starts]
-- Hey!
-- [Tires Squealing]
-- Hey! Hey!
+[Engine Starts]
+Hey!
+[Tires Squealing]
+Hey! Hey!
 <i>[Lynn Sobbing] What's happening?</i>
 <i>[Whispering]
 What's happening?</i>
@@ -913,7 +913,7 @@ I just can't imagine a child being in bed for two years.
 <i>[Woman] How many...
 How many doctors?</i>
 <i>- I think it was six.
-- Six different doctors?</i>
+Six different doctors?</i>
 <i>I think so, yes.</i>
 <i>I just heard the, uh, little one is falling ill now.</i>
 God help them.
@@ -939,7 +939,7 @@ We can dance for a little bit, and if you don't like the way I dance, you can ki
 <i>[Liquid Pouring]</i>
 <i>[Woman] It's time for lunch, Kyra.</i>
 <i>- [Kyra] I'm feeling much better now.
-- That's so great, honey.</i>
+That's so great, honey.</i>
 <i>[Kisses]
 It's time for your food.</i>
 Can I go outside if I eat this?
@@ -956,8 +956,8 @@ Is Kyra coming back?
 <i>[Woman] I think that's enough.
 That's enough makeup.</i>
 <i>[Cole] Okay.</i>
-- They're calling for the stable boy.
-- We have to hurry!
+They're calling for the stable boy.
+We have to hurry!
 Who, uh...
 Who were you talking to?
 Just practicing my lines.
@@ -973,7 +973,7 @@ Let the boy try.
 He is a stable boy.
 He cleans up after the horses.
 <i>- Silence, village idiot.
-- [Scattered Giggling]</i>
+[Scattered Giggling]</i>
 Let the boy step forward.
 [Children Gasping]
 <i>[Children Together]
@@ -981,15 +981,15 @@ Hail, King Arthur!</i>
 <i>[Applause]</i>
 <i>[Children] Yea!</i>
 <i>- [Cheering]
-- [Applause Continues]</i>
+[Applause Continues]</i>
 <i>[Audience Laughing]</i>
 [All Laughing]
 <i>[Chattering]</i>
 <i>[Malcolm] I thought you were really great in the play, Cole.</i>
 <i>- Really?
-- Yeah.</i>
+Yeah.</i>
 <i>- You know what else?
-- What?</i>
+What?</i>
 I thought Tommy Tammisimo sucked big time. [Chuckles]
 [Chuckles]
 <i>I got an idea how you can talk to your wife.</i>
@@ -1003,8 +1003,8 @@ Just for pretend.
 Okay.
 <i>I'm gonna go now.</i>
 I'll see you tomorrow, Cole.
-- [Siren Blaring]
-- [Chattering, Indistinct]
+[Siren Blaring]
+[Chattering, Indistinct]
 I'm okay, Officer.
 I-I'm okay.
 <i>I don't know what happened.</i>
@@ -1028,8 +1028,8 @@ A lady.
 She died.
 Oh, my God.
 What, you can see her?
-- Yes.
-- Where is she?
+Yes.
+Where is she?
 Standing next to my window.
 Cole, you're scaring me.
 They scare me too sometimes.
@@ -1042,32 +1042,32 @@ They talk to you?
 <i>They tell you to do things?</i>
 <i>They're the ones that used to hurt me.</i>
 <i>What are you thinking, Mama?</i>
-- You think I'm a freak?
-- Look at my face.
+You think I'm a freak?
+Look at my face.
 I would never think that about you. Ever.
 <i>- Got it?
-- Got it.</i>
+Got it.</i>
 Just let me think for a minute.
 Grandma says hi.
 <i>She says she's sorry for taking the bumblebee pendant.</i>
 <i>She just likes it a lot.</i>
-- What?
-- Grandma comes to visit me sometimes.
+What?
+Grandma comes to visit me sometimes.
 Cole, that's very wrong.
 <i>- Grandma's gone, you know that.
-- I know.</i>
-- She wanted me to tell you...
-- Cole, please stop.
+I know.</i>
+She wanted me to tell you...
+Cole, please stop.
 She wanted me to tell you she saw you dance.
 <i>She said when you were little,</i>
 <i>you and her had a fight...</i> right before your dance recital.
 <i>- [Sniffles]
-- You thought she didn't come to see you dance.</i>
+You thought she didn't come to see you dance.</i>
 She did.
 <i>She hid in the back so you wouldn't see.</i>
 <i>Sh-She said you were like an angel.</i>
 <i>- [Sobbing]
-- She said...</i> you came to the place where they buried her, asked her a question.
+She said...</i> you came to the place where they buried her, asked her a question.
 She said the answer is... every day.
 <i>What did you ask?</i>
 [Sniffles]
@@ -1093,14 +1093,14 @@ I miss you.
 I miss you too.
 Why, Malcolm?
 What?
-- What is it?
-- Why did you leave me?
+What is it?
+Why did you leave me?
 I didn't leave you.
 <i>[Object Clatters]</i>
 <i>[Cole] I see people.</i>
 They don't know they're dead.
 <i>- [Malcolm] How often do you see them?
-- [Cole] All the time.</i>
+[Cole] All the time.</i>
 <i>[Cole] They're everywhere.</i>
 <i>They only see what they want to see.</i>
 <i>[Malcolm On TV] Okay, Mikey.</i>
@@ -1113,15 +1113,15 @@ Give me a minute.
 <i>[Gunshot]</i>
 <i>[Anna Screams]</i>
 <i>[Whimpering]</i>
-- Oh, God.
-- [Groaning]
-<i>- [Mumbling] It doesn't even hurt.
-- Let me see.</i>
-- Let me see. Put your hand...
-- [Groaning]
 Oh, God.
-- [Breathing Heavily]
-- Okay.
+[Groaning]
+<i>- [Mumbling] It doesn't even hurt.
+Let me see.</i>
+Let me see. Put your hand...
+[Groaning]
+Oh, God.
+[Breathing Heavily]
+Okay.
 [Grunts]
 [Sobbing]
 I think I'm okay.

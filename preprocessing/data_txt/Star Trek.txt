@@ -6,38 +6,38 @@ It looks like a lightning storm.
 What you have sent us doesn't seem possible.
 Yes, ma'am. I understand.
 That's why we sent it.
-- Report.
-- It's still out of visual range.
-- Give me 20 seconds.
-- Alert Captain Robau.... that Starfleet advises your ship to proceed with caution.
+Report.
+It's still out of visual range.
+Give me 20 seconds.
+Alert Captain Robau.... that Starfleet advises your ship to proceed with caution.
 Polarize the viewscreen.
 Could whatever this is be of Klingon origin?
 Captain, we have visual.
-- Repeat. Could this be Klingon?
-- Negative, Lieutenant.
+Repeat. Could this be Klingon?
+Negative, Lieutenant.
 You're 75,000 kilometers from...
 Captain, are you seeing this?
 My God.
 I have a reading.
-- They have locked weapons on us.
-- Red alert.
+They have locked weapons on us.
+Red alert.
 Torpedo locked on us at 320 degrees,
-- mark 2.
-- Arm weapons.
+mark 2.
+Arm weapons.
 Evasive pattern Delta-five.
 Incoming fast.
 Fire all phasers. Damage report.
 Warp drive's been knocked out.
 Never seen anything like it.
 Weapons are off-line. Main power 38%.
-- They're firing another.
-- All power to forward shields.
+They're firing another.
+All power to forward shields.
 Lieutenant.
 Atmospheric stabilization has been lost.
-- Were our shields even up?
-- Oxygen failing, Decks 7 to 13.
-- We have confirmed casualties, sir.
-- Shields 11 % and dropping.
+Were our shields even up?
+Oxygen failing, Decks 7 to 13.
+We have confirmed casualties, sir.
+Shields 11 % and dropping.
 Ten percent. Shields at nine.
 We're dropping here.
 All remaining power to forward shields.
@@ -48,32 +48,32 @@ You will come aboard our ship via shuttlecraft.
 Your refusal would be unwise.
 Walk with me.
 If I don't report in 15 minutes, evacuate the crew.
-- Sir, we could issue...
-- There is no help for us out here.
+Sir, we could issue...
+There is no help for us out here.
 Use autopilot.
-- And get off this ship.
-- Aye, Captain.
+And get off this ship.
+Aye, Captain.
 You're Captain now, Mr. Kirk.
 His heart rate's elevated.
 Look at this ship.
-- Are you familiar with this craft?
-- Who is your commander?
-- Is it him?
-- I will speak for Captain Nero.
+Are you familiar with this craft?
+Who is your commander?
+Is it him?
+I will speak for Captain Nero.
 Then ask Captain Nero what gives him the right to attack a Federation vessel.
 Do you know the location of Ambassador Spock?
 I am unfamiliar with Ambassador Spock.
-- What is the current stardate?
-- Stardate?
+What is the current stardate?
+Stardate?
 Twenty-two thirty-three zero-four.
 Where are you from?
 Sir, they're locked on our signal.
 They're launching again.
 Bravo-six maneuver. Fire full spread.
-- Seventeen more out.
-- I am initiating General Order 13.
-- We're evacuating.
-- Yes, sir.
+Seventeen more out.
+I am initiating General Order 13.
+We're evacuating.
+Yes, sir.
 All decks, this is the Captain speaking.
 Evacuate the ship immediately.
 Get to your designated shuttlecraft.
@@ -84,64 +84,64 @@ You will deliver in the shuttle. Go.
 Move. This one's closed.
 Let's go. Get him up.
 I am on my way.
-- George.
-- You're okay. Thank God.
+George.
+You're okay. Thank God.
 I have medical shuttle 37 standing by.
 Get to it now. Can you do that?
-- Yes.
-- Everything's going to be okay.
-- Do exactly as I say. Shuttle 37.
-- George, it's coming.
-- Our baby, it's coming now.
-- I am on my way.
+Yes.
+Everything's going to be okay.
+Do exactly as I say. Shuttle 37.
+George, it's coming.
+Our baby, it's coming now.
+I am on my way.
 Autopilot function has been destroyed.
 Manual operation only.
 Clear those decks now.
 Get to the shuttles. Move.
 Move, move. Get to the hangar deck.
 Get to the hangar deck. Let's move it.
-- That was a big one.
-- Just keep breathing. You will be fine.
-- And the baby, too, right?
-- And the baby, too.
+That was a big one.
+Just keep breathing. You will be fine.
+And the baby, too, right?
+And the baby, too.
 Right here. Go ahead and sit back.
 Captain to shuttle 37.
 Is my wife onboard?
-- Yes, sir, she is.
-- I need you to go now. Do you hear me?
-- We're waiting on you, sir.
-- No, just go. Take off immediately.
-- That's an order.
-- Yes, sir.
+Yes, sir, she is.
+I need you to go now. Do you hear me?
+We're waiting on you, sir.
+No, just go. Take off immediately.
+That's an order.
+Yes, sir.
 No, wait. We can't go yet.
 Please stop. Stop.
 George? The shuttle's leaving.
 Where are you?
 Sweetheart, listen to me.
 I am not going to be there.
-- No.
-- This is the only way you will survive.
+No.
+This is the only way you will survive.
 Are you still on the ship?
 You have to be here.
 The shuttles will never make it if I don't fight them off.
 George, I can't do this without you.
 Okay, I need you to push now.
-- What is it?
-- It's a boy.
+What is it?
+It's a boy.
 A boy?
 Tell me about him.
 He's beautiful.
 George, you should be here.
 Impact alert.
-- What are we going to call him?
-- We can name him after your father.
+What are we going to call him?
+We can name him after your father.
 "Tiberius"? You kidding me?
 No, that's the worst.
 Let's name him after your dad.
 Let's call him Jim.
 Jim. Okay. Jim it is.
-- Sweetheart, can you hear me?
-- I hear you.
+Sweetheart, can you hear me?
+I hear you.
 I love you so much. I love you...
 Hey, are you out of your mind?
 That car is an antique.
@@ -165,7 +165,7 @@ An ellipse.
 What is the electrical charge of an up-type quark?
 Positive two-thirds.
 What is the square root of 2,396,324?
-- What is the dimensionality...
+What is the dimensionality...
 Dimensionality equals the logarithm and divided by...
 Non-excludability and non-rivalry...
 Four-thirds pi times the radius cubed.
@@ -192,16 +192,16 @@ Spock. You are fully capable of deciding your own destiny.
 The question you face is, which path will you choose?
 This is something only you can decide.
 Spock, come here, let me see you.
-- No.
-- Spock.
+No.
+Spock.
 There's no need to be anxious.
 You will do fine.
 I am hardly anxious, Mother.
 And "fine" has variable definitions.
 "Fine" is unacceptable.
 Okay.
-- May I ask a personal query?
-- Anything.
+May I ask a personal query?
+Anything.
 Should I choose to complete the Vulcan discipline of Kolinahr and purge all emotion,
 I trust you will not feel it reflects judgment upon you.
 Spock.
@@ -215,8 +215,8 @@ You are hereby accepted to the Vulcan Science Academy.
 It is truly remarkable, Spock, that you have achieved so much despite your disadvantage.
 All rise.
 If you would clarify, Minister,
-- to what disadvantage are you referring?
-- Your human mother.
+to what disadvantage are you referring?
+Your human mother.
 Council. Ministers, I must decline.
 No Vulcan has ever declined admission to this Academy.
 Then as I am half human, your record remains untarnished.
@@ -226,30 +226,30 @@ Was it to satisfy your emotional need to rebel?
 The only emotion I wish to convey is gratitude.
 Thank you, Ministers, for your consideration.
 Live long and prosper.
-- How are you?
-- Hey.
-- Hi.
-- Hi.
+How are you?
+Hey.
+Hi.
+Hi.
 Hi, I'd like a Klabnian Fire Tea, three Budweiser Classics,
-- two Cardassian Sunrises and...
-- Got to try the Slusho. It's good.
+two Cardassian Sunrises and...
+Got to try the Slusho. It's good.
 The Slusho mix. Thank you.
 That's a lot of drinks for one woman.
-- And a shot of Jack, straight up.
-- Make that two. Her shot's on me.
+And a shot of Jack, straight up.
+Make that two. Her shot's on me.
 Her shot's on her. Thanks but no thanks.
 Don't you want to at least know my name before you completely reject me?
-- I am fine without it.
-- You are fine without it.
+I am fine without it.
+You are fine without it.
 It's Jim. Jim Kirk.
 If you don't tell me your name,
 I am going to have to make one up.
-- It's Uhura.
-- Uhura? No way.
+It's Uhura.
+Uhura? No way.
 That's the name
 I was going to make up for you.
-- Uhura what?
-- Just Uhura.
+Uhura what?
+Just Uhura.
 They don't have last names in your world?
 Uhura is my last name.
 Well, they don't have first names in your world?
@@ -264,15 +264,15 @@ It means you have got a talented tongue.
 I am impressed.
 For a moment there,
 I thought you were just a dumb hick
-- who only has sex with farm animals.
-- Well, not only.
+who only has sex with farm animals.
+Well, not only.
 This townie isn't bothering you, right?
 Beyond belief.
 But it's nothing I can't handle.
 You could handle me.
 That's an invitation.
-- Hey, you better mind your manners.
-- Relax, cupcake. It was a joke.
+Hey, you better mind your manners.
+Relax, cupcake. It was a joke.
 Hey, farm boy. Maybe you can't count, but there are four of us and one of you.
 So get some more guys, and then it will be an even fight.
 Guys, stop it.
@@ -280,30 +280,30 @@ Stop it.
 Enough.
 Guys, he's had enough.
 Outside, all of you.
-- Now.
-- Yes, sir.
-- He wouldn't even listen.
-- I just bought a drink.
-- Can you believe this?
-- It's not really fair.
-- Come on.
-- You all right, son?
+Now.
+Yes, sir.
+He wouldn't even listen.
+I just bought a drink.
+Can you believe this?
+It's not really fair.
+Come on.
+You all right, son?
 You can whistle really loud, you know that?
 You know, I couldn't believe it when the bartender told me who you are.
-- And who am I, Captain Pike?
-- Your father's son.
+And who am I, Captain Pike?
+Your father's son.
 Can I get another one?
 For my dissertation,
 I was assigned the U.S.S. Kelvin.
 Something I admired about your dad, he didn't believe in no-win scenarios.
 He sure learned his lesson.
 Well, it depends on how you define winning.
-- You're here, aren't you?
-- Thanks.
+You're here, aren't you?
+Thanks.
 You know, that instinct to leap without looking, that was his nature, too.
 And in my opinion, it's something Starfleet's lost.
-- Why are you talking to me, man?
-- Because I looked up your file while you were drooling on the floor.
+Why are you talking to me, man?
+Because I looked up your file while you were drooling on the floor.
 Your aptitude tests are off the charts.
 So what is it?
 You like being the only genius-level repeat-offender in the Midwest?
@@ -311,8 +311,8 @@ Maybe I love it.
 So your dad dies. You can settle for a less-than-ordinary life.
 Or do you feel like you were meant for something better?
 Something special?
-- Enlist in Starfleet.
-- Enlist?
+Enlist in Starfleet.
+Enlist?
 You guys must be way down on your recruiting quota for the month.
 If you're half the man your father was,
 Jim, Starfleet could use you.
@@ -320,8 +320,8 @@ You can be an officer in four years.
 You can have your own ship in eight.
 You understand what the Federation is, don't you? It's important.
 It's a peacekeeping and humanitarian armada...
-- Are we done?
-- I am done.
+Are we done?
+I am done.
 Riverside Shipyard. Shuttle for new recruits leaves tomorrow, 0800.
 Now, your father was captain of a starship for 12 minutes.
 He saved 800 lives, including your mother's. And yours.
@@ -330,15 +330,15 @@ Nice ride, man.
 It's yours.
 Four years? I will do it in three.
 At ease, gentlemen.
-- Never did get that first name.
-- You need a doctor.
+Never did get that first name.
+You need a doctor.
 I told you people, I don't need a doctor, damn it, I am a doctor.
 You need to get back to your seat.
 I had one in the bathroom.... with no windows. You need to get back to your seat now. I suffer from aviaphobia.
 It means fear of dying in something that flies.
 Sir, for your own safety, sit down, or else I will make you sit down.
-- Fine.
-- Thank you.
+Fine.
+Thank you.
 This is Captain Pike.
 We have been cleared for takeoff.
 I may throw up on you.
@@ -353,26 +353,26 @@ Well, I hate to break this to you, but Starfleet operates in space.
 Yeah, well, I got nowhere else to go.
 The ex-wife took the whole damn planet in the divorce.
 All I got left is my bones.
-- Jim Kirk.
-- McCoy. Leonard McCoy.
+Jim Kirk.
+McCoy. Leonard McCoy.
 Captain Nero. You have been requested on the Bridge, sir.
 Ayel says it's time.
 Sir, we have arrived at the coordinates you calculated. There's nothing here.
-- What are your orders?
-- We wait.
+What are your orders?
+We wait.
 We wait for the one who allowed our home to be destroyed, as we have been doing for 25 years.
-- And once we have killed him?
-- Kill him?
+And once we have killed him?
+Kill him?
 I am not going to kill him.
 I am going to make him watch.
 Capture that ship.
 Welcome back, Spock.
 Why are you so happy?
-- I don't know what you're talking about.
-- No, I don't suppose you do.
+I don't know what you're talking about.
+No, I don't suppose you do.
 Hello, ladies.
-- I am taking the test again.
-- You got to be kidding.
+I am taking the test again.
+You got to be kidding.
 Yeah, tomorrow morning, and I want you there.
 You know, I have got better things to do than watch you embarrass yourself for a third time.
 I am a doctor, Jim. I am busy.
@@ -382,90 +382,90 @@ No one passes the test.
 And no one goes back for seconds, let alone thirds.
 I got to study.
 Study, my ass.
-- Jim, I think I love you.
-- That is so weird.
-- Lights.
-- Lights on.
+Jim, I think I love you.
+That is so weird.
+Lights.
+Lights on.
 Did you just say, "That is so weird"?
-- Yeah, I did, but...
-- You don't love me, too?
+Yeah, I did, but...
+You don't love me, too?
 Oh, my God, my roommate.
 But I thought you said she was gone for the night.
 Obviously she's not.
 Quick, get under the bed.
-- Under...
-- Look, just get under the bed.
-- Come on.
-- She can't see you here.
-- Why not?
-- Because I promised her
-- I'd stop bringing guys back to the room.
-- Really?
-- Well, how many guys have you...
-- Just down. Just down.
-- Hey.
-- Hey.
-- How are you?
-- Good.
+Under...
+Look, just get under the bed.
+Come on.
+She can't see you here.
+Why not?
+Because I promised her
+I'd stop bringing guys back to the room.
+Really?
+Well, how many guys have you...
+Just down. Just down.
+Hey.
+Hey.
+How are you?
+Good.
 The strangest thing,
 I was in the long-range sensor lab...
 Yeah, I thought all night.
 I was tracking solar systems and
 I picked up an emergency transmission.
-- Really?
-- Yeah. From a Klingon prison planet.
-- No.
-- Yeah.
+Really?
+Yeah. From a Klingon prison planet.
+No.
+Yeah.
 A Klingon armada was destroyed.
 Forty-seven ships.
 So you're not going back to the lab tonight?
-- Gaila, who is he?
-- Who's who?
+Gaila, who is he?
+Who's who?
 The mouth-breather hiding under your bed.
 You could hear me breathing?
-- You.
-- Big day tomorrow.
-- You're going to fail. Get out.
-- Gaila, see you around.
+You.
+Big day tomorrow.
+You're going to fail. Get out.
+Gaila, see you around.
 If I pass, will you tell me your first name?
-- No. Good night.
-- I think the fact that you picked up a transmission is very interesting.
+No. Good night.
+I think the fact that you picked up a transmission is very interesting.
 We are receiving a distress signal from the U.S.S. Kobayashi Maru.
 The ship has lost power and is stranded.
 Starfleet Command has ordered us to rescue them.
 "Starfleet Command has ordered us to rescue them,
 "Captain."
 Two Klingon vessels have entered the Neutral Zone
-- and are locking weapons on us.
-- That's okay.
-- That's okay?
-- Yeah, don't worry about it.
+and are locking weapons on us.
+That's okay.
+That's okay?
+Yeah, don't worry about it.
 Did he say, "Don't worry about it"?
 Is he not taking the simulation seriously?
 Three more Klingon warbirds decloaking and targeting our ship.
-- I don't suppose this is a problem either.
-- They're firing, Captain.
+I don't suppose this is a problem either.
+They're firing, Captain.
 Alert Medical Bay to prepare to receive all crew members from the damaged ship.
 And how do you expect us to rescue them when we're surrounded by Klingons, Captain?
 Alert Medical.
 Our ship is being hit. Shields at 60%.
-- I understand.
-- Well, should we, I don't know, fire back?
-- No.
-- Of course not.
+I understand.
+Well, should we, I don't know, fire back?
+No.
+Of course not.
 What is this? What's going on?
 Arm photons.
 Prepare to fire on the Klingon warbirds.
-- Yes, sir.
-- Jim, their shields are still up.
+Yes, sir.
+Jim, their shields are still up.
 Are they?
 No. They're not.
 Fire on all enemy ships.
 One photon each should do.
 Let's not waste ammunition.
 Target locked and acquired on all warbirds. Firing.
-- All ships destroyed, Captain.
-- Begin rescue of the stranded crew.
+All ships destroyed, Captain.
+Begin rescue of the stranded crew.
 So. We have managed to eliminate all enemy ships, no one onboard was injured, and the successful rescue of the
 Kobayashi Maru crew is underway.
 How the hell did that kid beat your test?
@@ -478,17 +478,17 @@ Yes, I believe I have the right to face my accuser directly.
 Step forward, please.
 This is Commander Spock. He is one of our most distinguished graduates.
 He's programmed the Kobayashi Maru exam for the last four years.
-- Commander?
-- Cadet Kirk, you somehow managed to install and activate a subroutine in the programming code, thereby changing the conditions of the test.
-- Your point being?
-- In academic vernacular, you cheated.
+Commander?
+Cadet Kirk, you somehow managed to install and activate a subroutine in the programming code, thereby changing the conditions of the test.
+Your point being?
+In academic vernacular, you cheated.
 Let me ask you something
 I think we all know the answer to.
 The test itself is a cheat, isn't it?
 I mean, you programmed it to be unwinnable.
 Your argument precludes the possibility of a no-win scenario.
-- I don't believe in no-win scenarios.
-- Then not only did you violate the rules, you also failed to understand the principal lesson.
+I don't believe in no-win scenarios.
+Then not only did you violate the rules, you also failed to understand the principal lesson.
 Please, enlighten me.
 You of all people should know,
 Cadet Kirk, a captain cannot cheat death.
@@ -496,16 +496,16 @@ I of all people?
 Your father, Lieutenant George Kirk, assumed command of his vessel before being killed in action, did he not?
 I don't think you like the fact that I beat your test.
 Furthermore, you have failed to divine the purpose of the test.
-- Enlighten me again.
-- The purpose is to experience fear, fear in the face of certain death.
+Enlighten me again.
+The purpose is to experience fear, fear in the face of certain death.
 To accept that fear, and maintain control of oneself and one's crew.
 This is a quality expected in every Starfleet captain.
 Excuse me, sir.
 We have received a distress call from Vulcan.
 With our primary fleet engaged in the Laurentian system,
 I hereby order all cadets to report to Hangar One immediately. Dismissed.
-- Who was that pointy-eared bastard?
-- I don't know, but I like him.
+Who was that pointy-eared bastard?
+I don't know, but I like him.
 Fugeman, Regula One.
 Gerace, U.S.S. Farragut.
 McCoy, U.S.S. Enterprise.
@@ -520,62 +520,62 @@ Academy Board rules. All right, listen up.
 I am going to read this list one time, and one time only.
 Jim, the Board will rule in your favor.
 Most likely.
-- Look, Jim, I got to go.
-- Yeah.
+Look, Jim, I got to go.
+Yeah.
 Yeah, you go. Be safe.
-- Excuse me.
-- Yeah. Yeah. Sure.
+Excuse me.
+Yeah. Yeah. Sure.
 Damn it.
-- Come with me.
-- U.S.S. Newton. Uhura, U.S.S. Farragut.
+Come with me.
+U.S.S. Newton. Uhura, U.S.S. Farragut.
 Petrovsky, U.S.S. Antares.
 Go to your stations and good luck.
-- Bones, where are we going?
-- You will see.
-- Commander, a word?
-- Yes, Lieutenant?
-- Was I not one of your top students?
-- Indeed you were.
+Bones, where are we going?
+You will see.
+Commander, a word?
+Yes, Lieutenant?
+Was I not one of your top students?
+Indeed you were.
 And did I not on multiple occasions demonstrate an exceptional aural sensitivity and, I quote,
 "an unparalleled ability to identify sonic anomalies"
-- in subspace transmissions tests?
-- Consistently, yes.
+in subspace transmissions tests?
+Consistently, yes.
 And while you were well aware that my unqualified desire is to serve on the U.S.S. Enterprise,
 I am assigned to the Farragut?
 It was an attempt to avoid the appearance of favoritism.
 No. I am assigned to the Enterprise.
-- Yes, I believe you are.
-- Thank you.
-- What are you doing?
-- I am doing you a favor.
+Yes, I believe you are.
+Thank you.
+What are you doing?
+I am doing you a favor.
 I couldn't just leave you there, looking all pathetic.
 Take a seat. I am going to give you a vaccine against viral infection
-- from Melvaran mud fleas.
-- What for?
-- To give you the symptoms.
-- What are you talking about?
+from Melvaran mud fleas.
+What for?
+To give you the symptoms.
+What are you talking about?
 You're going to start to lose vision in your left eye.
 Yeah, I already have.
 Oh, and you're going to get a really bad headache and a flop sweat.
-- You call this a favor?
-- Yeah. You owe me one.
+You call this a favor?
+Yeah. You owe me one.
 Kirk, James T. He is not cleared for duty aboard the Enterprise.
 Medical code states the treatment and transport of a patient is to be determined at the discretion of his attending physician, which is me.
 So I am taking Mr. Kirk aboard.
 Or would you like to explain to Captain Pike why the Enterprise warped into a crisis without one of its senior medical officers?
-- As you were.
-- As you were. Come on.
-- I might throw up on you.
-- Jim, you have got to look at this.
-- Jim, look.
-- What?
+As you were.
+As you were. Come on.
+I might throw up on you.
+Jim, you have got to look at this.
+Jim, look.
+What?
 Look.
 We need to get you changed. I don't feel right. I feel like I am leaking.
 Hell, it's that pointy-eared bastard.
-- Mr. Spock.
-- Captain.
-- Engineering reports ready for launch.
-- Thank you.
+Mr. Spock.
+Captain.
+Engineering reports ready for launch.
+Thank you.
 Ladies and gentlemen, the maiden voyage of our newest flagship deserves more pomp and circumstance than we can afford today.
 Her christening will just have to be our reward for a safe return. Carry on.
 All decks, this is Captain Pike.
@@ -587,38 +587,38 @@ Thrusters fired.
 Separating from spacedock.
 The fleet's cleared spacedock, Captain.
 All ships ready for warp.
-- Set a course for Vulcan.
-- Aye-aye, Captain. Course laid in.
+Set a course for Vulcan.
+Aye-aye, Captain. Course laid in.
 Maximum warp. Punch it.
 Lieutenant, where is Helmsman McKenna?
 He has lungworms, sir.
 He couldn't report to his post.
 I am Hikaru Sulu.
-- And you are a pilot, right?
-- Very much so, sir.
+And you are a pilot, right?
+Very much so, sir.
 I am not sure what's wrong here.
-- Is the parking brake on?
-- No. I will figure it out. I am just...
+Is the parking brake on?
+No. I will figure it out. I am just...
 Have you disengaged the external inertial dampener?
-- Ready for warp, sir.
-- Let's punch it.
-- Where are we?
-- Medical Bay.
-- This isn't worth it.
-- A little suffering's good for the soul.
-- Hi. How are you?
-- Come here.
-- My mouth is itchy. Is that normal?
-- Well, those symptoms won't last long.
-- I am going to give you a mild sedative.
-- I wish I didn't know you.
+Ready for warp, sir.
+Let's punch it.
+Where are we?
+Medical Bay.
+This isn't worth it.
+A little suffering's good for the soul.
+Hi. How are you?
+Come here.
+My mouth is itchy. Is that normal?
+Well, those symptoms won't last long.
+I am going to give you a mild sedative.
+I wish I didn't know you.
 Don't be such an infant.
 How long is it supposed to...
 Unbelievable.
-- Engines at maximum warp, Captain.
-- Russian whiz kid, what's your name?
-- Chanko? Cherpov?
-- Ensign Chekov, Pavel Andreievich, sir.
+Engines at maximum warp, Captain.
+Russian whiz kid, what's your name?
+Chanko? Cherpov?
+Ensign Chekov, Pavel Andreievich, sir.
 Fine, Chekov, Pavel Andreievich.
 Begin ship-wide mission broadcast.
 Yes, sir. Happy to.
@@ -631,75 +631,75 @@ What appeared to be a lightning storm in space.
 Soon after, Starfleet received a distress signal from the Vulcan High Command that their planet was experiencing seismic activity.
 Our mission is to assess the condition of Vulcan and assist in evacuations if necessary.
 We should be arriving at Vulcan within three minutes. Thank you for your time.
-- Lightning storm.
-- Jim, you're awake. How do you feel?
-- Good God, man.
-- What?
-- What the hell's this?
-- A reaction to the vaccine, damn it.
+Lightning storm.
+Jim, you're awake. How do you feel?
+Good God, man.
+What?
+What the hell's this?
+A reaction to the vaccine, damn it.
 Nurse Chapel,
 I need 50 cc's of cortisone.
 Yes, sir.
 ...appeared to be a lightning storm in space.
-- Hey.
-- We got to stop the ship.
+Hey.
+We got to stop the ship.
 Jim. I am not kidding.
 We need to keep your heart rate down.
 Computer, locate crew member Uhura.
 You know, I haven't seen a reaction this severe since med school.
-- We're flying into a trap.
-- Damn it, Jim, stand still.
+We're flying into a trap.
+Damn it, Jim, stand still.
 Stop it.
-- Uhura. Uhura...
-- Kirk. What are you doing here?
+Uhura. Uhura...
+Kirk. What are you doing here?
 The transmission from the Klingon prison planet. What exactly...
 Oh, my God, what's wrong with your hands?
 It's... Look, who is responsible for the Klingon attack?
-- What?
-- And was the ship...
+What?
+And was the ship...
 Was the ship what?
-- What's happening to my mouth?
-- You got numb tongue?
-- Numb tongue?
-- I can fix that.
-- Was the ship what?
-- Romulan.
-- What? I...
-- Romulan.
-- Romulan?
-- Yeah.
-- Yes.
-- Yes?
+What's happening to my mouth?
+You got numb tongue?
+Numb tongue?
+I can fix that.
+Was the ship what?
+Romulan.
+What? I...
+Romulan.
+Romulan?
+Yeah.
+Yes.
+Yes?
 Damn it.
 Prod Nero. Seven Federation ships are on their way.
-- Jim.
-- What's going on?
-- Jim, come back.
-- Kirk.
-- Captain. Captain Pike, sir...
-- Jim, come back here.
+Jim.
+What's going on?
+Jim, come back.
+Kirk.
+Captain. Captain Pike, sir...
+Jim, come back here.
 ...we have to stop the ship.
 Kirk, how the hell did you get onboard the Enterprise?
 Captain, this man's under the influence of
-- a severe reaction to a vaccine.
-- Bones, please...
+a severe reaction to a vaccine.
+Bones, please...
 He's completely delusional, and I take full responsibility.
 Vulcan is not experiencing a natural disaster.
 It's being attacked by Romulans.
 Romulans? Cadet Kirk, I think you have had enough attention for one day.
 McCoy, take him back to medical.
-- We will have words later.
-- Aye, Captain.
+We will have words later.
+Aye, Captain.
 Look, sir, that same anomaly that we saw today...
 Mr. Kirk is not cleared to be aboard this vessel, Captain.
-- I get it. You're a great arguer.
-- By Regulations...
+I get it. You're a great arguer.
+By Regulations...
 I'd love to do it again.
 ...that makes him a stowaway.
-- I can remove the cadet...
-- Try it.
-- Kirk...
-- This cadet is trying to save the Bridge.
+I can remove the cadet...
+Try it.
+Kirk...
+This cadet is trying to save the Bridge.
 By recommending a full stop mid-warp during a rescue mission?
 It's not a rescue mission.
 Listen to me, it's an attack.
@@ -712,8 +712,8 @@ The Kelvin attack took place on the edge of Klingon space, and at 2300 hours las
 Forty-seven Klingon warbirds destroyed by Romulans, sir, and it was reported that the Romulans were in one ship, one massive ship.
 And you know of this Klingon attack how?
 Sir, I intercepted and translated the message myself.
-- Kirk's report is accurate.
-- We're warping into a trap, sir.
+Kirk's report is accurate.
+We're warping into a trap, sir.
 The Romulans are waiting for us,
 I promise you that.
 The cadet's logic is sound.
@@ -724,43 +724,43 @@ Sir, I am not sure I can distinguish the Romulan language from Vulcan.
 What about you?
 Do you speak Romulan, Cadet...
 Uhura. All three dialects, sir.
-- Uhura, relieve the lieutenant.
-- Yes, sir.
+Uhura, relieve the lieutenant.
+Yes, sir.
 Hannity, hail the U.S.S. Truman.
 All the other ships are out of warp, sir, and have arrived at Vulcan, but we seem to have lost all contact.
 Sir, I pick up no Romulan transmission,
-- or transmission of any kind in the area.
-- It's because they're being attacked.
+or transmission of any kind in the area.
+It's because they're being attacked.
 Shields up. Red alert.
 Arrival at Vulcan in five seconds.
 Four, three, two...
-- Emergency evasive.
-- On it, sir.
-- Damage report.
-- Deflector shields are holding.
+Emergency evasive.
+On it, sir.
+Damage report.
+Deflector shields are holding.
 All stations. Engineer Olson, report.
 Full reverse.
 Come about starboard 90 degrees.
 Drop us down underneath them, Sulu.
 Sir, there's another Federation ship.
-- Destroy it, too.
-- Fire torpedoes.
+Destroy it, too.
+Fire torpedoes.
 Captain, they're locking torpedoes.
 Divert auxiliary power from port nacelles to forward shields.
-- Sulu, status report.
-- Shields at 32%.
+Sulu, status report.
+Shields at 32%.
 Their weapons are powerful, sir.
 We can't take another hit like that.
 Get me Starfleet Command.
 Captain, the Romulan ship has lowered some kind of high-energy pulse device into the Vulcan atmosphere.
 Its signal appears to be blocking our communications
-- and transporter abilities.
-- All power to forward shields.
+and transporter abilities.
+All power to forward shields.
 Prepare to fire all weapons.
-- Weapons ready.
-- Wait.
-- The hull. Magnify.
-- Yes, sir.
+Weapons ready.
+Wait.
+The hull. Magnify.
+Yes, sir.
 Captain, we're being hailed.
 Hello.
 I am Captain Christopher Pike.
@@ -768,8 +768,8 @@ To whom am I speaking?
 Hi, Christopher. I am Nero.
 You have declared war against the Federation.
 Withdraw, I will agree to arrange a conference with Romulan leadership
-- at a neutral location.
-- I do not speak for the Empire.
+at a neutral location.
+I do not speak for the Empire.
 We stand apart.
 As does your Vulcan crew member.
 Isn't that right, Spock?
@@ -781,20 +781,20 @@ Captain Pike, your transporter has been disabled.
 As you can see by the rest of your armada, you have no choice.
 You will man a shuttle and come aboard the Narada for negotiations.
 That is all.
-- He will kill you. You know that.
-- Your survival is unlikely.
+He will kill you. You know that.
+Your survival is unlikely.
 Captain, we gain nothing by diplomacy.
 Going over to that ship is a mistake.
 I, too, agree.
 You should rethink your strategy.
 I understand that.
 I need officers who have been trained in advanced hand-to-hand combat.
-- I have training, sir.
-- Come with me.
+I have training, sir.
+Come with me.
 Kirk, you, too.
 You're not supposed to be here anyway.
-- Chekov, you have the conn.
-- Aye-aye, Captain.
+Chekov, you have the conn.
+Aye-aye, Captain.
 Prepare the red matter.
 Yes, sir.
 Without transporters, we can't beam off the ship, we can't assist Vulcan, we can't do our job.
@@ -805,8 +805,8 @@ Mr. Spock, I am leaving you in command of the Enterprise.
 Once we have transport capability and communications back up, you will contact Starfleet and report what the hell's going on here.
 And if all else fails, fall back and rendezvous with the fleet in the Laurentian system.
 Kirk, I am promoting you to first officer.
-- What?
-- Captain?
+What?
+Captain?
 Please, I apologize, the complexities of human pranks escape me.
 It's not a prank, Spock.
 And I am not the Captain, you are.
@@ -822,12 +822,12 @@ Yeah, tell me something I don't know.
 Shuttle 37, you're clear forward.
 Shuttle 89, U.S.S. Enterprise, you are clear forward.
 Interval check shows positive and steady.
-- You got the charges, right?
-- Oh, yeah.
+You got the charges, right?
+Oh, yeah.
 I can't wait to kick some Romulan ass.
 Right?
-- Yeah.
-- Hell, yeah.
+Yeah.
+Hell, yeah.
 Shuttle command, we advise you activate your shields now.
 So what kind of combat training do you have?
 Fencing.
@@ -847,15 +847,15 @@ Distance to target, 5,000 meters.
 Forty-six hundred meters from the platform.
 Forty-five hundred meters to target.
 Four thousand meters.
-- Three thousand meters.
-- Three thousand meters.
-- Two thousand meters.
-- Pulling chute.
-- Two thousand meters.
-- Come on, pull your chute, Olson.
+Three thousand meters.
+Three thousand meters.
+Two thousand meters.
+Pulling chute.
+Two thousand meters.
+Come on, pull your chute, Olson.
 No, not yet. Not yet. 1,500 meters.
-- Olson, open your chute.
-- Olson, pull your chute.
+Olson, open your chute.
+Olson, pull your chute.
 One thousand meters.
 No.
 Olson.
@@ -864,63 +864,63 @@ Kirk has landed, sir.
 Give me your hand. Come on.
 Olson had the charges.
 I know.
-- What do we do?
-- This.
+What do we do?
+This.
 The jamming signal's gone.
 Transport abilities are reestablished.
-- Transporter control is reengaged, sir.
-- Chekov, run gravitational sensors.
+Transporter control is reengaged, sir.
+Chekov, run gravitational sensors.
 I want to know what they are doing to the planet.
 Aye, Commander.
 Captain. Sorry. Captain.
 The drill's been sabotaged, sir, but we have reached the planet's core.
 Launch the red matter.
 Kirk to Enterprise. They just launched something at the planet through the hole they just drilled.
-- Do you copy, Enterprise?
-- Yes, sir.
-- Analyzing data now.
-- Transporter is now operational.
+Do you copy, Enterprise?
+Yes, sir.
+Analyzing data now.
+Transporter is now operational.
 Captain, gravitational sensors are off the scale.
 If my calculations are correct, they're creating a singularity that will consume the planet.
 They're creating a black hole at the center of Vulcan?
-- Yes, sir.
-- How long does the planet have?
+Yes, sir.
+How long does the planet have?
 Minutes, sir. Minutes.
 Alert Vulcan Command Center to signal a planet-wide evacuation,
-- all channels, all frequencies.
-- Spock, wait.
-- Maintain standard orbit.
-- Yes, sir.
-- Where are you going?
-- To evacuate the Vulcan High Council.
+all channels, all frequencies.
+Spock, wait.
+Maintain standard orbit.
+Yes, sir.
+Where are you going?
+To evacuate the Vulcan High Council.
 They are tasked with protecting our cultural history.
-- My parents will be among them.
-- Can't you beam them out?
+My parents will be among them.
+Can't you beam them out?
 It is impossible.
 They will be in the katric ark.
 I must get them myself.
-- Chekov, you have the conn.
-- Aye.
+Chekov, you have the conn.
+Aye.
 Kirk to Enterprise.
 Beam us out of here.
 Stand by.
 Locking on your signal.
-- Retract the drill. Let's move out.
-- Yes, sir. Pull it up.
+Retract the drill. Let's move out.
+Yes, sir. Pull it up.
 I can't lock on to you.
 Don't move. Don't move.
-- Kirk.
-- Sulu.
+Kirk.
+Sulu.
 Sulu.
 Hold on.
 I got you. Now pull my chute.
 Kirk to Enterprise. We're falling without a chute. Beam us up.
 I am trying. I can't lock on to your signal. Beam us up.
-- You're moving too fast.
-- Beam us up.
+You're moving too fast.
+Beam us up.
 I can do that. I can do that.
-- Take the conn.
-- Aye, sir.
+Take the conn.
+Aye, sir.
 The black hole's expanding.
 We won't reach minimum safe distance if we don't leave immediately.
 Move, move, move, move, move.
@@ -936,30 +936,30 @@ Now, now, now, now.
 Okay, okay, okay. Hold on. Hold on.
 Compensating gravitational pull, and...
 Gotcha.
-- Thanks.
-- No problem.
+Thanks.
+No problem.
 Clear the pad.
 I am beaming to the surface.
 The surface of what?
 What, are you going down there?
 Are you nuts?
 Spock, you can't do that.
-- Energize.
-- Spock.
-- Spock.
-- The planet has only seconds left.
+Energize.
+Spock.
+Spock.
+The planet has only seconds left.
 We must evacuate.
 Mother, now.
-- Spock to Enterprise. Get us out now.
-- Locking volume.
+Spock to Enterprise. Get us out now.
+Locking volume.
 Don't move.
 Stay right where you are.
 Transport in five, four, three, two...
-- Mother.
-- Im losing her.
+Mother.
+Im losing her.
 Im losing her. Im losing her.
-- No. I lost her.
-- I lost her.
+No. I lost her.
+I lost her.
 Acting Captain's Log,
 Stardate 2258.42.
 We have had no word from Captain Pike.
@@ -980,8 +980,8 @@ I only have one for you.
 I need the subspace frequencies of Starfleet's border protection grids, specifically those surrounding Earth.
 Christopher, answer my question.
 No, you answer for the genocide you just committed
-- against a peaceful planet.
-- No, I prevented genocide.
+against a peaceful planet.
+No, I prevented genocide.
 In my time, where I come from, this is a simple mining vessel.
 I chose a life of honest labor to provide for myself and the wife who was expecting my child.
 I was off planet, doing my job while your Federation did nothing and allowed my people to burn while their planet broke in half.
@@ -1013,8 +1013,8 @@ Captain, U.S.S. Enterprise...
 As you wish.
 Have you confirmed that Nero is headed for Earth?
 Their trajectory suggests no other destination, Captain.
-- Thank you, Lieutenant.
-- Earth may be his next stop, but we have to assume every Federation planet's a target.
+Thank you, Lieutenant.
+Earth may be his next stop, but we have to assume every Federation planet's a target.
 Out of the chair.
 Well, if the Federation is a target, why didn't they destroy us?
 Why would they? Why waste a weapon?
@@ -1029,8 +1029,8 @@ Damn it, man,
 Im a doctor, not a physicist.
 Are you actually suggesting they're from the future?
 If you eliminate the impossible, whatever remains, however improbable,
-- must be the truth.
-- How poetic.
+must be the truth.
+How poetic.
 Then what would an angry future Romulan want with Captain Pike?
 As Captain, he does know details of Starfleet's defenses.
 What we need to do is catch up to that ship, disable it, take it over and get Pike back.
@@ -1042,8 +1042,8 @@ Then what about assigning engineering crews...
 Remaining power and crew are being...
 ...used to repair radiation leaks on the lower decks.... okay. All right.
 ...and damage to subspace communications, without which
-- we cannot contact Starfleet.
-- There's got to be some way...
+we cannot contact Starfleet.
+There's got to be some way...
 We must gather with the rest of Starfleet to balance the terms of the next engagement.
 There won't be a next engagement.
 By the time we have gathered, it will be too late.
@@ -1064,17 +1064,17 @@ You have to make... I am aware of my responsibilities,
 Mr. Kirk. Every second we waste, Nero's getting closer to his next target.
 That is correct, and why
 Im instructing you to accept the fact
-- that I alone am in command.
-- I will not allow us to go backwards...
+that I alone am in command.
+I will not allow us to go backwards...
 Jim, he's the Captain.
 ...away from the problem,
-- instead of hunting Nero down.
-- Security, escort him out.
-- Hey.
-- Enough, Jim.
+instead of hunting Nero down.
+Security, escort him out.
+Hey.
+Enough, Jim.
 Get him off this ship.
-- Computer, where am I?
-- Location, Delta Vega.
+Computer, where am I?
+Location, Delta Vega.
 Class-M planet. Unsafe.
 There is a Starfleet outpost
 14 kilometers to the northwest.
@@ -1083,28 +1083,28 @@ Stardate 2258.42.
 Or 44. Whatever.
 Acting Captain Spock has marooned me on Delta Vega, in what I believe to be a violation of Security Protocol 49.09 governing the treatment of prisoners aboard a star...
 James T. Kirk.
-- Excuse me?
-- How did you find me?
+Excuse me?
+How did you find me?
 How do you know my name?
 I have been and always shall be your friend.
-- Look, I don't know you.
-- I am Spock.
+Look, I don't know you.
+I am Spock.
 Bullshit.
 It is remarkably pleasing to see you again, old friend.
 Especially after the events of today.
 Sir, I appreciate what you did for me today, but if you were Spock, you'd know we're not friends. At all.
 You hate me.
 You marooned me here for mutiny.
-- Mutiny?
-- Yes.
+Mutiny?
+Yes.
 You are not the captain?
 No, no, you're the captain.
 Pike was taken hostage.
 By Nero.
 What do you know about him?
 He is a particularly troubled Romulan.
-- Please, allow me. It will be easier.
-- What are you doing?
+Please, allow me. It will be easier.
+What are you doing?
 Our minds, one and together.
 One hundred twenty-nine years from now, a star will explode and threaten to destroy the galaxy.
 That is where Im from,
@@ -1137,8 +1137,8 @@ I would be helpless to save mine.
 Billions of lives lost because of me, Jim.
 Because I failed.
 Forgive me. Emotional transference is an effect of the mind-meld.
-- So you do feel.
-- Yes.
+So you do feel.
+Yes.
 Going back in time, you changed all our lives.
 Jim, we must go.
 There is a Starfleet outpost not far from here.
@@ -1148,19 +1148,19 @@ You often spoke of him as being your inspiration for joining Starfleet.
 He proudly lived to see you become Captain of the Enterprise.
 Captain?
 A ship we must return you to as soon as possible.
-- Warp 3, sir.
-- Course 1-5-1, mark 3.
-- Laurentian system, sir.
-- Thank you, gentlemen.
-- You wanted to see me?
-- Yes, Doctor.
+Warp 3, sir.
+Course 1-5-1, mark 3.
+Laurentian system, sir.
+Thank you, gentlemen.
+You wanted to see me?
+Yes, Doctor.
 I am aware that James Kirk is a friend of yours.
 I recognize that supporting me as you did must have been difficult.
 Is that a thank-you?
 I am simply acknowledging your difficulties.
 Permission to speak freely, sir.
-- I welcome it.
-- Do you? Okay, then.
+I welcome it.
+Do you? Okay, then.
 Are you out of your Vulcan mind?
 Are you making a logical choice, sending Kirk away?
 Probably. But the right one?
@@ -1177,19 +1177,19 @@ Green-blooded hobgoblin.
 Hello.
 What?
 You realize how unacceptable this is?
-- Fascinating.
-- What?
+Fascinating.
+What?
 Okay, Im sure you're just doing your job, but could you not have come a wee bit sooner?
 Six months Ive been here, living off Starfleet protein nibs and the promise of a good meal.
 And I know exactly what's going on here, okay?
 Punishment, isn't it? Ongoing.
 For something that was clearly an accident.
-- You are Montgomery Scott.
-- You know him?
+You are Montgomery Scott.
+You know him?
 Aye, that's me. You're in the right place.
 Unless there's another hardworking, equally starved Starfleet officer around.
-- Me.
-- Get aff. Shut up.
+Me.
+Get aff. Shut up.
 You don't eat anything.
 You can eat, like, a bean, and you're done.
 Im talking about food. Real food.
@@ -1203,15 +1203,15 @@ He seemed to think that the range of transporting something like a grapefruit wa
 I told him that I could not only beam a grapefruit from one planet to the adjacent planet in the same system, which is easy, by the way,
 I could do it with a life-form.
 So, I tested it on Admiral Archer's prize beagle.
-- I know that dog. What happened to it?
-- Ill tell you when it reappears.
+I know that dog. What happened to it?
+Ill tell you when it reappears.
 I don't know. I do feel guilty about that.
 What if I told you that your transwarp theory was correct, that it is indeed possible to beam onto a ship that is traveling at warp speed?
 I think if that equation had been discovered, Id have heard about it.
 The reason you haven't heard of it,
 Mr. Scott, is because you haven't discovered it yet.
-- Are you from the future?
-- Yeah, he is. Im not.
+Are you from the future?
+Yeah, he is. Im not.
 Well, that's brilliant.
 Do they still have sandwiches there?
 Well, she's a wee bit dodgy.
@@ -1229,18 +1229,18 @@ Get out of it.
 Imagine that.
 It never occurred to me to think of space as the thing that was moving.
 You're coming with us, right?
-- No, Jim. That is not my destiny.
-- Your...
+No, Jim. That is not my destiny.
+Your...
 He... The other Spock is not going to believe me.
 Only you can explain what the hell's happened. Under...
 ....no circumstances can he be made aware of my existence.
 You must promise me this.
 You're telling me I can't tell you that Im following your own orders?
-- Why not? What happens?
-- Jim, this is one rule you cannot break.
+Why not? What happens?
+Jim, this is one rule you cannot break.
 To stop Nero, you alone must take command of your ship.
-- How? Over your dead body?
-- Preferably not.
+How? Over your dead body?
+Preferably not.
 However, there is
 Starfleet Regulation 619.
 Six-one-nine states that any command officer who's emotionally compromised by the mission at hand must resign said command.
@@ -1270,13 +1270,13 @@ Bring up the video.
 Security, seal the Engineering Deck.
 We have intruders in Turbine Section 3.
 Set phasers to stun.
-- Halt.
-- No, no.
+Halt.
+No, no.
 Come with me, cupcake.
-- Who are you?
-- Im with him.
-- He's with me.
-- We are traveling at warp speed.
+Who are you?
+Im with him.
+He's with me.
+We are traveling at warp speed.
 How did you manage to beam aboard this ship?
 Well, you're the genius, you figure it out.
 As acting captain of this vessel,
@@ -1285,32 +1285,32 @@ Well, Im not telling, Acting Captain.
 What, did...
 That doesn't frustrate you, does it?
 My lack of cooperation?
-- That doesn't make you angry.
-- Are you a member of Starfleet?
+That doesn't make you angry.
+Are you a member of Starfleet?
 I... Yes. Can I get a towel, please?
 Under penalty of court martial,
 I order you to explain to me how you were able to beam aboard this ship while moving at warp.
-- Well...
-- Don't answer him.
+Well...
+Don't answer him.
 You will answer me.
-- Id rather not take sides.
-- What is it with you, Spock?
+Id rather not take sides.
+What is it with you, Spock?
 Your planet was just destroyed, your mother murdered,
-- and you're not even upset.
-- If you are presuming that these experiences in any way impede my ability to command this ship,
-- you are mistaken.
-- And yet, you are the one who said fear was necessary for command. I mean, did you see his ship?
+and you're not even upset.
+If you are presuming that these experiences in any way impede my ability to command this ship,
+you are mistaken.
+And yet, you are the one who said fear was necessary for command. I mean, did you see his ship?
 Did you see what he did?
-- Yes, of course I did.
-- So are you afraid or aren't you?
+Yes, of course I did.
+So are you afraid or aren't you?
 I will not allow you to lecture me about the merits of emotion.
-- Then why don't you stop me?
-- Step away from me, Mr. Kirk.
+Then why don't you stop me?
+Step away from me, Mr. Kirk.
 What is it like not to feel anger?
 Or heartbreak?
 Or the need to stop at nothing to avenge the death of the woman who gave birth to you?
-- Back away from me.
-- You feel nothing.
+Back away from me.
+You feel nothing.
 It must not even compute for you.
 You never loved her.
 Spock.
@@ -1321,10 +1321,10 @@ I like this ship. You know, it's exciting.
 Well, congratulations, Jim.
 Now we have got no captain, and no goddamn first officer to replace him.
 Yeah, we do.
-- What?
-- Pike made him first officer.
-- You got to be kidding me.
-- Thanks for the support.
+What?
+Pike made him first officer.
+You got to be kidding me.
+Thanks for the support.
 I sure hope you know what you're doing, Captain.
 So do I.
 Attention, crew of the Enterprise.
@@ -1351,18 +1351,18 @@ Whatever the case, we need to get aboard Nero's ship undetected.
 We can't just go in there guns blazing,
 Jim, not with their technology.
 Im telling you, the math doesn't support what you're suggesting. Captain Kirk. Captain Kirk.
-- Captain Kirk.
-- Yes, Mr. Chekov. What is it?
+Captain Kirk.
+Yes, Mr. Chekov. What is it?
 Based on the Narada's course from Vulcan,
 I have projected that Nero will travel past Saturn.
 Like you said, we need to stay invisible to Nero or he will destroy us.
 If Mr. Scott can get us to warp factor 4, and if we drop out of warp behind one of Saturn's moons, say, Titan, the magnetic distortion from the planet's rings will make us invisible to Nero's sensors.
 From there, as long as the drill is not actuated,
-- we can beam aboard the enemy ship.
-- Aye, that might work.
+we can beam aboard the enemy ship.
+Aye, that might work.
 Wait a minute, kid. How old are you?
-- Seventeen, sir.
-- Oh, good, he's 17.
+Seventeen, sir.
+Oh, good, he's 17.
 Doctor.
 Mr. Chekov is correct.
 I can confirm his telemetry.
@@ -1380,34 +1380,34 @@ All stop in three, two, one.
 Give me one-quarter impulse burst for five seconds.
 Ill do the rest with thrusters.
 On my mark.
-- Aye.
-- Fire.
+Aye.
+Fire.
 Transporter Room.
 We are in position above Titan.
 Really? Fine job, Mr. Sulu. Well done.
-- How are we, Scotty?
-- Unbelievably, sir, the ship is in position.
+How are we, Scotty?
+Unbelievably, sir, the ship is in position.
 Whatever happens, Mr. Sulu, if you think you have the tactical advantage, you fire on that ship, even if we're still onboard. That's an order.
 Yes, sir.
 Otherwise we will contact the Enterprise when we're ready to be beamed back.
 Good luck.
-- I will be back.
-- You better be.
-- Ill be monitoring your frequency.
-- Thank you, Nyota.
-- So her first name's Nyota?
-- I have no comment on the matter.
+I will be back.
+You better be.
+Ill be monitoring your frequency.
+Thank you, Nyota.
+So her first name's Nyota?
+I have no comment on the matter.
 Okey-dokey, then, if there's any common sense in the design of the enemy ship,
 I should be putting you somewhere in the Cargo Bay.
-- Shouldn't be a soul in sight.
-- Energize.
+Shouldn't be a soul in sight.
+Energize.
 Captain, we have Starfleet officers aboard the ship.
-- One of them is Vulcan.
-- No.
+One of them is Vulcan.
+No.
 Ayel.
 Ill cover you.
-- Are you certain?
-- Yeah, I got you.
+Are you certain?
+Yeah, I got you.
 Do you know where it is?
 The black hole device.
 And Captain Pike.
@@ -1427,13 +1427,13 @@ Stardate 2387. Commissioned by the Vulcan Science Academy.
 It appears that you have been keeping important information from me.
 You're going to be able to fly this thing, right?
 Something tells me I already have.
-- Good luck.
-- Jim.
+Good luck.
+Jim.
 The statistical likelihood that our plan will succeed is less than 4.3%.
-- It will work.
-- In the event that I do not return,
-- please tell Lieutenant Uhura...
-- Spock.
+It will work.
+In the event that I do not return,
+please tell Lieutenant Uhura...
+Spock.
 Itll work.
 Fascinating.
 Start-up sequence initiated.
@@ -1448,47 +1448,47 @@ The Vulcan ship has been taken.
 The drill has been destroyed.
 Spock.
 Spock.
-- Open a channel.
-- Yes, sir.
+Open a channel.
+Yes, sir.
 Spock. I knew I should have killed you when I had the chance.
 I hereby confiscate this illegally obtained ship and order you to surrender your vessel.
-- No terms. No deals.
-- That ship, take it out.
+No terms. No deals.
+That ship, take it out.
 Sir, if you ignite the red matter,
-- you will destroy...
-- I want Spock dead now.
-- He went to warp, sir.
-- Go after him.
+you will destroy...
+I want Spock dead now.
+He went to warp, sir.
+Go after him.
 Yes, sir.
 Your species is even weaker than I expected.
-- I can't...
-- You can't what?
+I can't...
+You can't what?
 You can't even speak.
-- What?
-- I got your gun.
+What?
+I got your gun.
 What's he doing?
 Ambassador Spock, you are on a collision course.
 Fire everything.
 Incoming missiles. If the ship is hit, the red matter will be ignited.
 Understood.
 Captain, Ive picked up another ship.
-- What are you doing here?
-- Just following orders.
+What are you doing here?
+Just following orders.
 Enterprise, now.
 Nice timing, Scotty.
 Ive never beamed three people from two targets onto one pad before.
-- Jim.
-- Bones.
+Jim.
+Bones.
 I got him.
 That was pretty good.
 Captain, the enemy ship is losing power. Their shields are down, sir.
-- Hail them now.
-- Aye.
+Hail them now.
+Aye.
 This is Captain James T. Kirk of the U.S.S. Enterprise.
 Your ship is compromised.
 Too close to the singularity to survive without assistance, which we are willing to provide.
-- Captain, what are you doing?
-- Showing them compassion may be the only way to earn peace with Romulus.
+Captain, what are you doing?
+Showing them compassion may be the only way to earn peace with Romulus.
 Its logic, Spock.
 I thought you'd like that.
 No, not really. Not this time.
@@ -1497,24 +1497,24 @@ I would rather die in agony than accept assistance from you.
 You got it.
 Arm phasers. Fire everything we have got.
 Yes, sir.
-- Sulu, let's go home.
-- Yes, sir.
-- Why aren't we at warp?
-- We are, sir.
+Sulu, let's go home.
+Yes, sir.
+Why aren't we at warp?
+We are, sir.
 Kirk to Engineering.
 Get us out of here, Scotty.
 You bet your ass, Captain.
 Captain, we're caught in the gravity well.
 Its got us.
-- Go to maximum warp. Push it.
-- Im giving her all she's got, Captain.
+Go to maximum warp. Push it.
+Im giving her all she's got, Captain.
 All she's got isn't good enough.
-- What else you got?
-- Okay, if we eject the core and detonate, the blast could be enough to push us away.
+What else you got?
+Okay, if we eject the core and detonate, the blast could be enough to push us away.
 I cannot promise anything, though.
 Do it, do it, do it.
-- Clear the area. Go.
-- Yes, sir.
+Clear the area. Go.
+Yes, sir.
 Father.
 I am not our father.
 There are so few Vulcans left.
@@ -1524,11 +1524,11 @@ Because you needed each other.
 I could not deprive you of the revelation of all that you could accomplish together, of a friendship that will define you both in ways you cannot yet realize.
 How did you persuade him to keep your secret?
 He inferred that universe-ending paradoxes would ensue
-- should he break his promise.
-- You lied.
+should he break his promise.
+You lied.
 I... I implied.
-- A gamble.
-- An act of faith.
+A gamble.
+An act of faith.
 One I hope that you will repeat in the future in Starfleet.
 In the face of extinction, it is only logical
 I resign my Starfleet commission and help rebuild our race.
@@ -1546,8 +1546,8 @@ It is my honor to award you with this commendation.
 By Starfleet Order 28455, you are hereby directed to report to Admiral Pike, U.S.S. Enterprise, for duty as his relief.
 I relieve you, sir.
 I am relieved.
-- Thank you, sir.
-- Congratulations, Captain.
+Thank you, sir.
+Congratulations, Captain.
 Your father would be proud.
 Thrusters on full.
 Maneuvering thrusters and impulse engines at your command, sir.
@@ -1566,8 +1566,8 @@ I can provide character references.
 It would be my honor, Commander.
 Maneuvering thrusters, Mr. Sulu.
 Thrusters on standby.
-- Take us out.
-- Aye-aye, Captain.
+Take us out.
+Aye-aye, Captain.
 Space, the final frontier.
 These are the voyages of the Starship Enterprise.
 Her ongoing mission, to explore strange new worlds, to seek out new life-forms and new civilizations, to boldly go where no one has gone before.

@@ -76,8 +76,8 @@ We've found it!
 Why can't I go outside?
 The outside world is a dangerous place.
 Filled with horrible, selfish people.
-- You must stay here, where you're safe. Do you understand, flower?
-- Yes, Mommy.
+You must stay here, where you're safe. Do you understand, flower?
+Yes, Mommy.
 <i>But the walls of that tower,</i>
 <i>could not hide everything.</i>
 <i>Each year on her birthday, the King and Queen</i>
@@ -134,8 +134,8 @@ Oh, come on Pascal, it's not so bad in there.
 <i>might just let me go.*</i>
 Wow!
 I could get used to a view like this.
-- Ryder, come on.
-- Hold on.
+Ryder, come on.
+Hold on.
 Yep, I'm used to it.
 Guys I want a castle.
 We do this job, you could buy your own castle.
@@ -150,8 +150,8 @@ Oh, the things we've seen and it's only eight in the morning.
 Gentlemen, this is a very big day.
 This is it. This is a very big day, Pascal.
 I'm finally going to do it.
-- I'm going to ask her.
-- RAPUNZEL!
+I'm going to ask her.
+RAPUNZEL!
 Let down your hair.
 It's time.
 I know, I know. Come on, don't let her see you.
@@ -172,14 +172,14 @@ I'm just teasing, stop taking everything so seriously.
 Okay, so mother. As I was saying, tomorrow...
 Rapunzel, mother's feeling a little run down.
 Would you sing for me, dear?
-- Then we'll talk.
-- OH! Of course, mother.
+Then we'll talk.
+OH! Of course, mother.
 <i>*Flower gleam and glow, Let your power shine,</i>
 <i>Make the clock reverse, bring back what once was mine.*</i>
 <i>*Heal what has been hurt, Change the fate's design.</i>
 <i>Save what has been lost, Bring back what once was mine.*</i>
-- Rapunzel!
-- So, mother,
+Rapunzel!
+So, mother,
 Earlier I was saying that tomorrow was a pretty big day, and you didn't really respond,
 So I'm just going to tell you.
 It's my birthday!
@@ -198,8 +198,8 @@ It's very annoying.
 I'm just teasing, you're adorable
 I love you so much, darling.
 Oh, I want to see the floating lights.
-- What?
-- Oh,...
+What?
+Oh,...
 Well I was hoping you would take me to see the floating lights.
 Oh, you mean the stars.
 That's the thing
@@ -264,8 +264,8 @@ Look at you, as fragile as a flower.
 <i>*Mother understands,</i>
 <i>Mothers here to help you.*</i>
 <i>*All I have is one request.*</i>
-- Rapunzel?
-- Yes?
+Rapunzel?
+Yes?
 Don't ever ask to leave this tower, again.
 Yes, Mother.
 Ahh, I love you very much, dear.
@@ -291,8 +291,8 @@ Now help us up, pretty boy.
 Sorry, my hands are full.
 What?
 RYDER!
-- Retrieve that satchel with any force.
-- Yes, sir!
+Retrieve that satchel with any force.
+Yes, sir!
 We got him now, Maximus.
 Heeyah!
 Heeyah! Come flea-bag, forward.
@@ -301,8 +301,8 @@ No, stop it.
 Stop it.
 Give it to me.
 HAH!
-- AHHHHH!
-- WHINNEYY!
+AHHHHH!
+WHINNEYY!
 Oh!
 Alone at last.
 Huh?
@@ -333,14 +333,14 @@ I'm leading up to that.
 Because I really thought we dropped the issue, sweetheart.
 No Mother, I'm just saying, you think I'm not strong enough to handle myself out there.
 Oh darling, I know you're not strong enough to handle yourself out there.
-- But if you just...
-- Rapunzel, we're done talking about this.
-- Trust me,...
-- Rapunzel.
-- ...I know what I'm
-- Rapunzel.
-- Oh, come on.
-- Enough with the lights, Rapunzel.
+But if you just...
+Rapunzel, we're done talking about this.
+Trust me,...
+Rapunzel.
+...I know what I'm
+Rapunzel.
+Oh, come on.
+Enough with the lights, Rapunzel.
 You are not leaving this tower,
 EVER!
 Oh, great. Now I'm the bad guy.
@@ -379,8 +379,8 @@ The name's Flynn Ryder.
 How's your day going, huh?
 Who else knows my location,
 Flynn Ryder?
-- All right, Blondie.
-- Rapunzel.
+All right, Blondie.
+Rapunzel.
 Gesundheit, here's the deal.
 I was in a situation,
 Gallivanting through the forest.
@@ -392,10 +392,10 @@ Huh?
 Ahh, will you stop that.
 Now it's hidden where you'll never find it.
 So, what do you want, with my hair?
-- To cut it?
-- What?
-- Sell it?
-- No!
+To cut it?
+What?
+Sell it?
+No!
 Listen, the only thing I want to do with your hair, is to get out of it.
 Literally.
 Wait, you don't want my hair?
@@ -410,8 +410,8 @@ I think he's telling the truth, too.
 Doesn't have fangs, but what choice do I have?
 Uh, okay Flynn Ryder,
 I'm prepared to offer you a deal.
-- Deal?
-- Look this way.
+Deal?
+Look this way.
 Oh... oomph!
 Do you know what these are?
 You mean the lantern thing they do for the princess?
@@ -427,8 +427,8 @@ Yeah, no can do.
 Unfortunately, the kingdom and I aren't exactly, simpatico, at the moment. So I won't be taking you anywhere.
 Something brought you here,
 Flynn Ryder.
-- Call it what you will, fate, destiny.
-- A horse.
+Call it what you will, fate, destiny.
+A horse.
 So I have made the decision to trust you.
 A horrible decision, really.
 But trust me, when I tell you this.
@@ -446,8 +446,8 @@ This is kind of an off day for me.
 This doesn't normally happen.
 Fine, I'll take you to see the lanterns.
 Really!
-- Ooops.
-- You broke my 'smolder'.
+Ooops.
+You broke my 'smolder'.
 You coming, Blondie?
 <i>*Look at the world so close, and I'm</i>
 <i>half way to it*</i>
@@ -487,8 +487,8 @@ I am a despicable human being.
 WAHHOOOOO!
 Best day, ever!
 You know, I can't help but notice, you seem a little at war with yourself, here.
-- What?
-- Now, I'm only picking up bits and pieces, of course, over protective mother, forbidden road trip.
+What?
+Now, I'm only picking up bits and pieces, of course, over protective mother, forbidden road trip.
 I mean, this is serious stuff.
 But let me ease your conscious.
 This is part of growing up.
@@ -502,21 +502,21 @@ Will this break her heart and crush her soul?
 Of course.
 But you just got to do it.
 Break her heart?
-- In half.
-- Crush her soul?
+In half.
+Crush her soul?
 Like a grape.
 She would be heart broken, you're right.
 I am, oh my, oh bother.
 All right, I can't believe I'm saying this, but...
 I'm letting you out of the deal.
-- What?
-- That's right.
+What?
+That's right.
 But don't thank me. Let's just turn around, and get you home, here's your pan and your frog.
 I get back my satchel.
 You get back a mother daughter relationship based on mutual trust and viola!
 We part ways as unlikely friends.
-- No, I am seeing those lanterns.
-- Oh, come on!
+No, I am seeing those lanterns.
+Oh, come on!
 What is it going to take to get my satchel back?
 I will use this.
 Is it, ruffians, thugs?
@@ -528,8 +528,8 @@ Probably be best if we avoid ruffians and thugs, though.
 Yeah, that probably be best.
 Are you hungry?
 I know a great place for lunch.
-- Where?
-- Oh, don't you worry.
+Where?
+Oh, don't you worry.
 You'll know it when you smell it.
 Oh, a Palace horse.
 Where's your rider?
@@ -544,8 +544,8 @@ Ah, there it is.
 The Snuggly duckling.
 Don't worry, very quaint place, perfect for you.
 Don't want you scaring, and giving up on this whole endeavor now do we?
-- Well, I do like duckling.
-- YAY!
+Well, I do like duckling.
+YAY!
 Garcon, your finest table, please.
 You smell that?
 Take a deep breath through the nose.
@@ -571,11 +571,11 @@ That reward's going to buy me a new hook.
 I can use the money.
 What about me?
 I'm broke.
-- Boys, stop!
-- We can work this out.
+Boys, stop!
+We can work this out.
 Hey, leave him alone.
-- Gentlemen, please.
-- Give me back my guide, ruffians.
+Gentlemen, please.
+Give me back my guide, ruffians.
 HOO, HAH, HOO, HOO!
 Not the nose, not the nose, not the nose!
 Put him down!
@@ -646,8 +646,8 @@ Once.
 <i>*And Vladimir collects</i>
 <i>ceramic unicorns.*</i>
 What about you?
-- I'm sorry, me?
-- What's your dream?
+I'm sorry, me?
+What's your dream?
 No, no, no. Sorry boys,
 I don't sing.
 <i>*I have dreams like you,</i>
@@ -716,12 +716,12 @@ Whoa, whoa, sorry Blondie,
 I don't do back story.
 However I am becoming very interested in yours.
 Now I... I know I'm not suppose to mention the hair.
-- Nope.
-- Or, the Mother.
-- Uh, uh.
-- Frankly I'm to scared to ask about the frog.
-- Chameleon.
-- Nuance.
+Nope.
+Or, the Mother.
+Uh, uh.
+Frankly I'm to scared to ask about the frog.
+Chameleon.
+Nuance.
 Here's my question though, if you want to see the lanterns so badly, why haven't you gone before?
 Uhh, hey, well...
 Uh, Flynn...
@@ -730,10 +730,10 @@ Run,
 RUN!
 Who's that?
 They don't like me.
-- Who's that?
-- They don't like me either.
-- Who's that?
-- Lets just assume for the moment, that everyone here doesn't like me.
+Who's that?
+They don't like me either.
+Who's that?
+Lets just assume for the moment, that everyone here doesn't like me.
 Here.
 I've waited a long time for this.
 Oh mama, I have got to get me one of these.
@@ -742,8 +742,8 @@ You should know that this is the strangest thing I've ever done.
 How 'bout two out of three?
 Flynn!
 Flynn, look out.
-- Whoa, WHOAAA!
-- Hold on.
+Whoa, WHOAAA!
+Hold on.
 You should see your faces.
 Because you look...
 Ridiculous
@@ -773,10 +773,10 @@ We're alive.
 I'm alive!
 I didn't see that coming.
 You're hair actually glows.
-- Eugene...
-- Why does her hair glow?
-- Eugene!
-- What?
+Eugene...
+Why does her hair glow?
+Eugene!
+What?
 It doesn't just glow.
 Why is he smiling at me?
 I'll kill him.
@@ -805,8 +805,8 @@ Just don't, don't freak out.
 <i>*Save what has been lost.*</i>
 <i>*Bring back what once was mine.*</i>
 <i>*What once was mine.*</i>
-- Ah...
-- Please don't freak out.
+Ah...
+Please don't freak out.
 Ahhh. I'm not freaking out, are you freaking out?
 No, I'm just very interested in your hair. and the magical qualities that it possesses.
 How long has it been doing that, exactly?
@@ -854,30 +854,30 @@ But I... I..., don't we...
 How did you find me?
 Oh, it was easy really.
 I just listened for the sound of complete and utter betrayal, and followed that.
-- Mother...
-- We're going home, Rapunzel.
-- Now.
-- You... You don't understand.
+Mother...
+We're going home, Rapunzel.
+Now.
+You... You don't understand.
 I've been on this incredible journey.
 And I've seen and learned so much.
 I even met someone.
 Yes, the wanted thief.
 I'm so proud.
-- Come on, Rapunzel.
-- Mother, wait.
+Come on, Rapunzel.
+Mother, wait.
 I think
 I think he likes me.
 Likes you? Please, Rapunzel, that's demented.
-- But mother, I...
-- This is why you never should have left.
+But mother, I...
+This is why you never should have left.
 Dear this whole romance that you've invented, just proves you're to naive to be here.
 Why would he like you?
 Oh come on now, really.
 Look at you, you think that he's impressed?
 Don't be a dummy, come with mommy.
 <i>*Mother...*</i>
-- NO!
-- No?
+NO!
+No?
 Oh.
 I see how it is.
 <i>*Rapunzel, knows best.*</i>
@@ -920,8 +920,8 @@ Well I hope you're here to apologize.
 AAAAAAAH!
 No, no put me down.
 Stop it. Let... me... go!
-- Give me, him.
-- OW!
+Give me, him.
+OW!
 Whoa!
 Whoa, whoa, whoa, whoa.
 Easy boy, easy, calm down.
@@ -929,8 +929,8 @@ Easy boy.
 Easy.
 That's it.
 Now sit.
-- Sit.
-- What?
+Sit.
+What?
 Now drop the boot.
 Drop it.
 Oh, you are such a good boy.
@@ -1048,8 +1048,8 @@ The crown is all yours.
 I'll miss you, but I think its for the... best.
 Holding out on us again?
 Hey, Ryder?
-- What?
-- We heard you found something.
+What?
+We heard you found something.
 Something much more valuable than a crown.
 We want her, instead.
 I was starting to think you ran off with the crown and left me.
@@ -1073,8 +1073,8 @@ Oh, my precious girl.
 Mother.
 Are you all right?
 Are you hurt?
-- Mother, how did you?
-- I was so worried about you dear.
+Mother, how did you?
+I was so worried about you dear.
 So I followed you.
 And I saw them attack you.
 All right, let's go, let's go before they come to.
@@ -1123,18 +1123,18 @@ Why would you ask such a ridiculous question?
 It was you!
 It was all, you.
 Everything I did, was to protect you.
-- Rapunzel.
-- I spent my entire life,
+Rapunzel.
+I spent my entire life,
 Hiding from people who would use me for my power.
-- Rapunzel!
-- And I should have been hiding.
+Rapunzel!
+And I should have been hiding.
 From you.
 Where will you go?
 He won't be there for you.
 What did you do to him?
 That criminal, is to be hanged for his crimes.
-- No.
-- Now, now. It's all right.
+No.
+Now, now. It's all right.
 Listen to me.
 All of this is as it should be.
 NO!
@@ -1147,8 +1147,8 @@ Now I'm the bad, guy.
 What's this?
 Open up.
 What's the password?
-- What?
-- Nope.
+What?
+Nope.
 Open this door.
 Not even close.
 You have three seconds
@@ -1158,12 +1158,12 @@ Three...
 Frying pans.
 Who knew, right?
 AAAAH!
-- Head down?
-- Head down.
-- Arms in?
-- Arms in.
-- Knees apart?
-- Knees apart.
+Head down?
+Head down.
+Arms in?
+Arms in.
+Knees apart?
+Knees apart.
 Knees apart?
 Why do I need to keep my knees apar...
 AAAAAAAAH!
@@ -1206,17 +1206,17 @@ In case you get any ideas about following us.
 Eu..Eugene!
 Ah, AHHH!
 Oh, I'm so sorry.
-- Everything is going to okay, though.
-- No, Rapunzel!
-- I promise, you have to trust me.
-- No..
-- Come on.
-- I can't let you do this.
+Everything is going to okay, though.
+No, Rapunzel!
+I promise, you have to trust me.
+No..
+Come on.
+I can't let you do this.
 And I can't let you die.
-- But if you do this.
-- Shhh.
-- Then you... will die.
-- Hey.
+But if you do this.
+Shhh.
+Then you... will die.
+Hey.
 It's gonna be all right.
 Rapunzel, wait...
 Eugene, what...?
@@ -1237,8 +1237,8 @@ Don't go, stay with me, Eugene.
 <i>Let your powers shine*</i>
 <i>*Make the clock reverse,</i>
 <i>bring back what once was mine.*</i>
-- Rapunzel...
-- What?
+Rapunzel...
+What?
 You were my new dream.
 And you were mine.
 <i>*Heal what has been hurt.*</i>

@@ -50,8 +50,8 @@ Well, where I get hazy is where the cleaning woman shows up the following mornin
 Now, does that strike you as a fantastic coincidence, Mr. Dufresne, or is it just me?
 <font color="#ff00ff">(Whispers)</font> Yes, it does.
 Yet you still maintain that you threw your gun into the river before the murders took place?
-- That's very convenient.
-- It's the truth.
+That's very convenient.
+It's the truth.
 <font color="#808080">DA :</font> The police dragged that river for three days, and nary a gun was found.
 So, there could be no comparison made between your gun and the bullets taken from the bloodstained corpses of the victims.
 And that also... is very convenient.
@@ -111,8 +111,8 @@ It happens.
 Hey, Red. Bump me a deck.
 Get the fuck out of my face, will you, man?
 You've had five packs already.
-- Four.
-- Five.
+Four.
+Five.
 <i><font color="#808000">RED :</font> There must be a con like me in every prison in America.</i>
 <i>I'm the guy who can get it for you.</i>
 <i>Cigarettes, a bag of reefer - if that's your thing -</i>
@@ -138,22 +138,22 @@ You follow this officer.
 I haven't seen such a sorry-looking heap of m-m-maggot shit in all my life.
 <font color="#808080">MAN :</font> Hey, fish! Come over here.
 <font color="#ff00ff">(Shouting)</font>
-- Come on, fish.
+Come on, fish.
 Taking bets today, Red?
 Smokes or coins? Better's choice.
 Smokes. Put me down for two.
 All right. Who's your horse?
 That little sack of shit...eighth from the front.
 He'll be first.
-- Bullshit. I'll take that action.
-- Me too.
+Bullshit. I'll take that action.
+Me too.
 You're out some smokes, son. Let me tell you.
 Heywood, you're so smart, you call it.
 I'll take...t-t-the chubby fat-ass there.
 The fifth one from the front.
 Put me down for a quarter deck.
 <font color="#ff00ff">(Men shouting)</font>
-- Fresh fish!
+Fresh fish!
 Fresh fish today! We're reeling them in!
 <i>RED: I must admit, I didn't think much of Andy, first time I laid eyes on him.</i>
 <i>Looked like a stiff breeze would blow him over.</i>
@@ -230,13 +230,13 @@ Lights out!
 <i>Hey, fish.</i>
 <i>Fish, fish, fish, fish, fishy.</i>
 <i>- Boy, are you scared of the dark?
-- You like it here, new fish?</i>
+You like it here, new fish?</i>
 <i>You'll wish your daddy never dicked your mommy.</i>
 <i>Fishy! Oh, I want me a pork chop. Oh, yes!</i>
 <i>You taking this down, new fish?
 There's gonna be a quiz later!</i>
 <i>- Poke your ass out, give me a first look!
-- Shh! Keep it down.</i>
+Shh! Keep it down.</i>
 <i><font color="#808080">RED :</font> The boys always go fishing with first-timers.</i>
 <i>They don't quit till they reel someone in.</i>
 <font color="#ff00ff">(Men whispering in background)</font>
@@ -301,8 +301,8 @@ Andy Dufresne cost me two packs of cigarettes.</i>
 Tier 2 South. Clear.
 Tier 3 South. Clear.
 Tier 1 North...
-- Tier 1 South. Clear.
-- Tier 4 South. Clear.
+Tier 1 South. Clear.
+Tier 4 South. Clear.
 Prepare to roll out.
 <font color="#808080">GUARD :</font> Roll out!
 Are... Are you going to eat that?
@@ -319,12 +319,12 @@ You know why it's a fine morning, don't you?
 Come on. Set 'em down.
 I want 'em all lined up here, just like a pretty little chorus line.
 Yeah, look at that!
-- Look at that. Oh, Lord!
-- I can't stand this guy.
+Look at that. Oh, Lord!
+I can't stand this guy.
 <font color="#ff00ff">(Inhales)</font>
 Yes. Richmond, Virginia.
-- Smell my ass!
-- After he smells mine.
+Smell my ass!
+After he smells mine.
 Gee, Red, it was a terrible shame about your horse coming in last, an' all.
 But I sure do love that winning horse of mine, though.
 I owe that boy a great big, sloppy kiss when I see him.
@@ -367,28 +367,28 @@ I didn't, since you ask.
 <font color="#ff00ff">(Laughs)</font> You're gonna fit right in!
 Everybody in here's innocent.
 Didn't you know that?
-- Heywood, what are you in here for?
-- Didn't do it. Lawyer fucked me.
+Heywood, what are you in here for?
+Didn't do it. Lawyer fucked me.
 Rumor has it you're a real cold fish.
 You think your shit smells sweeter than most.
 Is that right?
-- What do you think?
-- To tell you the truth,
+What do you think?
+To tell you the truth,
 I haven't made up my mind. <font color="#ff00ff">(Chuckles)</font>
 I understand you're a man that knows how to get things.
 I'm known to locate certain things, from time to time.
-- I wonder if you might get me a rock hammer.
-- A what?
+I wonder if you might get me a rock hammer.
+A what?
 A rock hammer.
-- What is it, and why?
-- What do you care?
+What is it, and why?
+What do you care?
 Well, if it was a toothbrush, I'd just quote a price, but then a toothbrush is a non-lethal object.
 Fair enough.
 A rock hammer is about six or seven inches long.
 Looks like a miniature pickaxe.
 Pickaxe?
-- For rocks.
-- Rocks.
+For rocks.
+Rocks.
 Quartz?
 Quartz.
 And some mica.
@@ -463,8 +463,8 @@ Red...
 <i>It would take a man about 600 years to tunnel under the wall with one of these.</i>
 Book?
 Not today.
-- Book?
-- No.
+Book?
+No.
 Hey, Brooksy.
 Delivery for Dufresne.
 Book?
@@ -530,8 +530,8 @@ Oil wells and shit. Close to a million bucks.
 Fucking incredible how lucky some assholes get.
 Jeez-Louise! Are you gonna see any of that?
 35,000. That's what he left me.
-- Dollars?
-- Yeah.
+Dollars?
+Yeah.
 Holy shit! That's great.
 That's like winning the sweepstakes.
 Isnât it?
@@ -550,10 +550,10 @@ Repair, maintenance, goddamn kids pestering me to take them for a ride...
 And at the end of the year, you figure the tax wrong, you pay them out of your own pocket.
 I tell you...Uncle Sam!
 He puts his hand in your shirt and squeezes your tit till it's purple.
-- Andy! Andy!
-- What's he doing?
-- Getting himself killed.
-- Keep tarring.
+Andy! Andy!
+What's he doing?
+Getting himself killed.
+Keep tarring.
 Some brother! Shit.<font color="#ff00ff"> (Spits)</font>
 Hey!
 Mr. Hadley... do you trust your wife?
@@ -564,10 +564,10 @@ That's it. Step aside, Mert.
 This fucker's having an accident.
 He's gonna push him off.
 Cos if you do trust her, there's no reason you can't keep that 35,000.
-- What did you say?
-- All of it.
-- All of it?
-- Every penny.
+What did you say?
+All of it.
+All of it?
+Every penny.
 You'd better start making sense.
 If you want to keep the money, give it to your wife.
 The IRS allows a one-time-only gift to your spouse for up to $60,000.
@@ -619,8 +619,8 @@ I gave up drinking.
 <i>If only for a short while.</i>
 <font color="#808080">RED :</font> King me.
 Chess. Now, there's a game of kings.
-- What?
-- Civilized, strategic.
+What?
+Civilized, strategic.
 And a total fucking mystery.
 I hate it.
 Maybe you'll let me teach you someday.
@@ -667,8 +667,8 @@ Hah! God, I love it!
 <font color="#ff00ff">(Men cheer and whistle)</font>
 I understand you're a man that knows how to get things.
 Yeah, I'm known to locate certain things from time to time. What do you want?
-- Rita Hayworth.
-- What?
+Rita Hayworth.
+What?
 Can you get her?
 <i>So, this is Johnny Farrell.
 I've heard a lot about you, Johnny.</i>
@@ -678,14 +678,14 @@ Well, yeah, Andy. I don't have her stuffed down the front of my pants right now,
 But I'll get her. Relax.
 Thanks.
 <i>- It was a surprise, Mr. Farrell.
-- It was.</i>
+It was.</i>
 <font color="#808080">MEN :</font> Sit down.
 <i>Did you tell him what I'm doing here?</i>
 <i>No, I wanted to save that as a surprise, too.</i>
 <i>Hang on to your hat, Mr. Farrell...</i>
 <font color="#ff00ff">(Grunts)</font>
-- Take a walk.
-- I gotta change the reel.
+Take a walk.
+I gotta change the reel.
 I said fuck off!
 <font color="#ff00ff">(Door closes as film dialogue continues)</font>
 Ain't you gonna scream?
@@ -745,10 +745,10 @@ What are you, a fucking geologist?
 He's right. It ain't.
 Well, what the hell is it?
 <font color="#808080">RED :</font> A horse apple.
-- Bullshit.
-- No, horse shit. Petrified.
+Bullshit.
+No, horse shit. Petrified.
 <font color="#ff00ff">(Horse whinnies)</font>
-- Oh, Jesus Christ!
+Oh, Jesus Christ!
 <font color="#ff00ff">(Men laugh)</font>
 Oh, damn!
 <i><font color="#808080">RED :</font> Despite a few hitches, the boys came through in fine style.</i>
@@ -840,8 +840,8 @@ So...
 Mr. Dekins...
 And then Andy says to Mr. Dekins,
 "Do you want your sons to go to Harvard,
-- or Yale?"
-- He didn't say that?
+or Yale?"
+He didn't say that?
 As God is my witness, he did!
 Dekins just blinked for a second.
 Then he laughed himself silly.
@@ -860,8 +860,8 @@ Well, it might do more than that.
 How about expanding the library?
 Get some new books in there.
 If you're gonna ask for something, ask for a pool table.
-- Right.
-- How do you expect to do that?
+Right.
+How do you expect to do that?
 I mean, get new books in here,
 Mr. Dufresne, if you please?
 Ask the Warden for funds.
@@ -901,12 +901,12 @@ Hey, Red, can you hand me a stack of 1040s?
 Red, Andy.
 It's Brooks.
 <font color="#ff00ff">(Men shouting)</font>
-- Watch the door.
+Watch the door.
 Please, Brooks.
-- Just calm the fuck down.
-- Stay back!
-- Stay back!
-- What the hell's going on?
+Just calm the fuck down.
+Stay back!
+Stay back!
+What the hell's going on?
 You tell me. One second he's fine.
 Then out comes the knife.
 Brooks, we can talk about this. Right?
@@ -917,12 +917,12 @@ It's what they done!
 I...I got no choice...
 You're not gonna hurt him.
 Even Heywood knows that.
-- Right, Heywood?
-- I...I know that, sure.
+Right, Heywood?
+I...I know that, sure.
 You won't hurt him, because he's a friend, and you're a reasonable man.
 That's right. Right, guys?
-- Yes.
-- So, put the knife down. Brooks, look at me.
+Yes.
+So, put the knife down. Brooks, look at me.
 Put the knife down.
 Brooks...
 Look at his neck, for God's sake.
@@ -947,8 +947,8 @@ I just don't understand what happened in there.
 That's all.
 The old man's as crazy as a rat in a tin shithouse.
 Oh, Heywood, that's enough out of you.
-- I heard he had you shitting in your pants.
-- Fuck you!
+I heard he had you shitting in your pants.
+Fuck you!
 Would you knock it off?
 Brooks ain't no bug.
 He's just...
@@ -1095,8 +1095,8 @@ Dufresne...
 You're mine now.
 <i><font color="#808080">RED :</font> Andy got two weeks in the hole for that little stunt.</i>
 <font color="#ff00ff">(Hadley stops record)</font> On your feet!
-- Hey, look who's here.
-- Maestro!
+Hey, look who's here.
+Maestro!
 Y-Y-You couldn't play something good, huh?
 Hank Williams or something?
 They broke the door down before I could take requests.
@@ -1215,8 +1215,8 @@ Norton failed to mention to the press</i>
 <i>Men, materials, you name it.</i>
 <i>And, oh, my Lord, how the money rolled in.</i>
 If this keeps up, you'll put me out of business.
-- Ned!
-- This pool of slave labor you've got, you can underbid any contractor in town.
+Ned!
+This pool of slave labor you've got, you can underbid any contractor in town.
 Ned, we're providing a valuable community service here.
 Well, that's fine for the papers but I've got a family to feed.
 Sam...
@@ -1235,29 +1235,29 @@ Two deposits.
 Maine National and New England First.
 Night drops as always, sir.
 Get my stuff down to the laundry.
-- Two suits for dry-clean and a bag of whatnot.
-- Yes, sir.
+Two suits for dry-clean and a bag of whatnot.
+Yes, sir.
 Tell them if they over-starch my shirts again, they'll hear about it from me.
 How do I look?
-- Very nice, sir.
-- Big charity to-do up Portland way.
+Very nice, sir.
+Big charity to-do up Portland way.
 The Governor's going to be there.
 Want the rest of this?
 The woman can't bake worth shit.
 Thank you, sir.
-- He's got his fingers in a lot of pies, I hear.
-- What you hear isn't half of it.
+He's got his fingers in a lot of pies, I hear.
+What you hear isn't half of it.
 He's got scams you haven't even dreamed of.
 Kickbacks on his kickbacks.
 There's a river of dirty money running through this place.
 But the problem with having all that money is you'll have to explain
-- where it came from.
-- That's where I come in.
+where it came from.
+That's where I come in.
 I channel it, filter it, funnel it.
 Stocks, securities, tax-free municipals.
 I send that money out into the real world.
-- And when it comes back...
-- Clean as a virgin's honey pot, huh?
+And when it comes back...
+Clean as a virgin's honey pot, huh?
 Cleaner.
 By the time Norton retires,
 I'll have made him a millionaire.
@@ -1344,8 +1344,8 @@ I was thinking of maybe trying for my high school equivalency.
 I hear you helped a couple of fellas with that.
 I don't waste time on losers, Tommy.
 I ain't no goddamn loser.
-- You mean that?
-- Yeah.
+You mean that?
+Yeah.
 You really mean that?
 Yes, sir, I do.
 Good. Because if we do this, we do it all the way, 100%, nothing half-assed.
@@ -1354,10 +1354,10 @@ The thing is, see...
 Well.
 You don't read... so well.
 We'll get to that.
-- R.
-- R...
-- S.
-- S...
+R.
+R...
+S.
+S...
 <i><font color="#808080">RED :</font> So Andy took Tommy under his wing.</i>
 <i>He started walking him through his ABCs.</i>
 <i>Tommy took to it pretty well, too.</i>
@@ -1385,8 +1385,8 @@ Time.
 Well?
 Well, it's for shit.
 I wasted a whole fucking year of my time
-- with this bullshit.
-- It's probably not as bad as you think.
+with this bullshit.
+It's probably not as bad as you think.
 It's worse. I didn't get one thing right.
 It might as well have been in Chinese.
 Let's see how the score comes out.
@@ -1401,8 +1401,8 @@ I feel bad. I let him down.
 Ah, that's crap, kid.
 He's proud of you.
 We've been friends a long time so I know him as good as anybody.
-- A smart fellow, ain't he?
-- As smart as they come.
+A smart fellow, ain't he?
+As smart as they come.
 He used to be a banker on the outside.
 What's he in here for, anyway?
 Murder.
@@ -1470,10 +1470,10 @@ What did you call me?
 Obtuse. Is it deliberate?
 Son, you're forgetting yourself.
 The country club will have his old timecards, records, W-2s,
-- with his name on them.
-- If you indulge this fantasy, that's your business.
-- Don't make it mine. This meeting is over.
-- Sir, if I were to ever get out,
+with his name on them.
+If you indulge this fantasy, that's your business.
+Don't make it mine. This meeting is over.
+Sir, if I were to ever get out,
 I would never mention what goes on in here.
 I'd be as indictable as you for laundering money.
 Don't ever mention money to me again, you sorry son of a bitch!
@@ -1481,13 +1481,13 @@ Not in this office.
 Not anywhere! Get in here now.
 I'm just trying to set your mind at ease, that's all. Sir, I...
 Solitary. A month.
-- Yes, sir.
-- What's the matter with you?
-- Get him out of here.
-- This is my chance to get out! Don't you see that?
+Yes, sir.
+What's the matter with you?
+Get him out of here.
+This is my chance to get out! Don't you see that?
 It's my life! Don't you understand?
-- Get him out! Get him out!
-- This is my life!
+Get him out! Get him out!
+This is my life!
 No!
 A month in the hole.
 It's the longest damn stretch I ever heard of.
@@ -1500,21 +1500,21 @@ It looks that way.
 Sweet Jesus.
 How long's he been here now?
 1947. What is that?
-- 19 years.
+19 years.
 <font color="#808080">TOMMY :</font> 19 years...
 <i><font color="#808080">GUARD :</font> Williams, Thomas.</i>
-- Yeah, over here.
-- Paxon, Edward.
-- Yeah.
+Yeah, over here.
+Paxon, Edward.
+Yeah.
 What you got?
 Board of Education.
-- The son of a bitch mailed it.
-- Looks like he did.
+The son of a bitch mailed it.
+Looks like he did.
 Are you gonna open it or stand there with your thumb up your butt?
 The thumb up my butt sounds better.
 Hey, Skeet, come on, give me that, you shithead.
-- Floyd, come on.
-- Over here, over here!
+Floyd, come on.
+Over here, over here!
 Hey, Red!
 Come on, will you throw that away, please?
 Well, shit.
@@ -1629,8 +1629,8 @@ But outside, all you need is the Yellow Pages.
 Hell, I wouldn't even know where to begin.
 The Pacific Ocean?
 Shit.
-- About scare me to death, something that big.
-- Not me.
+About scare me to death, something that big.
+Not me.
 I didn't shoot my wife and I didn't shoot her lover.
 Whatever mistakes I've made,
 I've paid for them and then some.
@@ -1651,8 +1651,8 @@ Sure, Andy.
 Anything.
 There's a big hayfield up near Buxton.
 You know where Buxton is?
-- Well, just... There's a lot of hayfields up there.
-- One in particular.
+Well, just... There's a lot of hayfields up there.
+One in particular.
 It's got a long rock wall with a big oak tree at the north end.
 It's like something out of a Robert Frost poem.
 It's where I asked my wife to marry me.
@@ -1668,14 +1668,14 @@ What's buried under there?
 You'll have to pry it up to see.
 No, I'm telling you, the guy is...
 He's talking funnier.
-- I'm really worried about him.
-- We ought to keep an eye on him.
+I'm really worried about him.
+We ought to keep an eye on him.
 That's fine during the day, but at night he's got that cell all to himself.
 Oh, Lord.
 What?
 Andy come down to the loading dock today.
-- He asked me for a length of rope.
-- Rope?
+He asked me for a length of rope.
+Rope?
 Six feet long.
 And you gave it to him?
 Sure I did. Why wouldn't I?
@@ -1688,8 +1688,8 @@ Never.
 I don't know.
 Every man has his breaking point.
 Lickety-split.
-- I want to get home.
-- Just about finished, sir.
+I want to get home.
+Just about finished, sir.
 Three deposits tonight.
 Get my stuff down to the laundry.
 And shine my shoes.
@@ -1712,9 +1712,9 @@ The place wasn't the same without you.
 <i>Tier 3 South. Clear.</i>
 <i>Tier 4 North. Clear.</i>
 <i>- Tier 3 North. Clear.</i>
-- Man missing on Tier 2.
-- Cell 245.
-- Dufresne.
+Man missing on Tier 2.
+Cell 245.
+Dufresne.
 Get your ass out here, boy.
 You're holding up the show.
 Don't make me come down there.
@@ -1727,8 +1727,8 @@ You hear me?
 Oh, my holy God.
 <font color="#ff00ff">(Siren wails)</font>
 I want every man on this cell block questioned.
-- Start with that friend of his.
-- Who?
+Start with that friend of his.
+Who?
 Him!
 Open 237.
 What do you mean, he just wasn't here?
@@ -1741,8 +1741,8 @@ Is that what you're saying? Am I blind, Haig?
 No, sir.
 What about you?
 Are you blind?
-- Tell me what this is.
-- Last night's count.
+Tell me what this is.
+Last night's count.
 You see Dufresne's name there?
 I sure do. See? Right there.
 Dufresne.
@@ -1841,8 +1841,8 @@ Will there be anything else?
 Please...
 Would you add this to your outgoing mail?
 I'd be happy to.
-- Good day, sir.
-- Good day.
+Good day, sir.
+Good day.
 <i><font color="#808080">RED :</font> Mr. Stevens visited nearly a dozen banks in the Portland area that morning.</i>
 <i>All told, he blew town with better than $370,000 of Warden Norton's money.</i>
 <i>Severance pay for 19 years.</i>
@@ -1889,8 +1889,8 @@ And he says, "I believe this boy's about to have himself an accident."
 <i><font color="#808080">RED :</font> Those of us who knew him best talk about him often.</i>
 <i>I swear, the stuff he pulled...</i>
 "These friends of mine could use a couple of beers!"
-- And he got it.
-- And he got it!
+And he got it.
+And he got it!
 <i><font color="#808080">RED :</font> Sometimes it makes me sad, though,</i>
 <i>Andy being gone.</i>
 <i>I have to remind myself that some birds aren't meant to be caged.</i>

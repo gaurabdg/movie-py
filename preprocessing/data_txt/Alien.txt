@@ -10,10 +10,10 @@
 <i>[ Parker] What you say? You got any biscuits over there?</i>
 <i>[ Ripley]
 I keep seeing corn bread.</i>
-- I am cold.
-- Still with us, Brett?
-- <i>Right.</i>
-- <i>Oh, /fee/ dead.</i>
+I am cold.
+Still with us, Brett?
+<i>Right.</i>
+<i>Oh, /fee/ dead.</i>
 Anybody ever tell you you look dead, man?
 [ <i>Mouthing Words</i> ]
 <i>[Parker] Oh, yeah, r/jght.</i>
@@ -21,8 +21,8 @@ Now, I just forgot something, man.
 Before we dock,
 <i>I think we oughta discuss the bonus situation.</i>
 <i>Fï¬ght. Brett and I, we think we oughta-</i>
-- We deserve full shares, right, baby?
-- You see, Mr. Parker and I... feel that the bonus situation has never been on an equitable level.
+We deserve full shares, right, baby?
+You see, Mr. Parker and I... feel that the bonus situation has never been on an equitable level.
 Well, you'll get what you're contracted for like everybody else.
 Yes, but everybody else gets more than us.
 <i>[</i> Mon/for Beep/ng <i>]</i>
@@ -41,12 +41,12 @@ It's the only thing good on this ship.
 Morning, Mother.</i>
 [ Beeping, Whirring ]
 <i>[ Voice Over Radio, indistinct]</i>
-- Right.
-- Okay.
+Right.
+Okay.
 Plug us in.
 Thank you.
-- Where's Earth?
-- You should know.
+Where's Earth?
+You should know.
 It's not our system.
 Scan.
 <i>[ Sighs ]
@@ -70,8 +70,8 @@ That's hard</i> to <i>believe.</i>
 <i>[ Lambert ] What the hell are we doing out here?</i>
 I don't know.
 What the hell are you talking about?
-- That's not our system.
-- I know that.
+That's not our system.
+I know that.
 <i>[Loud Rumb/ing ]</i> [ Parker] Do you ever notice how they never come down here?
 I mean, this is where the work is, right?
 Well, it's the same damn reason we get a half share to their one.
@@ -92,8 +92,8 @@ I'm sorry.
 <i>[ Parker]
 What's happenin' now, baby?</i>
 Well, some of you may have figured out we're not home yet.
-- We're only halfway there.
-- What?
+We're only halfway there.
+What?
 Mother's interrupted the course of our journey.
 Why?
 <i>Yeah.</i>
@@ -115,8 +115,8 @@ I hate to bring this up, but, uh, this is a commercial ship, not a rescue ship.
 Right. And it's not in my contract to do this kind of duty.
 And what about the money? If you wanna give me some money, I'll be happy to oblige.
 The man's right. Let's go over the bonus situation.
-- <i>I'm</i> sorry. <i>Can</i> I <i>say something?</i>
-- <i>Let's talk about the bonus more.</i>
+<i>I'm</i> sorry. <i>Can</i> I <i>say something?</i>
+<i>Let's talk about the bonus more.</i>
 There is a clause in the contract which specifically states... any systematized transmission indicating a possible intelligent origin... must be investigated.
 I don't wanna hear it.
 We don't know if it's intelligent.
@@ -124,8 +124,8 @@ I wanna go home and party.
 Parker, will you just listen to the man?
 On penalty of total forfeiture of shares. No money.
 You got that?
-- [ Chuckling] Well, yeah.
-- All right, we're going in.
+[ Chuckling] Well, yeah.
+All right, we're going in.
 Yeah. We're goin' in, aren't we?
 <i>[ Lambert Over Radio]
 Approaching orbital apogee.</i>
@@ -135,8 +135,8 @@ Equatorial orbit nailed.
 <i>[ Kane] Grids energized. Fields focused.
 Five. Four-</i>
 <i>[ Dallas, indistinct]</i>
-- D.O.R.'s on line.
-- How's the status on the lifters?
+D.O.R.'s on line.
+How's the status on the lifters?
 Give me an A.C. pressure reading.
 Forty-eight seconds and counting.
 <i>[ Ripley Over Radio]
@@ -199,10 +199,10 @@ Kill drive engines.
 <i>[ Alarm BIaring]</i>
 What the hell happened?
 <i>[Alarm</i> B/ar/ng <i>]</i> Somebody give me a straight answer!
-- Is the hull breached?
-- I don't see anything. We've still got pressure.
-- Hit the screen.
-- Right.
+Is the hull breached?
+I don't see anything. We've still got pressure.
+Hit the screen.
+Right.
 <i>[ Wind Howling]</i>
 <i>[ Parker Over Radio]
 Secondary load sharing unit...</i>
@@ -281,8 +281,8 @@ Don't worry, Parker. You'll get whatever's coming to you.
 Look, I'm not gonna do any more work... till we get this straightened out.
 Brett', you're guaranteed by law to get a share.
 [Parker] <i>What'?</i>
-- Why don't you just fuck off.
-- What?
+Why don't you just fuck off.
+What?
 <i>[ Brett] _
 What'd you say, RIP?</i>
 If you have any trouble,
@@ -403,10 +403,10 @@ I'm</i> right here.
 Okay, Ripley, I'm at the inner lock hatch now. R/jghz'.
 Ripley. We're clean. Let us in.
 R/jghz' <i>here.</i>
-- What happened to Kane?
-- Something has attached itself to him.
-- We have to get him to the infirmary right away.
-- What kind of thing?
+What happened to Kane?
+Something has attached itself to him.
+We have to get him to the infirmary right away.
+What kind of thing?
 <i>I need a clear definition.</i> An <i>organism.
 Open the</i> hatch.
 Wait a minute. If we let it in, the ship could be infected.
@@ -447,8 +447,8 @@ We'll have to take a look at him inside. Right.
 How come they don't freeze him?
 <i>[ Parker Shouting] How come you guys don 'z' freeze him ?</i>
 All right, you can take your mask off.
-- <i>What's</i> it <i>got</i> down <i>his throat?
-- I would suggest ifs feeding him oxygen.</i>
+<i>What's</i> it <i>got</i> down <i>his throat?
+I would suggest ifs feeding him oxygen.</i>
 Paralyzes him, puts him in a coma, then keeps him alive.
 <i>Now what the hell is that?</i>
 We gotta get it off of him.
@@ -475,8 +475,8 @@ That thing's gonna eat through the goddamn hull. Come on!
 What's going on?
 This way.
 <i>Next deck.</i>
-- <i>[ Sizzling ]</i>
-- <i>[ Parker ] There it' is.</i>
+<i>[ Sizzling ]</i>
+<i>[ Parker ] There it' is.</i>
 Don't get under it!
 Don't get under it.
 Looks like it's stopping.
@@ -492,8 +492,8 @@ It must be using it for blood.
 It's got a wonderful defense mechanism.
 <i>You don't dare kill it.</i>
 What about Kane?
-- Here's your <i>pen</i> back.
-- <i>[Brett] What do we do now?</i>
+Here's your <i>pen</i> back.
+<i>[Brett] What do we do now?</i>
 Leave Kane to Ash.
 You get back to work.
 Well, what-
@@ -612,20 +612,20 @@ Will you listen to-
 <i>Just tel/ me how you can lea ve that kind of decision to him.</i>
 Look, I just run the ship.
 Anything that has to do with the science division, Ash has the final word.
-- How does that happen?
-- It happens, my dear, because that's what the company wants to happen.
+How does that happen?
+It happens, my dear, because that's what the company wants to happen.
 Since when is that standard procedure?
 Standard procedure is to do what the hell they tell you to do.
 Did you ever ship out with Ash before?
 I went out five times with another science officer.
 They replaced him two days before we left Thedus with Ash. Hmm?
-- I don't trust him.
-- I don't trust anybody.
+I don't trust him.
+I don't trust anybody.
 <i>What's happening with the repairs? How's it going?
 Theywe pretty much fimshed new.</i>
 Why the hell didn't you tell me so?
-- Because there's still some things left to do.
-- Like what?
+Because there's still some things left to do.
+Like what?
 <i>Well, we're blind on âBâ and âCâ decks.</i>
 <i>The reserve power system's blown-
 That's a bunch oi horseshâ.</i>
@@ -659,16 +659,16 @@ Walk in the park. When we fix something, we stay fixed.
 <i>[ Parker] What I think We should do is just freeze him.</i>
 <i>If he's go! a disease, wh y don
 7 We stop i2' Where i2' is .7</i>
-- He can always get to a doctor when we get back home.
-- Right.
+He can always get to a doctor when we get back home.
+Right.
 Whenever he says anything, you say âright,â Brett. You know that?
 Right.
 [Sighs]
 Parker, what do you think? Your staff just follows you around, says âright.â
-- Just like a regular parrot.
-- Yeah. Shape up.
-- What are you, some kind of parrot?
-- Right.
+Just like a regular parrot.
+Yeah. Shape up.
+What are you, some kind of parrot?
+Right.
 Come on. Knock it off! Kane's gonna have to go into quarantine.
 That's it.
 Yes, and so will we.
@@ -732,8 +732,8 @@ Are you choking?
 What's wrong?
 [Coughing, Gasping]
 What? What?
-- This is serious.
-- Kane, what's the matter?
+This is serious.
+Kane, what's the matter?
 [ Gagging, Gasping ] it's okay!
 Hold him down!
 Hold him-
@@ -746,8 +746,8 @@ I'm trying!
 [Screaming ]
 [ Screams ]
 [Agonized Grunts]
-- [ Screeching ]
-- [Screaming ]
+[ Screeching ]
+[Screaming ]
 <i>[ Lambert ]
 Oh, my God! Oh, God!</i>
 No! Don't touch it!
@@ -835,8 +835,8 @@ When I say.
 All right. Now.
 Easy.
 [Hissing]
-- [All Chattering ]
-- Wait! Don't let him go!
+[All Chattering ]
+Wait! Don't let him go!
 What the hell are you doing, man?
 It's the cat.
 [Laughing]
@@ -879,8 +879,8 @@ Come on, baby.
 That's a kitty.
 <i>ThalS a kitty.
 Come on, baby.</i>
-- That's a kitty.
-- [ Hisses]
+That's a kitty.
+[ Hisses]
 Hey, hey.
 I'm not gonna hurt you.
 <i>Come on.</i>
@@ -901,37 +901,37 @@ Here it leads up to and comes out in the main air lock.
 All right. There's only one big opening along the way.
 We can cover that up, and then we... drive it into the air lock and zap it into outer space.
 This son of a bitch is huge!
-- I <i>mean, it' is like a man- ll' is b/jg!</i>
-- <i>Kane's son.</i>
+I <i>mean, it' is like a man- ll' is b/jg!</i>
+<i>Kane's son.</i>
 <i>Come on, Ash. Science department should be able to help us.</i>
 What can we do to drive it?
 Yes, well, it's adapted remarkably well to our atmosphere, considering its nutritional requirements.
-- The only thing we don't know about is temperature.
-- Okay. What about temperature?
-- What happens if we change it?
-- Let's try it.
+The only thing we don't know about is temperature.
+Okay. What about temperature?
+What happens if we change it?
+Let's try it.
 I mean, most animals retreat from fire. Yes?
 Fire, yeah.
 Parker, can you rig...
 <i>three or four incinerator units?</i>
 Give me about 2O minutes.
 <i>I'll</i> do it.
-- Who gets to go into the vent?
-- I do.
+Who gets to go into the vent?
+I do.
 No.
 You and Ash... take the main air lock.
 Parker, Lambert, you cover up that maintenance opening, please.
 <i>[ Lambert ]
 Right.</i>
 <i>[ Beepirly]</i>
-- [ Dallas] I'm at the first junction.
-- Dallas, I'm right here.
-- <i>Parker?</i>
-- Yeah?
-- <i>Lambert'?</i>
+[ Dallas] I'm at the first junction.
+Dallas, I'm right here.
+<i>Parker?</i>
+Yeah?
+<i>Lambert'?</i>
 We're in position. I'm just trying to get a reading here.
-- The air lock is open.
-- <i>Okay,</i> R/jo/ey
+The air lock is open.
+<i>Okay,</i> R/jo/ey
 Ready.
 All right. I've got a reading on you now.
 [Tracker Beeping ]
@@ -964,8 +964,8 @@ You may be getting interference.
 [ Lambert] Dallas, are you sure there's no sign of it?
 <i>Imean, it is there.
 It's gotta be around there.</i>
-- Dallas?
-- God, what is happening?
+Dallas?
+God, what is happening?
 All right.
 Uh, am I- am I clear, Lambert? I want to get the hell out of here.
 [ Beeping ]
@@ -992,8 +992,8 @@ Nothing.
 Unless somebody has got a better idea, we'll proceed with Dallas's plan.
 What? And end up like the others?
 Ohh. No, you're out of your mind.
-- Got a better idea?
-- Yes. I say that we abandon this ship.
+Got a better idea?
+Yes. I say that we abandon this ship.
 We get the shuttle and just get the hell out of here.
 We take our chances and just hope that...
 <i>somebody picks us up.
@@ -1090,10 +1090,10 @@ Ash, can you hear me?</i>
 Ash?
 [ Distorted Voice]
 Yes, I can hear you.
-- What was your special order?
-- You read it. I thought it was clear.
-- What was it?
-- Bring back life-form.
+What was your special order?
+You read it. I thought it was clear.
+What was it?
+Bring back life-form.
 Priority one. All other priorities rescinded.
 The damn company! What about our lives, you son of a bitch?
 I repeat: All other priorities are rescinded.
@@ -1102,8 +1102,8 @@ How do we kill it, Ash?</i>
 <i>There is go! to be a way of killing it'.
 How- How do we do it'?</i>
 You can't.
-- That's bullshit!
-- You still don't understand what you're dealing with, do you?
+That's bullshit!
+You still don't understand what you're dealing with, do you?
 A perfect organism.
 Its structural perfection is matched only by its hostility.
 You admire it.
@@ -1158,15 +1158,15 @@ Come here, sweetheart.
 Jones.
 Jones? Jones?
 Jones?
-- [ Snarls ]
+[ Snarls ]
 <i>_</i> [ Gasps ]
 Jones!
 Goddamn it!
 Now I got you.
 Here, sweetie.
 Nice kitty.
-- [ Gasps]
-- Oh, my God.
+[ Gasps]
+Oh, my God.
 <i>[ Parker] Get out of the way. [
 Lambert ] I can't get out of the way!</i>
 <i>Get out of the way, Lambert!
@@ -1247,8 +1247,8 @@ Goddamn it!
 <i>[ Rapid Beeping]
 Nine, eight, seven,</i>
 <i>six, five,</i>
-- <i>four, three, two, one.</i>
-- <i>[Steady Beep]</i>
+<i>four, three, two, one.</i>
+<i>[Steady Beep]</i>
 <i>I</i> 90t you, you son of a bitch.
 [ Meows ]
 Shh, Shh, Shh,
@@ -1277,8 +1277,8 @@ Well, come on.
 <i>âª You are âª</i>
 <i>âª My</i> lucky <i>star;</i>
 JYOUJ
-- [ Screeching ]
-- âª You are my lucky star;
+[ Screeching ]
+âª You are my lucky star;
 <i>âª You are my lucky star âª</i>
 <i>âª You are my lucky;
 [ Mumbling ]</i>

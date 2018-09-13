@@ -36,8 +36,8 @@ Roosevelt, how's that lanyard coming?
 Horrible.
 Skotak, what's all this lumber for?
 We're building a tree house.
-- Where?
-- Right here.
+Where?
+Right here.
 That's not a safe altitude.
 Why is it up so high?
 If someone falls from there, that's a guaranteed death.
@@ -56,8 +56,8 @@ Is that enough for the Hullabaloo?
 Izod, go fetch another pint of gunpowder from the armory shed.
 Redford! Halt!
 I saw that!
-- How fast were you just going?
-- Safety test, sir.
+How fast were you just going?
+Safety test, sir.
 Come again?
 The vehicle appears to be in good working order,
 I'm just checking if...
@@ -68,10 +68,10 @@ I take away the keys.
 Morning, Chef.
 Clear!
 Who's missing?
-- Who's missing?
-- Shakusky.
-- Shakusky.
-- Shakusky.
+Who's missing?
+Shakusky.
+Shakusky.
+Shakusky.
 Shakusky! Breakfast!
 Shakusky, you in there?
 Sam?
@@ -151,24 +151,24 @@ Remember, this isn't just a search party, it's a chance to do some first class S
 Any questions?
 Lazy-Eye?
 What's your real job, sir?
-- I'm a math teacher. Why?
-- What grade?
-- Eighth.
-- You need a PhD for that?
+I'm a math teacher. Why?
+What grade?
+Eighth.
+You need a PhD for that?
 Lazy-Eye, no, but you know what, we're actually in the middle of something here, in case you didn't notice.
 One of our Scouts is missing and that's a crisis.
 Anybody else?
 Redford?
 What if he resists?
-- Who?
-- Shakusky.
+Who?
+Shakusky.
 Are we allowed to use force on him?
 No, you're not.
 This is a non-violent, rescue operation.
 Your mission is to find him, not to hurt him under any circumstances.
 Am I making myself understood?
-- Yes.
-- Good.
+Yes.
+Good.
 I'm going to change my answer, in fact, this is my real job.
 Scout Master Troop 55.
 I'm a math teacher on the side.
@@ -190,10 +190,10 @@ I disagree, Counselor.
 It would take him three days, at least.
 I don't think so.
 Two days, maximum.
-- Well, I'm not going to argue about it.
-- Be that as it may,
+Well, I'm not going to argue about it.
+Be that as it may,
 -will you let me know if you see anything unusual?
-- Yup.
+Yup.
 Scout Master's log,
 September 2nd.
 First day of search party for Sam Shakusky
@@ -225,11 +225,11 @@ Where did you come from?
 Go back to your seat.
 He likes you.
 Were you followed?
-- I doubt it.
-- Good.
+I doubt it.
+Good.
 Is that a cat in there?
-- Can you read a map?
-- Uh-huh.
+Can you read a map?
+Uh-huh.
 I do cartography.
 I feel we should go halfway today, and halfway tomorrow since you're a less experienced hiker, and you're wearing
 Sunday school shoes.
@@ -240,10 +240,10 @@ Oh, thank you.
 Here's where we are right now.
 I'd like to pitch camp here by 1600, which means 4:00.
 How does that sound?
-- Fine.
-- You want some beef jerky?
-- Okay.
-- Let's go.
+Fine.
+You want some beef jerky?
+Okay.
+Let's go.
 Are you thirsty?
 No, thank you.
 Well, if your throat gets parched, stick a pebble in your mouth and suck on it.
@@ -262,8 +262,8 @@ You smell like perfume.
 Oh, it's my mother's.
 Hmm. Hmm.
 I brought water, too.
-- You wait here.
-- Okay.
+You wait here.
+Okay.
 Be right back.
 Watch your head!
 Where the hell is it?
@@ -305,10 +305,10 @@ Go ahead.
 This is my record player.
 It works with batteries.
 Well, actually, it belongs to my little brother, Lionel.
-- I left him a note.
-- Okay.
-- Do you like music?
-- Yeah.
+I left him a note.
+Okay.
+Do you like music?
+Yeah.
 This is my favorite record album.
 My godmother gave it to me for my birthday.
 She lives in France.
@@ -525,7 +525,7 @@ But he didn't deserve to die.
 What happened?
 Who is that?
 Clear the dock, Edgar!
-- Why is he bleeding?
+Why is he bleeding?
 -Is Suzy with you?
 No, she's in the woods with Shakusky.
 Where am I going?
@@ -546,16 +546,16 @@ Why can't you control your Scouts?
 Well, I'm trying.
 Whoa, whoa. Hey.
 Stop it! Stop it!
-- Stop it!
-- Stop it.
+Stop it!
+Stop it.
 I do blame him.
 But I also blame myself and both of you.
 With all due respect, you can't let your children stab people.
 What are you talking about?
 She's violent,
 Mrs. Bishop, it's assault.
-- Are you a lawyer?
-- No, I'm not a lawyer.
+Are you a lawyer?
+No, I'm not a lawyer.
 Well, we are!
 Take your hands off my wife!
 Take them off!
@@ -611,8 +611,8 @@ I wish I didn't have to mention it, but just in case.
 I don't want to make you be offended.
 Of course I won't.
 What's that one for?
-- This?
-- Yeah.
+This?
+Yeah.
 It's not an accomplishment button.
 I inherited it from my mother.
 It's not actually meant for a male to wear, but I don't give a damn.
@@ -627,8 +627,8 @@ Most of my favorite characters are.
 I think your lives are more special.
 I love you, but you don't know what you're talking about.
 I love you, too.
-- I've got sand in my mouth.
-- Oh.
+I've got sand in my mouth.
+Oh.
 Uh... Can you French kiss?
 I think so.
 Is there any secret to it?
@@ -690,8 +690,8 @@ I understand he's in your custody.
 That's correct.
 What's his condition?
 Has he suffered any injury or trauma of any kind?
-- He's fine.
-- Very good.
+He's fine.
+Very good.
 How do I get to you?
 The fastest way would be sea plane.
 Jed can bring you in with the mail.
@@ -856,8 +856,8 @@ It was sustained.
 Good.
 Did the judge consider your application for leniency?
 Rogers v. Yentob?
-- He granted it.
-- Great.
+He granted it.
+Great.
 I'm sorry, Walt.
 It's not your fault.
 Which injuries are you apologizing for, specifically?
@@ -882,10 +882,10 @@ That's not enough.
 "'Hide this in your socks, and be ready at midnight."'
 Continue.
 Keep going.
-- Keep going.
-- Go on.
-- We're listening.
-- That's good.
+Keep going.
+Go on.
+We're listening.
+That's good.
 "He leapt out the window and landed in the fresh fallen snow."
 Where's my record player?
 You're not going to believe this one, sir.
@@ -909,8 +909,8 @@ He's hot. Almost too hot.
 What's in the can?
 $76, but it's mostly in nickels.
 Give it to me.
-- Your badge in seamanship?
-- Yes, sir.
+Your badge in seamanship?
+Yes, sir.
 Good. There's a cold water crabber moored off Broken Rock.
 The skipper owes me an IOU.
 We'll see if he can take you on as a claw cracker.
@@ -928,20 +928,20 @@ I'm a civil law scrivener.
 I'm authorized to declare births, deaths, and marriages.
 You're kind of young.
 You got a license?
-- No.
-- No.
+No.
+No.
 I can't offer you a legally binding union.
 It won't hold up in the state, the county, or, frankly, any courtroom in the world due to your age, lack of a license, and failure to get parental consent.
 But the ritual does carry a very important moral weight within yourselves.
 You can't enter into this lightly. Look into my eyes.
-- Do you love each other?
-- Yes, we do.
+Do you love each other?
+Yes, we do.
 But think about what I'm saying.
 Are you sure you're ready for this?
-- Yes, we are.
-- They're not listening to me.
-- Let me rephrase it.
-- We're in a hurry.
+Yes, we are.
+They're not listening to me.
+Let me rephrase it.
+We're in a hurry.
 Are you chewing...
 Spit out the gum, sister.
 In fact, everybody.
@@ -957,8 +957,8 @@ Usually they don't. Skotak?
 Can we loan them the nickels?
 I'm worried about their future.
 That's my fee.
-- What do you think?
-- I don't know.
+What do you think?
+I don't know.
 What'd I just say?
 That's my fee. I'm keeping the nickels.
 Okay, they can have the tennis ball can.
@@ -966,19 +966,19 @@ Sign here, initial here and here.
 Take the carbon, leave the Bible. Let's go.
 Where are they going, again?
 He's going to work on a shrimper, if I understand correctly.
-- I wish them well.
-- Me, too.
+I wish them well.
+Me, too.
 Me, too.
 I think they're coming back.
-- Be quick, sailor!
-- What happened?
+Be quick, sailor!
+What happened?
 She left her binoculars on a hook in the chapel tent.
 Just leave them.
 We can't.
 It's her magic power!
 You killed your dog, by the way.
-- Snoopy?
-- Mmm-hmm.
+Snoopy?
+Mmm-hmm.
 Well, it couldn't be helped.
 Why do you consider me your enemy?
 Because your girlfriend stabbed me in the back with lefty scissors.
@@ -1060,8 +1060,8 @@ They ran away again.
 We got to go back out there.
 I need volunteers.
 You, and you and you.
-- You?
-- Are you all right?
+You?
+Are you all right?
 Of course I am.
 Where's the boy?
 We don't know yet.
@@ -1069,8 +1069,8 @@ That's not acceptable.
 What do you want me to say, lady?
 Somebody get
 Jed a cup of coffee.
-- You're Captain Sharp.
-- That's correct.
+You're Captain Sharp.
+That's correct.
 I'm Social Services. I remanded the boy into your personal custody.
 You're responsible for his safety.
 I'm told that he's just been struck by lightning.
@@ -1094,8 +1094,8 @@ Just find the boy, and deliver him to Social Services.
 Nothing else is in your power.
 I'm sorry.
 Can we get back to the rescue now?
-- Suzy is still out there.
-- Who are you?
+Suzy is still out there.
+Who are you?
 Walt and Laura Bishop, their daughter's the missing girl.
 The parents of the stabber?
 I object to that description.
@@ -1104,14 +1104,14 @@ Excuse me?
 I want the details about that.
 Where's the Scout she knifed?
 Right here.
-- Field Mate Redford, sir.
-- What's his condition?
+Field Mate Redford, sir.
+What's his condition?
 He may suffer some limited chronic kidney insufficiency.
 Here's the report.
-- We don't have time for that!
-- She's right.
-- Let's go.
-- Stop!
+We don't have time for that!
+She's right.
+Let's go.
+Stop!
 Nobody's going anywhere.
 He's not getting shock therapy.
 That's it!
@@ -1122,12 +1122,12 @@ Be notified that you stand accused of mistreatment...
 What are you talking about?
 I won't let you do it!
 Look!
-- They're gone.
-- Who?
-- Suzy?
-- Sam!
-- They're here?
-- Yeah.
+They're gone.
+Who?
+Suzy?
+Sam!
+They're here?
+Yeah.
 Where'd they go?
 Answer me!
 Halt! Stop!
@@ -1150,8 +1150,8 @@ I cannot authorize that. Over.
 Counselors, what's the legal perspective? Over.
 In this state,
 I would litigate with extreme confidence.
-- I concur.
-- Open with Article 15 of the Codes of
+I concur.
+Open with Article 15 of the Codes of
 Civic Jurisdiction.
 No party, under any circumstances, shall be denied due and proper consideration without prejudice in perpetuity.
 On three again.
@@ -1180,10 +1180,10 @@ October 10th.
 Reconstruction continues increasingly ahead of schedule, which I attribute to a particularly robust esprit de corps among the troop.
 The latrine, however, does continue to present...
 Excuse me, sir?
-- You've got the new recruit?
-- Yes, sir.
-- What's his rank?
-- He doesn't have one.
+You've got the new recruit?
+Yes, sir.
+What's his rank?
+He doesn't have one.
 Pigeon Scout.
 Let's get him a patch.
 The coastal areas of New Penzance were battered and changed forever.

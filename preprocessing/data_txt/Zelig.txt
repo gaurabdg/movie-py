@@ -92,13 +92,13 @@ And when I first laid eyes on him, it was a bit strange, because I mistook him f
 <i>Eudora Fletcher is fascinated by Leonard Zelig.</i>
 <i>She convinces the conservative staff at the hospital to allow her</i>
 <i>to pursue a study of the new admission.</i>
-- <i>What do you do?</i>
-- <i>Oh, me? I'm a psychiatrist.</i>
-- <i>Oh, yes?</i>
-- <i>Yes, yes, I work</i>
+<i>What do you do?</i>
+<i>Oh, me? I'm a psychiatrist.</i>
+<i>Oh, yes?</i>
+<i>Yes, yes, I work</i>
 <i>mostly with delusional paranoids.</i>
-- <i>Tell me about it.</i>
-- <i>Oh, there's not much to tell. I...</i>
+<i>Tell me about it.</i>
+<i>Oh, there's not much to tell. I...</i>
 <i>I work mostly on the Continent,</i>
 <i>and I've written quite a few psychoanalytic papers.</i>
 <i>I've studied a great deal.
@@ -204,8 +204,8 @@ What do you mean, "safe"?</i>
 <i>Safe to...</i>
 <i>To be like the others.</i>
 <i>Mmm-hmm. You want to be safe?</i>
-- <i>I wanna be liked.</i>
-- <i>Mmm-hmm.</i>
+<i>I wanna be liked.</i>
+<i>Mmm-hmm.</i>
 <i>Probing Zelig's unconscious,
 Dr. Fletcher gradually puts together</i>
 <i>the pieces of Zelig's behavioral puzzle.</i>
@@ -281,8 +281,8 @@ A creature who takes many forms to achieve ends, the exploitation of the workers
 <i>asked me if I read</i> Moby Dick.
 <i>Yes?</i>
 <i>I was ashamed to say I never read it.</i>
-- <i>And you pretended?</i>
-- <i>Yes.</i>
+<i>And you pretended?</i>
+<i>Yes.</i>
 <i>When did the changes begin happening automatically?</i>
 <i>Years ago. St. Patrick's Day.</i>
 <i>Wandered into a bar. Wasn't wearing green.</i>
@@ -331,8 +331,8 @@ Even our attorney says it's hopeless.
 Really, Dr. Fletcher.
 Uh... May I call you Eudora?
 I tell you, somewhere behind that vacuous face, that zombie-like stare, is a real human being, and I can bring it out.
-- How?
-- I'll think up some new way.
+How?
+I'll think up some new way.
 Some technique. Whatever it is, it'll have to be personal.
 There's not much I can do legally.
 I'll try, but...
@@ -518,13 +518,13 @@ Well, uh...
 I would say that you're making a joke.
 Is it always so bright in here?
 Oh, I'm recording these sessions on film, if you don't mind?
-- No. Somebody's behind there, right?
-- Mmm-hmm. That's right.
-- That's a camera.
-- Mmm-hmm.
+No. Somebody's behind there, right?
+Mmm-hmm. That's right.
+That's a camera.
+Mmm-hmm.
 Leonard... Leonard, why don't we start with simple reality?
-- Leonard, you're not a doctor.
-- No?
+Leonard, you're not a doctor.
+No?
 No. You're a patient. I'm the doctor.
 Well, I wouldn't tell that to too many people if I were you.
 Leonard, you're not a doctor.
@@ -544,24 +544,24 @@ How are you today, Leonard?
 Fine. And I... Uh...
 I gotta get back to town soon. You know,
 I teach a course at the psychiatric institute in masturbation and...
-- I see.
-- I'm a doctor, you know, and I...
+I see.
+I'm a doctor, you know, and I...
 "Guilt-related masturbation."
 No, no, not guilt-related.
 I... I teach advanced.
-- I'm quite a respected doctor there.
-- Leonard, I'd like you...
+I'm quite a respected doctor there.
+Leonard, I'd like you...
 ...eyes follow this pen and just let yourself breathe deeply.
-- Why? What...
-- Relax.
+Why? What...
+Relax.
 No.
 You're trying to hypnotize me, obviously.
-- Do you mind?
-- Of course I mind. I'm a doctor. I'm...
-- Leonard, you're not a doctor.
-- I am a doctor!
-- Just relax.
-- No, I can't. I'm... I'm due back in town.
+Do you mind?
+Of course I mind. I'm a doctor. I'm...
+Leonard, you're not a doctor.
+I am a doctor!
+Just relax.
+No, I can't. I'm... I'm due back in town.
 I... I have this masturbation class.
 If I'm not there, they start without me.
 <i>As the weeks go by,</i>
@@ -589,23 +589,23 @@ Dr. Fletcher is distracted and uneasy.</i>
 <i>Ironically, it is in the noisy and smoke-filled atmosphere of the nightclub</i>
 <i>that Eudora Fletcher is struck by a brilliant and innovative plan</i>
 <i>that will create a major breakthrough in the case.</i>
-- Dr. Zelig?
-- Yes?
+Dr. Zelig?
+Yes?
 I... I wonder if you could help me with a problem.
 Well, I'll certainly try.
 Of course, we can't promise anything, you know.
 You see, last week I was with a group of fairly erudite people who were discussing the novel <i>Moby Dick,</i> and I... I was afraid to admit that I hadn't read it, so I lied.
 Uh-huh.
 You see, I want so badly to be liked, to be like other people so that I don't stand out.
-- That's natural.
-- I go to such extreme lengths to blend in.
+That's natural.
+I go to such extreme lengths to blend in.
 Well...
 You're a doctor, you know?
 You... should know how to handle that.
 No, but the truth of the matter is,
 I... I'm not an actual doctor.
-- You're not?
-- No, Doctor.
+You're not?
+No, Doctor.
 No, I've... I've been pretending to be a doctor to fit in with my friends.
 You see, they're doctors.
 That's...
@@ -623,17 +623,17 @@ That's terrible. I don't know.
 You know, I...
 Please, Doctor. I know
 I'm a very complicated patient.
-- Jesus. I don't feel that well.
-- What am I suffering from?
+Jesus. I don't feel that well.
+What am I suffering from?
 How should I know? I'm not a doctor.
-- You're not?
-- No. Am I?
-- Who are you?
-- What do you mean, who am I?
-- I don't know. These are tough questions.
-- Leonard Zelig.
-- Yes, definitely. Who is he?
-- You.
+You're not?
+No. Am I?
+Who are you?
+What do you mean, who am I?
+I don't know. These are tough questions.
+Leonard Zelig.
+Yes, definitely. Who is he?
+You.
 No. I'm nobody. I'm nothing.
 Catch me, I'm falling.
 <i>Playing on Zelig's identity disorder,</i>
@@ -667,8 +667,8 @@ I hate the grass and the mosquitoes.
 And cooking... Your cooking is terrible.
 Your pancakes...
 They're... I dump them in the garbage when you're not looking.
-- Uh-huh.
-- And the jokes you try and tell when...
+Uh-huh.
+And the jokes you try and tell when...
 When you think you're amusing, they're long and pointless, there's no end to them.
 I see. And what else?
 I wanna go to bed with you.
@@ -704,8 +704,8 @@ I had very strong feelings for him.</i>
 <i>You know, it doesn't have to mean anything, it's just very beautiful to watch.</i>
 <i>I'm a Democrat. I always was a Democrat.</i>
 <i>Is it okay if I don't agree with you about that recording?</i>
-- <i>Of course.</i>
-- <i>I mean, Brahms is just always</i>
+<i>Of course.</i>
+<i>I mean, Brahms is just always</i>
 <i>too melodramatic for me.</i>
 <i>You have to be your own person and make your own moral choices,</i>
 <i>even when they do require real courage, otherwise you're like a robot, or a lizard.</i>
@@ -783,10 +783,10 @@ John was a stockbroker, he had plenty of money, and I came from a wealthy Philad
 Well, I'm sure that your daughter always wanted to be a doctor, ever since she could remember.
 I don't think so.
 I always thought she'd want to be a flier like her sister Meryl and raise a family.
-- But she was a very moody...
-- But still, a mother always dreams for her child to have the kind of success that your daughter has.
-- She was a very difficult girl.
-- Well, tell me about your husband.
+But she was a very moody...
+But still, a mother always dreams for her child to have the kind of success that your daughter has.
+She was a very difficult girl.
+Well, tell me about your husband.
 I understand that he is a simple businessman.
 He must be so thrilled and pleased to have his daughter achieve such recognition.
 John had problems, depression. He drank.

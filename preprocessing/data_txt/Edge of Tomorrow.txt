@@ -94,8 +94,8 @@ Not so much as a paper cut.
 Uh, but, uh... sitting here thinking about this... a couple of names come to mind... that I feel I could recommend to you.
 It's not an offer, major. It's an order.
 General, I am an officer in the United States military.
-- You don't even have the authority.
-- I have spoken to your CO.
+You don't even have the authority.
+I have spoken to your CO.
 You are now under my command.
 You will retain your present rank of course.
 My secretary has all the details.
@@ -134,8 +134,8 @@ You just came in with the fresh recruits.
 Do I strike you as a fresh recruit?
 No, sir, you do not.
 My name is Major William Cage.
-- I'm an American officer.
-- Officer?
+I'm an American officer.
+Officer?
 This is processing.
 There's no officers here.
 I got this, sergeant.
@@ -144,14 +144,14 @@ What was it? Poker night?
 Bachelor party?
 If it's all the same to you, sergeant...
 I'd like to explain that to my commanding officer in Washington.
-- If you'll take me to a phone...
-- Haven't you heard?
+If you'll take me to a phone...
+Haven't you heard?
 We're T-minus-Haul-Ass-H-Hour.
 We're fixing to invade France.
 This whole FOB's on lockdown.
 No calls, in or out.
-- Name is Farell.
-- That's right.
+Name is Farell.
+That's right.
 Master Sergeant Farell.
 You're an American.
 No, sir. I'm from Kentucky.
@@ -161,14 +161,14 @@ I've been railroaded.
 It's obvious I don't belong here.
 So please, sergeant, there has to be a way I can make a phone call.
 I'll get you sorted out, sir.
-- Thank you.
-- Right this way.
+Thank you.
+Right this way.
 Where you from in Kentucky?
 Little town called
 Science Hill. Heard of it?
 I have now.
-- Where you from?
-- Cranbury, New Jersey.
+Where you from?
+Cranbury, New Jersey.
 They grow a lot of cranberries there?
 Tomatoes. Best you ever had.
 Why they call it Cranberry, then?
@@ -206,8 +206,8 @@ Edge of the knife.
 Crack of my... ass.
 Oh, shit.
 Private Kimmel, what is my view of gambling...
-- ...in the barracks?
-- You dislike it, Sergeant Farell.
+...in the barracks?
+You dislike it, Sergeant Farell.
 Nance, why do I dislike it?
 It entertains the notion our fate is in hands other than our own.
 And what is my definitive position on the concept of fate, chorus?
@@ -222,8 +222,8 @@ Cage is under the delusion he does not belong here.
 We must dissuade him of this delusion.
 If he tries to run, feel free to dissuade him until he can't piss standing up.
 You have to listen to me.
-- I will never be combat ready.
-- I envy you, Cage.
+I will never be combat ready.
+I envy you, Cage.
 Tomorrow morning, you will be baptized. Born again.
 PT! Ten minutes!
 <i>So everybody</i>
@@ -254,19 +254,19 @@ Just think about this, man.
 I could hurt somebody with it.
 Not with the safety on, you won't.
 But...
-- Where is the safety?
-- Exactly.
+Where is the safety?
+Exactly.
 It's time.
 Bloody hell, it's the Full Metal...
 Move.
-- Griff.
-- Sarge?
-- Take care of Private Cage.
-- What, all day?
+Griff.
+Sarge?
+Take care of Private Cage.
+What, all day?
 Something tells me it won't be nearly that long.
-- Cage!
-- Cage!
-- Cage!
+Cage!
+Cage!
+Cage!
 We lost Germany.
 We lost France.
 If we lose today we won't get to fight another.
@@ -282,8 +282,8 @@ No one else will.
 One minute!
 One minute to drop!
 Hey.
-- Hey!
-- What?
+Hey!
+What?
 How do I turn the safety off of my weapon?
 What?
 How do I turn the safety off...?
@@ -321,12 +321,12 @@ Pull yourself together!
 On your feet, people!
 Get in line!
 Nance, get me a sitrep.
-- Safety! My safety!
-- Griff, Ford, cover the flank!
+Safety! My safety!
+Griff, Ford, cover the flank!
 My safety. My safety.
 How do I get my safety...?
-- I'm waiting, Nance!
-- I got traces!
+I'm waiting, Nance!
+I got traces!
 Five hundred meters and they're coming in fast!
 Son of a bitch.
 Out of the way!
@@ -363,8 +363,8 @@ The good news is there's hope for you, private.
 Hope in the form of glorious combat.
 Battle is the great redeemer.
 The fiery crucible in which...
-- ...the only true heroes are...
-- The only true heroes are forged.
+...the only true heroes are...
+The only true heroes are forged.
 Did you just interrupt me, private?
 Sarge, you're...
 You're not gonna believe what I'm about to tell you.
@@ -373,8 +373,8 @@ Now, where was I?
 The fiery crucible.
 The fiery crucible in which the only true heroes are forged.
 <i>The one place where all men truly share...</i> the same rank, regardless of what kind of parasitic scum they were going in.
-- Welcome to hell.
-- Squad!
+Welcome to hell.
+Squad!
 This here is Private Cage.
 Private Cage...
 J Squad.
@@ -384,24 +384,24 @@ You know, it gives me a swell of pride knowing soldiers of your caliber... will 
 Tip of the spear, edge of the knife.
 Crack of my ass.
 Private Kimmel, what is my view of gambling in the barracks?
-- Dislike it, sergeant.
-- Nance, why do I dislike it?
+Dislike it, sergeant.
+Nance, why do I dislike it?
 It entertains the notion our fate is in hands other than our own.
 And what is my definitive position on the concept of fate, chorus?
 Through readiness and discipline, we are masters of our fate.
 You might call that notion ironic.
 Trust me, you'll come around.
 Oh, for chrissake, Kimmel.
-- I gotta be free, man.
-- All right, man.
+I gotta be free, man.
+All right, man.
 Let's get this show on the road. I gotta suit up.
 <i>Disengaged.</i>
 Hey, what the hell's wrong with you?
 Haven't you ever been in one of these before?
 Maybe.
 Know where the safety is?
-- I'm not sure.
-- Good.
+I'm not sure.
+Good.
 I know the pressure on you is enormous.
 Two minutes to drop.
 It's all right to be scared.
@@ -411,13 +411,13 @@ Oi, mate!
 I think there's something wrong with your suit.
 Yeah. There's a dead guy in it.
 Watch your back out there sir.
-- No one else will.
-- No one else will.
+No one else will.
+No one else will.
 Ha-ha! Jinx, bitch!
 On my mark! Stand by to deploy!
 Activate drop lines, 30 seconds.
-- Remember, hit...
-- Hey!
+Remember, hit...
+Hey!
 Go! Go!
 Whoo-hoo!
 We made it!
@@ -464,8 +464,8 @@ You fight balls out. Literally.
 Ford. Skinner. Griff.
 You're...
 He doesn't talk much.
-- But there's a card game under the bed.
-- Thanks a lot, asshole.
+But there's a card game under the bed.
+Thanks a lot, asshole.
 Kimmel's working on a flush.
 Spades... No, clubs.
 You're gonna make them eat those cards.
@@ -514,33 +514,33 @@ Private Cage.
 And you must be J Squad.
 It's good to meet you.
 Isn't that an officer's uniform?
-- Those sure...
-- These sure ain't officer's cufflinks.
+Those sure...
+These sure ain't officer's cufflinks.
 Keys in the... left pocket, probably.
 Private Cage is a deserter.
 I'm making you all personally responsible for his deliverance.
 He will be combat ready by 0600 tomorrow.
 Private Cage is under the delusion he does not belong here.
 We must dissuade him of this delusion.
-- If he tries to run, feel free to dissuade him...
-- Oh, no. I'm not gonna run.
-- Not a chance.
-- Till he can't piss standing up.
+If he tries to run, feel free to dissuade him...
+Oh, no. I'm not gonna run.
+Not a chance.
+Till he can't piss standing up.
 Thank you, Sergeant Farell.
 What next? A little, uh, PT?
 PT! Ten minutes!
 Left! Left! Left!
-- What are you? Sound off!
-- I'm a warrior!
-- What do warriors do?
-- Kill!
-- What are you gonna do?
-- Kill!
-- What are you gonna do?
-- Kill!
+What are you? Sound off!
+I'm a warrior!
+What do warriors do?
+Kill!
+What are you gonna do?
+Kill!
+What are you gonna do?
+Kill!
 It's gonna be my 20th battle tomorrow.
-- You haven't been in 20 battles, mate.
-- I have too.
+You haven't been in 20 battles, mate.
+I have too.
 You're gonna dump your load the second we hit the beach.
 Why don't you get yourselves a cup of shut-the-hell-up?
 Ha-ha. You funny, girl.
@@ -558,24 +558,24 @@ Platoon!
 Drop and give me 50!
 Compliments of Private Cage.
 Thank you, sarge.
-- And one!
-- One!
-- And two!
-- Two!
-- And three!
-- Three!
-- Aah!
-- Oh!
+And one!
+One!
+And two!
+Two!
+And three!
+Three!
+Aah!
+Oh!
 What the hell were you thinking?
 There's hope for you, private.
 Hope in the form of glorious combat.
 Battle is the great redeemer.
-- Three!
-- Three!
-- Four!
-- Four!
-- Five!
-- Five!
+Three!
+Three!
+Four!
+Four!
+Five!
+Five!
 Excuse me. Sergeant Vrataski.
 Excuse me.
 Sergeant Vrataski?
@@ -593,13 +593,13 @@ Now.
 You don't talk to anyone about this but me.
 The best-case scenario is you're gonna end up in a psych ward.
 Worst case, you'll get dissected for study. Are we clear?
-- Yes?
-- Yes.
+Yes?
+Yes.
 First time you died, what happened?
-- You killed a mimic?
-- Yes.
-- Describe it.
-- It was different.
+You killed a mimic?
+Yes.
+Describe it.
+It was different.
 It was bigger. Bluish.
 And you got covered in its blood.
 As a matter of fact, I did.
@@ -620,8 +620,8 @@ Let's go! Come on!
 Rita, what is this?
 What are you doing here?
 You gotta give me some warning.
-- Who's this?
-- He's me. Before Verdun.
+Who's this?
+He's me. Before Verdun.
 He's gonna help us.
 What? You mean he's...?
 Yes.
@@ -631,14 +631,14 @@ How many fingers am I holding up behind my back?
 How should I know that?
 Okay.
 So this is the first time we've had this conversation.
-- You should try this on him.
-- What is that?
+You should try this on him.
+What is that?
 It doesn't work.
 Has he had any visions yet?
 Visions of what?
 There's still time.
-- Yes.
-- Time? Look, I'm sorry.
+Yes.
+Time? Look, I'm sorry.
 Who is this? Who are you?
 I'm Dr. Carter. Particle physics.
 Advanced microbiology.
@@ -654,8 +654,8 @@ You have to think of this as a single organism.
 Now, these common drones, they act like its claws.
 And Alphas, like the one that you killed, are much more rare.
 Yeah. They're like one in...
-- ...6.18 million, by my guess.
-- Yes.
+...6.18 million, by my guess.
+Yes.
 They act as the enemy's...
 They're like its central nervous system.
 But this... is the brain.
@@ -666,8 +666,8 @@ Whenever an Alpha is killed... an automatic response is triggered.
 The Omega starts the day over again.
 But you see, this time, it can remember what's going to happen just like you do.
 It knows exactly what we're gonna do before we're gonna do it.
-- And an enemy that knows the future can't lose.
-- It can't lose.
+And an enemy that knows the future can't lose.
+It can't lose.
 But if that's true, how did you win at Verdun?
 We were allowed to win.
 This thing wants us to believe we can win.
@@ -683,8 +683,8 @@ Me?
 When you killed that Alpha, you inadvertently entered the enemy's nervous system.
 Cage, you've seized control of the
 Omega's ability to reset the day.
-- How's that even possible?
-- Perhaps this organism's... only vulnerability, its only vulnerability... is humanity.
+How's that even possible?
+Perhaps this organism's... only vulnerability, its only vulnerability... is humanity.
 Regardless of that, you control the power now.
 Just as I did in Verdun.
 So I'm resetting the day?
@@ -697,8 +697,8 @@ First of all... this is a terrific presentation.
 Terrific.
 I know the general.
 We should take this to him.
-- You just tell him everything you told me.
-- I went to see the general.
+You just tell him everything you told me.
+I went to see the general.
 Any number of times.
 Psych ward. Dissection. Remember?
 What are you expecting from me?
@@ -709,8 +709,8 @@ Visions. Have you seen any visions like that?
 The Omega senses when it's losing control of its power.
 Even now it's mentally searching to find you.
 When it's close to finding you you will start having visions.
-- You'll start to see that.
-- You'll even see where it is.
+You'll start to see that.
+You'll even see where it is.
 And you had these visions?
 Yes.
 But eventually you saw it.
@@ -747,8 +747,8 @@ Just not fast enough.
 I woke up in a field hospital... with three pints of someone else's blood and I was out.
 I lost the power. Do you understand?
 Think we better start over.
-- Don't you?
-- What?
+Don't you?
+What?
 Aah!
 No one knows what happened to Private Cage!
 You dumb-ass. He was right next to you.
@@ -804,15 +804,15 @@ Oh, come on.
 Aah!
 Rita. Rita. What is this?
 What are you doing here?
-- Who's this guy?
-- He's me...
-- ...before Verdun.
-- Before Verdun.
+Who's this guy?
+He's me...
+...before Verdun.
+Before Verdun.
 What do you mean? He's...?
-- Yes. Yes.
-- When did he die?
-- Where?
-- On the beach. Tomorrow.
+Yes. Yes.
+When did he die?
+Where?
+On the beach. Tomorrow.
 I'm Bill Cage. You're Dr. Carter.
 We've had this conversation before.
 Two fingers behind your back.
@@ -835,8 +835,8 @@ We will soon enough.
 In the meantime, you need to figure out a way to get us off that beach.
 What next? Where are we going?
 Which way? Focus. Which way?
-- I'm thinking.
-- Okay.
+I'm thinking.
+Okay.
 Oh, man!
 How far did we make it?
 You know, it's hard to say, really.
@@ -845,8 +845,8 @@ Okay, go!
 Son of a bitch!
 I thought stepping left, ducking...
 Just for the record.
-- It was pretty specific.
-- Stepping left, ducking right.
+It was pretty specific.
+Stepping left, ducking right.
 Stepping left, ducking right. Move on.
 Hold on!
 Across the trench, 12:00!
@@ -866,15 +866,15 @@ No.
 Cage!
 We've been looking everywhere for you.
 Cage!
-- Cage, we've been looking...
-- Guys.
+Cage, we've been looking...
+Guys.
 Guys. Can we... just... not do this today?
 What are you talking about?
 Farell almost strung us up by our bollocks for losing track of you.
 Okay, Skinner. Watch this.
 Now I'm gonna close my eyes.
-- Ready?
-- Yeah.
+Ready?
+Yeah.
 Sneaky bastard.
 I didn't mind the extra push-ups.
 It's a new day people.
@@ -893,12 +893,12 @@ Yeah?
 In their day, this war would have been over by now.
 What do they want with us, anyway?
 It's obvious, isn't it? Minerals.
-- Minerals?
-- Yeah, minerals. Metals.
-- Oxygen, they want.
-- Oxygen?
-- Think about it.
-- What difference does it make?
+Minerals?
+Yeah, minerals. Metals.
+Oxygen, they want.
+Oxygen?
+Think about it.
+What difference does it make?
 They're here. They're winning.
 And whatever it is, they're gonna get it.
 Shouldn't you be over there?
@@ -912,8 +912,8 @@ The power's gone.
 I found the Omega.
 I found it. It has to be here.
 Curnera Dam, Germany.
-- This has got to be it. It fits the description.
-- You found it.
+This has got to be it. It fits the description.
+You found it.
 Again.
 What difference does it make?
 Because we're never gonna get there.
@@ -921,8 +921,8 @@ No matter what we do... no matter how carefully we plan... we can't get off that
 You can do this. You can.
 You keep coming here every day and I'll train you.
 You already have.
-- I'm waiting, Nance!
-- Five hundred meters and closing fast!
+I'm waiting, Nance!
+Five hundred meters and closing fast!
 What the...?
 Reload.
 What's next?
@@ -934,8 +934,8 @@ What's the problem?
 The ambush waiting for us. They kill us before we find a working car.
 Okay. So, what's the current plan?
 Two cars we haven't tried yet.
-- The minivan and the green SUV.
-- Yeah. Okay.
+The minivan and the green SUV.
+Yeah. Okay.
 I'll head for the SUV, draw the mimics to me. You go for the minivan.
 You get it started, just go, take off. Do not wait for me.
 Okay.
@@ -974,16 +974,16 @@ If you knew what was good for you, you wouldn't want to get to know me.
 It's the only way you make it through this thing.
 What about Hendricks?
 You get to know him?
-- How do you know that name?
-- You mentioned him.
+How do you know that name?
+You mentioned him.
 That's not possible.
 Then how do I know his name?
 When did I mention him?
 Under what circumstance?
 Is he why you won't talk to me?
 Don't ever mention his name again.
-- Why? Are you... in love with him?
-- He's dead.
+Why? Are you... in love with him?
+He's dead.
 And I watched him die 300 times and I remember every detail.
 I remember everything.
 So I don't need to talk about it.
@@ -993,17 +993,17 @@ There's nothing here.
 Let's keep going.
 We have to find the keys.
 Let's just siphon the gas.
-- Why drive when we can fly?
-- In that thing?
-- Let me guess. You're afraid of heights.
-- I'm afraid of crashing.
+Why drive when we can fly?
+In that thing?
+Let me guess. You're afraid of heights.
+I'm afraid of crashing.
 And not at all ashamed to admit it.
 You'll be fine, Cage.
 You'll learn. Oh.
 What is it?
 It's nothing. I'm fine.
-- What is it?
-- It's nothing.
+What is it?
+It's nothing.
 Rita.
 Let me see.
 We have to find the keys to the helicopter.
@@ -1022,13 +1022,13 @@ And curl up by the fire and open a bottle of wine.
 I think we should just reset.
 Whoa!
 It's a dead end. If it's all the same to you I'm tired. I'm in pain.
-- I'd rather just start fresh.
-- Tell you what.
+I'd rather just start fresh.
+Tell you what.
 Take a few minutes. Coffee's ready.
 I'll look for the keys.
 That's productive.
-- Ten minutes.
-- Okay.
+Ten minutes.
+Okay.
 Then I'm killing you.
 Fine.
 I can't believe you found coffee.
@@ -1036,22 +1036,22 @@ Thank you.
 Oh.
 Sugar, right?
 Yeah.
-- Thank you.
-- No, hold on. Three. You like three.
+Thank you.
+No, hold on. Three. You like three.
 There's a shirt over there.
 It should be your size.
 How many times have we been here?
 How many times?
 Where are the keys?
-- Where are the goddamn keys?
-- Okay.
+Where are the goddamn keys?
+Okay.
 You can fly it, can't you?
 No. Well, yes.
 I mean, I can take off.
 I'm still working on my landing.
 What are we still doing here?
-- You're wasting time!
-- Rita, if you start that engine, you die.
+You're wasting time!
+Rita, if you start that engine, you die.
 This is as far as you go.
 No matter what I do... this is as far as you ever make it.
 There's a mimic buried 20 yards away.
@@ -1098,8 +1098,8 @@ Whoo-hoo!
 We made it!
 Thank God, we made it!
 Finish it!
-- It isn't there.
-- What do you mean?
+It isn't there.
+What do you mean?
 My guess is it never was.
 They knew we were coming.
 They ambushed us.
@@ -1110,14 +1110,14 @@ It was after my blood.
 So they know who you are. They...
 They want their power back.
 They're gonna get it one way or another. Unless we find the Omega.
-- There isn't any other way. We're finished.
-- No.
+There isn't any other way. We're finished.
+No.
 We're not finished.
 I can't get it to work.
 You built a prototype at Whitehall.
 Yes, and I got fired for it, thank you very much.
-- What is this thing?
-- It's a transponder.
+What is this thing?
+It's a transponder.
 Stick it into the Alpha and it taps into the wavelength connecting it to the Omega.
 That's the idea, anyway.
 I can't get it to work.
@@ -1192,10 +1192,10 @@ Your dinner was canceled.
 You forgot the fuel dump.
 Thank you, Iris.
 That'll be all.
-- Cage, let's go. Come on.
-- Rita.
-- Let me... Don't shoot him again.
-- What are we doing?
+Cage, let's go. Come on.
+Rita.
+Let me... Don't shoot him again.
+What are we doing?
 Okay? Just...
 General, this isn't the first time we've had this conversation.
 That's because you're stubborn.
@@ -1207,12 +1207,12 @@ And the only means of finding it is in that safe right there.
 No matter how many times we have this conversation... you refuse to accept that the enemy breaks through to London tomorrow... and we lose. We lose everything.
 Let's say for one moment... that I can't rationally explain... your impressive parlor tricks.
 Dr. Carter told me... this device requires a live mimic to work. What use is it to you?
-- That's my concern.
-- On the contrary.
+That's my concern.
+On the contrary.
 According to you, this concerns the whole world.
 Well, what would you do if you believed everything I just told you?
-- I would locate this...
-- Omega.
+I would locate this...
+Omega.
 Bomb it out of existence.
 You're not mentally equipped to fight this thing. And you never will be.
 What do we do now?
@@ -1224,10 +1224,10 @@ Stop right there! Don't move!
 Nobody move!
 Weapon!
 Stop!
-- They're off and away!
-- They're...
-- What am I supposed to do with this?
-- Stick it in your leg. Do it!
+They're off and away!
+They're...
+What am I supposed to do with this?
+Stick it in your leg. Do it!
 <i>Cage, what's happening?</i>
 <i>Talk to me.</i>
 <i>I feel it. It's taking me there.</i>
@@ -1241,15 +1241,15 @@ A garage underneath the museum.</i>
 It's in Paris.
 Rita!
 Stay in the car!
-- Stay back.
-- Move away. Move away.
+Stay back.
+Move away. Move away.
 What have you done?
 What have you done?
 You'll be fine.
 You just needed blood.
 You don't know what you've just done.
-- I can't talk to you.
-- I was with someone.
+I can't talk to you.
+I was with someone.
 Rita Vrataski. Is she alive?
 Rita Vrataski.
 Please.
@@ -1259,8 +1259,8 @@ I'm sorry.
 I was out of those things in three minutes flat. What's wrong with you?
 I thought you were dead.
 Not yet.
-- Sorry, Cage.
-- No! Whoa. Wait! Wait!
+Sorry, Cage.
+No! Whoa. Wait! Wait!
 I'm out. I'm out.
 They gave me blood.
 I lost the power.
@@ -1273,12 +1273,12 @@ Need more soldiers too.
 Now, who's crazy enough to follow us to Paris?
 Cage!
 Cage!
-- Guys!
-- We've been looking everywhere for you.
-- Just listen.
-- Farell almost strung us up...
-- ...for losing track of you.
-- I know. Just listen.
+Guys!
+We've been looking everywhere for you.
+Just listen.
+Farell almost strung us up...
+...for losing track of you.
+I know. Just listen.
 You're gonna wanna hear this.
 It's gonna sound ridiculous at first.
 The longer I talk, the more rational it's going to appear.
@@ -1290,8 +1290,8 @@ Shut up.
 Look, I am telling you, man.
 He knows everything.
 About all of us.
-- Bullshit.
-- Yeah?
+Bullshit.
+Yeah?
 He says your name ain't really Ford.
 Says Ford was your friend.
 Died in combat on his first day.
@@ -1314,11 +1314,11 @@ We just met you.
 Why follow him into combat?
 I don't expect you to follow me.
 I expect you to follow her.
-- That's the Full Metal Bitch.
-- J Squad.
+That's the Full Metal Bitch.
+J Squad.
 This is Rita Vrataski.
-- Otherwise known as...
-- Yeah, yeah.
+Otherwise known as...
+Yeah, yeah.
 The Angel of Verdun.
 Okay.
 It's a new day, people.
@@ -1331,8 +1331,8 @@ Right, okay. So this
 Omega, it controls time.
 Just blow the New Age bollocks back where it came from.
 And then we go home.
-- Right, it's guarded by an Alpha.
-- Just kill it.
+Right, it's guarded by an Alpha.
+Just kill it.
 Okay?
 No!
 You heard what Cage said.
@@ -1372,14 +1372,14 @@ What matters is we finish this.
 With What?
 I mean, Griff can't even walk.
 We're three men down.
-- Come on.
-- We're running out of time.
+Come on.
+We're running out of time.
 Collect your ammo.
 Must be a thousand mimics between us and the pyramid.
 What we gonna do?
 Walk up to the front door?
-- If we stay here, we die.
-- Yeah?
+If we stay here, we die.
+Yeah?
 We'll never get through.
 We could.
 In that.
@@ -1388,8 +1388,8 @@ Doesn't need to fly.
 It just needs to get us across there with speed.
 If the engines are still running, we could steer it with the power levers.
 Skinner. Clear a path.
-- Try it again, now.
-- No, it's not reading.
+Try it again, now.
+No, it's not reading.
 Condition lever, low.
 Master power, on.
 Griff!
@@ -1403,8 +1403,8 @@ Hey, come on, man! We gotta go!
 Don't wait for us!
 Skinner!
 Griff, come on!
-- We're good to go. Where are they?
-- Where's Skinner and Griff?
+We're good to go. Where are they?
+Where's Skinner and Griff?
 They're not coming.
 Go, brother. You gotta go, man.
 I'll see you in the next life.
@@ -1430,8 +1430,8 @@ That's an Alpha.
 I'm gonna draw that thing away.
 You kill the Omega.
 No. You won't make it 10 feet before that thing kills you, Cage.
-- I can do it.
-- Take the grenades.
+I can do it.
+Take the grenades.
 I can do it.
 Listen to me. Listen to me.
 Neither one of us is getting out of here.
@@ -1451,14 +1451,14 @@ Isn't it brilliant?
 <i>Tomorrow, we advance on the western front.</i>
 <i>We believe we are marching to claim victory for ourselves...</i>
 <i>for our loved ones, for our countrymen for the entire human race.</i>
-- What are you? Sound off!
-- I'm a warrior!
-- What do warriors do?
-- Kill!
-- What are you gonna do?
-- Kill!
-- You have not been in 20 battles.
-- I have too.
+What are you? Sound off!
+I'm a warrior!
+What do warriors do?
+Kill!
+What are you gonna do?
+Kill!
+You have not been in 20 battles.
+I have too.
 You're gonna dump your load the second you hit the beach.
 How about you two go get yourselves a nice hot cup of shut-the-hell-up!
 Ha-ha. You funny, girl.
@@ -1466,10 +1466,10 @@ I bet you I set some kind of record tomorrow.
 Fastest time running backwards,
 Ford, slipping in your own shit.
 Knock off the grab-ass!
-- What are you? Sound off!
-- I'm a warrior!
-- What do warriors do?
-- Kill!
+What are you? Sound off!
+I'm a warrior!
+What do warriors do?
+Kill!
 Attention!
 Yes?
 What do you want?

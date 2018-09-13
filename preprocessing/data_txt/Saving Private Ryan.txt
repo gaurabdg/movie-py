@@ -16,12 +16,12 @@ Thank you...
 I said, what the hell do we do now, sir?
 Captain Miller!
 Captain Miller!
-- Captain Miller!
-- Sergeant Horvath!
+Captain Miller!
+Sergeant Horvath!
 Move your men off the beach! Go!
 Okay, you guys!
-- Get on my ass! Follow me!
-- Sir!
+Get on my ass! Follow me!
+Sir!
 What's the rallying point?
 Anywhere but here!
 The seawall! Move up to the seawall!
@@ -39,11 +39,11 @@ Here to set up field operations!
 Get rid of that crap!
 Grab yourselves some weapons.
 Follow me.
-- I'm hit! I'm hit!
-- Briggs!
+I'm hit! I'm hit!
+Briggs!
 Get me out of here. I'm hit low. God!
-- Medic!
-- Navy Beach Battalion, sir.
+Medic!
+Navy Beach Battalion, sir.
 I gotta clear these obstacles, make holes for the tanks.
 All the armour is foundering in the Channel.
 Orders, sir. You go somewhere else.
@@ -56,10 +56,10 @@ Shore party.
 No armour has made it ashore.
 We got no DD tanks on the beach.
 Dog One is not open.
-- Who's in command here?
-- You are, sir!
-- Sergeant Horvath!
-- Sir!
+Who's in command here?
+You are, sir!
+Sergeant Horvath!
+Sir!
 You recognise where we are?
 Right where we're supposed to be, but no one else is!
 Nobody's where they're supposed to be.
@@ -73,46 +73,46 @@ Able Company and George Company!
 Plus we got some Navy demo guys and a beachmaster!
 Shore party. Shore party.
 CATF, CATF...
-- Reiben here, sir!
-- Did you see anybody else?
-- Jackson, but that's about it.
-- Mellish here.
+Reiben here, sir!
+Did you see anybody else?
+Jackson, but that's about it.
+Mellish here.
 Caparzo! We got DeForest back there with Wade.
 He's hurt so bad he says he sprung 100 leaks.
 Wade says he's all used up.
-- Move on to somebody you can help.
-- Let's go!
+Move on to somebody you can help.
+Let's go!
 He's battalion surgeon, sir!
-- Get his attention.
-- Wade!
-- Yo, Doc!
-- Wade!
-- Wade! Wade! Wade!
-- Wade!
-- Wade! Wade! Wade!
-- Too risky, Doc. Too risky.
-- Wade!
-- All right. Get him off the beach.
+Get his attention.
+Wade!
+Yo, Doc!
+Wade!
+Wade! Wade! Wade!
+Wade!
+Wade! Wade! Wade!
+Too risky, Doc. Too risky.
+Wade!
+All right. Get him off the beach.
 I got it! We stopped the bleeding!
 We stopped the bleeding!
 Fuck!
 Just give us a fucking chance, you son of a bitch!
-- Son of a fucking cocksucker!
-- Wade! Come on. Come on.
+Son of a fucking cocksucker!
+Wade! Come on. Come on.
 Wade! It's Mellish! Wade!
-- Mellish!
-- Let's go!
+Mellish!
+Let's go!
 We found Miller!
-- Fuck it!
-- Let's move! Let's move!
+Fuck it!
+Let's move! Let's move!
 This is all? This is all that's made it?
 We got scattered pretty bad, sir.
 There's bound to be more.
-- Not enough. It's not enough.
-- Dog One exit...
+Not enough. It's not enough.
+Dog One exit...
 It's gotta be that cut on the right.
-- Or is that one on the left? Shit!
-- No. No, no, no.
+Or is that one on the left? Shit!
+No. No, no, no.
 Vierville is to the west of us.
 This is Dog One.
 They're killing us!
@@ -130,26 +130,26 @@ Bangalores up the line!
 Bangalores up the line!
 Heads up! Bangers coming your way!
 Come on, come on, come on!
-- Jackson here, sir!
-- Reiben back, sir!
+Jackson here, sir!
+Reiben back, sir!
 Oh, my God!
 One more. Give me one more.
 Oh, my God, it hurts! I'm gonna die!
 Oh, my God! Oh, Jesus! Oh, my God!
 Keep it moving. Keep it moving.
 Almost got it.
-- Jesus! Lucky bastard.
-- Come on.
-- Move it!
-- Keep it moving. You got it?
+Jesus! Lucky bastard.
+Come on.
+Move it!
+Keep it moving. You got it?
 God! God, help me!
 You're not gonna die.
 You're not gonna die.
 You're fine. Don't look at it.
 Don't look at it.
 Bangalores! Clear the shingle!
-- Fire in the hole!
-- Fire in the hole!
+Fire in the hole!
+Fire in the hole!
 Fire in the hole!
 Fire in the hole!
 We're in business! Defilade!
@@ -160,10 +160,10 @@ Routine.
 Priority.
 He's gone.
 Son of a...
-- Get in there.
-- Fuck. I can't move.
-- Mellish.
-- Yes, sir.
+Get in there.
+Fuck. I can't move.
+Mellish.
+Yes, sir.
 Give me your bayonet.
 Two MG42s and two mortars.
 Add 20, left 30.
@@ -186,10 +186,10 @@ Covering fire!
 Go, go, go!
 Come on! Come on! Come on!
 Go, God damn it!
-- Jackson.
-- Sir.
-- Do you see that impact crater?
-- Yes, sir.
+Jackson.
+Sir.
+Do you see that impact crater?
+Yes, sir.
 That should give you complete defilade from that machine-gun position.
 Get in there and give me some fire discipline.
 Wait for my command.
@@ -202,17 +202,17 @@ I detest my sins for having offended thee, O Lord.
 I detest my sins for having offended thee, O Lord.
 Listen to me, Lord.
 All my strength, haste thee to help me.
-- Dog One exit! Right here!
-- We're in business!
+Dog One exit! Right here!
+We're in business!
 Move! Move!
-- Reiben.
-- Let's go, Sarge. Go!
+Reiben.
+Let's go, Sarge. Go!
 Reiben.
 The place is full of 'em!
 Come on, Doyle!
 Sarge?
-- Flame!
-- Doyle, do it!
+Flame!
+Doyle, do it!
 Don't shoot! Let them burn!
 I'll give you "comrade," you son of a bitch!
 Lie down!
@@ -227,8 +227,8 @@ What? I'm sorry, I can't understand what you're saying.
 What did he say? What did he say?
 "Look, I washed for supper."
 God damn it!
-- Hey, Fish.
-- Yeah?
+Hey, Fish.
+Yeah?
 Look at this. A Hitler Youth knife.
 And now it's a Shabbat challah cutter, right?
 Keep it moving!
@@ -259,8 +259,8 @@ Colonel, I've got something you should know about.
 Yes.
 These two men died in Normandy.
 This one at Omaha Beach.
-- Sean Ryan.
-- This man at Utah.
+Sean Ryan.
+This man at Utah.
 Peter Ryan.
 This man was killed last week in New Guinea.
 Daniel Ryan.
@@ -271,8 +271,8 @@ The youngest.
 He parachuted in with the 101 st Airborne, night before the invasion.
 He's somewhere in Normandy.
 We don't know where.
-- Is he alive?
-- We don't know.
+Is he alive?
+We don't know.
 Come with me.
 God damn it.
 All four of them were in the same company in the 29th Division, but we split them up after the Sullivan brothers died on the Juneau.
@@ -310,11 +310,11 @@ General of Massachusetts
 "Abraham Lincoln."
 That boy is alive.
 We are gonna send somebody to find him, and we are gonna get him the hell out of there.
-- Yes, sir.
-- Yes, sir.
+Yes, sir.
+Yes, sir.
 We expected 32 tanks to float to the beach. Twenty-seven didn't make it.
-- Miller, Charlie Company.
-- Go on in, Captain.
+Miller, Charlie Company.
+Go on in, Captain.
 I understand your situation.
 But if we don't offload those duel-drive Shermans by 0600, we're gonna have an entire division stuck at Carentan with its pants around its ankles.
 Well, you let me know then.
@@ -322,8 +322,8 @@ Have Charlie Company hold at Vierville until we can get some armour up there.
 Yes, sir. Runner!
 Airborne was supposed to win an open door for the rest of us.
 Instead they misdropped, scattered all their sticks into the wind.
-- What's your situation?
-- Yes, sir. Sector four is secure.
+What's your situation?
+Yes, sir. Sector four is secure.
 We...
 We took out towed 88s here, here and here.
 They'd already gotten four of our Shermans and a number of our deuce and a halves.
@@ -348,8 +348,8 @@ That's why you got it.
 Yes, sir.
 John...
 I've got another one for you.
-- Yes, sir.
-- This one's straight from the top.
+Yes, sir.
+This one's straight from the top.
 You and I are taking a squad over to Neuville on a public-relations mission.
 You leading a squad?
 Some private in the 101 st lost three brothers, and he's got a ticket home.
@@ -367,46 +367,46 @@ Wade, Beasley and Caparzo.
 Beasley's dead.
 All right, Mellish, then.
 We got anybody speaks French?
-- Not that I know of.
-- What about Talbot?
-- This morning.
-- Oh. All right.
+Not that I know of.
+What about Talbot?
+This morning.
+Oh. All right.
 I'm gonna go try to dig up another interpreter.
 Assemble at battalion motor pool on the beach.
 Yes, sir.
-- Sarge, what we gonna do?
-- Okay, listen up...
-- What?
-- What are we gonna do?
+Sarge, what we gonna do?
+Okay, listen up...
+What?
+What are we gonna do?
 You're going home wrapped in an American flag with a hunk of cheese in your ass, Caparzo, you smart ass.
-- Now, listen up.
-- I thought you liked it in the ass.
-- What?
-- I thought you liked it in the ass.
+Now, listen up.
+I thought you liked it in the ass.
+What?
+I thought you liked it in the ass.
 Attention!
 As you were.
 I'm looking for Corporal Upham, Timothy E.
 Yes, sir. I'm Upham, sir.
 I understand you speak
 French and German.
-- Yes, sir.
-- How's your accent?
+Yes, sir.
+How's your accent?
 Just a slight one in French, but my German's clean.
-- Has a touch of Bavarian, sir.
-- Very good.
+Has a touch of Bavarian, sir.
+Very good.
 You've been reassigned to me.
 Grab your gear.
-- We're going to a place called Neuville.
-- Yes, sir.
-- When was this updated?
-- Updated as of 0830 hour this morning.
-- Sir...
-- This is the 12th SS Panzer.
+We're going to a place called Neuville.
+Yes, sir.
+When was this updated?
+Updated as of 0830 hour this morning.
+Sir...
+This is the 12th SS Panzer.
 These are the two axes that advance south.
-- Sir, there are Germans in Neuville.
-- There are artillery up here, sir.
-- That's what I understand. Corporal.
-- Yes, sir.
+Sir, there are Germans in Neuville.
+There are artillery up here, sir.
+That's what I understand. Corporal.
+Yes, sir.
 Sir, there are a lot of Germans in Neuville.
 You have a problem with that, Corporal?
 No, sir. Just if you consider
@@ -415,40 +415,40 @@ I make maps and I translate.
 And that's...
 I need someone who speaks
 French and German.
-- Yes, sir.
-- My two guys were killed.
+Yes, sir.
+My two guys were killed.
 Yes, sir. It's just that I haven't held a weapon since basic training, sir.
 Did you fire the weapon in basic training?
 Yes, sir.
-- Well, then, get your gear.
-- Yes, sir.
+Well, then, get your gear.
+Yes, sir.
 Sir, may I bring...
 May I bring my typewriter, sir?
 Yes, sir.
 Thank you very much, sir.
-- That a souvenir?
-- No, sir.
+That a souvenir?
+No, sir.
 Take your time, Corporal.
 You should look on the bright side of things, Corporal.
 Yes, sir.
 For one thing, you don't need to carry those.
-- You'll need that.
-- I'll need that, sir. Yes, sir.
+You'll need that.
+I'll need that, sir. Yes, sir.
 Hey!
 You want your head blown off, you fancy little fuck?
 Don't you ever fucking touch me with those little rat claws again.
 Get the fuck back in formation.
 I was just wondering where you're from, that's...
-- Caparzo, is it?
-- Hey, drop dead, Corporal.
+Caparzo, is it?
+Hey, drop dead, Corporal.
 Got you.
 And another thing.
 Every time you salute the captain, you make him a target for the Germans.
 So do us a favour. Don't do it.
 Especially when I'm standing next to him, capisci?
 Corporal, what's your book about?
-- Hey. Watch your rifle.
-- Sorry.
+Hey. Watch your rifle.
+Sorry.
 Actually, it's about the...
 It's supposed to be about the bonds of brotherhood that develop between soldiers during war.
 Brotherhood?
@@ -471,14 +471,14 @@ Theirs but to do and die"
 What the fuck is that supposed to mean, Corporal, huh?
 We're all supposed to die. Is that it?
 Upham's talking about our duty as soldiers.
-- Yes, sir.
-- We all have orders we have to follow.
+Yes, sir.
+We all have orders we have to follow.
 And that supersedes everything, including your mothers.
 Yes, sir. Thank you, sir.
 Even if you think the mission's FUBAR, sir?
 Especially if you think the mission's FUBAR.
-- What's FUBAR?
-- Oh, it's German. Yeah.
+What's FUBAR?
+Oh, it's German. Yeah.
 Never heard of that.
 Sir, I have an opinion on this matter.
 Well, by all means, share it with the squad.
@@ -509,30 +509,30 @@ What would you say then?
 Well, in that case,
 I'd say this is an excellent mission, sir, with an extremely valuable objective, sir, worthy of my best efforts, sir.
 Moreover, I feel heartfelt sorrow for the mother of Private James Ryan, and am willing to lay down my life and the lives of my men, especially you, Reiben, to ease her suffering.
-- He's good.
-- I love him.
+He's good.
+I love him.
 Right.
-- Thunder!
-- Flash!
+Thunder!
+Flash!
 Upham, over there. Reiben, you four go.
 Go, go, go, go, go!
-- You guys are a sight for sore eyes.
-- Sergeant Hill, our relief showed up.
+You guys are a sight for sore eyes.
+Sergeant Hill, our relief showed up.
 How many are you?
 Just eight of us.
 We're not your relief. Sorry.
 You're not the relief, what do you mean, sir?
 We're here for a Private Ryan.
 Who? Ryan? What for?
-- Is he here?
-- Well, I don't know.
+Is he here?
+Well, I don't know.
 Maybe with a mixed unit on the other side of town.
 It's hard to get to. The Germans punched a hole in our centre a few hours ago, they cut us right in two.
-- What's his name again?
-- Ryan. James Ryan.
+What's his name again?
+Ryan. James Ryan.
 He dropped in with 101 st.
-- Goldman, get me a runner up here.
-- Runner!
+Goldman, get me a runner up here.
+Runner!
 Come on.
 Jonesy, make a hole up there!
 We got stopped by some intense rifle action from the eastward.
@@ -542,50 +542,50 @@ Most of the German fire now is concentrated to the westward.
 Who's that on the loudspeaker?
 That? That's Dagwood Dusseldorf, our friendly neighbourhood morale officer.
 The Statue of Liberty is kaput.
-- "The Statue of Liberty is kaput."
+"The Statue of Liberty is kaput."
 ...kaput.
 That's disconcerting.
 Take the second left...
 Your father was circumcised by my rabbi, you prick!
 Private Ryan, James, probably misdropped with the 101.
-- Got that?
-- Cover!
+Got that?
+Cover!
 Go!
-- You sadistic fucking animals!
-- Get down.
+You sadistic fucking animals!
+Get down.
 They know we're not in direct contact.
 They're gonna single out the runners.
 Yeah. Why do they keep shooting him up like that?
 Long as his lungs have breath in them, he still carries the message.
-- We'd do the same thing.
-- No, we wouldn't!
-- Wade! Get them ready to travel.
-- Yes, sir.
-- Boyd!
-- Come on!
+We'd do the same thing.
+No, we wouldn't!
+Wade! Get them ready to travel.
+Yes, sir.
+Boyd!
+Come on!
 Try again. See if you can let
 Captain Hamill know we're coming.
 What's the rest of Neuville look like?
 Next block's got two-storey buildings, both sides of the street.
-- There's a lot of windows.
-- ... copy? Over.
+There's a lot of windows.
+... copy? Over.
 And then there's a wide open square with pretty good cover on the left.
-- Show me.
-- Sarge, hold right here.
+Show me.
+Sarge, hold right here.
 Yes, sir!
 All right. Let's stay out of this enfilade and use the buildings.
 Try a left hook.
 Shoot and scoot, two of yours, two of mine.
 Hastings, Goldman, up front!
-- Reiben, Caparzo. Fundamentals.
-- They're still jamming us.
+Reiben, Caparzo. Fundamentals.
+They're still jamming us.
 Short runs. High and low at the corners.
 It's gonna be tight.
 Be prepared for close contact.
-- Go. Upham.
-- Yes, sir.
-- You stay with Sergeant Horvath.
-- Stay right here.
+Go. Upham.
+Yes, sir.
+You stay with Sergeant Horvath.
+Stay right here.
 I'll wear him like underwear, Captain!
 Stay with me.
 All right, past the end of the block to the left.
@@ -614,13 +614,13 @@ You gotta pay attention to detail.
 I know exactly where he's from and exactly what he did
 'cause I pay attention to detail.
 Hey, Upham, careful you don't step in the bullshit.
-- Do it.
-- Thunder!
+Do it.
+Thunder!
 Thunder, or we will fire on you!
 Upham, tell them to show themselves.
 Ask them if they know where the Germans are.
-- What's he saying?
-- Something about the children.
+What's he saying?
+Something about the children.
 They want us to take the children.
 No, no, no.
 We can't take the kids.
@@ -628,14 +628,14 @@ We can't take the kids. We can't!
 We can't take the kids! No!
 They think they'll be safe with us.
 It's not gonna be safe when they're with us!
-- It's okay. It's okay.
-- Are you nuts? Listen to the captain!
-- Are you nuts? Listen to the captain!
-- They think they'll be safe with us, sir.
+It's okay. It's okay.
+Are you nuts? Listen to the captain!
+Are you nuts? Listen to the captain!
+They think they'll be safe with us, sir.
 Caparzo! Put that kid back!
 It's okay.
-- Caparzo! Put that little girl back!
-- It's okay. It's okay. It's okay.
+Caparzo! Put that little girl back!
+It's okay. It's okay. It's okay.
 Caparzo, give that kid back now!
 Upham, how do you say, "It's okay"?
 I can't. She reminds me of my niece, sir.
@@ -658,8 +658,8 @@ Jacqueline!
 Please don't cry. I'm gonna take you back to your mama and papa.
 Please don't cry. Come on.
 Carpy.
-- Captain.
-- Hold on, Caparzo.
+Captain.
+Hold on, Caparzo.
 Help me up. I can walk. I can walk.
 Caparzo, stay still!
 Two clicks, left wind.
@@ -667,13 +667,13 @@ Fish!
 Captain, can you see him from there? How is he?
 Wade, you stay put.
 Where's he shot, Captain?
-- Captain, can you see him from there?
-- You stay there!
+Captain, can you see him from there?
+You stay there!
 Damn it, stay down!
 What's the matter with you?
 Am I gonna take care of you if you get hit? Huh?
-- Fish, come over here.
-- Carpy, put your head down.
+Fish, come over here.
+Carpy, put your head down.
 Why can't you put your head down?
 O my God, I trust in thee.
 Let me not be ashamed.
@@ -682,28 +682,28 @@ Copy it.
 Copy it and send it for me.
 Carpy, you're gonna send it yourself.
 Put it down!
-- It's got blood!
-- I see it. Carpy, I see it.
+It's got blood!
+I see it. Carpy, I see it.
 It's to my dad. It's got blood on it, Fish.
 We got him. Stay down.
-- How bad is it?
-- Chest, maybe lung shot.
+How bad is it?
+Chest, maybe lung shot.
 Get that 30 up the street!
 Detail!
-- Clear up!
-- Clear down!
+Clear up!
+Clear down!
 That's why we can't take children.
 Sergeant Horvath, do an ammo check.
 Upham, canteens. Fill them up.
-- Sergeant Hill.
-- Yes, sir.
+Sergeant Hill.
+Yes, sir.
 Gather your men. We'll form up at the northwest corner of the square.
-- Jackson!
-- Sir.
+Jackson!
+Sir.
 Mellish, check the tower, hustle back here. Right now. Go!
 Fuck Ryan.
-- Thunder!
-- Flash!
+Thunder!
+Flash!
 Come on in.
 Hey, guys, we're looking for Captain Hamill.
 Somewhere down there across the square.
@@ -720,35 +720,35 @@ You guys just flake out here for a while.
 Let me get this goddamn hitchhiker out of my boot.
 Drop your weapons!
 Drop your weapons!
-- Drop them now!
-- Drop the fucking weapons!
-- I'll shoot you! I'll shoot you!
-- Drop! Drop! Drop them!
+Drop them now!
+Drop the fucking weapons!
+I'll shoot you! I'll shoot you!
+Drop! Drop! Drop them!
 Now! Put them down!
 Clear up!
-- Shit. Shit!
-- Clear up!
+Shit. Shit!
+Clear up!
 Clear down!
-- Enough to make you old.
-- Let's hope so.
+Enough to make you old.
+Let's hope so.
 Fred Hamill, Pathfinders, 101 st.
 John Miller, 2nd Rangers. Thank you.
 We're here looking for a Private James Ryan.
 He's part of your outfit.
 Any chance at all you policed him up?
-- How was the road in?
-- Scenic.
-- We lost most of our ammo.
-- Not to mention one of our men.
+How was the road in?
+Scenic.
+We lost most of our ammo.
+Not to mention one of our men.
 Lieutenant, redeploy that bazooka to the right side of the road.
-- Yes, sir!
-- And get Ryan up here.
+Yes, sir!
+And get Ryan up here.
 Ryan! Ryan, front and centre!
 Ryan!
 Here comes our boy.
 Told you he was an asshole.
-- Sir, Private Ryan reporting as ordered.
-- At ease.
+Sir, Private Ryan reporting as ordered.
+At ease.
 Captain Miller, 2nd Rangers.
 He wants a word with you.
 This way.
@@ -763,13 +763,13 @@ Oh, my God. My brothers are dead.
 I was supposed to take them fishing when we got home.
 I'm so sorry, James.
 I can't tell you how much.
-- How... How did they die?
-- They were killed in action.
+How... How did they die?
+They were killed in action.
 That can't be. They're...
 That... That can't be.
 My brothers are still in grammar school.
-- You're James Ryan?
-- Yeah.
+You're James Ryan?
+Yeah.
 James Francis Ryan from Iowa?
 James Frederick Ryan, Minnesota.
 What? Does that mean my brothers are okay?
@@ -783,21 +783,21 @@ How do you know the foul-up isn't that his brothers are okay and that...
 Lieutenant, I'm sorry for the trouble.
 I just wrote them a letter right before I left. I got to get home.
 I got to get home right now.
-- I wanna go home.
-- Easy, now.
-- So, where in the hell is our Ryan?
-- I don't know.
+I wanna go home.
+Easy, now.
+So, where in the hell is our Ryan?
+I don't know.
 Are you in touch with your CO?
-- That figures.
-- What unit's your Ryan in?
+That figures.
+What unit's your Ryan in?
 Baker Company, 506th.
 The guy with the broken foot, he's 506, right?
 Yeah. Charlie, I think.
-- You think?
-- Yeah.
+You think?
+Yeah.
 Ryan? Don't know... Man!
-- Where was your drop zone?
-- Just inside of Vierville.
+Where was your drop zone?
+Just inside of Vierville.
 Vierville? How the hell did you end up way up here?
 You got me, sir. C-47 took heavy fire.
 Pilot went crazy trying to get out of there, turning every which way.
@@ -814,27 +814,27 @@ We're gonna hold up here for about three hours.
 We'll pull out after dark.
 Got anything left in this town like a three-star hotel?
 Something with clean sheets and soft pillows and room service?
-- How about a nice, comfy church?
-- We'll take that.
+How about a nice, comfy church?
+We'll take that.
 What have you heard?
 How's it all falling together?
 Well, we got the beachhead secure.
 Problem is Monty's taking his time moving on Caen.
 We can't pull out till he's ready, so...
-- That guy's overrated.
-- No argument here.
+That guy's overrated.
+No argument here.
 You gotta take Caen, so you can take Saint-LÃ´.
 You got to take Saint-LÃ´ to take Valognes.
 Valognes, you got Cherbourg.
-- Cherbourg, you got Paris.
-- Paris, you get Berlin.
+Cherbourg, you got Paris.
+Paris, you get Berlin.
 And then that big boat home.
 We sure as hell could use you around here, but I understand what you're doing.
-- You do?
-- Yeah.
+You do?
+Yeah.
 I got a couple of brothers myself.
-- Good luck.
-- Thank you.
+Good luck.
+Thank you.
 No, I mean it. Find him. Get him home.
 What's with your hand?
 I don't know.
@@ -843,13 +843,13 @@ It comes and goes.
 Well, you may have to get yourself a new line of work.
 This one doesn't seem to agree with you any more.
 What?
-- What?
-- Nothing.
+What?
+Nothing.
 What was the name of that kid at Anzio?
 The one that was always walking around on his hands, you know?
 And he was singing that song about the man on the flying trapeze.
-- Vecchio.
-- Vecchio.
+Vecchio.
+Vecchio.
 Yeah, Vecchio.
 He was a goofy kid.
 Remember, he used to pee a "V" on everybody's jacket for Vecchio, for victory.
@@ -866,8 +866,8 @@ You see, when you end up killing one of your men, you tell yourself it happened 
 Maybe 100 others.
 Do you know how many men
 I've lost under my command?
-- How many?
-- Ninety-four.
+How many?
+Ninety-four.
 But that means I've saved the lives of 10 times that many, doesn't it?
 Maybe even 20, right?
 Twenty times as many?
@@ -884,8 +884,8 @@ Look. There it goes again.
 Sir, are you all right?
 Now, look, we're gonna move out in two hours.
 Why don't you get some sleep?
-- I don't know how he does it.
-- What's that?
+I don't know how he does it.
+What's that?
 Falls asleep like that.
 I mean, look at him.
 The guy's lights out the minute his head hits the pack.
@@ -906,8 +906,8 @@ My ma, she would've come home, shook me awake, chatted me up till dawn.
 I swear, that woman was never too tired to talk.
 Yeah. That's probably the only time she could get a word in.
 Funny thing is, sometimes she'd come home early, and I'd pretend to be asleep.
-- Who? Your mum?
-- Yeah.
+Who? Your mum?
+Yeah.
 She'd stand in the doorway, looking at me.
 And I'd just keep my eyes shut.
 And I knew she just wanted to find out about my day, that she came home early just to talk to me.
@@ -928,8 +928,8 @@ How is that?
 "brings men into such swift and close collision
 "in critical moments that man measures man."
 Yeah. Well, I guess that's Emerson's way of finding the bright side.
-- You know Emerson, sir?
-- I know some.
+You know Emerson, sir?
+I know some.
 So, where are you from, Captain?
 What'd you do before the war?
 What's the pool up to?
@@ -940,18 +940,18 @@ How about that?
 Well, if that's the way you feel, sir.
 I feel it's my duty under your command to suggest that we wait until it gets up to 1,000, sir.
 What if we don't live that long?
-- 500 would be good, yeah.
-- Yes, sir.
-- Yeah.
-- Get some sleep, Corporal.
-- Yes, sir.
+500 would be good, yeah.
+Yes, sir.
+Yeah.
+Get some sleep, Corporal.
+Yes, sir.
 Who's got sulfa powder?
 Medic! My buddy's bleeding!
 He needs a tourniquet!
-- Wade.
-- Yes, sir?
-- See what you can do.
-- Yes, sir.
+Wade.
+Yes, sir?
+See what you can do.
+Yes, sir.
 Hold on, fellas. It won't be much longer.
 How we doing here?
 All right.
@@ -963,15 +963,15 @@ Don't worry, fellas.
 The 29th Infantry's breaking through, they'll be here soon.
 Plasma.
 Anybody got plasma?
-- Captain. Hey, Captain.
-- Soldier, you want to fill me in?
+Captain. Hey, Captain.
+Soldier, you want to fill me in?
 Yeah. Lieutenant DeWindt, sir.
 99th Troop Carrier Squadron, carrying in 327th Glider Infantry.
 This one was mine, sir.
-- I was the pilot.
-- Private?
-- Twenty-two men dead.
-- Private, take care of...
+I was the pilot.
+Private?
+Twenty-two men dead.
+Private, take care of...
 I ended up over there without a scratch.
 It took my co-pilot's head right off.
 Well, where's the unit?
@@ -986,8 +986,8 @@ We're looking for a Private James Ryan.
 He's in Baker Company, the 506 of the 101 st.
 No, you got me, sir.
 A lot of guys come in and out of here.
-- Upham.
-- Yes, sir.
+Upham.
+Yes, sir.
 Check out that squad.
 See if Ryan's in it.
 Yes, sir.
@@ -996,14 +996,14 @@ Smell that leg right there.
 Find out if it's south of cheese.
 What?
 Juden.
-- Juden.
-- Keep moving.
-- Keep moving!
-- Juden.
+Juden.
+Keep moving.
+Keep moving!
+Juden.
 I'm Juden, you know?
 Yeah, I couldn't pry him out of there, hard as I tried.
-- I'd need a winch.
-- Yeah.
+I'd need a winch.
+Yeah.
 Stars.
 Yep, Brigadier General Amend,
 Deputy Commander, 101 st.
@@ -1021,18 +1021,18 @@ We were just... We were just too damn heavy, you know?
 The grass was wet.
 Downward slope and all.
 Twenty-two guys dead.
-- All that for a general?
-- One man.
-- A lot of that going around.
-- FUBAR.
-- FUBAR.
-- FUBAR.
+All that for a general?
+One man.
+A lot of that going around.
+FUBAR.
+FUBAR.
+FUBAR.
 FUBAR.
 You all got that right.
 Hey, I looked up "FUBAR" in the German dictionary.
 There's no "FUBAR" in there.
-- Upham.
-- Yes, sir?
+Upham.
+Yes, sir?
 There's more paratroops out there.
 Find out if one of them is Ryan.
 Yes, sir.
@@ -1041,8 +1041,8 @@ Dog tags.
 More than I really want to count, sir.
 I've covered a lot of bodies, sir.
 Jackson.
-- Start going through those.
-- Yes, sir.
+Start going through those.
+Yes, sir.
 I'll help.
 What do you think, Jackson?
 Do you think that little prick's in there?
@@ -1050,8 +1050,8 @@ Well, if he is, I'm gonna find him.
 I bet that son of a bitch is here.
 I got big money saying this guy's still alive.
 10 bucks says I nail him first.
-- Let's see who we got in here.
-- You mugs don't stand a chance.
+Let's see who we got in here.
+You mugs don't stand a chance.
 All right, you think this little shit bird is in here or what?
 Just keep looking.
 All right. Gary lanico.
@@ -1067,32 +1067,32 @@ Keep them in your own fucking pile.
 How am I supposed to know who we got?
 Why don't you just shut up,
 Reiben? All right.
-- Everybody be friends.
-- Cranky there, huh?
-- I think I got a winner.
-- What you talking about?
+Everybody be friends.
+Cranky there, huh?
+I think I got a winner.
+What you talking about?
 Ryan.
-- Ryan.
-- Take a look at that, Mellish.
+Ryan.
+Take a look at that, Mellish.
 You know what?
 You're a genius. You really are.
 R- I-E-N-N-E.
 That's Rienne and that's French.
 All right.
-- You know what that means?
-- It means nothing.
-- What beats three of a kind?
-- I got shit here.
-- I got all guys from New York.
-- I got a full house.
-- Do you need a hand with that?
-- I got a full house.
-- I got you beat. I got the straight flush.
-- Full house, he's got.
+You know what that means?
+It means nothing.
+What beats three of a kind?
+I got shit here.
+I got all guys from New York.
+I got a full house.
+Do you need a hand with that?
+I got a full house.
+I got you beat. I got the straight flush.
+Full house, he's got.
 You were looking at my tags.
 You're cheating, you know?
-- Ryan.
-- Fucking unreal, this guy.
+Ryan.
+Fucking unreal, this guy.
 Do you need a hand with that?
 Can you read that shit?
 Jesus Christ. Look at this poor bastard.
@@ -1100,18 +1100,18 @@ I guess they're not bullet-proof, huh?
 Guess not. All right?
 I don't like what he's got between his ears.
 Sort of like what you fellas got between your legs.
-- We got to give him that.
-- That's not bad.
+We got to give him that.
+That's not bad.
 Not bad with you, Jackson.
 All right, I got three of a kind.
 All right.
-- Full house.
-- What the hell are you doing?
+Full house.
+What the hell are you doing?
 The whole goddamn
 Airborne's watching.
 These aren't poker chips.
-- All right, all right, all right.
-- Put them back in there!
+All right, all right, all right.
+Put them back in there!
 He's not here.
 Maybe we should bust up into a couple of different groups, huh?
 And wander the woods like Hansel and Gretel, calling his name.
@@ -1128,24 +1128,24 @@ Private James Ryan from Iowa?
 Anybody know a Ryan?
 James Ryan!
 Hey, Joe, doesn't Mandelsohn pal around with a Ryan from C Company?
-- Yeah. I think so.
-- Bring him up here, would you?
-- Do you know Private Ryan?
-- You're gonna have to speak up, sir.
+Yeah. I think so.
+Bring him up here, would you?
+Do you know Private Ryan?
 You're gonna have to speak up, sir.
-- My hearing is not good!
-- It comes and goes!
-- It comes and goes!
-- A German grenade went off
-- next to his ear.
-- A grenade went off right by my head!
+You're gonna have to speak up, sir.
+My hearing is not good!
+It comes and goes!
+It comes and goes!
+A German grenade went off
+next to his ear.
+A grenade went off right by my head!
 Got it, got it. Do you know Private Ryan?
 Who?
 Private Ryan! James Ryan!
-- Jimmy Ryan?
-- James! James Francis Ryan!
-- No, no, no. James Francis Ryan.
-- All right. Get me a pencil.
+Jimmy Ryan?
+James! James Francis Ryan!
+No, no, no. James Francis Ryan.
+All right. Get me a pencil.
 Something to write on.
 Something to write on.
 Quick! Quick! Come on, a pencil!
@@ -1155,8 +1155,8 @@ James Francis Ryan, question mark.
 Iowa, question mark.
 Do you know him? Does he know him?
 Read the message. Look.
-- Yeah. Of course I know him, sir.
-- Does he know where he is?
+Yeah. Of course I know him, sir.
+Does he know where he is?
 Yeah, yeah. We missed our drop zone by about 20 miles, ended up way over by Bumville or some damn place.
 Him, me and a couple of other guys were coming here to the rally point, ran into a Colonel who was gathering up men to go to Ramelle.
 Ramelle.
@@ -1164,8 +1164,8 @@ To baby-sit a bridge.
 That's the last I've seen of him, sir.
 Great! Great! Thank you.
 Write thank... Read, and thank you.
-- You're welcome!
-- Assemble on me.
+You're welcome!
+Assemble on me.
 Thank you, Lieutenant.
 Ramelle.
 We're here. There.
@@ -1183,8 +1183,8 @@ A radar site.
 It's gotta be out of action.
 Looks like we got something in that.
 Sandbag bunker right under the station.
-- See it?
-- Yeah. That's my guess, too.
+See it?
+Yeah. That's my guess, too.
 What is it?
 Machine gun. Probably MG42.
 Jesus. Is that what got those guys?
@@ -1194,8 +1194,8 @@ Yeah, well, I don't know how fast the rest of you betties are, but I'm thinking 
 So, Captain, what I'm trying to say is why don't we just go around the thing?
 I hear what you're saying, but we can't go around it.
 I'm with Reiben on this one, sir.
-- I mean, we left them 88s.
-- For the Air Force.
+I mean, we left them 88s.
+For the Air Force.
 The Air Force isn't gonna spend ordnance on one machine gun.
 Captain...
 We can still skip it and accomplish our mission.
@@ -1213,16 +1213,16 @@ I'll go up the middle.
 Who's going left?
 Who's going left?
 I'll do it.
-- I'll go left.
-- All right.
+I'll go left.
+All right.
 Upham, switch off with Jackson, and you linger in the rear.
 Yes, sir.
 We advance and keep pressure on him till he has to change out his barrels.
 I think we should be able to hit him from grenade range.
-- Maybe I should go up the middle, sir.
-- The way you run? I don't think so.
-- Maybe I should go left, sir.
-- Maybe you should shut up.
+Maybe I should go up the middle, sir.
+The way you run? I don't think so.
+Maybe I should go left, sir.
+Maybe you should shut up.
 Reiben, base of fire.
 Mags and clips where you can reach them, and...
 And extra grenades for the base runners.
@@ -1236,70 +1236,70 @@ Get the morphine out of the extra medical kit!
 God.
 Son of a bitch!
 All right. The sulfa.
-- Put my legs up. Put my legs up.
-- I got him.
-- More sulfa, Mellish.
-- I got him. I got him, Wade.
-- You're gonna be all right.
-- Listen to my voice.
+Put my legs up. Put my legs up.
+I got him.
+More sulfa, Mellish.
+I got him. I got him, Wade.
+You're gonna be all right.
+Listen to my voice.
 You're gonna be all right, Doc.
 How's it look? How's it look?
 Wade, you're fine.
 You're going on a hospital ship.
-- More sulfa! More sulfa!
-- Put my legs up.
-- Put my legs up. Put my legs up.
-- He's gonna be all right.
-- I got 'em. I got 'em. I got 'em.
-- You're gonna be okay, Wade.
+More sulfa! More sulfa!
+Put my legs up.
+Put my legs up. Put my legs up.
+He's gonna be all right.
+I got 'em. I got 'em. I got 'em.
+You're gonna be okay, Wade.
 I got 'em.
 Upham, give me your canteen!
-- Come on. Come on.
-- ... we're gonna get you out of here.
+Come on. Come on.
+... we're gonna get you out of here.
 Put some pressure on it.
-- You're gonna be okay.
-- How's it look?
-- I'm getting some morphine.
-- How's it look?
-- It's all right. You're gonna be okay.
-- How's it look?
+You're gonna be okay.
+How's it look?
+I'm getting some morphine.
+How's it look?
+It's all right. You're gonna be okay.
+How's it look?
 You're gonna be okay.
 Here comes the morphine.
 Here comes the morphine.
 Am I shot in the spine?
-- You're okay, Wade.
-- Am I shot in the spine?
-- Lift him up. Easy, easy, easy.
-- All right. Flip him over.
-- Easy, easy, easy.
-- Put some pressure.
-- Easy, easy.
-- Lift him up. Lift him up.
+You're okay, Wade.
+Am I shot in the spine?
+Lift him up. Easy, easy, easy.
+All right. Flip him over.
+Easy, easy, easy.
+Put some pressure.
+Easy, easy.
+Lift him up. Lift him up.
 It's okay, doc. It's all right.
 Wade, you got an exit wound.
 It's in the small of your back.
 How big's the hole in the...
-- About the size of an acorn.
-- It's fine.
+About the size of an acorn.
+It's fine.
 You're fine. You're fine.
 Put some pressure on it.
 Put some pressure on it.
-- Put some pressure on it.
-- It's all right.
+Put some pressure on it.
+It's all right.
 Put some more pressure on it!
 Is there anything bleeding worse than the others?
 Yeah, right here, right here.
 Do you know what it is?
-- No.
-- Right here. Yeah. Right here.
+No.
+Right here. Yeah. Right here.
 I'm gonna put your hand on it.
-- We got some pressure on there.
-- Right there.
-- That's good.
-- Okay. That's the one.
+We got some pressure on there.
+Right there.
+That's good.
+Okay. That's the one.
 Oh, my God, my liver!
-- Oh, my God! It's my liver!
-- Something wrong, Wade.
+Oh, my God! It's my liver!
+Something wrong, Wade.
 Tell us what to do.
 Tell us how to fix you.
 What do you need? What do you need?
@@ -1311,10 +1311,10 @@ More morphine, sir?
 Okay. Okay.
 Give it to him.
 Give it to him.
-- I don't wanna die.
-- Here you go. Wade, here you go.
-- Here it comes.
-- There you go. There you...
+I don't wanna die.
+Here you go. Wade, here you go.
+Here it comes.
+There you go. There you...
 Give him another one.
 Mama?
 Mama?
@@ -1328,27 +1328,27 @@ Wade's body for grave detail.
 Same thing for those paratroopers down there.
 Strip that stuff off and check him for intelligence.
 Ask this piece of shit if he's the one who shot Wade. Ask him!
-- It doesn't matter.
-- It does matter!
+It doesn't matter.
+It does matter!
 Shut up with that filthy pig latin.
 Jackson, you're hit.
 Shit.
-- I guess it just skinned the arm, sir.
-- Get it cleaned and dressed.
+I guess it just skinned the arm, sir.
+Get it cleaned and dressed.
 You and Sarge, watch the perimeter.
-- Sir, he says, "Please don't shoot."
-- I don't care what he says, Upham.
+Sir, he says, "Please don't shoot."
+I don't care what he says, Upham.
 Sir? Sir, you're gonna let them kill him?
-- This is not right, sir.
-- You can help him with the bodies.
+This is not right, sir.
+You can help him with the bodies.
 What is happening?
 American.
 I like American.
 Steamboat Willie.
 Steamboat Willie.
 Yeah, Steamboat Willie. American.
-- He's says he's not finished.
-- Yeah. That's what you think.
+He's says he's not finished.
+Yeah. That's what you think.
 Come on. Yeah.
 Please... I like America.
 Fancy schmancy! What a cinch!
@@ -1370,19 +1370,19 @@ He surrendered.
 He surrendered, sir!
 Tell him to march 1,000 paces in that direction, then he can take off the blindfold.
 We'll be gone, and he turns himself in to the first Allied patrol he comes across.
-- Thank you, sir.
-- You gotta be kidding me.
-- We're letting him go?
-- He's a POW, Reiben.
+Thank you, sir.
+You gotta be kidding me.
+We're letting him go?
+He's a POW, Reiben.
 Can't take him with us.
 Our guys'll pick him up sooner or later.
 Only if he doesn't get picked up by his own Wehrmacht first, then thrown back into circulation.
 Captain, you just let the enemy go.
-- This is such bullshit.
-- Y'all got that right.
+This is such bullshit.
+Y'all got that right.
 Bullshit? Right. This is bullshit?
-- Shooting a prisoner, that'd be okay?
-- Upham, shut your mouth.
+Shooting a prisoner, that'd be okay?
+Upham, shut your mouth.
 It's against the goddamn rules!
 Yeah. The goddamn rules just walked off with your new friend.
 But I guess that was the decent thing to do, huh, Captain?
@@ -1390,54 +1390,54 @@ Get your gear. Let's go.
 You heard him. Gear up.
 The Captain just gave you an order.
 Yeah. Like the one he gave to take this machine gun.
-- That was a real doozy, wasn't it, Sarge.
-- Soldier, you are way out of line.
+That was a real doozy, wasn't it, Sarge.
+Soldier, you are way out of line.
 Yes, sir. That was one hell of a call, coming to take this nest, but what the hell? We only lost one of our guys, going for it.
 I swear, I hope Mama Ryan's real fucking happy, knowing that little Jimmy's life is a little bit more important than two of our guys!
 But then again, we haven't found him yet, have we? Huh?
-- Here you go.
-- Get the hell off me!
+Here you go.
+Get the hell off me!
 Reiben, get up.
 Gear up. Fall in.
 I'm done with this mission.
 Hey! Hey!
-- Sir.
-- Don't walk away from your Captain.
-- Reiben, get back in line.
-- No, sir.
+Sir.
+Don't walk away from your Captain.
+Reiben, get back in line.
+No, sir.
 I'll spend the rest of my life in the stockade if I have to, but I'm done with this.
-- I'm not gonna ask you again, soldier.
-- Captain!
+I'm not gonna ask you again, soldier.
+Captain!
 All right, now. This is bullshit!
-- Fall in!
-- You're gonna shoot me over Ryan?
+Fall in!
+You're gonna shoot me over Ryan?
 No. I'm gonna shoot you
 'cause I don't like you.
-- Sir, listen...
-- Sir, if he wants to go, just let him go!
+Sir, listen...
+Sir, if he wants to go, just let him go!
 Are you letting this happen?
 Captain! You see this?
-- Captain? Sir? Sir, Ryan's dead.
-- Bullshit!
-- Sir, we have a situation you might...
-- That is bullshit!
+Captain? Sir? Sir, Ryan's dead.
+Bullshit!
+Sir, we have a situation you might...
+That is bullshit!
 Captain, I have a sixth sense about these things. I know it in my bones.
 We don't kill that son-of-a-bitch kraut.
 Now you're gonna shoot me?
-- He's better than you.
-- Then why don't you just do it, Sarge?
+He's better than you.
+Then why don't you just do it, Sarge?
 Do it, man. Put one in my leg and give me that...
 I'm gonna shoot you in your big goddamn mouth!
 Well, put your money where your mouth is...
-- You don't know when to shut up.
-- Do it!
-- You don't know how to shut up.
-- Pull the trigger, already!
+You don't know when to shut up.
+Do it!
+You don't know how to shut up.
+Pull the trigger, already!
 Captain, please!
-- What's the pool on me up to?
-- What?
-- You are a coward son of a bitch!
-- I'm waiting, Sarge.
+What's the pool on me up to?
+What?
+You are a coward son of a bitch!
+I'm waiting, Sarge.
 Mike, what's the pool on me up to right now?
 What's it up to?
 What is it, $300? Is that it? 300?
@@ -1522,10 +1522,10 @@ On the level?
 Yeah. I'm afraid so.
 You might want to take some time with this.
 If there's someplace you want to go and...
-- What's this all about?
-- Ryan lost his brothers.
-- Which one?
-- All of them.
+What's this all about?
+Ryan lost his brothers.
+Which one?
+All of them.
 You...
 You came all the way out here to tell me that?
 Well, you're going home.
@@ -1551,10 +1551,10 @@ Sir, what about them?
 I mean, there's barely hardly enough...
 Hey, asshole!
 Two of our guys already died trying to find you, all right?
-- Sir?
-- That's right.
-- What were their names?
-- Irwin Wade and Adrian Caparzo.
+Sir?
+That's right.
+What were their names?
+Irwin Wade and Adrian Caparzo.
 Wade and...
 Caparzo.
 It doesn't make any sense.
@@ -1590,12 +1590,12 @@ You got the two 30-calibre machine guns, 17 grenades, 11 Hawkins mines.
 You got the two bazookas, but they only got eight rounds left, and assorted small arms.
 We had a 60 mortar but an arty round took it out.
 Might as well be spit wads if they roll on us with tanks.
-- Which they're sure to do.
-- What are you thinking, sir?
+Which they're sure to do.
+What are you thinking, sir?
 Well, I'm thinking they're going to try to whip around the flanks.
 Unless we can draw them up this main road here in between these buildings where all the rubble makes a bit of a bottleneck.
-- Disable 'em?
-- If we can.
+Disable 'em?
+If we can.
 Make that tank a 60-ton roadblock.
 We do that, we got a fighting chance at their flanks.
 Yes, sir that's good. Split them up.
@@ -1605,8 +1605,8 @@ Machine gun on the move down here, and number two up high somewhere to piss a li
 That would be the idea.
 Jackson.
 If we can, I'd like to get you up in that bell tower.
-- Yes, sir.
-- Give you a little company if you need it.
+Yes, sir.
+Give you a little company if you need it.
 Yes, sir. Some company couldn't hurt.
 I'd say a. 30 with about
 1,000 rounds would be okay.
@@ -1619,10 +1619,10 @@ As our esteemed colleague from the Airborne pointed out, what we got here are a 
 Give it a rabbit to chase.
 We could hit the tank in the tracks.
 Yeah, but with what?
-- Well, we could try a sticky bomb.
-- Sticky bomb, sir?
-- Sir, are you making that up?
-- No. It's in the field manual.
+Well, we could try a sticky bomb.
+Sticky bomb, sir?
+Sir, are you making that up?
+No. It's in the field manual.
 You check it out if you want to.
 We seem to be out of field manuals, sir.
 Perhaps you can enlighten us?
@@ -1643,8 +1643,8 @@ All right, select the field of fire.
 Crossfire with the one in the bell tower.
 All right, I can cover
 12 to nine from here.
-- Easy!
-- I got her!
+Easy!
+I got her!
 Here are the mines.
 For being the best we can do, that forward machine gun is not in a terrible firing position.
 And this position right here, this is the Alamo.
@@ -1653,38 +1653,38 @@ We only got a 30-second delay on that fuse, so let everyone know that if you are
 Captain? Where am I during all this?
 Never more than two feet away from me, and that's not negotiable.
 I'll get some ammo. Come on.
-- Hey, Upham.
-- Yes.
-- Listen to me, all right?
-- Yeah.
-- You're listening?
-- Yes.
+Hey, Upham.
+Yes.
+Listen to me, all right?
+Yeah.
+You're listening?
+Yes.
 All right, we're gonna be displacing and falling back like crazy sons of bitches.
 Right up there.
 So you got to be Johnny on the spot with the ammo, or we're dead.
-- Right.
-- You understand that?
-- Johnny on the spot.
-- Yeah.
-- You all right?
-- Yeah. Yes.
+Right.
+You understand that?
+Johnny on the spot.
+Yeah.
+You all right?
+Yeah. Yes.
 You know, when we were shipping out of England the supply sergeant was handing out cartons of cigarettes, and I said "No, thank you,
 I don't smoke."
 "I don't smoke."
-- Quite a situation, huh?
-- Unbelievable.
+Quite a situation, huh?
+Unbelievable.
 Here. Fucked up beyond all recognition, right?
 You got that right.
 FUBAR.
 Ouch.
-- Yeah, well...
-- FUBAR.
+Yeah, well...
+FUBAR.
 It's going to be a real show, huh?
 Yeah. Okay.
 Take it easy.
 FUBAR.
-- Who's that singing, sir?
-- Edith Piaf.
+Who's that singing, sir?
+Edith Piaf.
 What's she so upset about?
 Her lover left her, but she still sees his face everywhere she goes.
 That would do it.
@@ -1692,18 +1692,18 @@ That would do it.
 "Sometimes I dream that I'm in your arms."
 What was that part?
 She sang that before.
-- The chorus. It's the chorus.
-- The chorus.
+The chorus. It's the chorus.
+The chorus.
 "And you speak softly in my ear
 "and you say things
 "that make my eyes close.
 "And I find that marvellous."
-- Again, Upham...
-- Yes.
+Again, Upham...
+Yes.
 To be honest with you,
 I find myself curiously aroused by you.
-- Marvellous.
-- No, it's really a melancholy song.
+Marvellous.
+No, it's really a melancholy song.
 At the beginning of the song, she says,
 "And then one day, you left.
 "You left me, and I've been desperate ever since.
@@ -1719,14 +1719,14 @@ What, "Don't touch me"?
 No. Mrs Rachel Troubowitz is our super's wife.
 She comes into my mom's shop to try on a few things, all right?
 And she's easily, like, a 44 double E.
-- Double E?
-- These things are massive.
+Double E?
+These things are massive.
 Those are big.
 No. And I've got her convinced that she's, like, a 42 D, all right?
 So we're in the dressing room, she's trying to squeeze into this side-cut, silk-ribboned, triple-panel girdle with the shelf-lift brassiere.
 And it's beautiful 'cause she's just pouring out of this thing, you know?
-- Is it really tight?
-- No, no. It's beautiful.
+Is it really tight?
+No, no. It's beautiful.
 And she sees me, and she can tell
 I got a hard-on the size of the Statue of Liberty, all right?
 And she says to me,
@@ -1792,12 +1792,12 @@ Panzer tanks, two of them.
 Infantry.
 Fifty plus change.
 Disperse! You know what to do!
-- Reiben, get on the rabbit.
-- Yes, sir.
+Reiben, get on the rabbit.
+Yes, sir.
 Upham, get some cover.
 Mellish and Henderson, lock and load!
-- This is it.
-- Everybody check your ammo!
+This is it.
+Everybody check your ammo!
 Good luck, Reiben.
 I don't need any luck, Sarge,
 I was born lucky.
@@ -1805,8 +1805,8 @@ One in five tracer?
 Yep, and tracers point both ways.
 Yeah? Why don't you check the head space and she should run.
 Upham! Hustle up!
-- Corporal Upham?
-- Yes, sir.
+Corporal Upham?
+Yes, sir.
 We don't have a 30-calibre machine gun in this position.
 Either Mr Mellish or Mr Jackson in the bell tower needs that.
 Yes, sir.
@@ -1836,10 +1836,10 @@ Reversing! He's still in this fight!
 No, no, Ryan, get down! Get down!
 Ryan!
 Ryan!
-- Ryan!
-- Get off me!
-- Are you all right?
-- Get off me!
+Ryan!
+Get off me!
+Are you all right?
+Get off me!
 Yeah, yeah,
 I'm fine, too, Captain. Thanks.
 Okay, both sides!
@@ -1850,8 +1850,8 @@ Flak gun, 20 millimetre. Take it out!
 Heavy weapon in defilade below!
 I ain't got a shot!
 Pincer move, Parker!
-- Targets 8 o'clock low!
-- Shit!
+Targets 8 o'clock low!
+Shit!
 God grant me strength.
 Displace!
 Come on!
@@ -1869,8 +1869,8 @@ Upham! Upham!
 Upham, ammo, God damn it!
 I'm jammed! I'm jammed!
 You got any 30-cal?
-- I'm out.
-- Shit.
+I'm out.
+Shit.
 Upham! Upham!
 Reiben!
 I'm out! I need another bandoleer!
@@ -1884,26 +1884,26 @@ Son of a bitch!
 Son of a bitch! Son of a bitch!
 Son of a bitch!
 Bitch!
-- I'm out.
-- Those 60 rounds.
-- We can use them without the tube.
-- How?
+I'm out.
+Those 60 rounds.
+We can use them without the tube.
+How?
 Fuse-arming wire, set back, heave it!
 Panzerschreck!
 We're going to the Alamo.
 Alamo! Alamo!
 We'll take it! You fall back!
-- You be right behind us!
-- Soon as we're in business!
+You be right behind us!
+Soon as we're in business!
 Displace. Reiben.
 Reload.
 All right, go.
 We're blowing the bridge!
-- Get off! Clear the bridge!
-- Displace...
+Get off! Clear the bridge!
+Displace...
 Sarge! Mike, are you all right?
-- I just got the wind knocked out of me.
-- Well, get out of here!
+I just got the wind knocked out of me.
+Well, get out of here!
 Take cover!
 We're going to blow this bridge!
 Come on, come on!
@@ -1970,7 +1970,7 @@ I hope that, at least in your eyes,
 I've earned what all of you have done for me.
 James.
 "Captain John H Miller."
-- Tell me I've led a good life.
-- What?
+Tell me I've led a good life.
+What?
 Tell me I'm a good man.
 You are.

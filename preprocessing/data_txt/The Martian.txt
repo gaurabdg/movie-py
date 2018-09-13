@@ -27,8 +27,8 @@ LEWIS: (SIGHS) <i>Watney,</i>
 WATNEY: <i>Roger that.</i>
 <i>Martinez, the captain would like you to please...</i> shut your smart mouth.
 We'd prefer to use a different adjective
-- to describe Martinez's mouth.
-- (WATNEY LAUGHING)
+to describe Martinez's mouth.
+(WATNEY LAUGHING)
 MARTINEZ: <i>Did Beck just insult me?</i>
 WATNEY: <i>"Dr. Beck." And yes.</i>
 Happy to turn the radios off from here, Commander.
@@ -36,8 +36,8 @@ Just say the word.
 Wait, Johanssen.
 Constant communication is the hallmark...
 Shut 'em off.
-- (BEEPS)
-- WATNEY: <i>No.</i>
+(BEEPS)
+WATNEY: <i>No.</i>
 No. Excuse me.
 LEWIS: <i>I apologize for my countrymen, Vogel.</i>
 VOGEL: Accepted.
@@ -96,8 +96,8 @@ I don't know where he is.
 LEWIS: What are the vitals on his suit?
 He's offline.
 BECK: A complete loss of signal on Watney.
-- VOGEL: Beck!
-- Yeah.
+VOGEL: Beck!
+Yeah.
 How long can he survive decompression?
 Less than a minute.
 Line up, walk west.
@@ -121,8 +121,8 @@ One good gust and we're tipping.
 If it tips, you launch.
 You really think I'm gonna leave you behind?
 LEWIS: <i>That's an order, Martinez.</i>
-- Mark!
-- (BECK GRUNTING)
+Mark!
+(BECK GRUNTING)
 Mark! Can you hear me?
 Martinez, what about the proximity radar?
 Could that detect Watney's suit?
@@ -148,8 +148,8 @@ BECK: <i>Commander, you need to get back to the ship, now!</i>
 MARTINEZ: 13 degrees.
 If we pass balance, we'll never rock back.
 MARTINEZ: I've got one more trick left, and then I'm following orders, Commander.
-- You're firing the OMS?
-- (ALARM BEEPING)
+You're firing the OMS?
+(ALARM BEEPING)
 That's right.
 Commander!
 LEWIS: On my way. (BREATHING HEAVILY)
@@ -174,8 +174,8 @@ Martinez and Vogel...</i>
 <i>were all able to reach the Mars Ascent Vehicle...</i>
 <i>and perform an emergency launch at 7:28 Central Time.</i>
 Unfortunately, during the evacuation... astronaut Mark Watney was struck by debris and killed.
-- (REPORTERS GASP)
-- (CAMERAS CLICKING)
+(REPORTERS GASP)
+(CAMERAS CLICKING)
 Commander Lewis and the rest of her team... were able to intercept safely with the <i>Hermes</i> and are now heading home.
 But Mark Watney is dead.
 FEMALE REPORTER: Director Sanders!
@@ -307,8 +307,8 @@ I need you to authorize my satellite time.
 It's not gonna happen.
 We're funded for five <i>Ares</i> missions.
 I think I can get Congress to authorize a sixth.
-- No.
-- <i>Ares 3</i> evac'd after 18 sols.
+No.
+<i>Ares 3</i> evac'd after 18 sols.
 There's half a mission worth of supplies up there.
 I can sell it at a fraction of the cost of a normal mission... and all I have to know is what's left of our assets.
 You're not the only one who needs satellite time.
@@ -398,10 +398,10 @@ What the hell is he thinking right now?
 My God, Commander Lewis, couldn't you have packed anything from this century?
 WOMAN: <i>âª Turn the beat around âª</i>
 No, I am not gonna "turn the beat around."
-- I refuse to.
-- (MUSIC STOPS)
-- (REPORTERS CLAMORING)
-- Mr. Sanders? Mr. Sanders?
+I refuse to.
+(MUSIC STOPS)
+(REPORTERS CLAMORING)
+Mr. Sanders? Mr. Sanders?
 What attempts have been made to make contact with Mark Watney?
 We're working on it.
 Does he have enough supplies to survive?
@@ -475,8 +475,8 @@ Gotta have some love tonight</i>
 <i>âª I need hot stuff</i>
 <i>âª I want some hot stuff</i>
 <i>âª I need hot stuff âª</i>
-- Yeah.
-- Where is Watney going?
+Yeah.
+Where is Watney going?
 We believe that he's preparing for a journey.
 He's been conducting incremental tests... taking the <i>Rover 2</i> out for longer and longer trips each time.
 To what end? Why would he leave the relative safety of the Hab?
@@ -565,16 +565,16 @@ Can I borrow this?
 Okay, so where is the Hab location?
 31.2 degrees north, 28.5 degrees west.
 Okay. Mmm-hmm.
-- Where's Watney?
-- Uh...
+Where's Watney?
+Uh...
 There.
 VINCENT: Okay.
 Okay. I know where he's going.
 I need to get on an airplane.
 Vincent, how are you?
 Good to see you.
-- Good flight?
-- Uh...
+Good flight?
+Uh...
 Yeah.
 It's in storage just around the corner.
 Hey, Vincent, nice to see you again.
@@ -589,8 +589,8 @@ They're already here. Guys.
 I'd like to introduce Vincent Kapoor.
 Director of Mars Missions for NASA.
 This is our current team... and our original project members.
-- Is this the replica?
-- TECHNICIAN: This is her.
+Is this the replica?
+TECHNICIAN: This is her.
 Okay. Let's see it.
 <i>Pathfinder.</i>
 <i>Pathfinder.</i>
@@ -599,10 +599,10 @@ Holy shit. Okay.
 "Broadcasting status.
 "Listening for telemetry signal."
 Uh-huh.
-- TIM: Okay. Signal acquired.
-- (VINCENT LAUGHING)
-- VINCENT: All right.
-- TIM: Okay.
+TIM: Okay. Signal acquired.
+(VINCENT LAUGHING)
+VINCENT: All right.
+TIM: Okay.
 Camera.
 Incoming.
 "Are you receiving me?"
@@ -611,10 +611,10 @@ Okay, point the camera at "yes."
 32-minute round-trip communications time.
 All he can do is ask yes or no questions... and all we can do is point the camera.
 This won't exactly be an Algonquin Round Table of snappy repartee.
-- Are you kidding me?
-- Tim, Tim.
-- Just point the camera.
-- TIM: Roger that.
+Are you kidding me?
+Tim, Tim.
+Just point the camera.
+TIM: Roger that.
 Pointing the camera.
 Whoo!
 Yes!
@@ -643,8 +643,8 @@ Hexadecimals to the rescue.
 <i>and</i> Leather Goddesses of
 Phobos <i>on her personal laptop.</i>
 <i>Seriously, Johanssen...</i> it's like the Smithsonian of loneliness on there.
-- <i>Not that I'm complaining.</i>
-- Yes!
+<i>Not that I'm complaining.</i>
+Yes!
 <i>Who am I to talk about loneliness?</i>
 I know where he's going with this.
 "F, O."
@@ -672,8 +672,8 @@ Rover's operating system...</i>
 Okay.
 Okay.
 "Glad to hear it. Really looking forward to not dying."
-- (APPLAUSE)
-- (PEOPLE WHOOPING)
+(APPLAUSE)
+(PEOPLE WHOOPING)
 "How's the crew?"
 "What did they say when they found out I was alive?"
 Guys, can we get some space please?
@@ -728,15 +728,15 @@ BECK: I wanna get in on that telemetry action.
 <i>I have some news.</i>
 <i>There's no subtle way to put this.</i>
 <i>Mark Watney is still alive.</i>
-- Oh, my God.
-- (ALL GASP)
+Oh, my God.
+(ALL GASP)
 <i>I know that's a surprise and I know</i>
 <i>you will have a lot of questions.</i>
 <i>But here are the basics.</i>
 <i>He's alive and he's healthy.</i>
 <i>We found out two months ago and decided not to tell you.</i>
-- Two months?
-- Oh, my God.
+Two months?
+Oh, my God.
 MITCH: <i>I was strongly against that decision.</i>
 <i>We're telling you now because...</i>
 <i>we finally have communication with him...</i>
@@ -752,8 +752,8 @@ MITCH: <i>I was strongly against that decision.</i>
 <i>All right. Henderson out.</i>
 BECK: Holy shit, he's alive.
 I left him behind.
-- JOHANSSEN: No.
-- BECK: No.
+JOHANSSEN: No.
+BECK: No.
 We all left together.
 You were following orders.
 I left him behind.
@@ -811,8 +811,8 @@ I hate this margin.
 912 Sols worth of food.
 We get there on 868.
 And that's assuming nothing goes wrong.
-- (ALARM BLARING)
-- (AIR HISSING)
+(ALARM BLARING)
+(AIR HISSING)
 FEMALE AUTOMATED VOICE:
 <i>Suit breach detected.</i>
 <i>Oxygen level critical.</i>
@@ -881,8 +881,8 @@ Yeah, Earth and Mars are really badly positioned.
 Heck, it'd almost be easier if you...
 Almost easier to what?
 I need more coffee.
-- Ahh!
-- (THUDS)
+Ahh!
+(THUDS)
 MIKE: Are you all right?
 It's fine.
 Almost easier to what?
@@ -890,8 +890,8 @@ You do understand I'm your boss, right?
 Uh-huh.
 SANDERS: All right, let's ask the very, very expensive question.
 Is the probe going to be ready on time?
-- BRUCE: <i>We're behind.</i>
-- Give me a number.
+BRUCE: <i>We're behind.</i>
+Give me a number.
 <i>15 days. 15 days and I can get it done.</i>
 All right, let's create 15 days.
 13 days to mount the probe.
@@ -911,8 +911,8 @@ Dr. Keller, stretch Watney's rations four more days.
 You're not gonna like it, but that'll get us to 15.
 And we'll cancel the inspections.
 Teddy.
-- Sir, if that ever got out...
-- It's on me.
+Sir, if that ever got out...
+It's on me.
 You got your two weeks.
 Get it done.
 WATNEY: So, now I have to hold out until the probe gets here with more food.
@@ -1034,8 +1034,8 @@ We can jettison any kind of landing system.
 We're only sending rations.
 We can crash-land on Mars.
 You should hang up the phone.
-- I'm sorry, who are you?
-- My name is Rich Purnell.
+I'm sorry, who are you?
+My name is Rich Purnell.
 I work in Astrodynamics, and you should hang up the phone right now.
 All right, all right.
 I'm gonna call you back.
@@ -1086,12 +1086,12 @@ Watney would intercept using the MAV.
 Ow!
 And then we just head home.
 I've done the math. It checks out.
-- SANDERS: <i>Rich.
-- Yes, sir.</i>
+SANDERS: <i>Rich.
+Yes, sir.</i>
 Get out.
 All right.
-- Is he right?
-- VINCENT: Yeah.
+Is he right?
+VINCENT: Yeah.
 SANDERS: Bruce, what do you think?
 <i>Well, if Vincent says so.</i>
 We need to use the <i>Taiyang Shen?</i>
@@ -1122,8 +1122,8 @@ I'm not risking their lives.
 Let them make that decision.
 Mitch, we're going with option one.
 You goddamn coward.
-- VOGEL: <i>Johanssen?
-- Yeah.</i>
+VOGEL: <i>Johanssen?
+Yeah.</i>
 I know it's your private time.
 Can I bother you for a second?
 JOHANSSEN: <i>Yeah, go ahead.</i>
@@ -1192,8 +1192,8 @@ I vote yes.
 Let's go get him.
 Johanssen?
 Yes.
-- Yeah!
-- (ALL CHEERING)
+Yeah!
+(ALL CHEERING)
 Got an unscheduled status update from <i>Hermes.</i>
 BRENDAN: Roger. Read it out.
 Message reads, "Houston, please be advised.
@@ -1258,8 +1258,8 @@ That was hazy cosmic jive</i>
 <i>And you said yes to this?</i>
 He would have done the same for me. You know that.
 Cheese. You do "cheese"?
-- Cheese.
-- (CAMERA CLICKS)
+Cheese.
+(CAMERA CLICKS)
 He didn't do "cheese."
 Did he do "cheese"?
 ROBERT: <i>Hey, baby.</i>
@@ -1346,8 +1346,8 @@ He asked us to call him Captain Blondebeard.
 Well, technically, Mars would be under maritime...
 Yeah, I know. He explained it to us.
 Where is he?
-- There.
-- Okay.
+There.
+Okay.
 Here.
 Okay.
 <i>Okay, I'm gonna start by stating for the record</i>
@@ -1360,8 +1360,8 @@ Otherwise, they'll never have enough fuel to make it home.
 The MAV, that was only designed to get to low Mars orbit.
 So in order for Mark to escape
 Mars' gravity entirely... and to intercept the <i>Hermes...</i>
-- He has to be going fast.
-- Exactly.
+He has to be going fast.
+Exactly.
 <i>Which means we need to make the MAV lighter.</i>
 <i>A lot lighter. 5,000 kilograms lighter.</i>
 You can do that, right?
@@ -1399,12 +1399,12 @@ You wanna send him into space under a tarp.
 No.
 You think he means it like...
 "Are you kidding me?"
-- You know?
-- Mmm-hmm.
+You know?
+Mmm-hmm.
 Or like, "Are you kidding me?"
 I think it might be the second one.
-- Really?
-- Uh-huh.
+Really?
+Uh-huh.
 Could be the first way.
 "Are you kidding me?"
 Yeah, it could be the first way.
@@ -1464,7 +1464,7 @@ Come on.
 LEWIS: <i>Beck, Vogel, I want you guys in Airlock 2</i>
 <i>with the outer door open...</i>
 <i>- before the MAV even launches.</i>
-- VOGEL: <i>Okay.</i>
+VOGEL: <i>Okay.</i>
 LEWIS: <i>Martinez flies the MAV,
 Johanssen sysops the ascent.</i>
 <i>Once we hit intercept,</i>
@@ -1527,8 +1527,8 @@ Well, tell that asshole no barrel rolls.
 Copy that, MAV.
 <i>CAPCOM.</i>
 JOHANSSEN: <i>Go.</i>
-- LEWIS: <i>Remote command.</i>
-- (CRYING)
+LEWIS: <i>Remote command.</i>
+(CRYING)
 MARTINEZ: <i>Go.</i>
 LEWIS: <i>Recovery.</i>
 BECK: <i>Go.</i>
@@ -1537,8 +1537,8 @@ VOGEL: <i>Go.</i>
 Pilot.
 Go.
 LEWIS: <i>Pilot.</i>
-- WATNEY: <i>Go.</i>
-- (ALL CHEERING)
+WATNEY: <i>Go.</i>
+(ALL CHEERING)
 MISSION CONTROL TECHNICIAN:
 <i>Copy. We're go.</i>
 LEWIS: <i>Mission Control, we are go for launch.</i>
@@ -1694,17 +1694,17 @@ JOHANSSEN: I'm on the way to Beck.
 Let's just hope this is a good idea, guys.
 It is.
 JOHANSSEN: <i>Open A1.</i>
-- Hi.
-- Hey.
-- You got it?
-- Mmm.
+Hi.
+Hey.
+You got it?
+Mmm.
 Make sure you're not in here when this thing goes off.
 Hey.
 Be careful out there.
 In space.
 Don't tell anyone I did that.
-- Bomb set.
-- (BEEPING)
+Bomb set.
+(BEEPING)
 Leaving Airlock 1.
 MARTINEZ: Guys, I'm running the numbers, and even with optimal VAL blow... we're gonna be off on our angle.
 What's the intercept distance? Johanssen?
@@ -1728,10 +1728,10 @@ Beck's returned.
 Johanssen, initiate the bomb.
 Ten seconds.
 Strap in.
-- JOHANSSEN: <i>Five, four...</i>
-- (BEEPING RAPIDLY) three...
-- Brace for deceleration.
-- JOHANSSEN: <i>two...</i> one.
+JOHANSSEN: <i>Five, four...</i>
+(BEEPING RAPIDLY) three...
+Brace for deceleration.
+JOHANSSEN: <i>two...</i> one.
 Activating Panel 41.
 Bridge seal holding.
 What's the damage?
@@ -1766,8 +1766,8 @@ JOHANSSEN: <i>3.1 meters per second.</i>
 <i>Six meters.</i>
 (STRAINING) Hold on, Mark.
 I got him.
-- <i>I got him.</i>
-- (ALL LAUGHING IN RELIEF)
+<i>I got him.</i>
+(ALL LAUGHING IN RELIEF)
 <i>I got him.</i>
 Way to go, Iron Man.
 Beck, pull us in.
@@ -1775,8 +1775,8 @@ Beck, pull us in.
 You... have terrible taste in music.
 JOHANSSEN: <i>Houston, this is</i> Hermes <i>actual.</i>
 <i>We got him.</i>
-- (WHOOPS)
-- (ALL CHEERING)
+(WHOOPS)
+(ALL CHEERING)
 <i>Watney is secure.</i>
 REPORTER 1: Contact in outer space with Mark Watney.
 <i>After a very long time, they have done</i>
@@ -1798,11 +1798,11 @@ There's a little smell going on over there, bud.
 I know. I haven't had a shower in a year and a half.
 Don't make me laugh, I have broken ribs.
 Hey, there.
-- Morning, sir.
-- It's an honor, sir.
+Morning, sir.
+It's an honor, sir.
 Sir.
-- Sir.
-- Sir.
+Sir.
+Sir.
 MALE CADET: Morning, sir.
 WATNEY: <i>Welcome to the
 Astronaut Candidate Program.</i>

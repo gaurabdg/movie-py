@@ -37,8 +37,8 @@ Write yourself a check.
 <i>Grazie Mille.</i>
 <i>She wrote a book</i>
 <i>on the subject.</i>
-- Chas, Chas!
-- Richie!
+Chas, Chas!
+Richie!
 Uh, the gentleman in the blue cardigan, please.
 Thank you. I have a two-part question.
 Go ahead.
@@ -284,8 +284,8 @@ It would probably be advantageous for your marital status to be legally establis
 What do you mean?
 I mean for tax purposes.
 But I thought...
-- Etheline...
-- Yes?
+Etheline...
+Yes?
 Will you marry me?
 I...
 I love you, uh...
@@ -347,8 +347,8 @@ Who put that in here?
 # What am I supposed to be? #
 Okay.
 Well, I will see you boys in the morning.
-- Good night.
-- Good night.
+Good night.
+Good night.
 Good night.
 # Look at me #
 You know what?
@@ -441,8 +441,8 @@ Who's your father?
 His name is Royal Tenenbaum.
 You told us he was already dead.
 Yeah, well, now he's really dying.
-- Ready.
-- Print it.
+Ready.
+Print it.
 I am very sorry, Margo.
 That's okay.
 We're not actually related, anyway.
@@ -768,14 +768,14 @@ Where are my encyclopedias?
 They've been placed in storage.
 Well, damn you.
 You're taking my encyclopedias.
-- Th-this is humiliating.
-- I'm sorry.
+Th-this is humiliating.
+I'm sorry.
 Would you like to make a complaint in writing?
 Where am I supposed to go?
 You're turning me into a damn hobo.
 I'd be happy to make a reservation for you
-- at another hotel.
-- You son of a bitch.
+at another hotel.
+You son of a bitch.
 Frederick.
 Hello there, Dusty.
 Hello.
@@ -800,8 +800,8 @@ All right, let's not get out of hand.
 Please, don't get in the middle of this, Mr. Sherman.
 This is a family matter.
 Don't talk to him like that.
-- Call me Henry.
-- I prefer Mr. Sherman.
+Call me Henry.
+I prefer Mr. Sherman.
 Call him Henry.
 Why? I don't know him that well.
 You've known him for ten years.
@@ -876,8 +876,8 @@ Dee-Dee, Dee-Dee #
 Dee-Dee... #
 Looks like you and Dad are back together again, huh?
 He's your dad, too, Chas.
-- No, he's not.
-- Yes, he is.
+No, he's not.
+Yes, he is.
 You really hate me, don't you?
 No. I don't. I love you.
 Well, I don't know what you think you're going to get out of this but believe me, whatever it is, it's not worth it.
@@ -974,7 +974,7 @@ Go!
 # Goodbye to Rosie, the Queen of Corona... #
 Come here.
 # See you, me and Julio #
-- That's it! Run!
+That's it! Run!
 # Down by the schoolyard #
 # See you, me and Julio down by the schoolyard. #
 He saved my life, you know.
@@ -1064,10 +1064,10 @@ Listen, Royal if you think you can march in here...
 You want to talk some jive?
 I'll talk some jive.
 I'll talk some jive like you've never heard.
-- Oh, yeah?
-- Right on!
-- Sit down.
-- What?!
+Oh, yeah?
+Right on!
+Sit down.
+What?!
 Wh-what did you say?
 I said sit down, goddamn it!
 Oh, I heard you!
@@ -1543,8 +1543,8 @@ From you?
 Yes.
 This is Sanchez.
 He's a notary public.
-- Hello.
-- Hello, sir.
+Hello.
+Hello, sir.
 You just sign here and initial here and sign there.
 You own this building, don't you, Henry?
 It's magnificent.

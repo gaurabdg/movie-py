@@ -2,59 +2,59 @@
 Go on!
 <font color="#D900D9">(HORSE WHICKERING)</font>
 <font color="#D900D9">(HORSE WHINNYING)</font>
-- <font color="#D900D9">(SHEEP BLEATING)</font>
-- <font color="#D900D9">(EXPLOSION RUMBLING)</font>
-- <font color="#D900D9">(WOMEN GASP)</font>
-- Seem a little lonely. Need some company?
+<font color="#D900D9">(SHEEP BLEATING)</font>
+<font color="#D900D9">(EXPLOSION RUMBLING)</font>
+<font color="#D900D9">(WOMEN GASP)</font>
+Seem a little lonely. Need some company?
 Make some time for you, little missy.
-- Yeah!
-- Come on, move! Get out of the way!
-- Hurry.
-- Quickly.
-- <font color="#D900D9">(COUGHING)</font>
-- <font color="#D900D9">(EXPLOSION RUMBLES)</font>
+Yeah!
+Come on, move! Get out of the way!
 Hurry.
-- Move it!
-- Come on, come on!
-- Get out of the way, now!
-- Come on.
+Quickly.
+<font color="#D900D9">(COUGHING)</font>
+<font color="#D900D9">(EXPLOSION RUMBLES)</font>
+Hurry.
+Move it!
+Come on, come on!
+Get out of the way, now!
+Come on.
 <font color="#D09090">MAN</font> : Fire in the hole!
 <font color="#D900D9">(HORSE WHINNYING)</font>
 <font color="#D900D9">(EXPLOSIONS)</font>
 <font color="#D900D9">(INDISTINCT CHATTER)</font>
 Another wagon coming from town!
-- <font color="#D900D9">(BELL CLANGING)</font>
-- That's Mr. Bogue's gold!
+<font color="#D900D9">(BELL CLANGING)</font>
+That's Mr. Bogue's gold!
 Hyah! Hyah!
-- Hyah!
-- <font color="#D900D9">(HORSE WHICKERING)</font>
+Hyah!
+<font color="#D900D9">(HORSE WHICKERING)</font>
 <font color="#D900D9">(INDISTINCT SHOUTING)</font>
 Move. Get out of the way!
-- <font color="#D900D9">(HORSE WHINNYING)</font>
-- <font color="#D900D9">(INDISTINCT SHOUTING)</font>
+<font color="#D900D9">(HORSE WHINNYING)</font>
+<font color="#D900D9">(INDISTINCT SHOUTING)</font>
 <font color="#D900D9">(BELL CLANGING)</font>
 Out of the road!
 <font color="#D900D9">(GRUNTING)</font> This gold's heavy.
-- Must be a lot in there.
-- You folks stay back!
-- <font color="#D900D9">(MEN GRUNTING)</font>
-- Stay away from the gold!
-- Get right inside. You, get up there!
-- Get going!
+Must be a lot in there.
+You folks stay back!
+<font color="#D900D9">(MEN GRUNTING)</font>
+Stay away from the gold!
+Get right inside. You, get up there!
+Get going!
 There's more gold in the wagon.
 Hurry up. Get the rest of those cases.
-- <font color="#D900D9">(HORSE WHINNYING)</font>
-- <font color="#D900D9">(INDISTINCT SHOUTING)</font>
-- <font color="#D900D9">(COUGHING)</font>
-- Ain't right how these men are being treated.
+<font color="#D900D9">(HORSE WHINNYING)</font>
+<font color="#D900D9">(INDISTINCT SHOUTING)</font>
+<font color="#D900D9">(COUGHING)</font>
+Ain't right how these men are being treated.
 They fought in the war.
 <font color="#D900D9">(HORSE WHINNYING)</font>
-- Whoa. Whoa!
-- Line your asses up and get paid.
-- All right, let's go.
-- Let's go! Move!
-- All right, boys, line up.
-- Move. Come on!
+Whoa. Whoa!
+Line your asses up and get paid.
+All right, let's go.
+Let's go! Move!
+All right, boys, line up.
+Move. Come on!
 Get that wagon back to the mine.
 Let's move! Move!
 <font color="#D900D9">(INDISTINCT CHATTERING)</font>
@@ -67,77 +67,77 @@ Let's move! Move!
 <font color="#D09090">MAN 4</font> : Hey, calm down! Calm down!
 <font color="#D09090">MAN 2</font> : Our crops are dying!
 He's telling us that the water's poison?
-- It's a lie!
-- It is a lie.
+It's a lie!
+It is a lie.
 Otherwise, why does he have Blackstones keeping us away from it?
-- He's just a man, Turner.
-- He's a man with an army, Phillips!
-- He's a man with a claim to mine a mountain.
-- He's trying to run us out of town.
+He's just a man, Turner.
+He's a man with an army, Phillips!
+He's a man with a claim to mine a mountain.
+He's trying to run us out of town.
 <font color="#D09090">MAN 1</font> : And his miners are camping on the edge of our town!
-- A man seizing our land.
-- <font color="#D900D9">(SHOUTING)</font>
+A man seizing our land.
+<font color="#D900D9">(SHOUTING)</font>
 A man with dozens of hired guns on his payroll.
 We know that, Turner.
-- Who's gonna stand up to a man like that?
-- We will.
-- But how? With what?
-- We're just farmers.
+Who's gonna stand up to a man like that?
+We will.
+But how? With what?
+We're just farmers.
 To Bogue?
-- There are laws on our side.
-- Bogue is the law, Matthew.
+There are laws on our side.
+Bogue is the law, Matthew.
 Bought and paid for.
-- Even got our sheriff on his payroll!
-- And his deputies.
-- And that's why I say we fight.
-- I say we fight. Yeah.
+Even got our sheriff on his payroll!
+And his deputies.
+And that's why I say we fight.
+I say we fight. Yeah.
 I ain't fighting, and I ain't leaving neither.
-- Well, what are you gonna do?
-- God will provide.
+Well, what are you gonna do?
+God will provide.
 That is right, Brother Phillip.
 The Lord surely will provide.
 Now, now. Bogue is a businessman.
-- If you just reason with him...
-- <font color="#D900D9">(GROANING)</font>
+If you just reason with him...
+<font color="#D900D9">(GROANING)</font>
 ...he'll give you a fair share.
-- Oh, yeah. Right. Sure he will.
-- Fair share, Gavin?
+Oh, yeah. Right. Sure he will.
+Fair share, Gavin?
 You're the only one making money here!
-- <font color="#D900D9">(SCOFFS)</font>
-- No, you and your whores.
+<font color="#D900D9">(SCOFFS)</font>
+No, you and your whores.
 Now, Ben, that ain't fair.
 You know that.
 You were there the other night.
 You know that's a lie now, Gavin!
-- Please, brothers and sisters...
-- You know that's a lie.
+Please, brothers and sisters...
+You know that's a lie.
 <font color="#D900D9">(INDISTINCT SHOUTING)</font>
-- Please, brothers and sisters.
-- <font color="#D09090">MAN 1</font> : Reason?
+Please, brothers and sisters.
+<font color="#D09090">MAN 1</font> : Reason?
 Ask the Dennehys how far reasoning got them.
 He burned all the Dennehys' crops!
-- Our farms are rotting.
-- That's right.
+Our farms are rotting.
+That's right.
 It's only a matter of time before he drives all of us out of here.
 For the sake of our children,
 I believe it's time we leave Rose Creek.
-- To where?
-- <font color="#D09090">MAN 2</font> : And where are we gonna go?
-- I know you're scared.
-- <font color="#D09090">MAN 2</font> : I've given everything I have.
+To where?
+<font color="#D09090">MAN 2</font> : And where are we gonna go?
+I know you're scared.
+<font color="#D09090">MAN 2</font> : I've given everything I have.
 We all are, but we came far to get here.
 Suffered losses too painful to bear to make this our home.
-- Praise God.
-- Amen.
+Praise God.
+Amen.
 We did it.
 All of us.
 Together.
 This valley is ours.
-- I agree with Matthew.
-- I'm with Matthew.
+I agree with Matthew.
+I'm with Matthew.
 <font color="#D900D9">(WOMEN SHRIEK)</font>
-- <font color="#D900D9">(SPURS JANGLING)</font>
-- <font color="#D900D9">(HORSE NEIGHING)</font>
+<font color="#D900D9">(SPURS JANGLING)</font>
+<font color="#D900D9">(HORSE NEIGHING)</font>
 <font color="#D900D9">(DOORS SQUEAKING)</font>
 This is the Lord's house.
 It's no place for guns.
@@ -148,8 +148,8 @@ There are women and children.
 Shh.
 <font color="#D900D9">(RATTLING)</font>
 <font color="#D900D9">(FLOORBOARD CREAKS)</font>
-- <font color="#D900D9">(INSECT BUZZING)</font>
-- <font color="#D09090">WOMAN</font> : Oh!
+<font color="#D900D9">(INSECT BUZZING)</font>
+<font color="#D09090">WOMAN</font> : Oh!
 Mr. Bogue.
 <font color="#D900D9">(FLOORBOARDS CREAKING)</font>
 <font color="#D900D9">(COUGHS AND SNIFFLES)</font>
@@ -164,18 +164,18 @@ Gold.
 This country has long equated democracy with capitalism, capitalism with God.
 So you're standing not only in the way of progress and capital.
 You're standing in the way of God!
-- And for what? Hmm?
-- <font color="#D900D9">(WHISPERS)</font> No, preacher.
+And for what? Hmm?
+<font color="#D900D9">(WHISPERS)</font> No, preacher.
 You want to help me out?
 Let's find out.
 Put your hand in there for me.
 <font color="#D900D9">(PEW CREAKS)</font>
 Go on.
 Go on.
-- <font color="#D900D9">(GRUNTING)</font>
-- <font color="#D900D9">(BREATHING SHAKILY)</font>
-- Land.
-- <font color="#D900D9">(SNIFFLES)</font>
+<font color="#D900D9">(GRUNTING)</font>
+<font color="#D900D9">(BREATHING SHAKILY)</font>
+Land.
+<font color="#D900D9">(SNIFFLES)</font>
 This is no longer land.
 The moment I put a pin in the map, the day I descended into this godforsaken valley and cast my gaze upon it, it ceased to be land and became...
 That's it. Pull your hand out.
@@ -183,47 +183,47 @@ Dust.
 Go on, sit back down.
 This is your God?
 $20 for each parcel of dust, that is my offer.
-- My land is worth three times that!
-- You can't do that.
+My land is worth three times that!
+You can't do that.
 We have to think of our families.
 This valley's worth more than that.
-- You're stealing our land!
-- And our livelihood.
+You're stealing our land!
+And our livelihood.
 It won't sweeten.
 It'll only sour.
-- <font color="#D900D9">(GUNSHOTS)</font>
-- <font color="#D900D9">(PEOPLE SCREAMING)</font>
-- They're coming in!
-- Everybody on out!
+<font color="#D900D9">(GUNSHOTS)</font>
+<font color="#D900D9">(PEOPLE SCREAMING)</font>
+They're coming in!
+Everybody on out!
 Get out of here! Go on!
 What are you doing? This is God's house.
 <font color="#D900D9">(INDISTINCT SHOUTING)</font>
 Both of you! Stay here!
 You're not going anywhere. Stay here!
-- No, no, no!
-- <font color="#D900D9">(GRUNTING)</font>
-- No, please, no!
-- Get down.
+No, no, no!
+<font color="#D900D9">(GRUNTING)</font>
+No, please, no!
+Get down.
 Somebody help her. Come on. Come on.
-- Get out!
-- It's the Lord's house!
-- Move!
-- Get the hell out of here!
+Get out!
+It's the Lord's house!
+Move!
+Get the hell out of here!
 <font color="#D900D9">(INDISTINCT CHATTERING)</font>
 <font color="#D09090">PREACHER</font> : No! Don't!
 Please!
 Do not turn your back on the Lord.
-- <font color="#D900D9">(GRUNTING)</font>
-- <font color="#D09090">WOMAN</font> : Please stop.
+<font color="#D900D9">(GRUNTING)</font>
+<font color="#D09090">WOMAN</font> : Please stop.
 <font color="#D09090">MAN</font> : Please, stop it!
 <font color="#D09090">WOMAN</font> : Leave him alone!
-- Stay down, preacher!
-- <font color="#D900D9">(GRUNTING)</font>
-- I'll return to Rose Creek in three weeks.
-- Stop moving.
+Stay down, preacher!
+<font color="#D900D9">(GRUNTING)</font>
+I'll return to Rose Creek in three weeks.
+Stop moving.
 Those of you who accept my offer, whose signed deeds are on my desk when I return...
-- Matthew!
-- ...shall get their $20.
+Matthew!
+...shall get their $20.
 Get off him!
 <font color="#D09090">BOGUE</font> : Those of you who do not, may your good Lord help you.
 <font color="#D900D9">(WOMAN WHIMPERING AND CRYING)</font>
@@ -236,70 +236,70 @@ For land?
 For land?
 <font color="#D900D9">(PANTING)</font>
 <font color="#D900D9">(SCREAMS)</font> No!
-- <font color="#D900D9">(SCREAMING)</font>
-- <font color="#D900D9">(HORSE WHINNYING)</font>
+<font color="#D900D9">(SCREAMING)</font>
+<font color="#D900D9">(HORSE WHINNYING)</font>
 <font color="#D900D9">(SOBBING)</font> Matthew!
-- <font color="#D900D9">(GRUNTING)</font>
-- <font color="#D900D9">(WOMAN SHRIEKS)</font>
+<font color="#D900D9">(GRUNTING)</font>
+<font color="#D900D9">(WOMAN SHRIEKS)</font>
 Isabel, no!
-- <font color="#D900D9">(YELLING)</font>
-- <font color="#D900D9">(GROANS)</font>
+<font color="#D900D9">(YELLING)</font>
+<font color="#D900D9">(GROANS)</font>
 Son of a bitch.
 <font color="#D900D9">(PEOPLE SCREAMING)</font>
 <font color="#D900D9">(HORSES NEIGHING)</font>
 <font color="#D09090">LENI</font> : No, Caleb!
 <font color="#D09090">WOMAN</font> : Oh, my God.
 Down, down! Stay down.
-- <font color="#D900D9">(BABY CRYING)</font>
-- <font color="#D900D9">(HORSES WHINNYING)</font>
-- No, no.
-- <font color="#D900D9">(BABY CRYING)</font>
+<font color="#D900D9">(BABY CRYING)</font>
+<font color="#D900D9">(HORSES WHINNYING)</font>
+No, no.
+<font color="#D900D9">(BABY CRYING)</font>
 <font color="#D900D9">(CRYING)</font>
 <font color="#D09090">LENI</font> : <font color="#D900D9">(YELLING)</font> No!
 Leave the bodies where they lay and let 'em look at 'em a few days.
-- <font color="#D09090">LENI</font> : No!
-- <font color="#D900D9">(BABY CRYING)</font>
-- <font color="#D900D9">(WHISPERS)</font> My God.
-- <font color="#D09090">LENI</font> : No!
-- <font color="#D900D9">(BABY CRYING)</font>
-- <font color="#D09090">LENI</font> : No! No!
-- <font color="#D900D9">(WOMAN SOBBING)</font>
-- <font color="#D09090">LENI</font> : Caleb.
+<font color="#D09090">LENI</font> : No!
+<font color="#D900D9">(BABY CRYING)</font>
+<font color="#D900D9">(WHISPERS)</font> My God.
+<font color="#D09090">LENI</font> : No!
+<font color="#D900D9">(BABY CRYING)</font>
+<font color="#D09090">LENI</font> : No! No!
+<font color="#D900D9">(WOMAN SOBBING)</font>
+<font color="#D09090">LENI</font> : Caleb.
 Please, God, don't take him.
 Come on, Leni. We have to get the baby away from the church.
-- It's on fire. Come on, come on, come on.
-- No, no.
+It's on fire. Come on, come on, come on.
+No, no.
 Come on, come with us. Come on, Leni.
 This is the Lord's house.
-- Come on, there's a fire!
-- Something's on fire!
-- Let's put it out, men. We can't leave this!
-- Shit, it's on fire!
+Come on, there's a fire!
+Something's on fire!
+Let's put it out, men. We can't leave this!
+Shit, it's on fire!
 It'll be burned to the ground if we don't hurry!
-- Stay back!
-- Wait, wait, wait.
-- Stay back.
-- Stay back, men!
+Stay back!
+Wait, wait, wait.
+Stay back.
+Stay back, men!
 Come on, we're just trying to help.
 You don't get paid to help. Move!
-- I can't.
-- I'm fine.
+I can't.
+I'm fine.
 Come on. Come on. Come with us.
 <font color="#D900D9">(WIND WHISTLING)</font>
 <font color="#D900D9">(HORSE WHICKERING)</font>
-- <font color="#D900D9">(HORSE WHICKERING)</font>
-- <font color="#D09090">MAN</font> : Damn wheel's busted. I can't fix it!
+<font color="#D900D9">(HORSE WHICKERING)</font>
+<font color="#D09090">MAN</font> : Damn wheel's busted. I can't fix it!
 Got a long ride ahead of us.
 Well, lookee there.
-- <font color="#D900D9">(METAL RINGING)</font>
-- <font color="#D900D9">(SHEEP BLEATING)</font>
+<font color="#D900D9">(METAL RINGING)</font>
+<font color="#D900D9">(SHEEP BLEATING)</font>
 You know where you are, cowboy?
 <font color="#D900D9">(HENS CLUCKING)</font>
 <font color="#D900D9">(PLAYING BALLAD)</font>
 Oh, get right here. Get right here.
 Yeah, I'm hoping to change my luck.
-- These cards are shit.
-- Deal.
+These cards are shit.
+Deal.
 Now, let's try to keep civil this round, okay?
 I'm looking at you, Lucas.
 Just play the damn game, Faraday.
@@ -310,8 +310,8 @@ What the hell is he doing here?
 Shot of busthead.
 Sorry, don't carry that kind, cowboy.
 Well, in that case, I'll have a double.
-- What's that for?
-- Information.
+What's that for?
+Information.
 Looking for a man. Big fella.
 'Bout your size.
 <font color="#D09090">BARTENDER</font> : What's his name?
@@ -320,14 +320,14 @@ Killed a tenant farmer and his son in cold blood.
 Stole the man's plow horse.
 Man's wife tried to intervene.
 Took advantage, then killed her, too.
-- Ain't heard of him.
-- Well, like I said, he use different names.
+Ain't heard of him.
+Well, like I said, he use different names.
 Had a bullet scar on his, uh, left shoulder.
 Right there.
 Now, Powder Dan ran with an outlaw, name of July Bully.
 May he rest in peace.
-- He's dead?
-- Yes, sir.
+He's dead?
+Yes, sir.
 How'd he die?
 <font color="#D900D9">(WHISPERS)</font> I whispered in his ear.
 Yeah, what's that?
@@ -347,13 +347,13 @@ Come on, easy.
 I got a family, mister.
 They're better off without you.
 <font color="#D900D9">(SNIFFLES)</font>
-- <font color="#D900D9">(PATRONS SCREAMING)</font>
-- <font color="#D900D9">(WHIMPERING)</font>
+<font color="#D900D9">(PATRONS SCREAMING)</font>
+<font color="#D900D9">(WHIMPERING)</font>
 Somebody fetch the sheriff.
-- Get the sheriff!
-- Get the sheriff.
-- Get the sheriff!
-- Ah-ah-ah-ah-ah-ah-ah.
+Get the sheriff!
+Get the sheriff.
+Get the sheriff!
+Ah-ah-ah-ah-ah-ah-ah.
 I'm gonna kill you, Faraday.
 You son of a bitch. Deal with you later.
 <font color="#D09090">WOMAN 1</font> : Well, I know it.
@@ -364,14 +364,14 @@ Dan, you dead?
 Pity. I had just ordered a drink from him.
 Money for blood's a peculiar business.
 <font color="#D09090">MAN</font> : He started shooting everyone in cold blood!
-- And he's still in there, yeah.
-- That son of a bitch!
-- There he is!
-- There he is!
-- That's him!
-- That's him!
-- Sheriff! Sheriff!
-- He shot him in cold blood!
+And he's still in there, yeah.
+That son of a bitch!
+There he is!
+There he is!
+That's him!
+That's him!
+Sheriff! Sheriff!
+He shot him in cold blood!
 My name is Sam Chisolm.
 I'm a duly sworn warrant officer of the circuit court in Wichita, Kansas.
 I'm also a licensed peace officer in the Indian Territories, Arkansas,
@@ -385,8 +385,8 @@ And you can hold my part for me till I get back.
 Where you headed?
 Off into the mountains, hunting a vaquero.
 No, Miss Emma. I'll do it.
-- Excuse me. Are you a bounty hunter, sir?
-- No, sir.
+Excuse me. Are you a bounty hunter, sir?
+No, sir.
 <font color="#D09090">SHERIFF</font> : Yeah, that's Powder Dan.
 Get him on outta here.
 I have need of a man with your qualifications.
@@ -399,17 +399,17 @@ He's killed half a dozen men.
 He's got the sheriff on his payroll and Blackstone agents in his employ.
 Well, you don't need a bounty hunter, you need an army.
 And we intend to hire one, sir.
-- <font color="#D900D9">(GUN CLICKS)</font>
-- <font color="#D900D9">(GULPS)</font>
+<font color="#D900D9">(GUN CLICKS)</font>
+<font color="#D900D9">(GULPS)</font>
 Guess you weren't expecting to see me again, were ya?
 Wild Bill? Is that you? You look like shit.
 Ain't no Wild Bill.
 They call me
-- the Two Gun Kid.
-- <font color="#D900D9">(GUN CLICKS)</font>
+the Two Gun Kid.
+<font color="#D900D9">(GUN CLICKS)</font>
 Keep your hands away from your weapons, Faraday.
-- Hands up. Hands up.
-- Hands away from the...
+Hands up. Hands up.
+Hands away from the...
 Get his guns, Dicky.
 Don't try nothing.
 Oh, a pretty one.
@@ -419,8 +419,8 @@ I'm not for sale.
 Mister. Mister!
 You intend to make me chase?
 I have a proposition.
-- And I'm wary of propositions, miss.
-- Missus.
+And I'm wary of propositions, miss.
+Missus.
 I'm not sure if my friend filled you in on the details.
 Enough of 'em.
 Then why won't you at least listen?
@@ -445,15 +445,15 @@ But I'll take revenge.
 <font color="#D09090">FARADAY</font> : The Two Gun Kid.
 <font color="#D09090">EARL</font> : That's my name now.
 'Cause you got two guns?
-- Maybe not.
-- Told you it was a stupid name.
+Maybe not.
+Told you it was a stupid name.
 Dicky, shut your goddamn mouth.
 Faraday, walk!
 Just mad 'cause Mama gave him the name Earl.
 What do you want to do with him?
 How 'bout we take him over into that mine there?
-- Uh...
-- Whoa.
+Uh...
+Whoa.
 This is as good a place as any.
 Into the mine, Faraday.
 If you're gonna kill me, kill me.
@@ -468,14 +468,14 @@ Easy.
 Gentlemen, allow me a moment to show you something quite miraculous.
 You just show us our money, Faraday!
 Fifty-two cards.
-- Pick a card.
-- We ain't playing no game.
+Pick a card.
+We ain't playing no game.
 You've got the drop on me.
 You'll get a hoot outta this.
 <font color="#D09090">DICKY</font> : Come on, Earl, just pick one real quick.
 You know how I like magic.
-- All right, keep the gun on him.
-- Got it trained right on him.
+All right, keep the gun on him.
+Got it trained right on him.
 No tricks now.
 Don't let me see it.
 Show your associate.
@@ -486,8 +486,8 @@ Keep your gun on me.
 That's very good, Earl.
 Now, there's no way
 I can know what your card is because I didn't see it.
-- Yet...
-- Come on. Let's go!
+Yet...
+Come on. Let's go!
 With a shuffle and a cut, miraculously, your card.
 That ain't his card.
 Man, you ain't no magic man.
@@ -497,30 +497,30 @@ Oh, remember the plan, Earl.
 I get to kill him.
 You didn't let me finish.
 Your card was the king of hearts, right?
-- <font color="#D900D9">(LAUGHS)</font>
-- Is this your card?
+<font color="#D900D9">(LAUGHS)</font>
+Is this your card?
 Now, you see? That was worth it, wasn't it?
-- That was kind of good.
-- Pretty good.
+That was kind of good.
+Pretty good.
 That was...
 <font color="#D900D9">(GUN CLATTERS)</font>
 No, you just killed my brother. Huh?
-- Should I kill you?
-- No. Please.
+Should I kill you?
+No. Please.
 Would you like to see another magic trick?
 <font color="#D900D9">(WEAKLY)</font> No.
 Yeah. <font color="#D900D9">(GULPS)</font>
 It's called The Incredible...
 No.
-- <font color="#D900D9">(WHIMPERS)</font>
-- Disappearing...
+<font color="#D900D9">(WHIMPERS)</font>
+Disappearing...
 Ear.
-- <font color="#D900D9">(SCREAMING)</font>
-- <font color="#D900D9">(HIGH-PITCHED TONE)</font>
+<font color="#D900D9">(SCREAMING)</font>
+<font color="#D900D9">(HIGH-PITCHED TONE)</font>
 Oh, my ear! <font color="#D900D9">(WINCING)</font>
 We are never gonna cross paths again.
-- <font color="#D900D9">(GUN CLICKS)</font>
-- <font color="#D900D9">(GASPS)</font>
+<font color="#D900D9">(GUN CLICKS)</font>
+<font color="#D900D9">(GASPS)</font>
 <font color="#D900D9">(WHIMPERS)</font> Please don't kill me.
 Keep your money, please.
 <font color="#D900D9">(GROANS)</font>
@@ -529,24 +529,24 @@ He shouldn't have touched my guns.
 The only way in is the valley floor, and the main road in and out is to the west.
 <font color="#D09090">CHISOLM</font> : Where's the mine?
 <font color="#D09090">EMMA</font> : Here.
-- And where's Bogue?
-- Sacramento.
+And where's Bogue?
+Sacramento.
 Back in less than three weeks.
 And how many men you say you got left in town?
 Forty, maybe.
 Farmers. Not fighters.
 You understand what it means when you start something like this?
 We did not start this, Mr. Chisolm.
-- <font color="#D900D9">(HORSE WHINNYING)</font>
-- <font color="#D09090">WRANGLER</font> : Whoa!
+<font color="#D900D9">(HORSE WHINNYING)</font>
+<font color="#D09090">WRANGLER</font> : Whoa!
 What are you waiting on?
 Just get him under control.
 Spend all night at the saloon, and then you can't even control a silly horse.
 Come on, lad, get in there!
 Silly horse? That's a stallion.
 His name's Jack, and he's killed men before, so he oughta be careful.
-- Easy, easy, easy!
-- I require my horse back.
+Easy, easy, easy!
+I require my horse back.
 That horse.
 Two days past.
 Your horse against my Irish whiskey.
@@ -554,8 +554,8 @@ Behind the saloon rolling dice.
 That, sir, is a lie.
 A complete, absolute...
 Good Lord.
-- <font color="#D09090">WRANGLER</font> : Easy.
-- I thought that was a dream.
+<font color="#D09090">WRANGLER</font> : Easy.
+I thought that was a dream.
 I thought you were a leprechaun.
 That was real?
 Uh, I was mistaken.
@@ -581,12 +581,12 @@ Joan of Arc.
 My name's Emma Cullen.
 And this is my associate, Teddy Q.
 Well, I do have an affinity for shiny things.
-- Is it difficult?
-- Impossible.
-- How many you got so far?
-- <font color="#D09090">CHISOLM</font> : Two.
-- What, them?
-- You and me.
+Is it difficult?
+Impossible.
+How many you got so far?
+<font color="#D09090">CHISOLM</font> : Two.
+What, them?
+You and me.
 Sending a woman to gather guns is not very chivalrous.
 I volunteered.
 Insisted, actually.
@@ -604,8 +604,8 @@ Just speaking out loud.
 Twenty miles east of here.
 Volcano Springs. Supply station.
 You look for a Cajun, name of Robicheaux.
-- Goodnight Robicheaux?
-- That's right.
+Goodnight Robicheaux?
+That's right.
 The Angel of Death.
 Meet me outside of Junction City in three days.
 Yeah, I ain't there, then it means I'm dead and you can...
@@ -617,25 +617,25 @@ Three days.
 <font color="#D900D9">(INSECTS BUZZING)</font>
 <font color="#D900D9">(BUZZING CONTINUES)</font>
 <font color="#D900D9">(COUGHS)</font>
-- <font color="#D900D9">(INSECTS BUZZING)</font>
-- <font color="#D900D9">(GASPS)</font>
-- <font color="#D900D9">(SCREAMS)</font>
-- <font color="#D900D9">(GUN CLICKS)</font>
+<font color="#D900D9">(INSECTS BUZZING)</font>
+<font color="#D900D9">(GASPS)</font>
+<font color="#D900D9">(SCREAMS)</font>
+<font color="#D900D9">(GUN CLICKS)</font>
 The gun. The gun!
 Give it to him.
 <font color="#D900D9">(SPEAKS IN SPANISH)</font>
 He was already dead, if that's what you're wondering.
-- You been sleeping in here?
-- He doesn't snore much.
+You been sleeping in here?
+He doesn't snore much.
 <font color="#D900D9">(BUZZING CONTINUES)</font>
-- You Vasquez?
-- What's this to you?
-- Here. I'm gonna tear up a warrant.
-- <font color="#D900D9">(STAMMERING)</font>
+You Vasquez?
+What's this to you?
+Here. I'm gonna tear up a warrant.
+<font color="#D900D9">(STAMMERING)</font>
 I just want to make sure
 I'm talking to the right man.
-- <font color="#D09090">EMMA</font> : No.
-- Shh, shh.
+<font color="#D09090">EMMA</font> : No.
+Shh, shh.
 Poor likeness.
 You a bounty hunter?
 Duly sworn warrant officer.
@@ -645,31 +645,31 @@ Man carries a gun, he tends to use it.
 Dead ranger by your hand. $500 reward.
 Maybe he had it coming.
 Doesn't matter to me either way.
-- Why? You intend to get that reward?
-- That depends.
+Why? You intend to get that reward?
+That depends.
 Got a business proposition for you.
 Well, does this business involve her?
-- Yes, it does.
-- Ooh.
-- Get me out of here! Let me out of here!
-- Shh, shh, shh, shh.
+Yes, it does.
+Ooh.
+Get me out of here! Let me out of here!
+Shh, shh, shh, shh.
 You wipe that smile off your face.
 <font color="#D900D9">(CHUCKLES)</font>
 Oh, laugh now. Get it outta your system.
 After our business is concluded, what then?
 There'll still be a lot of men after your hide.
-- And that should give me comfort?
-- Should.
+And that should give me comfort?
+Should.
 I won't be one of 'em.
 You're loco, my friend.
 Si.
 Hyah! Hyah!
 <font color="#D900D9">(CATTLE LOWING)</font>
-- Hyah!
-- <font color="#D900D9">(CATTLE BELLOWING)</font>
+Hyah!
+<font color="#D900D9">(CATTLE BELLOWING)</font>
 <font color="#D09090">REFEREE</font> : Let me tell you the game.
-- <font color="#D09090">CATTLE DRIVER</font> : Go on, now!
-- Fastest gun wins.
+<font color="#D09090">CATTLE DRIVER</font> : Go on, now!
+Fastest gun wins.
 Winner take all.
 Hope you've all put your bets down.
 Arcade.
@@ -677,22 +677,22 @@ Billy Rocks.
 <font color="#D900D9">(WIND WHISTLING)</font>
 On my gun.
 <font color="#D900D9">(GUNSHOTS)</font>
-- Whoo!
-- <font color="#D900D9">(CROWD GASPING AND SHOUTING)</font>
+Whoo!
+<font color="#D900D9">(CROWD GASPING AND SHOUTING)</font>
 <font color="#D900D9">(LAUGHTER)</font>
 <font color="#D09090">ARCADE</font> : Yeah, how about that, boys?
-- That's good.
-- That was pretty good, huh?
+That's good.
+That was pretty good, huh?
 <font color="#D900D9">(EXCITED CHATTER)</font>
-- Billy wins.
-- What?
+Billy wins.
+What?
 Are you blind? Come on, Eddy.
-- You're a liar!
-- Oh, come on, Arcade.
-- Hey, come on, we all saw me win, now.
-- <font color="#D09090">CROWD</font> : Yeah!
-- <font color="#D900D9">(SHOUTING)</font>
-- <font color="#D900D9">(CHATTER)</font>
+You're a liar!
+Oh, come on, Arcade.
+Hey, come on, we all saw me win, now.
+<font color="#D09090">CROWD</font> : Yeah!
+<font color="#D900D9">(SHOUTING)</font>
+<font color="#D900D9">(CHATTER)</font>
 <font color="#D09090">COWBOY 1</font> : Double down!
 <font color="#D09090">COWBOY 2</font> : We all want some more!
 Why don't we do it for real?
@@ -700,34 +700,34 @@ Why don't we do it for real?
 <font color="#D09090">COWBOY 1</font> : No, no, double down.
 Come on, you scum-sucking runt of a man.
 I want no part of this.
-- Double or nothing!
-- It's your funeral, Arcade.
+Double or nothing!
+It's your funeral, Arcade.
 Double or nothing.
 <font color="#D900D9">(LOW INDISTINCT CHATTER)</font>
 <font color="#D09090">COWBOY</font> : He called it.
 <font color="#D09090">COWBOY</font> : Whoa!
 All right.
 He's lost his mind.
-- He ain't got a chance.
-- It ain't right.
+He ain't got a chance.
+It ain't right.
 Billy?
 <font color="#D900D9">(GUN CLICKS)</font>
 On my gun.
-- <font color="#D09090">CROWD</font> : Oh!
-- Sh...
-- Never seen anything like this.
-- What the hell was that?
-- Oh, come on, now.
-- I think he killed him.
-- He killed him, right?
-- What the hell?
-- <font color="#D900D9">(LOW CHUCKLE)</font>
-- Damn!
+<font color="#D09090">CROWD</font> : Oh!
+Sh...
+Never seen anything like this.
+What the hell was that?
+Oh, come on, now.
+I think he killed him.
+He killed him, right?
+What the hell?
+<font color="#D900D9">(LOW CHUCKLE)</font>
+Damn!
 <font color="#D900D9">(QUIETLY)</font> Damn it, Arcade.
-- Man, he got it.
-- What was that?
-- Damn!
-- See? I told you. I told you!
+Man, he got it.
+What was that?
+Damn!
+See? I told you. I told you!
 <font color="#D900D9">(LOW INDISTINCT CHATTER)</font>
 I ain't in the habit of paying off cheaters.
 I'll be keeping my money.
@@ -739,8 +739,8 @@ It's all right, son.
 You just pay me double.
 Yes, sir.
 <font color="#D900D9">(COINS CLINK)</font>
-- Damn fool.
-- Goodnight Robicheaux?
+Damn fool.
+Goodnight Robicheaux?
 Sam Chisolm sent us.
 <font color="#D900D9">(PIANO PLAYING)</font>
 <font color="#D09090">MAN 1</font> : All right, get him outta here.
@@ -748,31 +748,31 @@ Sam Chisolm sent us.
 <font color="#D09090">MAN 3</font> : I said, what do you think I'm paying for?
 <font color="#D09090">GOODNIGHT</font> : "Duly sworn warrant officer
 "from Wichita, Kansas, and seven other states."
-- Do we have the same man? <font color="#D900D9">(LAUGHS)</font>
-- Yeah, believe we do.
+Do we have the same man? <font color="#D900D9">(LAUGHS)</font>
+Yeah, believe we do.
 Should we talk somewhere more private?
 Nah, I like it right here.
 Billy, you like it here?
 <font color="#D900D9">(MUMBLES)</font> Oh, yeah.
-- How'd y'all meet?
-- Ooh, how did we meet, Billy?
+How'd y'all meet?
+Ooh, how did we meet, Billy?
 I was serving a warrant on him for the Northern Pacific Railroad.
 Warrant for what?
 Killing a man with a hairpin?
 <font color="#D900D9">(LAUGHING)</font>
 <font color="#D09090">WOMAN</font> : Now, now, you're gonna have to pay for that.
-- <font color="#D900D9">(WOMEN LAUGHING)</font>
-- <font color="#D900D9">(CLEARS THROAT)</font>
+<font color="#D900D9">(WOMEN LAUGHING)</font>
+<font color="#D900D9">(CLEARS THROAT)</font>
 That is funny.
-- <font color="#D900D9">(LAUGHS)</font>
-- <font color="#D09090">GOODNIGHT</font> : Here's what it is.
+<font color="#D900D9">(LAUGHS)</font>
+<font color="#D09090">GOODNIGHT</font> : Here's what it is.
 I found Billy down in an old redneck saloon in Texas, and all these good ol' boys, they didn't want to serve
 Billy's kind, all right?
 So this, uh, petite son of a bitch took on the whole room bare-knuckled.
 I watched in awe, and I said to myself,
 "Goodnight, this is not a man to arrest, this is a man to befriend."
-- You make your living off of his alley fights?
-- Equal shares.
+You make your living off of his alley fights?
+Equal shares.
 Between fights, Goody helps me navigate the white man's prejudices.
 <font color="#D09090">GOODNIGHT</font> : Mmm-hmm.
 I keep him employed, and he keeps me on the level.
@@ -782,29 +782,29 @@ Yes, sir.
 We understand each other.
 <font color="#D09090">FARADAY</font> : Well, day-and-a-half ride to Junction City. We got two days.
 Let's do a half day of drinking. <font color="#D900D9">(LAUGHS)</font>
-- I like you.
-- <font color="#D900D9">(LAUGHTER)</font>
+I like you.
+<font color="#D900D9">(LAUGHTER)</font>
 <font color="#D900D9">(DISTANT THUNDER RUMBLING)</font>
 <font color="#D900D9">(WHISTLES)</font>
 <font color="#D09090">GOODNIGHT</font> : Ha-ha-ha!
-- Sam Chisolm!
-- Goodnight Robicheaux.
+Sam Chisolm!
+Goodnight Robicheaux.
 Oh, sight to see, even with a storm on our backs.
 Yeah. Rain ain't nothing but wet.
 Well, what we lose in the fire we will find in the ashes.
 That's right. <font color="#D900D9">(LAUGHS)</font>
 <font color="#D09090">GOODNIGHT</font> : Oh, yeah.
-- Ah...
-- This is Billy Rocks. He's with me.
+Ah...
+This is Billy Rocks. He's with me.
 <font color="#D900D9">(CLEARS THROAT)</font> Sam, uh, that's Billy.
 He come with Goodnight.
 <font color="#D09090">GOODNIGHT</font> : I don't know about this one.
 Who's this?
-- We work for her.
-- Uh-huh.
+We work for her.
+Uh-huh.
 <font color="#D900D9">(CHUCKLES)</font> Well, enchantÃ©, mon cher.
-- Emma Cullen.
-- Your hands are cold, Emma.
+Emma Cullen.
+Your hands are cold, Emma.
 Are you nervous?
 Don't be.
 Goodnight's my name.
@@ -829,15 +829,15 @@ My grandfather was one of those devils, you know.
 Toluca Battalion.
 Hey. Maybe my grandfather killed your grandfather, huh?
 Mmm, what a charming thought.
-- I sense we are bonding.
-- <font color="#D900D9">(LAUGHING)</font>
+I sense we are bonding.
+<font color="#D900D9">(LAUGHING)</font>
 So we're talking about the same Jack Horne.
 The Jack Horne. The legend Jack Horne.
 <font color="#D900D9">(CHUCKLES)</font> Legend? Legend, my ass.
 Yeah, he might've killed 300 Crow, but he ain't never met the Pigeon brothers before.
 And you saying that's Jack Horne's rifle?
-- It was Jack Horne's rifle.
-- Uh-huh.
+It was Jack Horne's rifle.
+Uh-huh.
 And there's an Army fort want to pay $1,000 for proof of death.
 Rifle'll do.
 You have no body?
@@ -881,8 +881,8 @@ I believe that bear was wearing people's clothes.
 <font color="#D09090">FARADAY</font> : I figured 'cause you carry this army-issue Open Top.45 Long Colt.
 Took you for a soldier.
 You know how to shoot that thing?
-- If I had to, I reckon.
-- If you had to?
+If I had to, I reckon.
+If you had to?
 Tell you what, for a sip of your whiskey,
 I'll teach you a few lessons.
 <font color="#D900D9">(SIGHS)</font> Lesson one.
@@ -928,14 +928,14 @@ Just making sure we're fighting the battle in front of us, not behind.
 <font color="#D900D9">(GUN CLICKS)</font>
 Smell that?
 What smell?
-- The smoke?
-- It's blood.
-- <font color="#D900D9">(ROCKS CLATTER)</font>
-- <font color="#D900D9">(HORSE WHINNIES)</font>
+The smoke?
+It's blood.
+<font color="#D900D9">(ROCKS CLATTER)</font>
+<font color="#D900D9">(HORSE WHINNIES)</font>
 <font color="#D09090">TEDDY Q</font> : He's been tracking us.
 <font color="#D09090">GOODNIGHT</font> : I'll be damned.
-- <font color="#D900D9">(PANTING)</font>
-- Please tell me I'm hallucinating.
+<font color="#D900D9">(PANTING)</font>
+Please tell me I'm hallucinating.
 <font color="#D09090">FARADAY</font> : You are hallucinating.
 So am I.
 <font color="#D09090">GOODNIGHT</font> : Where there's one, there's more.
@@ -958,13 +958,13 @@ Probably, we all die.
 I'm called Red Harvest.
 <font color="#D900D9">(SPEAKING COMANCHE)</font>
 <font color="#D900D9">(SPITS)</font>
-- What'd he say?
-- Said he's with us.
+What'd he say?
+Said he's with us.
 Gonna fix him some breakfast. I had mine.
 Let's get this fire started.
 <font color="#D900D9">(WIND WHISTLING)</font>
-- Mr. Paley, come on in.
-- All right, sweetheart.
+Mr. Paley, come on in.
+All right, sweetheart.
 Buy me a drink, sugar.
 <font color="#D09090">MAN 1</font> : Better get her all nailed down.
 <font color="#D09090">MAN 2</font> : I keep telling him.
@@ -1026,11 +1026,11 @@ Devil, don't shoot. I'm the proprietor.
 <font color="#D900D9">(GRUNTS)</font>
 <font color="#D900D9">(BULLETS CLATTER)</font>
 Lord, give me clear vision!
-- Clear sight!
-- <font color="#D900D9">(MAN GRUNTING)</font>
+Clear sight!
+<font color="#D900D9">(MAN GRUNTING)</font>
 <font color="#D900D9">(HORSE WHINNYING)</font>
-- Hyah!
-- <font color="#D900D9">(HORSE WHINNYING)</font>
+Hyah!
+<font color="#D900D9">(HORSE WHINNYING)</font>
 <font color="#D900D9">(MAN GRUNTING)</font>
 <font color="#D900D9">(GUNFIRE)</font>
 <font color="#D900D9">(HORNE YELLS)</font>
@@ -1038,8 +1038,8 @@ Lord, give me clear vision!
 Hyah! Hyah!
 <font color="#D900D9">(WOMEN SCREAM)</font>
 <font color="#D900D9">(WOMAN GASPS)</font>
-- <font color="#D900D9">(GALLOPING HOOVES)</font>
-- <font color="#D900D9">(NEIGHING)</font>
+<font color="#D900D9">(GALLOPING HOOVES)</font>
+<font color="#D900D9">(NEIGHING)</font>
 Hyah!
 Hyah! Hyah!
 Go on, shoot him.
@@ -1050,10 +1050,10 @@ Give me that.
 It's jammed.
 <font color="#D09090">CHISOLM</font> : How'd we do?
 I got five.
-- <font color="#D09090">FARADAY</font> : I got six.
-- Hey.
-- <font color="#D09090">FARADAY</font> : What'd you get?
-- Six.
+<font color="#D09090">FARADAY</font> : I got six.
+Hey.
+<font color="#D09090">FARADAY</font> : What'd you get?
+Six.
 I got seven.
 <font color="#D900D9">(SCOFFS)</font>
 You wanna try and tie it up?
@@ -1088,26 +1088,26 @@ Sam Chisolm. Say it.
 Sam Chisolm.
 Yes, sir.
 Well, this is quite the welcome party.
-- Where is everybody?
-- I think we killed 'em all.
+Where is everybody?
+I think we killed 'em all.
 <font color="#D09090">GOODNIGHT</font> : No, they're here.
 They just want to make sure their candle is lit before they blow out the match.
 <font color="#D900D9">(HOOFBEATS APPROACHING)</font>
 <font color="#D09090">EMMA</font> : Everyone! Come on! Come out!
-- Come out!
-- <font color="#D09090">TEDDY Q</font> : Come on out, everybody!
+Come out!
+<font color="#D09090">TEDDY Q</font> : Come on out, everybody!
 What's the matter with y'all?
 Don't you see what they just did?
 <font color="#D09090">EMMA</font> : Come on! Come out!
 <font color="#D900D9">(LOW INDISTINCT CHATTER)</font>
 <font color="#D900D9">(PANTING)</font>
 These men are here to help us!
-- Come on!
-- Well, look at that.
-- <font color="#D09090">EMMA</font> : Come on!
-- Nothing to be scared of! Let's go!
-- Come on!
-- Is he dead?
+Come on!
+Well, look at that.
+<font color="#D09090">EMMA</font> : Come on!
+Nothing to be scared of! Let's go!
+Come on!
+Is he dead?
 Come on. Get away.
 <font color="#D900D9">(INDISTINCT CHATTER CONTINUES)</font>
 <font color="#D900D9">(TREMBLING BREATH)</font>
@@ -1126,8 +1126,8 @@ Uh, also, a licensed peace officer in the Indian Territories, Arkansas and seven
 Now, what happened here was just an opening skirmish.
 The real battle is yet to come.
 The idea is that when it comes, it'll be on our terms.
-- On our terms?
-- Yeah, there's no way in hell.
+On our terms?
+Yeah, there's no way in hell.
 Son of a bitch'll come back with 200 men and slaughter us all.
 If you want to leave, leave.
 Just don't take anything you didn't bring with you.
@@ -1135,30 +1135,30 @@ You want to keep your town, you're gonna have to fight for it.
 Now, we're here to help you, but you got to help us.
 We're gonna need every somebody out here to help us fight.
 Good Lord! Are you suggesting we wait here to face retaliation?
-- Hell, yeah, he is.
-- What?
-- Let 'em come. We'll be ready for 'em.
-- <font color="#D09090">PREACHER</font> : I beg pardon, sir.
+Hell, yeah, he is.
+What?
+Let 'em come. We'll be ready for 'em.
+<font color="#D09090">PREACHER</font> : I beg pardon, sir.
 The spirit here is willing,
-- but we are not killers.
-- That's right.
+but we are not killers.
+That's right.
 Most aren't, till they're looking down the barrel of a gun.
 Now, I never shot anything that could shoot back at me.
 But this is our home.
-- Damned if I won't defend it.
-- <font color="#D09090">CHISOLM</font> : That's right.
+Damned if I won't defend it.
+<font color="#D09090">CHISOLM</font> : That's right.
 And now let me tell you, these men that are coming here, they're gonna underestimate you.
 That'll be their first mistake.
 That's all well and good, but we don't have enough time.
 Bogue said he'd be back in three weeks, that was eight days ago.
-- One week.
-- That only leaves us... No, one week?
-- One week?
-- <font color="#D09090">CHISOLM</font> : One week.
+One week.
+That only leaves us... No, one week?
+One week?
+<font color="#D09090">CHISOLM</font> : One week.
 Three days' ride to Sacramento with the bad news, one day for Bogue to plan, three days back.
 Seven days, that's all you got.
-- <font color="#D900D9">(INDISTINCT CHATTER)</font>
-- For goodness' sake.
+<font color="#D900D9">(INDISTINCT CHATTER)</font>
+For goodness' sake.
 We'll get started in the morning.
 Get a good night's rest.
 May be your last for a while.
@@ -1170,8 +1170,8 @@ Like being in one of them damn zoos.
 Fame is a sarcophagus.
 You read those in a book, or you just make 'em up as you go?
 I'll try to use one-syllable words from now on.
-- What... What's a syllable?
-- <font color="#D900D9">(CHUCKLES)</font>
+What... What's a syllable?
+<font color="#D900D9">(CHUCKLES)</font>
 White people's food...
 ...is for dogs.
 What'd he say?
@@ -1210,10 +1210,10 @@ Stab. That's it.
 Yah!
 Yah!
 That simple.
-- <font color="#D09090">MAN</font> : Like hell.
-- Hey.
-- How the hell we gonna learn to do that?
-- Get back here!
+<font color="#D09090">MAN</font> : Like hell.
+Hey.
+How the hell we gonna learn to do that?
+Get back here!
 Get back!
 Fire!
 <font color="#D900D9">(GROANING)</font>
@@ -1232,11 +1232,11 @@ The recoil is not to be shunned, it's to be absorbed.
 I ain't shunning a damn thing, sir.
 You trying to make me angry?
 Is that what it is?
-- Do you...
-- Oh! <font color="#D900D9">(GROANING)</font>
+Do you...
+Oh! <font color="#D900D9">(GROANING)</font>
 That's the second time for you.
-- Go make me some eggs.
-- The damn hammer...
+Go make me some eggs.
+The damn hammer...
 No, I don't wanna hear it!
 Have a nice afternoon.
 You gonna point...
@@ -1247,15 +1247,15 @@ Leave your weapon.
 <font color="#D09090">GOODNIGHT</font> : I'm trying to help you.
 You understand?
 Keep the target soft, pull the trigger slow.
-- So slow. You can't pull it slow enough.
-- Like that?
+So slow. You can't pull it slow enough.
+Like that?
 Let the shot surprise you.
 All right, now.
 <font color="#D900D9">(MAN COUGHS)</font>
 Fire when ready.
 Fire!
-- <font color="#D900D9">(BULLET RICOCHETS)</font>
-- <font color="#D900D9">(COUGHING)</font>
+<font color="#D900D9">(BULLET RICOCHETS)</font>
+<font color="#D900D9">(COUGHING)</font>
 <font color="#D09090">HANK</font> : Think I pinched my finger.
 Bless their hearts.
 <font color="#D09090">GOODNIGHT</font> : That's hard to do.
@@ -1268,8 +1268,8 @@ Get some gravel in your craw!
 Goddamn sons of bitches!
 <font color="#D09090">MAN</font> : All right.
 These men need inspiration.
-- Inspire them.
-- Yeah.
+Inspire them.
+Yeah.
 You are Goodnight Robicheaux, after all.
 Aint'cha?
 I can hit sand, but we need the lead.
@@ -1281,14 +1281,14 @@ Do what he does.
 He's a legend.
 <font color="#D900D9">(QUIETLY)</font> Or is that all you are?
 <font color="#D900D9">(HORSE WHINNIES IN DISTANCE)</font>
-- <font color="#D09090">MAN</font> : Whoa!
-- <font color="#D900D9">(MEN WHOOPING)</font>
-- That's some fancy shooting there.
-- He did it. He did it.
-- That's why they call him Goodnight.
-- You're telling me.
-- Can you believe that?
-- That's fantastic.
+<font color="#D09090">MAN</font> : Whoa!
+<font color="#D900D9">(MEN WHOOPING)</font>
+That's some fancy shooting there.
+He did it. He did it.
+That's why they call him Goodnight.
+You're telling me.
+Can you believe that?
+That's fantastic.
 Told you.
 Y'all go home, polish your rifles, maybe the glint'll scare 'em off.
 We ain't gonna shoot no more?
@@ -1314,49 +1314,49 @@ So far, so good. Let's go get some ammo.
 Come on.
 <font color="#D900D9">(EXPLOSION RUMBLING)</font>
 <font color="#D09090">MAN</font> : Mr. Bogue wants this mine stripped before he gets back.
-- Move it, you lazy dogs!
-- <font color="#D900D9">(EXPLOSION)</font>
+Move it, you lazy dogs!
+<font color="#D900D9">(EXPLOSION)</font>
 Move that gold out!
 Fire in the hole!
 <font color="#D900D9">(EXPLOSIONS CONTINUE)</font>
 <font color="#D900D9">(RIFLE COCKS)</font>
-- <font color="#D900D9">(EXPLOSION)</font>
-- <font color="#D900D9">(GUNSHOT)</font>
-- <font color="#D900D9">(WHINNIES)</font>
-- <font color="#D900D9">(RIFLE COCKS)</font>
+<font color="#D900D9">(EXPLOSION)</font>
+<font color="#D900D9">(GUNSHOT)</font>
+<font color="#D900D9">(WHINNIES)</font>
+<font color="#D900D9">(RIFLE COCKS)</font>
 <font color="#D09090">MAN</font> : That sounded like a gunshot!
 <font color="#D09090">MAN 2</font> : It's coming from the cliff.
 <font color="#D900D9">(GUNSHOT)</font>
-- <font color="#D900D9">(RIFLE COCKS)</font>
-- <font color="#D900D9">(GUNSHOT)</font>
-- <font color="#D900D9">(RIFLE COCKS)</font>
-- <font color="#D900D9">(GUNSHOT)</font>
-- Who was that?
-- I don't know.
-- Keep the powder down.
-- Look-it, right there.
+<font color="#D900D9">(RIFLE COCKS)</font>
+<font color="#D900D9">(GUNSHOT)</font>
+<font color="#D900D9">(RIFLE COCKS)</font>
+<font color="#D900D9">(GUNSHOT)</font>
+Who was that?
+I don't know.
+Keep the powder down.
+Look-it, right there.
 <font color="#D900D9">(MAN COUGHS)</font>
 These ain't Bogue's guys.
 Yup. They done killed them all.
 <font color="#D900D9">(INDISTINCT CHATTER)</font>
 This mine is now closed.
 You men are free to go.
-- Or you can stay and fight.
-- <font color="#D900D9">(INDISTINCT CHATTER)</font>
+Or you can stay and fight.
+<font color="#D900D9">(INDISTINCT CHATTER)</font>
 <font color="#D900D9">(AMAZED WHISTLE)</font>
-- This will help.
-- <font color="#D09090">CHISOLM</font> : <font color="#D900D9">(CHUCKLES)</font> Yeah.
+This will help.
+<font color="#D09090">CHISOLM</font> : <font color="#D900D9">(CHUCKLES)</font> Yeah.
 I've always wanted to blow something up.
 <font color="#D900D9">(LAUGHTER)</font>
 Go back inside.
 Whoa-hoa-hoa!
 <font color="#D09090">GAVIN</font> : Mr. Chisolm, what's this?
 Reinforcements.
-- What's that on the wagon?
-- Dynamite.
+What's that on the wagon?
+Dynamite.
 Dynamite? Where you gonna put that stuff?
-- Your place.
-- My place? Why my place?
+Your place.
+My place? Why my place?
 Oh, Lord. Please be careful with it.
 <font color="#D900D9">(GRUNTS)</font>
 <font color="#D09090">BOGUE</font> : My town. My gold. How?
@@ -1366,10 +1366,10 @@ There just wasn't enough.
 And that I'd be a coward?
 Uh...
 If you didn't come to Rose Creek. Yes, sir.
-- He said his name was Chisolm?
-- Sam Chisolm.
-- From Lincoln?
-- Like the president.
+He said his name was Chisolm?
+Sam Chisolm.
+From Lincoln?
+Like the president.
 He name his price?
 He didn't have one. Just terms.
 All men have a price.
@@ -1377,8 +1377,8 @@ Isn't that right, Mr. Harp?
 Not this man.
 <font color="#D900D9">(EXHALES)</font>
 How many men you say?
-- Seven.
-- Seven? Seven?
+Seven.
+Seven? Seven?
 Seven men ride into my town, dispatch with 22 of the best guns money can buy?
 Is that what you're telling me?
 They fought like three times that, Mr. Bogue.
@@ -1399,11 +1399,11 @@ It won't have existed for long enough.
 But history will remember me, and what I built.
 Mr. Denali, recruit an army to go back with us.
 <font color="#D900D9">(GUNSHOT)</font>
-- <font color="#D900D9">(RIFLE COCKS)</font>
-- <font color="#D900D9">(GUNSHOT)</font>
 <font color="#D900D9">(RIFLE COCKS)</font>
-- <font color="#D900D9">(GUNSHOT)</font>
-- <font color="#D900D9">(RIFLE COCKS)</font>
+<font color="#D900D9">(GUNSHOT)</font>
+<font color="#D900D9">(RIFLE COCKS)</font>
+<font color="#D900D9">(GUNSHOT)</font>
+<font color="#D900D9">(RIFLE COCKS)</font>
 <font color="#D900D9">(GUNSHOT)</font>
 Pretty.
 I mean good.
@@ -1439,8 +1439,8 @@ Trouble with taking one of these positions, you can't ever get down.
 Now, whatever happens, Bogue can't leave.
 <font color="#D09090">FARADAY</font> : How do we even know
 Bogue's gonna show?
-- He'll show.
-- And if he just shoots you in the head?
+He'll show.
+And if he just shoots you in the head?
 Then just shoot him in the head.
 Hell, I don't know, uh, avenge me.
 If we can lure him into the bottleneck, close the door behind him, each group fire and advance, we stand a chance.
@@ -1452,11 +1452,11 @@ Anything left up there to stand on?
 <font color="#D900D9">(CHISOLM CHUCKLES)</font>
 <font color="#D09090">VASQUEZ</font> : <font color="#D900D9">(CHUCKLES)</font> There you go.
 But there is no forgiveness for men like you, gÃ¼ero.
-- <font color="#D900D9">(CHORTLES)</font>
-- Don't call me gÃ¼ero.
+<font color="#D900D9">(CHORTLES)</font>
+Don't call me gÃ¼ero.
 What's gÃ¼ero mean, anyway?
-- Handsome? Debonair?
-- Yeah, something like that.
+Handsome? Debonair?
+Yeah, something like that.
 <font color="#D09090">GOODNIGHT</font> : No, this is our stronghold.
 You funnel them all towards the church.
 <font color="#D09090">EMMA</font> : Where am I?
@@ -1472,13 +1472,13 @@ Ditches on each side!
 The rest of y'all stand to the side!
 We're gonna need another ditch by the livery. See that?
 Good, and heave!
-- All right, tie it up, now.
-- Put your weapon...
+All right, tie it up, now.
+Put your weapon...
 <font color="#D900D9">(GIRL GIGGLES)</font>
 <font color="#D09090">CLARA</font> : Make sure you paint the whole thing.
 Very smart, smoking, huh?
-- Whoa!
-- Three minutes.
+Whoa!
+Three minutes.
 That's too much land to cover.
 <font color="#D900D9">(GRUNTING)</font>
 <font color="#D900D9">(GRUNTING)</font>
@@ -1490,11 +1490,11 @@ Her name is Ethel, and I love her.
 Hello, Ethel. Charmed. <font color="#D900D9">(LAUGHS)</font>
 And I consider her to be the love of my life.
 And she is a no-bullshitter,
-- she's a straight shooter.
-- All right, calm down, now.
+she's a straight shooter.
+All right, calm down, now.
 Put the gun away, son.
-- Her name is Ethel.
-- Put it away.
+Her name is Ethel.
+Put it away.
 And you'll show her some goddamn respect.
 Yeah.
 It's Maria you can disrespect.
@@ -1505,18 +1505,18 @@ You have a Maria?
 I have three Marias!
 <font color="#D09090">HORNE</font> : That's not right.
 The owl followed me here.
-- Nothing's following you.
-- I heard the voice.
-- Goody...
-- I heard the voice.
-- Goody.
-- Billy, I heard it.
+Nothing's following you.
+I heard the voice.
+Goody...
+I heard the voice.
+Goody.
+Billy, I heard it.
 I pull that trigger in violence again,
 I'm gonna die a ghastly death, Billy.
-- I heard it.
-- <font color="#D900D9">(SIGHS)</font>
-- <font color="#D09090">HORNE</font> : Same thing, it's not the same thing.
-- Yeah, it is.
+I heard it.
+<font color="#D900D9">(SIGHS)</font>
+<font color="#D09090">HORNE</font> : Same thing, it's not the same thing.
+Yeah, it is.
 No, a woman's a woman, a gun's a gun, in the Lord's eye.
 They're just dreams, Goody.
 You talk about guns, you talk about women, you talk about 'em separately.
@@ -1524,8 +1524,8 @@ It ain't right.
 Sure it is. Sure it is, my friend.
 I had a wife once.
 Had a family. Had some children, too.
-- One time.
-- Mmm?
+One time.
+Mmm?
 Now the stitching'll outlast you,
 I imagine.
 <font color="#D09090">HORNE</font> : That's... That's very nice of you.
@@ -1538,37 +1538,37 @@ I didn't ask her to do that.
 Well, the lady just did some poking and sticking for you.
 Maybe you should consider returning the favor, you know?
 <font color="#D900D9">(LAUGHTER)</font>
-- Okay, all right.
-- <font color="#D900D9">(LAUGHTER CONTINUES)</font>
-- <font color="#D900D9">(INDISTINCT CHATTER)</font>
-- <font color="#D900D9">(LAUGHTER)</font>
-- Evening, Mr. Chisolm.
-- Preacher.
-- Ah, what a beautiful night it is.
-- Yes, it is.
+Okay, all right.
+<font color="#D900D9">(LAUGHTER CONTINUES)</font>
+<font color="#D900D9">(INDISTINCT CHATTER)</font>
+<font color="#D900D9">(LAUGHTER)</font>
+Evening, Mr. Chisolm.
+Preacher.
+Ah, what a beautiful night it is.
+Yes, it is.
 I just wanted to take a moment to come up here and to thank you for everything that you've done for us.
 It's been a long while since we've been able to enjoy an evening quite like tonight.
 Before you and your men arrived, all of our everyday pleasures had been taken from us.
 To have those back, even if only for a moment, well, it might not mean that much to you, but, by God, we are all eternally grateful to you.
 More than you know, preacher.
 <font color="#D09090">TOWNSMAN 2</font> : Last thing I wanna be doing is playing cards.
-- All night.
-- All night.
+All night.
+All night.
 You know, some of these folks ain't gonna make it.
 Yeah.
 <font color="#D900D9">(INDISTINCT CHATTER CONTINUES)</font>
-- Here we go. Easy. Easy.
-- Steady.
-- Throw me the other end!
-- Here you go.
-- Whoa, whoa!
-- Okay, pues.
-- That far enough?
-- That'll do!
+Here we go. Easy. Easy.
+Steady.
+Throw me the other end!
+Here you go.
+Whoa, whoa!
+Okay, pues.
+That far enough?
+That'll do!
 <font color="#D900D9">(GRUNTING)</font>
 <font color="#D09090">TOWNSMAN</font> : All right, two or three more of those, then we're good.
-- <font color="#D900D9">(GRUNTING)</font>
-- That's it, right there.
+<font color="#D900D9">(GRUNTING)</font>
+That's it, right there.
 Look. Look. Look.
 <font color="#D900D9">(COOING HAPPILY)</font>
 <font color="#D09090">GOODNIGHT</font> : Watch your head now, Teddy.
@@ -1579,8 +1579,8 @@ Water, Mr. Chisolm?
 <font color="#D09090">PREACHER</font> : This is a grand day in the history books of Rose Creek!
 God bless you, Mr. Chisolm, sir.
 Vindication, brothers and sisters!
-- Water, Mr. Horne?
-- Thank you, miss.
+Water, Mr. Horne?
+Thank you, miss.
 <font color="#D09090">PREACHER</font> : For God's glory!
 <font color="#D900D9">(HORSE WHINNIES)</font>
 <font color="#D900D9">(HORSE WHICKERS)</font>
@@ -1600,20 +1600,20 @@ Well, that kind of talk may work with these other sons of bitches, but I know wh
 And it's not for the benefit of mankind.
 You run out on these people, Goody, and you gonna be disappointing more than just them or me.
 Remember what you said to me when them Billy Yanks were kicking my sorry ass six ways to Sunday?
-- Mmm-hmm. I remember.
-- Yeah?
+Mmm-hmm. I remember.
+Yeah?
 You asked me why I wanted to save a piece of rebel trash like you, and I told you the war was over.
-- But it ain't over, Sam.
-- Yes, it is.
+But it ain't over, Sam.
+Yes, it is.
 No, it isn't. No, the killing's not over.
 It keeps going on and on and on.
-- I seen so much death.
-- The war is over for both of us.
+I seen so much death.
+The war is over for both of us.
 What we lost in the fire, we'll find in the ashes.
 I need you.
 I've become everything I despise. I...
-- I'm faint-hearted...
-- Mmm.
+I'm faint-hearted...
+Mmm.
 <font color="#D900D9">(WHISPERS)</font> And I'm a coward.
 Bye.
 You remember me as I was.
@@ -1649,8 +1649,8 @@ We got a lot to talk about.
 <font color="#D900D9">(DOOR OPENS)</font>
 <font color="#D09090">HORNE</font> : Don't walk away from me!
 <font color="#D09090">EMMA</font> : I'll take his place.
-- Who?
-- Goodnight.
+Who?
+Goodnight.
 Just saw him ride out.
 <font color="#D900D9">(WIND WHISTLING)</font>
 <font color="#D900D9">(BELL TOLLS)</font>
@@ -1659,23 +1659,23 @@ Just saw him ride out.
 Thank you for the strength that you have given me.
 <font color="#D900D9">(BELL TOLLS)</font>
 It's time.
-- <font color="#D09090">HANK</font> : Come on, children!
-- <font color="#D900D9">(INDISTINCT CHATTER)</font>
-- Come on.
-- <font color="#D09090">LENI</font> : Children, quickly, please, go on.
-- Let's go.
-- <font color="#D09090">LITTLE BOY</font> : Come on, hurry!
-- <font color="#D900D9">(GIRL COUGHING)</font>
-- Hurry, children!
-- <font color="#D900D9">(BABY CRYING)</font>
-- <font color="#D09090">LITTLE GIRL</font> : Come on, come on.
-- Now get on down in there. Come on.
-- <font color="#D900D9">(CHILDREN CHATTERING)</font>
+<font color="#D09090">HANK</font> : Come on, children!
+<font color="#D900D9">(INDISTINCT CHATTER)</font>
+Come on.
+<font color="#D09090">LENI</font> : Children, quickly, please, go on.
+Let's go.
+<font color="#D09090">LITTLE BOY</font> : Come on, hurry!
+<font color="#D900D9">(GIRL COUGHING)</font>
+Hurry, children!
+<font color="#D900D9">(BABY CRYING)</font>
+<font color="#D09090">LITTLE GIRL</font> : Come on, come on.
+Now get on down in there. Come on.
+<font color="#D900D9">(CHILDREN CHATTERING)</font>
 Watch your step.
 <font color="#D900D9">(FEARFUL CHATTER CONTINUES)</font>
 <font color="#D900D9">(BELL CLANGING)</font>
-- <font color="#D900D9">(WHICKERING)</font>
-- Easy, easy.
+<font color="#D900D9">(WHICKERING)</font>
+Easy, easy.
 Steady.
 <font color="#D900D9">(HORSES WHICKERING)</font>
 Hyah, hyah.
@@ -1684,29 +1684,29 @@ Chisolm?
 It's him, all right.
 <font color="#D900D9">(HORSE WHICKERING)</font>
 <font color="#D09090">TOWNSMAN</font> : It's only minutes.
-- <font color="#D900D9">(PLAYING HARMONICA)</font>
-- Shh!
-- We're safe. Nothing to fear.
-- <font color="#D900D9">(MUFFLED COUGH)</font>
+<font color="#D900D9">(PLAYING HARMONICA)</font>
+Shh!
+We're safe. Nothing to fear.
+<font color="#D900D9">(MUFFLED COUGH)</font>
 <font color="#D900D9">(WHISPERS)</font> Yeah.
 Mr. Denali.
 <font color="#D900D9">(SHRIEKS WAR CRY)</font>
-- <font color="#D900D9">(BLACKSTONE SOLDIERS SHOUTING)</font>
-- <font color="#D900D9">(HORSES WHINNYING)</font>
-- <font color="#D900D9">(SHOUTING)</font>
-- Keep it clear!
-- Come on!
-- Steady!
+<font color="#D900D9">(BLACKSTONE SOLDIERS SHOUTING)</font>
+<font color="#D900D9">(HORSES WHINNYING)</font>
+<font color="#D900D9">(SHOUTING)</font>
+Keep it clear!
+Come on!
+Steady!
 <font color="#D900D9">(BREATHING UNSTEADILY)</font>
-- <font color="#D900D9">(SOLDIERS SHOUTING)</font>
-- That's it, straight on!
-- Mask up.
-- All together. Come on.
+<font color="#D900D9">(SOLDIERS SHOUTING)</font>
+That's it, straight on!
+Mask up.
+All together. Come on.
 <font color="#D900D9">(SHOUTING INDISTINCTLY)</font>
 Bring 'em up!
 Steady on, boys! Steady on!
-- <font color="#D900D9">(BABY CRYING)</font>
-- <font color="#D900D9">(LITTLE BOY SOBS)</font>
+<font color="#D900D9">(BABY CRYING)</font>
+<font color="#D900D9">(LITTLE BOY SOBS)</font>
 <font color="#D09090">HANK</font> : Mind your sister.
 Come on, line up, boys.
 Steady on, steady on!
@@ -1724,8 +1724,8 @@ Just stay with me, boys!
 Five.
 Four.
 <font color="#D900D9">(SHOUTING)</font>
-- Three.
-- <font color="#D900D9">(PANTING)</font>
+Three.
+<font color="#D900D9">(PANTING)</font>
 Two.
 Let's go, come on!
 <font color="#D900D9">(WHINNYING)</font>
@@ -1734,37 +1734,37 @@ One!
 <font color="#D09090">BILLY</font> : One!
 <font color="#D900D9">(EXCITED LAUGHTER)</font>
 <font color="#D09090">BILLY</font> : Hold! Hold!
-- <font color="#D900D9">(HORSE WHICKERS)</font>
-- Shh, shh, shh.
+<font color="#D900D9">(HORSE WHICKERS)</font>
+Shh, shh, shh.
 Keep your line!
 <font color="#D09090">BLACKSTONE SOLDIER</font> : Head to the left!
 <font color="#D900D9">(WHINNIES)</font>
 <font color="#D900D9">(GRUNTS)</font>
-- Pull!
-- <font color="#D900D9">(GRUNTS)</font>
+Pull!
+<font color="#D900D9">(GRUNTS)</font>
 <font color="#D09090">BLACKSTONE SOLDIER</font> :
 Watch your back coming in!
 <font color="#D09090">MINER</font> : Get him!
-- <font color="#D09090">MINER 2</font> : I can't see 'em from here!
-- <font color="#D900D9">(NEIGHS)</font>
+<font color="#D09090">MINER 2</font> : I can't see 'em from here!
+<font color="#D900D9">(NEIGHS)</font>
 <font color="#D900D9">(SCREAMING)</font>
 Hey! Easy, easy, easy!
 <font color="#D09090">HORNE</font> : Let's do it!
-- Now!
-- Come on!
-- Let's go!
-- Shoot, shoot!
+Now!
+Come on!
+Let's go!
+Shoot, shoot!
 <font color="#D900D9">(GUNFIRE)</font>
 Dig in! Keep shooting!
 I got him!
 <font color="#D900D9">(GROANS)</font>
 Here they come! Stand your ground!
-- Through here, go!
-- Cut him off round that bend!
+Through here, go!
+Cut him off round that bend!
 <font color="#D09090">BLACKSTONE SOLDIER</font> : Get him! Go!
 Watch your right!
-- Shoot! Go around, fire!
-- Head him off, over there!
+Shoot! Go around, fire!
+Head him off, over there!
 <font color="#D900D9">(GRUNTS)</font>
 There's another one up top!
 <font color="#D900D9">(RED HARVEST SHRIEKS WAR CRY)</font>
@@ -1778,12 +1778,12 @@ I will fear no evil
 <font color="#D09090">BLACKSTONE SOLDIER</font> :
 That's it! Unload on him!
 I got him!
-- Here!
-- There!
+Here!
+There!
 <font color="#D900D9">(WHINNIES WILDLY)</font>
 Go 'round, go 'round!
-- Ain't no way through!
-- Come on!
+Ain't no way through!
+Come on!
 Push the wagon!
 Get to the church!
 <font color="#D09090">BLACKSTONE SOLDIER</font> : Let's go, come on!
@@ -1792,14 +1792,14 @@ Get to the church!
 Hyah! Hyah!
 <font color="#D09090">TOWNSMAN</font> : There's too many of 'em.
 They're gonna kill all of us!
-- <font color="#D09090">EMMA</font> : No! No! Stay down!
-- <font color="#D900D9">(GRUNTS)</font>
+<font color="#D09090">EMMA</font> : No! No! Stay down!
+<font color="#D900D9">(GRUNTS)</font>
 <font color="#D09090">EMMA</font> : Keep shooting!
 Whoa!
 Whoa!
 <font color="#D900D9">(GRUNTS)</font>
-- <font color="#D900D9">(GRUNTS)</font>
-- <font color="#D900D9">(WHINNIES)</font>
+<font color="#D900D9">(GRUNTS)</font>
+<font color="#D900D9">(WHINNIES)</font>
 What are you doing there?
 Get back to the livery stable!
 Just keep moving!
@@ -1812,14 +1812,14 @@ We're clear, we're clear!
 Keep shooting!
 <font color="#D900D9">(GRUNTS)</font>
 Light up that wagon!
-- They're on that roof!
-- Push them wagons!
-- <font color="#D900D9">(SCREAMS)</font>
-- <font color="#D900D9">(HORSE WHINNIES)</font>
+They're on that roof!
+Push them wagons!
+<font color="#D900D9">(SCREAMS)</font>
+<font color="#D900D9">(HORSE WHINNIES)</font>
 <font color="#D09090">TOWNSMAN</font> : Block 'em in!
 They got us trapped!
-- Ain't no way out!
-- <font color="#D900D9">(GRUNTS)</font>
+Ain't no way out!
+<font color="#D900D9">(GRUNTS)</font>
 Go, go, go!
 <font color="#D900D9">(GUNSHOT)</font>
 Open 'em up!
@@ -1829,14 +1829,14 @@ Go get the wagon.
 Into the church!
 Bring the fight to these cowards!
 Yeah, let's kill these bastards!
-- Wagons! Wagons! Let's go.
-- Hurry, gÃ¼ero!
+Wagons! Wagons! Let's go.
+Hurry, gÃ¼ero!
 Light 'em up and lock these sons of bitches in here!
 <font color="#D900D9">(SPEAKS IN SPANISH)</font>
 Lock 'em up! Let's...
 GÃ¼ero, man!
-- Light it up!
-- Yeah.
+Light it up!
+Yeah.
 That's far enough. Leave it, let's go!
 <font color="#D900D9">(SPEAKS IN SPANISH)</font>
 <font color="#D900D9">(MEN WHOOPING)</font>
@@ -1845,13 +1845,13 @@ So far, so good.
 <font color="#D900D9">(BABY CRYING)</font>
 <font color="#D09090">BLACKSTONE SOLDIER</font> :
 Can't get out! It's a dead end!
-- We're trapped!
-- Go the other way!
-- We still have men there, sir.
-- Mmm-hmm. Mmm-hmm.
+We're trapped!
+Go the other way!
+We still have men there, sir.
+Mmm-hmm. Mmm-hmm.
 I'm going!
-- Go.
-- Keep shooting!
+Go.
+Keep shooting!
 They're trapped!
 <font color="#D900D9">(SHRIEKS WAR CRY)</font>
 Keep shooting!
@@ -1874,18 +1874,18 @@ Gavin, damn it!
 <font color="#D900D9">(MEN GRUNTING)</font>
 <font color="#D900D9">(PANTING)</font>
 Take cover!
-- Go on, Miss Emma.
-- <font color="#D09090">GOODNIGHT</font> : Get down!
+Go on, Miss Emma.
+<font color="#D09090">GOODNIGHT</font> : Get down!
 <font color="#D900D9">(EMMA SCREAMING)</font>
 <font color="#D09090">GOODNIGHT</font> : They have a Gatling gun!
 A Gatling gun!
 Get inside! Inside, inside!
-- Billy!
-- Hey, Goody!
+Billy!
+Hey, Goody!
 <font color="#D900D9">(VASQUEZ SPEAKS IN SPANISH)</font>
 <font color="#D900D9">(SCREAMING)</font>
-- Go! Gun!
-- Gatling gun!
+Go! Gun!
+Gatling gun!
 Move, get out of the way, go on!
 Get down, get down!
 <font color="#D900D9">(CHILDREN SCREAMING)</font>
@@ -1893,21 +1893,21 @@ Go on, Miss Emma, go!
 <font color="#D900D9">(HORSE WHICKERS)</font>
 <font color="#D900D9">(SOBBING)</font> Daddy, Daddy, Daddy!
 They're reloading! Stay down! Stay down!
-- Get down!
-- <font color="#D900D9">(CHILDREN SCREAMING)</font>
+Get down!
+<font color="#D900D9">(CHILDREN SCREAMING)</font>
 The children.
-- Get down.
-- Get down!
-- Get down against the wall, come on!
-- Hey, Goody!
-- Yeah, I see 'em, I see 'em.
-- Let's go, Billy!
+Get down.
+Get down!
+Get down against the wall, come on!
+Hey, Goody!
+Yeah, I see 'em, I see 'em.
+Let's go, Billy!
 We gotta get these kids outta here.
 All right, everybody, come on.
-- Everyone, up the stairs.
-- Quick, quick.
-- Quick, quick, quick.
-- Be careful.
+Everyone, up the stairs.
+Quick, quick.
+Quick, quick, quick.
+Be careful.
 <font color="#D900D9">(GROANING)</font>
 <font color="#D09090">TEDDY Q</font> : Can't walk. They got my leg, sir.
 <font color="#D900D9">(GASPING)</font>
@@ -1920,45 +1920,45 @@ Shit!
 Ah!
 <font color="#D900D9">(GRUNTS FIERCELY)</font>
 We are giants put on this earth to rid it of evil and to keep all that is good!
-- Straight to the field. Come on.
-- Quickly. Quickly!
-- Go on, children, hurry.
-- Come on.
-- Quickly.
-- To the field.
+Straight to the field. Come on.
+Quickly. Quickly!
+Go on, children, hurry.
+Come on.
+Quickly.
+To the field.
 <font color="#D900D9">(GROWLS)</font>
 <font color="#D900D9">(HORNE SCREAMS)</font>
 <font color="#D900D9">(GASPING)</font>
 <font color="#D900D9">(SIGHS)</font>
 <font color="#D900D9">(SIGHS)</font>
-- Keep going, keep going!
-- Anthony!
-- Quickly now.
-- Anthony!
-- Pa! Quickly!
-- Go, go, go.
-- You can't...
-- Go, go, go!
-- Come on. Stay together.
-- Let's go! Go, go, go.
+Keep going, keep going!
+Anthony!
+Quickly now.
+Anthony!
+Pa! Quickly!
+Go, go, go.
+You can't...
+Go, go, go!
+Come on. Stay together.
+Let's go! Go, go, go.
 Keep going! To the ridge line!
 <font color="#D09090">HANK</font> : Come on. Just keep going.
 Get down. Get down!
 <font color="#D900D9">(BOTH GRUNTING)</font>
 Come on. Come on.
 <font color="#D900D9">(PISTOL CLICKS)</font>
-- <font color="#D900D9">(GUNSHOTS)</font>
-- Get down!
+<font color="#D900D9">(GUNSHOTS)</font>
+Get down!
 They're coming!
 We're running outta ammo, boys!
-- Shit, Billy.
-- I knew you'd come back.
+Shit, Billy.
+I knew you'd come back.
 <font color="#D900D9">(CHUCKLES)</font> You did, did you?
 How'd you know that?
-- You forgot this.
-- Whoo! <font color="#D900D9">(CACKLES)</font>
-- All right. Let's do it.
-- Yeah!
+You forgot this.
+Whoo! <font color="#D900D9">(CACKLES)</font>
+All right. Let's do it.
+Yeah!
 <font color="#D900D9">(LAUGHS)</font>
 <font color="#D900D9">(WHIMPERS)</font>
 <font color="#D900D9">(PISTOL CLICKS)</font>
@@ -1972,19 +1972,19 @@ How'd you know that?
 <font color="#D900D9">(GROANS SOFTLY)</font>
 You're a disgrace.
 <font color="#D900D9">(GROANS)</font>
-- <font color="#D900D9">(SOLDIER WHISTLING)</font>
-- Over there! Over there!
+<font color="#D900D9">(SOLDIER WHISTLING)</font>
+Over there! Over there!
 Ammo, ammo!
 <font color="#D09090">PREACHER</font> : This is all we've got.
 This reminds me of what my daddy used to say.
-- <font color="#D900D9">(LIGHT CHUCKLE)</font>
-- <font color="#D900D9">(RASPY BREATH)</font>
+<font color="#D900D9">(LIGHT CHUCKLE)</font>
+<font color="#D900D9">(RASPY BREATH)</font>
 What's that, Goody?
 <font color="#D09090">BILLY</font> : What?
 Well, my daddy used to say a lot of things, you know.
 <font color="#D900D9">(BOTH LAUGH HYSTERICALLY)</font>
-- <font color="#D09090">CHISOLM</font> : You all right?
-- Hell yeah.
+<font color="#D09090">CHISOLM</font> : You all right?
+Hell yeah.
 So far, so good.
 I might need a new vest. <font color="#D900D9">(CHUCKLES)</font>
 Damn, we gotta do something about that gun.
@@ -1999,10 +1999,10 @@ Cover.
 Come on! Come on!
 <font color="#D900D9">(GOODNIGHT BELLOWING)</font>
 <font color="#D09090">BILLY</font> : Over here!
-- This side, Goody.
-- Hyah!
-- <font color="#D09090">GOODNIGHT</font> : Ride, Faraday, ride!
-- Hyah!
+This side, Goody.
+Hyah!
+<font color="#D09090">GOODNIGHT</font> : Ride, Faraday, ride!
+Hyah!
 What do we have here?
 Get the two in the back.
 Hit the steeple.
@@ -2015,8 +2015,8 @@ Hah!
 <font color="#D900D9">(GRUNTS)</font>
 <font color="#D900D9">(GROANING)</font>
 <font color="#D09090">BLACKSTONE SOLDIER</font> : Come on, boy!
-- <font color="#D900D9">(GUNSHOT)</font>
-- <font color="#D900D9">(GRUNTS)</font>
+<font color="#D900D9">(GUNSHOT)</font>
+<font color="#D900D9">(GRUNTS)</font>
 <font color="#D900D9">(FARADAY GROANING)</font>
 <font color="#D09090">BLACKSTONE SOLDIER</font> :
 Why don't you stay down, boy?
@@ -2026,8 +2026,8 @@ Let's go, boys.
 <font color="#D09090">BLACKSTONE SOLDIER</font> : Yeah. Yeah.
 Dynamite.
 I've always been lucky with one-eyed jacks.
-- <font color="#D900D9">(YELLING)</font>
-- Dynamite!
+<font color="#D900D9">(YELLING)</font>
+Dynamite!
 <font color="#D900D9">(WIND WHISTLING SOFTLY)</font>
 <font color="#D09090">CHISOLM</font> : Bring them
 Bring them in
@@ -2044,15 +2044,15 @@ Did you hire renegade Greys to pillage and steal land in Kansas?
 Homesteaders.
 Good people trying to make a life for themselves, like these people here.
 If God didn't want 'em sheared, he wouldn't have made 'em sheep.
-- <font color="#D900D9">(BULLET RICOCHETS)</font>
-- Ahhh!
+<font color="#D900D9">(BULLET RICOCHETS)</font>
+Ahhh!
 <font color="#D900D9">(GROANING)</font>
 <font color="#D09090">CHISOLM</font> : No.
 Pick it up.
 <font color="#D900D9">(GRUNTS AND GROANS)</font>
 Go on, pick it up. Pick it up.
-- Pick it up!
-- <font color="#D900D9">(GRUNTS)</font>
+Pick it up!
+<font color="#D900D9">(GRUNTS)</font>
 <font color="#D900D9">(GROANS)</font>
 <font color="#D900D9">(GUNSHOT)</font>
 <font color="#D900D9">(GRUNTS)</font>
@@ -2077,27 +2077,27 @@ All right?
 Come on.
 <font color="#D900D9">(PANTING SOFTLY)</font>
 All right?
-- Ask for forgiveness.
-- Wait.
-- Yeah, you can.
-- I...
+Ask for forgiveness.
+Wait.
+Yeah, you can.
+I...
 You close your eyes, and you pray.
 <font color="#D900D9">(WHISPERS)</font> Pray for my mother that your men raped.
 Go on, pray. You pray.
-- Pray for my two sisters...
-- <font color="#D900D9">(SCREAMS ECHOING)</font>
+Pray for my two sisters...
+<font color="#D900D9">(SCREAMS ECHOING)</font>
 ...that your men murdered.
-- <font color="#D900D9">(PANTING SOFTLY)</font>
-- That they strung up.
+<font color="#D900D9">(PANTING SOFTLY)</font>
+That they strung up.
 Did they pray when they put the rope around my neck?
 Did they pray then?
-- <font color="#D900D9">(LAUGHS SOFTLY)</font>
-- Pray, pray.
+<font color="#D900D9">(LAUGHS SOFTLY)</font>
+Pray, pray.
 I remember. Chisolm...
-- <font color="#D900D9">(WHISPERS)</font> Yeah.
-- Yeah?
-- I remember.
-- You remember?
+<font color="#D900D9">(WHISPERS)</font> Yeah.
+Yeah?
+I remember.
+You remember?
 <font color="#D900D9">(CHOKING)</font>
 <font color="#D900D9">(WHISPERS)</font> I said pray.
 <font color="#D900D9">(CHOKING)</font> No.
@@ -2110,10 +2110,10 @@ Say it.
 <font color="#D900D9">(CONTINUES CHOKING)</font>
 "Hallowed be Thy name." Say it.
 "Thy kingdom come..." Go on.
-- <font color="#D900D9">(CONTINUES CHOKING)</font>
-- Come on.
-- Say it.
-- <font color="#D900D9">(GUNSHOT)</font>
+<font color="#D900D9">(CONTINUES CHOKING)</font>
+Come on.
+Say it.
+<font color="#D900D9">(GUNSHOT)</font>
 <font color="#D900D9">(GASPING BREATHS)</font>
 <font color="#D900D9">(WIND WHISTLING SOFTLY)</font>
 Amen.
@@ -2129,19 +2129,19 @@ Proper.
 <font color="#D900D9">(QUIETLY)</font> Let's go.
 <font color="#D09090">PREACHER</font> : God bless you, Mr. Chisolm.
 <font color="#D09090">VASQUEZ</font> : Take care of Jack, Teddy.
-- <font color="#D09090">CHISOLM</font> : Miss Emma.
-- Thank you.
-- Thank you so much, sir.
-- Thank you, Mr. Chisolm.
-- Thank you!
-- <font color="#D09090">HANK</font> : Thank you, Mr. Chisolm.
+<font color="#D09090">CHISOLM</font> : Miss Emma.
+Thank you.
+Thank you so much, sir.
+Thank you, Mr. Chisolm.
+Thank you!
+<font color="#D09090">HANK</font> : Thank you, Mr. Chisolm.
 Godspeed, men.
 <font color="#D900D9">(CRYING AND LAUGHING)</font>
 <font color="#D09090">BOY 1</font> : Mom, is it over?
 <font color="#D09090">BOY 2</font> : Mommy?
 <font color="#D900D9">(WOMAN SOBBING)</font>
-- Mom!
-- Sweetheart!
+Mom!
+Sweetheart!
 <font color="#D09090">MAN</font> : That's all right.
 As long as I can walk, I'll be fine.
 <font color="#D900D9">(RED HARVEST WHOOPING)</font>

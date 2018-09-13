@@ -60,17 +60,17 @@ Sam, did he have a wallet, identification, anything like that?
 That's the first thing I looked for.
 Whoever fixed him musta took 'em.
 Nothin', huh?
-- Any witnesses?
-- I mean, not even a cat.
-- How long's he been dead?
-- Oh, less than an hour.
-- Less than an hour.
-- Maybe half that.
+Any witnesses?
+I mean, not even a cat.
+How long's he been dead?
+Oh, less than an hour.
+Less than an hour.
+Maybe half that.
 Maybe half.
 Could have been a hitchhiker.
 Check both ends of town, check the depot, and check the pool hall. OK?
-- Pool hall closes at one o'clock, Chief.
-- I said check it, Sam.
+Pool hall closes at one o'clock, Chief.
+I said check it, Sam.
 Yes, sir.
 On your feet, boy.
 I mean now!
@@ -88,12 +88,12 @@ You hear?!
 C'mon, boy.
 Move it!
 Chief here?
-- Hey, what's up, Sam?
--  Chief?
+Hey, what's up, Sam?
+ Chief?
 What's goin' on?
 Sam?
-- Wood?
-- Yes, sir?
+Wood?
+Yes, sir?
 When's the last time I asked Courtney to get oil for this damn thing?
 Uh, last Wednesday.
 Would you be kind enough to go outside and remind him what day it is <i>today?</i>
@@ -106,15 +106,15 @@ Well, I don't think we're gonna have any trouble, are we, Virgil?
 No trouble at all.
 Oh, you can go now, Sam.
 Yes, sir.
-- What did you hit him with?
-- Hit whom?
+What did you hit him with?
+Hit whom?
 "Whom"?
 Whom?
 You a Northern boy? What's a Northern boy like you doin' all the way down here?
 I was waiting for the train.
 There ain't no trains this time of mornin'.
-- Tuesdays only. 4:05 to Memphis.
-- You say.
+Tuesdays only. 4:05 to Memphis.
+You say.
 Well...
 All right, you say right.
 All right...
@@ -135,16 +135,16 @@ Yeah.
 And meanwhile, you killed yourself a white man and picked yourself up $200!
 I earned that money, ten hours a day, seven days a week.
 Colored can't earn that. It's more than I make in a month! Where did you earn it?!
-- Philadelphia.
-- Mississippi?
-- Pennsylvania.
-- Just how do you earn that kinda money?
+Philadelphia.
+Mississippi?
+Pennsylvania.
+Just how do you earn that kinda money?
 I'm a police officer.
 Oh, yeah.
-- Wood!
-- Yes, sir!
-- Did you question this man?
-- No, sir.
+Wood!
+Yes, sir!
+Did you question this man?
+No, sir.
 Would you mind taking a look at that?
 Yeah! Oh, yeah!
 I'll check on this wise city boy.
@@ -164,15 +164,15 @@ Courtney... would you try and get me long-distance?
 Police business, honey.
 Chief's on the line.
 No. He catch you listenin' in, he'll run your butt around the block.
-- He don't panic me none.
-- No?
-- Where's the chief?
-- You got the pictures of the dead man?
+He don't panic me none.
+No?
+Where's the chief?
+You got the pictures of the dead man?
 Sure do. I got him top, bottom, sideways... you name it.
-- Good. I'll take 'em, son.
-- No, I wanna give 'em to the chief.
-- I said I'd take 'em, Charlie.
-- Do like he tells you, Charlie.
+Good. I'll take 'em, son.
+No, I wanna give 'em to the chief.
+I said I'd take 'em, Charlie.
+Do like he tells you, Charlie.
 Somebody owes me some money for those.
 I had to buy paper and film and developin'.
 That's all right. Just bill the department.
@@ -185,8 +185,8 @@ Sure.
 I don't know why not.
 <i>Hey, Sam.
 He's finished talkin'.</i>
-- Here's the photos of the dead man.
-- OK.
+Here's the photos of the dead man.
+OK.
 Got your chief on the phone.
 He wants to talk to you.
 Hello? Yes, sir. I'm sorry to have gotten you involved in this.
@@ -209,21 +209,21 @@ Yes, sir. Thank you.
 Yeah. Goodbye, now.
 Oh, it's all there. We paid for the phone call ourselves.
 Now, you are the number one homicide expert.
-- That's right.
-- I bet you look at a lot of dead bodies.
+That's right.
+I bet you look at a lot of dead bodies.
 Lots.
 Well?
-- Well, what?
-- Well...
+Well, what?
+Well...
 I just thought maybe, uh... Maybe you wouldn't mind takin' a look at this one?
 No, thanks.
-- Why not, expert?
-- Because I've got a train to catch.
+Why not, expert?
+Because I've got a train to catch.
 Wait a minute.
 That train don't leave till noon.
 They pay you $162.39 a week just to look at bodies. Why can't you look at this one?
-- Why can't you look at it for yourself?
-- Because I'm not an expert...
+Why can't you look at it for yourself?
+Because I'm not an expert...
 Officer!
 Ten cents, ten million dollars... just doesn't matter when a man's time comes.
 Mm-hm.
@@ -242,8 +242,8 @@ Do you wanna look at it?
 New manicure.
 That's good.
 That's very good.
-- I'll need a few things.
--  Such as?
+I'll need a few things.
+ Such as?
 Ammonium hydrosulfide, benzidine, superoxide of hydrogen.
 Copper powder, distilled water.
 A six-inch celluloid scale.
@@ -259,8 +259,8 @@ That's who he is.
 It's 4:45.
 What time was this man killed?
 Sam found him at 3 a.m. The doctor says it's he was killed an hour earlier.
-- At two?
-- Maybe a little later.
+At two?
+Maybe a little later.
 Would you feel the face and jaw, please?
 Am I mistaken, or has rigor begun?
 It has.
@@ -291,8 +291,8 @@ How is she taking it?
 Chief had to leave.
 She don't know it yet.
 Hey! You can't go in there, boy!
-- Mrs. Colbert?
-- Where's my husband?
+Mrs. Colbert?
+Where's my husband?
 What's happened to him? Why won't anybody tell me what's happened to him?
 Why won't anybody here tell me?
 I have a right to know if he's hurt, if he's been in an accident.
@@ -312,8 +312,8 @@ Would you... leave me alone for a few minutes, please?
 Virgil, we don't need you or your microscopes. Tell that to your chief.
 We don't need him... or you.
 Mrs. Colbert's in there.
-- I've already told her.
-- I see.
+I've already told her.
+I see.
 Here is the examination results from
 Ulam's. You wanna know what I found?
 No. I don't need to look at 'em now.
@@ -324,19 +324,19 @@ All right, now! Steady!
 You finished?
 Thank you.
 All right, Fryer, bring him with me.
-- Now we're grindin' corn!
-- You shoulda been there!
+Now we're grindin' corn!
+You shoulda been there!
 If it weren't for them radios, we woulda lost him goin' over that bridge.
 That old boy highballing that train like to cut us off.
 And old Charlie's hound dog got loose...
-- Did he confess?
-- Huh?
+Did he confess?
+Huh?
 The man you arrested, did he confess?
 Well, I believe he will.
 Yes siree, I believe he will.
 I believe he will.
-- He's left-handed, isn't he?
-- How do <i>I</i> know?
+He's left-handed, isn't he?
+How do <i>I</i> know?
 Well, he seemed left-handed to me.
 I believe Harvey <i>is</i> a southpaw.
 Now, ain't he, Shagbag?
@@ -350,30 +350,30 @@ I picked it up, I tell you. He was already lyin' there. It was lyin' there next 
 I just picked it up, ma'am.
 That's all I did.
 Shut up.
-- Get him outta here.
-- OK. C'mon, Harvey. Let's go.
+Get him outta here.
+OK. C'mon, Harvey. Let's go.
 Mrs. Colbert, I, uh... I wonder if you'd mind if I have somebody drive you over so you could, uh... complete the identification?
 Martin, I want you to take Mrs. Colbert over to the funeral parlor.
 And, Wood, run Virgil down the depot.
 Uh... Virge here, Chief, he thinks that Harvey's innocent.
-- Well, I'll be damned.
-- Could I talk to you about it, in private?
+Well, I'll be damned.
+Could I talk to you about it, in private?
 No. Because I got Colbert's wallet in my hand, and we took it from Harvey Oberst.
-- You think he gave it to him?
-- I don't know.
+You think he gave it to him?
+I don't know.
 But Oberst could have come along after the crime, found it, picked it up.
-- I don't know.
-- That's what the boy said he did.
+I don't know.
+That's what the boy said he did.
 Well, I'm sorry, ma'am, but I say different.
 When I examined the deceased, it was obvious the fatal blow was struck from an angle of 17 degrees from the right, which makes it almost certain the person who did it is right-handed.
-- So what?
--  Harve's left-handed, Chief.
+So what?
+ Harve's left-handed, Chief.
 Everybody in town knows that.
 We figured that out.
 Harvey's a lefty. Uh-huh.
 You're sure of yourself, Virgil. Funny name for a nigger boy from Philadelphia.
-- What do they call you up there?
-- They call me Mr. Tibbs!
+What do they call you up there?
+They call me Mr. Tibbs!
 Mr. Tibbs! Well, Mr. Wood, take
 Mr. Tibbs, take him down to the depot.
 And I mean, boy, like now!
@@ -396,12 +396,12 @@ Well, Virgil, nobody threw your brains to the hogs, that's for damn sure.
 Hold on there, Arnold. Open her up again.
 We got another customer.
 Hey, man, not in here.
-- Put him somewheres else!
-- Don't push the panic button.
+Put him somewheres else!
+Don't push the panic button.
 Play it cool, boy.
 Play it cool.
 Hey!
-- Hey!
+Hey!
 What you doin' wearin' white man's clothes?
 Where d'you come from?
 You deaf or somethin'?
@@ -412,8 +412,8 @@ Well, I don't need you!
 I'm all you've got.
 Police?
 You're a cop?
-- You're a cop.
-- Mm-hm.
+You're a cop.
+Mm-hm.
 Yeah?
 So, how come they locked you up?
 How come they lock up a cop?
@@ -435,16 +435,16 @@ I'm interested in eleven to two.
 Where were you?
 Shootin' pool. Larry's Lounge.
 I got there about ten.
-- What time'd you leave?
-- Closin'. Must have been one.
-- Anybody can swear for you?
-- Packy, Burt, Les.
+What time'd you leave?
+Closin'. Must have been one.
+Anybody can swear for you?
+Packy, Burt, Les.
 Ever been in trouble with the police before?
 Come on.
 I could ask at the desk, you know.
 Well, they brought me in one time.
-- On account of this Delores Purdy.
-- On what charge?
+On account of this Delores Purdy.
+On what charge?
 Well, uh, this Delores, she, uh... she's real proud of what nature done for her, you know?
 And, uh...
 Well, we was on a date up to Clarke's Point, and, uh... she says, uh...
@@ -463,8 +463,8 @@ With the lights on.
 Now, somebody sure oughta make her stop doin' that.
 Come here.
 Let me see your right hand.
-- What you doin'?
-- Hold still.
+What you doin'?
+Hold still.
 All right now, give him the waiver for false arrest.
 <i>Forget it.</i>
 I'm askin' you to sign it.
@@ -475,18 +475,18 @@ All right. Let him out.
 You'll be able to catch the 12:10 train.
 It wouldn't be a bad idea to change the charge against Oberst.
 He was nowhere near the scene of the crime, and I think he can prove it.
-- I bet you know when Colbert was killed.
-- About 12:30.
-- While Harvey was still shooting pool.
-- Wait a minute. I'll get it.
+I bet you know when Colbert was killed.
+About 12:30.
+While Harvey was still shooting pool.
+Wait a minute. I'll get it.
 There's cue chalk under his nails, not dried blood.
-- Thank God I don't live in Philadelphia.
-- One more thing.
+Thank God I don't live in Philadelphia.
+One more thing.
 Colbert wasn't killed where the body was found.
-- What do you mean?
-- He was killed then moved to Main Street.
-- Courtney?
-- Yes, sir?
+What do you mean?
+He was killed then moved to Main Street.
+Courtney?
+Yes, sir?
 Change the charge to theft.
 D'you mean Harve?
 Who the hell else do we have back there?!
@@ -509,8 +509,8 @@ Negro officer?
 Yeah, well, he, uh...
 He comes from up North, you see.
 And he was, uh, kinda...
-- passin' through...
-- If it wasn't for him, your impartial chief of police would still have the wrong man behind bars.
+passin' through...
+If it wasn't for him, your impartial chief of police would still have the wrong man behind bars.
 I want that officer given a free hand.
 Otherwise, I will pack up my husband's engineers... and leave you... to yourselves.
 Mrs. Colbert, now don't you worry about a thing.
@@ -548,22 +548,22 @@ This town needs a factory, Virgil.
 Colbert come down from Chicago to build it.
 I hear they're gonna hire a thousand men.
 Half of them'd be colored.
-- Know what that means?
-- Probably got him killed.
+Know what that means?
+Probably got him killed.
 That's what Mrs. Colbert thinks.
 She wants us to catch her a killer.
 No killer, no factory.
 Well, it's a lotta jobs for a lotta colored people. You follow me?
-- I'm going home, man.
-- They're your people.
+I'm going home, man.
+They're your people.
 Not mine... yours.
 You made this scene.
-- What do you want me to do? Beg you?
-- Look, I've had your town up to here!
+What do you want me to do? Beg you?
+Look, I've had your town up to here!
 Boy, it would give me a world of satisfaction to horsewhip you, Virgil!
 My father used to say that.
-- Even did, once or twice.
-- Yeah, well, not enough to suit me.
+Even did, once or twice.
+Yeah, well, not enough to suit me.
 Now you listen to me.
 Just once in my life
 I'm gonna hold my temper.
@@ -624,12 +624,12 @@ Maybe the elevator boy can tell us what time he went out.
 They put it on self-service after ten.
 Did your husband use a car here?
 Find anything?
-- Whoever killed Colbert drove this oar.
-- How do you know?
+Whoever killed Colbert drove this oar.
+How do you know?
 Where you goin'?
 I'd drive up there, but I'm sure you don't want me running up there by myself.
-- Up where?
-- Eric Endicott's.
+Up where?
+Eric Endicott's.
 Endicott's?!
 Come on, now!
 None of that for you, huh, Virgil?
@@ -644,32 +644,32 @@ None of that for you, huh, Virgil?
 <i>âª In the heat of the night</i>
 Listen. You know something I don't know?
 I found a piece of osmunda in Colbert's car.
-- A piece of what?
-- On the brake pedal. Osmunda. Fern root.
+A piece of what?
+On the brake pedal. Osmunda. Fern root.
 Fern root?
 Oh, is Mr. Endicott here?
 Yes, sir. He's out in the greenhouse.
 Would you follow me, please?
-- Gillespie.
-- Mr. Endicott.
+Gillespie.
+Mr. Endicott.
 This here's Virgil.
-- Mr. Tibbs.
-- How do you do, sir?
+Mr. Tibbs.
+How do you do, sir?
 Oh, may I have Henry fetch you somethin'? Some light refreshment?
-- No, thank you. We're all right...
-- I'll have something cold, soft. Anything.
+No, thank you. We're all right...
+I'll have something cold, soft. Anything.
 Henry, bring in a pitcher of lemonade.
 I'll have one, too.
 Yes, sir.
 I didn't know it was possible to grow this species locally.
-- Oh, you like flowers?
-- I do.
+Oh, you like flowers?
+I do.
 Mr. Tibbs, do you know anything about orchids?
-- Not very much, but I do like them.
-- Well, let me show you.
+Not very much, but I do like them.
+Well, let me show you.
 Endicott's folly.
-- What do you think?
-- It's beautiful. It's breathtaking.
+What do you think?
+It's beautiful. It's breathtaking.
 Have you a favorite,
 Mr. Tibbs?
 Well, I'm partial to any of the epiphytics.
@@ -685,8 +685,8 @@ Mr. Colbert didn't realize.
 Is this what the epiphytics root in?
 My point! They thrive on it.
 Take it away from them, they do poorly.
-- What do you call this material?
-- That's osmunda. Fern root.
+What do you call this material?
+That's osmunda. Fern root.
 Well, we don't wanna take any more of your time, Mr. Endicott.
 Why'd you two come here?
 To ask you about Mr. Colbert.
@@ -699,14 +699,14 @@ Was Mr. Colbert ever in this greenhouse?
 Say, last night, about midnight?
 Gillespie?
 Yeah?
-- You saw it.
-- Oh, I saw it.
+You saw it.
+Oh, I saw it.
 What are you gonna do about it?
 I don't know.
 I'll remember that.
 There was a time... when I could have had you shot.
-- You better clear out. And I mean fast!
-- What about that speech you gave me?
+You better clear out. And I mean fast!
+What about that speech you gave me?
 I didn't know you'd slap any white man!
 Least of all Endicott!
 All right. Give me another day.
@@ -720,8 +720,8 @@ It's all my fault.
 But there's no point in ducking it.
 It's gonna be tough to keep you in your job now.
 Now look Bill. I don't have to tell you how urgent it is to get Tibbs outta town.
-- No. I already told him to go.
-- All right.
+No. I already told him to go.
+All right.
 Now, Mrs. Colbert is not gonna be back till Thursday.
 You catch your guilty party by then, she won't hold it against us we had to send Tibbs home for his own good.
 But you gotta do it, you hear?
@@ -730,12 +730,12 @@ Bill?
 What's made you change your mind about Tibbs?
 Who says I have?
 Last chief we had, he'd have shot Tibbs one second after he slapped Endicott, claimed self-defense.
-- Gillespie here.
-- Courtney here, sir.
+Gillespie here.
+Courtney here, sir.
 <i>- Did you take Virgil down the depot?
-- No, sir. He just plain wouldn't go.</i>
-- <i>Shagbag saw him headin' to River Road.</i>
-- Check.
+No, sir. He just plain wouldn't go.</i>
+<i>Shagbag saw him headin' to River Road.</i>
+Check.
 Hey! C'mon!
 C'mon!
 Hey! C'mon!
@@ -753,8 +753,8 @@ All right, boys.
 You've had your fun.
 Now go on, you just run along home.
 Nigger-lover.
-- I didn't catch what you said.
-- Get rid of the nigger.
+I didn't catch what you said.
+Get rid of the nigger.
 You don't... we will.
 Now, is that a suggestion, or is that an order?
 That's a warnin'!
@@ -764,13 +764,13 @@ Shut up and take this trash outta here!
 Come on, move it and go!
 Well, you finally get the message, Virgil?!
 May I get in?
-- Thought you left town.
-- Not yet.
+Thought you left town.
+Not yet.
 Could you follow the same route you followed Tuesday night, same speed?
-- Why?
-- Why not?
-- Maybe I better check with the chief.
-- I wouldn't want him to slap you down for steppin' outta line, makin' decisions on your own, and all that.
+Why?
+Why not?
+Maybe I better check with the chief.
+I wouldn't want him to slap you down for steppin' outta line, makin' decisions on your own, and all that.
 He don't knock me outta my socks.
 Let's get rollin', Virgil.
 <i>âª All you little birds better lock up tight</i>
@@ -789,15 +789,15 @@ Let's get rollin', Virgil.
 <i>âª Don't wait to say goodbye</i>
 Take ten minutes to get myself a king-sized Coke and a wedge of pie.
 That is, if that peckerwood ain't sold out again.
-- Can I bring you anything?
-- No. I'm coming in.
+Can I bring you anything?
+No. I'm coming in.
 I thought I told you to get outta here.
-- I'm not ready to leave.
-- I was gonna tell you, Chief.
-- You forget about those four maniacs?
-- I need more time.
-- Do I have to put you on the train myself?!
-- I guess so!
+I'm not ready to leave.
+I was gonna tell you, Chief.
+You forget about those four maniacs?
+I need more time.
+Do I have to put you on the train myself?!
+I guess so!
 Whoa.
 All right, Virgil.
 Just what the hell do you want?
@@ -812,8 +812,8 @@ I mean Officer Wood.
 Just like you always order.
 You know I don't eat that stuff. The chief likes his boys streamlined. Right, Chief?
 Why don't you shut up, Sam?
-- All right, what'll you have, Virgil?
-- I ain't servin' him!
+All right, what'll you have, Virgil?
+I ain't servin' him!
 Tuesday night you walked out of here at 2:40. Right?
 Right on the button.
 Two minutes from now.
@@ -832,12 +832,12 @@ Courtney, your brother says I didn't tell him to fix that hinge, so I told <i>yo
 Do you read me,
 Courtney?
 <i>- Oh, I'll get right on it, Chief.</i>
-- I'd do that if I were you.
+I'd do that if I were you.
 <i>Yes, sir. Ten-four.</i>
 All right, you can move us.
 Officer Wood.
-- Why'd you do that, Sam?
-- Do what?
+Why'd you do that, Sam?
+Do what?
 Change your route back there at the corner.
 Who says I changed?
 Look, I oughta know what I did!
@@ -845,20 +845,20 @@ Chief, do I have to put up with this?
 Do I work for you, or do I work for him?
 Good night, gentlemen.
 I don't know.
-- I don't know.
-- Well, I appreciate anything you can do.
-- This is highly irregular.
-- Yeah, I know that.
+I don't know.
+Well, I appreciate anything you can do.
+This is highly irregular.
+Yeah, I know that.
 Showing our depositors' accounts?
 Hm. I don't know.
-- You sure this is an official request?
-- Yes. It's official, yes.
-- You willing to put that in writing?
-- Yeah. I'll put it in writing.
+You sure this is an official request?
+Yes. It's official, yes.
+You willing to put that in writing?
+Yeah. I'll put it in writing.
 On police department letterhead?
 I would write it on the head of a pin if you want it there.
-- I gotta have somethin' for the file.
-- I realize that, but I'm in a hurry.
+I gotta have somethin' for the file.
+I realize that, but I'm in a hurry.
 Well, we'll see.
 He's had an account with us for several years now.
 That so?
@@ -871,25 +871,25 @@ I am interested in yesterday.
 Yesterday? Well...
 Well.
 According to this, he made a deposit of... $632.
-- Yesterday?
-- Yes.
-- Thank you.
-- Must have been when I was out to lunch.
+Yesterday?
+Yes.
+Thank you.
+Must have been when I was out to lunch.
 A deposit that size,
 I'd remember.
 Oh, you'll send me that letter for the file, you hear?
 I'll tell you, baby brother, the chief didn't like him, not even from the first.
-- Morning.
-- Where do you think you're goin'?
+Morning.
+Where do you think you're goin'?
 It's all right. Let him go.
 I just talked to the FBI lab. We can prove Colbert was in that greenhouse.
 Endicott's covering up.
 I'm afraid you're too late.
 We already got the guilty man.
-- Who?
-- Sam.
-- Sam?
-- That's right.
+Who?
+Sam.
+Sam?
+That's right.
 Our man is Endicott.
 You just think a minute.
 Didn't you catch Sam in a lie last night?
@@ -903,18 +903,18 @@ I'd trade it in on $20 bills.
 And when I got up to $600, I took it down and put it in the bank.
 The day Colbert was killed, he cashed a check for $900, $600 of which is gone,
 $300 of which I believe you left in the wallet as bait for some kid like Oberst!
-- What kinda man do you think I am?!
-- Now, don't you push me, boy!
+What kinda man do you think I am?!
+Now, don't you push me, boy!
 Now listen.
 If you weren't suspicious of Sam here, why did you question him last night when he changed his route?
-- I knew why he changed his route.
-- Knew what?
+I knew why he changed his route.
+Knew what?
 He was afraid I'd see some naked white girl down the block.
-- What?
-- Some girl named Delores Purdy.
+What?
+Some girl named Delores Purdy.
 She parades around in the nude at night to get her kicks. That's...
-- How do you know?
-- I know.
+How do you know?
+I know.
 Well, I know. Do you understand?
 I know that Colbert cashed a check for $900.
 I know that Sam made a big cash deposit.
@@ -928,8 +928,8 @@ Don't you bet against it.
 You can catch your train now, Virgil.
 Tibbs?
 Do you think Sam did it?
-- Where do I find the chief?
-- What's it all about?
+Where do I find the chief?
+What's it all about?
 My business.
 Hey, look, Purdy.
 Now, you got a complaint?
@@ -949,8 +949,8 @@ Well, ask her yourself if you don't believe me!
 What are you doin' here?
 It's important that I hear this.
 I ain't talkin' about this with him in the room.
-- Boy, you don't want trouble, you get!
-- You be sensible. I'm a police officer.
+Boy, you don't want trouble, you get!
+You be sensible. I'm a police officer.
 You gonna get him outta here, or do I gotta do it?!
 You ain't gonna do nothin'.
 You just stand there and shut up.
@@ -960,8 +960,8 @@ You tell me... all about it.
 Just tell me how it happened.
 Oh, come on.
 Come on, girl, speak!
-- Well, you know how hot it's been.
-- Yeah.
+Well, you know how hot it's been.
+Yeah.
 Nights, they aren't any better.
 My brother works nights.
 He leaves me all alone.
@@ -974,8 +974,8 @@ Passin' like a lord in that fine, big, shiny car.
 Only, this time he stops.
 He's got a nice face, don't you think, Chief?
 So he stopped.
--  He says...
-- What? I didn't hear what you said.
+ He says...
+What? I didn't hear what you said.
 <i>He says...</i>
 "Hey, little girl, you know what the coolest spot in town is?"
 And I said "No, Sam.
@@ -985,15 +985,15 @@ And he said...
 "Know why?" âCause they got all of them big, cool tombstones."
 "Ever stretch out on a tombstone, Delores?"
 "Feel all that nice, cool marble along your body?"
-- He said that?
-- You hear, Chief? You hear?
+He said that?
+You hear, Chief? You hear?
 Yeah, I hear.
 I hear.
 All right. Sam comes along and stops in front of your house and talks. What else?
 Well, come on now, girl.
 What else? What else? What else?
-- Then I went for a ride with him.
-- Where'd you go?
+Then I went for a ride with him.
+Where'd you go?
 The cemetery.
 So, Wood took you to the cemetery in the patrol car, right?
 And then things went a bit too far.
@@ -1003,8 +1003,8 @@ Come on now.
 Is that what you're tryin' to say?
 Come on, girl!
 Is it or ain't it?
-- Yeah, they went too far!
-- Well, fine!
+Yeah, they went too far!
+Well, fine!
 Now, I got one more question.
 Very important.
 Did he force you, or did you let him?
@@ -1012,24 +1012,24 @@ Don't mean a damn whether she let him or not! She is still 16!
 In this state, that's rape!
 I know the plain law on that!
 I know the laws in the state of Mississippi, thank you!
-- Are you sure you're pregnant?
-- Yes, I am pregnant!
-- Courtney!
-- Yes, sir?
+Are you sure you're pregnant?
+Yes, I am pregnant!
+Courtney!
+Yes, sir?
 Better get in here with a pad and a pencil.
 Come on in. I want you to take this all down.
 You had no right to keep a nigger in the room, shame my little sister.
 You had no right.
 Virge, what's happenin'?
-- Hi, Harve.
-- How are you?
-- Fine.
-- Man, uh...
-- You sure saved my hide.
-- Listen, Harvey. Man, uh...
+Hi, Harve.
+How are you?
+Fine.
+Man, uh...
+You sure saved my hide.
+Listen, Harvey. Man, uh...
 If a guy knocks up a girl in this town, where can he go for help?
-- Barbershop.
-- Barbershop?
+Barbershop.
+Barbershop?
 Borrow Mr. Fanning's razor and cut your throat!
 Well...
 But suppose
@@ -1039,8 +1039,8 @@ Uh...
 Well, uh...
 There used to be a colored gal.
 But she kept bumpin' her price, and I don't know if she's still in business.
-- What's her name?
-- Well, I ain't never had to look her up.
+What's her name?
+Well, I ain't never had to look her up.
 But, uh... Packy might know.
 Where do I find Packy?
 Down at the pool hall.
@@ -1054,15 +1054,15 @@ Now you're talkin'!
 Uh... Virge?
 A little careless, ain't you, Virgil?
 Parked in the road, you could get yourself killed. Anybody'd know where you are.
-- You know what this land is?
-- Yeah. It's the site for the new factory.
+You know what this land is?
+Yeah. It's the site for the new factory.
 I found a piece of wood in Colbert's scalp. The lab identified it as pine.
 Three people saw Colbert drive by... alone... on the way back from Endicott's.
 Colbert must have picked up somebody in town and then come out here.
 I tell you he didn't pick up nobody.
 Sam followed him here, come up behind him, just like I come up behind you.
-- I heard you. Colbert would have too.
-- He turned and he got smashed!
+I heard you. Colbert would have too.
+He turned and he got smashed!
 He was hit from behind!
 If Delores Purdy hadn't come in,
 I never would have seen the truth.
@@ -1073,8 +1073,8 @@ I'm gonna take you to Brownsville and put you on the bus myself.
 You aren't taking me anywhere.
 You dig? You're holding the wrong man!
 The wrong man?! I got the motive, which is money, and the body, which is dead!
-- What makes you so sure?
-- Why do you doubt it?!
+What makes you so sure?
+Why do you doubt it?!
 Because Colbert was killed <i>here!</i>
 Then driven back to town in his own car and dumped on the streets.
 Sam couldn't have driven two cars!
@@ -1110,21 +1110,21 @@ Oh, now, don't get smart, black boy.
 I don't need it.
 No pity, thank you.
 No, thank you!
-- Yeah?
-- Chief?
-- Yeah.
-- You know where I can find Virgil?
+Yeah?
+Chief?
+Yeah.
+You know where I can find Virgil?
 Who are you?
 Packy, Chief. Packy Harrison.
 I'm a friend of Harve.
-- You got something for me?
-- Yeah.
-- Where you goin'?
-- Where whitey ain't allowed.
-- What the hell does that mean?
-- You gave me till morning. Remember?
-- Here's the car.
-- He could have exchanged cars by now.
+You got something for me?
+Yeah.
+Where you goin'?
+Where whitey ain't allowed.
+What the hell does that mean?
+You gave me till morning. Remember?
+Here's the car.
+He could have exchanged cars by now.
 John, you stick here.
 We'll keep cruisin'.
 You find him, come back for me, you hear?
@@ -1159,8 +1159,8 @@ He's paying for his fun.
 How much? I bet you he's not paying you more than a hundred.
 You know how much he's got in his pocket right now? More than $600!
 That cracker?
-- Where'd he come off getting 600?
-- He killed Mr. Colbert.
+Where'd he come off getting 600?
+He killed Mr. Colbert.
 You gone crazy out of your mind.
 Now listen.
 Hear me good, Mama, please.
@@ -1174,10 +1174,10 @@ I won't take it away.
 Well... I don't know his name.
 But she's coming here tonight.
 Get herself straight.
-- Leave me alone! Let me go!
--  Let go of her!
-- Let go of her!
-- Let go of me!
+Leave me alone! Let me go!
+ Let go of her!
+Let go of her!
+Let go of me!
 Gonna teach you, boy!
 No club this time, man?
 A gun's not smart. The way you killed Colbert was much smarter.
@@ -1186,22 +1186,22 @@ He's crazy. Crazy.
 OK, nigger.
 Your time, nigger.
 Look in her purse.
-- What's that mean?
-- She's got $100 to pay for an abortion.
+What's that mean?
+She's got $100 to pay for an abortion.
 Listen to that.
 That's crazy.
 Money she got from Ralph.
 You gonna listen to him?
 He got her to tell you that Sam Wood did it.
 He made a fool out of you, Purdy.
-- Delores?
-- Liar!
+Delores?
+Liar!
 You stinkin' liar!
 Gimme that purse!
 You turned my little sister... into a field slut?
 <i>Lloyd! Lloyd!</i>
-- Hey, man, stay back!
-- He's got a gun!
+Hey, man, stay back!
+He's got a gun!
 He's dead.
 When I left her house,
 I was going to the diner.
@@ -1225,8 +1225,8 @@ All right. C'mon, Ralph.
 Well, got your ticket?
 Here you are.
 Thank you.
-- Bye-bye.
-- Goodbye.
+Bye-bye.
+Goodbye.
 Virgil?
 You take care. You hear?
 Yeah.

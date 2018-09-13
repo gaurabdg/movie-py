@@ -48,16 +48,16 @@ Abuelita <i>runs our house just like</i> MamÃ¡ <i>Imelda did.</i>
 No music!
 No music!
 <i>- Y aunque la vida</i>
-- No music!
+No music!
 <i>I think we're the only family in MÃ©xico who hates music.</i>
 <i>And my family's fine with that. But me...</i>
-- Be back by lunch, <i>mijo.</i>
-- Love you, <i>MamÃ¡.</i>
+Be back by lunch, <i>mijo.</i>
+Love you, <i>MamÃ¡.</i>
 <i>I am not like the rest of my family!</i>
 <i>- Hola,</i> Miguel!
 <i>- Hola!</i>
 <i>- Muchas gracias.
-- De nada,</i> Miguel.
+De nada,</i> Miguel.
 Hey! Dante!
 Sit. Down. Roll over. Shake.
 Fist bump!
@@ -75,10 +75,10 @@ Ernesto de la Cruz took his first steps... toward becoming the most beloved sing
 <i>And he wrote the best songs.</i>
 <i>But my all-time favorite, it's...</i>
 <i>- Remember me
-- Remember me</i>
+Remember me</i>
 <i>Though I have to say goodbye</i>
 <i>- Remember me
-- Remember me</i>
+Remember me</i>
 <i>Don't let it make you cry
 For even if I'm far away</i>
 <i>I hold you in my heart
@@ -87,7 +87,7 @@ I sing a secret song to you</i>
 Remember me</i>
 <i>Though I have to travel far</i>
 <i>- Remember me
-- Remember me</i>
+Remember me</i>
 <i>Each time you hear a sad guitar</i>
 <i>Know that I'm with you the only way that I can be</i>
 <i>Until you're in my arms again</i>
@@ -100,14 +100,14 @@ I get this feeling like we're connected.</i>
 <i>Like if he could play music, maybe someday, I could too.</i>
 If it wasn't for my family.
 <i>- Ay-ay-ay, muchacho.</i>
-- Huh?
+Huh?
 I asked for a shoe shine not your life story.
 Oh, yeah. Sorry.
 I just can't really talk about any of this at home. So...
 If I were you, I'd march right up to my family and say...
 "Hey, I'm a musician. Deal with it."
-- I could never say that.
-- You are a musician, no?
+I could never say that.
+You are a musician, no?
 I don't know.
 I mean, I only really play for myself.
 Did de la Cruz become the world's best musician by hiding his skills?
@@ -124,7 +124,7 @@ Show me what you got, <i>muchacho.</i>
 I'll be your first audience.
 Miguel!
 <i>- Abuelita!</i>
-- What are you doing here?
+What are you doing here?
 You leave my grandson alone.
 <i>DoÃ±a,</i> please! I was just getting a shine.
 I know your tricks, mariachi.
@@ -140,23 +140,23 @@ You will come home. Now.
 How many times have we told you?
 That plaza is crawling with mariachis.
 Yes, <i>TÃ­o</i> Berto.
-- No, no, no, no, no!
-- Go away, you. Go!
+No, no, no, no, no!
+Go away, you. Go!
 It's just Dante.
 Never name a street dog. They'll follow you forever. Now, go get my shoe.
 I found your son in Mariachi Plaza.
 <i>Ay,</i> Miguel!
 You know how <i>Abuelita</i> feels about the plaza.
-- I was just shining shoes.
-- A musician's shoes!
+I was just shining shoes.
+A musician's shoes!
 But the plaza's where all the foot traffic is.
 If <i>Abuelita</i> says no more plaza, then no more plaza.
-- But what about tonight?
-- What's tonight?
+But what about tonight?
+What's tonight?
 Well, they're having this talent show.
 And I thought I might...
-- Sign up?
-- Well, maybe?
+Sign up?
+Well, maybe?
 You have to have talent to be in a talent show.
 What are you gonna do? Shine shoes?
 It's <i>DÃ­a de los Muertos.</i>
@@ -173,8 +173,8 @@ All this work to bring the family together.
 I don't want you sneaking off to who knows where. Where are you going?
 I thought we were done.
 <i>Ay, Dios mio.</i> Being part of this family means being here for this family.
-- I don't want to see you end up like--
-- Like <i>MamÃ¡</i> Coco's <i>papÃ¡?</i>
+I don't want to see you end up like--
+Like <i>MamÃ¡</i> Coco's <i>papÃ¡?</i>
 Never mention that man!
 He's better off forgotten.
 But you're the one who--
@@ -221,7 +221,7 @@ SeÃ±or <i>de la Cruz, what did it take for you to seize your moment?</i>
 No one was going to hand it to me.</i>
 <i>It was up to me to reach for that dream.</i>
 <i>- Grab it tight and make it come true.
-- ...and make it come true.</i>
+...and make it come true.</i>
 No more hiding, Dante.
 I got to seize my moment!
 I'm gonna play in Mariachi Plaza if it kills me.
@@ -232,10 +232,10 @@ We don't want their spirits to get lost.
 We want them to come and enjoy all the food and drinks on the <i>ofrenda.</i>
 <i>MamÃ¡!</i> Where should we put this table?
 In the courtyard, <i>mijos.</i>
-- You want it down by the kitchen?
+You want it down by the kitchen?
 <i>- SÃ­.</i> Next to the other one.
-- Get under! Get under!
-- Miguel?
+Get under! Get under!
+Miguel?
 Nothing! <i>MamÃ¡, PapÃ¡.</i> I--
 Miguel, your <i>abuelita</i> had the most wonderful idea.
 We've all decided.
@@ -267,13 +267,13 @@ I know who my great-great-grandfather was.
 Miguel, get down from there.
 <i>MamÃ¡</i> Coco's father was
 Ernesto de la Cruz!
-- What are you talking about?
-- I'm gonna be a musician!
+What are you talking about?
+I'm gonna be a musician!
 What is all this?
 You keep secrets from your own family?
 It's all that time he spends in the plaza.
-- Fills his head with crazy fantasies.
-- It's not a fantasy.
+Fills his head with crazy fantasies.
+It's not a fantasy.
 That man was Ernesto de la Cruz!
 The greatest musician of all time!
 We've never known anything about this man!
@@ -284,17 +284,17 @@ Well, de la Cruz is my family.
 I'm supposed to play music.
 Never! That man's music was a curse.
 I will not allow it.
-- If you would just let--
-- Miguel...
+If you would just let--
+Miguel...
 You will listen to your family.
 No more music.
-- Just listen to me play!
-- End of argument.
+Just listen to me play!
+End of argument.
 You want to end up like that man?
 Forgotten?
 Left off your family's <i>ofrenda?</i>
 I don't care if I'm on some stupid <i>ofrenda.</i>
-- No!
+No!
 <i>- MamÃ¡!</i>
 There. No guitar. No music.
 Oh, come. You'll feel better after you eat with your family.
@@ -306,12 +306,12 @@ No. But if I can borrow a guitar...
 Musicians got to bring their own instruments.
 You find a guitar, kid,
 I'll put you on the list.
-- Can I borrow your guitar?
-- Sorry, <i>muchacho.</i>
-- You guys have a spare guitar?
-- No.
-- I need a guitar just for a little bit.
-- Get out of here, kid.
+Can I borrow your guitar?
+Sorry, <i>muchacho.</i>
+You guys have a spare guitar?
+No.
+I need a guitar just for a little bit.
+Get out of here, kid.
 Great-great-grandfather, what am I supposed to do?
 No, no, no, no. Dante, stop! <i>CÃ¡llate!</i> Sh!
 I'm sorry.
@@ -330,7 +330,7 @@ All right, who's in there?
 I'm sorry. It's not what it looks like.
 De la Cruz is my--
 There's nobody here.
-- Miguel!
+Miguel!
 <i>- MamÃ¡!</i>
 Miguel, come home.
 Where are you, Miguel?
@@ -344,8 +344,8 @@ You can see me? Wait!
 What's going on? Dante!
 Oh, I'm sorry. I'm sorry.
 Miguel?
-- Miguel?
-- Miguel?
+Miguel?
+Miguel?
 You're here? Here, here.
 And you can see us?
 Our Migueli-ti-ti-ti-to!
@@ -362,8 +362,8 @@ We need <i>MamÃ¡</i> Imelda.
 She'll know how to fix this.
 <i>Oye!</i> It's <i>MamÃ¡</i> Imelda.
 She couldn't cross over.
-- She's stuck!
-- On the other side!
+She's stuck!
+On the other side!
 <i>TÃ­o</i> Oscar? <i>TÃ­o</i> Felipe?
 Oh. Hey, Miguel.
 I have a feeling this has something to do with you.
@@ -375,11 +375,11 @@ You got to stay with me, boy.
 We don't know... where...
 This isn't a dream then.
 You're all really out there.
-- You thought we weren't?
-- Well, I don't know.
+You thought we weren't?
+Well, I don't know.
 I thought it might've been one of those made up things that adults tell kids.
-- Like vitamins.
-- Miguel, vitamins are a real thing.
+Like vitamins.
+Miguel, vitamins are a real thing.
 Well, now I'm thinking maybe they could be.
 <i>Mija,</i> it's not nice to stare at--
 <i>Ay!</i> Santa Maria!
@@ -402,7 +402,7 @@ Oh! Your photos are on your son's
 <i>And remember to return before sunrise. Enjoy your visit.</i>
 Next. Your photo's on your dentist's <i>ofrenda.</i> Enjoy your visit.
 <i>- Gracias.</i>
-- Next?
+Next?
 Yes! It is I. Frida Kahlo.
 Shall we skip the scanner?
 I'm on so many <i>ofrendas</i> it'll just overwhelm your blinky thingy.
@@ -418,8 +418,8 @@ Upsy-daisy...
 Fine. Okay. Fine, who cares?
 Dumb flower bridge!
 Aw. I don't know what I'd do if no one put up my photo.
-- Next?
-- Oh! Come, <i>mijo.</i> It's our turn.
+Next?
+Oh! Come, <i>mijo.</i> It's our turn.
 Welcome back, <i>amigos.</i>
 Anything to declare?
 As a matter of fact, yes.
@@ -434,21 +434,21 @@ I'm sorry, <i>seÃ±ora,</i> it says here no one put up your photo.
 My family always puts my photo on the <i>ofrenda.</i>
 That devil box tells you nothing but lies!
 <i>- MamÃ¡</i> Imelda?
-- Oh, <i>mi familia!</i>
+Oh, <i>mi familia!</i>
 They wouldn't let me cross the bridge.
 Tell this woman and her devil box that my photo is on the <i>ofrenda.</i>
 Well, we never made it to the <i>ofrenda.</i>
-- What?
-- We ran into...
-- Miguel?
+What?
+We ran into...
+Miguel?
 <i>- MamÃ¡</i> Imelda.
 What is going on?
 You the Rivera family?
-- Well, you're cursed.
-- What?
+Well, you're cursed.
+What?
 <i>DÃ­a de los Muertos</i> is the night to give to the dead. You stole from the dead!
-- But I wasn't stealing the guitar.
-- Guitar?
+But I wasn't stealing the guitar.
+Guitar?
 It was my great-great-grandfather's.
 He would have wanted me to have it.
 We do not speak of that musician.
@@ -466,8 +466,8 @@ But none of this explains why
 I couldn't cross over.
 Oh!
 You took my photo off the <i>ofrenda?</i>
-- It was an accident!
-- How do we send him back?
+It was an accident!
+How do we send him back?
 Well, since it's a family matter... the way to undo a family curse is to get your family's blessing.
 That's it?
 Get your family's blessing and everything should go back to normal.
@@ -487,8 +487,8 @@ I give you my blessing.
 I give you my blessing to go home... to put my photo back on the <i>ofrenda,</i> and to never play music again.
 What? She can't do that!
 Well, technically, she can add any condition she wants.
-- Fine.
-- Then you hand the petal to Miguel.
+Fine.
+Then you hand the petal to Miguel.
 No skeletons!
 Mariachi Plaza, here I come.
 Two seconds and you already break your promise.
@@ -502,8 +502,8 @@ You go home my way or no way.
 You really hate music that much?
 I will not let you go down the same path he did.
 The same path he did. He's family.
-- Listen to your <i>MamÃ¡</i> Imelda.
-- She's just looking out for you.
+Listen to your <i>MamÃ¡</i> Imelda.
+She's just looking out for you.
 Be reasonable.
 <i>Con permiso,</i> I need to visit the restroom. Be right back.
 Should we tell him there are no restrooms in the Land of the Dead?
@@ -518,8 +518,8 @@ Excuse me.
 No, no. Dante!
 Disturbing the peace.
 Fleeing an officer. Falsifying a unibrow.
-- That's illegal?
-- Very illegal.
+That's illegal?
+Very illegal.
 You need to clean up your act, <i>amigo.</i>
 <i>Amigo?</i> Oh, that's so nice to hear you say that because I have just had a... really hard <i>DÃ­a de Muertos</i> and
 I could really use an <i>amigo</i> right now.
@@ -534,8 +534,8 @@ You just got to let me cross that bridge!
 I should lock you up for the rest of the holiday.
 But my shift's almost up and I want to visit my living family.
 So I'm letting you off with a warning.
-- Can I at least get my costume back?
-- No.
+Can I at least get my costume back?
+No.
 Some <i>amigo.</i>
 Hey! Hey! You really know de la Cruz?
 Who wants to--<i>Ay!</i> You're alive!
@@ -553,8 +553,8 @@ No, no, <i>niÃ±o! NiÃ±o, niÃ±o,</i> I can help you.
 You can help me.
 We can help each other.
 But most importantly, you can help me.
-- Miguel!
-- I'm HÃ©ctor.
+Miguel!
+I'm HÃ©ctor.
 That's nice.
 <i>EspÃ©rame, chamaco!</i>
 <i>Ay,</i> he is going to get himself killed.
@@ -590,8 +590,8 @@ It's not gonna be easy, you know?
 He's a busy man. What are you doing?
 I'm walking like a skeleton. Blending in.
 No. Skeletons don't walk like that.
-- It's how you walk.
-- No, I don't! Stop it!
+It's how you walk.
+No, I don't! Stop it!
 Whoa! Ernesto de la Cruz's
 Sunrise Spectacular? <i>QuÃ© padre!</i>
 Every year your great-great-grandpa puts on that dumb show... to mark the end of <i>DÃ­a de Muertos.</i>
@@ -607,15 +607,15 @@ Don't let it make you cry</i>
 You better have my dress, HÃ©ctor.
 <i>Hola,</i> Ceci.
 <i>- Hola.</i>
-- Ceci, I lost the dress.
+Ceci, I lost the dress.
 <i>Ya Io sabÃ­a!</i>
 I got to dress forty dancers by sunrise.
 Thanks to you, I'm one Frida short of an opening number!
 Dante! We shouldn't be in here.
 No, no, Dante! <i>Ven acÃ¡!</i>
 You! How did you get in here?
-- I just followed my--
-- Oh! The mighty Xolo dog!
+I just followed my--
+Oh! The mighty Xolo dog!
 Guider of wandering spirits. And whose spirit have you guided to me?
 I don't think he's a spirit guide.
 The alebrijes of this world can take many forms.
@@ -656,7 +656,7 @@ You know anything about this party?
 It's the hot ticket!
 But if you're not on the guest list, you're never getting in, <i>Chorizo.</i>
 Hey! It's <i>Chorizo! Choricito!</i>
-- A-ha. Very funny, guys. Very funny.
+A-ha. Very funny, guys. Very funny.
 <i>- Chorizo?</i>
 Oh, this guy's famous!
 Go on, go on. Ask him how he died.
@@ -665,8 +665,8 @@ He choked on some <i>chorizo!</i>
 I didn't choke, okay? I got food poisoning which is a big difference.
 This is why I don't like musicians.
 Bunch of self-important jerks.
-- Hey! I'm a musician!
-- You are?
+Hey! I'm a musician!
+You are?
 If you really want to get to Ernesto, there is that music competition... at the Plaza de la Cruz.
 Winner gets to play at his party.
 No, no<i>. Chamaco,</i> you're <i>loco</i> if you think--
@@ -675,12 +675,12 @@ You know where I can get a guitar?
 I know a guy.
 Have you found him, Pepita?
 Have you found our boy?
-- A footprint!
-- It's a Rivera boot.
-- Size seven!
-- And a half.
-- Pronated.
-- Miguel.
+A footprint!
+It's a Rivera boot.
+Size seven!
+And a half.
+Pronated.
+Miguel.
 Why the heck would you want to be a musician?
 My great-great-grandpa was a musician!
 Who spent his life performing like a monkey for complete strangers.
@@ -689,15 +689,15 @@ What do you know?
 So, how far is this guitar anyway?
 We're almost there.
 Keep up, <i>chamaco.</i> Come on.
-- Cousin HÃ©ctor!
-- Hey! These guys! Hey, <i>TÃ­o!</i>
+Cousin HÃ©ctor!
+Hey! These guys! Hey, <i>TÃ­o!</i>
 <i>- Â¿ QuÃ© onda?</i>
-- These people are all your family?
+These people are all your family?
 In a way. We're all the ones with no photos or <i>ofrendas.</i>
 No family to go home to.
 Nearly forgotten, you know?
 So, we all call each other cousin, or <i>tÃ­o,</i> or whatever.
-- HÃ©ctor!
+HÃ©ctor!
 <i>- TÃ­a</i> Chelo!
 <i>Muchas gracias!</i>
 Hey! Save some for me!
@@ -708,22 +708,22 @@ Who doesn't like a visit from Cousin HÃ©ctor?
 I don't want to see your stupid face, HÃ©ctor.
 Come on. It's <i>DÃ­a de Muertos.</i>
 I brought you a little offering.
-- Get out of here.
-- I would, Cheech.
+Get out of here.
+I would, Cheech.
 But the thing is, me and my friend, Miguel...
 We really need to borrow your guitar.
-- My guitar?
-- Yes.
-- My prized beloved guitar?
-- I promise we'll bring it right back.
+My guitar?
+Yes.
+My prized beloved guitar?
+I promise we'll bring it right back.
 Like the time you promised to bring back my van? Or my mini-fridge?
-- Ah, you see--
-- Or my good napkins?
+Ah, you see--
+Or my good napkins?
 My lasso? My femur?
-- Well, no, not like those times.
-- Where is my femur? You--
-- You okay, <i>amigo?</i>
-- I'm fading, HÃ©ctor.
+Well, no, not like those times.
+Where is my femur? You--
+You okay, <i>amigo?</i>
+I'm fading, HÃ©ctor.
 I can feel it. I couldn't even play that thing if I wanted to.
 You play me something.
 No. You know I don't play anymore,
@@ -738,8 +738,8 @@ You know my favorite, HÃ©ctor.
 And her chin goes in</i>
 <i>And her...</i>
 <i>Knuckles they drag on the floor</i>
-- Those aren't the words.
-- There are children present.
+Those aren't the words.
+There are children present.
 <i>Her hair is like a briar</i>
 <i>She stands in a bow-legged stance</i>
 <i>And if I weren't so ugly</i>
@@ -783,15 +783,15 @@ Let the competition begin!
 So, what's the plan?
 What are you gonna play?
 Definitely <i>Remember Me.</i>
-- No! Not that one. No.
-- Come on. It's his most popular song!
+No! Not that one. No.
+Come on. It's his most popular song!
 It's too popular.
 <i>Remember me
 Though I have to travel far</i>
 <i>- Remember me...
-- Don't let it make you cry...</i>
-- What about <i>Poco Loco?
-- Epa!</i> Now that's a song!
+Don't let it make you cry...</i>
+What about <i>Poco Loco?
+Epa!</i> Now that's a song!
 De la Cruzcito? You're on standby.
 Los Chachalacos, you're up next.
 Los Chachalacos!
@@ -801,11 +801,11 @@ I've never performed before.
 What? You said you were a musician!
 I am! I mean, I will be.
 <i>- Ay!</i>
-- Once I win.
+Once I win.
 That's your plan? No. You have to win.
 Your life literally depends on... you winning. And you've never done this before! I'll go up there.
-- No! I need to do this.
-- Why?
+No! I need to do this.
+Why?
 If I can't go out and play one song, how can I call myself a musician?
 What does that matter?
 Because I don't just want to get de la Cruz's blessing...
@@ -816,8 +816,8 @@ Then you got to perform!
 First, you have to loosen up.
 Shake off those nerves.
 Now give me your best <i>grito.</i>
-- My best <i>grito?</i>
-- Come on, yell! Belt it out.
+My best <i>grito?</i>
+Come on, yell! Belt it out.
 Ah, it feels good. Okay, now you.
 Oh, come on, kid.
 De la Cruzcito, you're on now!
@@ -845,8 +845,8 @@ I'm nodding and I'm yes-ing</i>
 <i>I'll count it as a blessing</i>
 <i>That I'm only un poco loco</i>
 No! No! No!
-- Not bad for a dead guy!
-- Not so bad yourself, <i>gordito! Eso!</i>
+Not bad for a dead guy!
+Not so bad yourself, <i>gordito! Eso!</i>
 He's close! Find him!
 <i>The loco that you make me
 It is just un poco crazy</i>
@@ -854,15 +854,15 @@ It is just un poco crazy</i>
 <i>The liberties you're taking</i>
 <i>Leaves my cabeza shaking
 You're just un poco loco</i>
-- We're looking for a living kid.
-- About twelve?
+We're looking for a living kid.
+About twelve?
 Have you seen a living boy?
 <i>Un poqui-ti-ti-ti-ti-ti-ti-ti-ti-ti-to loco</i>
 Hey! You did good!
 I'm proud of you<i>. Eso!</i>
 <i>Otra! Otra! Otra!</i>
-- Hey! Where are you going?
-- We got to get out of here!
+Hey! Where are you going?
+We got to get out of here!
 What? Are you crazy?
 We're about to win this thing.
 <i>Damas y caballeros,</i>
@@ -876,15 +876,15 @@ I do have other family, but--
 You could have taken my photo back this whole time?
 But they hate music!
 I need a musician's blessing.
-- You lied to me!
-- You're one to talk.
+You lied to me!
+You're one to talk.
 Look at me. I'm being forgotten, Miguel.
 I don't even know if I'm gonna last the night.
 I'm not gonna miss my one chance to cross that bridge because... you want to live out some stupid musical fantasy.
-- It's not stupid!
-- I'm taking you to your family.
-- Let go of me!
-- You'll thank me later.
+It's not stupid!
+I'm taking you to your family.
+Let go of me!
+You'll thank me later.
 You don't want to help me.
 You only care about yourself!
 Keep your dumb photo.
@@ -896,20 +896,20 @@ Dante, <i>cÃ¡llate!</i> No! Dante, stop it.
 He can't help me. Dante! Stop!
 Stop it! Leave me alone!
 You're not a spirit guide. You're just a dumb dog! Now get out of here!
-- It's him!
-- It's that living boy!
-- I heard about him. Look!
-- He's alive!
-- He's alive.
-- The boy is alive!
+It's him!
+It's that living boy!
+I heard about him. Look!
+He's alive!
+He's alive.
+The boy is alive!
 This nonsense ends now, Miguel!
 I am giving you my blessing and you are going home.
 I don't want your blessing!
 Miguel, stop!
 Come back! Miguel!
 I am trying to save your life!
-- You're ruining my life!
-- What?
+You're ruining my life!
+What?
 Music's the only thing that makes me happy. And you want to take it away.
 You'll never understand.
 <i>Y aunque la vida me cueste, Llorona</i>
@@ -926,25 +926,25 @@ But I don't want to pick sides!
 Why can't you be on my side?
 That's what family's supposed to do.
 Support you. But you never will.
-- Have a good time.
-- Oh, how exciting!
+Have a good time.
+Oh, how exciting!
 Oh, El Santo. I'm a big fan!
 You mind if I...
 <i>Gracias, SeÃ±or.</i>
-- Invitation?
-- It's okay.
+Invitation?
+It's okay.
 I'm Ernesto's great-great-grandson.
 <i>- Disculpen, seÃ±ores...</i>
-- Hey, guys! It's poco loco!
-- You were on fire tonight!
-- You too!
+Hey, guys! It's poco loco!
+You were on fire tonight!
+You too!
 Hey, musician to musician...
 I need a favor.
 The competition winners.
 Congratulations, <i>chicos.</i>
 Thanks, guys!
-- Hey! Enjoy the party, little <i>mÃºsico!
-- Gracias!</i>
+Hey! Enjoy the party, little <i>mÃºsico!
+Gracias!</i>
 Oh!
 Look! It's Ernesto!
 De la Cruz!
@@ -958,7 +958,7 @@ Pardon me!
 <i>SeÃ±or</i> de la Cruz! <i>SeÃ±or</i> de la--
 <i>But what can we do? It is hopeless...</i>
 <i>- You must have faith, sister.
-- But</i> Padre, <i>he will never listen.</i>
+But</i> Padre, <i>he will never listen.</i>
 <i>He will listen... to music.</i>
 <i>SeÃ±oras y seÃ±ores, buenas tardes, buenas noches</i>
 <i>Buenas tardes, buenas noches
@@ -983,10 +983,10 @@ Just like you. The rest of our family, they wouldn't listen.
 But I hoped you would.
 My boy, with a talent like yours, how could I not listen?
 I have a great-great-grandson!
-- Look! It's Frida!
-- Yes, it is I. Frida Kahlo.
-- It is an honor, <i>SeÃ±ora.
-- Gracias.</i>
+Look! It's Frida!
+Yes, it is I. Frida Kahlo.
+It is an honor, <i>SeÃ±ora.
+Gracias.</i>
 Hey, Negrete! Infante! Have you met my great-great-grandson?
 My great-great-grandson.
 He's alive! And a musician to boot!
@@ -1002,8 +1002,8 @@ All of this came from my amazing fans in the Land of the Living.
 They leave me more offerings than I know what to do with!
 Hey, what's wrong? Is it too much?
 You look overwhelmed.
-- No! It's all great!
-- But?
+No! It's all great!
+But?
 It's just-- I have been looking up to you my whole life.
 You're the guy who actually did it!
 But did you ever regret it?
@@ -1020,8 +1020,8 @@ The fireworks have begun!
 Soon the party will move across town for my Sunrise Spectacular.
 Miguel, you must come to the show!
 You will be my guest of honor!
-- You mean it?
-- Of course, my boy.
+You mean it?
+Of course, my boy.
 I can't.
 I have to get home before sunrise.
 Oh! I really do need to get you home.
@@ -1029,8 +1029,8 @@ It has been an honor.
 I am sorry to see you go, Miguel.
 I hope you die very soon.
 You know what I mean.
-- Miguel, I give you my bless--
-- We had a deal, <i>chamaco.</i>
+Miguel, I give you my bless--
+We had a deal, <i>chamaco.</i>
 Who are you?
 What is the meaning of this?
 Frida! I thought you couldn't make it.
@@ -1042,8 +1042,8 @@ He told me he knew you.
 HÃ©ctor?
 Please, Miguel. Put my photo up.
 My friend, you're being forgotten.
-- And whose fault is that?
-- HÃ©ctor, please...
+And whose fault is that?
+HÃ©ctor, please...
 Those were my songs you took.
 My songs that made you famous.
 What?
@@ -1065,19 +1065,19 @@ That was a long time ago.
 We drank together and you told me you would move Heaven and Earth... for your <i>amigo.</i>
 Well, I'm asking you to now.
 Heaven and Earth? Like in the movie?
-- What?
-- That's Don Hidalgo's toast.
+What?
+That's Don Hidalgo's toast.
 In the de la Cruz movie,
 <i>El Camino a Casa.</i>
-- I'm talking about my real life, Miguel.
-- No! It's in there. Look!
+I'm talking about my real life, Miguel.
+No! It's in there. Look!
 <i>Never were truer words spoken.
 This calls for a toast. To our friendship!</i>
 <i>I would move Heaven and Earth for you,</i> mi amigo.
 But in the movie,
 Don Hidalgo poisons the drink.
 <i>- Salud!</i>
-- Poison!
+Poison!
 That night, Ernesto. The night I left...
 <i>We'd been performing on the road for months. I got homesick...</i>
 <i>and I packed up my songs.</i>
@@ -1101,8 +1101,8 @@ All this time,
 I thought it was just bad luck.
 <i>I never thought that you might have--
 That you...</i>
-- How could you?
-- HÃ©ctor!
+How could you?
+HÃ©ctor!
 Security! Security!
 You took everything away from me!
 You rat!
@@ -1131,8 +1131,8 @@ No! No!
 Let go! No!
 Help! Can anyone hear me?
 I want to go home.
-- HÃ©ctor?
-- Kid?
+HÃ©ctor?
+Kid?
 HÃ©ctor! You were right.
 I should have gone back to my family.
 They told me not to be like de la Cruz, but I didn't listen.
@@ -1143,8 +1143,8 @@ Hey, <i>chamaco.</i> It's okay. It's okay.
 I told them I didn't care.
 HÃ©ctor! HÃ©ctor?
 She's forgetting me.
-- Who?
-- My daughter.
+Who?
+My daughter.
 She's the reason you wanted to cross the bridge.
 I just wanted to see her again.
 I never should have left Santa Cecilia.
@@ -1208,8 +1208,8 @@ I'm proud to be his family!
 Dante?
 Dante!
 It's Dante!
-- Imelda!
-- HÃ©ctor.
+Imelda!
+HÃ©ctor.
 You look good.
 Dante! You knew he was my
 <i>PapÃ¡</i> HÃ©ctor the whole time!
@@ -1238,15 +1238,15 @@ I'm ready to accept your blessing.
 And your conditions.
 But first, I need to find de la Cruz.
 To get HÃ©ctor's photo.
-- What?
-- So he can see Coco again.
+What?
+So he can see Coco again.
 HÃ©ctor should be on our <i>ofrenda.</i>
 He's part of our family.
 He left this family!
 He tried to go home to you and Coco.
 But de la Cruz murdered him!
-- It's true, Imelda.
-- And so what if it's true?
+It's true, Imelda.
+And so what if it's true?
 You leave me alone with a child to raise... and I'm just supposed to forgive you?
 Imelda, I--
 HÃ©ctor!
@@ -1265,33 +1265,33 @@ I can't forgive you.
 But I will help you.
 So, how do we get to de la Cruz?
 I might know a way.
-- Good luck, <i>muchacho.
-- Gracias,</i> Frida.
-- Here, let me help you with--
-- Don't touch me!
-- Everyone clear on the plan?
-- Find HÃ©ctor's photo.
-- Give it to Miguel.
-- Send Miguel home.
+Good luck, <i>muchacho.
+Gracias,</i> Frida.
+Here, let me help you with--
+Don't touch me!
+Everyone clear on the plan?
+Find HÃ©ctor's photo.
+Give it to Miguel.
+Send Miguel home.
 Got your petals?
 Now, we just have to find de la Cruz.
 Yes?
 Don't I know you?
 That's for murdering the love of my life!
-- Who-- Who the--
-- She's talking about me!
-- I'm the love of your life?
-- I don't know. I'm still angry at you.
+Who-- Who the--
+She's talking about me!
+I'm the love of your life?
+I don't know. I'm still angry at you.
 HÃ©ctor! How did you--
 And that's for trying to murder my grandson.
-- Grandson?
-- She's talking about me!
+Grandson?
+She's talking about me!
 You! Wait. You're related to HÃ©ctor?
 The photo!
 After him!
 Security! <i>AyÃºdenme!</i>
-- You said love of your life.
-- I don't know what I said.
+You said love of your life.
+I don't know what I said.
 That's what I heard.
 Places, <i>SeÃ±or.</i>
 You're on in thirty seconds.
@@ -1318,7 +1318,7 @@ Llorona de azul celeste</i>
 Llorona de azul celeste</i>
 <i>Y aunque la vida me cueste, Llorona</i>
 <i>No dejarÃ© de quererte</i>
-- Let go of me!
+Let go of me!
 <i>- Y aunque la vida me cueste, Llorona</i>
 <i>No dejarÃ© de quererte</i>
 <i>Ay, ay, ay</i>
@@ -1340,8 +1340,8 @@ He's a living child, Ernesto.
 He's a threat!
 <i>You think I'd let him go back to the Land of the Living with your photo?</i>
 To keep your memory alive? No.
-- You're a coward!
-- I am Ernesto de la Cruz.
+You're a coward!
+I am Ernesto de la Cruz.
 The greatest musician of all time!
 HÃ©ctor's the real musician.
 <i>You're just the guy who murdered him and stole his songs!</i>
@@ -1377,17 +1377,17 @@ I promised you'd see Coco.
 We're both out of time, <i>mijo.</i>
 Oh no! No! She can't forget you!
 I just wanted her to know that I loved her.
-- HÃ©ctor!
-- You have our blessing, Miguel.
+HÃ©ctor!
+You have our blessing, Miguel.
 No conditions.
 No! <i>PapÃ¡</i> HÃ©ctor, please!
 No!
-- Go home.
-- I promise I won't let Coco forget you!
+Go home.
+I promise I won't let Coco forget you!
 There he is!
 Miguel! Stop!
-- Where have you been?
-- I need to see <i>MamÃ¡</i> Coco, please.
+Where have you been?
+I need to see <i>MamÃ¡</i> Coco, please.
 What are you doing with that--
 Give it to me!
 Miguel, stop! Miguel! Miguel!
@@ -1400,7 +1400,7 @@ Here. This was his guitar, right?
 He used to play it to you?
 See? There he is! <i>PapÃ¡!</i>
 Remember? <i>PapÃ¡?</i>
-- Miguel!
+Miguel!
 <i>- MamÃ¡</i> Coco, please! Don't forget him.
 What are you doing to that poor woman? It's okay, <i>Mamita.</i> It's okay.
 What's gotten into you?
@@ -1455,7 +1455,7 @@ Enjoy your visit, HÃ©ctor.
 <i>But last night it seemed that
 I dreamed about you</i>
 <i>- PapÃ¡!</i>
-- Coco!
+Coco!
 <i>When I opened my mouth what came out was a song</i>
 <i>And you know every word and we all sang along</i>
 <i>To a melody played on the strings of our souls</i>

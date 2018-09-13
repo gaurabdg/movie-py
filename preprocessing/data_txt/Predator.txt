@@ -1,5 +1,5 @@
-- You're looking good, Dutch.
-- It's been a long time, General.
+You're looking good, Dutch.
+It's been a long time, General.
 Come on inside.
 Eighteen hours ago, we lost a chopper... carrying a cabinet minister and his aide from this charming little country.
 We've got a transponder fixed on their position...
@@ -17,17 +17,17 @@ What's the matter? The C.I.A. got you pushing too many pencils?
 Huh?
 Had enough?
 Make it easy on yourself, Dutch.
-- [Laughs] Okay, okay, okay!
-- You never did know when to quit, huh?
-- Damn good to see you, Dutch.
-- What is this fucking tie business?
+[Laughs] Okay, okay, okay!
+You never did know when to quit, huh?
+Damn good to see you, Dutch.
+What is this fucking tie business?
 Forget about my tie. I heard about that job you pulled off in Berlin.
-- Very nice, Dutch.
-- Good old days.
+Very nice, Dutch.
+Good old days.
 Like the good old days.
 Then how come you passed on Libya, huh?
-- That wasn't my style.
-- You got no style. You know that.
+That wasn't my style.
+You got no style. You know that.
 Come on.
 Why did you pass?
 We're a rescue team, not assassins.
@@ -36,13 +36,13 @@ That cabinet minister is very important to our operations in this part of the wo
 The general's saying a couple of our friends are about to get squeezed.
 <i>We can't let that happen.
 We need the best.</i>
-- That's why you're here.
-- Go on.
+That's why you're here.
+Go on.
 A simple setup.
 One-day operation.
 We pick up their trail at the chopper, run 'em down... grab those hostages and bounce back across the border before anybody knows we were there.
-- What do you mean, âweâ?
-- I'm going in with you, Dutch.
+What do you mean, âweâ?
+I'm going in with you, Dutch.
 General, my team always works alone.
 You know that.
 I'm afraid we all have our orders, Major.
@@ -54,19 +54,19 @@ Roger. Over.
 Yeah, okay.
 [Chuckles]
 <i>- [Man On Radio] Delta 7-0.
-- [Man] Roger.</i>
+[Man] Roger.</i>
 <i>[Man On Radio]
 Two, Leader.</i>
 Rendezvous points and radio freqs are indicated and fixed.
 AWACS contact on four-hour intervals.
-- Who's our backup?
-- No such thing, old buddy.
+Who's our backup?
+No such thing, old buddy.
 <i>This is a one-way ticket. Once we cross that border, we 're on our own.</i>
 [Chuckles]
 This is getting better by the minute.
 <i>[Man on Radio, Indistinct]</i>
 <i>- Roger 2-2. Roger.
-- [Man On Radio, Indistinct]</i>
+[Man On Radio, Indistinct]</i>
 <i>[Man on Radio]
 Tango, Charlie, Delta 7-0.</i>
 <i>Two, Leader.</i>
@@ -85,8 +85,8 @@ Yeah. Strap this on your sore ass, Blain.
 <i>That was in '72. North of Hue.
 Me and Dutch both got one.</i>
 That's a real nasty habit you got there.
-- [Beeping]
-- [Man On Radio, indistinct]
+[Beeping]
+[Man On Radio, indistinct]
 Right.
 <i>[Beeping Continues]</i> âª [Stops]
 <i>[Man on Radio, Indistinct]</i>
@@ -95,8 +95,8 @@ You got it, Leader.</i>
 <i>[Beeping Continues]</i>
 Never knew how much
 I missed this, Dutch.
-- You never were that smart.
-- [Buzzes]
+You never were that smart.
+[Buzzes]
 Hawkins, you're up.
 <i>[Man On Radio]
 Lines away.</i>
@@ -104,10 +104,10 @@ Lines away.</i>
 <i>[Chittering Continues]</i>
 The pilots have each got one round in the head.
 Whoever hit it stripped the shit out of it.
-- Took him out with a heat-seeker.
-- There's something else, Major.
-- Hmm?
-- This is no ordinary army taxi.
+Took him out with a heat-seeker.
+There's something else, Major.
+Hmm?
+This is no ordinary army taxi.
 It looks more like a surveillance bird to me.
 Pick up the trail yet?
 Billy's on it.
@@ -124,8 +124,8 @@ They came in from the north, and then they followed the guerrillas.
 Mean anything to you?
 Probably just another rebel patrol.
 They operate in here all the time.
-- Get ahead and see what you can find.
-- Yes, sir.
+Get ahead and see what you can find.
+Yes, sir.
 <i>[Birds Squawking]</i>
 What's he got?
 Same business. Guerrillas hauling two guys from the chopper... followed by men with American equipment.
@@ -136,13 +136,13 @@ Come on. Let's go.
 <i>[Flapping Continues]</i>
 <i>[Flapping Continues]</i>
 <i>[Predator Growling]</i>
-- [Gasps]
-- [Birds Screeching]
+[Gasps]
+[Birds Screeching]
 [Shouts]
 [Sighs]
 Holy mother of God.
-- [Grunts]
-- [Squawking]
+[Grunts]
+[Squawking]
 Jim Hopper.
 Mac, cut 'em down.
 I knew these men.
@@ -151,13 +151,13 @@ What the hell were they doing here?
 I don't know, Dutch.
 This is inhuman.
 Nobody told me there was an operation in this area.
-- They shouldn't have been here.
-- But somebody sent them.
+They shouldn't have been here.
+But somebody sent them.
 <i>The guerrillas skinned them?</i>
 <i>Why did they skin them?</i>
 Ain't no way for no soldier to die.
 <i>- What happened here, Billy?
-- Strange, Major.</i>
+Strange, Major.</i>
 There was a firefight.
 They were shooting in all directions.
 I can't believe that Jim Hopper walked into an ambush.
@@ -188,8 +188,8 @@ Got that?
 [Speaking Spanish]
 [Chattering]
 <i>[Man Groans]</i>
-- [Speaks Russian]
-- Fuck you.
+[Speaks Russian]
+Fuck you.
 [Groans]
 <i>[Chattering Continues]</i>
 He killed one of the hostages.
@@ -211,7 +211,7 @@ What the fuck?
 [Shouting]
 [Screaming]
 <i>- Showtime, kid.
-- [Man Shouting In Russian]</i>
+[Man Shouting In Russian]</i>
 <i>[Men Shouting]</i>
 [Shouting Continues]
 <i>[Mac] Targets at the center of the palapa!</i>
@@ -239,7 +239,7 @@ You got it, Major.
 [Cocks]
 Oh, shit.
 <i>- Mac, any sign of the other hostage?
-- [Mac] Yo!</i>
+[Mac] Yo!</i>
 Found the other guy.
 He's dead too.
 And the kid from the chopper.
@@ -253,8 +253,8 @@ Russian military advisers.</i>
 Something pretty big was gonna happen here.
 Good work, Mac.
 Clear the area. No traces.
-- Get the men ready to move.
-- All right.
+Get the men ready to move.
+All right.
 Son of a bitch is dug in like an Alabama tick.
 You're hit.
 You're bleeding, man.
@@ -264,17 +264,17 @@ You got time to duck?
 This is goddamn beautiful.
 Goddamn jackpot.
 <i>This is more than we ever thought we'd get.</i>
-- [Papers Rustling]
-- Man, we got those bastards.
+[Papers Rustling]
+Man, we got those bastards.
 We got 'em.
 I think this is what you're looking for.
 You set us up!
 It's all bullshit, all of it- the cabinet minister, the whole business.
-- You got us in here to do your dirty work.
-- We stopped a major invasion.
+You got us in here to do your dirty work.
+We stopped a major invasion.
 In three days, they'd have been across the border with this stuff!
-- Why us?
-- Because nobody else could've pulled it off.
+Why us?
+Because nobody else could've pulled it off.
 You're pissed about the cover story.
 I knew I couldn't get you in here without it.
 So what story did you hand Hopper?
@@ -298,14 +298,14 @@ And I don't do this kind of work.
 <i>[Hawkins] Major! Major,
 We stepped into some bullshit here!</i>
 <i>- [Groans]
-- [Dillon Speaking Spanish]</i>
+[Dillon Speaking Spanish]</i>
 Air surveillance says we got guerrillas all over the place.
 Can't be more than one, two miles away.
 This place is going down.
-- How much time?
-- Half an hour, maybe less.
-- Tell Mac we move in five.
-- Yes, sir.
+How much time?
+Half an hour, maybe less.
+Tell Mac we move in five.
+Yes, sir.
 She goes with us. She's too valuable.
 She's got another whole network.
 She'll give away our position any chance she gets. No deal.
@@ -326,17 +326,17 @@ Poncho, take lead.
 Double-time it.
 <i>[Cocks Weapon]</i>
 <i>- [Heart Beating]
-- [Warped Voices]</i>
+[Warped Voices]</i>
 [Warped Shouting]
 [Shouting In Spanish]
 [Shouting In Spanish]
 <i>- [Mac] Dillon! Dillon!
-- Come on .</i>
+Come on .</i>
 Over here.
 <i>- [Heartbeat Continues]
-- [Growling]</i>
-- Turn around.
-- Why?
+[Growling]</i>
+Turn around.
+Why?
 Thanks.
 Anytime.
 Billy! Billy!
@@ -355,7 +355,7 @@ See, it was 'cause-
 <i>[Warped]
 Over here. Over here. Over here.</i>
 <i>- Turn around. Turn around
-- [Laughing]</i>
+[Laughing]</i>
 <i>Turn around
 Turn around over here.</i>
 <i>[Laughing]</i>
@@ -364,7 +364,7 @@ Turn around over here.</i>
 <i>Anytime.</i>
 <i>[Animal Squealing]</i>
 <i>- [Insects Buzzing]
-- Goddamn!</i>
+Goddamn!</i>
 <i>Buddy, buddy buddy, buddy'</i>
 I've seen some bad-ass bush before, man, but nothing like this.
 I hear you.
@@ -379,8 +379,8 @@ Stop sandbaggin' it. Now, get up.
 Come on. Get up.
 Would you get up?
 [Shouts In Spanish]
-- [Weapon Cocks]
-- [Speaking Spanish]
+[Weapon Cocks]
+[Speaking Spanish]
 [Chuckling] Maybe you'd better put her on a leash, agent man.
 Try it again, please.
 [Spanish]
@@ -399,7 +399,7 @@ Nothing.
 What do you think?
 I guess it's nothing, Major.
 <i>- [Weapons Cocking]
-- [Predator Panting]</i>
+[Predator Panting]</i>
 [Whistles]
 <i>[Pan ting Continues]</i>
 [Shouting, Warped Shouting]
@@ -411,15 +411,15 @@ Please!
 <i>[Leaves Rustling]</i>
 <i>[Birds Shrieking]</i>
 Billy, break left.
-- Mac, right.
-- What the-
-- This isn't her blood
-- What the hell did you do to him?
+Mac, right.
+What the-
+This isn't her blood
+What the hell did you do to him?
 Major, you'd better take a look at this.
 Did you find Hawkins?
 I- I can't tell.
 <i>- What in God's name?
-- [Insects Buzzing]</i>
+[Insects Buzzing]</i>
 I think it's Hawkins.
 Where the hell is his body?
 There's no sign of it.
@@ -429,18 +429,18 @@ Ask her what happened.
 [Spanish]
 <i>[(Chattering Continues In Spanish]</i>
 She says the jungle, it just came alive...
-- and took him.
-- Bullshit!
+and took him.
+Bullshit!
 That's not what she said!
 What she said doesn't make any sense.
-- Those sappers have been following us-
-- They've been in front of us!
-- [Both Shouting At Once]
-- Hold it. Hold it!
+Those sappers have been following us-
+They've been in front of us!
+[Both Shouting At Once]
+Hold it. Hold it!
 <i>Why didn't they take his radio or his weapon?</i>
 Why didn't she escape?
-- Hopper.
-- What?
+Hopper.
+What?
 They did the same thing to Jim Hopper.
 I want Hawkins's body found.
 Sweep pattern.
@@ -456,21 +456,21 @@ Old Painless is waiting.
 Sergeant!
 [Shouting]
 <i>- Motherfucker!
-- [Gunfire Continues]</i>
+[Gunfire Continues]</i>
 <i>- [Screaming]
-- [Gun Clicking]</i>
+[Gun Clicking]</i>
 <i>Fucker!</i>
 [Shouting]
 [Shouting Continues]
-- [Gunfire Stops]
-- [Whirring]
+[Gunfire Stops]
+[Whirring]
 <i>- [Clicks]
-- [Whirring Continues]</i>
+[Whirring Continues]</i>
 [Whirring Stops]
-- What happened?
-- I saw it.
-- You saw what?
-- I saw it!
+What happened?
+I saw it.
+You saw what?
+I saw it!
 Blain.
 No powder burns, no shrapnel.
 The wound's all fused, cauterized.
@@ -485,8 +485,8 @@ Not a fucking trace.
 We hit nothing.</i>
 Dillon, better get on the radio.
 Mac.
-- Sergeant!
-- Yes, sir.
+Sergeant!
+Yes, sir.
 I want a defensive position above that ridge... mined with everything we've got.
 Put him in his poncho.
 Take him with us.
@@ -506,11 +506,11 @@ Good-bye, bro.
 [Screeching]
 [Dillon] Blazer 1, I repeat: extraction necessary.
 Say again, Blazer 1. Say again.
-- [Radio Static]
-- [Blazer 1] Request for extraction denied.
+[Radio Static]
+[Blazer 1] Request for extraction denied.
 The area is still compromised. Proceed to sector 3,000 for prisoner extraction.
-- Priority, out. Next contact: 0930.
-- [Radio Static]
+Priority, out. Next contact: 0930.
+[Radio Static]
 Roger, Blazer 1. 1030 hours.
 Damn bastards.
 They say we're still in too far... and they can't risk comin' in after us.
@@ -525,8 +525,8 @@ Sergeant? Sergeant! Sergeant!
 Who hit us today?
 I don't know. I only saw one of them camouï¬aged.
 He was there.
-- Those eyes disappeared.
-- What was that?
+Those eyes disappeared.
+What was that?
 Those eyes, they- they disappeared.
 <i>I know one thing, Major.
 I drew down and fired straight at it.</i>
@@ -542,8 +542,8 @@ Go ahead. Ask her.
 She says the same fuckin' thing.
 The jungle came alive and took him.
 Billy, you know somethin'.
-- What is it?
-- I'm scared, Poncho.
+What is it?
+I'm scared, Poncho.
 <i>Bullshit.
 You ain't afraid of no man.</i>
 There's something out there waiting for us... and it ain't no man.
@@ -570,34 +570,34 @@ I'm gonna cut your name into him.
 <i>[Twig Snaps]</i>
 <i>[Twig Snaps]</i>
 <i>- [Dillon] What the hell is it?
-- Mac!</i>
+Mac!</i>
 [Screeching]
 <i>- [Dillon] This Way!
-- Where the hell are you? Where are you?</i>
+Where the hell are you? Where are you?</i>
 <i>Mac! Mac!</i>
-- [Creature, Mac Grunting]
-- Mac!
+[Creature, Mac Grunting]
+Mac!
 <i>[Creature Growling]</i>
-- Mac!
-- Mac! Where are you?
-- Don't fuck with me!
-- Mac!
+Mac!
+Mac! Where are you?
+Don't fuck with me!
+Mac!
 <i>- [Creature Screeching]
-- Mac, where are you?</i>
-- Jesus.
-- Got you, motherfucker.
+Mac, where are you?</i>
+Jesus.
+Got you, motherfucker.
 Killed you, you fuck.
 <i>[Poncho] Jesus.
 You killed a pig.</i>
 <i>[Billy] What the-</i>
 <i>- Do you think you could've found something bigger?</i>
-- Yeah. Fuck you, Poncho. Fuck you.
-- [Dillon Laughing]
-- Where's the girl?
-- Aw, shit.
+Yeah. Fuck you, Poncho. Fuck you.
+[Dillon Laughing]
+Where's the girl?
+Aw, shit.
 Why the hell wasn't anybody watching her?
-- [Gasping]
-- Why didn't she try to get away?
+[Gasping]
+Why didn't she try to get away?
 <i>[Dutch] Look at her.
 She's scared out of her mind</i>
 Major, you'd better take a look at this.
@@ -614,18 +614,18 @@ He's killing us one at a time.
 <i>[Billy]
 Like a hunter.</i>
 He's using the trees.
-- Yesterday. What did you see?
-- You're wasting your time.
+Yesterday. What did you see?
+You're wasting your time.
 No more games.
 I don't know what it was. it-
-- Go on.
-- It changed colors, like the chameleon.
+Go on.
+It changed colors, like the chameleon.
 It uses the jungle.
 You saying that Blain and Hawkins were killed by a fuckin' lizard?
 That's a bullshit psych job. There's two or three men out there at the most.
 Fuckin' lizard!
-- What's your name?
-- Anna.
+What's your name?
+Anna.
 Anna, this thing is hunting us, all of us.
 You know that.
 What the hell do you think you're doin'?
@@ -633,8 +633,8 @@ We're gonna need everyone.
 I'm takin' her back. We're out of here in five minutes.
 You're not going yet.
 Look. The rendezvous is 10 to 12 miles away.
-- You think the chopper's gonna wait?
-- Dillon, we make a stand now... or there will be nobody left to go to the chopper.
+You think the chopper's gonna wait?
+Dillon, we make a stand now... or there will be nobody left to go to the chopper.
 There is something else.
 When the big man was killed, you must've wounded it.
 Its blood was on the leaves.
@@ -663,12 +663,12 @@ Means the demon who makes trophies of man.
 So what are you gonna try next?
 Cheese?
 Hey, Dutch! Dutch!
-- [Predator Screeching]
-- Shit!
+[Predator Screeching]
+Shit!
 <i>[Screeching Continues]</i>
 [Explosions]
 <i>- [Gunfire]
-- [All Yelling]</i>
+[All Yelling]</i>
 [Grunts]
 [Grunts]
 [Growling]
@@ -676,26 +676,26 @@ Hey, Dutch! Dutch!
 <i>[Gunfire]</i>
 Got you, you mother!
 I got you!
-- I'm comin'!
-- Mac. Mac!
-- Get Ramirez and get to the chopper.
-- Right.
-- Hold it, Dutch. I'm goin' after Mac.
-- That's not your style, Dillon.
+I'm comin'!
+Mac. Mac!
+Get Ramirez and get to the chopper.
+Right.
+Hold it, Dutch. I'm goin' after Mac.
+That's not your style, Dillon.
 I guess I picked up some bad habits from you. Now, get your people out of here.
 You can't win this, Dillon.
 Maybe I can get even.
 <i>Dillon.</i> just hold onto that damn chopper.
 [Groaning]
 [Groaning Continues]
-- He's busted up pretty bad, Major.
-- I can make it. I can make it.
-- Get the radio. Forget the rest.
-- Right.
-- [Poncho Yelps]
-- Come on, Poncho. Come on, Poncho.
-- [Yelps]
-- [Dutch] Come on.
+He's busted up pretty bad, Major.
+I can make it. I can make it.
+Get the radio. Forget the rest.
+Right.
+[Poncho Yelps]
+Come on, Poncho. Come on, Poncho.
+[Yelps]
+[Dutch] Come on.
 [Speaking Song Lyrics]
 [Continues]
 [Stops]
@@ -721,47 +721,47 @@ I got a score to settle.
 We both got scores to settle.
 [Growling]
 [Grunts]
-- Vamos!
-- [Poncho Grunts]
+Vamos!
+[Poncho Grunts]
 Vamos! Come on!
 Quickly! Hurry up.
-- [Poncho Groans]
-- [Dutch] Don't. Leave it.
+[Poncho Groans]
+[Dutch] Don't. Leave it.
 It didn't kill you because you weren't armed. No sport.
 [Whispering]
 Mac.
 Mac.
 <i>- [Mac's Voice] Anytime.
-- [Predator Growls]</i>
+[Predator Growls]</i>
 [Screams]
 [Metal Clanking]
-- [Gunshot]
-- [Screams]
+[Gunshot]
+[Screams]
 <i>- [Gunshots, Distant]
-- [Screaming Continues]</i>
+[Screaming Continues]</i>
 [Groaning]
 Let's go.
 Billy!
 <i>Billy, let's go!</i>
-- [Gasping]
-- [Groaning]
+[Gasping]
+[Groaning]
 [Spanish]
 Give me the weapon!
 <i>- [Grunting]
-- [Anna Continues In Spanish]</i>
+[Anna Continues In Spanish]</i>
 <i>- [All Gasping]
-- [Billy Screams]</i>
+[Billy Screams]</i>
 [Dutch Gasps]
 [Panting]
 <i>[Whimpering]</i>
 <i>[Whimpering]</i>
-- No!
-- Run!
+No!
+Run!
 Run!
 [Screams]
 Run!
 <i>- Go! Get to the chopper!
-- [Panting]</i>
+[Panting]</i>
 [Screams]
 Oh, shit!
 [Electrical Arcing]
@@ -795,11 +795,11 @@ You're one ugly motherfucker.
 [Screeches]
 [Screeches]
 Bad idea.
-- [Blow Lands]
-- [Predator Shrieks]
+[Blow Lands]
+[Predator Shrieks]
 [Dutch Panting]
-- [Dutch Coughs]
-- [Predator Yells]
+[Dutch Coughs]
+[Predator Yells]
 [Dutch Grunts]
 Come on. Come on.
 Do it. Do it!
@@ -829,9 +829,9 @@ What the hell...
 [Continues Laughing]
 Holy shit.
 <i>- Check the battery.
-- [Man] Okay.</i>
+[Man] Okay.</i>
 <i>- Did you get it?
-- [Man] Got it!</i>
+[Man] Got it!</i>
 What the-
 <i>[General]
 My God.</i>

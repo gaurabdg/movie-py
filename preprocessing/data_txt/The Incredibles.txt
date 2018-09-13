@@ -1,8 +1,8 @@
-- Is this on?
-- That's fine.
+Is this on?
+That's fine.
 I can break through walls, I just can't...
-- That's fine.
-- I can't get this on.
+That's fine.
+I can't get this on.
 Mr. Incredible...
 Do you have a secret identity?
 Every superhero has a secret identity.
@@ -23,8 +23,8 @@ For a little bit. I feel like the maid.
 "I just cleaned up this mess."
 "Can we keep it clean for ten minutes?"
 I could get to that point.
-- "Please?"
-- We're not finished.
+"Please?"
+We're not finished.
 Sometimes I think I'd just like the simple life, you know?
 Relax a little and raise a family.
 Settle down? Are you kidding?
@@ -38,25 +38,25 @@ We interrupt for a bulletin.
 A high-speed pursuit between police and armed gunmen is underway, traveling northbound on San Pablo Ave.
 Yeah, I've got time.
 Mr. Incredible.
-- What is it, ma'am?
-- My cat, Squeaker, won't come down.
+What is it, ma'am?
+My cat, Squeaker, won't come down.
 Certainly. I suggest you stand clear.
 There could be trouble.
 No, he's quite tame.
 Let go now.
 Thank you, Mr. Incredible.
 You've done it again.
-- You're the best.
-- No, I'm just here to help.
+You're the best.
+No, I'm just here to help.
 All units.
 We have a tour bus robbery...
 Tour bus robbery.
 I've still got time.
 Officers. Ma'am. Squeaker.
-- Cool! Ready for take-off!
-- What the...
-- Who are you supposed to be?
-- I'm IncrediBoy.
+Cool! Ready for take-off!
+What the...
+Who are you supposed to be?
+I'm IncrediBoy.
 What? No.
 You're that kid from the fan club.
 Brophy. Brody.
@@ -71,29 +71,29 @@ You know, you can tell a lot about a woman by the contents of her purse, but may
 Hey, look...
 Elastigirl.
 Mr. Incredible.
-- It's all right. I've got him.
-- Sure, you've got him.
-- I just took him out for you.
-- Sure, you did.
-- His attention was on me.
-- A fact I exploited to do my job.
-- My job, you mean.
-- A simple thank you will suffice.
+It's all right. I've got him.
+Sure, you've got him.
+I just took him out for you.
+Sure, you did.
+His attention was on me.
+A fact I exploited to do my job.
+My job, you mean.
+A simple thank you will suffice.
 Thanks, but I don't need any help.
 Whatever happened to "ladies first"?
 Well, whatever happened to equal treatment?
 Look, the lady got me first.
-- Well, we could share, you know.
-- I work alone.
+Well, we could share, you know.
+I work alone.
 Well, I think you need to be more flexible.
 Are you doing anything later?
 I have a previous engagement.
 Now, you just stay here.
 They usually pick up the garbage in an hour.
-- Hey, Incredible!
-- Hey, Frozone!
-- Shouldn't you be getting ready?
-- I still got time.
+Hey, Incredible!
+Hey, Frozone!
+Shouldn't you be getting ready?
+I still got time.
 He's gonna jump!
 I think you broke something.
 With counseling, I think you'll come to forgive me.
@@ -103,8 +103,8 @@ Mr. Incredible...!
 And IncrediBoy!
 IncrediBoy?
 Aren't you curious about how I get around so fast? I have rocket boots.
-- Go home, Buddy. Now.
-- What?
+Go home, Buddy. Now.
+What?
 Little oaf...!
 Can we talk?
 You always say be true to yourself, but you never say which part to be true to.
@@ -120,15 +120,15 @@ Fly home, Buddy. I work alone.
 And your outfit is totally ridiculous!
 Just give me one chance! I'll show you.
 I'll go get the police.
-- Buddy, don't!
-- It'll only take a second, really.
+Buddy, don't!
+It'll only take a second, really.
 No, stop!
 There's a bomb!
 Let go, you're wrecking my flight pattern.
-- I can do this if you let go!
-- Will you just...
-- I'm trying to help! Stop!
-- Let go of my cape!
+I can do this if you let go!
+Will you just...
+I'm trying to help! Stop!
+Let go of my cape!
 Take this one home. And make sure his mom knows what he's been doing.
 I can help you.
 You're making a mist...
@@ -137,28 +137,28 @@ You sent paramedics?
 They picked him up.
 The blast in that building was caused by Bomb Voyage who I caught robbing the vault.
 We might nab him if we set up a perimeter.
-- He got away?
-- Well, yeah.
-- Skippy here made sure of that.
-- IncrediBoy.
+He got away?
+Well, yeah.
+Skippy here made sure of that.
+IncrediBoy.
 You're not affiliated with me!
 Holy smokes, I'm late.
 Listen, I've gotta be somewhere.
-- What about Bomb Voyage?
-- Any other night, I'd go after him, but I really gotta go. Don't worry.
+What about Bomb Voyage?
+Any other night, I'd go after him, but I really gotta go. Don't worry.
 We'll get him! Eventually!
-- Is the night still young?
-- You're very late.
-- How do I look? Good?
-- The mask. You still got the mask.
+Is the night still young?
+You're very late.
+How do I look? Good?
+The mask. You still got the mask.
 Showtime.
 Robert Parr, will you have this woman to be your lawful wedded wife?
 You're late. When you asked if
 I was doing anything later,
 I didn't realize you'd forgotten.
 I thought it was playful banter.
-- It was.
-- Cutting it close, don't you think?
+It was.
+Cutting it close, don't you think?
 You need to be more flexible.
 I love you, but if we're gonna make this work, you've gotta be more than Mr. Incredible.
 You know that. Don't you?
@@ -175,8 +175,8 @@ Mr. Sansweet didn't ask to be saved.
 He didn't want to be saved.
 The injury received from
 Mr. Incredible's "actions,"
-- causes him daily pain.
-- I saved your life!
+causes him daily pain.
+I saved your life!
 You didn't save my life!
 You ruined my death.
 My client has no comment.
@@ -196,8 +196,8 @@ You're denying my claim?
 I don't understand.
 I have full coverage.
 I'm sorry, Mrs. Hogenson, but our liability is spelled out in paragraph 17.
-- It states clearly...
-- I can't pay for this.
+It states clearly...
+I can't pay for this.
 Excuse me. Claims, Bob Parr.
 I'm calling to celebrate a momentous occasion.
 We're now officially moved in.
@@ -230,8 +230,8 @@ Pretend to be upset.
 Parr!
 You authorized payment on the Walker policy!
 Someone broke into their house, Mr. Huph.
-- Their policy covers...
-- I don't wanna know about it.
+Their policy covers...
+I don't wanna know about it.
 Don't tell me about it. Tell me how you're keeping Insuricare in the black.
 Tell me how that's possible, with you writing checks to every Harry Hardluck and Sally
 Sobstory that gives you a phone call.
@@ -241,10 +241,10 @@ I appreciate you coming down here, Mrs. Parr.
 What's this about?
 Has Dash done something wrong?
 He's a disruptive influence and he openly mocks me in front of the class.
-- He says.
-- Look, I know it's you!
-- He puts thumbtacks on my stool.
-- You saw him do this?
+He says.
+Look, I know it's you!
+He puts thumbtacks on my stool.
+You saw him do this?
 Well... Not really. No.
 Actually, not.
 Oh, then how do you know it was him?
@@ -257,8 +257,8 @@ Wait, wait! Right there!
 Right as I'm sitting down!
 I don't know how he does it, but there's no tack before he moves and after he moves, there's a tack.
 Coincidence? I think not!
-- Bernie...
-- Don't "Bernie" me.
+Bernie...
+Don't "Bernie" me.
 This little rat is guilty!
 You and your son can go now, Mrs. Parr.
 I'm sorry for the trouble.
@@ -281,14 +281,14 @@ But you don't really mean it.
 Why can't I do the best that I can do?
 Right now, honey, the world just wants us to fit in, and to fit in, we just gotta be like everybody else.
 Dad always said our powers were nothing to be ashamed of.
-- Our powers made us special.
-- Everyone's special, Dash.
+Our powers made us special.
+Everyone's special, Dash.
 Which is another way of saying no one is.
 Rydinger, where you headed?
-- Hi, Tony.
-- Hey.
-- "Hey, Tony, can I carry your books?"
-- That's kind of funny.
+Hi, Tony.
+Hey.
+"Hey, Tony, can I carry your books?"
+That's kind of funny.
 "Hey, Tony, do you play football?"
 Tony, I thought we were gonna go swimming.
 He looked at me.
@@ -297,22 +297,22 @@ Darn kids.
 Sitting on the driveway...
 Oh, great.
 Mom.
-- You're making weird faces again.
-- No, I'm not.
+You're making weird faces again.
+No, I'm not.
 You make weird faces, honey.
-- Do you have to read at the table?
-- Uh-huh. Yeah.
+Do you have to read at the table?
+Uh-huh. Yeah.
 Smaller bites, Dash. Yikes!
 Bob, could you help the carnivore cut his meat?
 Dash, you have something you wanna tell your father about school?
 Well, we dissected a frog.
 Dash got sent to the office again.
-- Good. Good.
-- No, Bob, that's bad.
-- What?
-- Dash got sent to the office again.
-- What? What for?
-- Nothing.
+Good. Good.
+No, Bob, that's bad.
+What?
+Dash got sent to the office again.
+What? What for?
+Nothing.
 He put a tack on the teacher's chair, during class.
 Nobody saw me. You could barely see it on the tape.
 They caught you on tape and you still got away with it? Whoa!
@@ -326,54 +326,54 @@ What happened to the car?
 Here. I'm getting a new plate.
 So, how about you, Vi?
 How was school?
-- Nothing to report.
-- You've hardly touched your food.
-- I'm not hungry for meatloaf.
-- Well, it is leftover night.
+Nothing to report.
+You've hardly touched your food.
+I'm not hungry for meatloaf.
+Well, it is leftover night.
 We have steak, pasta...
 What are you hungry for?
-- Tony Rydinger.
-- Shut up.
-- Well, you are.
-- I said, shut up, you little insect.
-- Well, she is.
-- Do not shout at the table.
-- Honey!
-- Kids! Listen to your mother.
+Tony Rydinger.
+Shut up.
+Well, you are.
+I said, shut up, you little insect.
+Well, she is.
+Do not shout at the table.
+Honey!
+Kids! Listen to your mother.
 She'd eat if we were having Tony loaf.
 That's it!
 Stop it!
-- You're gonna be toast!
-- Stop running in the house.
+You're gonna be toast!
+Stop running in the house.
 Sit down!
-- Hey, no force fields!
-- You started it.
+Hey, no force fields!
+You started it.
 You sit down! You sit down!
 Violet!
 "Simon J. Paladino,
 "longtime advocate of superhero rights, is missing"?
-- Gazerbeam.
-- Bob! It's time to engage.
+Gazerbeam.
+Bob! It's time to engage.
 Do something!
 Don't just stand there!
-- I need you to intervene!
-- You want me to intervene?
+I need you to intervene!
+You want me to intervene?
 Okay. I'm intervening!
 Violet, let go of your brother.
 Hello?
 Get the door.
-- Hey, Lucius!
-- Hey, Speedo. Helen, Vi, Jack-Jack.
-- Ice of you to drop by.
-- Ha! Never heard that one before.
+Hey, Lucius!
+Hey, Speedo. Helen, Vi, Jack-Jack.
+Ice of you to drop by.
+Ha! Never heard that one before.
 Lucius!
 Whoa!
-- Ha, ha.
-- Oh!
-- I like it when it shatters.
-- I'll be back later.
-- Where are you two going?
-- It's Wednesday.
+Ha, ha.
+Oh!
+I like it when it shatters.
+I'll be back later.
+Where are you two going?
+It's Wednesday.
 Bowling night. Say hello to Honey for me, Lucius.
 Will do. Good night, Helen.
 Good night, kids.
@@ -381,11 +381,11 @@ Don't think you've avoided talking about the principal's office.
 Your father and I are still gonna discuss it.
 I'm not the only kid who's been sent to the office.
 Other kids don't have superpowers.
-- Now, it's perfectly normal...
-- What do you know about normal?
+Now, it's perfectly normal...
+What do you know about normal?
 What does anyone in this family know about normal?
-- Now, wait a minute, young lady.
-- We act normal. I wanna be normal.
+Now, wait a minute, young lady.
+We act normal. I wanna be normal.
 The only normal one is Jack-Jack, and he's not even toilet trained.
 Lucky.
 I meant about being normal.
@@ -393,86 +393,86 @@ So now I'm in deep trouble.
 I mean, one more jolt of this death ray and I'm an epitaph.
 Somehow I managed to find cover.
 What does Baron Von Ruthless do?
-- He starts monologuing.
-- He starts monologuing.
+He starts monologuing.
+He starts monologuing.
 He starts this prepared speech about how feeble I am compared to him.
 How inevitable my defeat is, the world will soon be his. Yada, yada, yada.
-- Yammering.
-- Yammering.
+Yammering.
+Yammering.
 I mean, the guy has me on a platter, and he won't shut up.
 Municiberg, we have a 23-56...
 23-56, what is that?
-- Robbery?
-- This is just sad.
-- Want to catch a robber?
-- No.
+Robbery?
+This is just sad.
+Want to catch a robber?
+No.
 Tell you the truth, I'd rather go bowling.
 Look, what if we actually did what our wives think we're doing?
 Just to shake things up.
 He's not alone.
 The fat guy's still with him.
 They're just talking.
-- What are we doing here?
-- Protecting people.
-- Nobody asked us.
-- You need an invitation?
+What are we doing here?
+Protecting people.
+Nobody asked us.
+You need an invitation?
 I'd like one, yes. We keep sneaking out to do this, and...
-- You remember Gazerbeam?
-- There was something in the paper.
-- He had trouble with civilian life.
-- When did you see him?
+You remember Gazerbeam?
+There was something in the paper.
+He had trouble with civilian life.
+When did you see him?
 I don't see anyone from the old days.
 Just you.
-- And we're pushing our luck as it is.
-- Come on.
+And we're pushing our luck as it is.
+Come on.
 It was fun the first time, but if we keep doing this...
-- We have a report on a fire...
-- A fire. We're close!
-- Yeah, baby!
-- We're gonna get caught.
+We have a report on a fire...
+A fire. We're close!
+Yeah, baby!
+We're gonna get caught.
 Fire! Yeah!
-- Is that everybody?
-- Yeah.
-- It better be.
-- Can't you put this out?
+Is that everybody?
+Yeah.
+It better be.
+Can't you put this out?
 I can't lay down a layer thick enough!
 It's evaporating too fast!
-- What's that mean?
-- It means it's hot.
-- I'm dehydrated, Bob.
-- You're out of ice?
+What's that mean?
+It means it's hot.
+I'm dehydrated, Bob.
+You're out of ice?
 You can't run out. You can use water in the air.
 There is no water in this air!
 What's your excuse, run out of muscle?
 I can't smash walls.
 The building's getting weaker.
-- It's gonna come down on top of us.
-- I wanted to go bowling!
+It's gonna come down on top of us.
+I wanted to go bowling!
 All right! Stay right on my tail!
 This is gonna get hot!
 Yeah.
 Uh-oh.
 Oh, good.
 That ain't right.
-- We look like incompetent bad guys!
-- You can get water out of the air.
+We look like incompetent bad guys!
+You can get water out of the air.
 Freeze!
-- I'm thirsty.
-- I said freeze!
+I'm thirsty.
+I said freeze!
 I'm just getting a drink.
-- You've had your drink. Now...
-- I know. I know. Freeze.
+You've had your drink. Now...
+I know. I know. Freeze.
 Police officers!
 That was way too close.
 We are not doing that again.
 Verify you want to switch targets? Over.
 Trust me. This is the one he's been looking for.
-- I thought you'd be back by 11:00.
-- I said I'd be back later.
+I thought you'd be back by 11:00.
+I said I'd be back later.
 I assumed you'd be back later.
 If you came back at all,
-- you'd be "back later".
-- Well, I'm back, okay?
+you'd be "back later".
+Well, I'm back, okay?
 Is this rubble?
 It was just a little workout. Just to stay loose.
 You know how I feel about that. Darn you!
@@ -493,17 +493,17 @@ But this, our family, is what's happening now, Bob.
 And you are missing this!
 I can't believe you don't want to go to your own son's graduation.
 It's not a graduation. He's moving from fourth to fifth grade.
-- It's a ceremony!
-- It's psychotic!
+It's a ceremony!
+It's psychotic!
 They keep creating new ways to celebrate mediocrity but if someone is exceptional...
 This is not about you, Bob.
 It's about Dash.
 You want to do something for Dash?
 Let him actually compete.
-- Let him go out for sports!
-- I will not be made the enemy!
-- You know why we can't do that.
-- Because he'd be great.
+Let him go out for sports!
+I will not be made the enemy!
+You know why we can't do that.
+Because he'd be great.
 This is not about you!
 All right, Dash. I know you're listening.
 Come on out.
@@ -514,25 +514,25 @@ It's okay, kids.
 We're just having a discussion.
 Pretty loud discussion.
 But that's okay. What's important is that Mommy and I are a team.
-- We're united, uh, against forces of...
-- Pigheadedness?
-- I was gonna say evil.
-- We're sorry we woke you.
+We're united, uh, against forces of...
+Pigheadedness?
+I was gonna say evil.
+We're sorry we woke you.
 Everything's okay. Go back to bed.
 It's late.
-- Good night, Mom. Night, Dad.
-- Good night.
+Good night, Mom. Night, Dad.
+Good night.
 In fact, we should all be in bed.
 Request claim on claim numbers 158183...
 Haven't you got him yet?
 Where is he?
 Mr. Huph would like to talk to you in his office.
-- Now?
-- Now.
+Now?
+Now.
 Sit down, Bob.
 I'm not happy, Bob. Not happy.
-- Ask me why.
-- Okay. Why?
+Ask me why.
+Okay. Why?
 Why what?
 Be specific, Bob.
 Why are you unhappy?
@@ -543,12 +543,12 @@ What I can't handle is your customers' inexplicable knowledge of Insuricare's in
 They're experts. Experts, Bob!
 Exploiting every loophole, dodging every obstacle!
 They're penetrating the bureaucracy!
-- Did I do something illegal?
-- No.
-- We shouldn't help our customers?
-- The law requires that I answer no.
-- We're supposed to help people.
-- Help our people!
+Did I do something illegal?
+No.
+We shouldn't help our customers?
+The law requires that I answer no.
+We're supposed to help people.
+Help our people!
 Starting with our stockholders.
 Who's helping them out, huh?
 You know,
@@ -563,34 +563,34 @@ I'm being metaphorical, Bob.
 Know what I mean by cooperative cogs?
 Bob?
 Bob? Look at me when I'm talking to you, Parr.
-- That man out there, he needs help.
-- Don't change the subject.
-- We're discussing your attitude.
-- He is getting mugged!
-- Well, let's hope we don't cover him.
-- I'll be right back.
+That man out there, he needs help.
+Don't change the subject.
+We're discussing your attitude.
+He is getting mugged!
+Well, let's hope we don't cover him.
+I'll be right back.
 Stop right now or you're fired!
 Close the door.
 Get over here, now.
 I'm not happy, Bob. Not happy.
-- He got away.
-- Good thing, too.
+He got away.
+Good thing, too.
 You were this close to losing your...
 Uh-oh.
 Please report to operating room 722 immediately.
-- How is he?
-- He'll live.
-- I'm fired, aren't I?
-- You think?
-- What can I say, Rick?
-- Nothing you haven't said before.
-- Someone was in trouble.
-- Always.
-- I had to do something.
-- Every time you say that, it's a month and a half of trouble for me.
+How is he?
+He'll live.
+I'm fired, aren't I?
+You think?
+What can I say, Rick?
+Nothing you haven't said before.
+Someone was in trouble.
+Always.
+I had to do something.
+Every time you say that, it's a month and a half of trouble for me.
 Hundreds of thousands of taxpayer's dollars.
-- I know.
-- We pay to keep the company quiet.
+I know.
+We pay to keep the company quiet.
 We pay damages, erase memories, relocate your family.
 Every time it gets harder.
 Money, money, money.
@@ -619,16 +619,16 @@ According to the government, neither of us exist.
 Please pay attention, as this message is classified and will not be repeated.
 I represent a top secret division of the government, designing and testing experimental technology, and we have need of your unique abilities.
 Something happened at our testing facility.
-- Honey!
-- Huh? What?
-- Dinner's ready.
-- Okay.
+Honey!
+Huh? What?
+Dinner's ready.
+Okay.
 It is contained within an isolated area, it threatens to 'cause incalculable damage to itself and our facilities, jeopardizing hundreds of millions of dollars...
 Is someone in there?
-- It's the TV, trying to watch.
-- Because of its sensitive nature...
-- Stop. It's time for dinner.
-- One minute!
+It's the TV, trying to watch.
+Because of its sensitive nature...
+Stop. It's time for dinner.
+One minute!
 If you accept, your payment will be triple your current annual salary.
 Call the number on the card.
 Voice-matching will ensure security.
@@ -646,23 +646,23 @@ Am I?
 I don't mean to be.
 I know you miss being a hero and your job is frustrating.
 I just want you to know how much it means to me that you stay at it anyway.
-- Honey? About the job?
-- What?
-- Something's happened.
-- What?
-- The, uh...
-- What?
+Honey? About the job?
+What?
+Something's happened.
+What?
+The, uh...
+What?
 The company is sending me to, uh, a conference.
-- A conference?
-- Out of town.
+A conference?
+Out of town.
 I'm gonna be gone for a few days.
 They've never sent you to a conference before. This is good, isn't it?
 Yes.
 You see? They're finally recognizing your talents.
-- You're moving up.
-- Yes.
-- Honey! This is wonderful!
-- Yes, it is.
+You're moving up.
+Yes.
+Honey! This is wonderful!
+Yes, it is.
 Hello?
 This is Mr. Incredible.
 I'm in.
@@ -684,8 +684,8 @@ I've got to warn you, it's a learning robot.
 Every moment you fight it increases its knowledge of how to beat you.
 Shut it down. Do it quickly.
 Don't destroy it.
-- And don't die.
-- Great. Thanks.
+And don't die.
+Great. Thanks.
 Showtime.
 Huh?
 Hmm.
@@ -698,8 +698,8 @@ Most important, keep things light.
 Praise him. Make him feel like we appreciate his abilities.
 Am I overdressed?
 Actually, you look rather dashing.
-- I take it our host is...
-- I'm sorry.
+I take it our host is...
+I'm sorry.
 He won't be dining with us.
 He hopes you'll understand.
 Of course. I do usually make it a point to know who I'm working for.
@@ -708,27 +708,27 @@ Surely, you of all people understand that.
 I was just wondering, of all the places to settle down, why live...
 With a volcano?
 He's attracted to power. So am I.
-- It's a weakness we share.
-- Seems a bit unstable.
+It's a weakness we share.
+Seems a bit unstable.
 I prefer to think of it as misunderstood.
 Aren't we all?
 Volcanic soil is among the most fertile on Earth.
 Everything at the table was grown right here.
-- How does it compare?
-- Everything's delicious.
-- Jeez.
-- Hurry, honey.
+How does it compare?
+Everything's delicious.
+Jeez.
+Hurry, honey.
 Or you'll be late for work.
-- Have a great day, honey.
-- Thanks.
-- Help customers, climb ladders...
-- Bring bacon.
+Have a great day, honey.
+Thanks.
+Help customers, climb ladders...
+Bring bacon.
 All that jazz.
 You have an appointment?
 I'm an old friend.
 I just wanted to...
-- All visitors are required...
-- Go check the electric fence.
+All visitors are required...
+Go check the electric fence.
 What is it? Who are you?
 What do you want?
 My God, you've gotten fat.
@@ -757,8 +757,8 @@ Must have happened a long time ago.
 I see. This is a hobo suit, darling.
 You can't be seen in this.
 I won't allow it!
-- Fifteen years ago, maybe, but now?
-- What do you mean? You designed it.
+Fifteen years ago, maybe, but now?
+What do you mean? You designed it.
 I never look back, darling.
 It distracts from the now.
 You need a new suit.
@@ -771,18 +771,18 @@ I again become sane.
 Wait. You want to make me a suit?
 You push too hard, darling!
 But I accept.
-- It will be bold. Dramatic!
-- Yeah.
+It will be bold. Dramatic!
+Yeah.
 Heroic!
 Yeah, something classic, like Dynaguy!
 Oh! He had a great look! Oh, the cape and the boots...
 No capes!
-- Isn't that my decision?
-- Do you remember Thunderhead?
+Isn't that my decision?
+Do you remember Thunderhead?
 Tall, storm powers. Nice man.
 Good with kids.
-- Listen, E...
-- November 15th of '58.
+Listen, E...
+November 15th of '58.
 All was well, another day saved when his cape snagged on a missile fin.
 Thunderhead was not the brightest bulb...
 Stratogale!
@@ -800,31 +800,31 @@ Yet, here we are.
 E, I only need a patch job.
 For sentimental reasons.
 Fine. I will also fix the hobo suit.
-- You're the best of the best, E.
-- Yes, I know, darling. I know.
+You're the best of the best, E.
+Yes, I know, darling. I know.
 Don't answer it, honey, I got it!
-- Hello?
-- We have a new assignment for you.
-- How soon can you get here?
-- I'll leave tomorrow morning.
-- See you there.
-- Goodbye.
+Hello?
+We have a new assignment for you.
+How soon can you get here?
+I'll leave tomorrow morning.
+See you there.
+Goodbye.
 Who was that, honey?
 The, uh, office?
 Another conference.
 Short notice, but, you know, duty calls.
-- Bob?
-- Yeah, what's up, honey?
-- Ha... Have a great trip.
-- Thanks, sweetie.
-- I'll call you when I get there.
-- I love you.
-- So much.
-- I love you, too.
+Bob?
+Yeah, what's up, honey?
+Ha... Have a great trip.
+Thanks, sweetie.
+I'll call you when I get there.
+I love you.
+So much.
+I love you, too.
 This is your automated Captain.
 Would you care for more mimosa?
-- Don't mind if I do. Thanks.
-- You're welcome.
+Don't mind if I do. Thanks.
+You're welcome.
 Currently 78 degrees in Nomanisan.
 Perfect weather for flying.
 Please fasten your seat belt.
@@ -834,14 +834,14 @@ Nice suit.
 Thanks.
 Nice to be back, Mirage.
 You'll be briefed on your assignment in the conference room at 2:00.
-- D Wing, room A-113.
-- 2:00. Got it.
+D Wing, room A-113.
+2:00. Got it.
 See you there.
 Edna.
-- I'd like to speak to Edna, please.
-- This is Edna.
-- E? This is Helen.
-- Helen who?
+I'd like to speak to Edna, please.
+This is Edna.
+E? This is Helen.
+Helen who?
 Helen Parr?
 You know...
 Elastigirl?
@@ -854,10 +854,10 @@ Marvelous, isn't it?
 Much better than those horrible pajamas he used to wear.
 They are finished.
 When are you coming to see?
-- I'm calling about...
-- Don't make me beg.
-- I won't do it, you know.
-- Beg?
+I'm calling about...
+Don't make me beg.
+I won't do it, you know.
+Beg?
 No, I'm calling about suit.
 Bob's suit!
 I'm calling about Bob's suit.
@@ -872,8 +872,8 @@ You know, I went through quite a few supers to get it worthy to fight you, but, 
 After you trashed the last one, I had to make some major modifications.
 Sure it was difficult, but you are worth it.
 I mean, after all, I am your biggest fan.
-- Buddy?
-- My name is not Buddy!
+Buddy?
+My name is not Buddy!
 And it's not IncrediBoy either!
 That ship has sailed.
 All I wanted was to help you.
@@ -914,11 +914,11 @@ Consumed me as only hero work can.
 My best work, I must admit.
 Simple, elegant, yet bold.
 You will die.
-- E, I just...
-- I did Robert's suit, and it turned out so beautiful, I had to continue.
+E, I just...
+I did Robert's suit, and it turned out so beautiful, I had to continue.
 It's great to see you, but I have no idea what you're talking about.
-- I just...
-- Yes, words are useless.
+I just...
+Yes, words are useless.
 Gobble, gobble, gobble.
 Too much of it, darling. Too much!
 That is why I show you my work.
@@ -926,10 +926,10 @@ That is why you are here.
 Edna Mode.
 And guest.
 Come. Sit.
-- Cream and sugar?
-- Thanks.
-- I started with the baby.
-- Started?
+Cream and sugar?
+Thanks.
+I started with the baby.
+Started?
 Shh! Darling! I cut it a little roomy for the free movement.
 The fabric is comfortable for sensitive skin,
 And can also withstand a temperature of over 1000 degrees.
@@ -940,8 +940,8 @@ What on earth do you think the baby will be doing?
 Well, I'm sure I don't know, darling.
 Luck favors the prepared.
 I didn't know the baby's powers, so I covered the basics.
-- Jack-Jack doesn't have any powers.
-- No?
+Jack-Jack doesn't have any powers.
+No?
 Well, he'll look fabulous anyway.
 Your boy's suit I designed to withstand enormous friction without heating up or wearing out.
 A useful feature.
@@ -961,23 +961,23 @@ Well, I assumed you knew, darling.
 Why would he keep secrets from you?
 He wouldn't. Didn't. Doesn't.
 Men at Robert's age are often unstable.
-- Prone to weakness.
-- What are you saying?
+Prone to weakness.
+What are you saying?
 Do you know where he is?
-- Of course.
-- Do you know where he is?
-- Hey, hey. We got a man down!
-- Come on, let's go.
+Of course.
+Do you know where he is?
+Hey, hey. We got a man down!
+Come on, let's go.
 Are you okay?
 What happened?
 Break surveillance and engage.
 Continuing sweep...
-- Insuricare.
-- Oh, hello. This is Helen Parr.
+Insuricare.
+Oh, hello. This is Helen Parr.
 Bob Parr is my husband.
 I was wondering if you could give me the number of the hotel he's staying at?
-- The number I have is no good.
-- Mr. Parr no longer works here.
+The number I have is no good.
+Mr. Parr no longer works here.
 What do you mean? He's on a business trip.
 A company retreat.
 My records say he was terminated almost two months ago.
@@ -1018,24 +1018,24 @@ Hey, Snug.
 Thanks for getting back.
 I know this is short notice, but
 I was hoping that I could...
-- What are these?
-- Look, I'm The Dash!
-- The Dash likes.
-- Just a second.
-- Take that off before somebody sees.
-- You're packing one just like it.
-- Are you hiding something?
-- Please. I'm on the phone...
-- Dash!
-- This is yours. It's specially made.
-- What's going on?
-- You're not coming! I gotta pack!
+What are these?
+Look, I'm The Dash!
+The Dash likes.
+Just a second.
+Take that off before somebody sees.
+You're packing one just like it.
+Are you hiding something?
+Please. I'm on the phone...
+Dash!
+This is yours. It's specially made.
+What's going on?
+You're not coming! I gotta pack!
 What makes you think it's special?
 I don't know.
 Why'd Mom try to hide it?
 Snug, I'm calling in a solid you owe me.
-- What do you need?
-- A jet. What do you got that's fast?
+What do you need?
+A jet. What do you got that's fast?
 Let me think.
 Island approach. India Golf niner-niner checking in.
 VFR on top. Over.
@@ -1062,12 +1062,12 @@ And now a government plane is requesting permission to land here.
 Who did you contact?
 I didn't send for a plane.
 Play the transmission.
-- India Golf checking in.
-- Helen!
+India Golf checking in.
+Helen!
 So you do know these people.
 Well, then, I'll send them a little greeting.
-- Ow!
-- Violet!
+Ow!
+Violet!
 It's not my fault.
 Dash ran away, I knew
 I'd get blamed for it.
@@ -1077,20 +1077,20 @@ We have to find out what." and it's not my fault!
 Hundred percent allyours idea!
 Wait a minute.
 You left Jack-Jack alone?
-- Of course we got a sitter.
-- We got someone, Mom.
-- We wouldn't do that.
-- Thanks a lot!
+Of course we got a sitter.
+We got someone, Mom.
+We wouldn't do that.
+Thanks a lot!
 All right, well, who'd you get?
 You don't have to worry about one thing.
 I've got baby-sitting wired.
 I've taken courses, learned CPR,
-- excellent marks and certificates.
-- Kari.
+excellent marks and certificates.
+Kari.
 I brought Mozart to play while he sleeps because leading experts say
 Mozart makes babies smarter.
-- Kari...
-- The beauty is they don't have to listen
+Kari...
+The beauty is they don't have to listen
 'cause they're asleep!
 I wish my parents played Mozart because half the time I don't know what anyone's talking about.
 Kari, I really don't feel comfortable with this.
@@ -1103,8 +1103,8 @@ Who can handle it?
 India Golf niner-niner transmitting in the blind guard.
 Disengage. Repeat, disengage.
 Repeat, disengage.
-- Friendlies...
-- No!
+Friendlies...
+No!
 Call off the missiles.
 I'll do anything.
 Too late.
@@ -1122,24 +1122,24 @@ Mom?
 Violet!
 Mayday. India Golf niner-niner is buddy-spiked. Abort!
 There are children aboard.
-- There are children aboard!
-- No!
+There are children aboard!
+No!
 Put a field around us now!
 I've never done one that big.
 Do it now!
 Abort, abort, abort!
 Brace yourselves!
-- Mom!
-- Everybody calm down.
+Mom!
+Everybody calm down.
 I'll tell you what we're not gonna do.
 We're not gonna panic, we're not...
 Look out!
-- Oh, my God! Whose idea was this?
-- What are we gonna do?
+Oh, my God! Whose idea was this?
+What are we gonna do?
 We're dead!
 We're dead!
-- It blew up!
-- We survived but we're dead!
+It blew up!
+We survived but we're dead!
 Stop it!
 We are not gonna die!
 Both of you will get a grip.
@@ -1165,8 +1165,8 @@ Those were short-range missiles.
 Land-based.
 That way is our best bet.
 You want to go toward the people that tried to kill us?
-- If it means land, yes.
-- Do you expect us to swim there?
+If it means land, yes.
+Do you expect us to swim there?
 I expect you to trust me.
 What a trooper.
 I'm so proud of you.
@@ -1175,25 +1175,25 @@ I think your father is in trouble.
 If you haven't noticed, we're not doing so hot either.
 I'm going to look for him.
 And that means you're in charge until I get back, Violet.
-- What?
-- You heard her.
+What?
+You heard her.
 Put these on. Your identity is your most valuable possession.
 Protect it.
 And if anything goes wrong, use your powers.
-- But you said never to use...
-- I know what I said!
+But you said never to use...
+I know what I said!
 Remember the bad guys on those shows you used to watch on Saturday mornings?
 Well, these guys are not like those guys.
 They won't exercise restraint because you're children.
 They will kill you if they get the chance.
 Do not give them that chance.
-- Mom?
-- Vi, I'm counting on you.
-- There's...
-- I'm counting on you. Be strong.
+Mom?
+Vi, I'm counting on you.
+There's...
+I'm counting on you. Be strong.
 Dash, if anything goes wrong, I want you to run as fast as you can.
-- As fast as I can?
-- As fast as you can.
+As fast as I can?
+As fast as you can.
 Stay hidden. Keep each other safe.
 I'll be back by morning.
 Mom!
@@ -1209,8 +1209,8 @@ You have more power than you realize.
 Don't think. And don't worry.
 If the time comes, you'll know what to do.
 It's in your blood.
-- He's not weak, you know.
-- What?
+He's not weak, you know.
+What?
 Valuing life is not weakness.
 Hey. Look, if you're talking about what happened in the containment unit,
 I had everything under control.
@@ -1229,75 +1229,75 @@ Or worse, their marriage.
 Their marriage?
 So, the bad guys are trying to wreck Mom and Dad's marriage.
 Forget it. You're so immature.
-- I'm gonna go look around.
-- Mom said to stay hidden.
+I'm gonna go look around.
+Mom said to stay hidden.
 I'm not gonna leave the cave.
 Sheesh.
 Cool!
 Roger.
 We are ready for launch.
-- Vi, Vi!
-- What did you do?
+Vi, Vi!
+What did you do?
 ETA two-niner.
 Over.
 TCI clear. Condition yellow.
 Status norm.
 Not responding to IFF.
 IRCM reads negative.
-- Bob.
-- What?
+Bob.
+What?
 I didn't say anything.
 Identification, please.
 Hey!
-- Hey, Violet! Come here, look. It talks!
-- What? What?
+Hey, Violet! Come here, look. It talks!
+What? What?
 There. That one.
 Voice key incorrect.
 "Voice key"?
 Voice key incorrect.
 Wait a second.
-- What do we do?
-- Run!
-- Where are we going?
-- Away from here!
+What do we do?
+Run!
+Where are we going?
+Away from here!
 Intruder alert.
-- There isn't much time.
-- No, there isn't.
+There isn't much time.
+No, there isn't.
 In fact, there's no time at all.
-- Please...
-- Why are you here?
+Please...
+Why are you here?
 How can you possibly bring me lower?
 What more can you take away from me?
 Family survived the crash.
 They're here on the island!
 They're alive?
-- Helen?
-- Hello.
+Helen?
+Hello.
 You must be Mrs...
-- She was helping me to escape.
-- No.
+She was helping me to escape.
+No.
 That's what I was doing.
 Let go of me!
 Let go, you lousy, lying, unfaithful creep!
 How could I betray the perfect woman?
 Oh, you're referring to me now?
 Where are the kids?
-- They triggered the alert.
-- What?
-- Security's in the jungle. Get going.
-- Our kids are in danger?
+They triggered the alert.
+What?
+Security's in the jungle. Get going.
+Our kids are in danger?
 If you suspected danger, why'd you bring them?
 They stowed away. You're not striking the proper tone.
 Think they're supers?
 Dash, remember what Mom said.
-- What?
-- Stop talking!
-- Hold it! Freeze!
-- Dash, run!
-- What?
-- Run!
-- They're supers!
-- Get the boy!
+What?
+Stop talking!
+Hold it! Freeze!
+Dash, run!
+What?
+Run!
+They're supers!
+Get the boy!
 Show yourself!
 Hey!
 Ha, ha!
@@ -1311,21 +1311,21 @@ You keep trying to pick a fight, but I'm just happy you're alive.
 I know you're there,
 Little Miss Disappear.
 You can't hide from me.
-- There you are.
-- Hey!
+There you are.
+Hey!
 Don't touch my sister!
-- How are you doing that?
-- I don't know!
+How are you doing that?
+I don't know!
 Whatever you do, don't stop!
 Mom! Dad! Hey!
 Kids.
-- You're all right.
-- You're all right.
-- We were so worried.
-- I thought I'd never see you again.
+You're all right.
+You're all right.
+We were so worried.
+I thought I'd never see you again.
 I love you.
-- Wow. 
-- Whoa.
+Wow. 
+Whoa.
 Time out!
 What have we here?
 Matching uniforms?
@@ -1336,8 +1336,8 @@ And got busy!
 It's a whole family of supers.
 Looks like I've hit the jackpot!
 Oh, this is just too good!
-- The ship's unique design...
-- There were no fatalities...
+The ship's unique design...
+There were no fatalities...
 Huh? Huh? Oh, come on!
 You gotta admit, this is cool.
 Just like a movie!
@@ -1362,8 +1362,8 @@ This is my fault.
 I've been a lousy father.
 Blind to what I have.
 So obsessed with being undervalued
-- that I undervalued all of you.
-- Dad?
+that I undervalued all of you.
+Dad?
 Shh. Don't interrupt.
 So caught up in the past that I...
 You are my greatest adventure.
@@ -1377,28 +1377,28 @@ Where are all the guards?
 Go, go!
 Hey, every time they run, you take a shot.
 This is the right hangar, but I don't see any jets.
-- A jet's not fast enough.
-- What's faster than a jet?
+A jet's not fast enough.
+What's faster than a jet?
 How about a rocket?
-- Great! I can't fly a rocket.
-- You don't have to.
+Great! I can't fly a rocket.
+You don't have to.
 Use the coordinates from the last launch.
 Wait. I bet Syndrome's changed the password by now.
-- How do I get into the computer?
-- Say please.
-- Honey?
-- What?
-- Where is my supersuit?
-- What?
+How do I get into the computer?
+Say please.
+Honey?
+What?
 Where is my supersuit?
-- I put it away.
-- Where?
-- Why do you need to know?
-- I need it!
+What?
+Where is my supersuit?
+I put it away.
+Where?
+Why do you need to know?
+I need it!
 Don't you think about running off doing no derrin'-do.
 We've been planning this dinner for two months!
-- The public is in danger!
-- My evening's in danger!
+The public is in danger!
+My evening's in danger!
 Tell me where my suit is, woman!
 We are talking about the greater good.
 "Greater good"?
@@ -1406,17 +1406,17 @@ I am your wife!
 I'm the greatest good you are ever gonna get!
 Run!
 My baby!
-- The supers have returned!
-- Is that Fironic?
-- Fironic?
-- No, Fironic has a different outfit.
+The supers have returned!
+Is that Fironic?
+Fironic?
+No, Fironic has a different outfit.
 No, no, I'm a new superhero!
 I'm Syndrome!
 All right, stand back.
 Someone needs to teach this hunk of metal a few manners.
 Ha, ha!
-- Are we there yet?
-- We get there when we get there.
+Are we there yet?
+We get there when we get there.
 How you doing, honey?
 Do I have to answer?
 Kids, strap yourselves down like I told you.
@@ -1426,39 +1426,39 @@ Ready? Now!
 This is gonna be rough.
 Robot's in the financial district.
 Which exit?
-- Traction Avenue.
-- That'll take me downtown.
-- I take Seventh, don't I?
-- Don't take Seventh!
-- Great, we missed it.
-- Ask how to get there, I told you.
-- Traction.
-- That'll take me downtown.
+Traction Avenue.
+That'll take me downtown.
+I take Seventh, don't I?
+Don't take Seventh!
+Great, we missed it.
+Ask how to get there, I told you.
+Traction.
+That'll take me downtown.
 Get in the right Lane! Signal!
-- Not Traction!
-- You're gonna miss it!
+Not Traction!
+You're gonna miss it!
 Is everybody okay back there?
-- Super-duper, Dad!
-- Let's do that again.
+Super-duper, Dad!
+Let's do that again.
 Wait here and stay hidden.
 I'm going in.
 While what? I watch helplessly from the sidelines?
-- I don't think so.
-- I'm asking you to wait with the kids.
+I don't think so.
+I'm asking you to wait with the kids.
 And I'm telling you not a chance.
 You're my husband.
 I'm with you for better or worse.
 I have to do this alone.
-- What is this to you? Playtime?
-- No.
-- So you can be Mr. Incredible again?
-- No!
-- Then what?
-- I'm not...
-- Not what?
-- I'm not strong enough.
-- This will make you stronger?
-- Yes. No!
+What is this to you? Playtime?
+No.
+So you can be Mr. Incredible again?
+No!
+Then what?
+I'm not...
+Not what?
+I'm not strong enough.
+This will make you stronger?
+Yes. No!
 That's what this is?
 Some sort of workout?
 I can't lose you again!
@@ -1470,10 +1470,10 @@ We're superheroes.
 What can happen?
 Vi! Dash! No!
 Violet?
-- Dad!
-- Go, go!
-- I'm okay, Mom. Really.
-- Stay here, okay?
+Dad!
+Go, go!
+I'm okay, Mom. Really.
+Stay here, okay?
 Frozone!
 Yeah!
 Bob!
@@ -1490,15 +1490,15 @@ I've got the remote!
 A remote? A remote that controls what?
 The robot?
 It's coming back!
-- That wasn't right.
-- Give me that!
+That wasn't right.
+Give me that!
 We can't stop it. The only thing hard enough to penetrate it is itself.
 It's getting closer!
-- It doesn't work!
-- Kids!
+It doesn't work!
+Kids!
 It's not doing anything.
-- Try to buy us some time.
-- Try the one next to it.
+Try to buy us some time.
+Try the one next to it.
 Honey!
 Wait a minute.
 Press that button again!
@@ -1506,14 +1506,14 @@ No, the other one!
 The first one!
 First button!
 Got it!
-- It's getting closer!
-- Look out!
-- Get out of here!
-- We're not going anywhere.
-- Press the button!
-- Not yet!
-- Helen!
-- What are you waiting for?
+It's getting closer!
+Look out!
+Get out of here!
+We're not going anywhere.
+Press the button!
+Not yet!
+Helen!
+What are you waiting for?
 A closer target!
 You got one shot!
 Everybody duck!
@@ -1521,10 +1521,10 @@ Hey, Zone.
 Huh? No!
 Did you see that?
 That's the way to do it.
-- That's old school.
-- Yeah. No school like the old school.
-- Just like old times. Oh!
-- Just like old times.
+That's old school.
+Yeah. No school like the old school.
+Just like old times. Oh!
+Just like old times.
 Yeah. Hurt then, too.
 We've frozen all of
 Syndrome's assets.
@@ -1537,14 +1537,14 @@ You did good, Bob.
 Hi, this is Kari. I have a question about Jack-Jack...
 Come on. We're in a limo.
 Hey, you're wearing your hair back?
-- Yeah, I just... Yeah.
-- It looks good.
-- Thanks, Dad.
-- That was cool when you threw that car!
+Yeah, I just... Yeah.
+It looks good.
+Thanks, Dad.
+That was cool when you threw that car!
 Not as cool as you running on water.
 That was sweet when you snagged that bad guy with your arm and whiplashed him into the other guy. Sweet!
-- I'm trying to listen to messages.
-- It's me.
+I'm trying to listen to messages.
+It's me.
 Jack-Jack is fine, but weird things are happening.
 Jack-Jack's still fine, but I'm getting really weirded out!
 When are you coming back?
@@ -1571,8 +1571,8 @@ And in time, who knows, he might make a good sidekick.
 He's getting away, Bob!
 We have to do something now.
 What's happening?
-- Stop him! Throw something!
-- I might hit Jack-Jack.
+Stop him! Throw something!
+I might hit Jack-Jack.
 Throw me.
 Bob, throw me!
 No!
@@ -1588,39 +1588,39 @@ Does this mean we have to move again?
 Oh, man.
 That was totally wicked!
 Do we have to have cheerleaders at the track meet?
-- What is that all about?
-- I always thought it was more...
-- Hey.
-- Hey.
-- You're, uh, Violet, right?
-- That's me.
-- See you, Vi.
-- You look different.
+What is that all about?
+I always thought it was more...
+Hey.
+Hey.
+You're, uh, Violet, right?
+That's me.
+See you, Vi.
+You look different.
 I feel different.
 Is different okay?
 Hey, different is... Different is great.
 Would you...
-- Yeah?
-- Do you think maybe...
-- you and I...
-- Yeah?
-- Do you...
-- Shh.
+Yeah?
+Do you think maybe...
+you and I...
+Yeah?
+Do you...
+Shh.
 I like movies. I'll buy the popcorn.
 Okay?
 A movie.
 There you go. Yeah.
-- Wait, so Friday?
-- Friday.
-- Go, Dash, go.
-- Run!
+Wait, so Friday?
+Friday.
+Go, Dash, go.
+Run!
 Come on, run!
 Pick up the pace.
 Run!
 Pull back, pull back!
 Pace it. Slow down just a little bit.
-- Make it close!
-- Second.
+Make it close!
+Second.
 Close second, yeah!
 That's my boy!
 Dash, I'm so proud of you.

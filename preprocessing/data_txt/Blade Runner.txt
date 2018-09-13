@@ -19,10 +19,10 @@ Now answer as quickly as you can.
 Sure.
 1187 at Hunterwasser.
 That's the hotel.
-- What?
-- Where I live.
-- Nice place?
-- Yeah, sure, I guess.
+What?
+Where I live.
+Nice place?
+Yeah, sure, I guess.
 Is that part of the test?
 No. Just warming you up. That's all.
 It's not fancy or anything.
@@ -30,19 +30,19 @@ You're in a desert, walking along in the sand, when...
 Is this the test, now?
 Yes. You're in a desert, walking along in the sand...
 ...when you look down...
-- What one?
-- What?
-- What desert?
+What one?
+What?
+What desert?
 Doesn't make any difference.
 It's completely hypothetical.
-- But how come I'd be there?
-- Maybe you're fed up.
+But how come I'd be there?
+Maybe you're fed up.
 Maybe you wanna be by yourself. Who knows?
 You look down and see a tortoise.
-- It's crawling towards you...
-- Tortoise? What's that?
-- You know what a turtle is?
-- Of course.
+It's crawling towards you...
+Tortoise? What's that?
+You know what a turtle is?
+Of course.
 Same thing.
 I've never seen a turtle.
 But I understand what you mean.
@@ -52,8 +52,8 @@ Or do they write them down for you?
 The tortoise lays on its back, its belly baking in the sun...
 <i>...beating its legs, trying to turn itself over, but it can't...</i>
 ...not without your help.
-- You're not helping.
-- What do you mean I'm not?
+You're not helping.
+What do you mean I'm not?
 I mean, you're not helping.
 Why is that, Leon?
 They're just questions, Leon.
@@ -62,8 +62,8 @@ It's a test designed to provoke an emotional response.
 Shall we continue?
 Describe in single words only the good things that come into your mind...
 ...about your mother.
-- My mother?
-- Yeah.
+My mother?
+Yeah.
 Let me tell you about my mother.
 <i>A new life awaits you in the Off-world colonies.</i>
 <i>The chance to begin again...</i>
@@ -101,8 +101,8 @@ No, sir, not embarrassing. No one's ever gonna find out they're down here.
 Because you're gonna spot them and air them out.
 I don't work here anymore.
 Give it to Holden.
-- He's good.
-- I did.
+He's good.
+I did.
 He can breathe okay as long as nobody unplugs him.
 He's not good enough. Not good as you.
 I need you, Deck.
@@ -120,13 +120,13 @@ No choice, pal.
 <i>I don 't think I've ever had one of these.</i>
 <i>Reaction time is a factor, so please pay attention.</i>
 <i>- Answer as quickly as you can.
-- Yeah, sure.</i>
+Yeah, sure.</i>
 <i>1187 at Hunterwasser.</i>
 <i>Yeah. That's the hotel.</i>
 <i>- What?
-- Where I live.</i>
+Where I live.</i>
 <i>- Nice place?
-- Yeah, sure, I guess.</i>
+Yeah, sure, I guess.</i>
 There was an escape from the
 Off-world colonies two weeks ago.
 Six Replicants: three male, three female.
@@ -138,11 +138,11 @@ Two of them got fried running through an electrical field.
 We lost the others.
 On the possibility they might try to infiltrate as employees...
 ...I had Holden go over and run Voight
-- Kampff tests on the new workers.
+Kampff tests on the new workers.
 Looks like he got himself one.
 <i>So you look down and you see a tortoise. It's crawling towards you.</i>
 <i>- Tortoise?
-- That's Leon.</i>
+That's Leon.</i>
 Ammunition loader on intergalactic runs.
 He can lift 400-pound atomic loads all day and night.
 The only way you can hurt him is to kill him.
@@ -150,8 +150,8 @@ The only way you can hurt him is to kill him.
 What do they want out of the Tyrell Corporation?
 Well, you tell me, pal.
 That's what you're here for.
-- What's this?
-- Nexus 6. Roy Batty.
+What's this?
+Nexus 6. Roy Batty.
 Incept date: 2016.
 Combat model. Optimum self-sufficiency.
 Probably the leader.
@@ -167,11 +167,11 @@ The designers reckoned after a few years...
 ...they might develop their own emotional responses.
 Oh, hate, love, fear, anger, envy.
 So they built in a fail-safe device.
-- Which is what? -
+Which is what? -
 Four-year lifespan.
 Now, there's a Nexus 6 over at the Tyrell Corporation.
-- I want you to go put the machine on it.
-- And if the machine doesn't work?
+I want you to go put the machine on it.
+And if the machine doesn't work?
 Do you like our owl?
 It's artificial?
 Of course it is.
@@ -186,8 +186,8 @@ May I ask you a personal question?
 Sure.
 Have you ever retired a human by mistake?
 No.
-- But in your position, that is a risk.
-- Is this to be an empathy test?
+But in your position, that is a risk.
+Is this to be an empathy test?
 Capillary dilation of the so-called blush response?
 Fluctuation of the pupil.
 Involuntary dilation of the iris.
@@ -195,8 +195,8 @@ We call it Voight-Kampff for short.
 Mr. Deckard, Dr. Eldon Tyrell.
 Demonstrate it.
 I wanna see it work.
-- Where's the subject?
-- I wanna see it work on a person.
+Where's the subject?
+I wanna see it work on a person.
 I wanna see a negative before
 I provide you with a positive.
 What's that gonna prove?
@@ -223,9 +223,9 @@ Replicant or a lesbian, Mr. Deckard?
 Just answer the questions, please.
 You show it to your husband.
 He likes it so much he hangs it on your bedroom wall.
-- bush outside your window?
+bush outside your window?
 I wouldn't let him.
-- orange body, green legs?
+orange body, green legs?
 Why not?
 I should be enough for him.
 One more question.
@@ -237,8 +237,8 @@ Thank you.
 She's a Replicant, isn't she?
 I'm impressed.
 How many questions does it usually take to spot one?
-- I don't get it, Tyrell.
-- How many questions?
+I don't get it, Tyrell.
+How many questions?
 Twenty, thirty, cross-referenced.
 It took more than a hundred for Rachael, didn't it?
 She doesn't know.
@@ -256,15 +256,15 @@ Memories.
 You're talking about memories.
 <i>Reaction time is a factor, so please pay attention.</i>
 <i>- Now answer as quickly as you can.
-- Sure.</i>
+Sure.</i>
 <i>- 1187 at Hunterwasser.
-- Yeah. That's the hotel.</i>
+Yeah. That's the hotel.</i>
 <i>- What?
-- Where I live.</i>
+Where I live.</i>
 <i>- Nice place?
-- Yeah, sure, I guess.</i>
+Yeah, sure, I guess.</i>
 <i>- Is that part of the test?
-- No.</i>
+No.</i>
 Kowalski.
 Time...
 ...enough.
@@ -318,12 +318,12 @@ Now...
 <i>Describe in single words...</i>
 <i>... only the good things that come into your mind about your mother.</i>
 <i>- My mother?
-- Yeah.</i>
+Yeah.</i>
 <i>I'll tell you about my mother.</i>
 <i>Voice print identification.
 Your floor number, please.</i>
 <i>- Deckard, 97.
-- 97. Thank you. Danke.</i>
+97. Thank you. Danke.</i>
 I wanted to see you.
 So I waited.
 Let me help you.
@@ -349,8 +349,8 @@ Orange body, green legs?
 Watched her build a web all summer?
 Then one day, there's a big egg in it.
 The egg hatched...
-- The egg hatched...
-- And?
+The egg hatched...
+And?
 ...and a hundred baby spiders came out.
 And they ate her.
 Implants.
@@ -372,10 +372,10 @@ You forgot your bag.
 I'm lost.
 Don't worry, I won't hurt you.
 What's your name?
-- Pris.
-- Mine's J.F. Sebastian.
-- Hi.
-- Hi.
+Pris.
+Mine's J.F. Sebastian.
+Hi.
+Hi.
 Oh, where were you going?
 Home?
 I don't have one.
@@ -399,8 +399,8 @@ No.
 Now.
 Yoo-hoo, home again.
 Home again, home again, jiggidy-jig.
-- Good evening, J.F.
-- Evening, fellas.
+Good evening, J.F.
+Evening, fellas.
 They're my friends. I made them.
 Where are your folks?
 I'm sort of an orphan.
@@ -448,10 +448,10 @@ This is your work, huh?
 Who did you sell it to?
 My work? Not too many could afford such quality.
 How many?
-- Very few.
-- How few?
-- Look, my friend...
-- Taffey Lewis'.
+Very few.
+How few?
+Look, my friend...
+Taffey Lewis'.
 Down in Fourth Sector, Chinatown.
 <i>Cross now. Cross now. Cross now.</i>
 <i>Cross now. Cross now. Cross now.</i>
@@ -459,8 +459,8 @@ Down in Fourth Sector, Chinatown.
 Bartender.
 Taffey Lewis?
 Thank you.
-- Taffey?
-- Yeah?
+Taffey?
+Yeah?
 I'd like to ask you a few questions.
 Blow.
 You ever buy snakes from the Egyptian, Taffey?
@@ -502,23 +502,23 @@ Well, like to get this job.
 <i>I mean, did you do, or were you asked to do, anything that's...</i>
 ...lewd or unsavory or...
 ...otherwise repulsive to your person, huh?
-- Are you for real?
-- Oh, yeah.
+Are you for real?
+Oh, yeah.
 I'd like to check your dressing room, if I may.
-- For what?
-- For holes.
+For what?
+For holes.
 Holes?
 Well, you'd be surprised what a guy would go through...
 ...to get a glimpse of a beautiful body.
 No, I wouldn't.
 Little...
 ...dirty holes they drill in the wall so they can watch a lady undress.
-- Is this a real snake?
-- Of course it's not real.
+Is this a real snake?
+Of course it's not real.
 Think I'd be working in a place like this if I could afford a real snake?
 So if somebody does try to exploit me, who do I go to about it?
-- Me.
-- You're a dedicated man. Dry me.
+Me.
+You're a dedicated man. Dry me.
 The only thing they care about...
 Hey!
 <i>Cross now. Cross now.</i>
@@ -551,8 +551,8 @@ I'm going home.
 Could learn from this guy, Gaff.
 He's a goddamn one-man slaughterhouse, that's what he is.
 Four more to go.
-- come on, Gaff, let's go.
-- Three.
+come on, Gaff, let's go.
+Three.
 There's three to go.
 There's four.
 That skin-job you vK'd at the Tyrell Corporation...
@@ -612,22 +612,22 @@ I want you.
 Again.
 I want you.
 Put your hands on me.
-- What you doing?
-- I'm sorry. Just peeking.
-- How do I look?
-- You look better.
-- Just better?
-- Well...
+What you doing?
+I'm sorry. Just peeking.
+How do I look?
+You look better.
+Just better?
+Well...
 ...you look beautiful.
 Thanks.
 How old are you?
 Twenty-five.
-- What's your problem?
-- Methuselah syndrome.
+What's your problem?
+Methuselah syndrome.
 What's that?
 My glands, they grow old too fast.
-- Is that why you're still on Earth?
-- Yeah. I couldn't pass the medical.
+Is that why you're still on Earth?
+Yeah. I couldn't pass the medical.
 Anyway...
 ...I kind of like it here.
 I like you...
@@ -673,17 +673,17 @@ I think, Sebastian...
 ...therefore, I am.
 Very good, Pris. Now show him why.
 We've got a lot in common.
-- What do you mean?
-- Similar problems.
+What do you mean?
+Similar problems.
 Accelerated decrepitude.
 I don't know much about bio-mechanics, Roy. I wish I did.
 <i>If we don't find help soon...</i>
 <i>...Pris hasn't got long to live.</i>
 We can't allow that.
-- Is he good?
-- Who?
-- Your opponent.
-- Oh, Dr. Tyrell?
+Is he good?
+Who?
+Your opponent.
+Oh, Dr. Tyrell?
 I've only beaten him once in chess. He's a genius.
 He designed you.
 Maybe he could help.
@@ -702,7 +702,7 @@ We're so happy you found us.
 66,000 Prosser & Ankovich.
 Trade.
 <i>- Trade at two...
-- Blue entry.</i>
+Blue entry.</i>
 <i>A Mr. J.F. Sebastian.</i>
 <i>16417.</i>
 <i>At this hour?</i>
@@ -736,8 +736,8 @@ Stay here.
 Had in mind something a little more radical.
 What...?
 What seems to be the problem?
-- Death.
-- Death.
+Death.
+Death.
 Well, I'm afraid that's a little out of my jurisdiction. You...
 I want more life...
 ...father.
@@ -782,15 +782,15 @@ Ninth Sector, NF46751.</i>
 <i>I want you to go down there and...</i>
 <i>This sector's closed to ground traffic. What're you doing here?</i>
 <i>- I'm working. What are you doing?
-- Arresting you, that's what I'm doing.</i>
+Arresting you, that's what I'm doing.</i>
 I'm Deckard, Blade Runner.
 26354. I'm filed and monitored.
 <i>Hold on. Checking.</i>
 <i>Okay. Checked and cleared. Have a better one.</i>
 <i>- Hello.
-- Hi. Is J.F. there?</i>
+Hi. Is J.F. there?</i>
 <i>- Who is it?
-- This is Eddie, old friend of J.F.'s.</i>
+This is Eddie, old friend of J.F.'s.</i>
 That's no way to treat a friend.
 Home again, home again, jiggidy-jig.
 Good evening, J.F.

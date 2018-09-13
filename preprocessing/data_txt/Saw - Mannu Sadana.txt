@@ -47,8 +47,8 @@ First dead body I've ever seen.
 They look different in real life.
 They don't move.
 From the looks of these chains, someone didn't want us to go very far, either.
-- Can you see any scars?
-- What?
+Can you see any scars?
+What?
 Ha? This is what they do man, they kidnap you and drug you... before you know what, you're lying in a bathtub and your kidneys are on eBay.
 No-one has taken your kidneys.
 How can you tell from way over there?
@@ -107,8 +107,8 @@ I don't get it.
 Throw me the player.
 No. You throw me your tape.
 Look, we're gonna have to work together, if we want to get out of here. Now just...
-- throw it to me.
-- I'm not gonna risk breaking it.
+throw it to me.
+I'm not gonna risk breaking it.
 You throw me your tape.
 <i>Dr. Gordon...</i>
 <i>this is your wake-up call.</i>
@@ -224,23 +224,23 @@ Okay...
 This patient has an inoperable frontal lobe tumor extending across the midline.
 It started as colon cancer.
 The patient has come in for a standard checkup, by which we are able to monitor the rate at which his condition is declining.
-- The patient had...
-- His name is John.
+The patient had...
+His name is John.
 Dr. Gordon. He's a very interesting person.
 Thank you for that information, Zep.
 As you can see, our orderlies form very special bonds with the patients.
-- Continuing on, the patient had...
-- Dr. Gordon...
+Continuing on, the patient had...
+Dr. Gordon...
 <i>Dr Lawrence Gordon, please page the operator.</i>
 Obviously, someone doesn't want me to tell you what the patient had! Excuse me.
 Dr. Gordon.
 I'm Detective Tapp, this is Detective Sing.
 City homicide.
-- Very impressive.
-- Oh, thank you.
+Very impressive.
+Oh, thank you.
 I do my best.
-- Sorry to interrupt you while you're working.
-- It's Fine.
+Sorry to interrupt you while you're working.
+It's Fine.
 Now, how can I help you gentlemen?
 Are you able to tell us where you were between the hours of 11 PM and 1 AM last night Doctor?
 Why is it that you're interested?
@@ -1028,8 +1028,8 @@ Most people are so ungrateful to be alive.
 But not you.
 Not any more.
 Aaargh! Aaargh!
-- Game over.
-- Aaargh!
+Game over.
+Aaargh!
 Aaargh! Aaargh!
 Don't! Don't!
 Don't! Aaargh!

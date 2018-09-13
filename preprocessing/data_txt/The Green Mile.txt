@@ -10,16 +10,16 @@ You make any noise, you know what happens.
 <font color="#808080">(TURNS OFF RADIO)</font>
 <font color="#808080">(WATER RUNNING)</font>
 Good morning, Estelle.
-- <font color="#804040">OLD MAN</font>: How am I looking, Paul?
-- That's better. That's better.
+<font color="#804040">OLD MAN</font>: How am I looking, Paul?
+That's better. That's better.
 <font color="#808080">(CHATTERING)</font>
 <font color="#804040">HECTOR</font>: Morning, Mr. Edgecomb.
 Some Danish this morning?
 No, just two pieces of dry toast,
 Hector. Thanks.
 Leftover's fine.
-- Dry and cold, same as always.
-- Cold is better.
+Dry and cold, same as always.
+Cold is better.
 Hmm.
 Especially on those long walks.
 Am I right?
@@ -55,8 +55,8 @@ You can't come back!
 <font color="#804040">MAN 2</font>:
 It's back. The Popeil Pocket Fisherman.
 <font color="#804040">WOMAN 4</font>: Take my husband, take my kids...
-- Are you all right?
-- Hmm?
+Are you all right?
+Hmm?
 You look tired. You're not yourself.
 No, I'm fine. I promise.
 You're wearing yourself out with those walks every day, I think.
@@ -141,8 +141,8 @@ You know better.
 Besides... it's not as bad as it was.
 I think it's clearing up.
 <font color="#808080">(HORN HONKS)</font>
-- All right. Let's look alive, Dean.
-- Yes, sir.
+All right. Let's look alive, Dean.
+Yes, sir.
 <font color="#808080">(HORN HONKS)</font>
 Damn.
 They're riding on the axle.
@@ -151,8 +151,8 @@ They bust the springs?
 Ho...
 Dead man!
 Dead man walking!
-- Who...?
-- We got a dead man walking here!
+Who...?
+We got a dead man walking here!
 Jesus, please us, what is he yelling about?
 Paul... you might reconsider getting in the cell with this guy.
 He's enormous.
@@ -166,8 +166,8 @@ Dead man walking here!
 Dead man!
 We got a dead man walking here!
 Dead man walking!
-- We got a dead man walking here!
-- <font color="#804040">PAUL</font>: Percy.
+We got a dead man walking here!
+<font color="#804040">PAUL</font>: Percy.
 That's enough.
 Am I gonna have any trouble with you, big boy?
 Can you talk?
@@ -178,8 +178,8 @@ Percy... they're moving house down in the infirmary.
 Why don't you go see if they could use some help.
 They got all the men they need.
 Why don't you just go and make sure.
-- Uh-uh.
-- I don't care where you go... as long as it's not here at this very moment.
+Uh-uh.
+I don't care where you go... as long as it's not here at this very moment.
 All right.
 <font color="#808080">(CHUCKLES)</font>
 Ow!
@@ -214,8 +214,8 @@ You can sit.
 I couldn't help it, boss.
 I tried to take it back, but it was too late.
 Dean, take Delacroix to the infirmary, see if those fingers are broken.
-- Yes, sir.
-- Of course they're broken.
+Yes, sir.
+Of course they're broken.
 I heard the bones crack.
 You hear what he was yelling when we brought the dummy in?
 How could I miss it?
@@ -226,14 +226,14 @@ I'll chew that food when I have to.
 Right now I wanna hear about this new inmate. Aside from how big he is, okay?
 Monstrous big. Damn.
 Oh, he seems meek enough.
-- Is he retarded, you figure?
-- <font color="#804040">PAUL</font>: Mm-hmm.
+Is he retarded, you figure?
+<font color="#804040">PAUL</font>: Mm-hmm.
 Looks like they sent us an imbecile to execute.
 Imbecile or not, he deserves to fry for what he done.
 Make your blood curdle.
 <font color="#808080">(WOMAN SCREAMING)</font>
-- What?! For God's sake, what?
-- The girls! The girls are gone!
+What?! For God's sake, what?
+The girls! The girls are gone!
 Papa!
 Papa, look! There's blood.
 Oh, my God.
@@ -300,8 +300,8 @@ I think he just wants to see one cook up close.
 Well, he'll get his chance, then.
 Wort he?
 Maybe then he'll be satisfied and move on. In the meantime...
-- you'll keep the peace?
-- Of course.
+you'll keep the peace?
+Of course.
 Of course.
 Thank you, Paul.
 Hal... you give Melinda my love, okay?
@@ -309,8 +309,8 @@ I'm sure that x-ray will turn out to be nothing at all.
 You bet.
 <font color="#808080">(BIG BAND MUSIC PLAYS)</font>
 <font color="#804040">JAN</font>: Paul.
-- Hey, you.
-- Hey.
+Hey, you.
+Hey.
 The music too loud?
 There's just this empty spot in the bed where my husband usually sleeps.
 He said to tell you he's having a little trouble with that tonight.
@@ -321,8 +321,8 @@ Things.
 We got a new inmate today.
 Simple-minded fella.
 Do I wanna know what he did?
-- No.
-- Mmm.
+No.
+Mmm.
 Things that happen in this world.
 It's a wonder God allows it.
 Why don't you come to bed.
@@ -330,8 +330,8 @@ I think I have something that'll help you sleep.
 You can have all you want.
 I still got something wrong with my waterworks.
 I don't wanna pass it on to you.
-- Have you seen Doc Bishop yet?
-- No.
+Have you seen Doc Bishop yet?
+No.
 <font color="#808080">(SIGHS)</font>
 Paul.
 He'll just want me to take sulfa tablets... and I'll spend the week puking in my office.
@@ -348,16 +348,16 @@ Come here. Go on.
 Look again.
 He's right... there.
 It ain't normal for a mouse to come up on people.
-- Maybe it's rabid.
-- <font color="#804040">BRUTAL</font>: Oh, my Christ.
-- Yeah, it could be.
-- Oh, the big mouse expert.
+Maybe it's rabid.
+<font color="#804040">BRUTAL</font>: Oh, my Christ.
+Yeah, it could be.
+Oh, the big mouse expert.
 The Mouse Man.
 You see him foaming at the mouth,
 Mouse Man?
 I don't see its mouth at all.
-- Brutal, no. We'll be hip-deep in mice.
-- I just wanna see what he'll do.
+Brutal, no. We'll be hip-deep in mice.
+I just wanna see what he'll do.
 In the interest of science, like.
 He's in the damn restraint room.
 And you just know he's chewing the padding out of the walls... making himself a nice little nest.
@@ -382,15 +382,15 @@ You little son of a bitch.
 <font color="#804040">HARRY</font>: Well, I'll be damned.
 There he is, big as Billy-be-frigged.
 I thought Brutal was pulling my leg.
-- That's a goddamn mouse.
-- Yeah.
+That's a goddamn mouse.
+Yeah.
 <font color="#804040">HARRY</font>:
 Brute said he was in here last night... begging for food.
 He come right on up to the desk.
-- Give him some room, Percy.
-- Huh?
-- See what he does.
-- All right.
+Give him some room, Percy.
+Huh?
+See what he does.
+All right.
 He's a brave little bastard.
 Gotta give him that.
 <font color="#808080">(YELLS)</font>
@@ -399,20 +399,20 @@ You little scurvy!
 Damn!
 Percy, are you crazy, you little son of a bitch?!
 I'm gonna kill you!
-- I'm gonna take you out!
-- Percy! Percy!
+I'm gonna take you out!
+Percy! Percy!
 You little vermin!
 I'm gonna stomp your life out!
 It's just a little mouse, dumb merde.
 You ugly little piece of sh...
-- <font color="#804040">HARRY</font>: Are you listening to me?
-- Fuck!
-- Percy!
-- I'm gonna rip your diseased head off... you little piece of shit!
-- <font color="#804040">PERCY</font>: Get on out of there!
-- <font color="#804040">HARRY</font>: I want you to stop this!
-- <font color="#804040">PRISONER 1</font>: Hey, boss!
-- <font color="#804040">PRISONER 2</font>: What's going on?
+<font color="#804040">HARRY</font>: Are you listening to me?
+Fuck!
+Percy!
+I'm gonna rip your diseased head off... you little piece of shit!
+<font color="#804040">PERCY</font>: Get on out of there!
+<font color="#804040">HARRY</font>: I want you to stop this!
+<font color="#804040">PRISONER 1</font>: Hey, boss!
+<font color="#804040">PRISONER 2</font>: What's going on?
 Percy met your mouse.
 It's in here somewhere. I'm gonna squish the little son of a bitch.
 Percy, we already tried that.
@@ -433,8 +433,8 @@ So what?
 They aren't in cradle school, in case you didn't notice.
 Although you treat them that way.
 We don't scare them any more than we have to, Percy.
-- They're under enough strain as it is.
-- Men under strain can snap.
+They're under enough strain as it is.
+Men under strain can snap.
 Hurt themselves and hurt others.
 That's why our job is... talking... not yelling.
 You'd do better to think of this place like an intensive care ward.
@@ -457,8 +457,8 @@ Sitting down, sitting down!
 Rehearsing now. Everybody settle!
 Arlen Bitterbuck, step forward.
 Stepping forward, stepping forward, stepping forward.
-- Is his head properly shaved?
-- Nope. It's all dandruffy, and it smells.
+Is his head properly shaved?
+Nope. It's all dandruffy, and it smells.
 I will take that as a yes.
 Let's go, Arlen.
 <font color="#804040">TOOT-TOOT</font>:
@@ -471,10 +471,10 @@ I've done and people I've tramped on.
 And I hope they forgive me... and I'll never do it again, that's for sure.
 Paul, we're not gonna have some
 Cherokee medicine man in here... hollering and shaking his dick, are we?
-- Well, actually...
-- <font color="#804040">TOOT-TOOT</font>: Still praying, still praying.
-- Getting right with Jesus.
-- Do it quietly! You old gink!
+Well, actually...
+<font color="#804040">TOOT-TOOT</font>: Still praying, still praying.
+Getting right with Jesus.
+Do it quietly! You old gink!
 As I was saying, I don't believe they actually shake their dicks.
 Mr. Bitterbuck is a Christian, so Reverend Schuster's coming in.
 He's good. He's fast too.
@@ -489,8 +489,8 @@ Sitting down now.
 Sitting down.
 I'm taking a seat in Old Sparky.
 What do I do?
-- Watch and learn.
-- <font color="#804040">TOOT-TOOT</font>: Watch and learn.
+Watch and learn.
+<font color="#804040">TOOT-TOOT</font>: Watch and learn.
 Getting strapped.
 Getting clamped.
 Getting wired.
@@ -509,8 +509,8 @@ You bastard.
 <font color="#804040">TOOT-TOOT</font>: That's a good one.
 Quiet.
 Quiet! Shut up!
-- Shut up!
-- Sorry, boss.
+Shut up!
+Sorry, boss.
 Toot, one more remark like that,
 I'll have Van Hay roll on two for real.
 And I'll have one less crazy old trustee.
@@ -603,8 +603,8 @@ Ooh, ooh. Watch this.
 Watch what he do.
 Ain't he something, now?
 He's smart, Mr. Jingles.
-- Mr. Jingles?
-- That his name.
+Mr. Jingles?
+That his name.
 He whispered in my ear.
 Hey, captain... could I have a box for my mouse so he can sleep in here with me?
 Your English gets better when you want something.
@@ -627,8 +627,8 @@ We play fetch again?
 <font color="#804040">PERCY</font>: Well, well, well.
 Looks like you found yourself a new friend.
 Don't hurt him.
-- Okay?
-- Is that the one I chased?
+Okay?
+Is that the one I chased?
 Yeah, that's the one.
 Only Del says his name is Mr. Jingles.
 Is that so?
@@ -673,8 +673,8 @@ Aah!
 Oh!
 Oh, God.
 I'm going.
-- What?
-- To see Dr. Bishop. I'm going.
+What?
+To see Dr. Bishop. I'm going.
 Today.
 Soon as we get that new inmate squared away.
 That bad?
@@ -706,8 +706,8 @@ E Block.
 <font color="#804040">DEAN</font>: Come on, let's go.
 Come on. Look alive, big boy.
 Careful.
-- Careful.
-- <font color="#804040">DEAN</font>: Step up. Step up.
+Careful.
+<font color="#804040">DEAN</font>: Step up. Step up.
 <font color="#808080">(GRUNTS)</font>
 <font color="#808080">(YELLING)</font>
 <font color="#808080">(PAUL GRUNTS)</font>
@@ -715,23 +715,23 @@ Careful.
 Where you going?
 Where you going?
 Ain't this a party now?
-- Is it or what?
-- Let him go.
-- Shoot him.
-- See who you hit.
-- Shoot the son of a bitch.
-- Shoot me!
-- Shoot him!
-- Hit him, Percy! Goddamn it! Hit him.
+Is it or what?
+Let him go.
+Shoot him.
+See who you hit.
+Shoot the son of a bitch.
+Shoot me!
+Shoot him!
+Hit him, Percy! Goddamn it! Hit him.
 Hit me, you limp noodle.
 Hit him, Percy!
 Goddamn it, hit him!
-- Come on, Percy. Hit me.
-- Wharton, I'm warning you.
-- You warning me? Warn me now.
-- I'm warning you!
-- You're warning me?!
-- <font color="#804040">DEAN</font>: Shoot him!
+Come on, Percy. Hit me.
+Wharton, I'm warning you.
+You warning me? Warn me now.
+I'm warning you!
+You're warning me?!
+<font color="#804040">DEAN</font>: Shoot him!
 Well, come on...
 <font color="#808080">(GROANS)</font>
 You're a big fucker.
@@ -743,8 +743,8 @@ All right. Now, just breathe.
 That's it. Just breathe.
 Just breathe.
 Breathe. Breathe, boy.
-- <font color="#804040">DEAN</font>: Didrt see it coming.
-- Come on, boy, breathe.
+<font color="#804040">DEAN</font>: Didrt see it coming.
+Come on, boy, breathe.
 Come on. Just breathe.
 We thought he was doped.
 Didn't we? Didn't we, all of us, think he was doped?
@@ -779,8 +779,8 @@ Just to help it.
 Help!
 Help! John Coffey's killing Boss Edgecomb!
 Help!
-- What are you doing?
-- <font color="#804040">DEL</font>: Help!
+What are you doing?
+<font color="#804040">DEL</font>: Help!
 Boss Howell!
 Help!
 Boss Stanton!
@@ -817,13 +817,13 @@ Well, I know what it feels like.
 It feels great.
 <font color="#808080">(JAN MOANING)</font>
 <font color="#808080">(PAUL MOANING)</font>
-- Paul.
-- Yeah?
-- Not that I'm complaining...
-- Uh-huh.
+Paul.
+Yeah?
+Not that I'm complaining...
+Uh-huh.
 But we haven't gone four times in one night since we were 19.
-- Yeah, we did, at your mom's.
-- Mm-hmm.
+Yeah, we did, at your mom's.
+Mm-hmm.
 Wanna tell me what's going on?
 Well... see, the thing is...
 I never actually made it in to Dr. Bishop's yesterday.
@@ -847,12 +847,12 @@ The Green Mile.
 Yeah, I've heard of it.
 Lost a few clients your way.
 I'd like to ask you about one of them.
-- Have a seat.
-- Thank you.
+Have a seat.
+Thank you.
 Which client?
 Now you got my curiosity aroused.
-- John Coffey.
-- Ah.
+John Coffey.
+Ah.
 Coffey.
 He causing you problems?
 No. Can't say he is. He doesn't like the dark and cries on occasion... but other than that...
@@ -860,8 +860,8 @@ He cries, does he?
 Well, got a lot to cry about, I'd say.
 You know what he did.
 I read the court transcript.
-- Thank you, missus.
-- My pleasure.
+Thank you, missus.
+My pleasure.
 Kids! Lunch is about ready.
 Y'all come on up.
 <font color="#804040">TOGETHER</font>: Coming, Mama!
@@ -1011,8 +1011,8 @@ Not in there. Not in there.
 I'll be good.
 Honest injun, I will. I will.
 <font color="#808080">(GURGLING)</font>
-- Christ, he's pitching a fit.
-- He'll be fine, boys. Trust me on this.
+Christ, he's pitching a fit.
+He'll be fine, boys. Trust me on this.
 One, two, three.
 Hey. Hey!
 <font color="#808080">(SCREAMING)</font>
@@ -1073,14 +1073,14 @@ Very good. Very professional.
 Let's do it again.
 You got all the words right.
 It sounded just fine.
-- Thank you.
-- Yep.
+Thank you.
+Yep.
 It's hard to keep a straight face when Toot's acting the goat.
 You got that chin strap tight because his head will buck...
 All right, break it up.
 <font color="#808080">(DEL LAUGHING)</font>
-- So?
-- Oh, they love Mr. Jingles.
+So?
+Oh, they love Mr. Jingles.
 They laugh over there.
 They cheer. They clap their hands.
 Well, that's just aces.
@@ -1088,18 +1088,18 @@ Isn't that something?
 You done good, old-timer.
 We're happy for you.
 Yeah, we are.
-- Boo!
-- Aah!
+Boo!
+Aah!
 Percy, you shit.
 Come on. Del, get up.
 Del, you numb-wit.
 I didn't mean nothing by it.
 I was just playing. Come on, now.
 I was just having... Aah!
-- Ain't you sweet.
-- <font color="#804040">PAUL</font>: Wharton.
-- Soft like a girl.
-- Let him go.
+Ain't you sweet.
+<font color="#804040">PAUL</font>: Wharton.
+Soft like a girl.
+Let him go.
 I'd rather fuck your asshole... than your sister's pussy, I think.
 Wharton!
 <font color="#808080">(MOANING)</font>
@@ -1114,8 +1114,8 @@ Ooh, but smell you.
 He done piss his pants.
 Oh, my God.
 Look what the big man done.
-- He bust other people with a stick.
-- Come on, get in.
+He bust other people with a stick.
+Come on, get in.
 <font color="#808080">(SPEAKS FRENCH)</font>
 Somebody touch him, he make water in his pants like a little baby.
 Del!
@@ -1147,22 +1147,22 @@ Thank you kindly, but... you live out in the woods.
 Mr. Jingle, he be...
 He be scared to live out in the big woods.
 How about Mouseville?
-- Mouseville?
-- Tourist attraction down in Florida.
+Mouseville?
+Tourist attraction down in Florida.
 Tallahassee, I think.
-- Is that right, Paul? Tallahassee?
-- Yeah. Tallahassee.
+Is that right, Paul? Tallahassee?
+Yeah. Tallahassee.
 It's just down the road a piece from the dog university.
 You think they'd take Mr. Jingles?
-- You think he's got the stuff?
-- Well, he is pretty smart.
+You think he's got the stuff?
+Well, he is pretty smart.
 What is Mouseville?
 Tourist attraction, I said.
 They got this big tent you go into.
-- You have to pay?
-- Are you shitting me? Course you pay.
-- Dime apiece. Two cents for the kids.
-- For the kids.
+You have to pay?
+Are you shitting me? Course you pay.
+Dime apiece. Two cents for the kids.
+For the kids.
 Inside the tent they got this... mouse city... made out of... old boxes and toilet paper rolls, little windows so you can look in.
 Plus, they got the Mouseville All-Star Circus.
 Yeah, there's mice that swing on trapeze.
@@ -1176,8 +1176,8 @@ There he goes.
 No!
 Mr. Jingles!
 No! No! No!
-- You kill my mouse.
-- I knew I'd get him sooner or later.
+You kill my mouse.
+I knew I'd get him sooner or later.
 It was just a matter of time, really.
 <font color="#804040">DEL</font>: You fucking cruel bastard!
 Give him to me.
@@ -1215,8 +1215,8 @@ Huh?
 I heard the goddamn thing crunch.
 Arert you glad Mr. Jingles is okay?
 After all those talks we had about... keeping the prisoners calm?
-- Arert you relieved?
-- What kind of game is this?
+Arert you relieved?
+What kind of game is this?
 It's no game.
 See for yourself.
 Go on.
@@ -1234,11 +1234,11 @@ Percy, I want your word.
 My word?
 I put you out front for Del... you put in your transfer to Briar Ridge the very next day.
 Well, what if I just call up certain people and tell them you're harassing me?
-- Bullying me.
-- Go ahead.
+Bullying me.
+Go ahead.
 I promise you'll leave your share of blood on the floor.
-- Over a mouse?
-- No.
+Over a mouse?
+No.
 But four men will swear you stood by... while Wild Bill tried to strangle Dean to death.
 About that, people will care. Even your uncle the governor will care about that.
 Thing like that goes on your work record.
@@ -1264,8 +1264,8 @@ Yeah.
 Yeah, you take him, John. You take him till this foolishment be done.
 You gonna take him to Florida, to that Mouseville?
 We'll do it together, most likely.
-- Maybe take a little vacation time.
-- Yeah.
+Maybe take a little vacation time.
+Yeah.
 People pay a dime apiece to see him.
 Two cents for the kids.
 Ain't that right, Boss Howell?
@@ -1305,8 +1305,8 @@ Roll on two!
 <font color="#808080">(WHISPERS)</font>
 The sponge is dry.
 What?
-- The goddamn sponge is dry!
-- Well, don't you stop it!
+The goddamn sponge is dry!
+Well, don't you stop it!
 Don't you do it!
 It's too late for that.
 <font color="#808080">(SCREAMING)</font>
@@ -1326,10 +1326,10 @@ I'm smelling gumbo!
 I'm smelling...
 I said, give me some!
 I smell it!
-- Aah!
-- Smell it!
-- Should I kill the juice?
-- No! Roll, for chrisssake, roll!
+Aah!
+Smell it!
+Should I kill the juice?
+No! Roll, for chrisssake, roll!
 <font color="#808080">(CROWD MOANING)</font>
 He's frying now!
 He's frying now!
@@ -1347,8 +1347,8 @@ I didn't know the sponge is supposed to be wet.
 Aah!
 Brutal!
 Brutal, no!
-- No!
-- What do you mean, no?
+No!
+What do you mean, no?
 You saw what he did!
 Delacroix's dead!
 Percy is not won'th it!
@@ -1373,8 +1373,8 @@ Isn't he?
 Percy... something to say?
 I didn't know the sponge is supposed to be wet.
 How many years you spend pissing on a toilet seat...
-- before someone told you to put it up?
-- Percy fucked up, Hal.
+before someone told you to put it up?
+Percy fucked up, Hal.
 Pure and simple.
 That's your official position?
 Don't you think it should be?
@@ -1426,8 +1426,8 @@ I am so happy to see you.
 Look at you.
 We missed you at church.
 My hair...
-- You look fine.
-- I'm just a mess.
+You look fine.
+I'm just a mess.
 She's having one of her good days.
 I thank God for that.
 What's a bad day?
@@ -1455,8 +1455,8 @@ I'm glad you're enjoying it.
 Hey, Brutal, you gonna hog all them taters?
 Yes, I am.
 Harry, you want some potatoes?
-- Come on, now.
-- What?
+Come on, now.
+What?
 <font color="#804040">JAN</font>: Soon we'll just see your feet sticking out of there, Brutus.
 You all saw what he did to the mouse.
 I could've gone the rest of the day without you bringing that up.
@@ -1472,13 +1472,13 @@ I am.
 Oh, yeah.
 Well, if you say it, I accept it.
 What's it got to do with us?
-- You're thinking about Melinda.
-- Melinda?
-- Melinda Moores?
-- Yeah. So, Paul... you really think you can help her?
+You're thinking about Melinda.
+Melinda?
+Melinda Moores?
+Yeah. So, Paul... you really think you can help her?
 It's not a bladder infection or even a busted mouse...
-- but there might be a chance.
-- Hold on now.
+but there might be a chance.
+Hold on now.
 You're talking about our jobs.
 Sneak a sick woman into a cellblock?
 Oh, no. No, no.
@@ -1486,8 +1486,8 @@ Hal would never stand for that.
 You know him. He wouldn't believe anything if it fell on him.
 So you're talking about... taking John Coffey to her.
 That's more than just our jobs, Paul.
-- That's prison time, we get caught.
-- Dang right it is.
+That's prison time, we get caught.
+Dang right it is.
 <font color="#804040">PAUL</font>: No, not for you, Dean.
 The way I figure it, you stay back on the Mile.
 That way, you can deny everything.
@@ -1498,8 +1498,8 @@ Brutal's a single man.
 You're the only one here with two children, another one on the way.
 Let's not discuss this as if we're thinking of doing it.
 Brutal, help me out here.
-- I'm sure she's a fine woman.
-- The finest.
+I'm sure she's a fine woman.
+The finest.
 What is happening to her is an offense, Brutal... to the eye and the ear and to the heart.
 I have no doubt.
 But we don't know her like you and Jan do.
@@ -1519,18 +1519,18 @@ I'd insist on that.
 If he tried anything, anything at all... we'd have to take him down.
 You understand?
 So... tell us what you had in mind.
-- <font color="#804040">PAUL</font>: Oh, there it is.
-- <font color="#804040">BRUTAL</font>: Oh, I see it.
+<font color="#804040">PAUL</font>: Oh, there it is.
+<font color="#804040">BRUTAL</font>: Oh, I see it.
 You think this is enough?
 I don't know.
 You fellas thirsty?
 Fresh out of the icebox.
-- You bet. That's swell, Brutal. Thanks.
-- <font color="#804040">BRUTAL</font>: Oh, yeah.
+You bet. That's swell, Brutal. Thanks.
+<font color="#804040">BRUTAL</font>: Oh, yeah.
 <font color="#804040">HARRY</font>: Hot in here. Boy, howdy.
 Hey, hey. I'm gonna get some too, ain't I?
-- My ass, you get some too.
-- What makes you think you deserve any?
+My ass, you get some too.
+What makes you think you deserve any?
 Because I got a big pecker.
 Well, the day report says he's been okay.
 <font color="#804040">WHARTON</font>: Hell, yeah, I been behaved.
@@ -1545,8 +1545,8 @@ It's hot in this cell, and I'm dogged to drink. I'm thirsty.
 Why don't you give me some?
 Come on.
 You gonna stay behaved?
-- Come on, you clunk, give me that.
-- You promise me... or I'll drink this myself right here.
+Come on, you clunk, give me that.
+You promise me... or I'll drink this myself right here.
 Don't... Come on, now.
 Don't be that way.
 I'll be good.
@@ -1560,20 +1560,20 @@ We gonna do this?
 I'd like to take a ride.
 Guess we're all in.
 What is this?
-- Payback.
-- <font color="#804040">BRUTAL</font>: That's right.
+Payback.
+<font color="#804040">BRUTAL</font>: That's right.
 <font color="#808080">(GRUNTING)</font>
-- No, you let me go! Let go of me!
-- Settle down.
-- Let go!
-- Settle down.
-- What are you doing?
-- Settle down.
+No, you let me go! Let go of me!
+Settle down.
+Let go!
+Settle down.
+What are you doing?
+Settle down.
 Ooh.
-- "Miss Lotta Leadpipe."
-- <font color="#804040">BRUTAL</font>: Oh, Percy.
-- What would your mother say?
-- You let go of me, you ignoramus.
+"Miss Lotta Leadpipe."
+<font color="#804040">BRUTAL</font>: Oh, Percy.
+What would your mother say?
+You let go of me, you ignoramus.
 I know people. Big people!
 Percy, stick out your arms like a good lad.
 No, I won't do it.
@@ -1625,8 +1625,8 @@ Niggers ought to have their own electric chair.
 White man... ought not to have to sit in no nigger electric chair. No, sir.
 He a bad man.
 Look, boss.
-- It's Cassie, the lady in the rocking chair.
-- Shh!
+It's Cassie, the lady in the rocking chair.
+Shh!
 <font color="#808080">(WHISPERS)</font>
 John, we have to be quiet now.
 <font color="#808080">(WHISPERS)</font>
@@ -1651,44 +1651,44 @@ We can still turn back.
 Boss, look. Someone's up.
 <font color="#808080">(SIGHS)</font>
 This was a mistake.
-- Oh, Christ, what were we thinking?
-- It's too late now. John, you stay.
+Oh, Christ, what were we thinking?
+It's too late now. John, you stay.
 Harry, you keep John here till we call you.
 Who the hell goes there at 2:30 in the goddamn morning?
 Hal, it's us. It's Paul and Brutal.
-- It's us.
-- Jesus.
+It's us.
+Jesus.
 It isn't a lockdown, is it?
 Or a riot?
 No. Hal, for God's sakes, just take your finger off the trigger.
 Are you hostages?
 Who's out there?
-- Who's by that truck?
-- Harry, the lights!
+Who's by that truck?
+Harry, the lights!
 John Coffey.
-- Halt!
-- <font color="#804040">PAUL</font>: Hal.
-- You stay where you are!
-- Relax, now. Take it easy, now.
-- Don't you move!
-- Wait!
-- I'm warning you.
-- John, wait!
-- <font color="#804040">PAUL</font>: Hal, listen!
-- Halt or I'll shoot!
-- I said, halt! Halt!
-- <font color="#804040">PAUL</font>: Hal, put the gun down!
-- Hal.
-- <font color="#804040">MELINDA</font>: Hal!
+Halt!
+<font color="#804040">PAUL</font>: Hal.
+You stay where you are!
+Relax, now. Take it easy, now.
+Don't you move!
+Wait!
+I'm warning you.
+John, wait!
+<font color="#804040">PAUL</font>: Hal, listen!
+Halt or I'll shoot!
+I said, halt! Halt!
+<font color="#804040">PAUL</font>: Hal, put the gun down!
+Hal.
+<font color="#804040">MELINDA</font>: Hal!
 Hal, who you talking to down there?
-- <font color="#804040">MELINDA</font>: Goddamn it!
-- Hal, now, nobody is hurt.
+<font color="#804040">MELINDA</font>: Goddamn it!
+Hal, now, nobody is hurt.
 And we are here to help.
 Help what?
 I don't understand.
 You're just gonna have to trust me.
-- What do you want?
-- <font color="#804040">MELINDA</font>: Hal!
+What do you want?
+<font color="#804040">MELINDA</font>: Hal!
 Make them go away!
 I don't want no salesmen... in the middle of the night.
 Tell them to take a flying fuck at a rolling...
@@ -1696,14 +1696,14 @@ Tell them to take a flying fuck at a rolling...
 Just to help, boss. That's all.
 You can't. No one can.
 <font color="#808080">(MELINDA CRYING AND MOANING)</font>
-- <font color="#804040">MELINDA</font>: Stay out of here!
-- Don't you go in there!
-- Whoever you are, just stay out!
-- Don't you do it!
+<font color="#804040">MELINDA</font>: Stay out of here!
+Don't you go in there!
+Whoever you are, just stay out!
+Don't you do it!
 I'm not dressed for visitors.
 You stop now. You hear me?
-- Paul, I don't want him up there.
-- <font color="#804040">COFFEY</font>: Boss... you just be quiet now.
+Paul, I don't want him up there.
+<font color="#804040">COFFEY</font>: Boss... you just be quiet now.
 It's all right, Hal. It's all right.
 Hal, watch. Just watch him.
 Don't come near me, pig fucker.
@@ -1777,16 +1777,16 @@ Let's just get him back on the Mile.
 Am I happy to see you.
 You were gone so long.
 Wild Bill's making noise like he's waking up.
-- What the hell happened to him?
-- He's hurting, Dean. He's hurting bad.
+What the hell happened to him?
+He's hurting, Dean. He's hurting bad.
 Okay, John. We gonna... set you down on your bed now.
 Here we go.
 Well?
 What about Mrs. Moores?
 Was it like the mouse?
 Was it...
-- you know, a miracle?
-- Yes.
+you know, a miracle?
+Yes.
 Yes, it was.
 Damn.
 Now...
@@ -1798,15 +1798,15 @@ Mmm! Mmm!
 Guess she was wrong.
 <font color="#808080">(COUGHING)</font>
 Let me out of this nut-coat.
-- In a minute.
-- Now!
+In a minute.
+Now!
 Right now!
 I want out now...! Aah!
 Shut up and listen.
 You deserved to be punished for what you did to Del. Accept it like a man.
 Or else we'll make you sorry you were ever born. We'll tell people...
-- how you sabotaged Del's execution...
-- Sabotaged?
+how you sabotaged Del's execution...
+Sabotaged?
 How you pissed yourself like a frightened little girl. Yes, we will talk.
 But, Percy... you mind me, now.
 We'll also see you beaten within an inch of your life.
@@ -1825,15 +1825,15 @@ Oh, I intend to.
 I intend to think it over very hard.
 Starting right now.
 He'll talk. Sooner or later.
-- <font color="#804040">HARRY</font>: Hey, let him go!
-- <font color="#804040">PAUL</font>: John, let go!
-- Let go, John!
-- <font color="#804040">BRUTAL</font>: John, goddamn it! Let him go!
+<font color="#804040">HARRY</font>: Hey, let him go!
+<font color="#804040">PAUL</font>: John, let go!
+Let go, John!
+<font color="#804040">BRUTAL</font>: John, goddamn it! Let him go!
 <font color="#804040">PAUL</font>: Let go, John! No!
-- Aah!
-- <font color="#804040">PAUL</font>: Back off!
-- <font color="#804040">PAUL</font>: John, stop it! Stop it, John!
-- Let him go! Back off!
+Aah!
+<font color="#804040">PAUL</font>: Back off!
+<font color="#804040">PAUL</font>: John, stop it! Stop it, John!
+Let him go! Back off!
 John, let him go!
 <font color="#808080">(EXHALES)</font>
 <font color="#808080">(MOUTHS)</font>
@@ -1873,11 +1873,11 @@ You see for yourself.
 Please.
 <font color="#808080">(GROANING)</font>
 No, no.
-- Please.
-- I gots to, boss.
+Please.
+I gots to, boss.
 I gots to give you a little bit of myself.
-- A gift.
-- <font color="#808080">(CHILDREN LAUGHING)</font>
+A gift.
+<font color="#808080">(CHILDREN LAUGHING)</font>
 A gift of what's inside of me so you can see for yourself.
 <font color="#808080">(GIRLS SINGING)</font>
 <font color="#808080">(INAUDIBLE)</font>
@@ -1909,11 +1909,11 @@ That's the way it is all over the world.
 <font color="#808080">(GRUNTS)</font>
 <font color="#804040">MAN 1</font>: Percy.
 <font color="#804040">MAN 2</font>: Percy Wetmore.
-- <font color="#804040">MAN 1</font>: Son?
-- Percy. Percy Wetmore.
+<font color="#804040">MAN 1</font>: Son?
+Percy. Percy Wetmore.
 Son?
-- Son, can you hear me?
-- Speak up if you can hear us.
+Son, can you hear me?
+Speak up if you can hear us.
 I think this boy's cheese slid off his cracker.
 <font color="#804040">MAN 2</font>: Percy, I got to ask you a few questions.
 <font color="#804040">DEAN</font>: That's right. One minute, he was fine, and the next, blammo.
@@ -1930,8 +1930,8 @@ Does Hal know?
 That Coffey's innocent, I mean.
 Well, can he help?
 Does he have the influence to do something about this?
-- Stop the execution?
-- No.
+Stop the execution?
+No.
 Then don't tell him.
 If it can't help, don't tell him.
 Ever.
@@ -2076,8 +2076,8 @@ It was all right.
 "Catch them young" became my motto.
 You don't believe me.
 I don't imagine you'd lie to me, Paul.
-- It's just that...
-- It's quite a story.
+It's just that...
+It's quite a story.
 It's quite a story.
 One thing I don't understand.
 You said you and Jan... had a grown son in 1935.

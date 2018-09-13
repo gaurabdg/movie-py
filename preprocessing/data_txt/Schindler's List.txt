@@ -10,8 +10,8 @@ Veshabat kodsho behavat razone.
 Henchaltanoe.
 Barooch ata adony mekadesh hasabat.
 [ Train Whistle Blowing ]
-- Name ?
-- Horowitz, Salomon.
+Name ?
+Horowitz, Salomon.
 [ Indistinct Talking,
 Various Languages ]
 Schneider, Sarah.
@@ -21,23 +21,23 @@ Indistinct Talking ]
 Over there.
 Over there !
 Kommen Sie Doch.
-- Isak Hudes.
-- Hudes, Isak.
+Isak Hudes.
+Hudes, Isak.
 Zucker, Helena.
 Zucker, Helena.
 Hirsch, Salomon ?
 Mandel, Maria. Hirsch,
 Salomon.
-- Hauptman, Chaim !
-- Weisman ! Weisman, Marcus !
-- Feber, Ludwig !
-- Feber, Ludwig.
+Hauptman, Chaim !
+Weisman ! Weisman, Marcus !
+Feber, Ludwig !
+Feber, Ludwig.
 Elsa Bauman.
 -Josef Klein.
-- Klein.
-- Davidowich, Ignacy.
-- Paula Biffer.
-- Nadel, Rachela.
+Klein.
+Davidowich, Ignacy.
+Paula Biffer.
+Nadel, Rachela.
 Steiner, Gertruda.
 Steiner, Hilda.
 ## [ ''Gloomy Sunday'' ]
@@ -306,8 +306,8 @@ From time to time.
 Achtung ! Achtung !
 [ Children Crying ]
 [ Officers ]
-- Name ? Adresse ?
-- Formular ausfuellen !
+Name ? Adresse ?
+Formular ausfuellen !
 Weiter, weiter.!
 Nicht draengeln.!
 Kommen Sie hierher.!
@@ -858,8 +858,8 @@ My apologies.
 Stop the train !
 He's here !
 I apologize.
-- Stop the train !
-- Stop the train ! Stop it !
+Stop the train !
+Stop the train ! Stop it !
 Sign here.
 Initial there.
 [ Whistle Blowing ]
@@ -1201,14 +1201,14 @@ There's not enough room for you.
 What are you talking about ?
 We tried it before.
 There's more than enough room.
-- I changed my mind !
-- Mama !
+I changed my mind !
+Mama !
 Look at the space in there.
 Now look at me.
 You are just scared.
 I can fit the girl, but not you.
-- Mama, I'm coming out !
-- Stay where you are.
+Mama, I'm coming out !
+Stay where you are.
 I'd rather you be here than who knows where.
 Mama.!
 [ Soldiers Shouting
@@ -1566,8 +1566,8 @@ Good luck.
 ## [ Music, Shouting
 Continue ]
 Achtung, Muetzen ab.!
-- Work !
-- An die Arbeit.!
+Work !
+An die Arbeit.!
 What are you making ?
 Hinges, sir.
 Ja, I've got some workers coming in tomorrow.
@@ -1953,19 +1953,19 @@ No, I don't think so.
 You're a Jewish bitch.
 You nearly talked me into it,
 Helen, didn't you ?
-- Bravo.
-- [ Chattering ]
+Bravo.
+[ Chattering ]
 [ Gasps ]
 [ Grunts ]
-- [ Chattering Continues ]
-- [ Grunting Continues ]
-- [ Applause Continues ]
-- [ Goeth Yelling ]
+[ Chattering Continues ]
+[ Grunting Continues ]
+[ Applause Continues ]
+[ Goeth Yelling ]
 [ Guests Shouting ]
 Hoch .! Hoch .! Hoch .!
 ####[ Violin ]
-- Jawohl.!
-- Hoch.! Hoch.!
+Jawohl.!
+Hoch.! Hoch.!
 Hoch !
 [ Laughing ]
 [ Music, Talking Stops ]
@@ -2219,8 +2219,8 @@ What do you say we get your fire hoses out here and hose down the cars ? Thank y
 Indulge me.
 Hujar.
 Yes, sir.
-- Go bring the fire hoses.
-- Where's the fire ?
+Go bring the fire hoses.
+Where's the fire ?
 [ Laughing ]
 [ Schindler ]
 In the windows.
@@ -2370,8 +2370,8 @@ Nothing bad is going to happen to you there. You'll receive special treatment.
 The directives coming in from Berlin mention ''Special Treatment'' more and more often.
 I'd like to think that's not what you mean.
 Preferential treatment.
-- Do we have to invent a whole new language ?
-- I think so.
+Do we have to invent a whole new language ?
+I think so.
 You're staying,
 I take it.
 In Krakow ? What on earth for ?
@@ -2695,7 +2695,7 @@ Move the line.!
 'Raus mit euch !
 Hopp, hopp.!
 ...bagaze w wagonach.!
-- Dalli.! 'Rausgehen.!
+Dalli.! 'Rausgehen.!
 -Schneller.!
 Zostawcie bagaze w wagonach.!
 Schneller.!
@@ -2828,8 +2828,8 @@ Mach schon.! Voran.!
 Los, los, los.!
 Schneller.!
 [ Soldiers ]
-- Schneller !
-- Bewegt euch !
+Schneller !
+Bewegt euch !
 Bojcie sie !
 Bojcie sie !
 No ! No ! No !

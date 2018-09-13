@@ -40,10 +40,10 @@ So, who talks first?
 You talk first? I talk first?
 <i>The old man gave it to you.</i>
 It's just very hard to understand you with all the...
-- Search him.
+Search him.
 -...apparatus.
 <i>- Nothing, sir.
-- Put him on board.</i>
+Put him on board.</i>
 <i>PHASMA". Sir, the villagers?</i>
 <i>- Kill them all.</i>
 <i>On my command.</i>
@@ -84,7 +84,7 @@ Not really.
 <i>what you did with the map.</i>
 You might want to rethink your technique.
 <i>POE GRUNTS)
-- Where is it?</i>
+Where is it?</i>
 The Resistance... will not be intimidated by you.
 <i>Where... is it?</i>
 <i>It's in a droid. A BB unit.</i>
@@ -119,8 +119,8 @@ This is a rescue. I'm helping you escape.
 Can you fly a TIE fighter?
 You're with the Resistance?
 What? No, no, no. I'm breaking you out.
-- Can you fly a TIE fighter?
-- I can fly anything.
+Can you fly a TIE fighter?
+I can fly anything.
 Why? Why are you helping me?
 Because it's the right thing to do.
 You need a pilot.
@@ -128,18 +128,18 @@ I need a pilot.
 We're gonna do this.
 Yeah?
 <i>Okay. Stay calm. Stay calm.</i>
-- I <i>am calm.
-- I'm talking to myself.</i>
+I <i>am calm.
+I'm talking to myself.</i>
 <i>Not yet.</i>
 <i>Okay, go. This way.</i>
 I've always wanted to fly one of these things.
-- Can you shoot?
-- Blasters, I can.
+Can you shoot?
+Blasters, I can.
 Okay, same principle.
 Use the toggle on the left... to switch between missiles, cannons and mag pulse.
 Use the sight on the right to aim.
-- Triggers to fire.
-- This is very complicated.
+Triggers to fire.
+This is very complicated.
 I can fix this.
 We have an unsanctioned departure from bay two.
 Alert General Hux. And stop that fighter.
@@ -147,31 +147,31 @@ Fourteen failed. Eighteen...
 <i>I</i> got it.
 This thing really moves.
 We gotta take out as many of these cannons as we can... or we're not gonna get very far.
-- All right.
-- I'm gonna get us in position.
+All right.
+I'm gonna get us in position.
 Just stay sharp.
 Up ahead! Up ahead! You see it?
 I got us dead center.
 -It's a clean shot.
-- Okay, got it.
-- Yeah!
-- Yes!
+Okay, got it.
+Yeah!
+Yes!
 Did you see that?
-- Did you see that?
-- I saw it!
+Did you see that?
+I saw it!
 Hey, what's your name?
 FN-2187.
 F... What?
 That's the only name they ever gave me.
 Well, I ain't using it. F-N, huh?
 Finn. I'm gonna call you Finn.
-- Is that all right?
-- Finn.
+Is that all right?
+Finn.
 Yeah. Finn, I like that.
-- I like that.
-- I'm Poe. Poe Dameron.
-- Good to meet you, Poe.
-- Good to meet you too, Finn.
+I like that.
+I'm Poe. Poe Dameron.
+Good to meet you, Poe.
+Good to meet you too, Finn.
 Sir, they've taken out our turbolasers.
 Use the ventral cannons.
 Yes, sir. Bringing them online.
@@ -183,8 +183,8 @@ Sir, ventral cannons hot.
 Fire.
 One's coming toward you!
 My right. Your left.
-- Do you see it?
-- Hold on.
+Do you see it?
+Hold on.
 I see him!
 Nice shot!
 Where are we going?
@@ -193,8 +193,8 @@ That's where.
 No. We can't go back to Jakku.
 We need to get out of this system.
 I gotta get my droid before the First Order does.
-- What, a droid?
-- That's right.
+What, a droid?
+That's right.
 He's a BB unit, orange and white. One of a kind.
 I don't care what color he is!
 No droid can be that important.
@@ -208,8 +208,8 @@ Oh, you gotta be kidding me!
 No prior signs of nonconformity?
 <i>This was his first offense.</i>
 General!
-- They've been hit.
-- Destroyed?
+They've been hit.
+Destroyed?
 Disabled.
 They were headed back to Jakku.
 The fighter is projected to crash in the Goazon badlands.
@@ -245,16 +245,16 @@ That guy that wanted you.
 He must have really wanted you.
 REYI Who?
 Him?
-- What's your hurry, thief?
-- What? Thief?
-- Ow!
-- Hey, what?
-- The jacket.
+What's your hurry, thief?
+What? Thief?
+Ow!
+Hey, what?
+The jacket.
 This droid says you stole it.
 I've had a pretty messed up day, all right?
 So I'd appreciate it... if you stop accusing me of...
-- Ow! Stop it!
-- Where'd you get it?
+Ow! Stop it!
+Where'd you get it?
 It belongs to his master.
 It belonged to Poe Dameron.
 That was his name, right?
@@ -276,11 +276,11 @@ Apparently, he has a map that leads to Luke Skywalker... and everyone's after it
 Luke Skywalker?
 I thought he was a myth.
 What?
-- What are you doing?
-- Come on.
+What are you doing?
+Come on.
 Come on, BB-8!
-- Let go of me!
-- Come on, we gotta move!
+Let go of me!
+Come on, we gotta move!
 I know how to run without you holding my hand!
 BB-8, stay close!
 This way.
@@ -289,8 +289,8 @@ Come on!
 They're shooting at both of us.
 Yeah. They saw you with me.
 You're marked.
-- Well, thanks for that.
-- Hey!
+Well, thanks for that.
+Hey!
 I'm not the one who chased you down with a stick.
 Does anyone have blasters around here?
 Are you okay?
@@ -299,8 +299,8 @@ Hey-
 Are you okay?
 Yeah.
 Follow me.
-- We can't outrun them!
-- We might... in that quadjumper!
+We can't outrun them!
+We might... in that quadjumper!
 Hey, we need a pilot!
 We've got one.
 You?
@@ -317,8 +317,8 @@ I can do this. I can do this.
 Hey!
 That's mine!
 Wait, stay low! Hey, stay low!
-- What?
-- Stay <i>low!</i>
+What?
+Stay <i>low!</i>
 It confuses their tracking.
 BB-8, hold on!
 I'm going low!
@@ -332,29 +332,29 @@ We're about to get some!
 <i>I</i> hope.
 Damn it!
 Come on, come on!
-- Nice shot!
-- I'm getting pretty good at this.
+Nice shot!
+I'm getting pretty good at this.
 Uh, the cannon's stuck in forward position.
 I can't move it. You gotta lose him!
-- Get ready!
-- Okay. For what?
+Get ready!
+Okay. For what?
 Are we really doing this?
 Oh, no.
 Whoo!
-- Nice shooting.
-- Now that was some flying.
-- Thanks.
-- How did you do that?
-- I don't know.
-- No one trained you?
+Nice shooting.
+Now that was some flying.
+Thanks.
+How did you do that?
+I don't know.
+No one trained you?
 I've flown some ships, but
 I've never left the planet.
-- Your last shot was dead-on.
-- That was amazing.
-- You got him with one blast!
-- You set me up for it.
-- It was perfect.
-- That was pretty good.
+Your last shot was dead-on.
+That was amazing.
+You got him with one blast!
+You set me up for it.
+It was perfect.
+That was pretty good.
 You're okay. He's with the Resistance.
 He's gonna get you home.
 We both will.
@@ -391,13 +391,13 @@ I'm not with the Resistance, okay?
 I'm just trying to get away from the First Order.
 But you tell us where the base is...
 I'll get you there first. Deal?
-- Droid, please!
-- Pilex driver, hurry.
-- So, where's your base?
-- Go on, BB-8, tell her.
+Droid, please!
+Pilex driver, hurry.
+So, where's your base?
+Go on, BB-8, tell her.
 Please.
-- The lleenium system?
-- Yeah, the lleenium system.
+The lleenium system?
+Yeah, the lleenium system.
 That's the one. Get us there as fast as you can.
 I'll drop you two at Ponemah Terminal.
 I need the bonding tape, hurry!
@@ -406,19 +406,19 @@ I gotta get back to Jakku.
 Back to Jak...
 Why does everyone wanna go back to Jakku?
 -It's not that one. No. No.
-- That place is...
+That place is...
 The one I'm pointing to. No.
 No. No!
 If we don't patch it up... the propulsion tank will overflow... and flood the ship with poisonous gas!
-- This?
-- Yes.
+This?
+Yes.
 Hey, Rey, you're a pilot.
 You can fly anywhere. Why go back?
 You got a family?
 You got a boyfriend? A cute boyfriend?
 None of your business, that's why.
-- That can't be good.
-- No, it can't be.
+That can't be good.
+No, it can't be.
 Someone's locked on to us.
 All controls are overridden.
 Get off! Get off!
@@ -427,8 +427,8 @@ Oh, no.
 It's the First Order.
 What do we do?
 There must be something.
-- You said poisonous gas.
-- I fixed that.
+You said poisonous gas.
+I fixed that.
 Can you unfix it?
 Come on, BB-8.
 I got him.
@@ -436,20 +436,20 @@ I'm okay.
 BB-8, get off me!
 Do you think this will work on the stormtroopers?
 Yeah. Their masks filter out smoke, not toxins.
-- Hurry.
-- I'm hurrying.
+Hurry.
+I'm hurrying.
 Chewie... we're home.
 Where are the others?
-- Where's the pilot?
-- I'm the <i>pilot.</i>
+Where's the pilot?
+I'm the <i>pilot.</i>
 You?
 <i>No, it's true.
 We're the only ones on board.</i>
 <i>You can understand that thing?</i>
 And "that thing" can understand you, too... so watch it.
 Come on out of there.
-- Where'd you get this ship?
-- Niima Outpost.
+Where'd you get this ship?
+Niima Outpost.
 Jakku? Thatjunkyard?
 Thank you! Junkyard.
 Told you we should have double-checked the Western Reaches.
@@ -476,8 +476,8 @@ I thought it was a mistake, too. Puts too much...
 Chewie, throw them in a pod.
 We'll drop them at the nearest inhabited planet.
 Wait, no.
-- We need your help.
-- My help?
+We need your help.
+My help?
 This droid has to get to the Resistance base... as soon as possible.
 He's carrying a map to Luke Skywalker.
 You are the Han Solo that fought with the Rebellion.
@@ -495,8 +495,8 @@ Must have tracked us from Nantoon.
 What's a Rathtar?
 They're big and they're dangerous.
 You ever heard of the Trillia Massacre?
-- No.
-- Good.
+No.
+Good.
 I got three of them going to King Prana.
 Three? How'd you get them on board?
 I used to have a bigger crew.
@@ -505,8 +505,8 @@ What about BB-8?
 He stays with me until I get rid of the gang... then you can have him back and be on your way.
 What about the Rathtars?
 Where are you keeping them?
-- There's one.
-- What are you gonna do?
+There's one.
+What are you gonna do?
 Same thing I always do.
 Talk my way out of it.
 Yes, I do. Every time.
@@ -515,8 +515,8 @@ You're a dead man.
 Bala-Tik. What's the problem?
 The problem is we loaned you
 50,000 for this job.
-- Can you see them?
-- No.
+Can you see them?
+No.
 I heard you also borrowed
 50,000 from Kanjiklub.
 You know you can't trust those little freaks.
@@ -536,9 +536,9 @@ Good to see you.
 Boys, you're both gonna get what I promised.
 Have I ever not delivered...
 -for you before?
-- Yeah.
-- What was the second time?
-- Your game is old.
+Yeah.
+What was the second time?
+Your game is old.
 There's no one in the galaxy left for you to swindle.
 That BB unit.
 The First Order is looking for one just like it.
@@ -549,32 +549,32 @@ If we close the blast doors in that corridor... we can trap both gangs!
 We'll close the blast doors from here?
 Resetting the fuses should do it.
 I got a bad feeling about this.
-- Oh, no.
+Oh, no.
 -"Oh, no," what?
 Wrong fuses.
 Kill them!
-- Whoa...
-- And take the droid!
-- This was a mistake!
-- Huge!
+Whoa...
+And take the droid!
+This was a mistake!
+Huge!
 What do they look like?
 They look like that.
-- This way.
-- Are you sure?
+This way.
+Are you sure?
 No,no,no!
 Finn!
 Finn!
 Rey!
 Get Off! Get Off!
-- Rey!
-- Finn!
+Rey!
+Finn!
 Finn!
 <i>Get</i> off me!
 FIN NI <i>Rey!</i>
 Get off! Get off!
 Finn!
-- It had me! But the door...
-- That was lucky.
+It had me! But the door...
+That was lucky.
 I got the door. Cover us!
 Chewie!
 You okay?
@@ -587,8 +587,8 @@ Hey, where are you going?
 Unkar Plutt installed a fuel pump, too.
 If we don't prime that, we're not going anywhere.
 I hate that guy.
-- And you could use a co-pilot.
-- I got one, he's back there.
+And you could use a co-pilot.
+I got one, he's back there.
 Watch the thrust. We're going out of here at lightspeed.
 From inside the hangar?
 Is that even possible?
@@ -599,8 +599,8 @@ This is not how I thought this day was gonna go.
 Angle the shield. Hang on back there.
 No problem!
 Come on, baby, don't let me down.
-- What?
-- Compressor.
+What?
+Compressor.
 Inform the First Order... that Han Solo has the droid they want.
 <i>And it's</i> aboard <i>the Millennium Falcon.</i>
 <i>The droid will soon be delivered to the Resistance...</i> leading them to the last Jedi.
@@ -632,8 +632,8 @@ Knights of Ren... have never faced such a test.
 I will not be seduced.</i>
 We shall see.
 We shall see.
-- Electrical overload.
-- I can fix that.
+Electrical overload.
+I can fix that.
 Coolant's leaking.
 Try transferring auxiliary power...
 ...to the secondary tank.
@@ -839,7 +839,7 @@ No!
 No!
 Its energy...
 <i>- ...surrounds us...
-- No!</i>
+No!</i>
 ...and <i>binds</i> us...
 The <i>Force will</i> be...
 No!
@@ -924,8 +924,8 @@ You have one!
 Hey, can I try that?
 I like this thing.
 <i>Traitor!</i>
-- You okay, Big Deal?
-- Thanks.
+You okay, Big Deal?
+Thanks.
 Don't move-.
 <i>TK-338, we have targets in custody.</i>
 We have incoming at 28. 6.
@@ -936,7 +936,7 @@ It's the Resistance.
 Go straight at them!
 Don't let these dogs scare you!
 <i>- JESS". Copy that.
-- We're with you, Poe.</i>
+We're with you, Poe.</i>
 Quick!
 Whoo! Yeah!
 That's one hell of a pilot!
@@ -985,8 +985,8 @@ Where is he?
 Poe?
 Oh, n0.
 Poe Dameron, you're alive?
-- Buddy! So are you!
-- What happened to you?
+Buddy! So are you!
+What happened to you?
 I got thrown from the crash.
 I woke up at night.
 No you. No ship. Nothing.
@@ -994,16 +994,16 @@ BB-8 says that you saved him.
 No, no, no. It wasn'tjust me.
 You completed my mission, Finn...
 That's my jacket.
-- Oh...
-- No, no, no.
+Oh...
+No, no, no.
 Keep it. It suits you.
 You're a good man, Finn.
 Poe, I need your help.
 <i>PZ-4CO, report to communications.</i>
 General Organa...
 I'm sorry to interrupt. This is Finn.
-- He needs to talk to you.
-- And I need to talk to him.
+He needs to talk to you.
+And I need to talk to him.
 That was incredibly brave what you did.
 Renouncing the First Order, saving this man's life.
 Thank you, ma'am. But a friend of mine was taken prisoner.
@@ -1127,7 +1127,7 @@ You will remove these restraints... and leave this cell with the door open.
 You will remove these restraints... and leave this cell with the door open.
 <i>I will remove these restraints...</i>
 <i>and leave the cell with the door open.</i>
-- And you'll drop your weapon.
+And you'll drop your weapon.
 <i>- And</i> I'll <i>drop my</i> weapon.
 No.
 No.
@@ -1154,14 +1154,14 @@ Our system is the next target.
 Oh, my.
 Without the Republic fleet, we're doomed.
 Okay. How do we blow it up?
-- There's always a way to do that.
-- Han's right.
+There's always a way to do that.
+Han's right.
 In order for that amount of power... to be contained... that base has to have some kind of thermal oscillator.
 There is one. Precinct 47.
 Here.
 If we can destroy that oscillator... it might destabilize the core and cripple the weapon.
-- Maybe the planet.
-- We'll go in there, we'll hit that oscillator with everything we've got.
+Maybe the planet.
+We'll go in there, we'll hit that oscillator with everything we've got.
 They have defensive shields... that our ships cannot penetrate.
 We disable the shields.
 Kid, you worked there.
@@ -1170,8 +1170,8 @@ I can do it.
 I like this guy.
 I can disable the shields, but I have to be there.
 On the planet.
-- We'll get you there.
-- Han, how?
+We'll get you there.
+Han, how?
 If I told you, you wouldn't like it.
 So we disable the shields... we take out the oscillator and we blow up their big gun.
 All right. Let's go.
@@ -1189,8 +1189,8 @@ It wasn't all bad, was it?
 Huh?
 Some of it was... good.
 Pretty good.
-- Some things never change.
-- True.
+Some things never change.
+True.
 You still drive me crazy.
 If you see our son... bring him home.
 <i>Sir, sensors triggered in Hangar 718.</i>
@@ -1234,16 +1234,16 @@ Report.
 Weapon charged in 15 minutes, sir.
 Hey!
 The longer we're here the less luck we're gonna have.
-- The shields.
-- I have an idea about that.
-- You remember me?
-- FN-2187.
+The shields.
+I have an idea about that.
+You remember me?
+FN-2187.
 Not anymore.
 The name's Finn and I'm in charge.
 I'm in charge now, Phasma.
 I'm in charge.
-- Bring it down. Bring it down.
-- Yeah.
+Bring it down. Bring it down.
+Yeah.
 Follow me.
 <i>Have you checked out the new T-17s?</i>
 <i>The T-17s, as far as I can tell...</i>
@@ -1252,7 +1252,7 @@ Follow me.
 That's what they tell you.</i>
 <i>But believe me, they don't hold up.</i>
 <i>- They don't?
-- No.</i>
+No.</i>
 You want me to blast that bucket off your head?
 Lower the shields.
 <i>You're making a big mistake.</i>
@@ -1285,8 +1285,8 @@ Shields up! Shields up!
 Dispatch all squadrons.
 Yes, General.
 All right. Let's light it up.
-- Ah, direct hit.
-- But no damage!
+Ah, direct hit.
+But no damage!
 <i>Yeah, we gotta keep hitting it.</i>
 Another bombing run.
 <i>Remember, when the sun is gone that weapon will be ready to fire.</i>
@@ -1306,8 +1306,8 @@ Why are you doing that? Hmm?
 Why are you doing this?
 I'm trying to come up with a plan.
 You all right?
-- Yeah.
-- Good.
+Yeah.
+Good.
 What happened to you?
 Did he hurt you?
 Finn, what are you doing here?
@@ -1321,9 +1321,9 @@ And you wouldn't believe it.
 Escape now, hug later.
 I got one behind me.
 <i>- You see it?
-- Yeah. I'm on it.</i>
-- Burillo's been hit.
-- Watch out for ground fire.
+Yeah. I'm on it.</i>
+Burillo's been hit.
+Watch out for ground fire.
 They're in trouble.
 We can't leave.
 My friend's got a bag full of explosives.
@@ -1392,14 +1392,14 @@ What do we do? It isn't working.
 Black Leader, there's a brand new hole in that oscillator.
 <i>Looks like our friends got in.</i>
 Red Four, Red Six, cover us.
-- I'm on it.
-- Roger.
+I'm on it.
+Roger.
 Everybody else, hit the target hard.
 Give it everything you got.
 I need some help here.
 I need some help!
-- Coming in!
-- Watch out!
+Coming in!
+Watch out!
 I'm hit!
 All teams, I'm going in.
 <i>Pull up and cover me.</i>
@@ -1423,8 +1423,8 @@ Leave the base at once and come to me with Kylo Ren.
 It is time... to complete his training.
 Finn!
 Finn.
-- All teams, I got eyes on them.
-- Yes!
+All teams, I got eyes on them.
+Yes!
 Our job's done here. Let's go home.
 Easy, easy. He's hurt.
 We've got a heartbeat.

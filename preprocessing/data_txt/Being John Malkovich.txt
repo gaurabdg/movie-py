@@ -4,8 +4,8 @@ Craig, honey, it's time for bed.
 <i>Craig, honey, time to get up.</i>
 Craig, honey, time to get up.
 I'm sorry. I didn't know Orrin Hatch was out of his cage.
-- Come here. Morning, sweetheart.
-- Morning.
+Come here. Morning, sweetheart.
+Morning.
 What are you gonna do today, honey?
 Working in the workshop.
 I was thinking, maybe you'd feel better if you got a job.
@@ -18,10 +18,10 @@ Not everybody can be Derek Mantini.
 I gotta get to the shop. We have a shipment of kitty litter coming in.
 Will you do me a favor?
 Will you take a look at Elijah today?
-- He's not feeling very good again.
-- Which one is Elijah again?
-- The chimp, honey.
-- Yeah, okay.
+He's not feeling very good again.
+Which one is Elijah again?
+The chimp, honey.
+Yeah, okay.
 <i>On the lighter side of the news in Westchester County today...</i>
 <i>... puppeteer Derek Mantini thrilled onlookers as he performed...</i>
 <i>...The Belle of Amherst with a 60-foot Emily Dickinson puppet.</i>
@@ -58,25 +58,25 @@ Honey, not again!
 Why do you do this to yourself, honey?
 I'm a puppeteer.
 Seven and a half, right?
-- Yeah.
-- I'll take you through it.
+Yeah.
+I'll take you through it.
 Seven and a half.
 Thank you.
 Welcome to Lestercorp.
 How may we meet your filing needs?
 No. My name's Craig Schwartz.
 I have an interview with Dr. Lester.
-- Please have a seat, Mr. Juarez.
-- Schwartz.
-- Pardon?
-- Schwartz.
+Please have a seat, Mr. Juarez.
+Schwartz.
+Pardon?
+Schwartz.
 I'm sorry, I have no idea what you're saying to me right now.
-- My name is Schwartz.
-- "My name is Warts."
+My name is Schwartz.
+"My name is Warts."
 Mr. Juarez?
 Yes?
-- Chest?
-- I said, "Yes".
+Chest?
+I said, "Yes".
 You suggest what?
 I'm sorry. I have no time for piddling suggestions from mumbling job applicants.
 Besides, Dr. Lester will see you now.
@@ -99,10 +99,10 @@ Which of these two letters comes first?
 This one or this one?
 The symbol on the left is not a letter, sir.
 Damn, you're good.
-- I was trying to trick you.
-- I see.
-- Well then, put these in order.
-- Yes, sir.
+I was trying to trick you.
+I see.
+Well then, put these in order.
+Yes, sir.
 Floris, get Guinness on the phone.
 <i>Yes, sir. Genghis Khan Capone. Fine.</i>
 Damn fine woman, Floris.
@@ -119,8 +119,8 @@ It's very kind of you to lie.
 You see, I've been very Ionely...
 ...in my isolated tower of indecipherable speech.
 You got the job.
-- Any questions?
-- Well, just one.
+Any questions?
+Well, just one.
 Why are these ceilings so low?
 Low overhead, my boy!
 We pass the savings on to you.
@@ -129,7 +129,7 @@ But seriously, that'll all be covered in orientation.
 <i>As you'll now be spending your workday here...</i>
 <i>... it's important that you learn a bit about the history of this famous floor.</i>
 <i>- Hello, Don.
-- Hello, Wendy.</i>
+Hello, Wendy.</i>
 <i>Don, I was wondering, do you know why...</i>
 <i>... our workplace has such low ceilings?</i>
 <i>It's an interesting story.
@@ -140,7 +140,7 @@ Many years ago in the late 1800s...</i>
 <i>... someone else, who local legend has it was named Flemmer.</i>
 <i>Well, one day, old Captain Mertin received an unexpected visitor.</i>
 <i>- Captain Mertin?
-- Aye. What want ye, girl child?</i>
+Aye. What want ye, girl child?</i>
 <i>I'm not a child, but rather an adult lady of miniature proportions.</i>
 <i>I see. Well, if it's charity you're after...</i>
 <i>... be gone with ye, you foul demon!</i>
@@ -167,20 +167,20 @@ Listen, I'm Craig Schwartz.
 I'm just starting out at Lestercorp.
 Where are you starting out?
 <i>Shut up! Shut up!</i>
-- Shut up! Shut up!
-- Hey, shut up!
-- Shut up!
-- I'm sorry, honey.
+Shut up! Shut up!
+Hey, shut up!
+Shut up!
+I'm sorry, honey.
 Sorry, honey.
 Sorry, honey.
-- Shut up!
-- Sorry!
-- Help! She's locking me in a cage.
-- Isn't that cute?
-- I just taught him that today.
-- Yeah, that's adorable.
-- You want to do some dishes for me?
-- Put that down.
+Shut up!
+Sorry!
+Help! She's locking me in a cage.
+Isn't that cute?
+I just taught him that today.
+Yeah, that's adorable.
+You want to do some dishes for me?
+Put that down.
 Here, Elijah. Here you go.
 You know, I have an appointment tomorrow with Elijah's shrink.
 I think we're finally getting down to the bottom...
@@ -197,10 +197,10 @@ I think it's just so tough right now, economically and all...
 You know?
 I was thinking about what you said the other day...
 ...about the orientation film being bullshit.
-- Yes?
+Yes?
 I think maybe you're on to something.
-- And 50 other lines to get in a girl's pants.
-- No, no!
+And 50 other lines to get in a girl's pants.
+No, no!
 No, I was just talking about the film.
 Here's the thing.
 If you ever got me, you wouldn't have a clue what to do with me.
@@ -212,13 +212,13 @@ And don't forget...
 Floris, I think you're very nice...
 ...but the truth is that I'm in love with someone else.
 I'm afraid I have no idea what you're saying to me.
-- You bastard.
-- What?
-- Don't toy with Floris, Schwartz.
-- No.
+You bastard.
+What?
+Don't toy with Floris, Schwartz.
+No.
 If I was 80 years younger, I'd box your ears.
 I wasn't toying with her, sir. I wouldn't...
-- Pardon me. How old are you, sir?
+Pardon me. How old are you, sir?
 Carrot juice, and lots of it.
 I swear, sometimes it's not worth it.
 I piss orange.
@@ -281,73 +281,73 @@ And all eyes, Craig, are upon me as I speak.
 "My spunk is, to you, manna from heaven."
 Dr. Lester, this is all really fascinating and stuff...
 ...but I gotta get back home to my wife.
-- You have a wife. I'd like to meet her.
-- Yes, sir.
+You have a wife. I'd like to meet her.
+Yes, sir.
 Shall we say dinner Thursday?
 You can come, too, if you like.
 Get that? That was a joke.
 You hear what I said? You can come, too.
 That was a good one.
-- All right. Thank you.
-- Yeah.
+All right. Thank you.
+Yeah.
 Maxine.
-- I made it, Maxine.
-- Just.
+I made it, Maxine.
+Just.
 Buy you a drink, Maxine?
 Are you married?
-- Yeah. But enough about me.
-- Yeah.
-- What'll you have?
-- I'll have more of the same, please, Barry.
+Yeah. But enough about me.
+Yeah.
+What'll you have?
+I'll have more of the same, please, Barry.
 And I'll have a light beer, or something.
 So...
 I don't know, I like you.
-- I don't know what it is about you. I just...
-- My tits?
-- No!
-- No?
+I don't know what it is about you. I just...
+My tits?
+No!
+No?
 It's your energy, the way you carry yourself.
 You're not a fag, are you?
 No. I am really attracted to you.
 "I am really attracted to you."
 You are a fag.
 Well, we can share recipes, Darlene.
-- Wait! I love your tits. I wanna fuck 'em.
-- Now we're gettin' somewhere.
+Wait! I love your tits. I wanna fuck 'em.
+Now we're gettin' somewhere.
 Not a chance.
 So tell me about yourself.
 If you can get your mind out of the gutter long enough, dog boy.
 Well, I'm a puppeteer.
-- I've been...
-- Check.
+I've been...
+Check.
 I'm sorry I'm so late.
 Lester just wouldn't let me get away.
 Hi, Elijah. We're supposed to have dinner with him on Thursday...
 ...but I can get us out of it, if you want.
 It's amazing. He's like this insane old lech, and it's kind of amusing...
 ...once you get past how disgusting it actually is.
-- Did you eat?
-- No. I'm not hungry.
+Did you eat?
+No. I'm not hungry.
 I'm sorry I didn't call.
 It was just hard to get away.
-- I was worried.
-- I'm sorry.
+I was worried.
+I'm sorry.
 You know...
 ...you wanted me to work.
 How was your evening?
 Tom-Tom's puncture wound is infected.
-- The ferret?
-- The iguana.
+The ferret?
+The iguana.
 So I just dressed the wound...
 ...and I've just been feeding everyone and putting everybody to bed.
-- You want a beer?
-- No. I think I'm going to go to bed.
+You want a beer?
+No. I think I'm going to go to bed.
 Elijah's gonna sleep with us tonight.
-- I don't think he's feeling very well.
-- Okay.
+I don't think he's feeling very well.
+Okay.
 You know what? I'm gonna go in my workshop for a little while.
-- But I'll be in in a little while.
-- Okay.
+But I'll be in in a little while.
+Okay.
 Tell me, why do you love puppeteering?
 Well, Maxine, I'm not sure exactly.
 Perhaps it's the idea of becoming someone else for a little while.
@@ -386,15 +386,15 @@ Say, ain't you that actor guy?
 Yes.
 John, what is, John...
 Don't tell me. Maplethorpe?
-- Malkovich.
-- Malkovich. Right.
+Malkovich.
+Malkovich. Right.
 Yeah. I thought you were all right in that one movie.
 Thank you.
 The one where you played a jewel thief.
-- I never played a jewel thief.
-- No?
-- Who am I thinkin' of?
-- I don't know.
+I never played a jewel thief.
+No?
+Who am I thinkin' of?
+I don't know.
 No, no, I'm pretty sure it was you.
 Yeah. Absolutely, doll.
 I'm just about to close up.
@@ -404,8 +404,8 @@ I'm splittin' for the day, puppet man.
 Lock up for me, okay?
 Don't you wanna know what happened to me?
 No.
-- Please, this is important.
-- Better be.
+Please, this is important.
+Better be.
 It is.
 There's a tiny door in my office, Maxine.
 It's a portal, and it takes you inside John Malkovich.
@@ -439,7 +439,7 @@ Maxine! Yes, of course, Maxine.
 He's a celebrity.
 <i>Good. We'll sell tickets.</i>
 <i>- Tickets to Malkovich?
-- Exactly.</i>
+Exactly.</i>
 <i>$200 a pop.</i>
 But, Maxine, there's something,
 I don't know, like, profound here.
@@ -450,10 +450,10 @@ You're my man on the inside.</i>
 You need me? I'm your man?
 <i>Sure, whatever.</i>
 Hey everybody, I'm home.
-- Treats for everyone.
-- Maxine?
+Treats for everyone.
+Maxine?
 <i>- Yeah?
-- We don't know the significance of this.</i>
+We don't know the significance of this.</i>
 It might be dangerous to toy with?
 <i>I'll protect you, doll face.</i>
 <i>Bye-bye.</i>
@@ -466,34 +466,34 @@ But I don't understand.
 There's no such thing as a hole, or a portal into somebody's brain.
 Yes, there is. A brain or soul or whatever.
 I was inside John Malkovich lookin' out.
-- Really?
-- Yep.
-- I wanna try it then.
-- Pardon?
+Really?
+Yep.
+I wanna try it then.
+Pardon?
 I want to be John Malkovich tomorrow.
 That'd be perfect,
 'cause then I can meet your partner.
 The thing is, Lestercorp's open during the day, so we can't go during the day.
 But if you want to, we can do it right now.
-- Now? Right now?
-- Tonight, on the way to Lester's.
+Now? Right now?
+Tonight, on the way to Lester's.
 I'll meet you on the side of the road by the New Jersey Turnpike.
 I'm scared.
 You don't have to do this, you know.
 No.
 No, I wanna go.
-- You sure?
-- Yeah.
+You sure?
+Yeah.
 <i>It's wet.</i>
 <i>Weird.</i>
 <i>That's nice.</i>
 <i>God, I feel sexy.</i>
 Lotte, are you all right?
 Craig, I gotta go back!
-- No!
-- Maybe tomorrow.
-- No! I gotta go back now!
-- We'll talk about it later.
+No!
+Maybe tomorrow.
+No! I gotta go back now!
+We'll talk about it later.
 Being inside did something to me.
 I knew who I was.
 It's like everything made sense.
@@ -503,8 +503,8 @@ You were John Malkovich.
 God, I was. I was, wasn't I?
 I was John Malkovich.
 I was John fucking Malkovich!
-- Take me back, Craig.
-- We're late for Lester.
+Take me back, Craig.
+We're late for Lester.
 So tell me, Lotte, can you understand a word I'm saying?
 Oh, yes, Dr. Lester. Absolutely.
 You were just explaining the nutritional value...
@@ -514,8 +514,8 @@ Dr. Lester, would you point me in the direction of the restroom?
 With the greatest pleasure, my dear.
 You go up the grand "escalier"...
 ...and once atop the stairs you'll want to enter the fifth door on my left.
-- Watch the step down. It's sunken.
-- Okay. Thank you.
+Watch the step down. It's sunken.
+Okay. Thank you.
 What do you think Lester's relationship with John Malkovich is?
 That portal's been boarded up forever.
 I bet Lester's not even aware of it, him, the portal. Why?
@@ -535,19 +535,19 @@ I like that.
 ...nightly from 9:00 p.m. to 4:00 a.m."
 Sounds good. Oblique, but intriguing.
 Phone it in.
-- Want me to phone it in?
-- No.
-- Lotte!
-- Hi.
-- I heard your voice.
-- What are you doing here?
+Want me to phone it in?
+No.
+Lotte!
+Hi.
+I heard your voice.
+What are you doing here?
 Is this your partner? She's pretty.
 I had to do the Malkovich ride again, you know? Is this her?
-- Hi. You're Craig's wife?
-- Yeah. Hi.
+Hi. You're Craig's wife?
+Yeah. Hi.
 Lotte, Maxine. Maxine, Lotte.
-- Have you done Malkovich yet?
-- Hi. Yeah, I want to place an ad.
+Have you done Malkovich yet?
+Hi. Yeah, I want to place an ad.
 Okay. "Ever want to be someone else?"
 No, that's the ad, but we can talk about you in a minute.
 "Ever want to be someone else?"
@@ -559,8 +559,8 @@ I've been going over and over my experience last night, Craig.
 It was amazing.
 I've decided...
 ...that I'm a transsexual.
-- I know it's the craziest thing, Craig!
-- Are you fuckin' nuts?
+I know it's the craziest thing, Craig!
+Are you fuckin' nuts?
 No. It's just that for the first time, everything just felt right.
 I've got to make sure.
 But if the feeling is still there...
@@ -574,22 +574,22 @@ It's just that I really like Dr. Feldman.
 All right?
 So I thought that I would ask him his opinion.
 Is there something so terrible about that?
-- Why do you always yell at me like this?
-- Sweetie, I'm sorry.
+Why do you always yell at me like this?
+Sweetie, I'm sorry.
 It's just a phase. It's the thrill of seeing through somebody else's eyes.
 Okay? It'll pass.
 Don't stand in the way of my actualization as a man.
 Let her go, Craig.
-- Okay.
-- I mean him.
+Okay.
+I mean him.
 Right now?
 It's the middle of the day.
 How will I get her past Lester?
-- Yawn. Figure it out.
-- Okay.
+Yawn. Figure it out.
+Okay.
 Let's go. Come on.
-- Bye.
-- Bye.
+Bye.
+Bye.
 Davey, it's Max.
 Listen, can you get me
 John Malkovich's home phone?
@@ -598,19 +598,19 @@ John Malkovich's home phone?
 "I am sick, anxious, poor as a beggar."
 "Fate has tossed me hither and thither."
 "I have been everywhere. Everywhere."
-- "So strong."
-- "But wherever I have been..."
+"So strong."
+"But wherever I have been..."
 <i>- "...every minute, day and night..."
-- I want that voice.</i>
-- "...my soul has been full..."
-- "My soul has been full..."
-- "...of mysterious anticipation."
-- "I feel the approach of happiness."
+I want that voice.</i>
+"...my soul has been full..."
+"My soul has been full..."
+"...of mysterious anticipation."
+"I feel the approach of happiness."
 "Anya, I see it coming."
 <i>- Yeah?
-- Mr. John Malkovich?</i>
+Mr. John Malkovich?</i>
 <i>- Yeah. Who's calling?
-- Oh, my goodness!</i>
+Oh, my goodness!</i>
 <i>You don't know me, but I know you.</i>
 <i>I'm a great admirer of yours.</i>
 How did you get this number?
@@ -631,31 +631,31 @@ I just loved you in that jewel thief movie.</i>
 Come on!</i>
 <i>Meet her. Meet here there.</i>
 <i>- Meet her there!
-- "...as the winter."</i>
+"...as the winter."</i>
 <i>"I am sick, anxious, poor as a beggar."</i>
 <i>- Meet her there!
-- "Fate has tossed me hither and thither."</i>
+"Fate has tossed me hither and thither."</i>
 <i>"I have been everywhere. Everywhere."</i>
 <i>"But wherever I have been, every minute, day and night..."</i>
 <i>Meet her there. Meet her there.</i>
 <i>Yes!</i>
-- How was it?
-- I have to go back at 8:00 exactly tonight.
-- Why?
-- Don't crowd me, Craig.
-- Excuse me. Are you John Malkovich?
-- Yes, I am.
+How was it?
+I have to go back at 8:00 exactly tonight.
+Why?
+Don't crowd me, Craig.
+Excuse me. Are you John Malkovich?
+Yes, I am.
 Wow. You really are great in that movie where you play that retard.
 Thank you very much.
-- I have a cousin who's a retard.
-- Thank you.
+I have a cousin who's a retard.
+Thank you.
 So, as you might imagine, it means a lot to me...
 ...to see retards...
 ...portrayed on the silver screen so compassionately.
 Well, thank you very much. I appreciate it.
 Good night.
 <i>- Maxine? It's Maxine.
-- Hi.</i>
+Hi.</i>
 I'm so glad you decided to come.
 I'm Maxine.
 I'm John. How do you do?
@@ -684,8 +684,8 @@ I was thinking that maybe...
 ...we should invite Maxine over for dinner one night...
 ...because you're partners and
 I thought it might be a really nice gesture.
-- I think she'd like that.
-- Maxine?
+I think she'd like that.
+Maxine?
 The thing is, there's been some tension between us at work...
 ...business stuff, and I would hate to expose you to that.
 It'll be okay.
@@ -695,8 +695,8 @@ Now, when you say that I can be somebody else, what do you mean exactly?
 Well, we mean exactly that.
 We can put you inside someone else's body for 15 minutes.
 Can I be anybody that I wanna be?
-- Actually...
-- You can be John Malkovich.
+Actually...
+You can be John Malkovich.
 That's perfect!
 It's my second choice, but it's wonderful.
 I'm a fat man. I am sad and fat...
@@ -710,7 +710,7 @@ So if I get the set, would it be possible...
 ...extra hand towels...
 ...if I get the set, instead of the bath mat?
 <i>- Yes, sir. Sure, we can do that.
-- Great. That sounds good.</i>
+Great. That sounds good.</i>
 And for the color: Periwinkle?
 <i>I'm sorry. We're out of stock in periwinkle.
 Do you want to back order?</i>
@@ -729,31 +729,31 @@ After dinner, I'll introduce you to my chimp Elijah.
 He has an ulcer right now due to suppressed childhood trauma...
 ...but we're working through it.
 Psychotherapy.
-- This the bedroom?
-- Yeah.
+This the bedroom?
+Yeah.
 <i>The thing is, the way that I see it...</i>
 ...I think the world is divided...
 ...into those who go after what they want and then those who don't, right?
-- Right.
-- The passionate ones...
+Right.
+The passionate ones...
 ...the ones who go after what they want...
 ...well, they may not get what they want.
 But at least they remain vital.
-- Yeah.
-- Yeah.
+Yeah.
+Yeah.
 So when they lie on their death beds, they have few regrets.
 Right?
 And the ones who don't go after what they want...
 ...well, who gives a shit about them anyway?
-- Lotte!
-- Craig!
+Lotte!
+Craig!
 I don't find you attractive.
 And, Lotte, I'm smitten with you.
 I am. But only when you're in Malkovich.
 When I looked into his eyes last night,
 I could feel you peering out.
-- Really?
-- Yeah.
+Really?
+Yeah.
 Behind the stubble and the too-prominent brow and the male-pattern baldness...
 ...I sensed your feminine longing.
 And it just slew me.
@@ -769,39 +769,39 @@ When?
 <i>Tonight after you close?</i>
 Okay, 4:11.
 <i>- Thank you, Maxine.
-- You're welcome.</i>
+You're welcome.</i>
 Thanks so much for having me over, sugarplum.
 I'm glad you called.
 Shall we to the "boudoir"?
 A couple of minutes. I'm early.
 So do you enjoy being an actor?
 Sure. It's very rewarding.
-- Hi.
-- Hi.
+Hi.
+Hi.
 <i>My sweet Maxine.</i>
 <i>- My darling.
-- I love you, Lotte.</i>
+I love you, Lotte.</i>
 Did you call me Lotte?
 Do you mind?
 No, not really.
 <i>- Oh, God.
-- My sweet, beautiful Lotte.</i>
+My sweet, beautiful Lotte.</i>
 <i>Maxine!</i>
 Yes, Maxine. Yes.
 <i>Maxine, this is so right.</i>
-- You were him, weren't you?
-- Yeah.
+You were him, weren't you?
+Yeah.
 And he was with her!
 We love her, Craig.
 <i>- We?
-- John and me.</i>
+John and me.</i>
 Don't forget about me!
 You have the Maxine action figure to play with!
 I'm sorry. That was nasty.
 You are late, my little cowboy.
 Are you torturing me on purpose?
-- I've fallen in love.
-- I don't think so.
+I've fallen in love.
+I don't think so.
 You know why?
 Because I've fallen in love!
 This is what people who've fallen in love look like.
@@ -814,14 +814,14 @@ Do you have any idea what it's like to have two people look at you...
 No, I don't suppose you would.
 It's quite a thrill, Craigy.
 What are you doing?
-- Oh, my God! Is that real? What is that?
-- Yes!
+Oh, my God! Is that real? What is that?
+Yes!
 I don't know how to use it very well, so don't make any sudden moves!
 I'm serious! I'm serious.
 Suck my dick!
 Shut up, okay? Just shut up.
-- Craig!
-- Tell her you need to see her.
+Craig!
+Tell her you need to see her.
 <i>J.M. Inc. Be all that someone else can be.</i>
 I need to see you.
 <i>Sweetie!</i>
@@ -835,8 +835,8 @@ Live dangerously. Close early.
 <i>I love this new devil-may-care side of you.</i>
 <i>All right. I'll track down lover-boy and see both of you in one hour.</i>
 Exactamundo.
-- What's the matter with you? Stop it!
-- Sit up, okay? Just sit up. Just sit up.
+What's the matter with you? Stop it!
+Sit up, okay? Just sit up. Just sit up.
 Help! He's locking me in a cage!
 Shut the hell up!
 Shut up!
@@ -853,20 +853,20 @@ Touch her breast.</i>
 <i>Move right hand across left breast now!</i>
 <i>Move right hand across left breast now!</i>
 <i>- Holy shit, yes!
-- Holy shit, yes!</i>
+Holy shit, yes!</i>
 <i>- Holy shit, he said what I said!
-- Shit, he said what I said!</i>
+Shit, he said what I said!</i>
 <i>- Lotte? Is that you?
-- Yes, yes, sweetheart.</i>
+Yes, yes, sweetheart.</i>
 Yes, sweetheart, yes.
 What the fuck is going on?
 That's not me! I didn't say that.
 <i>- Lotte.
-- Maxine.</i>
+Maxine.</i>
 Something was making me talk.
 Some goddamn thing was making me move.
-- I've gotta get out of here.
-- Doll face!
+I've gotta get out of here.
+Doll face!
 It was just your passion for me taking hold.
 No, doll face. I know what my passion taking hold feels like.
 Bye!
@@ -888,16 +888,16 @@ I feel like I'm going crazy, Charlie.
 I'm sure you're not going crazy.
 You don't understand, man.
 It was like nothing I've ever felt before.
-- Were you stoned?
-- Yes, I was...
+Were you stoned?
+Yes, I was...
 Jesus.
 Yes, I was stoned.
 But that doesn't have anything to do with it.
 Charlie, someone was talking through my mouth.
 You were stoned.
 Case closed. End of story.
-- How hot is this babe?
-- You know what?
+How hot is this babe?
+You know what?
 Maybe it was this Lotte woman talking...
 ...because it could have been her talking through me.
 Because the weird thing is...
@@ -922,8 +922,8 @@ Excuse me. Exactly what type of service does this company provide?
 You get to be John Malkovich for 15 minutes.
 200 clams.
 I see.
-- No cutting, by the way.
-- No cutting!
+No cutting, by the way.
+No cutting!
 Come on! Break it up!
 Break it up! Cut it out!
 Everybody gets...
@@ -931,36 +931,36 @@ It's him. It's John Malkovich.
 Sorry, Mr. Malkovich.
 Hope we didn't hurt you too terribly.
 Get inside!
-- Darling!
-- What the fuck is going on?
+Darling!
+What the fuck is going on?
 John Malkovich. Mr. Malkovich, sir.
-- Mr. Malkovich, I think I can explain.
-- Yeah, explain.
+Mr. Malkovich, I think I can explain.
+Yeah, explain.
 My name is Craig Schwartz...
 ...and we operate a little business here...
 ...that simulates for our clientele...
 ...the experience...
 ...of being you, actually.
-- Simulates?
-- Yeah, after a fashion.
-- What exactly does that mean?
-- Well, it's hard to describe.
+Simulates?
+Yeah, after a fashion.
+What exactly does that mean?
+Well, it's hard to describe.
 I want to do it.
 That'd pale compared to the real experience.
-- I want to do it!
-- Right now Mr. Hiroshi's in the tube...
-- Let him do it, Craig.
-- Of course.
+I want to do it!
+Right now Mr. Hiroshi's in the tube...
+Let him do it, Craig.
+Of course.
 Right this way, Mr. Malkovich, compliments of the house.
 Jesus.
 What happens when a man goes through his own portal?
 We'll see.
 Malkovich.
 Malkovich. Malkovich.
-- How was it?
-- It was amazing this time.
-- That was no simulation!
-- I know. I'm sorry.
+How was it?
+It was amazing this time.
+That was no simulation!
+I know. I'm sorry.
 It's an honor.
 I have been to the dark side.
 I've seen a world that no man should see!
@@ -1001,7 +1001,7 @@ I love you so much.
 I love you.
 Come on, Craig.
 <i>- J.M. Inc.
-- Maxine.</i>
+Maxine.</i>
 Lotte.
 I've been thinking about us, you know?
 <i>We have to meet.</i>
@@ -1011,28 +1011,28 @@ I hate you.
 Elijah!
 You really are magnificent.
 <i>- J.M. Inc.
-- Maxine!</i>
+Maxine!</i>
 Honey pie! I was just heading out the door to meet you.
 <i>Listen, Maxine.</i>
 It hasn't been me in Malkovich last time.
 It's been that son of a bitch Craig.
 He had me locked in a cage with my chimp, holding a gun to my head.
 <i>- Oh, my God!
-- He made me call you.</i>
+He made me call you.</i>
 <i>I'm sorry, Maxine.
 It's been him the whole time.</i>
 I'm so sorry. That's horrible.
 I miss you so much, Maxine.
 So, but...
 <i>...that was Craig inside of Malkovich?
-- Yes, it was him.</i>
+Yes, it was him.</i>
 It's because he's a puppeteer, I think.
 Well, boy, I'm...
 I'm surprised. That's pretty impressive.
 <i>- What?
-- So if Craig can control Malkovich...</i>
+So if Craig can control Malkovich...</i>
 <i>- ... and I can control Craig...
-- But, Maxine...</i>
+But, Maxine...</i>
 ...I thought it was me that you loved!
 I do.
 It's confusing, you know?
@@ -1041,9 +1041,9 @@ This is a very confusing situation.
 Listen, I should really get going, okay?
 'Cause I'm gonna be late for Malkovich now.
 <i>- What?
-- We'll talk about this later.</i>
+We'll talk about this later.</i>
 <i>- Maxine! Wait!
-- Okay?</i>
+Okay?</i>
 What the fuck do you want?
 I can explain about the portal, darling.
 Listen, don't con me, Maxine.
@@ -1073,8 +1073,8 @@ Oh, my God.
 You'll catch your death out here.
 Look at you. You're soaking wet.
 Please come in, come in.
-- Here you are, my dear.
-- Thank you.
+Here you are, my dear.
+Thank you.
 How's that?
 Much better, thank you.
 So, my dear...
@@ -1097,8 +1097,8 @@ Tell me...
 ...what is this strange power that Malkovich exudes?
 You've gotta help me understand.
 All I think about is wanting to be him.
-- Wanting to what?
-- Wanting to be him.
+Wanting to what?
+Wanting to be him.
 Wanting to be John Malkovich.
 I see.
 Well, perhaps you can.
@@ -1109,8 +1109,8 @@ I don't understand.
 It was 90 years ago that I discovered a strange portal.
 And I found that this portal led to a vessel body...
 ...and that I could live forever by leaping from vessel to vessel.
-- So Dr. Lester is such a vessel?
-- Yes, he is.
+So Dr. Lester is such a vessel?
+Yes, he is.
 You still there, sweets?
 I figured out how to hang on as long as I want.
 It's all a matter of making friends with the Malkovich body.
@@ -1124,8 +1124,8 @@ That's when he becomes ripe.
 But I must enter by midnight on that day.
 After that, I'd get diverted into the next newly forming infant vessel.
 I don't want that to happen.
-- I'd be absorbed.
-- Absorbed? What does that mean?
+I'd be absorbed.
+Absorbed? What does that mean?
 Well, trapped, held prisoner, if you like, in the host's brain...
 ...unable to control anything...
 ...forever doomed to watch the world through someone else's eyes.
@@ -1134,12 +1134,12 @@ See, I got Ionely in Lester by myself...
 ...so I figured out a way this time to take others along with me.
 Come.
 Everyone, this is Lotte.
-- Hi, Lotte!
-- She's a new friend of mine.
+Hi, Lotte!
+She's a new friend of mine.
 Do a puppet show for me, Craig, honey.
 You mean, with Malkovich?
-- I'd love to see your work.
-- Really?
+I'd love to see your work.
+Really?
 Okay.
 This is something that I call:
 "Craig's Dance of Despair and Disillusionment."
@@ -1154,15 +1154,15 @@ Well, we'll have all the money in Malkovich's bank account...
 No, please!
 Shut up! We're trying to think here.
 It is sort of like puppeteering.
-- I like that about it.
-- Exactly!
+I like that about it.
+Exactly!
 And no one would ever even have to know it's not him.
 And I could use Malkovich's existing notoriety...
 ...to launch my own puppeteering career.
 Craigy, that's brilliant.
 So lovely. I've always wondered what it would be like to have a penis.
-- Now I'll know.
-- Really? I know it's very...
+Now I'll know.
+Really? I know it's very...
 Lotte? We like you.
 We can see you're a kind and decent woman...
 ...and so...
@@ -1179,14 +1179,14 @@ Of course send him right in. Don't ever keep him waiting again, you understand?
 Hey, John.
 Great to see you.
 Sorry about the cunt at reception.
-- This is my fiancée, Maxine.
-- Great to see you, Maxine.
+This is my fiancée, Maxine.
+Great to see you, Maxine.
 Sorry about the cunt at reception.
 Please, have a seat.
 Can I get you anything? Coffee? Water?
 No, thank you.
 <i>- Teresa, get me chicken soup.
-- Okay.</i>
+Okay.</i>
 Chicken soup?
 Larry? I want to get right to the point.
 From now on, I'm no longer an actor.
@@ -1299,14 +1299,14 @@ Bravo!
 Maxine?
 Hello? Hello?
 <i>- We have Maxine.
-- Oh, my God.</i>
+Oh, my God.</i>
 Please, please, don't hurt her.
 Listen, I'll give you anything you want. Please.
 <i>You listen to me, asshole.
 I don't want your fucking money.</i>
 <i>What I want is for you to leave John Malkovich now!</i>
 <i>- Who is this, Lester?
-- Does it matter?</i>
+Does it matter?</i>
 <i>We're gonna kill Maxine if you don't leave the body immediately!</i>
 But I can't do that.
 I mean, if I leave Malkovich, then I'm Craig Schwartz again.
@@ -1331,8 +1331,8 @@ God, no, we can't really kill her!
 She's carrying Malkovich's seed!
 My next vessel!
 Hey! Help me!
-- Where the fuck am I?
-- We're in Malkovich's subconscious.
+Where the fuck am I?
+We're in Malkovich's subconscious.
 The last thing you'll ever see, Maxine.
 Fag-o-vitch!
 Johnny, baby, Johnny.
@@ -1351,28 +1351,28 @@ It's your baby, okay?
 What?
 The baby, it's yours.
 It's ours. I got pregnant when you were in Malkovich.
-- You can't fuck with me any more, Maxine!
-- I'm not!
+You can't fuck with me any more, Maxine!
+I'm not!
 I kept it because I knew you were the father...
 ...the other mother, whatever...
 ...because it was yours.
 So, we're parents?
 Together?
 Yeah.
-- Aren't you John Malkovich?
-- No.
-- Yeah, you are.
-- No.
+Aren't you John Malkovich?
+No.
+Yeah, you are.
+No.
 I can't believe you're in this shithole, man.
-- This is John Malkovich.
-- I'm not John Malkovich.
-- This is John Malkovich.
-- I am not John Malkovich!
+This is John Malkovich.
+I'm not John Malkovich.
+This is John Malkovich.
+I am not John Malkovich!
 Yes?
 <i>Lester, please don't do it.
 Please don't kill Maxine.</i>
 <i>- So you'll leave?
-- Yes, I am leaving.</i>
+Yes, I am leaving.</i>
 All right. Do it now while I'm on the phone so I can hear...
 ...and your lovely bride walks.
 Okay. Okay.
@@ -1386,27 +1386,27 @@ We're Malkovich.
 Maxine! I did it, Maxine!
 I left Malkovich for you, sweetie!
 It's no good being Malkovich without you.
-- It proves I love you!
-- Fuck off!
-- Doesn't it?
-- He's not with us.
+It proves I love you!
+Fuck off!
+Doesn't it?
+He's not with us.
 Maxine, I love you!
 I'm gonna go right back into Malkovich, and kick Lester out!
 And then you'll love me again! Maxine!
-- Machine.
-- Hey. Malcatraz.
-- How are you?
-- I'm very well. And you?
-- Good, good.
-- You look well.
+Machine.
+Hey. Malcatraz.
+How are you?
+I'm very well. And you?
+Good, good.
+You look well.
 Thank you. How's Celeste?
 She's good.
 She's sorry she couldn't make it today.
-- She had to go to the store.
-- That's okay.
+She had to go to the store.
+That's okay.
 Charlie, hi! I didn't even hear the door.
-- Lookin' great, Flo.
-- I'm looking grateful?
+Lookin' great, Flo.
+I'm looking grateful?
 Charlie, we are not getting any younger.
 Well, don't rub it in.
 Listen, Charlie,
@@ -1414,22 +1414,22 @@ I know this is going to sound crazy...
 ...but what would you think if I told you that I'd found a way...
 ...for us to live forever?
 All of us.
-- Johnny boy, what are you talking about?
-- All of us.
+Johnny boy, what are you talking about?
+All of us.
 Celeste, Floris, you, me.
 Gary Sinise, maybe.
 I don't really understand.
 Charlie, this is Emily.
 Isn't she lovely?
 Pass the Cheetos.
-- You need more puffs?
-- No, I want more.
-- Okey-doke. They're covered in grease.
-- Shut up.
-- Can I swim yet?
-- Can you swim yet?
-- What time is it?
-- Shall we do the cramp test?
+You need more puffs?
+No, I want more.
+Okey-doke. They're covered in grease.
+Shut up.
+Can I swim yet?
+Can you swim yet?
+What time is it?
+Shall we do the cramp test?
 Check her.
 Let me see.
 Are you gonna throw up? Let me see!

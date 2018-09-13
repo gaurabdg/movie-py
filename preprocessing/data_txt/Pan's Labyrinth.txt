@@ -30,8 +30,8 @@ Your brother's not well.
 Madam, are you okay?
 Ofelia?
 Ofelia, Come here.
-- I saw a fairy.
-- Just look at your shoes!
+I saw a fairy.
+Just look at your shoes!
 Let's go.
 When we get to the mill, come out to greet the Captain.
 I want you to call him Father.
@@ -54,8 +54,8 @@ Say hello to the Captain.
 Ofelia.
 It's the other hand, Ofelia.
 Mercedes!
-- Bring the luggage.
-- Sir.
+Bring the luggage.
+Sir.
 It's a labyrinth.
 Just a pile of old rocks that have always been here.
 Even before the mill.
@@ -74,8 +74,8 @@ He's not my father.
 You've made that clear enough.
 Shall we go?
 Have you seen my mother?
-- Isn't she beautiful!
-- Yes.
+Isn't she beautiful!
+Yes.
 She's sick with baby.
 Did you notice?
 The guerrillas are sticking to the woods...
@@ -88,8 +88,8 @@ We need to force them down, make them come to us.
 We'll set up three new command posts.
 Here, here and here.
 Mercedes.
-- Ask Dr. Ferreiro to come down.
-- Yes, sir.
+Ask Dr. Ferreiro to come down.
+Yes, sir.
 This will help you sleep through the night.
 Just two drops just before bed.
 Two drops only.
@@ -120,10 +120,10 @@ Here the houses are old.
 They creak.
 As if they were speaking.
 Tomorrow, I'm going to give you a surprise.
-- A surprise?
-- Yes.
-- A book?
-- No, something much better.
+A surprise?
+Yes.
+A book?
+No, something much better.
 Why did you have to get married?
 I was alone too long.
 I'm with you.
@@ -149,19 +149,19 @@ Many, many years ago...
 <i>Forgotten and lost at the top of that cold, dark mountain...</i>
 <i>...forever alone, until the end of time.</i>
 Come in.
-- How is she?
-- Very weak.
+How is she?
+Very weak.
 She'll have as much rest as she needs.
 I'll sleep down here.
-- And my son?
-- Pardon?
+And my son?
+Pardon?
 Excuse us, Captain.
 My son, how is he?
 For the moment, there's no reason to be alarmed.
 Very good.
 Captain, your wife should not have traveled at such a late stage of pregnancy.
-- Is that your opinion?
-- My professional opinion, yes, sir.
+Is that your opinion?
+My professional opinion, yes, sir.
 A son should be born wherever his father is.
 That's all.
 One more thing, Captain.
@@ -179,8 +179,8 @@ It's been fired.
 My father was hunting rabbits, Captain.
 Again, keep quiet.
 "No God, no country, no Master"?
-- Just like that-how do you like that?
-- Red propaganda, Captain.
+Just like that-how do you like that?
+Red propaganda, Captain.
 It's not propaganda, sir.
 It's an old almanac, Captain.
 We're just farmers.
@@ -231,8 +231,8 @@ I am...
 I am a faun.
 Your most humble servant,
 Your Highness.
-- No, I'm...
-- You're Princess Moanna...
+No, I'm...
+You're Princess Moanna...
 ...daughter of the King of the underworld.
 My father was a tailor.
 You are not born of man.
@@ -252,22 +252,22 @@ Open it, when you are alone...
 But there's nothing in here.
 Mercedes, prepare these rabbits for dinner tonight.
 They are too young.
-- Well, maybe they'll do for a stew.
-- Yes, sir.
+Well, maybe they'll do for a stew.
+Yes, sir.
 This coffee was burnt.
 Taste it yourself.
 You should keep an eye on it.
 As you wish, sir.
 Cook these.
-- He didn't like the coffee.
-- He's nothing but a fussy dandy.
+He didn't like the coffee.
+He's nothing but a fussy dandy.
 A fussy dandy!
 We're going to need some beef and one more chicken.
-- Where are we supposed to find that?
-- The doctor's wife, the mayor's too.
+Where are we supposed to find that?
+The doctor's wife, the mayor's too.
 Well, they eat more than a couple of pigs.
-- And they don't shut up.
-- Not even underwater.
+And they don't shut up.
+Not even underwater.
 I'll be back in a moment,
 Mercedes.
 Ofelia.
@@ -277,8 +277,8 @@ Do you like it?
 What I wouldn't have given to have such a dress...
 ...as fine as this when I was your age!
 And look at the shoes!
-- Do you like them?
-- Yes, very pretty.
+Do you like them?
+Yes, very pretty.
 Go on, now.
 Take your bath.
 <i>Tree</i>
@@ -296,8 +296,8 @@ You'll look like a Princess.
 A Princess?
 Make sure those chickens are cleaned properly.
 And don't forget the beans.
-- You look marvelous, my girl, just beautiful.
-- What a gorgeous dress!
+You look marvelous, my girl, just beautiful.
+What a gorgeous dress!
 Get back to work, stop wasting time.
 Do you want some milk with honey?
 Move back, we can't have you getting milk on your dress, with you looking so pretty.
@@ -311,8 +311,8 @@ I don't believe any more.
 Last night, a fairy visited me.
 Really?
 And it wasn't alone, there were lots of them...
-- ...and a faun, too.
-- A faun?
+...and a faun, too.
+A faun?
 He was very old, very tall and smelled like earth.
 My mother warned me to be wary of fauns.
 Mercedes!
@@ -322,13 +322,13 @@ Flour, salt, oil, medicine...
 ...olives, bacon.
 This-this is real tobacco.
 And the ration cards.
-- I need you to check the inventory.
-- Very well.
+I need you to check the inventory.
+Very well.
 Mercedes.
-- The key.
-- Yes, sir.
-- Is this the only copy?
-- The only one.
+The key.
+Yes, sir.
+Is this the only copy?
+The only one.
 From now on, I'll carry it.
 Captain.
 Captain, perhaps it's nothing.
@@ -370,17 +370,17 @@ Have you looked in her room?
 And the pantry?
 Yes, ma'am.
 Have you checked the garden?
-- And the barn?
-- Yes, ma'am.
+And the barn?
+Yes, ma'am.
 Where is that girl?
 This way, please.
 Let me to introduce you to my wife, Carmen.
-- Charmed.
-- A pleasure to meet you.
+Charmed.
+A pleasure to meet you.
 From now on, one ration card per family.
 Take a look.
-- One?
-- Only one.
+One?
+Only one.
 Captain, I'm not sure it'll be enough.
 If people are careful, it should be plenty.
 We can't allow anyone to send food to the guerillas in the mountains.
@@ -507,13 +507,13 @@ I don't care.
 I still want to hear it.
 Don't be afraid.
 It's only me.
-- Are you ready?
-- Yes.
+Are you ready?
+Yes.
 Then let's go.
 This is sheer madness.
 When that man finds out about us, he'll kill us all.
-- Have you thought about that?
-- Are you so afraid of him, Doctor?
+Have you thought about that?
+Are you so afraid of him, Doctor?
 It's not fear...
 ...at least not for myself.
 Pedro!
@@ -545,8 +545,8 @@ Let's see.
 ...N-North American...
 ...British and Canadian troops...
 ...disembarked on a small beach in the North of F-F.
-- "France", idiot.
-- F-f-f-rance.
+"France", idiot.
+F-f-f-rance.
 More than 150,000 soldiers give us hope...
 ...under the command of General Dwight D. Eisenhower...
 Is it really bad, doctor?
@@ -571,8 +571,8 @@ You're screwed, no guns, no safe shelter...
 You need food, medicine.
 You must take care of Mercedes.
 If you really love her, you'd cross the border with her.
-- This is a lost cause.
-- I'm staying here, doctor.
+This is a lost cause.
+I'm staying here, doctor.
 There's no choice.
 You have to leave.
 Here's the key, but you can't go down there now.
@@ -621,8 +621,8 @@ They didn't open a single one.
 What the hell are you talking about?
 This whole mess.
 They didn't open any of the cars.
-- They didn't take anything.
-- Nothing? Are you sure?
+They didn't take anything.
+Nothing? Are you sure?
 God only knows what they wanted, other than to waste our time.
 They came out of nowhere, Captain.
 They have grenades, they went up hill.
@@ -637,15 +637,15 @@ Damn it!
 These are useless! They can't talk.
 Captain, this one's still alive.
 Shot in the leg.
-- What's happened?
-- They caught one.
+What's happened?
+They caught one.
 They took one of them alive.
 And they're taking him to the storeroom.
 Mercedes!
 Pedro... Pedro...
 Mercedes?
-- I need to get into the storeroom.
-- Not now.
+I need to get into the storeroom.
+Not now.
 Move away!
 That's plenty, dear.
 Should I take this up?
@@ -681,15 +681,15 @@ If you can count to three without st-t-tuttering...
 ...you can go.
 Don't look at him, look at me.
 Above me, there's no one.
-- Garces!
-- Yes, Captain?
+Garces!
+Yes, Captain?
 If I say this asshole can leave, would anybody contradict me?
 No one, Captain.
 He can leave.
 There you have it.
 Count to three.
-- One.
-- Good.
+One.
+Good.
 Two.
 One more and you will be free.
 Shame.
@@ -699,18 +699,18 @@ Surely, you must be relieved.
 Yes, thank you.
 But things haven't turned out so well.
 No?
-- I had an accident.
-- An accident?
+I had an accident.
+An accident?
 Yes.
-- You broke the rules!
-- It was only two grapes!
+You broke the rules!
+It was only two grapes!
 I thought no one would notice.
-- We've made a mistake!
-- A mistake?
+We've made a mistake!
+A mistake?
 You failed.
 You can never return.
-- It was an accident!
-- You cannot return.
+It was an accident!
+You cannot return.
 The moon will be full in three days.
 Your spirit shall forever remain among the humans.
 You shall age like them, you shall die like them...
@@ -728,8 +728,8 @@ It has its advantages.
 Serrano, stay here.
 I talked.
 Not much.
-- B-b-but I talked.
-- I'm sorry.
+B-b-but I talked.
+I'm sorry.
 I'm so sorry.
 Kill me.
 Kill me now, please.
@@ -737,13 +737,13 @@ Son of a bitch.
 It'll take away the pain.
 It's almost over.
 Watch Dr. Ferreiro...
-- ...I'll be right there.
-- Yes, Captain.
+...I'll be right there.
+Yes, Captain.
 You're not moving anymore.
 Are you sick?
 What are you doing down there?
-- Call him!
-- Who?
+Call him!
+Who?
 Who else, you imbecile?
 Ferreiro!
 What the hell is this?
@@ -772,8 +772,8 @@ You're getting older...
 ...soon you'll see that life isn't like your fairy tales.
 The world is a cruel place.
 And you'll learn that, even if it hurts.
-- No! No!
-- Ofelia!
+No! No!
+Ofelia!
 Magic does not exist.
 Not for you, me or anyone else.
 Mom! Help!
@@ -791,8 +791,8 @@ To obey-just like that-for the sake of obeying, without questioning...
 ...that's something only people like you can do, Captain.
 Captain!
 Garces! Call the troop paramedic.
-- Get up immediately!
-- Yes, Captain.
+Get up immediately!
+Yes, Captain.
 Your wife is dead.
 <i>Because the paths to the Lord are inscrutable.</i>
 <i>Because the essence of His forgiveness</i>
@@ -837,10 +837,10 @@ Be very careful.
 Good night, sir.
 Ofelia, Ofelia!
 Ofelia, I'm leaving tonight.
-- Where to?
-- I can't tell you. I can't tell you...
-- Take me with you.
-- No, no. I can't.
+Where to?
+I can't tell you. I can't tell you...
+Take me with you.
+No, no. I can't.
 I can't, my child. But I'll come back for you, I promise.
 Take me with you.
 I heard something.
@@ -864,8 +864,8 @@ You're sure, Captain?
 For God's sake, she's just a woman.
 That's what you've always thought.
 That's why I was able to get away with it.
-- I was invisible to you.
-- Damn.
+I was invisible to you.
+Damn.
 You've found my weakness:
 Pride.
 But it's your weak points we're interested in.
@@ -903,14 +903,14 @@ Fetch your brother...
 ...as quickly as you can, Your Highness.
 My brother?
 We need him.
-- But...
-- No more questions.
+But...
+No more questions.
 The door's locked.
 In that case, create your own door.
 Captain, with your permission.
 Come quickly.
-- Now what?
-- Serrano is back. He's wounded.
+Now what?
+Serrano is back. He's wounded.
 Wounded?
 Where's Garces?
 How many were there?
@@ -918,8 +918,8 @@ I don't know exactly, Captain.
 Fifty men, at least.
 The rest of the men didn't make it.
 Our watch posts are not responding.
-- How many men we have left?
-- Twenty, maybe less, sir.
+How many men we have left?
+Twenty, maybe less, sir.
 We're leaving.
 Together.
 Don't be afraid.
@@ -941,8 +941,8 @@ A pinprick, that's all.
 It's the final task.
 Hurry.
 You promised to obey me!
-- Give me the boy!
-- No!
+Give me the boy!
+No!
 My brother stays with me.
 You would give up your sacred rights for this brat you barely know?
 Yes, I would.
@@ -954,8 +954,8 @@ No!
 My son.
 Tell my son...
 Tell him what time his father died.
-- Tell him that I...
-- No.
+Tell him that I...
+No.
 He won't even know your name.
 Arise, my daughter.
 Come.

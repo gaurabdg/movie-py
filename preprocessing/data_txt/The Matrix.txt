@@ -26,8 +26,8 @@ COP #1: Freeze! Police!
 COP #2: Hands on your head!
 COP #2:
 Do it! Do it now!
-- Lieutenant.
-- Oh, shit.
+Lieutenant.
+Oh, shit.
 Lieutenant, you were given specific orders.
 LIEUTENANT:
 I'm just doing my job.
@@ -53,7 +53,7 @@ You have to focus, Trinity.</i>
 <i>There's a phone at Wells and Lake.</i>
 <i>You can make it.</i>
 <i>- All right.
-- Go.</i>
+Go.</i>
 That's impossible.
 Get up, Trinity. Just get up.
 Get up.
@@ -110,14 +110,14 @@ Sure. I'll go.
 Hello, Neo.
 How do you know that name?
 I know a lot about you.
-- Who are you?
-- My name is Trinity.
+Who are you?
+My name is Trinity.
 Trinity.
 The Trinity?
 That cracked the IRS D-base?
 That was a long time ago.
-- Jesus.
-- What?
+Jesus.
+What?
 I just thought...
 ...you were a guy.
 Most guys do.
@@ -126,10 +126,10 @@ How did you do that?
 Right now, all I can tell you...
 ...is that you're in danger.
 TRINITY: I brought you here to warn you.
-- Of what?
+Of what?
 They're watching you, Neo.
-- Who is?
-- Please just listen.
+Who is?
+Please just listen.
 I know why you're here, Neo.
 I know what you've been doing.
 I know why you hardly sleep...
@@ -175,8 +175,8 @@ Have a nice day.
 Hello?
 <i>MORPHEUS:
 Hello, Neo. Do you know who this is?</i>
-- Morpheus.
-- Yes.
+Morpheus.
+Yes.
 <i>I've been looking for you.</i>
 <i>I don't know if you're ready to see what I want to show you.</i>
 <i>But unfortunately, you and I have run out of time.</i>
@@ -187,16 +187,16 @@ What? Right now?
 <i>Yes. Now.</i>
 <i>Do it slowly.</i>
 <i>The elevator.</i>
-- Oh, shit!
-- Yes.
+Oh, shit!
+Yes.
 What do they want?
 <i>I don't know. If you don't want to find out, get out of there.</i>
 How?
 <i>I can guide you, but you must do exactly as I say.</i>
 <i>- Okay.
-- The cubicle across from you is empty.</i>
+The cubicle across from you is empty.</i>
 <i>- But what if they...
-- Go. Now.</i>
+Go. Now.</i>
 <i>Stay here for just a moment.</i>
 <i>When I tell you, go to the end of the row...</i>
 <i>...to the office at the end of the hall.</i>
@@ -204,7 +204,7 @@ How?
 <i>Go. Now.</i>
 <i>Good. Now, outside there is a scaffold.</i>
 <i>- How do you know this?
-- We don't have time.</i>
+We don't have time.</i>
 <i>To your left there's a window.
 Go to it.</i>
 <i>Open it.</i>
@@ -285,15 +285,15 @@ What is happening to me?
 <i>...Iooking for you.</i>
 <i>Now, do you still want to meet?</i>
 <i>- Yes.
-- Then go to the Adams Street bridge.</i>
+Then go to the Adams Street bridge.</i>
 Get in.
 What's this?
 It's necessary, Neo.
 For our protection.
-- From what?
-- From you.
-- Take off your shirt.
-- What?
+From what?
+From you.
+Take off your shirt.
+What?
 Stop the car.
 Listen, coppertop.
 We don't have time for 20 Questions.
@@ -302,23 +302,23 @@ Our way...
 ...or the highway.
 Fine.
 Please, Neo, you have to trust me.
-- Why?
-- Because you have been down there.
+Why?
+Because you have been down there.
 You know that road.
 You know exactly where it ends.
 And I know that's not where you want to be.
 Apoc, lights.
 TRINITY: Lie back.
 Lift up your shirt.
-- What's that?
-- You're bugged.
+What's that?
+You're bugged.
 Try and relax.
 Come on.
 Come on.
 It's on the move.
 Come on, you shit.
-- You're gonna lose it.
-- No, I'm not.
+You're gonna lose it.
+No, I'm not.
 Clear!
 Jesus Christ!
 That thing's real!?
@@ -400,7 +400,7 @@ Almost.
 MORPHEUS:
 Time is always against us.
 Please take a seat there.
-- You did all this?
+You did all this?
 TRINITY: Mm-hm.
 The pill you took is part of a trace program.
 It disrupts your carrier signals so we can pinpoint your location.
@@ -418,26 +418,26 @@ This can't be.
 MORPHEUS:
 Be what?
 Be real?
-- Going into replication.
-- Apoc?
+Going into replication.
+Apoc?
 Still nothing.
 NEO:
 It's cold.
 It's cold!
 Tank, we'll need a signal soon.
-- I got a fibrillation.
-- Apoc, location.
+I got a fibrillation.
+Apoc, location.
 APOC:
 Targeting almost there.
 He's going into arrest.
-- Lock. I got him!
-- Now, Tank, now!
+Lock. I got him!
+Now, Tank, now!
 Welcome...
 ...to the real world.
 MORPHEUS:
 We've done it, Trinity.
 We found him.
-- I hope you're right.
+I hope you're right.
 MORPHEUS: I don't have to hope.
 I know it.
 Am I dead?
@@ -471,8 +471,8 @@ This is the core...
 Most of my crew you already know.
 This is Apoc...
 ...Switch...
-- ...and Cypher.
-- Hi.
+...and Cypher.
+Hi.
 The ones you don't know:
 Tank and his big brother, Dozer.
 The little one behind you is Mouse.
@@ -553,16 +553,16 @@ I just said it would be the truth.
 Stop!
 Let me out!
 Let me out! I want out!
-- Easy, Neo. Easy.
-- Get this thing out of me.
+Easy, Neo. Easy.
+Get this thing out of me.
 Get this thing out of me!
 Don't touch me!
 Stay away from me!
 I don't believe it.
 I don't believe it.
 I don't believe it.
-- He's gonna pop.
-- Breathe, Neo.
+He's gonna pop.
+Breathe, Neo.
 Just breathe.
 I can't go back, can I?
 No.
@@ -600,14 +600,14 @@ Morning. Did you sleep?
 You will tonight.
 I guarantee it.
 I'm Tank. I'll be your operator.
-- You don't have any...
-- Holes? Nope.
+You don't have any...
+Holes? Nope.
 Me and my brother, Dozer, are 100% pure, old-fashioned, homegrown human.
 Born free right here...
 ...in the real world.
 Genuine child of Zion.
-- Zion?
-- If the war was over tomorrow...
+Zion?
+If the war was over tomorrow...
 ...Zion's where the party would be.
 It's a city?
 The last human city.
@@ -683,10 +683,10 @@ Whoa.
 Okey-dokey.
 Free my mind.
 What if he makes it?
-- No one's ever made their first jump.
+No one's ever made their first jump.
 MOUSE: I know.
-- But what if he does?
-- He won't.
+But what if he does?
+He won't.
 Come on.
 All right.
 No problem. Free my mind.
@@ -695,8 +695,8 @@ What does that mean?
 It doesn't mean anything.
 Everybody falls the first time.
 Right, Trin?
-- I thought it wasn't real.
-- Your mind makes it real.
+I thought it wasn't real.
+Your mind makes it real.
 If you're killed in the Matrix...
 ...you die here?
 The body cannot live without the mind.
@@ -719,15 +719,15 @@ And many of them are so inert...
 ...so hopelessly dependent on the system...
 ...that they will fight to protect it.
 Were you listening to me or looking at the woman in the red dress?
-- I was...
-- Look again.
+I was...
+Look again.
 Freeze it.
 NEO: This isn't the Matrix?
 MORPHEUS: No.
 It's another training program designed to teach you one thing:
 If you are not one of us, you are one of them.
-- What are they?
-- Sentient programs.
+What are they?
+Sentient programs.
 They can move in and out of any software still hardwired to their system.
 That means that anyone we haven't unplugged...
 ...is potentially an agent.
@@ -756,37 +756,37 @@ I'm trying to tell you that when you're ready...
 ...you won't have to.
 <i>TANK:
 We got trouble.</i>
-- Did Zion send the warning?
-- No, another ship.
+Did Zion send the warning?
+No, another ship.
 Shit.
-- Squiddy's sweeping in quick.
-- Squiddy?
+Squiddy's sweeping in quick.
+Squiddy?
 A sentinel. A killing machine designed for one thing.
 Search and destroy.
 Set her down there.
 How are we doing, Tank?
 Power off-line.
 EMP armed...
-- ...and ready.
-- EMP?
+...and ready.
+EMP?
 Electromagnetic pulse.
 Disables any electrical system in the blast radius.
 It's the only weapon we have against the machines.
 NEO: Where are we?
-- Their old service and waste systems.
+Their old service and waste systems.
 Sewers.
 TRINITY: There used to be cities that spanned hundreds of miles.
 Now these sewers are all that's left.
 Quiet.
 Whoa! Neo.
 You scared the bejesus out of me.
-- Sorry.
-- It's okay.
+Sorry.
+It's okay.
 Is that...?
 The Matrix?
 Yeah.
-- Do you always look at it encoded?
-- Well, you have to.
+Do you always look at it encoded?
+Well, you have to.
 The image translators work for the construct program.
 But there's way too much information to decode the Matrix.
 You get used to it.
@@ -862,8 +862,8 @@ That makes you wonder.
 Take chicken, for example.
 Maybe they didn't know what to make it taste like...
 ...which is why it tastes like everything.
-- And maybe they...
-- Shut up.
+And maybe they...
+Shut up.
 DOZER:
 It's a single-celled protein...
 ...combined with synthetic aminos, vitamins and minerals.
@@ -898,7 +898,7 @@ MORPHEUS:
 Unbelievable...
 ...isn't it?
 NEO: God!
-- What?
+What?
 I used to eat there.
 Really good noodles.
 I have these memories from my life.
@@ -920,7 +920,7 @@ So is this the same oracle that made...
 ...the prophecy?
 Yes. She's very old. She's been with us since the beginning.
 NEO: The beginning?
-- Of the Resistance.
+Of the Resistance.
 And she knows what? Everything?
 She would say she knows enough.
 And she's never wrong.
@@ -951,8 +951,8 @@ The Oracle will you see now.
 ORACLE:
 I know you're Neo.
 Be right with you.
-- You're the Oracle?
-- Bingo.
+You're the Oracle?
+Bingo.
 Not quite what you were expecting, right?
 Almost done.
 Smell good, don't they?
@@ -960,8 +960,8 @@ Yeah.
 ORACLE:
 I'd ask you to sit down...
 ...but you're not going to anyway.
-- And don't worry about the vase.
-- What vase?
+And don't worry about the vase.
+What vase?
 That vase.
 I'm sorry.
 I said, don't worry about it.
@@ -996,15 +996,15 @@ Now I'm supposed to say,
 Then you say:
 But what?
 But you already know what I'm going to tell you.
-- I'm not the One.
-- Sorry, kid.
+I'm not the One.
+Sorry, kid.
 You got the gift...
 ...but it looks like you're waiting for something.
 What?
 Your next life, maybe. Who knows?
 That's the way these things go.
-- What's funny?
-- Morpheus.
+What's funny?
+Morpheus.
 He almost had me convinced.
 I know.
 Poor Morpheus.
@@ -1049,8 +1049,8 @@ CYPHER: What happened?
 A black cat went past us...
 ...then another just like it.
 Was it the same cat?
-- I'm not sure.
-- Switch, Apoc.
+I'm not sure.
+Switch, Apoc.
 What is it?
 A dÃ©jÃ  vu is usually a glitch in the
 Matrix when they change something.
@@ -1092,11 +1092,11 @@ Morpheus!
 MORPHEUS:
 You must get Neo out!
 He's all that matters!
-- No, Morpheus! Don't!
-- Trinity, go!
+No, Morpheus! Don't!
+Trinity, go!
 Go!
-- We can't leave him!
-- We have to!
+We can't leave him!
+We have to!
 Cypher, come on!
 The great Morpheus.
 We meet at last.
@@ -1129,9 +1129,9 @@ I don't know where.</i>
 He's alive. We need an exit.
 You're not far from Cypher.
 <i>TRINITY: Cypher?
-- I know.</i>
+I know.</i>
 <i>- I sent him to Franklin and Erie.
-- Got it.</i>
+Got it.</i>
 TANK:
 Got him.
 Where are they?
@@ -1152,8 +1152,8 @@ You know...
 You're a beautiful woman, Trinity.
 <i>Too bad things had to turn out this way.</i>
 You killed them.
-- What?
-- Oh, God.
+What?
+Oh, God.
 I'm tired, Trinity.
 I'm tired of this war...
 ...tired of fighting.
@@ -1189,17 +1189,17 @@ But there...
 <i>...you have to watch Apoc die.</i>
 Trinity.
 <i>- Welcome to the real world.
-- But you're out, Cypher.</i>
+But you're out, Cypher.</i>
 <i>- You can't go back.
-- That's what you think.</i>
+That's what you think.</i>
 <i>They'll reinsert my body.</i>
 <i>I go back to sleep. When I wake up,
 I won't remember a thing.</i>
 By the way...
 ...if you have anything important to say to Switch...
 <i>...say it now.</i>
-- No, please don't.
-- Not like this.
+No, please don't.
+Not like this.
 Not like this.
 Too late.
 Goddamn you, Cypher!
@@ -1226,12 +1226,12 @@ Look into his eyes...
 <i>...yes...</i>
 <i>...or no.</i>
 <i>- Yes.
-- No!</i>
+No!</i>
 I don't believe it.
 Believe it or not, you piece of shit, you're still going to burn!
 You first.
-- You're hurt.
-- I'll be all right.
+You're hurt.
+I'll be all right.
 Dozer?
 SMITH:
 Have you ever stood and stared at it?
@@ -1269,7 +1269,7 @@ The future is our world, Morpheus.
 The future is our time.
 There could be a problem.
 NEO: What are they doing to him?
-- They're breaking into his mind.
+They're breaking into his mind.
 It's like hacking a computer.
 All it takes is time.
 How much time?
@@ -1302,32 +1302,32 @@ You were a father.
 We'll miss you always.
 Stop!
 I don't believe this is happening.
-- Neo, this has to be done.
+Neo, this has to be done.
 NEO: Does it?
 I don't know.
-- This can't be just coincidence.
-- What?
+This can't be just coincidence.
+What?
 NEO:
 The Oracle.
 She told me this would happen.
 She told me that I would have to make a choice.
 What choice?
-- What are you doing?
-- I'm going in.
+What are you doing?
+I'm going in.
 TRINITY: No, you're not.
-- I have to.
+I have to.
 Neo, Morpheus sacrificed himself so that we could get you out.
 There is no way that you're going back in.
 Morpheus did what he did because he believed I'm something I'm not.
 What?
 I'm not the One, Trinity.
-- The Oracle hit me with that too.
-- No, you have to be.
+The Oracle hit me with that too.
+No, you have to be.
 I'm sorry, I'm not.
 I'm just another guy.
 No, Neo, that's not true.
-- It can't be true.
-- Why?
+It can't be true.
+Why?
 This is loco. They've got Morpheus in a military-controlled building.
 Even if you somehow got inside, those are agents holding him. Three of them.
 I want Morpheus back too, but what you're talking about is suicide.
@@ -1337,14 +1337,14 @@ I can't explain to you why it's not.
 Morpheus believed something, and he was ready to give his life for it.
 I understand that now.
 That's why I have to go.
-- Why?
-- Because I believe in something.
+Why?
+Because I believe in something.
 What?
 I believe I can bring him back.
-- What are you doing?
-- Going with you.
-- No, you're not.
-- "No"?
+What are you doing?
+Going with you.
+No, you're not.
+"No"?
 Let me tell you what I believe.
 Morpheus means more to me than he does to you.
 I believe if you are serious about saving him, you will need my help.
@@ -1437,8 +1437,8 @@ Trinity!
 Help!
 Only human.
 Dodge this.
-- How did you do that?
-- Do what?
+How did you do that?
+Do what?
 You moved like they do.
 I've never seen anyone move that fast.
 It wasn't fast enough.
@@ -1459,8 +1459,8 @@ He's the One.
 Do you believe it now, Trinity?
 Morpheus...
 The Oracle.
-- She told me...
-- She told you...
+She told me...
+She told you...
 ...what you needed to hear.
 That's all.
 Sooner or later you'll realize, just as I did...
@@ -1469,13 +1469,13 @@ Sooner or later you'll realize, just as I did...
 <i>- Operator.
 MORPHEUS: Tank.</i>
 <i>- It's good to hear your voice.
-- We need an exit.</i>
+We need an exit.</i>
 Got one ready. Subway station,
 State and Balboa.
-- Damn it!
-- The trace was completed.
-- We have their position.
-- Sentinels are standing by.
+Damn it!
+The trace was completed.
+We have their position.
+Sentinels are standing by.
 Order the strike.
 They're not out yet.
 You first, Morpheus.
@@ -1485,10 +1485,10 @@ Everything the Oracle told me has come true.
 Everything but this.
 But what?
 Neo!
-- What happened?
+What happened?
 TRINITY: An agent.
-- Send me back.
-- I can't.
+Send me back.
+I can't.
 Mr. Anderson.
 Run, Neo. Run.
 What is he doing?
@@ -1508,10 +1508,10 @@ TRINITY: What happened?
 TANK: I don't know. I lost him.
 Oh, shit.
 Sentinels.
-- How long?
-- Five, maybe six minutes.
+How long?
+Five, maybe six minutes.
 Tank, charge the EMP.
-- We can't use that until he's out.
+We can't use that until he's out.
 MORPHEUS: I know. Don't worry.
 He's gonna make it.
 Flat or pumps? No, just...

@@ -9,12 +9,12 @@ SAILOR: It is stuck!
 MAN: (SINGING)
 Onward Christian soldiers
 Get back! Get back!
-- Marching as to war
-- They're all crazy!
+Marching as to war
+They're all crazy!
 MAN: Get off!
 Swales, for God's sake, give these poor wretches some laudanum to calm their shattered nerves!
-- They won't take nothing, Dr. Seward!
-- Well, give them something, anything!
+They won't take nothing, Dr. Seward!
+Well, give them something, anything!
 I can't. Get away, come on.
 Dr. Seward! Dr. Seward, where's Miss Lucy?
 Where's Miss Lucy to help with my baby?
@@ -22,8 +22,8 @@ Mrs. Galloway, where is my daughter?
 Miss Lucy's upstairs in the house, sir, looking after that friend of hers.
 Fine time to abandon us.
 Swales, I'm coming down.
-- Swales, I'm coming down. Out of the way!
-- All quiet, sir!
+Swales, I'm coming down. Out of the way!
+All quiet, sir!
 "But anyway, you needn't worry.
 "As soon as you finish law school,
 "I'm sure our firm will hire you in a second."
@@ -34,22 +34,22 @@ Oh! Is it all right?
 Yes, yes.
 You know, Lucy, you're so much braver than I am, taking on all those men like that.
 But don't you think we ought to have some influence, some say on things?
-- After all, we are not chattels.
-- We are not chattels.
-- No, I know we're not.
-- Miss Lucy.
+After all, we are not chattels.
+We are not chattels.
+No, I know we're not.
+Miss Lucy.
 Yes?
 Your father says he needs you in the wards right away.
-- Yes, I'm coming.
-- Do you have to go now, Lucy?
-- Yes, into bed with you.
-- All right.
-- Here we go.
-- Thank you.
+Yes, I'm coming.
+Do you have to go now, Lucy?
+Yes, into bed with you.
+All right.
+Here we go.
+Thank you.
 Now, remember, Mina, if you don't rest, you'll be stuck in this bedroom all winter.
 Yes, you're quite right.
-- You go down to them. I'll be fine.
-- Good night, darling.
+You go down to them. I'll be fine.
+Good night, darling.
 Good night.
 Lucy, we've got our work cut out.
 I'm sorry, Papa, but Mina isn't feeling at all well tonight.
@@ -86,12 +86,12 @@ Aye, aye.
 Should we not hitch the...
 Leave all that there.
 WOMAN: Morning, sir.
-- Fancy.
-- That he is! He's fancy.
-- Sorry, no one allowed on board.
-- I've got business on board.
-- What sort of business?
-- I'm a solicitor, Jonathan Harker, and I've been on the road all night from London.
+Fancy.
+That he is! He's fancy.
+Sorry, no one allowed on board.
+I've got business on board.
+What sort of business?
+I'm a solicitor, Jonathan Harker, and I've been on the road all night from London.
 SEWARD: Jonathan!
 It's all right, let him pass.
 Right. Carry on.
@@ -100,10 +100,10 @@ Our firm was telegraphed yesterday that this ship had been sighted a week early.
 Oh, God.
 The man we represented in the purchase of Carfax Abbey, Count Dracula...
 Count Dracula, of course!
-- How stupid of me, I almost forgot in all...
-- Is he safe?
-- Who?
-- Dracula.
+How stupid of me, I almost forgot in all...
+Is he safe?
+Who?
+Dracula.
 Oh, yes. He's the only one who is.
 Young Mina found him on the beach last night, and we took him to Carfax.
 As for the rest of the crew...
@@ -121,8 +121,8 @@ You can't do that, Renfield.
 The Count's not here to sign for them and they stay here until he comes around himself.
 I'm sorry, Harbormaster, but the rights of the ship owner are already completely sacrificed, since the tiller of this vessel is held in a dead hand.
 Now, where's the rest of Dracula's baggage? I'd like to inspect that as well.
-- Come this way.
-- Harker, you sold me house right out from under me and you sold that poor old Count a right bill of goods with your fancy silver tongue.
+Come this way.
+Harker, you sold me house right out from under me and you sold that poor old Count a right bill of goods with your fancy silver tongue.
 SEWARD: Renfield!
 I've half a mind to tell
 Dracula he been took good.
@@ -139,8 +139,8 @@ We've had the most...
 There, there, that's enough of that.
 Save that till after you're married.
 I can't tell you how dreadful it's been.
-- Mina went...
-- Slow down, Lucy, Lucy, Lucy.
+Mina went...
+Slow down, Lucy, Lucy, Lucy.
 Lucy, slow down. I had to come up here to meet your new neighbor.
 It was terrifying. Mina found him washed up on the beach.
 It's a miracle he's not dead.
@@ -160,13 +160,13 @@ Oh, a dog, I'm sure.
 Probably the ship's mascot.
 Early this morning, that big dog belonging to the dustman were found, dead as a doornail.
 Had its throat tore away.
-- Tore away?
-- Aye.
+Tore away?
+Aye.
 By some savage claw, they say.
 Count Dracula.
 Good evening.
-- Miss Seward.
-- SEWARD: Good evening, Count.
+Miss Seward.
+SEWARD: Good evening, Count.
 Dr. Seward. Miss Van Helsing.
 My savior.
 I trust you're feeling improved.
@@ -198,8 +198,8 @@ You haven't...
 No, thank you, Doctor.
 I never drink wine.
 Before you arrived, we were looking at the ship's log.
-- It wasn't lost at sea?
-- No.
+It wasn't lost at sea?
+No.
 The very last entry was a strange word.
 A word that Mina thought meant "undead."
 Undead?
@@ -209,8 +209,8 @@ You were right.
 No, with your permission and all due respect to Miss Van Helsing...
 Yes, I'm quite finished, thank you.
 There is a distinction.
-- The words "not dead," you see...
-- SWALES: Damn!
+The words "not dead," you see...
+SWALES: Damn!
 Carry the simple meaning...
 Dead, undead. I don't care.
 They all frighten me.
@@ -225,8 +225,8 @@ Szekely.
 I had no idea, Count, that your country was so complex.
 Oh, yes, it is, Doctor, indeed.
 It's very, very complex.
-- MINA: More coffee?
-- SEWARD: Mmm.
+MINA: More coffee?
+SEWARD: Mmm.
 So, you've come to England,
 Count, to settle down?
 To settle down? No, hardly that.
@@ -235,10 +235,10 @@ To share its life, its change, its death.
 You...
 You have a great lust for life, Count.
 How well you phrase it.
-- SWALES: Miss Van Helsing!
-- Oh!
-- Mina.
-- I'm all right.
+SWALES: Miss Van Helsing!
+Oh!
+Mina.
+I'm all right.
 I'm all right. I'm just dizzy.
 Swales, get the laudanum.
 DRACULA: No. No drugs.
@@ -263,25 +263,25 @@ Now, look at me.
 When I will you to do a thing, it shall be done.
 Hear and obey.
 From now on, you have no pain.
-- And no will of her own, either.
-- SEWARD: Lucy!
+And no will of her own, either.
+SEWARD: Lucy!
 I admire your candor, Miss Seward.
 It is precisely the kind of stimulating encounter I'd hoped to find here in England.
-- HARKER: Indeed.
-- Yes, indeed.
+HARKER: Indeed.
+Yes, indeed.
 I despise women with no life in them.
 No blood.
 When you awake, you will remember nothing.
 Good Lord! Was it something that I said?
 DRACULA: Now, Mr. Harker, come. We must talk seriously.
 I want to sign the deed to my new home here in England.
-- Of course.
-- LUCY: Tonight? I won't hear of it.
+Of course.
+LUCY: Tonight? I won't hear of it.
 This was meant to be a party to welcome our new neighbor.
 Come, Count.
 Come and dance with me.
-- But I hardly know...
-- It doesn't matter. I'll teach you.
+But I hardly know...
+It doesn't matter. I'll teach you.
 I meant,
 I hardly know you.
 Nonsense.
@@ -289,16 +289,16 @@ Nonsense.
 Jonathan?
 HARKER: Boo!
 Oh, my God, Jonathan!
-- Don't ever do that!
-- Oh. (SHUSHING)
+Don't ever do that!
+Oh. (SHUSHING)
 I thought you loved to be frightened.
 I think I shall go back to bed, Mr. Harker.
 Mr. Harker, is it?
 I see. Looks like I'm not gonna be good enough for the likes of you anymore.
 Hobnobbing with royalty now, are we?
 Really, Jonathan, you pretend to be so utterly modern.
-- We were just dancing.
-- Just dancing!
+We were just dancing.
+Just dancing!
 That's a right amazing way of putting it.
 Do you know, Jonathan, if you go on being cross, you're going to sprout the most enormous wart right on the end of your nose.
 It's nothing.
@@ -311,8 +311,8 @@ Oh.
 Here we go.
 Here we go.
 Nice and fat and juicy.
-- (SCREAMS)
-- Good evening.
+(SCREAMS)
+Good evening.
 It will not open.
 You have nothing to fear.
 I'm accustomed to barring my home.
@@ -329,46 +329,46 @@ MAN: Go on, then, lads.
 Let the dog see the rabbit.
 Good morning, Dad. We got that.
 Good morning, Burt.
-- Morning, Billy, lad.
-- Tally-ho.
+Morning, Billy, lad.
+Tally-ho.
 WOMAN: Come now! Mind yourself!
 Mind where you're going!
 Mina?
 What is it? Mina, what's wrong? What is it?
 The moonlight...
 And the flapping...
-- (BELL RINGING)
-- Papa! Papa, come quickly!
+(BELL RINGING)
+Papa! Papa, come quickly!
 Darling, try and tell me what's wrong.
-- I... I...
-- What is it?
+I... I...
+What is it?
 LUCY: Papa, come quickly!
-- Papa, help her!
-- What's wrong with her?
+Papa, help her!
+What's wrong with her?
 She can't breathe.
 My throat pains me so.
 I can't get any air.
 There's plenty. Take a deep breath.
-- HARKER: What happened?
-- I don't know.
+HARKER: What happened?
+I don't know.
 She's so white. Asphyxia.
 Just breathe in, darling.
 Just breathe.
 Mina, breathe.
-- SEWARD: Breathe, please.
-- LUCY: Try!
-- Mina, breathe! Breathe! Mina!
-- Try, darling.
-- Mina, breathe, breathe!
-- I can't breathe!
+SEWARD: Breathe, please.
+LUCY: Try!
+Mina, breathe! Breathe! Mina!
+Try, darling.
+Mina, breathe, breathe!
+I can't breathe!
 Oh, Papa, stop it!
-- Breathe!
-- Oh, Father, be careful!
+Breathe!
+Oh, Father, be careful!
 Breathe! Mina, Mina! Breathe!
 Oh, Papa, stop it!
 Breathe, breathe.
-- Try, darling, just...
-- Breathe.
+Try, darling, just...
+Breathe.
 SEWARD: Breathe.
 Oh, my God, Papa. She's dead.
 Look at her throat!
@@ -435,8 +435,8 @@ Here.
 If you'd like to sign at the bottom.
 And some customs documents for your crates.
 Now, I didn't know what to say of their contents.
-- Soil.
-- Soil?
+Soil.
+Soil?
 Just plain dirt.
 Transylvanian earth.
 I have a keen interest in botany.
@@ -444,8 +444,8 @@ Can you drive to London at once to record the deed?
 No.
 Tomorrow. I must stay with Lucy for the funeral.
 Oh, yes. Of course.
-- She's taking it...
-- Not well.
+She's taking it...
+Not well.
 She blames herself.
 She was with me when
 Mina was taken ill.
@@ -460,8 +460,8 @@ Mr. Harker, would you deliver this letter to Dr. Seward for me?
 Of course.
 I should like to offer his daughter and he the hospitality of my home after the funeral.
 You're welcome, of course, but you are leaving, are you not?
-- Good evening.
-- Good evening.
+Good evening.
+Good evening.
 I want you to help me!
 Take me away from this cursed place!
 Let go of me, you bloody idiot!
@@ -511,13 +511,13 @@ Professor Van Helsing, is arriving from Paris this evening, and we shall have to
 I'm afraid we shall be unable to take advantage of
 Count Dracula's kind invitation to dinner.
 Invitation to dinner?
-- You didn't tell me...
-- Didn't I?
+You didn't tell me...
+Didn't I?
 Well, it doesn't matter now, I'll have to send word around excusing us.
-- No, I'll go.
-- Go?
-- I should have thought you'd rather...
-- As a courtesy.
+No, I'll go.
+Go?
+I should have thought you'd rather...
+As a courtesy.
 He's sending a carriage round at 8:00.
 So, if you, uh...
 MAN: Whitby. Whitby.
@@ -536,8 +536,8 @@ What in God's name could have happened?
 I don't know, I don't know.
 Jack, Jack, you must explain to me.
 I insist. From the beginning.
-- As patiently as you can.
-- I am baffled.
+As patiently as you can.
+I am baffled.
 Hello?
 Hello?
 Is anyone here?
@@ -551,8 +551,8 @@ Let me see to your comfort.
 Of course, you examined her with great care.
 There were no functional causes. None.
 She'd been nervous certainly.
-- Sleepwalking.
-- Sleepwalking?
+Sleepwalking.
+Sleepwalking?
 Nightmares. I prescribed laudanum.
 What? Laudanum?
 For nervous prostration.
@@ -570,8 +570,8 @@ But the warlike days are over.
 Anyway, it's not healthy to live in the past.
 No, it isn't.
 Jonathan Harker tells me you speak some Rumanian.
-- Oh, hardly...
-- (SPEAKING IN RUMANIAN)
+Oh, hardly...
+(SPEAKING IN RUMANIAN)
 There, you do understand.
 No, really, I have no idea what you said.
 I said it would be nice to see you smile.
@@ -615,19 +615,19 @@ You take the dawn for granted.
 The warm, hot sunlight.
 Ah.
 But the night...
-- Was made to enjoy.
-- Yes.
+Was made to enjoy.
+Yes.
 Yes, it was.
 It was made to enjoy life and love.
 Look at me. Look.
-- You must forgive me.
-- What for?
+You must forgive me.
+What for?
 For intruding on your life.
 I came of my own accord.
 You should perhaps go.
 No, I'd rather stay.
-- It will be light soon.
-- Not for hours yet.
+It will be light soon.
+Not for hours yet.
 I will see you again.
 Oh, please.
 SEWARD: Abraham?
@@ -641,22 +641,22 @@ What are these?
 Ah! Those tiny flowers are from the garlic plant.
 Whatever for?
 Do you believe in corporeal transference?
-- No.
-- In materialization?
-- No.
-- And not in astral bodies?
+No.
+In materialization?
+No.
+And not in astral bodies?
 What is this to do with Mina?
 You know the legends of central Europe of the werewolves and vampires.
 Vampires?
 Creatures who suck the blood of the living.
 You aren't saying that you believe...
-- that Mina was attacked by...
-- A creature that is dead... and yet not dead, a thing that lives after its death
-- by drinking...
-- Oh, no!
+that Mina was attacked by...
+A creature that is dead... and yet not dead, a thing that lives after its death
+by drinking...
+Oh, no!
 It must have blood,
-- or it dies an agonizing death.
-- Please, stop.
+or it dies an agonizing death.
+Please, stop.
 Miss Lucy?
 I wonder if I may?
 This was to be Mina's for her birthday.
@@ -714,8 +714,8 @@ Mina?
 Papa.
 SEWARD: Mina, no!
 Papa.
-- Mr. Harker.
-- Mrs. Galloway,
+Mr. Harker.
+Mrs. Galloway,
 I'm sorry to knock you up at this hour, but is Miss Lucy...
 In her room, sound asleep.
 Which is where we should all be, if we had more common sense.
@@ -728,12 +728,12 @@ Lucy?
 Lucy, what's the matter?
 Lucy!
 Lucy, what is it? Lucy!
-- Come, Abraham, we need to get...
-- JONATHAN: Lucy!
-- Jonathan.
-- Dr. Seward.
-- Thank God, you're back.
-- Doctor, quickly. Lucy, she's so cold.
+Come, Abraham, we need to get...
+JONATHAN: Lucy!
+Jonathan.
+Dr. Seward.
+Thank God, you're back.
+Doctor, quickly. Lucy, she's so cold.
 Professor.
 She has lost a great deal of blood.
 There's scarcely any pulse.
@@ -751,8 +751,8 @@ No, it doesn't matter.
 She needs more than your blood, Jonathan.
 What she doesn't need is to breathe the odor from those wretched plants.
 Do not trifle with me. There is a grim purpose in all I do.
-- Just a little bit longer.
-- All right.
+Just a little bit longer.
+All right.
 Ah, the devil.
 DRACULA: I'm not as bad as that.
 I did not hear you come in, Count.
@@ -786,8 +786,8 @@ Professor?
 Abraham, what has happened to you?
 Dracula has been here.
 What for?
-- He came to kill me.
-- SEWARD: What?
+He came to kill me.
+SEWARD: What?
 It is he who is the vampire.
 SEWARD: Abraham, this night has been a monstrous...
 He came to kill me, and now he will prey upon you.
@@ -807,22 +807,22 @@ Heavens and earth, no!
 It's not your choice.
 She was my daughter.
 If we fail here, it is not merely a matter of life and death, it is that we shall become such as she.
-- That we and your Lucy...
-- No, it's not possible!
+That we and your Lucy...
+No, it's not possible!
 May become foul things of the night. There is work.
 Wild work to be done.
 And now, are the powers of all the devils against us.
 No!
-- LUCY: Mrs. Galloway.
-- Yes?
+LUCY: Mrs. Galloway.
+Yes?
 Would you be kind enough to make me a cup of tea? I feel rather cold.
 No wonder.
 The doctor's orders were that you should stay in bed.
 But how he thinks I could keep you there, I don't know.
-- Mrs. Galloway.
-- Good morning, Mr. Harker.
-- Where's Lucy? You're supposed...
-- Oh, she's in her room.
+Mrs. Galloway.
+Good morning, Mr. Harker.
+Where's Lucy? You're supposed...
+Oh, she's in her room.
 She's looking much better and asking for tea.
 I'll get the car.
 HARKER: Lucy, stop!
@@ -834,8 +834,8 @@ There! Now, you must believe me.
 Lucy, no. You can't possibly go to him.
 He's no danger to me.
 He's a monster! A vampire!
-- You're fools, all of you!
-- No!
+You're fools, all of you!
+No!
 She means to warn him.
 Jonathan, if you try to stop me,
 I shall kill myself.
@@ -846,8 +846,8 @@ Kind?
 If I could send his soul to everlasting, burning hell, I would!
 I despise you. All of you.
 Get out of my way.
-- Lucy, no!
-- Let me go!
+Lucy, no!
+Let me go!
 Let me go!
 You must not go.
 No!
@@ -874,8 +874,8 @@ You have accomplished nothing, Van Helsing.
 Time is on my side.
 In a century, when you are dust,
 I shall wake and call Lucy, my queen, from her grave.
-- No.
-- Yes.
+No.
+Yes.
 I have in my time had many brides, Mr. Harker, but I shall set Lucy above them all.
 You won't get Lucy.
 She's mine already.
@@ -892,8 +892,8 @@ He probably had other coffins brought to him other ways.
 You know this man's cunning.
 Pity my poor Lucy, then. He's probably got them scattered all over Whitby by now.
 Then we'll find them and tear them open, one by one.
-- In there? She can't be so ill.
-- I couldn't help it.
+In there? She can't be so ill.
+I couldn't help it.
 When she came round, she was like a wild thing.
 You have given her medication? Laudanum?
 My own daughter? Certainly not.
@@ -928,40 +928,40 @@ Jonathan, it's no use.
 Whatever he wants to know, he finds out.
 He knows everything you think, everything you do.
 Lucy, stop, please!
-- All right. All right.
-- Stop it!
-- No.
-- Don't worry.
+All right. All right.
+Stop it!
+No.
+Don't worry.
 No. Lucy, please.
 There's nothing to be frightened of, I love you.
-- I love you.
-- No.
+I love you.
+No.
 I love you. I love you. I love you.
-- No, please.
-- I love you.
+No, please.
+I love you.
 Professor! Professor!
 Oh, no.
 Oh, no. Oh, no.
 LUCY: Oh, no.
-- SEWARD: She'll sleep now.
-- HARKER: But shouldn't we stay with her?
+SEWARD: She'll sleep now.
+HARKER: But shouldn't we stay with her?
 It's all right. My people will look after her.
-- You two, you need some rest.
-- MAN: Give me them back!
+You two, you need some rest.
+MAN: Give me them back!
 Give me them back!
 Give me them back!
-- Give me them back, you old niggly.
-- What?
+Give me them back, you old niggly.
+What?
 Dr. Seward, make him give me them back.
-- He's collecting bugs.
-- SEWARD: Bugs?
+He's collecting bugs.
+SEWARD: Bugs?
 And he's eating them alive.
 He's disgusting!
 You'll see what disgusting is tonight...
-- Hey, get down there!
-- ...when he comes.
-- Excuse me. When who comes, please?
-- You know.
+Hey, get down there!
+...when he comes.
+Excuse me. When who comes, please?
+You know.
 Give me them back, you crab-faced old buzzard.
 You've got no blood in you, anyway.
 And besides, I've got one here that you didn't find.
@@ -1031,12 +1031,12 @@ TOM: Whoa!
 Whoa!
 Look, that crate!
 Scarborough. The port!
-- HARKER: Then he's leaving England.
-- VAN HELSING: After him!
+HARKER: Then he's leaving England.
+VAN HELSING: After him!
 Hurry.
 HARKER: Hindley!
-- VAN HELSING: Pull in front of him.
-- HARKER: For God's sake, stop, man!
+VAN HELSING: Pull in front of him.
+HARKER: For God's sake, stop, man!
 Hindley!
 I can't stop them!
 For God's sake, what are you doing, man?
@@ -1069,18 +1069,18 @@ You did see it arrive?
 Is that the one with the big crate on it?
 HARKER: Yes, where is it?
 It's out there, aboard the Czarina Catherine,
-- bound for Rumania.
-- HARKER: Take us to her. We'll pay you.
+bound for Rumania.
+HARKER: Take us to her. We'll pay you.
 VAN HELSING:
 Please, we must catch that ship.
 What?
 You stay here in case they are not on board. Keep well. Bye.
 Take care.
-- Hey! Stop!
-- Hey! Hey!
+Hey! Stop!
+Hey! Hey!
 Dracula, where is he?
-- (SPEAKING IN FOREIGN LANGUAGE)
-- Count Dracula is on this ship!
+(SPEAKING IN FOREIGN LANGUAGE)
+Count Dracula is on this ship!
 Nosferatu.
 The cargo hold!
 Where is it?

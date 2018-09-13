@@ -81,7 +81,7 @@ It's still good, take it.</b></font>
 <font color="#ffff00"><b>All right, well, yeah, let's...</b></font>
 <font color="#ffff00"><b>We need to discuss it and we'll get back to you.</b></font>
 <font color="#ffff00"><b>- Oh.
-- I'll let you know.</b></font>
+I'll let you know.</b></font>
 <font color="#ffff00"><b>Let me, uh, give you a card.</b></font>
 <font color="#ffff00"><b>Give me a call any time if you have any more questions.</b></font>
 <font color="#ffff00"><b>- All right, thank you.
@@ -130,7 +130,7 @@ The guy just needs something to live for.</b></font>
 <font color="#ffff00"><b>He never gave a shit about you or me.</b></font>
 <font color="#ffff00"><b>I saw you anchoring the other night.</b></font>
 <font color="#ffff00"><b>- Nice job.
-- Thanks.</b></font>
+Thanks.</b></font>
 <font color="#ffff00"><b>It's your first time in the chair, right?</b></font>
 <font color="#ffff00"><b>Yeah, Kelly Ann Castillo called in sick,</b></font>
 <font color="#ffff00"><b>so they let me fill in.</b></font>
@@ -178,7 +178,7 @@ I don't know.</b></font>
 Let's... Let's do something.</b></font>
 <font color="#ffff00"><b><i>Pick up or call me back,</i></b></font>
 <font color="#ffff00"><b>- right now.
-- Shit.</b></font>
+Shit.</b></font>
 <font color="#ffff00"><b><i>I don't know what
 I'm going to do with him.</i></b></font>
 <font color="#ffff00"><b><i>I'm going to put him in a...</i></b></font>
@@ -237,7 +237,7 @@ I'm going to do with him.</i></b></font>
 <font color="#ffff00"><b>Beer ain't "drinking."</b></font>
 <font color="#ffff00"><b>Let's go.</b></font>
 <font color="#ffff00"><b>- Hey, Dad.
-- Yeah?</b></font>
+Yeah?</b></font>
 <font color="#ffff00"><b>How about we go see Mount Rushmore?</b></font>
 <font color="#ffff00"><b>We don't have time for that.</b></font>
 <font color="#ffff00"><b>It's just 30 minutes off the Interstate.</b></font>
@@ -321,14 +321,14 @@ Uncle Ray and Aunt Martha,</b></font>
 <font color="#ffff00"><b>No.</b></font>
 <font color="#ffff00"><b>Whose else is it going to be?</b></font>
 <font color="#ffff00"><b>- See if it fits.
-- They're not my teeth.</b></font>
+They're not my teeth.</b></font>
 <font color="#ffff00"><b>They have to be.</b></font>
 <font color="#ffff00"><b>I ought to know my own teeth.</b></font>
 <font color="#ffff00"><b>Of course they're my teeth.</b></font>
 <font color="#ffff00"><b>Don't be a moron.</b></font>
 <font color="#ffff00"><b>Well, hello there, boys!</b></font>
 <font color="#ffff00"><b>- Hey, Aunt Martha.
-- Hi.</b></font>
+Hi.</b></font>
 <font color="#ffff00"><b>Woody!</b></font>
 <font color="#ffff00"><b>Martha.</b></font>
 <font color="#ffff00"><b>Davey!</b></font>
@@ -354,9 +354,9 @@ Uncle Ray and Aunt Martha,</b></font>
 <font color="#ffff00"><b>Uh, around the corner, to your left.</b></font>
 <font color="#ffff00"><b>You boys remember your cousin David?</b></font>
 <font color="#ffff00"><b>- Bart.
-- Hey.</b></font>
+Hey.</b></font>
 <font color="#ffff00"><b>- Cole.
-- Hey.</b></font>
+Hey.</b></font>
 <font color="#ffff00"><b>It's been a long time since we all met as kids.</b></font>
 <font color="#ffff00"><b>What are you guys up to?</b></font>
 <font color="#ffff00"><b>Not much.</b></font>
@@ -381,7 +381,7 @@ You must be starving.</b></font>
 <font color="#ffff00"><b>Um...</b></font>
 <font color="#ffff00"><b>A couple of days, I guess.</b></font>
 <font color="#ffff00"><b>- From Billings?
-- Yeah.</b></font>
+Yeah.</b></font>
 <font color="#ffff00"><b>How far is that?</b></font>
 <font color="#ffff00"><b>It's probably about, uh, 750 miles.</b></font>
 <font color="#ffff00"><b>It took you two days to drive 750 miles?</b></font>
@@ -401,7 +401,7 @@ You must be starving.</b></font>
 <font color="#ffff00"><b>It's okay. Just hurts.</b></font>
 <font color="#ffff00"><b>Did you get that, Dad?</b></font>
 <font color="#ffff00"><b>- Dad?
-- Huh?</b></font>
+Huh?</b></font>
 <font color="#ffff00"><b>Uncle Ray's foot hurts.</b></font>
 <font color="#ffff00"><b>I know.</b></font>
 <font color="#ffff00"><b>Everything else good, though?</b></font>
@@ -425,13 +425,13 @@ You must be starving.</b></font>
 <font color="#ffff00"><b>For how much?</b></font>
 <font color="#ffff00"><b>$800.</b></font>
 <font color="#ffff00"><b>- You need something?
-- Oh, hi, yeah.</b></font>
+Oh, hi, yeah.</b></font>
 <font color="#ffff00"><b>My dad, here, used to own this place.</b></font>
 <font color="#ffff00"><b>Oh, yeah?</b></font>
 <font color="#ffff00"><b>What you fellows got going on, here?</b></font>
 <font color="#ffff00"><b>Oh, we're just replacing a transmission cooler line.</b></font>
 <font color="#ffff00"><b>- You know Ed Pegram?
-- Who?</b></font>
+Who?</b></font>
 <font color="#ffff00"><b>Ed Pegram.</b></font>
 <font color="#ffff00"><b>Used to own this place with me.</b></font>
 <font color="#ffff00"><b>We don't know him.</b></font>
@@ -480,7 +480,7 @@ Have a beer with your old man.</b></font>
 <font color="#ffff00"><b>It just wasn't helping.</b></font>
 <font color="#ffff00"><b>And now you're all right.</b></font>
 <font color="#ffff00"><b>- Excuse me.
-- Yeah.</b></font>
+Yeah.</b></font>
 <font color="#ffff00"><b>Can I have a beer, too, please?</b></font>
 <font color="#ffff00"><b>You betcha.</b></font>
 <font color="#ffff00"><b>I'm going to drink with my dad.</b></font>
@@ -527,7 +527,7 @@ At least, at first.</b></font>
 <font color="#ffff00"><b>I'd say she's put up with your drinking all these years.</b></font>
 <font color="#ffff00"><b>I don't drink that much.</b></font>
 <font color="#ffff00"><b>- You're an alcoholic.
-- Bullshit.</b></font>
+Bullshit.</b></font>
 <font color="#ffff00"><b>Oh, what do you mean, "bullshit"?</b></font>
 <font color="#ffff00"><b>I knew you had a problem when I was eight.</b></font>
 <font color="#ffff00"><b>I used to watch you hide your booze in the garage.</b></font>
@@ -545,7 +545,7 @@ I figured it was you.</b></font>
 <font color="#ffff00"><b>whatever the goddamn hell I want.</b></font>
 <font color="#ffff00"><b>So, I guess you do drink.</b></font>
 <font color="#ffff00"><b>- A little bit.
-- A lot.</b></font>
+A lot.</b></font>
 <font color="#ffff00"><b>All right.</b></font>
 <font color="#ffff00"><b>So, I drink a lot!</b></font>
 <font color="#ffff00"><b>God damn it, so what?</b></font>
@@ -574,7 +574,7 @@ Sit down, sit down.</b></font>
 Jesus Christ, Woody.</b></font>
 <font color="#ffff00"><b>So, how you been?</b></font>
 <font color="#ffff00"><b>- Pretty good.
-- Yeah?</b></font>
+Yeah?</b></font>
 <font color="#ffff00"><b>Me, too. I can't complain.</b></font>
 <font color="#ffff00"><b>Boy, it's been a long time, Woody.</b></font>
 <font color="#ffff00"><b>A long time.</b></font>
@@ -738,11 +738,11 @@ Never said much.</b></font>
 <font color="#ffff00"><b>She was only 19</b></font>
 <font color="#ffff00"><b>when she was killed in a car wreck near Wausa.</b></font>
 <font color="#ffff00"><b>- What a whore.
-- Mom...</b></font>
+Mom...</b></font>
 <font color="#ffff00"><b>No, I liked Rose.
 But, my God, she was a slut.</b></font>
 <font color="#ffff00"><b>- Come on.
-- I'm just telling you the truth.</b></font>
+I'm just telling you the truth.</b></font>
 <font color="#ffff00"><b>She was screwing guys in the back of Hawthorne Creamery</b></font>
 <font color="#ffff00"><b>when she was only 15.</b></font>
 <font color="#ffff00"><b>Come on, Mom. Jesus.</b></font>
@@ -756,7 +756,7 @@ But, my God, she was a slut.</b></font>
 <font color="#ffff00"><b>Grabbed a handful of boob,</b></font>
 <font color="#ffff00"><b>and Woody was right there and didn't have a clue.</b></font>
 <font color="#ffff00"><b>- Did you, Woody?
-- Jesus, Mom.</b></font>
+Jesus, Mom.</b></font>
 <font color="#ffff00"><b>Well, my goodness.</b></font>
 <font color="#ffff00"><b>I didn't know Keith White was here.</b></font>
 <font color="#ffff00"><b>When did he die?</b></font>
@@ -768,7 +768,7 @@ But, my God, she was a slut.</b></font>
 <font color="#ffff00"><b>Peggy Huntsucker is pregnant.</b></font>
 <font color="#ffff00"><b>Peggy got knocked up again?</b></font>
 <font color="#ffff00"><b>- Yeah.
-- At her age?</b></font>
+At her age?</b></font>
 <font color="#ffff00"><b>That old cow must be 50.</b></font>
 <font color="#ffff00"><b>She just looks 50.</b></font>
 <font color="#ffff00"><b>That's what pig farming will do to you.</b></font>
@@ -844,7 +844,7 @@ It happens early around here.</b></font>
 <font color="#ffff00"><b>Thank you.</b></font>
 <font color="#ffff00"><b>Oh. Here it is.</b></font>
 <font color="#ffff00"><b>- Woody, Ray and Albert.
-- Wow!</b></font>
+Wow!</b></font>
 <font color="#ffff00"><b>Wow, they look like kids.</b></font>
 <font color="#ffff00"><b>Your dad was never much of a talker,</b></font>
 <font color="#ffff00"><b>and when he came back, he hardly said a word.</b></font>
@@ -880,7 +880,7 @@ It happens early around here.</b></font>
 <font color="#ffff00"><b>Do you want the fried chicken,</b></font>
 <font color="#ffff00"><b>or the flame-broiled chicken breast?</b></font>
 <font color="#ffff00"><b>- Fried.
-- He'll have the flame-broiled.</b></font>
+He'll have the flame-broiled.</b></font>
 <font color="#ffff00"><b>And for you, ma'am?</b></font>
 <font color="#ffff00"><b>I was thinking about having the roast beef,</b></font>
 <font color="#ffff00"><b>but now I'm not sure.</b></font>
@@ -903,7 +903,7 @@ Chicago morning</i></b></font>
 <font color="#ffff00"><b>He always did have a nice voice.</b></font>
 <font color="#ffff00"><b>It was the only nice thing about that bastard.</b></font>
 <font color="#ffff00"><b>- He's all right.
-- "All right"?</b></font>
+"All right"?</b></font>
 <font color="#ffff00"><b>Did you know that he was always</b></font>
 <font color="#ffff00"><b>trying to get in my bloomers?</b></font>
 <font color="#ffff00"><b>Jesus, Mom.</b></font>
@@ -930,7 +930,7 @@ Chicago morning</i></b></font>
 <font color="#ffff00"><b><i>Mr. Woody Grant!</i></b></font>
 <font color="#ffff00"><b><i>Stand up and take a bow, Woody.</i></b></font>
 <font color="#ffff00"><b>- Stand up, Dad.
-- Huh?</b></font>
+Huh?</b></font>
 <font color="#ffff00"><b>Don't encourage this nonsense.</b></font>
 <font color="#ffff00"><b>Dad, stand up. Stand up, it's for you.</b></font>
 <font color="#ffff00"><b>Just do it and get it over with.</b></font>
@@ -997,7 +997,7 @@ That's what I'd do.</b></font>
 <font color="#ffff00"><b>David, you probably don't remember</b></font>
 <font color="#ffff00"><b>Kathy and Dale Slaasted.</b></font>
 <font color="#ffff00"><b>- Oh, David.
-- Hi. How are you?</b></font>
+Hi. How are you?</b></font>
 <font color="#ffff00"><b>David Grant.</b></font>
 <font color="#ffff00"><b>I never would've recognized you in a million years.</b></font>
 <font color="#ffff00"><b>You were such a beautiful little boy.</b></font>
@@ -1033,7 +1033,7 @@ Lincoln is closed.</b></font>
 <font color="#ffff00"><b>Do you remember a gal you used to go out with</b></font>
 <font color="#ffff00"><b>named Peg Bender?</b></font>
 <font color="#ffff00"><b>- Who?
-- Peg Bender.</b></font>
+Peg Bender.</b></font>
 <font color="#ffff00"><b>I don't know. When?</b></font>
 <font color="#ffff00"><b>Last week.
 What do you mean, "When"?</b></font>
@@ -1163,7 +1163,7 @@ And a compressor.</b></font>
 <font color="#ffff00"><b>It sure is good to see you boys again.</b></font>
 <font color="#ffff00"><b>We just can't let this much time pass again.</b></font>
 <font color="#ffff00"><b>- Yeah.
-- Yeah, thanks, Aunt Betty.</b></font>
+Yeah, thanks, Aunt Betty.</b></font>
 <font color="#ffff00"><b>It's great seeing you again, too.</b></font>
 <font color="#ffff00"><b>But there is something,</b></font>
 <font color="#ffff00"><b>and it's kind of hard to bring up.</b></font>
@@ -1341,7 +1341,7 @@ How about yourself?</b></font>
 <font color="#ffff00"><b>Well, good to see you folks.</b></font>
 <font color="#ffff00"><b>I'd better get up front and drive us back to town.</b></font>
 <font color="#ffff00"><b>- It's so good to see you.
-- Good to see you.</b></font>
+Good to see you.</b></font>
 <font color="#ffff00"><b>Call us sometime.</b></font>
 <font color="#ffff00"><b>I will. Bye-bye.</b></font>
 <font color="#ffff00"><b>Bye-bye.</b></font>
@@ -1351,7 +1351,7 @@ How about yourself?</b></font>
 <font color="#ffff00"><b>What do you want to do now,</b></font>
 <font color="#ffff00"><b>bust into a silo and steal some corn?</b></font>
 <font color="#ffff00"><b>- Let me drive.
-- No, I'll drive.</b></font>
+No, I'll drive.</b></font>
 <font color="#ffff00"><b>What time do you figure we'll be shoving off in the morning?</b></font>
 <font color="#ffff00"><b>I think 8:00 sounds about right.</b></font>
 <font color="#ffff00"><b>You want another beer?</b></font>
@@ -1575,7 +1575,7 @@ There's no traffic.</b></font>
 Looking good, Woody!</b></font>
 <font color="#ffff00"><b>Get down.</b></font>
 <font color="#ffff00"><b>- What?
-- God damn it! Get down!</b></font>
+God damn it! Get down!</b></font>
 <font color="#ffff00"><b>Looking good!</b></font>
 <font color="#ffff00"><b>So long, Albert.</b></font>
 <font color="#ffff00"><b>So long, Woody.</b></font>

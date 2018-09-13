@@ -1,9 +1,9 @@
-- What kind is it?
-- I don't know.
+What kind is it?
+I don't know.
 White?
 <i>And the frame?</i>
-- Dark.
-- Postmark?
+Dark.
+Postmark?
 <i>Same as last time.</i>
 And no note.
 <i>No.</i>
@@ -22,7 +22,7 @@ Yes. I'll appeal to you, Viggo.
 <i>...the brave journalist going up against the bad guy.</i>
 <i>I don't know why malicious intent couldn't be proven.</i>
 <i>- When you call a guy a criminal--
-- If you want to say these things--</i>
+If you want to say these things--</i>
 <i>Mikael Blomkvist likes publicity.</i>
 <i>There's really no greater disgrace for a journalist than libel.</i>
 <i>-- Was found guilty today on 16 counts of aggravated libel.</i>
@@ -44,29 +44,29 @@ He's a fine journalist...</i>
 <i>...600,000 Swedish kronor in damages and all court costs.</i>
 Can I get a packet of Marlboro Red and a lighter?
 Yeah.
-- Where have you been?
-- Walking. Thinking.
-- Smoking?
-- Yeah. Just one.
+Where have you been?
+Walking. Thinking.
+Smoking?
+Yeah. Just one.
 TV4 called.
 I told them no statement...
 ...until we've read the judgment in its entirety.
 Well, I have. Anyone else?
 Everyone who wants to see you humiliated.
-- Been on the phone all morning?
-- I'm as much to blame.
-- You are? You wrote it?
-- I read it. I ran it.
-- Not the same.
-- Our credibility isn't dead yet.
+Been on the phone all morning?
+I'm as much to blame.
+You are? You wrote it?
+I read it. I ran it.
+Not the same.
+Our credibility isn't dead yet.
 Mine is.
 I'm tired.
 I'm gonna go home, crawl under the duvet for a week.
 I'll call Greger, tell him I'm not coming home.
 Thank you.
 It's possible we could wait forever.
-- You called her and spoke to her?
-- I'm afraid that doesn't mean much.
+You called her and spoke to her?
+I'm afraid that doesn't mean much.
 <i>No one here particularly likes her.</i>
 I find it's much better if she works from home.
 But you told her
@@ -74,13 +74,13 @@ I wanted to meet with her.
 I've told her many times
 I prefer her not to meet clients.
 <i>- You like her?
-- Very much.</i>
+Very much.</i>
 <i>She's one of the best investigators
 I have, as you saw from her report.</i>
-- But?
-- I'm concerned you won't like her.
-- She's different.
-- In what way?
+But?
+I'm concerned you won't like her.
+She's different.
+In what way?
 In every way.
 <i>Miss Salander is here.</i>
 Lisbeth.
@@ -89,10 +89,10 @@ How do you do?
 Something wrong with the report?
 No, it was quite thorough.
 But I'm also interested in what's not in it.
-- There's nothing not in it.
-- Your opinion of him isn't.
-- I'm not paid to give my opinion.
-- So you don't have one?
+There's nothing not in it.
+Your opinion of him isn't.
+I'm not paid to give my opinion.
+So you don't have one?
 He's clean, in my opinion.
 You mean he's hygienic?
 He's who he presents himself to be.
@@ -106,8 +106,8 @@ But you're right.
 He did make a fool of himself professionally.
 How much of a fool did he make of himself financially?
 The judgment will just about empty his savings.
-- May I go?
-- Moment.
+May I go?
+Moment.
 Your report is light in another area.
 His personal life.
 Anything you chose not to disclose?
@@ -128,20 +128,20 @@ No, you're right not to include that.
 I know.
 You needed a better attorney.
 You needed your sister.
-- She offered.
-- He declined.
-- As she hoped.
-- Never a good idea.
-- Mixing family and business.
-- I would've lost anyway.
+She offered.
+He declined.
+As she hoped.
+Never a good idea.
+Mixing family and business.
+I would've lost anyway.
 It wasn't about Mikael. It was about
 Wennerström sending a message...
 ...to the press and the FSA, saying, "Don't ask questions."
 Cheer up.
 Dad.
 Nilla, you don't have to worry about me.
-- Mom's worried.
-- About me?
+Mom's worried.
+About me?
 About the money.
 Good evening.
 Nilla? What are you doing?
@@ -149,13 +149,13 @@ Nothing.
 Are you serious?
 I don't wanna talk about it since I know you won't approve.
 Of...?
-- Nilla.
-- Light of Life.
+Nilla.
+Light of Life.
 Light of what?
-- Hello?
-- Herr Blomkvist.
+Hello?
+Herr Blomkvist.
 <i>- Yeah.
-- Forgive me for intruding on Christmas.</i>
+Forgive me for intruding on Christmas.</i>
 <i>My name is Dirch Frode.</i>
 I'm an attorney. I represent Henrik
 Vanger. Perhaps you've heard of him?
@@ -168,30 +168,30 @@ You're referring to your recent legal problems.
 That has provided us with much amusement.
 I'm sorry?
 <i>Herr Vanger has little love for Herr Wennerström either.</i>
-- Have him call me.
-- But he would love to speak to you...
+Have him call me.
+But he would love to speak to you...
 ...in person, if possible. Up north.
 <i>- In Hedestad.
-- That's not gonna be possible.</i>
+That's not gonna be possible.</i>
 <i>Herr Blomkvist, he's far too old to go to Stockholm. Please.</i>
 Be so kind as to consider.
 <i>Hedestad is lovely in the winter.</i>
 I'll call you back on this number.
 Okay?
 Usually when I wake up in a cold bed it's at home.
-- I'm sorry.
-- What are you doing?
-- I'm writing a press release.
-- Saying?
+I'm sorry.
+What are you doing?
+I'm writing a press release.
+Saying?
 You're taking over as publisher, you're very sorry...
 ...for any nuisance
 Mr. Wennerström was caused...
 ...and I can't be reached for comment.
-- Are you giving up?
+Are you giving up?
 Stepping aside.
 This makes me sick.
-- First time in Hedestad?
-- And the last.
+First time in Hedestad?
+And the last.
 Oh, don't say that.
 It's lovely in the spring.
 You said it would be lovely in the winter.
@@ -207,10 +207,10 @@ How do you do?
 So...
 ...what do you know about me?
 You used to run one of the largest industrial firms in the country.
-- "Used to." That's correct.
-- Oh, I didn't mean that.
-- Should I stay?
-- No.
+"Used to." That's correct.
+Oh, I didn't mean that.
+Should I stay?
+No.
 My grandfather forged the tracks...
 ...that the 4:30 train will take you home on.
 We stitched this country together.
@@ -230,8 +230,8 @@ You will be investigating thieves, misers, bullies...
 ...the most detestable collection of people that you will ever meet.
 My family.
 Would you like to sit? I could possibly clear a place if necessary.
-- Did you make it?
-- Have you something for me?
+Did you make it?
+Have you something for me?
 I am on welfare, I do not administer it.
 This is not enough.
 No, thank you.
@@ -248,14 +248,14 @@ But not the opportunity to regularly beat his wife, Margareta...
 ...and their son, Gottfried.
 Now, Gottfried, Harriet's father...
 ...was what they used to call a good-time Charlie.
-- They still call them that.
-- Do they? Okay.
+They still call them that.
+Do they? Okay.
 He was a charmer, a ladies' man and a drunk.
 In other words, a born salesman.
 Which he did for the company...
 ...traveling around and taking clients out to dinner.
-- Well, somebody's gotta do it.
-- That's right.
+Well, somebody's gotta do it.
+That's right.
 Anyway, he died in 1965.
 Drowned, drunk, here on the island.
 His wife, Isabella, who had been pretty much useless as a parent before...
@@ -266,8 +266,8 @@ That's right, I Googled him.
 And Harriet.
 She was bright, curious...
 ...a winning combination in any person.
-- And beautiful.
-- Yeah.
+And beautiful.
+Yeah.
 Something happened to her?
 Someone in the family murdered Harriet...
 ...and for the past 40 years...
@@ -314,8 +314,8 @@ Or the next 40 years.
 <i>What was she going to tell me?</i>
 Why didn't I make time for her?
 Why didn't I listen?
-- And she couldn't have just run away?
-- No. Not without being seen.
+And she couldn't have just run away?
+No. Not without being seen.
 The firemen stayed out all night...
 <i>...on the bridge pumping up gasoline.</i>
 <i>No one swam across or took a boat.</i>
@@ -341,8 +341,8 @@ There's me, the police, the killer...
 I have spent half my life examining the events of a single day.
 I understand your frustration...
 ...but what you're asking me to do, it's a waste of money.
-- But we haven't discussed your fee.
-- We don't need to.
+But we haven't discussed your fee.
+We don't need to.
 Thank you.
 I can't find something you've been unable to find in 40 years.
 You don't know that. You have a very keen investigative mind.
@@ -357,8 +357,8 @@ A way of avoiding all those people that you might want to avoid right now.
 As for compensation,
 I'll pay you double your salary...
 ...for as many months as it takes.
-- Quadruple it if you solve the mystery.
-- Herr Vanger--
+Quadruple it if you solve the mystery.
+Herr Vanger--
 I'm not done.
 I will throw in one more thing...
 ...even though you're a terrible negotiator.
@@ -371,8 +371,8 @@ He began his career working for me...
 You were right about him.
 You just couldn't prove it.
 We're in the middle of the worst crisis ever, and you're writing a memoir.
-- You fired me. I need something to do.
-- You fired you.
+You fired me. I need something to do.
+You fired you.
 I need you here, not the North Pole.
 Mikael, you know what this is going to look like.
 Like I've been gutted.
@@ -381,8 +381,8 @@ Wennerström wants to see me wave a white flag, not a red flag.
 If it looks like there's a problem between us, it'll satisfy him.
 There is a problem between us.
 He won't be satisfied until he shuts us down.
-- You're leaving me to fight him alone.
-- It's four hours by train.
+You're leaving me to fight him alone.
+It's four hours by train.
 It's not the North Pole.
 Hey, he)'-
 <i>Network busy.
@@ -394,8 +394,8 @@ Some milk?
 <i>Network busy.
 Please try again later.</i>
 Oh, yeah. These as well.
-- You're Mr. Palmgren's daughter?
-- His ward. He doesn't have a daughter.
+You're Mr. Palmgren's daughter?
+His ward. He doesn't have a daughter.
 Please.
 <i>He's had severe cerebral hemorrhaging...</i>
 <i>...either from the fall itself or from a stroke that led to the fall.</i>
@@ -406,17 +406,17 @@ Please.
 Oh, jeez.
 Hi. I'm Gunnar.
 The caretaker.
-- Oh, hey, Gunnar. Come in.
-- Okay.
-- You want to put it in there?
-- Okay.
+Oh, hey, Gunnar. Come in.
+Okay.
+You want to put it in there?
+Okay.
 You're an author.
 Well, I'm doing a biography of Herr Vanger.
-- I saw you on television.
-- That's unfortunate.
+I saw you on television.
+That's unfortunate.
 Bit of trouble, I guess.
-- No jail time though. That's good.
-- No.
+No jail time though. That's good.
+No.
 Cost you a lot of money though, yeah?
 There.
 The entire island is owned by my family.
@@ -426,8 +426,8 @@ Two in the family.
 Oh, yes, he's quite detestable, to put it nicely.
 But you'll probably never see him.
 He's a recluse.
-- He was there that day?
-- Indeed, he was.
+He was there that day?
+Indeed, he was.
 His daughter, Cecilia, lives over there.
 They don't speak.
 Does anybody speak to anybody on this island?
@@ -443,8 +443,8 @@ How you'll wish it were always so.
 Soon you will know us all only too well. With my apologies.
 Now, out there, my grandnephew
 Martin's house, Harriet's brother.
-- Who speaks to him?
-- I speak to him.
+Who speaks to him?
+I speak to him.
 He runs the company now, as I think I told you.
 Someone's shooting his dinner.
 Gunnar, probably.
@@ -452,8 +452,8 @@ Oh, yes, I met him earlier.
 He was 19 when
 Harriet disappeared.
 Well, he lives over there.
-- And you live there.
-- Sorry?
+And you live there.
+Sorry?
 Your house.
 Oh, yes.
 Yes, you're right.
@@ -468,8 +468,8 @@ But neither could I find the motive.
 Was it spontaneous?
 Was it calculated?
 Did she know something someone wished she didn't?
-- Was it about business?
-- Business? Well, she was 16.
+Was it about business?
+Business? Well, she was 16.
 And very bright.
 Henrik told me and many others he could easily see her...
 ...running the company one day.
@@ -478,15 +478,15 @@ She told them she was feeling unwell.
 She left early.
 But they also told me she kept secrets from them too.
 The main thing I learned was that teenage girls are complicated.
-- I have one.
-- Then you know.
+I have one.
+Then you know.
 I wanted to...
 ...ask you about this.
 She received that from Henrik the Christmas before.
 I've studied it more times than I can say.
 I know every page of it.
-- It's the last page I was curious about.
-- As was I.
+It's the last page I was curious about.
+As was I.
 It's a list of names, numbers and it must have some significance.
 All local phone numbers.
 The first belonged to a woman, Margot...
@@ -518,8 +518,8 @@ Make coffee, sort mail.
 But not full-time.
 Not even part-time consistently.
 They somehow got along without coffee or mail in July and August?
-- How much do you make there?
-- Enough.
+How much do you make there?
+Enough.
 How much is your rent?
 I Pay my rent.
 And when was the last time you were late?
@@ -531,8 +531,8 @@ There's a discrepancy between the obligation...
 There's no discrepancy. It was clear
 I could manage my own finances.
 That is not clear to me.
-- I'm not a child.
-- You are not. But you were.
+I'm not a child.
+You are not. But you were.
 And between then and now, you were committed...
 ...to the locked ward of St. Stefan's where you continued...
 ...to display violent aggression.
@@ -557,59 +557,59 @@ Since your behavior is elaborately documented in here...
 ...to the very lenient arrangement
 I have just outlined.
 Would you prefer institutionalization?
-- Mikael?
-- Yes.
-- I'm Liv.
-- Oh, hi.
+Mikael?
+Yes.
+I'm Liv.
+Oh, hi.
 We're going to the same place.
 Hop in.
 Oh, good, thank you.
 I found him at death's door, halfway up the hill.
-- I'm afraid I'm a little out of shape.
-- It's a climb for anyone.
-- I should've warned you. Come in.
-- Thank you, Martin.
+I'm afraid I'm a little out of shape.
+It's a climb for anyone.
+I should've warned you. Come in.
+Thank you, Martin.
 Henrik says great things about you.
-- No, no. Leave your shoes on.
-- Martin? Smells wonderful.
-- What are we drinking?
-- What a place. Look at that view.
+No, no. Leave your shoes on.
+Martin? Smells wonderful.
+What are we drinking?
+What a place. Look at that view.
 I used to work in the company's petrochemical division in Göteborg.
 When it was sold, I went with it.
 A dark day.
 I live in Hong Kong, but come back to Stockholm for family events.
 And I drive up to spend a couple of days with Martin.
-- It's just the moose steak she wants.
-- Who can blame her? It's wonderful.
+It's just the moose steak she wants.
+Who can blame her? It's wonderful.
 Something's left open.
 Do you like this wine...
 ...or you want to try something else?
-- No, no, it's fine.
+No, no, it's fine.
 You're writing a book now,
 Martin said.
-- Henrik's biography.
-- I love Henrik. He's fascinating.
+Henrik's biography.
+I love Henrik. He's fascinating.
 Martin too.
 Together they are the old Sweden and the new.
 Yes, they are.
 You know about Harriet, right?
-- You don't?
-- Yes, I do.
+You don't?
+Yes, I do.
 The family doesn't want to talk about it, but it can't be swept under the rug.
-- What can't?
-- Harriet.
+What can't?
+Harriet.
 We can talk about it later.
 We can talk about it now.
 Liv knows everything about my crazy family.
-- That's why she'll never marry me.
-- That's one reason.
+That's why she'll never marry me.
+That's one reason.
 I don't want to read about that in the book.
 Everything else is fine.
 Harriet certainly.
 You know, everything changed after that.
 Not just the family but the company as well.
-- How so?
-- We're not Ericsson or Nordea.
+How so?
+We're not Ericsson or Nordea.
 But we're still the largest family-owned company in the country.
 At our height we had
 40,000 employees.
@@ -617,21 +617,21 @@ We have half of that now.
 And that downward slide began after my sister's death.
 It broke Henrik's entrepreneurial spirit...
 ...and his heart.
-- You were here that day?
-- I came in later...
+You were here that day?
+I came in later...
 ...after the accident on the bridge, with the 4:30 train.
-- I know it well.
-- A terrible day.
+I know it well.
+A terrible day.
 And the days after, you know?
 Searching, not finding. Even worse.
 This event, Mikael, it has to have a big part in your book.
 I got a call from social welfare.
 I've been assigned a new guardian.
-- Hi.
-- Hello.
+Hi.
+Hello.
 I thought I'd come over and say hello.
-- I'm Cecilia.
-- Oh, yes. Please, come in.
+I'm Cecilia.
+Oh, yes. Please, come in.
 Can I get you some coffee?
 No, thank you.
 We are all uncomfortable with the idea of a chronicle of our family.
@@ -650,20 +650,20 @@ I wonder sometimes who's crazier, my Nazi father or my obsessed uncle.
 Since we're talking about her...
 ...since you brought her up, what was she like?
 What was Harriet like?
-- I'm sure Henrik has told you.
-- He was my age back then.
+I'm sure Henrik has told you.
+He was my age back then.
 He couldn't know what was really going on with a teenager.
 You were the same age.
 My sister Anita was closer to her in age.
 She knew Harriet better than anyone.
 You should talk to her.
-- I'd love to. Where is she?
-- If I had to guess, London.
+I'd love to. Where is she?
+If I had to guess, London.
 You don't know where your sister lives?
 I haven't seen her in years.
 We never really got along.
-- I'm getting used to that comment.
-- She hates this place more than I do.
+I'm getting used to that comment.
+She hates this place more than I do.
 She left.
 Moved to London, that was it.
 You couldn't pay her to send a Christmas card, much less visit.
@@ -680,10 +680,10 @@ And how many of those were men?
 It's regulation, I have to ask these things. It's a health matter.
 Write what you want.
 And why do you need such an expensive computer?
-- For work.
-- Making coffee, sorting mail.
-- I should have control of my money.
-- And you will.
+For work.
+Making coffee, sorting mail.
+I should have control of my money.
+And you will.
 Once you learn to be sociable, get along with people.
 Can you do that?
 Why don't we start with that now, huh?
@@ -700,15 +700,15 @@ And...
 I like the reticence.
 It's almost convincing.
 <i>Anita Vanger.</i>
-- Through there.
-- Thank you.
+Through there.
+Thank you.
 Excuse me.
 I probably should have made an appointment.
 No, it's fine.
-- Please have a seat.
-- Thank you.
-- Mikael.
-- Mikael. How do you do?
+Please have a seat.
+Thank you.
+Mikael.
+Mikael. How do you do?
 How do you do?
 So you're looking for investment counseling?
 Well, I would be if I had any money.
@@ -736,8 +736,8 @@ Well, just like all us Vanger kids, really, but...
 Crazy mother.
 Drunken father.
 At least her father wasn't a Nazi.
-- Was he abusive?
-- Mine?
+Was he abusive?
+Mine?
 No, hers.
 Not that I ever saw, but you could tell that something was going on.
 Some days she'd be very withdrawn.
@@ -747,8 +747,8 @@ And then she'd be studying her Bible like a nun.
 No Vanger was ever religious.
 Can you imagine?
 She was obviously very unhappy.
-- What do you think happened to her?
-- Everyone knows what.
+What do you think happened to her?
+Everyone knows what.
 You don't have any thoughts about who or why?
 All that I know is that I felt really sorry for her.
 I got away when I was 18 and I never went back.
@@ -770,11 +770,11 @@ I don't need a pen.
 What's the address?
 <i>It's...</i>
 <i>- Hello?
-- It's me.</i>
+It's me.</i>
 Lisbeth.
 Come on in.
-- You like it?
-- It's nice.
+You like it?
+It's nice.
 It's home.
 What do you need money for this time?
 Food.
@@ -793,23 +793,23 @@ You like anal sex?
 <i>...the evidence of things not seen.
 Through faith we understand...</i>
 <i>...that the world was created by the word of God.</i>
-- I'll drive you home.
-- I can get home on my own.
+I'll drive you home.
+I can get home on my own.
 Are you sure?
-- Is it any warmer inside?
-- No.
+Is it any warmer inside?
+No.
 I apologize if you've been having financial problems...
 ...at the magazine during Mikael's absence.
-- We'll work through them.
-- Are you sure?
+We'll work through them.
+Are you sure?
 How long do you think you can hang on?
 Six months?
 That sounds about right.
 I used to be in the newspaper business.
-- We owned six dailies back in the '50s.
-- We still own one.
+We owned six dailies back in the '50s.
+We still own one.
 <i>- The Courier, here in town.
-- Which I let my nephew, Birger, run...</i>
+Which I let my nephew, Birger, run...</i>
 ...because he can't run anything else.
 So, what would you say to taking on a partner?
 Well, we've never had to consider it before.
@@ -819,8 +819,8 @@ However much you have, you retain.
 We don't care about content.
 Excuse me? Did I miss something?
 Talking about investing in the magazine.
-- I gathered that. But why?
-- Not out of greed, that's for sure.
+I gathered that. But why?
+Not out of greed, that's for sure.
 I feel badly that I've taken Mikael away from you at the worst possible time.
 But now I am convinced that this is the right thing to do. The moral thing.
 That's one reason. And...
@@ -828,10 +828,10 @@ And...?
 The enemies of my friends are my enemies.
 How long have you been discussing this with them?
 I haven't. They called yesterday and asked me to come up.
-- Why didn't you tell me?
-- You live in the woods.
-- I deserve to be treated like an idiot?
-- I wanted to hear what they had to say.
+Why didn't you tell me?
+You live in the woods.
+I deserve to be treated like an idiot?
+I wanted to hear what they had to say.
 You would've said no before they could.
 Well, I'm saying it now.
 It's a bad idea.
@@ -842,11 +842,11 @@ We're not marrying into it.
 If we do this, that's exactly what we're doing.
 So you wanna say no, let's say no.
 Instead of 50 percent of something, let's own 100 percent of nothing.
-- Mikael?
-- What?
+Mikael?
+What?
 I'm leaving this godforsaken island in the morning.
-- So?
-- So are you coming to bed or not?
+So?
+So are you coming to bed or not?
 How much do one of those cost?
 Around 3000.
 This is really gonna hurt.
@@ -877,8 +877,8 @@ Is this about Harriet Vanger?
 You're too young to know about that.
 Everyone here grows up knowing about her.
 It's how we're taught about strangers.
-- Lisbeth.
-- I need to pay my rent.
+Lisbeth.
+I need to pay my rent.
 I need some money.
 Oh, come on in.
 I feel a bit badly how we left it last time.
@@ -927,8 +927,8 @@ So I'm going to make it easier for you.
 Lie still.
 I've never done this before.
 And there will be blood.
-- Hi.
-- Hi.
+Hi.
+Hi.
 What are you doing here?
 On my way to Skelleftea.
 I can only stay a couple of hours.
@@ -947,16 +947,16 @@ And I apologize for that. But I'd never want you not to tell me something...
 I might not want to hear it.
 That's what I'm doing.
 <i>It should've been me visiting you.</i>
-- I'm sorry.
-- It's okay.
+I'm sorry.
+It's okay.
 It was nice seeing you.
 Bye-bye
-- I'll see you.
-- Yeah.
+I'll see you.
+Yeah.
 Thanks.
 Oh, don't go too hard on the Catholics.
-- The what?
-- The article you're writing.
+The what?
+The article you're writing.
 Oh, I'm not writing an article about Catholics.
 The Bible quotes by your desk.
 <i>I love you.</i>
@@ -965,8 +965,8 @@ The Bible quotes by your desk.
 <i>If a dove is the sinner's offering...</i>
 <i>...the priest shall wring off its head, cleave its wings...</i>
 <i>...and burn it upon the altar.</i>
-- Hello?
-- Detective Morell, it's Mikael Blomkvist.
+Hello?
+Detective Morell, it's Mikael Blomkvist.
 <i>Yes, hello. How are you?</i>
 <i>Not still freezing in Hedestad,
 I hope, for your sake.</i>
@@ -975,57 +975,57 @@ You know that Rebecka case you mentioned.
 Of course I do.
 But what has that to do with anything?
 <i>- Nothing, probably.
-- Jacobsson. Rebecka Jacobsson.</i>
+Jacobsson. Rebecka Jacobsson.</i>
 <i>And how was she killed?</i>
 She was decapitated.
 <i>Her arms were cutoff and she was burned.</i>
 <i>But all that happened in the 1940s.</i>
 <i>- What have you found?
-- I have to call you back.</i>
+I have to call you back.</i>
 <i>Why--?</i>
-- Is it Henrik?
-- We were talking.
+Is it Henrik?
+We were talking.
 He rubbed his arm, then he collapsed.
-- Think he's gonna be okay?
-- I honestly don't know.
-- You go. Talk to you later.
-- I'm sorry.
+Think he's gonna be okay?
+I honestly don't know.
+You go. Talk to you later.
+I'm sorry.
 Evening.
 So how is he?
 Well, the good news is he survived.
 How he does now, we'll have to see.
-- He's in intensive care.
-- Right.
-- May I have one of those?
-- You want a sandwich?
-- Small Scotch.
-- Sure.
+He's in intensive care.
+Right.
+May I have one of those?
+You want a sandwich?
+Small Scotch.
+Sure.
 Thank you.
 I hate to be indelicate, but Henrik promised me something...
 ...when I agreed to do this.
-- Wennerström.
+Wennerström.
 I need to know what he has on him.
 Now. In case...
 In case he dies?
-- Well, that is indelicate.
-- And I apologize.
+Well, that is indelicate.
+And I apologize.
 I don't know what he has on him, if you're asking me.
 And he can't tell you in the condition he's in, so...
 We also didn't discuss who I'd report to if something should happen to him.
 Oh, well, you'd report to me, of course.
 But we both know that nothing's going to come of this, don't we?
-- No. No, we don't know that.
-- What do you mean?
-- I may have found something.
-- You're joking.
+No. No, we don't know that.
+What do you mean?
+I may have found something.
+You're joking.
 What have you found?
 The last time I reported on something without being absolutely sure...
 ...I lost my life savings.
 I need a research assistant.
 Can you authorize that?
 Yes. Do you have one in mind?
-- I can find someone.
-- I know an excellent one.
+I can find someone.
+I know an excellent one.
 She did the background check on you.
 The what?
 Well, you don't think we can hire just anyone...
@@ -1035,10 +1035,10 @@ Herr Frode was kind enough to share your report with me.
 The investigator's name.
 That is her name, yes?
 See, I can't find any record of her, and I'm pretty good at that.
-- Would it matter what her name is?
-- If I wanted to speak to her, yes.
-- It's against policy.
-- You sure?
+Would it matter what her name is?
+If I wanted to speak to her, yes.
+It's against policy.
+You sure?
 Just like your sources.
 You understand.
 Okay.
@@ -1048,14 +1048,14 @@ She's also my lawyer.
 She'll be contacting you.
 There are things in here that can only have come from one place.
 The reason you can find no record of her is because her records are sealed.
-- She's a ward of the state.
-- What's that gotta do with anything?
+She's a ward of the state.
+What's that gotta do with anything?
 She's had a rough life.
 Can we please not make it any rougher?
 Who is it?
 It's Mikael Blomkvist.
-- Actually, I'm not really up yet.
-- May I come in?
+Actually, I'm not really up yet.
+May I come in?
 Please?
 Hi. You and I need to talk.
 I've got us some breakf--
@@ -1068,18 +1068,18 @@ I'm sorry, you have to go.
 Okay.
 Do you need me to stay?
 No.
-- Bye.
-- Bye.
 Bye.
-- Sorry.
-- It's okay.
+Bye.
+Bye.
+Sorry.
+It's okay.
 I guess I must have alarmed you, turning up like that.
 If you touch me,
 I'll more than alarm you.
 That won't be necessary.
 Your report, very detailed.
-- But for me, it wasn't very entertaining.
-- It wasn't meant to be.
+But for me, it wasn't very entertaining.
+It wasn't meant to be.
 When I write about people,
 I try to entertain the reader.
 Wennerström wasn't entertained much.
@@ -1106,18 +1106,18 @@ I've got absolutely no idea...
 ...to the death of a 16-year-old girl, but they must be somehow.
 What we've gotta do is find out who they are, what happened to them...
 ...and what these Leviticus verses have to do with anything.
-- What are you doing?
-- Getting started.
-- You can keep talking if you want.
-- Don't you need to look over these?
+What are you doing?
+Getting started.
+You can keep talking if you want.
+Don't you need to look over these?
 I got it.
 Cat!
 How'd you get in?
 No one has asked me about
 Magda in over 40 years.
 Why would a lady like you want to know about an awful murder?
-- It interests me.
-- Does it?
+It interests me.
+Does it?
 <i>Her husband was the first suspect.</i>
 <i>The husband is always the first suspect and usually the last.</i>
 But not this time.
@@ -1126,8 +1126,8 @@ Then a vagrant.
 Once you get to strangers, it's only a matter of time...
 ...before you get to gypsies and you know you're never going to solve it.
 How exactly was she killed?
-- Miss...?
-- Salander.
+Miss...?
+Salander.
 Miss Salander. I hope you don't mind me asking, but when did you last eat?
 I have a high metabolism.
 I can't put on weight.
@@ -1137,8 +1137,8 @@ I'm asking because it is better to look at what I am about to show you...
 <i>He should lay his hand upon its head...</i>
 <i>...slaughter it, empty its blood on the base of the altar...</i>
 <i>...and he shall be forgiven.</i>
-- How is he?
-- He needs surgery...
+How is he?
+He needs surgery...
 ...but there's no DNR in place.
 So it's up to the family to decide...
 ...should the occasion arise, whether to resuscitate or not.
@@ -1147,14 +1147,14 @@ So how was it with Miss Salander?
 She said yes. Do you think
 I might be able to see him?
 He was asleep the last time I looked, but let me check.
-- Thank you.
-- Don't check.
+Thank you.
+Don't check.
 Tell him to pack his things and leave.
-- Mother, please.
-- Don't use that tone with me.
+Mother, please.
+Don't use that tone with me.
 Isabella, Mr. Blomkvist works for Henrik.
-- We should put this to a vote.
-- Don't be an idiot, Birger.
+We should put this to a vote.
+Don't be an idiot, Birger.
 We all know what Henrik wants.
 Can we just do that?
 Henrik is fighting for his life in there.
@@ -1186,16 +1186,16 @@ I'll keep my mother away.
 But please, hurry.
 Of course.
 Lisbeth.
-- I'll get that.
-- It's okay.
-- Martin Vanger.
-- How do you do?
+I'll get that.
+It's okay.
+Martin Vanger.
+How do you do?
 Fine.
-- It's a girlfriend, or...?
-- Assistant.
+It's a girlfriend, or...?
+Assistant.
 Thank you so much.
-- Good night.
-- Good night.
+Good night.
+Good night.
 Problems finding the place?
 Everyone in town knows who and where you are.
 That's comforting. Are you hungry?
@@ -1213,16 +1213,16 @@ Right. "if a man lies with a woman having her sickness...
 ...he has made naked her fountain and she has uncovered...
 ...the fountain of her blood."
 Raped and stabbed, but cause of death was suffocation by sanitary napkin.
-- Okay.
-- R.L. Rakel Lunde, 1957.
+Okay.
+R.L. Rakel Lunde, 1957.
 A cleaning woman and part-time palm reader.
 Tied with a clothesline, gagged, raped.
 Head crushed with a rock.
 Leviticus 20:27.
 "A woman who is a medium or sorceress...
 ...shall be put to death by stoning."
-- I usually like to smoke outside.
-- Sara Witt, 1964.
+I usually like to smoke outside.
+Sara Witt, 1964.
 Daughter of a pastor.
 Tied to her bed.
 Raped. Charred in the fire that burned down her house.
@@ -1247,15 +1247,15 @@ A runaway. Raped, strangled.
 A burnt pigeon tied around her neck.
 Lena Andersson, 1967. A student.
 Raped, stabbed, decapitated--
-- Okay.
-- I'm not finished.
+Okay.
+I'm not finished.
 We're looking for a serial murderer...
 ...but what could that have to do with a teenager living on an island?
 She was looking for him too.
 <i>Rape. Torture. Fire.</i>
 Animals. Religion.
-- Am I missing anything?
-- The names.
+Am I missing anything?
+The names.
 They're all Biblical.
 The first woman, the whore, the Virgin Mary.
 Rebecka, Sara, all from the Old Testament.
@@ -1266,14 +1266,14 @@ I can sleep on a couch.
 Okay.
 Right.
 Oh, yeah, there might be a cat somewhere.
-- Good night.
-- Night.
+Good night.
+Night.
 Harriet's name isn't.
 Isn't what?
-- Jewish.
-- No.
-- What are you doing?
-- Reading your notes.
+Jewish.
+No.
+What are you doing?
+Reading your notes.
 They're encrypted.
 Please. Have some coffee.
 Okay.
@@ -1281,8 +1281,8 @@ Then we're gonna have a very serious conversation...
 ...about what's yours and what's mine.
 It's amazing what you figured out with the parade photos.
 Thank you.
-- It's too bad you don't have hers.
-- Whose?
+It's too bad you don't have hers.
+Whose?
 Her.
 Can I--? Sorry.
 Yeah, all right.
@@ -1292,8 +1292,8 @@ That's the one. Yep.
 Where the fuck's that? That's down there, isn't it? Okay. Oh, yeah, yeah.
 And...
 What does that say there?
-- "N" something "R-S-J."
-- That's "Norsjö," yeah.
+"N" something "R-S-J."
+That's "Norsjö," yeah.
 Then something
 Something "R-I-F."
 "Carpentry."
@@ -1328,8 +1328,8 @@ See, that's you there.
 Just after this was taken...
 ...after she'd seen something across the street, she was murdered.
 How awful.
-- There you are.
-- Thank you.
+There you are.
+Thank you.
 Would you mind if I made a copy of this?
 No.
 I can't give you any of this stuff without authorization from Mr. Armansky.
@@ -1347,20 +1347,20 @@ Start looking for a shrink you can bribe...
 And stop visiting tattoo-removal websites.
 Or I'll do it again...
 ...right here.
-- Is that dental floss?
-- Yes.
+Is that dental floss?
+Yes.
 You're gonna sterilize that, right?
 Couldn't we just use tape or something?
 No.
 What?
 Thank you. Jesus!
-- Drink.
-- Okay.
+Drink.
+Okay.
 Just be careful. It's my eye.
-- Don't move.
-- You're not a doctor.
-- Take off your wet clothes.
-- What?
+Don't move.
+You're not a doctor.
+Take off your wet clothes.
+What?
 Yeah. Thank you.
 Yeah, I think it's stopped bleeding.
 It still fucking hurts, though.
@@ -1382,10 +1382,10 @@ Yeah, well, I do have some standards, believe it or not.
 You need to stop talking.
 Oh, shit.
 Do you want me to open a window?
-- I like working with you.
-- I like working with you too.
-- It could have been a stray shot.
-- Not by Gunnar.
+I like working with you.
+I like working with you too.
+It could have been a stray shot.
+Not by Gunnar.
 If he wanted to shoot him, he wouldn't be here.
 And then we have poachers.
 They shoot at anything that moves.
@@ -1396,13 +1396,13 @@ Look, I have police reports, photos...
 ...Henrik's notes, my notes,
 Lisbeth's research.
 What I don't have is Vanger Industries' records. That's what I want.
-- Why?
-- Will you authorize it?
+Why?
+Will you authorize it?
 What, the private corporate records?
 Well, how far back?
 Henrik said I could have access to everything. This is what I need.
-- That's not what he meant.
-- I'll sign a nondisclosure statement.
+That's not what he meant.
+I'll sign a nondisclosure statement.
 Just a minute.
 I think Henrik would say yes.
 That's why he has me. To protect him from himself. It's insane.
@@ -1415,31 +1415,31 @@ Vanger Industries...
 ...and the towns where the women were killed.
 And everything about Frode.
 Your father was taking pictures that day that no one has seen.
-- I'd like to take a look at them.
-- So ask him.
-- I was wondering if you could do that.
-- I don't speak to him.
+I'd like to take a look at them.
+So ask him.
+I was wondering if you could do that.
+I don't speak to him.
 Could you make an exception in my case?
 Are you afraid to be in the same room with him?
 I'm not saying you shouldn't be.
 So you won't help me?
 Sorry.
 Please?
-- Are you finished?
-- I need to know where all factories...
+Are you finished?
+I need to know where all factories...
 ...offices and projects were from 1949 to 1966.
-- You already have everything.
-- No, I don't.
+You already have everything.
+No, I don't.
 Nothing on subsidiary corporations, partnerships or suppliers.
-- You'll have to do without.
-- Mr. Frode said I have access...
+You'll have to do without.
+Mr. Frode said I have access...
 ...to whatever I need. I need this
-- You have access to this floor.
+You have access to this floor.
 Call him.
 Thank you for seeing me.
 Come in.
-- Tea?
-- Please.
+Tea?
+Please.
 Sven Olov Lindholm.
 Me.
 Handsome.
@@ -1461,23 +1461,23 @@ Hide the past like they do?
 Under a thin, shiny veneer?
 Like an IKEA table?
 I am the most honest of all of them.
-- The family?
-- Sweden.
+The family?
+Sweden.
 Landscape?
 Some nice landscapes there?
 Who is this?
 The blurry one.
 I can't tell.
 Oh, that's Gottfried's boy.
-- That's Martin.
-- Yeah.
+That's Martin.
+Yeah.
 Handsome but useless young man.
 Like his father.
 Like his father.
-- We're closing.
-- Nowhere near finished.
-- I'm not authorized to stay late.
-- I am.
+We're closing.
+Nowhere near finished.
+I'm not authorized to stay late.
+I am.
 And I need access to everything, including anything that's locked.
 Call Frode.
 Leave the keys with the guard.
@@ -1488,50 +1488,50 @@ Mikael.
 Hi there.
 Your evening stroll?
 Yes, that's right, I...
-- How are you?
-- Good.
+How are you?
+Good.
 I stopped by the hospital on my way home.
 Henrik asked me to ask you something.
 What was that?
 Come on in. I'll make you a drink.
 Hello, Martin.
 Shut the door. It's quite windy.
-- What happened to you?
-- When?
+What happened to you?
+When?
 Just now.
 I fell in the dark.
 You don't have a flashlight?
 I'll get you one.
 I just wasn't being careful, that's all.
 How's the investigation going?
-- Nothing new to report.
-- No?
+Nothing new to report.
+No?
 Dirch says the girl is really clever.
 Maybe she'll turn something up.
 Maybe.
 Thank you for that.
-- So, what did he say?
-- What?
+So, what did he say?
+What?
 You said Henrik asked you to ask me something.
-- Well, I just did.
-- What?
-- How's the investigation?
-- Oh, yeah.
+Well, I just did.
+What?
+How's the investigation?
+Oh, yeah.
 That was his question.
 Do you hunt?
 We should go hunting together sometime.
 Sure.
 Nothing at all new to report?
 No. Nothing.
-- I can see you're anxious.
-- No.
+I can see you're anxious.
+No.
 No, I mean to get home after the walk.
 Yeah, well, I suppose I am.
 To have dinner with your girlfriend.
 Assistant.
 We'll have better luck with a gun.
-- I'm sorry?
-- When we go hunting.
+I'm sorry?
+When we go hunting.
 A gun. Rather than a knife.
 I want to show you something.
 Bring your drink.
@@ -1552,13 +1552,13 @@ What did you find?
 We can talk or we can just get on with it.
 I found a photograph...
 ...no one has seen.
-- Of?
-- You.
+Of?
+You.
 In an Uppsala prep school blazer.
 What does that prove?
 You lied about where you were that day.
-- Did I?
-- Or rather, when.
+Did I?
+Or rather, when.
 So what? People lie all the time.
 It also says that you and Lena
 Andersson were schoolmates.
@@ -1568,7 +1568,7 @@ Where's this photo now? Is it with all the other crap on your desk?
 There's a copy on my laptop.
 There's another copy...
 ...on a secure website.
-- Secure website.
+Secure website.
 That's a lie.
 How much does the girl know?
 I hope it's as much as you do.
@@ -1640,8 +1640,8 @@ It might amuse you to know...
 Who is Irina, you might ask?
 Just another girl.
 Just another immigrant whore.
-- Who misses them?
-- Your sister wasn't.
+Who misses them?
+Your sister wasn't.
 What?
 Your sister Harriet wasn't just another girl.
 You found her?
@@ -1658,8 +1658,8 @@ Harriet's and mine.
 Hey.
 There's a gun.
 There's a gun on the television.
-- May I kill him?
-- Yeah.
+May I kill him?
+Yeah.
 How come a 23-year-old...
 ...is a ward of the state?
 I'm mentally incompetent and can't manage daily life.
@@ -1671,8 +1671,8 @@ I tried to kill my father.
 Burned him alive.
 Got about 80 percent of him.
 I made some coffee.
-- Who's that?
-- It's Harriet.
+Who's that?
+It's Harriet.
 I found it in Martin's basement among his souvenirs.
 No, Martin didn't deny killing anyone.
 But when I mentioned Harriet, he was confused.
@@ -1690,33 +1690,33 @@ Right.
 Here.
 Hi. Look, I'm sorry to bother you.
 What do you want?
-- Has no one called you?
-- About?
+Has no one called you?
+About?
 Your cousin Martin.
-- What about him?
-- He died in a car accident...
+What about him?
+He died in a car accident...
 ...last Thursday. There's going to be a memorial in Hedestad.
 I'm not interested in any memorial.
-- Well, I understand.
-- What do you understand?
+Well, I understand.
+What do you understand?
 Well, that you don't care very much for your family.
-- Look, I just thought you should know.
-- Now I know.
+Look, I just thought you should know.
+Now I know.
 How'd it go?
 Okay, I think.
 She's on.
 And she's shopping.
 She's still playing solitaire?
-- And she hasn't called anyone?
-- No.
+And she hasn't called anyone?
+No.
 We have her cell phone too?
 I was so sure she was gonna lead us to her.
 Put your hand back in my shirt.
 There's only one reason she hasn't called Harriet.
 She can't. Because Harriet is dead.
 I was just thinking that--
-- Just one second.
-- Okay.
+Just one second.
+Okay.
 What were you going to say?
 I was just thinking, there could be one other possibility.
 Well, we could, absolutely.
@@ -1727,8 +1727,8 @@ So you sent the flowers.
 Yes, I did.
 We found in the Swedish Family
 Registry that Anita was married.
-- But the family never knew, did they?
-- No.
+But the family never knew, did they?
+No.
 So I'm guessing she then came here on her married-name passport...
 ...and you followed on her maiden-name passport.
 No, actually, it was the other way around.
@@ -1745,13 +1745,13 @@ I was 14 the first time he raped me.
 Martin.
 No, my father.
 Martin only started after he had died.
-- Well, why didn't you tell somebody?
-- I did. My mother.
-- Henrik would've done something.
-- I almost told him.
+Well, why didn't you tell somebody?
+I did. My mother.
+Henrik would've done something.
+I almost told him.
 But I was afraid because of what I'd done.
-- I...
-- You still don't understand, do you?
+I...
+You still don't understand, do you?
 A year after the first time...
 ...and there were many times during that year...
 ...my father got drunker than usual one night...
@@ -1791,8 +1791,8 @@ Until you showed up.
 You're safe now.
 How did you get away?
 Someone saved me too
-- How are you feeling?
-- I'm fine.
+How are you feeling?
+I'm fine.
 Thank you, Anna.
 I made you a promise...
 ...whether you found anything or not.
@@ -1810,18 +1810,18 @@ If I had, I never would've let him bring you up here.
 He wasn't trying to deceive you.
 He knows you can't try somebody
 35 years after the event.
-- I like Henrik, but he knows that.
-- A man's reputation means something.
+I like Henrik, but he knows that.
+A man's reputation means something.
 He believes that. He thought you could destroy Wennerström...
 ...in the court of public opinion.
-- The court of public opinion...
+The court of public opinion...
 ...celebrates people's bad behavior.
-- He's an elderly man.
+He's an elderly man.
 He promised me
 Wennerström's carcass on a plate.
 This isn't even the plate.
-- I can't do anything with this.
-- Yes, of course.
+I can't do anything with this.
+Yes, of course.
 What happened with Wennerström?
 How did he get you?
 I was stupid. I heard something.
@@ -1831,8 +1831,8 @@ It was fake.
 Which he easily proved in court.
 You were emphatic that the way I looked into your life...
 ...was illegal and immoral. Would you feel the same about Wennerström?
-- Go on.
-- I did some work on my own on him...
+Go on.
+I did some work on my own on him...
 ...before you hired me.
 I haven't looked at it all...
 ...because you and Harriet-fucking-Vanger...
@@ -1844,15 +1844,15 @@ They launder money from arms and drug sales...
 ...and crime syndicates in Russia.
 And that money accounts for all but 5 percent of his holdings.
 The rest ends up in accounts in the Cayman Islands.
-- And how do you know this?
-- This time you don't want to know.
+And how do you know this?
+This time you don't want to know.
 This time I do want to know.
 I have access to his computer.
-- And his accountant's and lawyer's.
-- And how do you have that?
+And his accountant's and lawyer's.
+And how do you have that?
 I could've gotten it from a source inside the company.
-- You didn't.
-- But that's what you'll say.
+You didn't.
+But that's what you'll say.
 And what will you say to me?
 Well, that depends if you really want to know.
 I do.
@@ -1877,14 +1877,14 @@ You think?
 Probably not.
 These guys never do.
 What's wrong with you?
-- It's embarrassing.
-- Tell me.
+It's embarrassing.
+Tell me.
 I need to borrow some money.
 Fifty thousand.
 I have a chance to make an investment.
 It's a smart, safe investment.
-- I really don't think I've got 50,000.
-- Yes, you do.
+I really don't think I've got 50,000.
+Yes, you do.
 You have 65,000 in your two accounts.
 I'm sorry that I know that.
 You'll get the money back,
@@ -1905,18 +1905,18 @@ You want a coffee?
 <i>And we can't force him to.
 But we can look for them.</i>
 <i>- Beginning where?
-- Those closest to Mr. Wennerström.</i>
+Those closest to Mr. Wennerström.</i>
 <i>Only someone in the inner circle of a corporation like this...</i>
 <i>...has access to this kind of information.</i>
 <i>Mr. Wennerström isn't available for comment...</i>
 <i>...but I'm happy to answer questions.</i>
 <i>- Where is he?
-- At home, I imagine</i>
+At home, I imagine</i>
 <i>No, he's not.
 Has he left the country?</i>
 <i>I don't think so.</i>
-- Okay. Thank you.
-- Thank you.
+Okay. Thank you.
+Thank you.
 Welcome to the Dolder Grand, miss.
 May I have your passport, please?
 <i>With his failure to appear...</i>
@@ -1930,14 +1930,14 @@ Commission panel...</i>
 Thank you.
 I have accounts at Bank of Kroenenfeld, Cayman Islands.
 I'd like to transfer them and convert to bonds.
-- Naturally, you have the clearing codes.
-- Naturally.
+Naturally, you have the clearing codes.
+Naturally.
 How many accounts will you transfer?
 Thirty.
-- This will take some time.
-- You will receive 4 percent commission.
-- I will.
-- Then it won't be a waste of it.
+This will take some time.
+You will receive 4 percent commission.
+I will.
+Then it won't be a waste of it.
 <i>A Swedish tourist vacationing here in Barbados...</i>
 <i>...says he knows where fugitive financier Hans-Erik Wennerström is:</i>
 <i>Here, in this Caribbean island's capital, Bridgetown.</i>
@@ -1957,10 +1957,10 @@ Banking Commission...</i>
 <i>That money, approximately 2 billion euros...</i>
 <i>...was then spread over a number of accounts...</i>
 <i>...with the help of this confederate, seen here in Zurich.</i>
-- Hey.
-- Hey.
-- The money I borrowed.
-- Already?
+Hey.
+Hey.
+The money I borrowed.
+Already?
 Thank you.
 Thank you.
 No, I quit.
@@ -1989,9 +1989,9 @@ I'm happy.
 <i>...to crime organizations worldwide will now turn into speculation.</i>
 <i>Which of them caught up with him before Swedish authorities could?</i>
 <i>Wennerström spent the last days of his flamboyant life...</i>
-- It's nice.
-- Your father?
-- A friend.
-- Must be a very good friend.
-- We're late.
-- Fashionably late.
+It's nice.
+Your father?
+A friend.
+Must be a very good friend.
+We're late.
+Fashionably late.

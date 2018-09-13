@@ -7,43 +7,43 @@ Geronimo?
 How do we know he isn't lying?
 Ah, he's a Cheyenne.
 They hate Apaches worse than we do.
-- Clear the wires to Lordsburg.
-- [Telegraph Receiver Clicking]
+Clear the wires to Lordsburg.
+[Telegraph Receiver Clicking]
 That's Lordsburg now, sir. They seem to have something very urgent to tell you, sir.
-- Well? Well, what's wrong?
-- The line went dead, sir.
-- What do you got there?
-- Only the first word, sir.
+Well? Well, what's wrong?
+The line went dead, sir.
+What do you got there?
+Only the first word, sir.
 "Geronimo."
 [Man Shouts]
 [Driver]
 Whoa! Whoa! Steady, whoa!
-- Well, so long, Buck!
-- Nice trip, Buck?
-- Oh, so-so.
-- Got the payroll for the mining company?
-- Yes, sir. Right here in this box here.
-- Good. Give me a lift here, Jim, will ya?
+Well, so long, Buck!
+Nice trip, Buck?
+Oh, so-so.
+Got the payroll for the mining company?
+Yes, sir. Right here in this box here.
+Good. Give me a lift here, Jim, will ya?
 Jim, I'll pay ya that two bits when I come through.
-- Okay, partner.
-- Hey, now, you kids get away from that wheel.
+Okay, partner.
+Hey, now, you kids get away from that wheel.
 Well, sir, we run into a little snow up there.
 'Tweren't bad, though, but you fellas better prepare for a good frost.
 Passenger out for Tonto.
 You'd better get out and stretch your leg -
 I mean, your limbs, ma'am.
 We're gonna change horses here.
-- Is there a place here where I can have a cup of tea?
-- Well, yes, ma'am.
+Is there a place here where I can have a cup of tea?
+Well, yes, ma'am.
 You can get a cup of coffee at the hotel across the street there.
-- Thank you, driver.
-- Uh, you look a little peaked -
-- I'll be all right, thank you.
-- Yes, ma'am.
+Thank you, driver.
+Uh, you look a little peaked -
+I'll be all right, thank you.
+Yes, ma'am.
 Why, Lucy Mallory.
 Nancy.
-- How are you, Captain Whitney?
-- Fine, thanks, Mrs. Mallory.
+How are you, Captain Whitney?
+Fine, thanks, Mrs. Mallory.
 Why, whatever are you doing in Arizona?
 I'm joining Richard in Lordsburg.
 He's there with his troops.
@@ -55,15 +55,15 @@ You'll be with your husband in a few hours.
 Oh, I'm so glad to see you, Lucy.
 Sit down, darling. We'll have a cup of coffee.
 You must be tired from that long trip.
-- Who is that gentleman?
-- Hardly a gentleman, Mrs. Mallory.
+Who is that gentleman?
+Hardly a gentleman, Mrs. Mallory.
 I should think not.
 He's a notorious gambler.
 Hello, Mink! Hidee, Frank!
 Well, Marshal, I'm looking for my shotgun guard. Is he here?
 Out with the posse, Buck, trying to catch the Ringo Kid.
-- Ringo? I thought Ringo was in the pen.
-- He was.
+Ringo? I thought Ringo was in the pen.
+He was.
 Busted out?
 Well, good for him.
 My guess, the Kid's aimin' to get even with them Plummer boys.
@@ -71,8 +71,8 @@ It was their testimony sent him to the penitentiary.
 Well, all I gotta say is that he'd better stay away from that there Luke Plummer.
 Why, gosh, Luke's run all of Ringo's friends out of Lordsburg.
 The last trip there, I seen him hit a rancher on the head with the barrel of his gun... and, well, he just laid it wide open like a butchered steer.
-- You seen Luke Plummer in Lordsburg?
-- Yes, sirree.
+You seen Luke Plummer in Lordsburg?
+Yes, sirree.
 Hmm.
 You boys take care of the office for a couple days.
 I'm going to Lordsburg with Buck.
@@ -106,10 +106,10 @@ We're the victims of a foul disease called social prejudice, my child.
 These dear ladies of the Law and Order League are scouring out the dregs of the town.
 Come on.
 Be a proud, glorified dreg like me.
-- You get going, Doc. You're drunk.
-- [Scoffs] Two of a kind.
-- Just two of a kind.
-- Take my arm, Madame la Comtesse.
+You get going, Doc. You're drunk.
+[Scoffs] Two of a kind.
+Just two of a kind.
+Take my arm, Madame la Comtesse.
 The tumbril awaits!
 To the guillotine!
 Oh, wait till I get my badge, girls!
@@ -117,21 +117,21 @@ I'll join you!
 [Clears Throat]
 If ever you go East, brother... come out to our house for dinner.
 No one in all Kansas City, Kansas, sets a better table than my dear wife, Violet.
-- Jerry.
-- Yeah, Doc.
+Jerry.
+Yeah, Doc.
 Jerry, I'll admit, as one man to another... that, economically,
 I haven't been of much value to you.
 But... suppose you could put one on credit?
 If talk was money, Doc, you'd be the best customer I got.
 I'm leaving town, Jerry.
-- Honest?
-- Yes, old friend.
+Honest?
+Yes, old friend.
 And I thought you might, out of memory of our many happy -
 All right, Doc. Just this one.
 Thank you, Jerry.
 Here's a man goin' on the stagecoach with you.
-- He's an Easterner from Kansas City, Missouri.
-- Kansas City, Kansas, brother.
+He's an Easterner from Kansas City, Missouri.
+Kansas City, Kansas, brother.
 To your health, Reverend.
 [Clears Throat]
 I'm not a clergyman.
@@ -142,8 +142,8 @@ A what?
 [Doc Sighs]
 Well, well!
 How are you, Mr. Haycock?
-- Peacock.
-- Don't tell me, sir.
+Peacock.
+Don't tell me, sir.
 I know, I know.
 A familiar name and an honored name.
 I never forget a face or a friend.
@@ -152,8 +152,8 @@ Ahh! Rye.
 [Chuckles]
 [Buck]
 Well, Brownie!
-- Blackie! Belle! Bess!
-- Giddap!
+Blackie! Belle! Bess!
+Giddap!
 Well, lookee here.
 Got a pretty good team there.
 Whoa! Back up.
@@ -177,17 +177,17 @@ All aboard for Dry Fork...
 All - [Clears Throat]
 All aboard for Dry Fork...
 Apache Wells, Lee's Ferry and Lordsburg!
-- I'll take that, Dallas.
-- Oh, thanks.
-- In you go, Dallas, and a pleasant voyage.
-- [Man Whistles]
+I'll take that, Dallas.
+Oh, thanks.
+In you go, Dallas, and a pleasant voyage.
+[Man Whistles]
 Leave your baggage, Doc?
 Thank you.
 Thank you, my friend.
 Curley, my shingle.
 Carry it with honor.
-- I'll take it, Doctor.
-- Oh, no. No trouble at all.
+I'll take it, Doctor.
+Oh, no. No trouble at all.
 No trouble at all.
 I'll carry it on my lap.
 Here we go.
@@ -203,42 +203,42 @@ Doctor? Doc Boone?
 Why, he couldn't doctor a horse.
 Lucy darling, you must be very careful.
 Take good care of yourself.
-- Watch that step now.
-- [Buck] Lady folks ride facing forward, please.
+Watch that step now.
+[Buck] Lady folks ride facing forward, please.
 There you go.
-- Pleasant journey, Mrs. Mallory.
-- Thank you. Good-bye!
-- Good-bye!
-- Bye! [Chuckling]
+Pleasant journey, Mrs. Mallory.
+Thank you. Good-bye!
+Good-bye!
+Bye! [Chuckling]
 Like an angel in a jungle.
 A very wild jungle.
 What are you doin', Hatfield - talkin' to yourself?
 You wouldn't understand, cowboy.
 You've never seen an angel... nor a gentlewoman... nor a great lady.
-- I raise, gentlemen.
-- [Chips Clatter]
+I raise, gentlemen.
+[Chips Clatter]
 Well, so long, Buck! So long, Curley!
 Nice trip, boys!
-- So long, kids!
-- Wait a minute! Hold it there, Buck!
+So long, kids!
+Wait a minute! Hold it there, Buck!
 Cavalry comin'!
-- [Dogs Barking]
-- [Buck] Steady, girls!
+[Dogs Barking]
+[Buck] Steady, girls!
 Captain Sickels asks if you'll deliver this dispatch in Lordsburg the moment you arrive.
-- The telegraph line has been cut.
-- Sure.
+The telegraph line has been cut.
+Sure.
 We're going with you as far as the noon station at Dry Fork.
 There'll be a troop of cavalry there, and they'll take you on to Apache Wells.
 From Apache Wells, you'll have another escort of soldiers into Lordsburg.
 But you must warn your passengers that they travel at their own risk.
-- At their own risk?
+At their own risk?
 What's the trouble, Lieutenant?
-- Geronimo.
-- Geronimo? Well, then I ain't go -
-- Will you sit down!
+Geronimo.
+Geronimo? Well, then I ain't go -
+Will you sit down!
 Of course, the army has no authority over you gentlemen.
-- If you think it's unsafe to make the trip -
-- This stage is goin' to Lordsburg.
+If you think it's unsafe to make the trip -
+This stage is goin' to Lordsburg.
 If you think it ain't safe to ride along with us...
 I figure we can get there without you soldier boys.
 I have my orders, sir, and I always obey orders.
@@ -247,10 +247,10 @@ Did you all hear what the lieutenant said?
 Yes, we heard.
 Well, me and Buck are taking this coach through, passengers or not.
 Whoever wants to get out can get out.
-- It's -
-- Courage. Courage, Reverend.
-- Ladies first.
-- Oh. Excuse me.
+It's -
+Courage. Courage, Reverend.
+Ladies first.
+Oh. Excuse me.
 How about you, Dallas?
 What are you tryin' to do, scare somebody?
 They got me in here.
@@ -262,31 +262,31 @@ If he's in danger, I want to be with him.
 [Clears Throat] You see, brother,
 I have a wife and five children in Kansas City.
 Then you're a man. By all the powers that be, Reverend, you're a man.
-- All right, folks.
-- [Hatfield] Marshal!
+All right, folks.
+[Hatfield] Marshal!
 Make room for one more.
 I'm offering my protection to this lady.
 I can shoot fairly straight, if there's need for it.
 That's been proved too many times, Hatfield.
 All right, get in. We're late.
-- May I trouble you to move over, sir?
-- Oh, yes. Yes, of course.
+May I trouble you to move over, sir?
+Oh, yes. Yes, of course.
 [Curley]
 Close the door.
-- Aw, Curley, we shouldn't -
-- Get going, Buck!
+Aw, Curley, we shouldn't -
+Get going, Buck!
 Bessie! Brownie! Bill!
-- [Doc] Farewell, ladies!
-- [Screams]
-- [Buck] Sweetheart! Come on now, girl!
-- Good-bye!
+[Doc] Farewell, ladies!
+[Screams]
+[Buck] Sweetheart! Come on now, girl!
+Good-bye!
 [Buck]
 Whoa!
 Whoa! Whoa! Whoa!
-- Room for another passenger?
-- Sure is, Mr. Gatewood.
-- Goin' to Lordsburg?
-- That's right. Just got a telegram.
+Room for another passenger?
+Sure is, Mr. Gatewood.
+Goin' to Lordsburg?
+That's right. Just got a telegram.
 Had to stop to pack this bag.
 Oh, I got it in.
 [Buck]
@@ -299,8 +299,8 @@ If there's anything I don't like, it's drivin' a stagecoach through Apache count
 Funny catching Gatewood outside of town that way.
 I just took this job 10 years ago so I could make enough money... to marry my Mexican girl, Julietta, and I been workin' hard at it ever since.
 Bonnie, get over there! Ho!
-- Marriage?
-- Well, certainly.
+Marriage?
+Well, certainly.
 My wife's got more relatives than anyone you ever did see.
 I bet I'm feedin' half the state of Chihuahua.
 Sweetheart! Ho!
@@ -327,8 +327,8 @@ I'm not a clergyman. I'm a -
 My friend's a whiskey drummer.
 We're all gonna be scalped, Gatewood.
 Massacred in one fell swoop.
-- That's why the soldiers are with us.
-- He's joking, of course.
+That's why the soldiers are with us.
+He's joking, of course.
 Oh, no, he's not.
 Oh, dear, no. I wish he were.
 It's that old Apache butcher, Geronimo.
@@ -337,8 +337,8 @@ He's jumped the reservation.
 He's on the warpath.
 Geronimo? Why weren't the passengers notified?
 Why wasn't I told?
-- We -
-- We were told, Gatewood.
+We -
+We were told, Gatewood.
 Yes.
 Weren't you told when you got that message from Lordsburg?
 [Clears Throat]
@@ -346,29 +346,29 @@ Oh, yes, yes. Y-Yes, of course. I - I forgot.
 Steady now! String out! Sweetheart!
 Now, doggone it, they're bringing up her grandfather... all the way from Mexico to live with us.
 I can't figure out how he got that message.
-- Who? Her grandfather?
-- No, Gatewood.
+Who? Her grandfather?
+No, Gatewood.
 Sweetheart!
-- Said he got a message.
-- Sweetheart!
-- Telegraph line ain't workin'.
-- Sweetheart.
+Said he got a message.
+Sweetheart!
+Telegraph line ain't workin'.
+Sweetheart.
 [Gunshot]
 [Horses Whinnying]
 Hold it!
 [Buck]
 Whoa! Steady! Ho. Ho.
-- Hey, look, it's Ringo.
-- Yeah.
+Hey, look, it's Ringo.
+Yeah.
 Hello, Kid.
 Hello, Curley.
 Hiya, Buck! How's your folks?
 Oh, just fine, Ringo.
-- Except my grandfather came up -
-- Shut up.
+Except my grandfather came up -
+Shut up.
 Didn't expect to see you ridin' shotgun on this run, Marshal.
-- Goin' to Lordsburg?
-- I figured you'd be there by this time.
+Goin' to Lordsburg?
+I figured you'd be there by this time.
 No. Lame horse.
 Well, it looks like you've got another passenger.
 Yeah. I'll take the Winchester.
@@ -376,12 +376,12 @@ You may need me and this Winchester, Curley.
 Saw a ranch house burnin' last night.
 You don't understand, Kid.
 You're under arrest.
-- Curley -
-- [Horse Whinnies]
-- Everything all right, Marshal?
-- Everything's all right, Lieutenant.
-- Hope I ain't crowdin' you folks none.
-- The more, the merrier.
+Curley -
+[Horse Whinnies]
+Everything all right, Marshal?
+Everything's all right, Lieutenant.
+Hope I ain't crowdin' you folks none.
+The more, the merrier.
 Bonnie! Brownie! Blackie! Hyah!
 Hyah, Bessie!
 Ain't Ringo a fine boy?
@@ -389,8 +389,8 @@ I think so.
 You're just smarter than a trade rat.
 You knew all the time he was goin' to Lordsburg.
 Hey, reckon what he meant he saw ranch houses burnin'?
-- Apaches.
-- Oh, Apaches.
+Apaches.
+Oh, Apaches.
 So, you're the notorious Ringo Kid.
 My friends just call me Ringo.
 Nickname I had as a kid.
@@ -398,8 +398,8 @@ Right name's Henry.
 [Doc]
 Seems to me I knew your family, Henry.
 Didn't I fix your arm once when you were, oh - bucked off a horse?
-- Are you Doc Boone?
-- I certainly am.
+Are you Doc Boone?
+I certainly am.
 Now, let's see.
 I'd just been honorably discharged from the Union army... after the War of the Rebellion.
 You mean the War for the Southern Confederacy, sir.
@@ -407,8 +407,8 @@ I mean nothing of the kind, sir.
 That was my kid brother broke his arm.
 You did a good job, Doc, even if you was drunk.
 Thank you, son.
-- Professional compliments are always pleasing.
-- Yes, they are.
+Professional compliments are always pleasing.
+Yes, they are.
 What happened to that boy whose arm I fixed?
 He was murdered.
 Put out that cigar.
@@ -419,11 +419,11 @@ I sometimes forget that it disagrees with others.
 A gentleman doesn't smoke in the presence of a lady.
 Three weeks ago, I took a bullet out of a man who was shot by a gentleman.
 The bullet was in his back.
-- Do you mean to insinuate -
-- Sit down, mister.
+Do you mean to insinuate -
+Sit down, mister.
 Doc don't mean no harm.
-- Hiya, Pete! Hi, Joey!
-- Hello!
+Hiya, Pete! Hi, Joey!
+Hello!
 [Buck]
 Be careful of old Bessie up there now.
 Take it easy.
@@ -433,8 +433,8 @@ Prepare to dismount!
 [Buck] Take a look and see if there isn't a stone bruisin' that hock down there.
 If it isn't my old friend,
 Sergeant Billy Pickett!
-- Well! How are ya, Billy?
-- He's fine, Doc, and mighty glad to see ya!
+Well! How are ya, Billy?
+He's fine, Doc, and mighty glad to see ya!
 Great heavens to Betsy! Didn't figure on no stagecoach comin' through... with them Apaches raisin' Cain.
 I was just telling Billy to hitch up the buckboard so we could get the young ones in -
 Wait a minute! You mean to say there are no troops at this station?
@@ -443,8 +443,8 @@ Ain't no soldiers here but what you see.
 But my husband, Captain Mallory -
 I was told he was here.
 He was, dearie. Got orders night afore last to join the soldiers at Apache Wells.
-- [Buck] That means we gotta go back.
-- [Gatewood] I can't go back!
+[Buck] That means we gotta go back.
+[Gatewood] I can't go back!
 Driver, you started this coach for Lordsburg, and it's your duty to get us there.
 And it's your duty, young man, to come along with us!
 It's my duty, Mr. Gatewood, to obey orders.
@@ -470,8 +470,8 @@ I'll get you something to eat.
 Now, folks, if we push on, we can be in Apache Wells by sundown.
 Soldiers there will give us an escort as far as the ferry.
 Then it's only a hoot and a holler into Lordsburg.
-- Well, that old mare, I don't -
-- We've got four men can handle firearms.
+Well, that old mare, I don't -
+We've got four men can handle firearms.
 Five with you, Ringo.
 Doc can shoot, if sober.
 I can shoot?
@@ -480,8 +480,8 @@ Now, Miss Mallory, I - I ain't gonna put a lady in danger without she votes for 
 I've traveled all the way here from Virginia.
 I'm determined to get to my husband.
 I won't be separated any longer.
-- What's your vote, mister?
-- [Clears Throat] Well -
+What's your vote, mister?
+[Clears Throat] Well -
 Where's your manners, Curley?
 Ain't you gonna ask the other lady first?
 Well, what do you say?
@@ -495,14 +495,14 @@ Four. You, Doc?
 I'm not only a philosopher, sir.
 I'm a fatalist.
 Somewhere, sometime, there may be the right bullet or the wrong bottle... waiting for Josiah Boone.
-- Why worry when or where?
-- [Curley] Yes or no?
+Why worry when or where?
+[Curley] Yes or no?
 Having that philosophy, sir,
 I've always courted danger.
 During the late war, when I had the honor to serve the Union... under our great president,
 Abraham Lincoln... ah, and General Phil Sheridan... well, sir, I fought 'midst shot and shell and cannon roar!
-- Do you want to go back or not?
-- No!
+Do you want to go back or not?
+No!
 I want another drink.
 [Laughing]
 That's five.
@@ -515,8 +515,8 @@ You understand, brother -
 I think it best we go back with the bosoms -
 [Stammers] I mean, the soldiers.
 One against. Well, Buck?
-- I want -
-- Buck says aye. That's six.
+I want -
+Buck says aye. That's six.
 I'm voting your proxy, Kid.
 You go with me.
 Ain't nothin' keeping me out of Lordsburg, Curley.
@@ -525,8 +525,8 @@ Well, folks, that settles it.
 We're going through.
 Sit down, folks, and eat your grub.
 Come on, Buck. We'll change them horses.
-- But, Curley, ain't we gonna eat? Ohh!
-- You can eat later!
+But, Curley, ain't we gonna eat? Ohh!
+You can eat later!
 Here you are, folks.
 Here you are, folks.
 Food's on the table. Help yourselves.
@@ -551,13 +551,13 @@ I was in your father's regiment.
 I should remember your name.
 You're Mr. Hatfield.
 That's what I'm called, yes.
-- Why do you look at me like that?
-- I'm just tryin' to remember.
+Why do you look at me like that?
+I'm just tryin' to remember.
 Ain't I seen you someplace before, ma'am?
-- No. No, you haven't.
-- Hmm.
-- I wish I had though.
-- [Chuckles]
+No. No, you haven't.
+Hmm.
+I wish I had though.
+[Chuckles]
 I know you.
 I mean, I know who you are.
 I guess everybody in the territory does.
@@ -572,52 +572,52 @@ You're going there as a prisoner.
 All aboard for Apache Wells, Lee's Fer -
 All righty, folks, the horses are changed.
 We'd better get going.
-- And Lordsburg, maybe.
-- All right, get going, Ringo.
+And Lordsburg, maybe.
+All right, get going, Ringo.
 Mrs. Pickett, tell Billy the buckboard is all ready. Let's get going.
 [Mrs. Pickett]
 All right, Marshal, we're ready.
-- Come on, folks, let's move.
-- [Lieutenant] My compliments to your husband.
+Come on, folks, let's move.
+[Lieutenant] My compliments to your husband.
 Thank you.
 [Peacock] I still feel that we ought to go back with the soldiers.
 [Curley] We've got to hurry if we wanna be there by sundown.
-- [All Chattering]
-- âªâª [Doc Singing]
+[All Chattering]
+âªâª [Doc Singing]
 Bridesmaid! Baby! Yow!
-- What'd you say?
-- Nothin'.
+What'd you say?
+Nothin'.
 Well, why don't ya say somethin'?
 A fella gets nervous, sittin' here like a dummy, nothin' to think about but the Indians.
 You say something! You've been sitting there all day talking without making any sense!
 All right, I'll say somethin' that makes sense.
 If I was you, I'd let 'em shoot it out.
-- Let who?
-- Luke Plummer and the Kid.
+Let who?
+Luke Plummer and the Kid.
 There'd be a lot more peace in this territory... if that Luke Plummer was so full of lead he couldn't hold his liquor.
 I ain't sayin' I don't share your sentiments, Buck.
-- But you're a born fool.
-- Well, I know that.
+But you're a born fool.
+Well, I know that.
 In the first place,
 Luke would kill the Kid in a gunfight.
 In the second place, if Luke did get shot, he's got two brothers just as ornery as he is.
 Nah, the only safe place for Ringo is in the pen, and I aim to get him there all in one piece!
 Well, I'll be doggoned if I didn't do you an injury, Curley.
-- I figured you were after the reward.
-- Reward?
+I figured you were after the reward.
+Reward?
 Why, the Kid's old man and me was friends.
 We used to punch cattle together.
 Besides, I could use that 500 in gold.
-- Bridesmaid!
-- Uh-uh! Steady!
+Bridesmaid!
+Uh-uh! Steady!
 Steady, girl!
 Bridesmaid! In line!
 I can't get over the impertinence of that young lieutenant.
 I'll make it warm for that shavetail!
 I'll report him to Washington!
 We pay taxes to the government, and what do we get?
-- Not even protection from the army.
-- No.
+Not even protection from the army.
+No.
 I don't know what the government is coming to.
 Instead of protecting businessmen, it pokes its nose into business.
 Hmph!
@@ -632,8 +632,8 @@ Our national debt is something shocking!
 Over $1 billion a year!
 What this country needs is a businessman for president!
 What this country needs is more fuddle.
-- What?
-- Fuddle!
+What?
+Fuddle!
 You're drunk, sir!
 I'm happy, Gatewood.
 Boo!
@@ -652,8 +652,8 @@ Haven't I seen this crest before?
 Isn't this from Greenfield Manor?
 I wouldn't know, Mrs. Mallory. I -
 I won this cup on a wager.
-- Oh.
-- How about the other lady?
+Oh.
+How about the other lady?
 Thanks.
 Sorry. No silver cups.
 This is fine.
@@ -671,11 +671,11 @@ Get the folks a bite to eat, Chris, while we change horses. We're pushing on to 
 You come without soldiers?
 Oh, we weren't a-scared.
 We didn't see one Apache, did we, Curley?
-- Where's the cavalry, Chris?
-- Uh-huh. Where's the soldiers?
+Where's the cavalry, Chris?
+Uh-huh. Where's the soldiers?
 There ain't no soldiers.
-- Huh?
-- Soldiers have gone.
+Huh?
+Soldiers have gone.
 Where's Captain Mallory?
 Where's my husband?
 Where is he?
@@ -695,18 +695,18 @@ I'm quite all right, thank you.
 Marshal! Come here! Quickly!
 Come on, Doc.
 Let's go, Doc.
-- [Peacock] Poor woman.
-- [Gatewood] A sick woman on our hands!
-- That's all we needed!
-- [Buck] I feel kinda sick myself.
+[Peacock] Poor woman.
+[Gatewood] A sick woman on our hands!
+That's all we needed!
+[Buck] I feel kinda sick myself.
 We're in a fine fix, my friends.
 It's a fine country we're living in.
 The army has no right to leave a public place like this undefended.
 Looks to me like the army's got its hands pretty full, mister.
-- Have you a wife?
-- Si, seÃ±ora, I think.
-- Call her.
-- Yakima! Â¿DÃ³nde estÃ¡s?
+Have you a wife?
+Si, seÃ±ora, I think.
+Call her.
+Yakima! Â¿DÃ³nde estÃ¡s?
 Ringo, go in the kitchen and get some hot water, lots of hot water, please.
 Yes, ma'am. Hey, Chris!
 Â¿DÃ³nde la cocina?
@@ -718,28 +718,28 @@ Coffee.
 Give me coffee.
 Black coffee.
 Lots of it.
-- More! More! More!
-- Ain't it enough, Doc? That's four.
-- Blacker! Stronger! Keep it comin', Curley!
-- You'll have it coming out your ears in a minute.
+More! More! More!
+Ain't it enough, Doc? That's four.
+Blacker! Stronger! Keep it comin', Curley!
+You'll have it coming out your ears in a minute.
 Drink it down, Doc. Go on.
 Drink it down.
-- Get it down.
-- That'll make you feel better.
+Get it down.
+That'll make you feel better.
 All right, Doc.
 Isn't that drunken swine sober yet?
-- He's doing the best he can!
-- Well, hurry!
-- Shh! EstÃ¡ malo.
-- [Curley] Tinhorn.
-- How you feeling?
-- [Exhales] Fine.
+He's doing the best he can!
+Well, hurry!
+Shh! EstÃ¡ malo.
+[Curley] Tinhorn.
+How you feeling?
+[Exhales] Fine.
 [Gasps]
 Thanks. Again.
 Sit down here, Doc.
 Keep the fire going, Chris.
-- Plenty of hot water.
-- Si, seÃ±or. Si.
+Plenty of hot water.
+Si, seÃ±or. Si.
 Savages!
 [Chuckles]
 That's my wife, Yakima. My squaw.
@@ -754,8 +754,8 @@ Sure, she's one of
 Geronimo's people, I think.
 Maybe not so bad to have Apache wife, eh?
 Apache don't bother me, I think.
-- All right, Doc?
-- All right.
+All right, Doc?
+All right.
 [Sighs]
 All right, Dallas. âªâª [Guitar, Slow Tempo]
 [Woman] âª Al pensar en ti âª âª Tierra en que naci âª âª QuÃ© nostalgia siente âª âª Mi corazÃ³n âª âª En mi soledad âª âª Con este cantarâª âª Siento alivio y consuelo en mi dolorâª
@@ -769,15 +769,15 @@ Yeah, with the spare horses.
 [Howling]
 [Howling]
 [Baby Crying]
-- [Howling Continues]
-- [Crying Continues]
+[Howling Continues]
+[Crying Continues]
 Them coyotes give me the creeps.
 It sounds li -
 Well, it sounds just like a baby.
 Black eight.
 [Cooing]
-- It's a baby.
-- [Curley Chuckles]
+It's a baby.
+[Curley Chuckles]
 It's a little girl.
 [Buck]
 It's a little girl.
@@ -786,18 +786,18 @@ Why didn't somebody tell me?
 How's Mrs. Mallory?
 She's going to be all right.
 Well, I'll be doggoned.
-- Did-Did you know?
-- Why -
+Did-Did you know?
+Why -
 Well, I'll be doggoned.
-- [Babbling]
-- Don't do that.
+[Babbling]
+Don't do that.
 Dr. Boone.
 Come on, boys.
 Three cheers for ol' Doc Boone.
-- Hip, hip -
-- Quiet.
-- Well, we oughta be -
-- Quiet.
+Hip, hip -
+Quiet.
+Well, we oughta be -
+Quiet.
 Mrs. Mallory.
 [Curley]
 Oh.
@@ -809,12 +809,12 @@ If you know who in Lordsburg, you stay away, I think.
 You mean Luke Plummer?
 Luke, Ike and Hank - all there together.
 I saw them.
-- Are you sure of that, Chris?
-- Sure. I can tell you the truth.
-- I know.
-- Thanks.
-- That's all I wanted to know.
-- You crazy if you go.
+Are you sure of that, Chris?
+Sure. I can tell you the truth.
+I know.
+Thanks.
+That's all I wanted to know.
+You crazy if you go.
 I think you stay away, Kid.
 Three against one is no good.
 You oughtn't to go too far, Miss Dallas.
@@ -823,8 +823,8 @@ You, uh, visitin' in Lordsburg?
 No. No, I have friends there.
 And maybe I can find work.
 Say, look, Kid, why don't you try to escape?
-- Why don't you get away?
-- I aim to - in Lordsburg.
+Why don't you get away?
+I aim to - in Lordsburg.
 Why Lordsburg?
 Why don't you make for the border now?
 My father and brother were shot down by the Plummer boys.
@@ -856,21 +856,21 @@ Stick close to the reservation.
 [Chris]
 Curley! Oh, Curley!
 Oh! Curley! Curley!
-- What's wrong, Chris?
-- My wife, Yakima - she run away.
-- When I wake up, she was gone.
-- The way you come busting in here, you'd think -
-- Whoa.
-- Excuse me, Kid.
+What's wrong, Chris?
+My wife, Yakima - she run away.
+When I wake up, she was gone.
+The way you come busting in here, you'd think -
+Whoa.
+Excuse me, Kid.
 Come busting in here, you'd think we were being attacked.
-- You can find another wife.
-- Sure I can find another wife.
+You can find another wife.
+Sure I can find another wife.
 But she take my rifle and my horse.
 Oh, I never sell her.
 I love her so much.
 I beat her with the whip, and she never get tired.
-- Your wife?
-- No. My horse.
+Your wife?
+No. My horse.
 Oh.
 I can find another wife easy, yes, but not a horse like that.
 Mala Yakima.
@@ -891,10 +891,10 @@ Good.
 Here you are, Doc.
 Well, what are we wasting time for?
 Let's make a break for it.
-- We've got a sick woman to think of.
-- Do you want her to stay here and be butchered with the rest of us?
-- Why don't you think of somebody else for once?
-- Do you realize who you're talking to?
+We've got a sick woman to think of.
+Do you want her to stay here and be butchered with the rest of us?
+Why don't you think of somebody else for once?
+Do you realize who you're talking to?
 Easy, easy! Quiet, boys. Quiet.
 We ain't been butchered yet.
 But you're right.
@@ -914,19 +914,19 @@ Oh, I slept a lot in the chair.
 Well, anyway, it was nice to stay awake and hold the baby.
 Hmm. Well, we've got to get you to Lordsburg, Little Coyote.
 That's what the boys christened her last night when she squalled - Little Coyote.
-- How do you feel?
-- Fine, thanks. A little tired.
-- Doctor, do you think my husband -
-- Never mind him.
+How do you feel?
+Fine, thanks. A little tired.
+Doctor, do you think my husband -
+Never mind him.
 The best medicine he can have is to see you two safe and sound.
 You just make up your mind you're gonna get there.
-- I have made up my mind.
-- That's the stuff.
-- I am going to get there.
-- You need strength, so get all the rest you can.
+I have made up my mind.
+That's the stuff.
+I am going to get there.
+You need strength, so get all the rest you can.
 Dallas, do you suppose you can fix up a little broth?
-- She has already.
-- Good.
+She has already.
+Good.
 How about making some coffee for the boys?
 Now you get some sleep, Mrs. Mallory.
 And don't look so proud.
@@ -947,8 +947,8 @@ All right. Go ahead.
 Do it if you can.
 Good luck.
 Thanks, Doc.
-- Ringo -
-- [Curley] Well, Doc?
+Ringo -
+[Curley] Well, Doc?
 Oh, both doing nicely.
 She's a real soldier's wife, that young lady.
 Good, good.
@@ -971,12 +971,12 @@ I say we ought to leave here before the
 Apaches find us. That's common sense.
 I wish you were 10 years younger,
 Gatewood.
-- Don't let my white hairs stop you -
-- Now just a minute!
-- [Both Shouting]
-- Quiet! Quiet!
-- Now, Curley, I haven't said a word!
-- Will you shut up!
+Don't let my white hairs stop you -
+Now just a minute!
+[Both Shouting]
+Quiet! Quiet!
+Now, Curley, I haven't said a word!
+Will you shut up!
 Now, if we argue this thing out right, we can get somewhere.
 Let's all sit down and talk sensible.
 Come on, Buck. Sit down.
@@ -1015,26 +1015,26 @@ Well, I don't see what else I can do.
 Go now. Get away.
 Forget Lordsburg. Forget the Plummers.
 Make for the border, and I'll come to you.
-- Do you mean that?
-- Yes, I do.
+Do you mean that?
+Yes, I do.
 Will you go with me, Dallas?
 Oh, I can't leave Mrs. Mallory and the baby.
 I'll come to you from Lordsburg.
 I swear it.
 Well, I oughta have a rifle and -
 I've got one. Right here.
-- I got it last night when they were all asleep.
-- You mean you thought of this last night?
+I got it last night when they were all asleep.
+You mean you thought of this last night?
 Yeah. Don't ask any more questions.
 Not now.
 Aw, gosh, Curley, there ain't no Apaches behind us.
 Aw, gosh, Curley, there ain't no Apaches behind us.
 We can still go back to Tonto.
-- No! I insist we go on to Lordsburg.
-- What do you think, Chris?
+No! I insist we go on to Lordsburg.
+What do you think, Chris?
 Geronimo between here and Lordsburg - with my horse, I think.
-- [Chuckles] âª My horse has gone âª
-- No, Doctor. Oh! [Mutters In Spanish] âª She has gone astray with the sun - âªâª
+[Chuckles] âª My horse has gone âª
+No, Doctor. Oh! [Mutters In Spanish] âª She has gone astray with the sun - âªâª
 Quiet, Doc.
 This is a serious matter, ain't it?
 My dear Buck... if I have only one hour to live,
@@ -1042,8 +1042,8 @@ I'm going to enjoy myself.
 Doctor, I don't begrudge you my samples, but I think -
 Now you hush! I've stood enough of you.
 Now this is a serious problem, and I'm the only one that's talkin' sense.
-- Now, Curley, if -
-- If we can get across that ferry, we'll be all right.
+Now, Curley, if -
+If we can get across that ferry, we'll be all right.
 Question is, what are we gonna do about the lady and her baby?
 Dr. Boone has settled that for us, sir... and I demand respect for his professional opinion.
 Hatfield.
@@ -1051,21 +1051,21 @@ Ringo.
 Ringo!
 Ringo!
 Hurry, Ringo.
-- [Curley] Ringo!
-- Hurry!
-- Bye, Dallas.
-- Good-bye!
+[Curley] Ringo!
+Hurry!
+Bye, Dallas.
+Good-bye!
 Ringo! Don't stop! Go on! Go on!
 [Dallas]
 Keep riding!
 Ringo, go on! Go on!
 Curley! No! Let him go! Stop it!
 You don't need them, Curley.
-- I ain't gonna run away.
-- I'll say you ain't.
+I ain't gonna run away.
+I'll say you ain't.
 Look at them hills.
-- Apaches.
-- War signals.
+Apaches.
+War signals.
 [Gatewood] Hurry up, Marshal!
 What's - Why don't we start?
 [All Chattering]
@@ -1073,10 +1073,10 @@ What's - Why don't we start?
 Come on, Bridesmaid! Yow! Yow!
 Nice girls! Yow! Go!
 Hey, Curley, why don't you take the cuffs off the Kid?
-- He's mighty handy with a gun.
-- You drive them horses.
-- I'll take care of the Kid.
-- Oh!
+He's mighty handy with a gun.
+You drive them horses.
+I'll take care of the Kid.
+Oh!
 Can't you drive any faster?
 You thick-headed lout!
 We've got to make that ferry.
@@ -1109,14 +1109,14 @@ It's burnt too.
 Hatfield, stand guard over there.
 [Gatewood] Where's the army?
 What are the soldiers doing?
-- [Doc] Curley, what can I do?
-- Are they going to let Geronimo burn and pillage the whole country?
+[Doc] Curley, what can I do?
+Are they going to let Geronimo burn and pillage the whole country?
 Ringo, I need you. Will you give me your word you won't try to escape again?
 I'll give you my word - till Lordsburg.
-- Get in the coach with them women.
-- I gave you my word.
-- [Dallas] Ringo, don't!
-- [Doc] Dallas.
+Get in the coach with them women.
+I gave you my word.
+[Dallas] Ringo, don't!
+[Doc] Dallas.
 Buck, drive into the river up to the hubs.
 Brownie! Bessie! Bridesmaid!
 Come on, girls! Hah! Get down!
@@ -1126,10 +1126,10 @@ Come on, girls. Steady now.
 Look out, Curley.
 Kid, take your suspenders and cross-tie them wheelers.
 Sorry about the saddle, Kid.
-- [Curley] Ready, Kid?
-- All set.
-- Ready, Buck?
-- All ready, Curley.
+[Curley] Ready, Kid?
+All set.
+Ready, Buck?
+All ready, Curley.
 [Curley]
 Here we go! Here we go, Buck!
 [Ringo]
@@ -1149,12 +1149,12 @@ Good girl. That's a girl!
 Whoa!
 [Curley]
 Ho, girl! Take it! âª All aboard for Lordsburg, Lordsburg âª
-- Hey, Curley.
-- Yeah. What?
+Hey, Curley.
+Yeah. What?
 You think I ought to charge
 Mrs. Mallory's baby half fare?
-- [Mutters]
-- Sweetheart!
+[Mutters]
+Sweetheart!
 Well, we'll soon be in Lordsburg.
 Uh, sorry I flew off the handle, Hatfield.
 My apologies, Doctor.
@@ -1168,37 +1168,37 @@ I'd like to propose a toast.
 Major...
 Gatewood...
 Ringo.
-- To your health.
-- [Hatfield] Thank you, sir.
+To your health.
+[Hatfield] Thank you, sir.
 [Arrow Whooshes, Thuds]
 [Gasping]
 [Gunshot]
 Giddap, girl!
 Run them! Dry Lake! Ringo!
-- Git, girls! Go!
-- [Gunshots]
-- [Buck Shouting]
-- [Gunshots Continue]
-- [Whooping, Shouting]
-- [Gunshots]
+Git, girls! Go!
+[Gunshots]
+[Buck Shouting]
+[Gunshots Continue]
+[Whooping, Shouting]
+[Gunshots]
 [Buck]
 Bridesmaid!
 Bridesmaid! Yow!
-- Yow! Ho!
-- Hatfield!
+Yow! Ho!
+Hatfield!
 Yow! Yow, girl!
 Yow! Yow! Yow!
 Giddap! Ho! Ho!
 Hurry up, girls!
-- I warned you about this - this danger!
+I warned you about this - this danger!
 But you wouldn't listen to me!
-- [Gunshot]
+[Gunshot]
 Gatewood, will you shut up!
 I've got a patient here!
 No, you can't stop me.
 Let me out of here, I tell you!
-- Will you shut up!
-- You sot! Take your -
+Will you shut up!
+You sot! Take your -
 [Gunshots Continue]
 [Buck]
 Yaah!
@@ -1227,22 +1227,22 @@ Yow! Yow!
 Curley! More ammunition!
 [Gunshot]
 [No Audible Dialogue]
-- [Gunshot]
-- [Hatfield Groans] âªâª [Bugle Blowing In Distance]
+[Gunshot]
+[Hatfield Groans] âªâª [Bugle Blowing In Distance]
 Do you hear it?
-- âªâª [Continues]
-- Do you hear it?
+âªâª [Continues]
+Do you hear it?
 It's a bugle!
 They're blowing the charge! âªâª [Continues]
 If you see Judge Greenfield... tell him his son - âªâª [Bugle] âªâª [Honky-tonk Piano] âªâª [Honky-tonk Piano]
 [People Chattering]
 [Horse Blusters] âªâª [Piano Continues In Distance]
-- [Captain] Thank heaven you're safe, Lucy.
-- Where's Richard? Is he all right?
+[Captain] Thank heaven you're safe, Lucy.
+Where's Richard? Is he all right?
 Oh, he's all right.
 Don't you worry.
-- [Woman] It isn't a bad wound.
-- We'll take you to him immediately.
+[Woman] It isn't a bad wound.
+We'll take you to him immediately.
 Where's the baby, dear?
 I'll take the baby.
 Dallas.
@@ -1259,11 +1259,11 @@ Hey, Curley! How are you?
 Aces and eights.
 [Laughs]
 Dead man's hand, Luke.
-- [Old Man Stammering]
-- Ringo Kid's in town.
+[Old Man Stammering]
+Ringo Kid's in town.
 Yeah. Drivin' the stage. âªâª [Piano Continues]
-- Mis hermanos.
-- Si, patrÃ³n. Un momento.
+Mis hermanos.
+Si, patrÃ³n. Un momento.
 Cash in.
 [Glass Clinks On Counter] âªâª [Piano Continues] âªâª [Piano Continues]
 [Man]
@@ -1271,12 +1271,12 @@ Easy now. Easy. That's right.
 Good-bye, Miss Dallas.
 If you ever come to Kansas City, Kansas,
 I want you to come out to see us.
-- Oh, thanks, Mr., uh -
-- Peacock.
-- Hello, Buck.
-- [Man] They got here all right.
-- You got through all right.
-- [Man] All right, folks, you're here.
+Oh, thanks, Mr., uh -
+Peacock.
+Hello, Buck.
+[Man] They got here all right.
+You got through all right.
+[Man] All right, folks, you're here.
 All right, folks. You're all right. Unload.
 Here you are, Doctor.
 Will you sign this?
@@ -1287,27 +1287,27 @@ There you are. Thank you.
 Well, Kid.
 Curley, how long will they give me for breakin' out?
 Oh, about another year.
-- You know where my ranch is?
-- Yeah.
+You know where my ranch is?
+Yeah.
 Will you see that she gets there all right?
 Dallas.
 Yeah.
 This is no town for a girl like her.
 Will you do it?
-- Sure.
-- Thanks.
+Sure.
+Thanks.
 How are ya, Marshal?
 Get my man through all right?
 I don't need them.
 If you don't want to lose your prisoner, Sheriff, you'd better take care of him yourself.
-- What's your name, mister?
-- My name is Gatewood. Ellsworth H. Gatewood.
+What's your name, mister?
+My name is Gatewood. Ellsworth H. Gatewood.
 Oh. Gatewood. You didn't think they'd have the telegraph wires fixed, did you?
 [Man]
 You thought you escaped.
 [All Shouting]
-- [Crowd Laughing, Chattering]
-- [Man, Laughing] We got our banker!
+[Crowd Laughing, Chattering]
+[Man, Laughing] We got our banker!
 Can I meet you back here in 10 minutes?
 I gave you my word, Curley.
 I ain't goin' back on it now.
@@ -1316,8 +1316,8 @@ I lied to you, Curley.
 Got three left.
 Come on.
 Good night, Kid.
-- Is this where you live?
-- No.
+Is this where you live?
+No.
 I gotta know where you live, don't I?
 No. Don't come any further.
 It's all been a crazy dream.
@@ -1340,8 +1340,8 @@ I asked you to marry me, didn't I?
 I'll never forget you asked me, Kid.
 That's something.
 Wait here.
-- [Door Squeaks]
-- [Crowd Gasps, Shouts]
+[Door Squeaks]
+[Crowd Gasps, Shouts]
 Uh -
 [Stammering]
 Ringo said he'll be passing this way in... six or seven minutes.
@@ -1357,16 +1357,16 @@ Hey, Billy! Billy, kill that story about the Republican convention in Chicago an
 "The Ringo Kid was killed on Main Street in Lordsburg tonight!
 And among the additional dead was" -
 Leave that blank for a spell.
-- I didn't hear any shootin', Ed.
-- You will, Billy. You will.
+I didn't hear any shootin', Ed.
+You will, Billy. You will.
 [Laughs]
 Hank missed him - at four feet.
 [Woman Exclaims]
 [Hammer Cocks]
 [Hammer Cocks]
 [Gunshots]
-- [Women Screaming]
-- [Gunfire Stops]
+[Women Screaming]
+[Gunfire Stops]
 Ringo. Ringo.
 [Gasping]
 Ringo.
@@ -1380,8 +1380,8 @@ Good-bye.
 Maybe you'd like to ride a ways with the Kid.
 Please.
 [Curley, Doc Shouting]
-- Yea! Yea!
-- Yea!
+Yea! Yea!
+Yea!
 [Both Laughing]
 [Doc Sighs]
 Well, they're saved from the blessings of civilization.
@@ -1389,5 +1389,5 @@ Yeah.
 [Laughs]
 Doc?
 I'll, uh, buy you a drink.
-- Just one.
-- [Laughing]
+Just one.
+[Laughing]

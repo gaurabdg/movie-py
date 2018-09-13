@@ -2,29 +2,29 @@
 [GASPS] It's her! I know it's her!
 She wants to tell us something!
 <i>- We must do something!
-- [MAN] Sit down!</i>
+[MAN] Sit down!</i>
 <I>- [WOMAN] Please!
-- Hey!
+Hey!
 <I>[CROWD ARGUING]
 <I>[CROWD CHATTERING]
 In the name of His Imperial Majesty and the city of Vienna...
 <I>- I hereby arrest Eduard Abramovicz...
-- [CROWD GASPING] also known as Eisenheim the Illusionist...
+[CROWD GASPING] also known as Eisenheim the Illusionist...
 <i>- on charges of disturbing public order...
-- [SHOUTING]</i>
+[SHOUTING]</i>
 <i>charlatanism and threats against the empire!</i>
-- [WOMAN] Leave Him Alone!
-- [SHOUTING CONTINUES]
+[WOMAN] Leave Him Alone!
+[SHOUTING CONTINUES]
 They're arresting him!
 They're arresting Eisenheim!
 [MEN SHOUTING]
 Chief Inspector Uhl.
 <I>[DOOR CLOSES]
-- You're late.
-- My apologies, Your Highness.
+You're late.
+My apologies, Your Highness.
 I was attending to the loose ends of the case.
-- Are there still loose ends?
-- Very few.
+Are there still loose ends?
+Very few.
 Did he do it again?
 How does he do it?
 <i>I'm afraid I still don't know.</i>
@@ -51,11 +51,11 @@ Boy.</i>
 <i>or at least that he was a bit different.</i>
 <i>And then he met her.</i>
 <i>- [BOY #1] Don't drop it.
-- [BOY #2] Careful, you're going to trip.</i>
+[BOY #2] Careful, you're going to trip.</i>
 <i>- Drop it, you muck snipe.
-- Oh! Watch out for that hole, alley rat!</i>
-- Drop it!
-- Come on.
+Oh! Watch out for that hole, alley rat!</i>
+Drop it!
+Come on.
 [BOYS CHUCKLING]
 <I>[EISENHEIM]
 PICK A CARD.
@@ -69,8 +69,8 @@ She Was Brought Back To The Castle...
 <i>and they were forbidden to see each other.</i>
 <i>But soon, they were doing just that.</i>
 <i>Over the next few years, they could always find a way to be together.</i>
-- Quick, come on.
-- [BOTH CHUCKLE]
+Quick, come on.
+[BOTH CHUCKLE]
 <I>[DOOR SQUEAKING]
 <I>[EISENHEIM] In China there's a magician that could make anything disappear-
 <i>a house, a wagon, anything.</i>
@@ -86,11 +86,11 @@ I wanted a picture.
 <I>[FOOTSTEPS APPROACHING]
 Sophie, are you there?
 <i>- We must hurry! They're coming!
-- [MAN] Duchess von Teschen!</i>
+[MAN] Duchess von Teschen!</i>
 <I>- [DOOR CLOSES]
-- Duchess von Teschen!
+Duchess von Teschen!
 <i>- Duchess von Teschen!
-- [MAN #2] Duchess von Teschen!</i>
+[MAN #2] Duchess von Teschen!</i>
 <i>Make us disappear.
 Make us disappear.</i>
 <i>[MAN]
@@ -98,22 +98,22 @@ Duchess von Teschen!</i>
 <I>[FOOTSTEPS APPROACHING]
 Stop. Stop.
 <I>[DOOR OPENS]
-- Don't do this.
-- Let go!
-- Let me go. Let go!
-- Your father's waiting for you.
+Don't do this.
+Let go!
+Let me go. Let go!
+Your father's waiting for you.
 <I>- [SOPHIE] Let go!
-- No!
-- Eduard!
-- Please, let go!
-- No!
-- Let me go!
+No!
+Eduard!
+Please, let go!
+No!
+Let me go!
 Let her go, please!
 <i>- Let go! Stop it!
-- Sophie!</i>
+Sophie!</i>
 Eduard!
 <i>- Sophie!
-- Eduard!</i>
+Eduard!</i>
 Sophie.
 [GRUNTS]
 <i>[MAN]
@@ -134,8 +134,8 @@ I present to you a man who has unlocked these mysteries.
 From the furthest corners of the world... where the dark arts still hold sway... he returns to us to demonstrate... how nature's laws may be bent.
 I give you... Eisenheim.
 [APPLAUSE]
-- [CROWS CAWING]
-- [CROWD GASPS]
+[CROWS CAWING]
+[CROWD GASPS]
 Might I borrow a handkerchief from someone?
 You, madam.
 Thank you.
@@ -164,11 +164,11 @@ Bravo!
 Very good.
 <i>[BOY]
 Give us something, please.</i>
-- Please, give us something. Please.
-- What's all this?
+Please, give us something. Please.
+What's all this?
 We're poor.
-- Do you think you're poor?
-- Yes.
+Do you think you're poor?
+Yes.
 I want to show you something.
 You're not poor.
 You have everything that you need right here.
@@ -176,21 +176,21 @@ Thank you.
 Thank you.
 Thank you.
 And that's yours.
-- And this too.
-- [GASPS]
+And this too.
+[GASPS]
 <I>- [COINS JANGLING ON GROUND]
-- [BOYS GASPING]
+[BOYS GASPING]
 I've got the magic one!
-- Good morning.
-- Good morning.
-- Coffee?
-- No.
-- Strudel? I have two.
-- Nothing, thank you.
+Good morning.
+Good morning.
+Coffee?
+No.
+Strudel? I have two.
+Nothing, thank you.
 You look very pleased with yourself.
 How are the receipts?
 <i>- Not bad. A three-quarter house.
-- Well done.</i>
+Well done.</i>
 But we're going to do better than that. Listen to this.
 Listen. "There is no argument that his uncanny displays...
 "separate him from the ranks of garden-variety stage wizards.
@@ -214,32 +214,32 @@ We have eight men inside, another eight out front.
 <i>Perhaps you'll get another look at your butterflies.</i>
 Mmm.
 <i>- [MAN] Come on in.
-- Check the last 10 rows there.</i>
+Check the last 10 rows there.</i>
 <i>- You! Don't touch that!
-- [KNOCKING TABLE]</i>
-- Put that down!
-- Ah, Herr Eisenheim.
+[KNOCKING TABLE]</i>
+Put that down!
+Ah, Herr Eisenheim.
 Who are you and what do you think you're doing?
 I'm Chief Inspector Walter Uhl and I'm inspecting your theater.
 I've seen you perform.
 Very impressive.
 <i>- Very impressive.
-- How can we help you, Inspector?</i>
+How can we help you, Inspector?</i>
 You will be honored to know the crown prince... plans to attend your performance tonight.
 <i>- The crown prince?
-- Yes!</i>
+Yes!</i>
 <i>So, obviously we have to inspect the theater.</i>
 I think that one's small for an assassin, don't you?
 [CHUCKLES]
 Yes, the orange tree.
 You know, I have seen things like this before... but never one like that.
-- Extraordinary.
-- Thank you.
+Extraordinary.
+Thank you.
 I have been puzzling over how it works... especially how the butterflies fly.
 I assure you, your secret is safe with me.
 I'm an officer of the law after all, and a bit of an amateur conjurer.
-- Are you really?
-- Yes.
+Are you really?
+Yes.
 Well, card tricks, coins, uh, sleight of hand, yes.
 Hmm.
 But nothing fancy.
@@ -247,29 +247,29 @@ Perhaps you'll give me a tip.
 Yes, all right.
 I'll show you one I'm very fond of.
 Are you a gambling man?
-- On occasion, yes.
-- I will bet you the secret of the orange tree... that I can guess which hand you place this in every time.
+On occasion, yes.
+I will bet you the secret of the orange tree... that I can guess which hand you place this in every time.
 Excellent.
 Put it in your fist, raise your hand against your forehead...
 <i>concentrate on it, form a mental picture.</i>
 <i>- Yes.
-- Have you got it?</i>
+Have you got it?</i>
 <i>- Yes.
-- Put your hands in front of you.</i>
+Put your hands in front of you.</i>
 It's in your left.
-- Well-
-- A lucky guess, perhaps.
+Well-
+A lucky guess, perhaps.
 You have a confederate who signals you.
-- No. It's more primitive than that.
-- Uh-huh.
+No. It's more primitive than that.
+Uh-huh.
 When you raise your hand to your head, the blood drains from it.
 It will be paler every time.
 Oh. Oh, I like that very much.
 Please take it with my compliments.
 Why, thank you.
 Eh, the blood drains.
-- Now, Inspector...
-- [CHUCKLES] if you don't mind, I've got to prepare for tonight's performance.
+Now, Inspector...
+[CHUCKLES] if you don't mind, I've got to prepare for tonight's performance.
 Ah.
 [CHUCKLES]
 [CHATTERING]
@@ -300,7 +300,7 @@ Now bow to yourself.
 [CROWD LAUGHING]
 [CROWD GASPING]
 <I>- [CROWD GASPING]
-- [WOMAN SCREAMS]
+[WOMAN SCREAMS]
 Away.
 [CROWD GASPS]
 <I>[CHATTERING]
@@ -308,22 +308,22 @@ They must have liked you. They've waited for you nearly five minutes.
 Your Highness, may I introduce
 Eisenheim the Illusionist?
 <I>[APPLAUSE]
-- Well done.
-- Thank you for coming. I hope you enjoyed it.
+Well done.
+Thank you for coming. I hope you enjoyed it.
 Oh, we more than enjoyed it.
 Stimulated great debate amongst us, hasn't it?
 Except of course for your assistant,
 Duchess von Teschen.
 You seemed to have struck her quite speechless. A feat in itself.
-- Did you hypnotize her?
-- In a fashion.
+Did you hypnotize her?
+In a fashion.
 <I>- I'd like to learn that trick.
-- [MEN LAUGHING]
+[MEN LAUGHING]
 <i>Rainier here thinks you have supernatural powers.</i>
 Do you claim supernatural powers?
 I've never said anything of that kind.
-- Then you won't mind a question or two.
-- Now let's not ruin it.
+Then you won't mind a question or two.
+Now let's not ruin it.
 <i>[LEOPOLD] You needn't divulge anything I can't guess.</i>
 As you wish.
 Your assistants are behind the mirror... somewhere in robes obviously.
@@ -346,17 +346,17 @@ My God.
 When he volunteered her...
 I heard the crashing sound of money falling on me in piles.
 Every lady of means in Vienna will want to get up there with you now.
-- Mmm.
-- What a show-off.
+Mmm.
+What a show-off.
 His father would have died if he had seen such a display.
-- She didn't seem too happy about it either.
-- She'd better get used to it.
-- How's that?
-- Word is she'll marry him soon.
-- Really?
-- Taking her chances if you ask me.
-- Why?
-- He likes to give his lady friends... a good thrashing now and again.
+She didn't seem too happy about it either.
+She'd better get used to it.
+How's that?
+Word is she'll marry him soon.
+Really?
+Taking her chances if you ask me.
+Why?
+He likes to give his lady friends... a good thrashing now and again.
 People say he pushed one of them off a balcony... just to cover the beating he'd given her.
 For Herr Eisenheim.
 <I>[HOOVES BEATING]
@@ -379,8 +379,8 @@ Yes.
 So, I hear congratulations are in order.
 <i>What for?</i>
 They say you'll be the princess.
-- It's not decided at all.
-- Ah.
+It's not decided at all.
+Ah.
 It makes a certain sense, I suppose.
 We've known each other for years, and of course, our families.
 He's very intelligent.
@@ -406,8 +406,8 @@ The magician?
 Join us for a drink?
 Please.
 You like something to eat, something to drink, hmm?
-- No, thank you.
-- Herr Eisenheim...
+No, thank you.
+Herr Eisenheim...
 I'm going to ask you a question... that may not seem friendly... but I assure you, in fact, is.
 [CLEARS THROAT]
 What is your relationship with the Duchess von Teschen?
@@ -420,17 +420,17 @@ Acquaintances?
 Childhood friends.
 My father was a cabinetmaker.
 <i>- He made the furniture for her family's house.
-- [CHUCKLES]</i>
+[CHUCKLES]</i>
 I see, the cabinetmaker's son friends with a-
-- Has there been a complaint?
-- Oh, no, no. If there'd been a complaint... well, we'd be having a very, uh, different sort of conversation.
+Has there been a complaint?
+Oh, no, no. If there'd been a complaint... well, we'd be having a very, uh, different sort of conversation.
 Yes. He relies on you for that sort of thing, does he?
 I'm a simple public servant,
 Herr Eisenheim.
 That's not what I hear.
 I hear you'll be the chief of police very soon.
-- Maybe mayor of Vienna? Party secretary?
-- All subject to his whim.
+Maybe mayor of Vienna? Party secretary?
+All subject to his whim.
 You better hope he doesn't dissolve the parliament before you get there.
 Now the prince has some progressive ideas, but he will make a fine emperor.
 Well, they say you're very close to him, so I'm sure you'll do fine.
@@ -449,41 +449,41 @@ It's not worth it.
 <i>in return for unholy powers.</i>
 Or so at least some of our friends here would have us believe.
 <I>- [ALL LAUGHING]
-- But fear not.
+But fear not.
 Everything can and will be explained.
 <i>- All mysteries penetrated.
-- [MAN] Hear! Hear!</i>
+[MAN] Hear! Hear!</i>
 <i>[MAN #2]
 Well said! Well said!</i>
 [CROWD GASPS]
 <i>- [MAN] Is that the emperor?
-- [MAN #2] Ah, yes, your father.</i>
+[MAN #2] Ah, yes, your father.</i>
 I didn't think he was invited.
 <i>[MAN]
 Bravo.</i>
 A fair likeness of the old man.
 <I>- Too modern a style for him, of course.
-- [LAUGHTER]
+[LAUGHTER]
 I'm afraid I'm not much of a painter.
 It's true. There are no brushstrokes in this painting.
 I can see that clearly.
 So to achieve the color... some sort of chemical must be interacting, presumably.
 <i>Some sort of sprayer up your sleeve?</i>
-- May I?
-- If you feel you must.
-- I do.
-- Oh, let the man do his show.
+May I?
+If you feel you must.
+I do.
+Oh, let the man do his show.
 You want me to just sit there when it's so obvious?
-- [LAUGHTER]
-- I do.
+[LAUGHTER]
+I do.
 He tries to trick you.
 I try to enlighten you.
 Which is the more noble pursuit?
 May we have the lights, please... so His Highness can better see?
-- [MAN] See here, Leopold, let's have the show.
-- [MAN #2] Hear! Hear!
-- Come on, Leopold.
-- Get on with it.
+[MAN] See here, Leopold, let's have the show.
+[MAN #2] Hear! Hear!
+Come on, Leopold.
+Get on with it.
 [LEOPOLD]
 Very well. I propose a challenge.
 <i>Why don't you astonish us...</i> if you can... without all the... gadgetry?
@@ -505,13 +505,13 @@ You, sir, can you take the sword?
 <I>[SCATTERED LAUGHTER]
 No surprise there.
 <I>- [CROWD LAUGHING]
-- Perhaps you, sir.
+Perhaps you, sir.
 <I>- NOT SO EAGER, COUSIN.
-- [LAUGHTER]
+[LAUGHTER]
 <i>[MAN]
 Come on. You can do it.</i>
 <i>- [WOMAN] Do it! Do it!
-- [MAN #2] Come on!</i>
+[MAN #2] Come on!</i>
 <I>[CROWD SHOUTING]
 [GRUNTS]
 You shall live a long life.
@@ -519,7 +519,7 @@ Thank you for your indulgence.
 <I>[APPLAUSE]
 Come now. If you can't pull it out, you'll never be emperor.
 <i>- Your father will live to be a hundred.
-- [LAUGHTER]</i>
+[LAUGHTER]</i>
 [GRUNTS]
 The sword to its rightful owner!
 <I>[APPLAUSE]
@@ -530,20 +530,20 @@ Shut him down.
 Well, he's very popular,
 Your Highness.
 I'm sure you'll find a way.
-- What did you do to him?
-- I gave him what he asked for.
+What did you do to him?
+I gave him what he asked for.
 What would possess you to do something so foolish?
 <i>[WOMAN] Duchess von Teschen, you must come along, my dear.</i>
 We don't want to keep the prince waiting.
-- Did you enjoy the show?
-- It was wonderful, wasn't it?
+Did you enjoy the show?
+It was wonderful, wasn't it?
 It was amusing.
 <I>[HOOFBEATS APPROACHING]
 Who told you where to find me?
 Your manager. I told him if he wants to stay in Vienna, you need my help.
 Ah, so I'm to be driven from the city, is that it?
-- Good. I shall relish it.
-- Stop it!
+Good. I shall relish it.
+Stop it!
 <i>I came here to try to help you.</i>
 Why? Why should you possibly care what happens to me now?
 <i>You were my friend.
@@ -580,8 +580,8 @@ That could go very badly for him... and for you.
 [SIGHS]
 I am part of his plan.
 He only gets Hungary by aligning himself with my family.
-- Leave him.
-- It's not that easy.
+Leave him.
+It's not that easy.
 Call it off and come away with me.
 <i>Or don't say anything and we'll just go.</i>
 As long as we're alive... he'll hunt us.
@@ -595,9 +595,9 @@ You made your point.</i>
 <i>It doesn't matter that we were sold out for the whole run!</i>
 No, look. You got it off your chest.
 <i>- Do we have money?
-- What?</i>
-- Do we have any money saved?
-- Yes, we have some.
+What?</i>
+Do we have any money saved?
+Yes, we have some.
 But we could have had much, much more.
 Mmm, it will have to do.
 And the second account, all of it.
@@ -625,7 +625,7 @@ What man?
 Eisenheim the Illusionist.
 What were they doing?
 <i>- Well, they were meeting and, uh-
-- Touching? Kissing?</i>
+Touching? Kissing?</i>
 Fornicating?
 Not that we observed, no.
 However, I have reason to believe that they may be planning something together.
@@ -634,7 +634,7 @@ I'm not certain of anything yet,
 Your Highness.
 Thank you, Inspector.
 <i>- We can, of course, acquire more information-
-- [RIFLE FIRES]</i>
+[RIFLE FIRES]</i>
 He spent the afternoon in Vienna with his father.
 He's expected shortly.
 <I>[BOTTLE CLANKING]
@@ -642,20 +642,20 @@ What a surprise.
 <i>I thought you didn't like it here.</i>
 I suppose you think you're very clever... and very democratic in your friendships.
 <i>- Aren't you?
-- What are you talking about?</i>
+What are you talking about?</i>
 Your magician friend.
 I know you've been with him.
 It's true. We've been friends since childhood.
 You sleep with all your childhood friends?
 I will not be spoken to this way.
-- You'll be spoken to as I wish to speak to you!
-- You're drunk.
+You'll be spoken to as I wish to speak to you!
+You're drunk.
 You're getting quite old, aren't you?
 <i>You know, my mother was 16 years old when she married my father.</i>
 And you? Can you even bear children?
 Are you any use at all?
-- Are you trying to embarrass me?
-- It has nothing to do with you.
+Are you trying to embarrass me?
+It has nothing to do with you.
 It has everything to do with me!
 You will not share my bed if you've slept with him!
 You don't understand.
@@ -677,7 +677,7 @@ Whore!</i>
 <i>[SOPHIE]
 Out of my way.</i>
 <i>- [DRAWING SWORD]
-- Please, don't. [GROANS]</i>
+Please, don't. [GROANS]</i>
 <I>[HORSE NEIGHING]
 No, leave that.
 Leave all the lanterns.
@@ -694,17 +694,17 @@ Whoa. Whoa.
 I thought you saw her get on the train with him.
 No, sir. We were waiting in Vienna for them, but they left from Baden.
 <i>- We assumed she was with him.
-- [GRUNTS]</i>
+[GRUNTS]</i>
 <i>[WILLIGUT] Should I wire the crown prince in Budapest?</i>
 <i>It's been done.</i>
-- Who are you?
-- I'm the family's doctor.
+Who are you?
+I'm the family's doctor.
 Are you the chief inspector?
 Yes, I am. You understand this is a police matter now?
-- Of course I understand.
-- Good, good.
+Of course I understand.
+Good, good.
 <i>- You have determined the cause of death?
-- She bled to death.</i>
+She bled to death.</i>
 There's a wound on her throat... just above the left collarbone.
 Perhaps from a knife or a sword.
 May I take a look?
@@ -719,7 +719,7 @@ Gypsies, maybe.
 Saw all those diamonds, couldn't say no.
 Chief Inspector, there's one thing you should know.
 <i>- Yes, what is that?
-- In the folds of her dress...</i>
+In the folds of her dress...</i>
 I found this small gemstone.
 Seen last Thursday at 7:30 p.m., riding without an escort... toward the Imperial Hunting Lodge.
 Groomsman said she arrived about 8:30.
@@ -727,32 +727,32 @@ What was she doing riding alone?
 <I>[PACK OF DOGS BARKING]
 He did this.
 You know he did.
-- I know who did what?
-- The crown prince!
+I know who did what?
+The crown prince!
 He killed her. He's done it before, and you know it.
 No, I don't know that. In fact,
 I'm sure he didn't. He's in Budapest.
-- He killed her before he left!
-- I'm afraid the facts don't support your theory.
-- She was leaving him.
-- For who? You?
-- Yes!
-- Don't be absurd, Herr Eisenheim.
+He killed her before he left!
+I'm afraid the facts don't support your theory.
+She was leaving him.
+For who? You?
+Yes!
+Don't be absurd, Herr Eisenheim.
 He killed her because he couldn't let her go.
-- She knew his secret.
-- What secret?
-- Ask your inspector. He knows-
-- Stop this right now!
+She knew his secret.
+What secret?
+Ask your inspector. He knows-
+Stop this right now!
 [SCOFFS]
 Are you completely corrupt?
 No, not completely. No.
 Which is why I'll advise you not to accuse anyone, especially His Imperial Highness.
 Or you will end up in jail yourself.
 <I>[HOOVES BEATING]
-- Where's the guard who let her out of the gate?
-- Gone with the crown prince.
-- Did any of the servants see her leave?
-- All asleep.
+Where's the guard who let her out of the gate?
+Gone with the crown prince.
+Did any of the servants see her leave?
+All asleep.
 Ah-ha.
 What about him?
 He, uh, he put her horse in the first stall when she arrived.
@@ -770,19 +770,19 @@ No, I think not.
 <i>The crown prince is back.</i>
 <I>[WHINNYING]
 <i>- Chief Inspector.
-- [MEN SHOUTING]</i>
+[MEN SHOUTING]</i>
 <i>We should go. Now.</i>
 <I>- [NEIGHING]
-- [SIGHS]
+[SIGHS]
 What have you found out?
-- She was last seen riding here, alone.
-- Yes.
+She was last seen riding here, alone.
+Yes.
 And based on your information,
 I then threw her out.
-- Did she commit suicide?
-- No. It was surely murder.
-- Do you have a suspect?
-- We will soon, Your Highness.
+Did she commit suicide?
+No. It was surely murder.
+Do you have a suspect?
+We will soon, Your Highness.
 <I>[UHL NARRATING] Later that week, we arrested a man and charged him with murder...
 <i>but I knew that that wouldn't satisfy Eisenheim.</i>
 <i>I had my men continue to watch him.</i>
@@ -796,15 +796,15 @@ He fired his manager...
 <i>[MAN]
 Who is he?</i>
 My name is Frankel.
-- Where did you come from?
-- I come from Brunn.
+Where did you come from?
+I come from Brunn.
 My father is a lens grinder there.
 How have you come to be here tonight?
 <i>- I don't know.
-- [WOMAN] Are you alive?</i>
+[WOMAN] Are you alive?</i>
 <i>[MAN] What can you tell us about the other side?</i>
 <i>- What's it like?
-- [WOMAN] Yes, tell us.</i>
+[WOMAN] Yes, tell us.</i>
 <i>[WOMAN #2]
 You must know things. Secret things.</i>
 <i>[MAN]
@@ -828,8 +828,8 @@ The spirit has been reaffirmed...
 <i>in the face of modern, scientific materialism.</i>
 <i>The work of spiritualism will rouse humanity...</i> to a new, moral earnestness.
 "It is a revolutionary movement, and we will turn the empire... into a spiritual republic."
-- [BLOWS]
-- Do you think Eisenheim's behind all this?
+[BLOWS]
+Do you think Eisenheim's behind all this?
 [SIGHS]
 Why must I be bothered with a magician? [SCOFFS]
 He is proving to be more than a magician, Your Highness.
@@ -837,8 +837,8 @@ He is a charlatan.
 He's a faker.
 [SNORTS] He pretends to have supernatural powers-
 Put him on trial for fraud.
-- First, we have to show it is fraud.
-- Then do it.
+First, we have to show it is fraud.
+Then do it.
 Find out how the trick is done, and then arrest him.
 This is just a rough demonstration,
 Inspector.
@@ -847,32 +847,32 @@ But you can see how it could work.
 Yes, I see.
 Not bad, not bad.
 We need a spy in Eisenheim's troupe.
-- Those Orientals, they won't give us anything.
-- Mm.
-- I already tried.
-- Yeah. Then try something else.
+Those Orientals, they won't give us anything.
+Mm.
+I already tried.
+Yeah. Then try something else.
 <I>[CREAKING]
 <I>[DOOR BANGING]
 <I>[MAN, INDISTINCT]
 <I>[WOMAN, INDISTINCT]
 What has happened here?
 One of those ghosts from the theater down the street.
-- Yes. Up there.
-- Where?
-- There.
-- Right there. And it's a boy.
-- Yes. Look, look.
-- Sick!
-- Where is this thing?
-- Right there.
-- [SOBBING] Over there.
-- Uh-huh. Did you see it?
+Yes. Up there.
+Where?
+There.
+Right there. And it's a boy.
+Yes. Look, look.
+Sick!
+Where is this thing?
+Right there.
+[SOBBING] Over there.
+Uh-huh. Did you see it?
 [CRYING]
 Mm!
 <I>[MAN, SIGHING]
 God. An apparition. I saw it. I swear.
 <i>- [MAN #2] Yes!
-- [MAN #3] Right over there.</i>
+[MAN #3] Right over there.</i>
 [WOMAN GASPING]
 [CROWD GASPS]
 [CROWD YELLING]
@@ -882,46 +882,46 @@ Where are you taking him?</i>
 First the orange tree, now this.
 Do I have to share all my professional secrets with the police?
 Well, in this case, yes, or I'll be forced to arrest you.
-- On what charge?
-- Oh, well, we'll start with fraud.
+On what charge?
+Oh, well, we'll start with fraud.
 <I>- [KNOCKING]
-- [DOOR OPENS]
-- Excuse me, Chief Inspector-
-- What?
+[DOOR OPENS]
+Excuse me, Chief Inspector-
+What?
 I think you should look outside the window.
-- Who are they?
-- They are here for him.
+Who are they?
+They are here for him.
 <i>Oh!</i>
 My goodness, you have a devoted following.
-- What is it they expect of you?
-- I have no idea.
+What is it they expect of you?
+I have no idea.
 What do your spies tell you?
 That you plan to subvert the monarchy, perhaps.
 Why? Just because the crown prince is a murderer?
 He's not a murderer.
 We have the real murderer in prison.
-- He pleaded guilty.
-- You've got the wrong man.
-- You don't know that.
-- No, but you do.
+He pleaded guilty.
+You've got the wrong man.
+You don't know that.
+No, but you do.
 Hmm.
 Herr Eisenheim, you will also go to prison... if you don't explain to me what it is you are doing.
 <i>- [MAN] Let him go!
-- [MAN #2] Or we will!</i>
+[MAN #2] Or we will!</i>
 The sentence will be greater if that mob attacks the building.
 <I>[CROWD CHANTING]Eisenheim.! Eisenheim.! Eisenheim.!
 <I>- Well?
-- [CHANTING CONTINUES]
+[CHANTING CONTINUES]
 <i>What are you doing?
 Stop!</i>
 <i>- Stop!
-- [CROWD] Eisenheim.!</i>
+[CROWD] Eisenheim.!</i>
 <I>- [CHANTING CONTINUES]
-- [WOMAN] There he is!
+[WOMAN] There he is!
 <I>- [CHEERING]
-- [EISENHEIM] Listen to me, please!
+[EISENHEIM] Listen to me, please!
 <I>- [CHEERING, APPLAUDING]
-- You must listen to me, please!
+You must listen to me, please!
 <I>[APPLAUSE STOPS]
 Thank you all for coming. I have been speaking with the chief inspector.
 <i>And I think there's been a serious misunderstanding.</i>
@@ -933,7 +933,7 @@ I can't receive messages from the other side.
 I apologize if I've given you any false hope.
 My intention has only been to entertain, nothing more.
 <I>- [MUTTERING]
-- [EISENHEIM] Now I appreciate your support.
+[EISENHEIM] Now I appreciate your support.
 <i>But you must go home.</i>
 Please, you must go.
 <I>[WINDOW CLOSING]
@@ -947,20 +947,20 @@ Is that it?
 Then why are you failing me?
 I thought I could trust you.
 I thought you were a man I could bring with me when I took the throne.
-- Am I wrong about you?
-- No. You're not wrong, Your Highness, no.
+Am I wrong about you?
+No. You're not wrong, Your Highness, no.
 I need men who can complete the tasks assigned to them!
 Instead, I'm surrounded by fools.
 <i>In the end, I must do everything myself.</i>
-- I can see this case will be no different.
-- Mm.
+I can see this case will be no different.
+Mm.
 <I>[DOOR CLOSES]
-- How do I look?
-- Ordinary, Your Highness.
+How do I look?
+Ordinary, Your Highness.
 Very ordinary.
 I think I'm going to enjoy this.
-- They don't recognize you.
-- Good.
+They don't recognize you.
+Good.
 And keep your distance. I don't want to be seen with a policeman.
 <I>[WHIRRING, SCRAPING]
 <I>[CROWD STIRRING]
@@ -969,8 +969,8 @@ And keep your distance. I don't want to be seen with a policeman.
 Who are you?
 <i>[MAN #2]
 Are you Duchess von Teschen?</i>
-- Yes.
-- [CHATTERING]
+Yes.
+[CHATTERING]
 <i>[MAN]
 What's happened to you?</i>
 <i>She was murdered.
@@ -982,9 +982,9 @@ Did they arrest the right man?</i>
 <i>[MAN #3]
 Tell us, please. Who murdered you?</i>
 <i>- [MAN #4] Tell us.
-- Someone. Here.</i>
+Someone. Here.</i>
 <I>- [CROWD GASPING]
-- [MAN] Tell us, and point him out.
+[MAN] Tell us, and point him out.
 <i>[MAN #2]
 Was it the crown prince?</i>
 <i>[MAN #3]
@@ -995,15 +995,15 @@ Hey! The crown prince isn't even here.</i>
 <I>[CROWD MOANS]
 [CHATTERING]
 Chief Inspector, are you sure you have the right man?
-- Quite sure. Excuse me.
-- Did you investigate the crown prince?
+Quite sure. Excuse me.
+Did you investigate the crown prince?
 He cannot continue if this is true.
-- He must be brought to justice.
-- It's not true.
+He must be brought to justice.
+It's not true.
 The magic trick is not evidence.
 What is your name?
-- I don't see how that matters.
-- I advise you to watch what you say, sir.
+I don't see how that matters.
+I advise you to watch what you say, sir.
 That actress didn't even look like Sophie.
 But the audience is stupid and he knows it.
 He manipulates them.
@@ -1022,7 +1022,7 @@ That was very foolish last night.
 [SIGHS]
 You can't destroy him, you know.
 <i>- You can't bring down the monarchy.
-- Oh, I know I can't.</i>
+Oh, I know I can't.</i>
 Then don't raise her again.
 Don't provoke those questions.
 Eisenheim, I don't want to arrest you.
@@ -1034,63 +1034,63 @@ Promise me you won't do it again.
 I promise you, you'll enjoy this next show.
 [SIGHS]
 What do you want?
-- Nothing.
-- Then why bring her back?
+Nothing.
+Then why bring her back?
 Just to be with her.
 To be with her.
-- Everything is ready?
-- Yes, sir.
-- We're trying to assess how he might escape.
-- He will not escape.
-- I want guards at every door and window!
-- Sir.
+Everything is ready?
+Yes, sir.
+We're trying to assess how he might escape.
+He will not escape.
+I want guards at every door and window!
+Sir.
 <i>I want to apologize to you for my behavior of late.</i>
 But I want to make it up to you, if you'll listen to a proposition.
-- Well, I don't know.
-- I'll make it worth your while, Josef.
+Well, I don't know.
+I'll make it worth your while, Josef.
 You know, I'm very busy right now. I haven't just been sitting around waiting for you.
 No. No, of course.
 I want you to assume control of all my finances.
 And my assets.
-- Everything.
-- Everything?
+Everything.
+Everything?
 Yes. Including this theater... and all the receipts from tonight's performance... which I offer with my sincere thanks.
-- What do you say?
-- All right.
-- I'll do it.
-- Good. Good.
+What do you say?
+All right.
+I'll do it.
+Good. Good.
 Would you like me to introduce you tonight?
 No. Tonight, just enjoy the show.
 [MURMURING]
 Excuse me, Chief Inspector.
 I'm Josef Fischer, Eisenheim's manager.
 Yes, I remember.
-- What's going on? Why all the police?
-- Precautions, Herr Fischer.
-- Precautions.
-- Are you planning to arrest Eisenheim?
+What's going on? Why all the police?
+Precautions, Herr Fischer.
+Precautions.
+Are you planning to arrest Eisenheim?
 Oh, that's entirely up to him.
 <I>[MURMURING]
 <I>- [GASPING]
-- [WOMAN] There! There!
+[WOMAN] There! There!
 <i>[WOMAN]
 It's Duchess von Teschen!</i>
 <I>[CHATTERING, INCREASING]
 Why were you murdered?
 <i>- I was leaving him.
-- [WOMAN] Leaving who?</i>
+[WOMAN] Leaving who?</i>
 <i>- The crown prince?
-- Of course it was.</i>
+Of course it was.</i>
 <i>- [MAN #2] We won't stand for it!
-- I tried to get away.</i>
+I tried to get away.</i>
 I was wearing my locket when I died.
 <i>But now it's gone.
 It's lost.</i>
 <i>- [MAN] Tell us, please. Who murdered you?
-- Was it the crown prince?</i>
+Was it the crown prince?</i>
 We must do something!
 <i>- Come along.
-- [MAN] We must help her!</i>
+[MAN] We must help her!</i>
 <i>[POLICEMAN]
 To the front!</i>
 <i>[POLICEMAN]
@@ -1101,23 +1101,23 @@ I hereby arrest Eduard Abramovicz- also known as
 Eisenheim the Illusionist-
 <i>on charges of disturbing public order...</i> charlatanism and threats against the empire!
 <i>- No!
-- [UHL] Get back, get back!</i>
+[UHL] Get back, get back!</i>
 [CLAMORING]
 <i>- [POLICEMAN] Stop it! Stop it, all of you!
-- [GASPS]</i>
+[GASPS]</i>
 <I>[CROWD GASPS]
 <I>[SCREAMING]
 <I>[SCREAMING, MOANING]
-- [MAN] He disappeared.
-- [WOMAN] Where is he?
+[MAN] He disappeared.
+[WOMAN] Where is he?
 [SCREAMING]
 Find him!
-- Where is he?
-- He was right there.
-- How was his trick done?
-- No trick.
-- How is it done?
-- I don't know. Nobody know.
+Where is he?
+He was right there.
+How was his trick done?
+No trick.
+How is it done?
+I don't know. Nobody know.
 <i>[UHL]
 Damn it!</i>
 [SIGHS]
@@ -1132,12 +1132,12 @@ That seems trivial compared with murder.
 Even if that were true, you have no jurisdiction here.
 <i>That's right. You may do as you wish here, without consequence.</i>
 Nobody can punish you.
-- Except one man.
-- Who's that?
+Except one man.
+Who's that?
 The emperor.
 I don't suppose he'll leave his crown to a murderer, do you?
-- He'll never believe you.
-- Maybe not.
+He'll never believe you.
+Maybe not.
 Hmm.
 But, I wrote a letter to his general staff...
 <i>telling them... everything.</i>
@@ -1152,25 +1152,25 @@ You fool.
 He's tricking you.
 He's manipulating you. He had the sword at a command performance.
 He could have pried the stones loose then and planted them here.
-- He has planted everything.
-- You're drunk.
+He has planted everything.
+You're drunk.
 It's all a trick.
 It's an illusion.
 Perhaps there's truth in this illusion.
 You need to wire your driver, and have the sword returned.
-- Or what?
-- I'll shoot you. Perhaps I'll shoot you anyway.
+Or what?
+I'll shoot you. Perhaps I'll shoot you anyway.
 And then you'll have killed a police inspector and a duchess.
 Or perhaps you'll kill yourself.
 You, uh, committed suicide, distraught at having failed your leader.
 <I>[HORSES GALLOPING]
 <i>Ah. Some officers of the general staff, I'd guess.</i>
 They must have received my letter.
-- What do you want?
-- I don't want anything.
+What do you want?
+I don't want anything.
 Fine. Fine. You shall have nothing.
-- Gentlemen-
-- The situation is so obvious.
+Gentlemen-
+The situation is so obvious.
 Everyone's completely incompetent.
 My father runs the empire into the ground... and no one notices, no one knows anything about it.
 I propose to clean up the mess, and you betray me!
@@ -1184,30 +1184,30 @@ I've done everything I can.
 Too much!
 [GASPING]
 <i>- Far too much.
-- [KNOCKING]</i>
+[KNOCKING]</i>
 <i>[MAN] Your Highness!
 Are you in there?</i>
 <i>[MAN #2]
 Your Highness, open the door.</i>
 <I>- [RATTLING]
-- Please. Open the door.
+Please. Open the door.
 <I>- [BANGING]
-- [MAN] By your father's authority...
+[MAN] By your father's authority...
 <i>I insist you open the door!</i>
 <I>- You must open the door!
-- [BANGING CONTINUES]
-- You're all fools.
-- [UHL GASPS]
+[BANGING CONTINUES]
+You're all fools.
+[UHL GASPS]
 <i>- Please, Your Highness!
-- I can't stand it.</i>
+I can't stand it.</i>
 <i>- [BANGING]
-- I won't stand it.</i>
+I won't stand it.</i>
 <i>- [BODY THUMPS]
-- [MAN] Break down the door. Break it down!</i>
+[MAN] Break down the door. Break it down!</i>
 <I>- [DOOR SMASHING]
-- [GROANING]
-- What happened?
-- The crown prince just shot himself.
+[GROANING]
+What happened?
+The crown prince just shot himself.
 [SIGHS]
 [GROANS]
 <i>Are you Chief Inspector Uhl?</i>
@@ -1215,13 +1215,13 @@ I used to be.
 You!
 Who gave you this?
 <i>- Who gave you this?
-- Herr Eisenheim!</i>
+Herr Eisenheim!</i>
 When?
 <I>- [SNORTING]
-- [MAN] Look out!
+[MAN] Look out!
 <I>[CONDUCTOR'S WHISTLE BLOWING]
 <i>- All aboard!
-- [TRAIN WHISTLE BLOWING]</i>
+[TRAIN WHISTLE BLOWING]</i>
 Tickets and papers.
 <i>[CONDUCTOR]
 All aboard!</i>
@@ -1230,25 +1230,25 @@ All aboard!</i>
 <I>[VOICE OF EISENHEIM]
 When it's done... you'll travel ahead with her, and I will follow.
 <i>- And she understands everything this entails?
-- Completely.</i>
+Completely.</i>
 <I>[WILLIGUT] Do you think that
 Eisenheim's behind all this?
 <I>[EISENHEIM]
 So, what does it mean, to die?
 <i>- [UHL] What do you want?
-- [EISENHEIM] To be with her.</i>
+[EISENHEIM] To be with her.</i>
 <i>[UHL]
 To be with her.</i>
 <i>[DOCTOR] Chief Inspector, there's one thing you should know.</i>
 <i>[EISENHEIM] Your sword is very beautiful. Might I see it?</i>
 <i>- [Sophie] You're drunk.
-- [Uhl] You were drunk.</i>
+[Uhl] You were drunk.</i>
 <i>[Leopold]
 He's a charlatan. He's a faker.</i>
 <i>He's planted everything.</i>
 <i>[Eisenheim] Everything you have seen is an illusion.</i>
 <i>- It's a trick.
-- [GASPS]</i>
+[GASPS]</i>
 [SIGHS]
 [WHISTLE WAILING]
 [LAUGHING]

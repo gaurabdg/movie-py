@@ -28,17 +28,17 @@ One hour. Thank you.
 May I help you, madam?
 For Mr. John Steed, I'm Dr. Peel.
 I'm afraid that's impossible.
-- You are female.
-- As you see.
+You are female.
+As you see.
 Then you can't come in.
 I have an appointment.
 No women.
-- Not in Boodle's. Not since 1762.
-- Really?
+Not in Boodle's. Not since 1762.
+Really?
 Dr. Peel, I presume.
 And you must be Steed.
-- Please don't get up.
-- And I was about to throw in the towel.
+Please don't get up.
+And I was about to throw in the towel.
 Spot of bother at the door.
 Well, I shouldn't wonder.
 Not a woman inside Boodle's since...
@@ -65,8 +65,8 @@ You are now entering a restricted area.
 I always prefer a room with a view, don't you? Tea?
 I know about the Prospero incident.
 Sugar, one lump.
-- Is that why I'm here?
-- You're here for tea, Mrs. Peel.
+Is that why I'm here?
+You're here for tea, Mrs. Peel.
 Welcome to The Ministry. Macaroon?
 Prospero. Prospero.
 Shakespeare's magician.
@@ -78,8 +78,8 @@ I get it.
 Someone attacks, we put up this... umbrella... everyone goes home for tea. Marvelous.
 Until someone blows up the research lab.
 But did they just walk in?
-- How did they get past security?
-- That's what's interesting.
+How did they get past security?
+That's what's interesting.
 Security cameras at the Prospero lab picked up a picture during the attack.
 Something I'd like you to see, if you have a moment.
 After tea.
@@ -88,8 +88,8 @@ Well, she looks terribly familiar.
 You're our chief suspect.
 I'm innocent, of course.
 Or guilty until proven innocent.
-- Why would I sabotage my own project?
-- You tell us.
+Why would I sabotage my own project?
+You tell us.
 Looks like me.
 But it isn't.
 You will be allowed the privilege to prove your innocence.
@@ -113,8 +113,8 @@ Missing over the Amazon. Presumed dead.
 He was one of ours.
 Revenge is a possible motive.
 She certainly fits our profile.
-- How could you have released her?
-- Mrs. Peel is our only lead.
+How could you have released her?
+Mrs. Peel is our only lead.
 Either she'll lead us to the real enemy... or they'll find her.
 We were bombarding protons and ions to make antimatter.
 I shall have to start calling you
@@ -124,8 +124,8 @@ You're a lady of hidden talents, Mrs. Peel.
 A little more flexibility in the wrist.
 Scientist... swordsman.
 To what do you attribute your overachievements?
-- My father always wanted a boy.
-- Oh, really?
+My father always wanted a boy.
+Oh, really?
 I fail to see the connection.
 I had a feeling you would. So did he.
 TouchÃ©.
@@ -140,23 +140,23 @@ No point in setting out half-shod.
 That's why I ordered you a pair of boots, Mrs. Peel.
 Thank you.
 I hope your shoes and waistcoat please you, sir.
-- Impeccable.
-- Quite.
+Impeccable.
+Quite.
 Your items will be delivered to the usual address.
 Mrs. Peel's boots?
-- Send them on.
-- Of course.
+Send them on.
+Of course.
 Mother suggested we go for a spin.
-- Do you always listen to Mother?
-- That depends.
+Do you always listen to Mother?
+That depends.
 Marvelous weather.
 Not the sort of day to be stuck in town.
-- I think we ought to get away.
-- "We?"
+I think we ought to get away.
+"We?"
 Yes, just the two of us.
 A weekend in the country, long walks, the wind in your hair.
-- How about it?
-- Depends what you have in mind.
+How about it?
+Depends what you have in mind.
 I'm a nature lover, so whatever comes naturally.
 Should we take my car?
 That's odd.
@@ -164,25 +164,25 @@ Rusty, perhaps?
 I hope I haven't lost the knack.
 Is the pot warm?
 Always.
-- Milk?
-- Lemon, just a twist.
+Milk?
+Lemon, just a twist.
 No cakes, I'm afraid.
 You don't mind roughing it, do you?
 On the contrary.
-- Should we be making plans for tonight?
-- We are.
+Should we be making plans for tonight?
+We are.
 I thought we'd have time to pay a social visit, since we happen to be passing.
 I thought as much.
-- Anyone in particular?
-- Sir August de Wynter.
+Anyone in particular?
+Sir August de Wynter.
 Former Ministry man, head of Special Projects.
 Ran our Strategic Deception lnitiative.
 He's retired now.
 Very rich.
 Very odd.
 Intriguing.
-- A wealthy recluse.
-- More interesting than that.
+A wealthy recluse.
+More interesting than that.
 Sir August's a fanatical meteorologist.
 It runs in the family.
 Mother called April, sisters: May, June...
@@ -195,8 +195,8 @@ British Royal Organization for Lasting Liquid Years.
 It's a private group recruiting top scientists.
 He thinks British weather has been tampered with by aliens.
 They're not too keen on him at The Ministry.
-- Mother tells me he left under...
-- A cloud?
+Mother tells me he left under...
+A cloud?
 Naturally.
 If it wouldn't be too much bother, could you charm him a little?
 I'll see what I can do.
@@ -210,17 +210,17 @@ Try... small talk.
 The weather?
 Maybe something more feminine.
 A woman's touch.
-- That should do it.
-- Think so?
+That should do it.
+Think so?
 Your confidence is overwhelming.
 Such modesty.
 A minor talent. Or hadn't you noticed?
 Curious.
-- Miss?
-- Mrs.
+Miss?
 Mrs.
-- Thank you.
-- Ma'am.
+Mrs.
+Thank you.
+Ma'am.
 Hello?
 Hello?
 Hello?
@@ -235,10 +235,10 @@ Mutual, I'm sure.
 The thrill of the monsoon?
 Ah, yes, the monsoons.
 Even as a boy, when Nana taught me the naming of the clouds....
-- Cumulus.
-- Yes.
-- Stratocumulus.
-- Oh, yes.
+Cumulus.
+Yes.
+Stratocumulus.
+Oh, yes.
 Nimbus.
 I discovered then, nothing beats a good lashing.
 Mind your head.
@@ -248,8 +248,8 @@ You know... one should never fear... being wet.
 Come this way.
 Allow me.
 These rapid climate changes.
-- The Ministry needs some answers.
-- Oh, that Ministry!
+The Ministry needs some answers.
+Oh, that Ministry!
 Dry enough, don't you think?
 Do you mind?
 Very well.
@@ -316,8 +316,8 @@ Actually, I wasn't about to.
 I recall a very strange thing.
 You tried to shoot me, didn't you?
 I would never shoot you.
-- Not without my reasons.
-- I remember it clearly.
+Not without my reasons.
+I remember it clearly.
 One shot to the heart.
 But, luckily, my...
 Trubshaw waistcoat was bulletproof.
@@ -380,8 +380,8 @@ We owe so much to both of you.
 Without your work, my humble project would perish.
 How can I show my appreciation?
 Any other business?
-- You actually sell weather here?
-- Yes.
+You actually sell weather here?
+Yes.
 Our newest line: Summer or winter.
 Tuscany or Gstaad. Natural weather delivered down your phone line.
 All you'll need is a radio transmitter.
@@ -404,13 +404,13 @@ And I'll take the low road.
 Good morning.
 That was a very silly thing to do.
 Mrs. Peel?
-- Just in time to save me from myself.
-- Are you all right?
+Just in time to save me from myself.
+Are you all right?
 I thought I was seeing double.
 That makes two of us.
 So now you're saying there are two Mrs. Peels?
-- Preposterous!
-- Let me handle this. I'm in charge.
+Preposterous!
+Let me handle this. I'm in charge.
 We both know who's responsible.
 This story is a complete red herring.
 It's quite impossible.
@@ -449,16 +449,16 @@ Exactly.
 The pawn to knight four.
 Look, I've been charting these weather outbreaks.
 Pawn to queen's knight three.
-- Are you paying attention?
-- Absolutely.
+Are you paying attention?
+Absolutely.
 A believer in firm discipline.
 Do you always obey orders?
 Always.
 Except when I don't.
 Knight to queen five.
 For example, if I were, perish the thought, under orders to kill you....
-- Pity you never told me.
-- You never asked.
+Pity you never told me.
+You never asked.
 I can't mention everything.
 Besides, we were getting along so well.
 You didn't want to spoil the fun.
@@ -487,8 +487,8 @@ This Mrs. Peel, I'm warning you, don't let her get too close.
 Good shot.
 Don't worry. I'll take care of Mrs. Peel.
 You're playing rather well today, Father.
-- Shall we double the bet?
-- Yes.
+Shall we double the bet?
+Yes.
 I've never been able to refuse you anything.
 Pity.
 Just missed.
@@ -508,19 +508,19 @@ Would you please be so kind as to hit the ground... if it's not too much trouble
 I hope he was a baddy.
 My name's Alice.
 Mother said you'd be on your way.
-- John Steed.
-- And this must be Mrs. Peel.
+John Steed.
+And this must be Mrs. Peel.
 Mrs. Peel, Alice.
 How do you do?
 Cocky little bastard.
 Indeed.
-- Are you with Mother or Father?
-- Both, actually.
+Are you with Mother or Father?
+Both, actually.
 I'm glad to hear they're together at last.
 They don't get along.
 Promotion, top job, most unfair.
-- Quite a fuss at The Ministry.
-- You don't say.
+Quite a fuss at The Ministry.
+You don't say.
 I think we should be on our way.
 Someone didn't want you to get to the party.
 I expect we'll have to gatecrash.
@@ -537,8 +537,8 @@ A love maze.
 Originally late-17th-century design, then copied.
 Over here, by your side.
 I was worried.
-- How touching. Afraid you'd lost me?
-- No, that you might escape.
+How touching. Afraid you'd lost me?
+No, that you might escape.
 Still suspicious?
 Just wondering if you'd brought me here under false pretenses.
 Frankly, I'm amazed.
@@ -551,8 +551,8 @@ Sir August de Wynter.
 John Steed.
 An old trick I learned from a dervish in lstanbul.
 Turkish rules.
-- If you insist.
-- Then try this.
+If you insist.
+Then try this.
 A man with an umbrella... is a man praying for rain.
 And a man without one is a fool.
 Never trust the weather, Sir August.
@@ -601,8 +601,8 @@ Allow me.
 I was worried.
 What happened to you?
 I remember the maze, a house... some music.
-- Then nothing.
-- Try to remember.
+Then nothing.
+Try to remember.
 It's very important.
 I believe you're in extreme danger.
 You'd better stay here with me.
@@ -794,8 +794,8 @@ Our agents are on the case right now, sir.
 Two of them, sir.
 A man... and a woman, sir.
 According to Colonel Jones... this is the site of a Ministry installation sold off years ago to...
-- Wonderland Weather, I bet.
-- Quite.
+Wonderland Weather, I bet.
+Quite.
 Something up ahead.
 Alas, poor Teddy....
 I knew him, Steed.

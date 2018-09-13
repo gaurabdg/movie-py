@@ -18,11 +18,11 @@ Hmm...
 <i>Hello, Miss Lark
 I got one for you</i>
 Miss Lark likes to walk in the park...
-- Grrrr.
-- ...with Andrew!
+Grrrr.
+...with Andrew!
 Arf! Arf!
-- Hello, Andrew.
-- Arf! Arf! Grrrr! Grrrr!
+Hello, Andrew.
+Arf! Arf! Grrrr! Grrrr!
 <i>Ah, Mrs Cory</i>
 <i>A story for you</i>
 Your daughters were shorter than you, but they grew.
@@ -53,18 +53,18 @@ Number 17 is just down a bit.
 Now this imposing edifice what first greets the eye is the home of Admiral Boom, late of His Majesty's navy.
 Likes his house shipshape and
 Bristol fashion at all times.
-- Time gun ready?
-- Ready and charged, sir.
-- Three minutes and six seconds.
-- Aye, aye, sir.
+Time gun ready?
+Ready and charged, sir.
+Three minutes and six seconds.
+Aye, aye, sir.
 What he's famous for is punctuality.
 The whole world takes its time from Greenwich, but Greenwich takes its time from Admiral Boom.
 What cheer, Admiral?
 Good afternoon!
 Where are you bound?
 Some parties want to see number 17.
-- Enter that in the log.
-- Aye, aye, sir.
+Enter that in the log.
+Aye, aye, sir.
 Some advice, young man.
 Storm signals are up at 17.
 Heavy weather brewing there.
@@ -162,21 +162,21 @@ Think of the children.
 Think of Mr Banks. He was just getting used to you.
 Posts, everyone!
 Fire!
-- I do beseech you...
-- My wages, if you please.
+I do beseech you...
+My wages, if you please.
 Bit early tonight, Admiral?
 Nonsense. Bang on the dot, as usual.
 How's the world of finance?
 Never better.
 Money's sound, credit rates are moving up,
-- and the pound is admired everywhere.
-- Good.
+and the pound is admired everywhere.
+Good.
 How about you?
 Bit chancy, I'd say.
 The Wind's up.
 The glass is falling.
-- Don't like it.
-- Good. Good, good.
+Don't like it.
+Good. Good, good.
 Banks, you're steering into a nasty piece of weather.
 Banks!
 Do you hear me?
@@ -188,8 +188,8 @@ What a very pretty hat.
 Thank you.
 <i>When I return from daily strife to hearth and wife</i>
 <i>How pleasant is the life I lead</i>
-- Dear, the children...
-- Yes, yes, yes.
+Dear, the children...
+Yes, yes, yes.
 <i>I run my home precisely on schedule</i>
 <i>At 6:01, I march through my door</i>
 <i>My slippers, sherry, and pipe are due at 6:02</i>
@@ -211,8 +211,8 @@ Winifred, where are the children?
 They're not here, dear.
 Of course they're here.
 Where else would they be?
-- I don't know.
-- You don't know?
+I don't know.
+You don't know?
 They're missing. Katie Nanna has looked everywhere.
 Very well. I'll deal with this at once.
 The police station.
@@ -224,8 +224,8 @@ Katie Nanna's faltered.
 She's disappointed us.
 I shall bring her to book...
 Oh.
-- She's left us, hasn't she?
-- Yes, only just.
+She's left us, hasn't she?
+Yes, only just.
 George Banks here.
 17 Cherry Tree Lane.
 It's a matter of some urgency.
@@ -237,8 +237,8 @@ Thank you so much. Good night.
 Come in, constable.
 While on duty across the park,
 I noted some stray valuables.
-- I believe they're yours.
-- Valuables?
+I believe they're yours.
+Valuables?
 Come along now.
 Jane.
 Michael.
@@ -247,8 +247,8 @@ I wouldn't be too hard on them, sir.
 They've had a long, weary walk today.
 Children, come here at once.
 Well?
-- Sorry we lost Katie Nanna, Father.
-- It was windy...
+Sorry we lost Katie Nanna, Father.
+It was windy...
 And the kite was too strong.
 The kite ran away, sir, not the children.
 Thank you. I'll manage this.
@@ -288,8 +288,8 @@ Under the circumstances, it might be apropos to select the next person myself.
 Would you, George?
 I'll do this properly.
 I'll advertise in The Times.
-- Take this down, please.
-- Yes, of course.
+Take this down, please.
+Yes, of course.
 Wanted... No, required...
 Nanny.
 Firm, respectable, no-nonsense.
@@ -297,8 +297,8 @@ Firm, respectable, no-nonsense.
 <i>The future empire lies within her hands</i>
 <i>And so the person that we need to mould the breed</i>
 <i>It is a nanny who can give commands</i>
-- Getting this, Winifred?
-- Yes, every word.
+Getting this, Winifred?
+Yes, every word.
 <i>A British bank is run with precision</i>
 <i>A British home requires nothing less</i>
 <i>Tradition, discipline, and rules must be the tools</i>
@@ -306,19 +306,19 @@ Firm, respectable, no-nonsense.
 <i>In short, you have a ghastly mess</i>
 Splendid, George. Inspirational.
 <i>The Times</i> will be so pleased.
-- Father.
-- Yes?
+Father.
+Yes?
 We've discussed everything, and we're very sorry about today.
 I should think so.
-- It was wrong.
-- Indeed.
+It was wrong.
+Indeed.
 We'll cooperate with the new nanny.
 I'll be glad for your help.
 That's why we wrote this advertisement.
 Advertisement for what?
 The new nanny.
-- You wrote an...
-- George, let's listen.
+You wrote an...
+George, let's listen.
 You wanted our help.
 Oh, very well.
 "Wanted, a nanny for two adorable children."
@@ -332,8 +332,8 @@ I wrote that.
 <i>"You must be kind</i>
 <i>"You must be witty</i>
 <i>"Very sweet and fairly pretty"</i>
-- That's...
-- George, please.
+That's...
+George, please.
 <i>"Take us on outings, give us treats</i>
 <i>"Sing songs, bring sweets</i>
 <i>"Never be cross or cruel</i>
@@ -352,8 +352,8 @@ I wrote that, too.
 Thank you. Most interesting.
 We've had enough of this.
 Please return to the nursery.
-- They were only trying to help.
-- I'm aware of that.
+They were only trying to help.
+I'm aware of that.
 I congratulate myself on stepping in.
 "Play games, sing songs, give treats." Ridiculous.
 No question in my mind.
@@ -364,20 +364,20 @@ Oh, George, you're always so forceful.
 <i>The Times?</i> George
 Banks, Cherry Tree Lane.
 I wish to place an advertisement.
-- Time gun ready?
-- Ready and charged, sir.
+Time gun ready?
+Ready and charged, sir.
 I'll take the report, Mr Binnacle.
 Wind's coming from a new quarter.
 So it is.
-- Sir.
-- What?
+Sir.
+What?
 Something taking place off the port bow.
 Ghastly looking crew, I must say.
 There's a queue of nannies outside.
 Shall I show them in?
 I said 8:00, and 8:00 it shall be.
 12 seconds to go.
-- Posts!
+Posts!
 It is now 8:00.
 Yes, sir.
 I have told you repeatedly, Ellen,
@@ -386,14 +386,14 @@ I don't understand.
 They're nothing like what we advertised for.
 Woof! Woof! Woof!
 Michael, look!
-- Perhaps it's a witch.
-- Nonsense. Witches have brooms.
+Perhaps it's a witch.
+Nonsense. Witches have brooms.
 It's her. It's the person. She's answered our advertisement.
 Rosy cheeks and everything.
-- Show them in, one at a time.
-- Yes, sir.
-- Come in, one at a time.
-- Thank you.
+Show them in, one at a time.
+Yes, sir.
+Come in, one at a time.
+Thank you.
 You are the father of
 Jane and Michael Banks?
 I said, you are the father of
@@ -426,11 +426,11 @@ Tore it up, turned it over, threw it in the...
 Are you ill?
 I hope not.
 About my wages...
-- The reference is obscure.
-- Obscure.
+The reference is obscure.
+Obscure.
 We must be clear on that.
-- I require every second Tuesday off.
-- Every Tuesday.
+I require every second Tuesday off.
+Every Tuesday.
 Perhaps a trial period would be wise.
 Hmm... I'll give you one week.
 I'll know by then.
@@ -441,15 +441,15 @@ Don't stand there.
 Best foot forward.
 Spit spot.
 George?
-- Aah!
+Aah!
 I thought you were interviewing nannies.
 I was, I was.
 You've selected one already?
 Yes, it's done.
-- Where is she?
-- In the nursery.
-- I put her to work straight-away.
-- How clever.
+Where is she?
+In the nursery.
+I put her to work straight-away.
+How clever.
 I'd have muddled everything.
 Is she everything that we hoped she'd be?
 It all happened rather quickly.
@@ -460,19 +460,19 @@ Winifred, I think she will.
 I think she Will!
 In that case, perhaps Ellen should dismiss the others.
 The others?
-- Ellen!
-- Yes, sir?
+Ellen!
+Yes, sir?
 Tell the others the position's been filled.
-- The others, sir?
-- Yes, the others.
+The others, sir?
+Yes, the others.
 How many nannies does this house need?
 The position has been filled.
 I'm afraid the nursery isn't very tidy.
 Rather like a bear pit.
-- That's a funny bag.
-- Carpet.
-- To carry carpets?
-- No, made of.
+That's a funny bag.
+Carpet.
+To carry carpets?
+No, made of.
 Your room has a lovely view.
 Hmm...
 It's not exactly
@@ -491,26 +491,26 @@ I never do.
 "A thing of beauty is a joy forever."
 Hmm... A little more light perhaps.
 We'd better watch this one.
-- She's tricky.
-- She's wonderful.
+She's tricky.
+She's wonderful.
 Much better.
 Now, let me see.
 That's funny. I always carry it.
 It must be here somewhere.
-- What?
-- My tape measure.
-- What for?
-- To see how you measure up.
+What?
+My tape measure.
+What for?
+To see how you measure up.
 That's the funniest thing I ever saw.
 Ah ha ha ha. Here it is.
 Good.
 Come along, then. Quickly.
 Head up, Michael. Don't slouch.
 Just as I thought. "Extremely stubborn and suspicious."
-- I am not.
-- See for yourself.
-- "Extremely stubborn and susips..."
-- Suspicious.
+I am not.
+See for yourself.
+"Extremely stubborn and susips..."
+Suspicious.
 Now you, Jane.
 "Rather inclined to giggle.
 Doesn't put things away."
@@ -612,8 +612,8 @@ Don't move.
 Don't move a muscle.
 Stay right where you are.
 I'd know that silhouette anywhere.
-- Mary Poppins!
-- Hello, Bert.
+Mary Poppins!
+Hello, Bert.
 You know Jane and Michael.
 Well, I've seen them here and about.
 Chasing a kite last time, weren't it?
@@ -650,8 +650,8 @@ I have no intention of making a spectacle of myself.
 All right. I'll do it myself.
 Do what?
 Bit of magic.
-- Magic?
-- It's easy.
+Magic?
+It's easy.
 Let's see.
 You think.
 You wink.
@@ -664,14 +664,14 @@ Why do you complicate things?
 Give me your hand, Michael.
 Don't slouch.
 Mary Poppins, you look beautiful.
-- Do you really think so?
-- Cross my heart, you do.
+Do you really think so?
+Cross my heart, you do.
 You look fine, too, Bert.
 Isn't there a fair?
 Down the road and behind the hill.
 I hear the merry-go-round.
-- Tell them hello.
-- Don't smudge the drawing.
+Tell them hello.
+Don't smudge the drawing.
 <i>Ain't it a glorious day
 Right as a mornin' in May</i>
 <i>I feel like I could fly</i>
@@ -782,8 +782,8 @@ Mary Poppins.
 Please control yourself.
 We're not on a racecourse.
 Follow me, please.
-- Good morning.
-- Oh, yes, quite. What?
+Good morning.
+Oh, yes, quite. What?
 I say.
 Have you...
 Ever?
@@ -807,26 +807,26 @@ I'll lick all of you.
 Faster, me beauty. Faster!
 Riders, would you be kind and let me pass?
 Certainly, ma'am.
-- Thank you.
-- Not at all, ma'am.
+Thank you.
+Not at all, ma'am.
 Excellent time, gentlemen.
-- Quite.
-- Perfect day for it.
+Quite.
+Perfect day for it.
 Ahem.
 Oh, how nice.
 Hooray! Yay! Yay!
 Hold still. Watch the dickie bird.
-- How does it feel to win?
-- Well...
-- Gaining fame and fortune.
-- Yes.
-- Your picture in the newspaper.
-- Actually...
+How does it feel to win?
+Well...
+Gaining fame and fortune.
+Yes.
+Your picture in the newspaper.
+Actually...
 Extreme good looks, may I say?
 No words describe your emotion?
 Gentlemen, on the contrary, there's a very good word.
-- Right?
-- Tell them.
+Right?
+Tell them.
 Right.
 <i>It's supercalifragilisticexpialidocious</i>
 <i>Even though the sound of it is something quite atrocious</i>
@@ -865,8 +865,8 @@ You'll always sound precocious</i>
 Um diddle diddle diddle um diddle ay</i>
 You can say it backwards...
 Dociousaliexpiistifragicalirupes.
-- Bit too much?
-- Indubitably.
+Bit too much?
+Indubitably.
 <i>So when the cat has got your tongue
 There's no need for dismay</i>
 <i>Just summon up this word and then you've got a lot to say</i>
@@ -885,10 +885,10 @@ There's more where they came from.
 Meantime, I'm changing businesses.
 This is hot chestnut weather.
 Come along, children.
-- Bye, Bert.
-- Bye-bye.
-- Bye.
-- Bye, Jane and Michael.
+Bye, Bert.
+Bye-bye.
+Bye.
+Bye, Jane and Michael.
 <i>Chim chiminy, chim chiminy
 Chim chim cheroo</i>
 <i>La dum da da dum
@@ -927,8 +927,8 @@ How dare you.
 I saw you do it.
 Another word and I'll summon a policeman.
 I saw it happen!
-- Go to sleep.
-- I don't want to.
+Go to sleep.
+I don't want to.
 We're much too excited.
 Very well. Suit yourselves.
 <i>Stay awake</i>
@@ -957,22 +957,22 @@ Nobody sleeps this morning.
 Put in double powder.
 A double charge? Aye, sir.
 Shake things up a bit, what?
-- Lovely, lovely morning, Ellen.
-- Indeed it is, ma'am.
-- You packed the spoiled eggs?
-- Yes.
+Lovely, lovely morning, Ellen.
+Indeed it is, ma'am.
+You packed the spoiled eggs?
+Yes.
 After our meeting, we're all going to throw things at the prime minister.
 How distinguished you look today.
 What's all that fearful caterwauling?
 It's cook singing.
-- What's wrong with her?
-- She's happy as a cricket.
+What's wrong with her?
+She's happy as a cricket.
 Since you hired Mary Poppins, the most extraordinary thing has come over the household.
-- Ellen hasn't broken a dish all morning.
-- That is extraordinary.
+Ellen hasn't broken a dish all morning.
+That is extraordinary.
 She and cook fight like cats and dogs, but today...
-- I'll hold the door.
-- Thanks ever so.
+I'll hold the door.
+Thanks ever so.
 Ellen, stop making that offensive noise.
 And shut the window. That bird's giving me a headache.
 Yes, sir.
@@ -986,8 +986,8 @@ How lovely. Thank you, my darling.
 <i>Supercalifragilisticexpialidocious
 Supercalifragilisticexpialidocious</i>
 Stop, stop, stop!
-- Good morning, Father.
-- Morning.
+Good morning, Father.
+Morning.
 Mary Poppins taught us...
 <i>Supercalifragilisticexpialidocious</i>
 What are you talking about?
@@ -995,8 +995,8 @@ Supercali...
 Whatever it is.
 It's something to say when you don't know what to say.
 Yes, well, I always know what to say.
-- Yes, hurry along, please.
-- Yes, Father.
+Yes, hurry along, please.
+Yes, Father.
 <i>Supercalifragilisticexpialidocious</i>
 Winifred, will you explain this unseemly hullabaloo?
 I don't think there's anything to explain.
@@ -1024,8 +1024,8 @@ We must go to the piano tuners, then to Mrs Cory's shop for some gingerbread, th
 Michael, stop stravaging along behind.
 Ahoy, there!
 Ahoy!
-- Good day to you.
-- Good morning, Admiral.
+Good day to you.
+Good morning, Admiral.
 What fine adventure are we off upon today?
 Going to fight the Hottentots?
 Dig for buried treasure?
@@ -1048,12 +1048,12 @@ Bless you.
 Woof! Woof! Woof!
 Why, yes, certainly.
 I'll go straight-away.
-- Thank you very much.
-- Woof!
-- What did he say?
-- "You're welcome."
-- And?
-- He didn't say anything.
+Thank you very much.
+Woof!
+What did he say?
+"You're welcome."
+And?
+He didn't say anything.
 You know best.
 I thought we were buying fish.
 There's been a change of plans.
@@ -1062,14 +1062,14 @@ Don't straggle.
 Andrew, worrying won't help anyone.
 You should go home and rest.
 Woof!
-- Bert, I'm glad you're here.
-- I came right away.
+Bert, I'm glad you're here.
+I came right away.
 How is he?
 He's never been worse.
 How about them?
 It's contagious, you know.
-- We'll get spots?
-- Unlikely.
+We'll get spots?
+Unlikely.
 Ohh! Hoo hoo hoo!
 Oh, Uncle Albert.
 Bless my soul.
@@ -1090,8 +1090,8 @@ I just like laughing.
 Ha ha! Ha ha!
 Don't you dare.
 You'll only make him worse.
-- It's quite serious.
-- Keep a straight face.
+It's quite serious.
+Keep a straight face.
 Last time, we took three days to get him down.
 <i>I love to laugh</i>
 Hoo hoo hoo hoo!
@@ -1188,16 +1188,16 @@ I knew she'd do it... A proper tea.
 I suppose you'll want me to pour.
 If I must, I must.
 But stop behaving like laughing hyenas.
-- Two lumps, Uncle Albert?
-- Yes, please.
-- Bed?
-- None for me.
+Two lumps, Uncle Albert?
+Yes, please.
+Bed?
+None for me.
 I'm glad you came.
 It wouldn't be fun otherwise.
 Pour some milk for
 Michael and yourself.
-- Nice weather we're having.
-- Yes.
+Nice weather we're having.
+Yes.
 The other day when it was cold, a friend bought long underwear.
 The shopkeeper said,
 "How long do you want it?"
@@ -1205,8 +1205,8 @@ My friend said,
 "From September to March."
 Jane! Control yourself!
 Children, please sit up properly.
-- Your tea, Uncle Albert.
-- Thank you, dear.
+Your tea, Uncle Albert.
+Thank you, dear.
 I'm having fun.
 I wish you could always stay here.
 We'll have to. There's no way down.
@@ -1218,8 +1218,8 @@ I've got the very thing.
 Yesterday, when my neighbour answered the bell, a man was there.
 The man said, "I'm terribly sorry.
 I just ran over your cat."
-- Oh, that's sad.
-- The poor cat.
+Oh, that's sad.
+The poor cat.
 Then he said,
 "I'll replace your cat."
 She said, "Okay, but can you catch mice?"
@@ -1237,13 +1237,13 @@ People come to see me all the time, and we have such a lovely time.
 Then they go home, and I'm very, very sad about it.
 Don't worry. We'll return soon.
 It was lovely.
-- Keep an eye on him, Bert.
-- I'll stay a while.
+Keep an eye on him, Bert.
+I'll stay a while.
 Thank you.
 Uncle Albert,
 I got a jolly joke I saved for just such an occasion.
-- Want to hear it?
-- I'd be so grateful.
+Want to hear it?
+I'd be so grateful.
 Righto. It's about me granddad.
 One night, he had a nightmare.
 So scared he chewed his pillow to bits.
@@ -1276,8 +1276,8 @@ Good evening, George.
 Is anything the matter?
 I'm afraid so.
 I have to dress for my rally.
-- I'd rather you be present.
-- Of course, George.
+I'd rather you be present.
+Of course, George.
 Mary Poppins, I confess
 I'm disappointed in you.
 She's for it.
@@ -1330,8 +1330,8 @@ With pride.
 Splendid! You've hit the nail...
 At my side? Where are we going?
 To the bank.
-- The bank?
-- Yes.
+The bank?
+Yes.
 Tomorrow's an important day.
 I'll see they have a proper night's sleep.
 Did I say I'd take the children to the bank?
@@ -1345,11 +1345,11 @@ Mary Poppins, we won't let you go.
 What do you mean?
 Weren't you sacked?
 Sacked? I am never sacked.
-- Oh, Mary Poppins!
-- Hooray!
+Oh, Mary Poppins!
+Hooray!
 Neither am I a maypole.
-- But...
-- Goats butt.
+But...
+Goats butt.
 Birds fly.
 Children going out with their father get some sleep.
 An outing with Father?
@@ -1359,8 +1359,8 @@ How did you manage it?
 You gave him the idea.
 How impertinent!
 Me giving ideas to people? Really.
-- Where's he taking us?
-- The bank.
+Where's he taking us?
+The bank.
 Michael, the city! Father can point out the sights.
 Most things he can.
 Sometimes people, through no fault of their own, can't see past their nose.
@@ -1413,8 +1413,8 @@ Isn't it your bank?
 As a younger officer, it is, sort of.
 Michael, look.
 It's her!
-- Who? It's who?
-- The bird woman.
+Who? It's who?
+The bird woman.
 Just like Mary Poppins said.
 You see her?
 Of course I can. Do you think
@@ -1423,10 +1423,10 @@ Listen, she's saying it.
 Feed the birds.
 Tuppence a bag.
 Of course she's saying it.
-- May we feed the birds?
-- Whatever for?
-- I have tuppence.
-- Just this once.
+May we feed the birds?
+Whatever for?
+I have tuppence.
+Just this once.
 Waste your money on birds?
 Certainly not.
 But Mary Poppins...
@@ -1468,13 +1468,13 @@ But...
 <i>In the hands of the directors</i>
 <i>Who invest</i>
 <i>As propriety demands</i>
-- May I, sir?
-- Carry on, Banks.
+May I, sir?
+Carry on, Banks.
 You see, Michael, you'll be part of railways through Africa!
 Exactly.
 Dams across the Nile.
-- Talk about the ships.
-- Fleets of ocean greyhounds.
+Talk about the ships.
+Fleets of ocean greyhounds.
 Tell them more.
 Majestic self-amortizing canals.
 It fires the imagination!
@@ -1507,8 +1507,8 @@ Debtor sales.
 Opportunities.
 Private enterprise.
 Shipyards.
-- The mercantile.
-- Collieries.
+The mercantile.
+Collieries.
 Tanneries.
 Corporations, amalgamations.
 Banks!
@@ -1541,8 +1541,8 @@ Stop all payments.
 Stop all payments.
 Give me my money!
 Children, come back!
-- Stop those children!
-- Jane! Michael!
+Stop those children!
+Jane! Michael!
 Come on!
 Stop those children!
 Stop those children!
@@ -1798,8 +1798,8 @@ Ain't she marvellous?
 Ain't she beautiful?
 Lovely. Tell your mum.
 Hello, hello, hello!
-- More! More!
-- Mary, do it again!
+More! More!
+Mary, do it again!
 Here we go.
 We're being attacked by Hottentots!
 Aye, aye, sir.
@@ -2007,8 +2007,8 @@ Guard it well. Good-bye!
 Where are you going?
 I might pop through a chalk pavement picture or seize a horse off a merry-go-round or fly a kite.
 Only Poppins knows.
-- Poppins?
-- My nanny.
+Poppins?
+My nanny.
 She sings that ridiculous song.
 <i>A spoonful of sugar</i>
 <i>Makes the medicine go down</i>

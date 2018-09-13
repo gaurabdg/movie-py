@@ -471,8 +471,8 @@ One, two, three, four
 I love the Marine Corps
 -My Corps
 -My Corps
-- Your Corps
-- Your Corps
+Your Corps
+Your Corps
 -Our Corps
 -Our Corps
 -Marine Corps

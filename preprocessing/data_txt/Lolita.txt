@@ -39,7 +39,7 @@
 <i>However, a friend of Mrs McCoo,...</i>
 <i>..a widow, Mrs Charlotte Haze,...</i>
 <i>..agreed to accommodate me.</i>
-- Goddamn dog!
+Goddamn dog!
 One minute. Something's burnin'.
 Lord have mercy!
 Mrs Haze'll be down in one.
@@ -74,8 +74,8 @@ I don't know if Ramsdale can provide you with foie grass, like you're used to.
 What's that?
 Uh... timetable. For when I um...
 I was hoping I wouldn't have to, but I think I've got to go back to New York.
-- Oh, you're not too favourably impressed.
-- No... There's a Baudelaire conference...
+Oh, you're not too favourably impressed.
+No... There's a Baudelaire conference...
 This is not a neat household, but you would be very comfortable here.
 Very comfortable indeed.
 Don't say no until you've seen the piazza.
@@ -86,8 +86,8 @@ It's a life's work.
 That's my Lo.
 And these are my lilies.
 I love lilies.
-- Lily's a nice name, don't you think?
-- Beautiful.
+Lily's a nice name, don't you think?
+Beautiful.
 Beautiful!
 How much did you say the room was?
 <i>A normal man,...</i>
@@ -100,15 +100,15 @@ How much did you say the room was?
 <i>She stands...</i>
 <i>..unrecognised by them,...</i>
 <i>..unconscious herself of her fantastic power.</i>
-- See you later, alligator.
-- After a while, crocodile!
-- Real soon, Daniel Boone.
-- Get fucked, Daffy Duck.
+See you later, alligator.
+After a while, crocodile!
+Real soon, Daniel Boone.
+Get fucked, Daffy Duck.
 <i># Don't know why... there's no sun up in the sky</i>
 <i># Stormy weather</i>
 <i># Since my man and I ain't together...</i>
 You woke me up.
-- Sorry.
+Sorry.
 I'll stop.
 Dolores!
 Have you made your bed?
@@ -116,7 +116,7 @@ No, I have not made my bed.
 I asked you to make your bed, didn't I?
 No. You asked me if I'd made my bed.
 Make your bed.
-- Now!
+Now!
 <i>I long for some terrific disaster.</i>
 <i>Earthquake.</i>
 <i>Spectacular explosion.</i>
@@ -147,37 +147,37 @@ He was looking forward to meeting you.
 Has anybody seen my other sneaker?!
 Your breakfast, Professor Humbert.
 Don't tell Mother, but I ate all your bacon.
-- Dolores, that was Mrs Farlow.
-- So?
+Dolores, that was Mrs Farlow.
+So?
 Rose has a temperature and can't go to Hourglass Lake.
-- Oh, yeah?
-- Do not use that tone with me!
+Oh, yeah?
+Do not use that tone with me!
 Are you ready for church?
 I'm not going to that disgusting church.
-- Young lady...
-- No picnic, no church.
+Young lady...
+No picnic, no church.
 That is fine with me.
 It is your conscience.
 I want your room spick-and-span when I get home.
-- And wash your hair, young lady.
-- I did wash it!
-- When?
-- A couple of months ago.
+And wash your hair, young lady.
+I did wash it!
+When?
+A couple of months ago.
 I could be a dancer.
 That's a major option.
 Cos I do have a natural grace.
-- You know. A kind of sad beauty.
-- Sort of sad is right.
+You know. A kind of sad beauty.
+Sort of sad is right.
 I'd like to see you dance sometime.
 Little girls always want to be ballerinas, don't they?
 I know I did.
 But I was - how should I put it? - a tad too... plump?
-- Is that the right word?
-- Yes.
+Is that the right word?
+Yes.
 I'll get more Vouvray.
 Make her take us to Hourglass Lake tomorrow.
-- Me?
-- Mm-hm.
+Me?
+Mm-hm.
 She'll do anything you say.
 She's getting a thing about you.
 Whisper, whisper.
@@ -187,13 +187,13 @@ Um... Did I ever tell you both that...
 ..that I was once a... um...
 Uh... that I...
 I was once a cook in the North Pole?
-- A cook?
-- Well, not exactly a cook.
+A cook?
+Well, not exactly a cook.
 I opened a few cans.
 It was a weather expedition.
 And I shot a polar bear.
-- No!
-- Well, I didn't hit it.
+No!
+Well, I didn't hit it.
 Why shoot a polar bear?
 That's a lousy thing to do.
 Because I found it...
@@ -205,12 +205,12 @@ And now we all think that Lo should go to bed.
 Lo?
 What do you mean "we", paleface?
 So, as I was saying, there I was with my white polar-bear gun...
-- ..to blend in.
+..to blend in.
 It's for me!
 Hello?
-- No, I'm sorry. She's busy.
-- I hope you will forgive her bad manners.
-- Now what?!
+No, I'm sorry. She's busy.
+I hope you will forgive her bad manners.
+Now what?!
 Look! It's my modern dance creation!
 Dolores Haze, turn that music down!
 She is a pest. Just slap her hard if she interferes with your meditations.
@@ -220,8 +220,8 @@ Hum, do you know that I have one most ambitious dream?
 To get a hold of a real trained maid...
 ..like that German girl that the Talbots spoke of...
 ..and have her live in the house.
-- No room.
-- Oh, chÃ©ri, chÃ©ri.
+No room.
+Oh, chÃ©ri, chÃ©ri.
 You underestimate the possibilities of our humble household.
 We'd put her in Lo's room.
 I intended to turn that hole into a guest room anyway.
@@ -245,19 +245,19 @@ Goddamn it! Dolores, I told you to put this lunch basket in the back seat!
 Why always tell me to do everything?
 I'm the one that won't be eating it.
 Louise! Brussels sprouts and meat loaf for dinner.
-- All right. Drive careful.
-- Thank you. Let's go!
-- Bye, my baby.
-- Bye, Louise.
-- You be good. I'm gonna miss you.
-- Agh!
+All right. Drive careful.
+Thank you. Let's go!
+Bye, my baby.
+Bye, Louise.
+You be good. I'm gonna miss you.
+Agh!
 Dolores!
 Let's go!
 Speed it up!
 Get in the car!
 Now what?! That child!
-- Louise, maybe tenderloin.
-- That'd be good.
+Louise, maybe tenderloin.
+That'd be good.
 I'm waiting!
 If I've told you once,
 I've told you a thousand times...
@@ -341,11 +341,11 @@ Hello?
 Well, the "old stupid Haze woman" is no longer your dupe.
 Charlotte!
 You're a monster.
-- You're a despicable, criminal monster.
-- Now...
-- If you come near me I'll scream!
-- Let me just...
-- Get away from me!
+You're a despicable, criminal monster.
+Now...
+If you come near me I'll scream!
+Let me just...
+Get away from me!
 I'm leaving tonight.
 You can keep this house.
 I don't care.
@@ -370,8 +370,8 @@ Charlotte?
 I'm... I'm sorry.
 Stand back, please.
 Where's my wife?
-- Are you Mr Humbert?
-- I am.
+Are you Mr Humbert?
+I am.
 She ran right in front of me.
 I... I didn't even see her.
 Sir?
@@ -386,8 +386,8 @@ She was going to mail these letters.
 I'm sorry.
 Thank you.
 I'll go and... lie down, officer.
-- Will that be all right?
-- You go right ahead, sir.
+Will that be all right?
+You go right ahead, sir.
 I'll just be across in the house if you...
 Is that the Enchanted Hunters Hotel?
 Yes. This is Mr Humbert.
@@ -400,17 +400,17 @@ It's just for me and my...
 ..my short... my small daughter.
 She should be here any minute.
 I sent Charlie for her over at the barn.
-- Who's Charlie?
-- Come on, come on.
+Who's Charlie?
+Come on, come on.
 It's such a pleasure to watch our young people make friends.
-- So uh... who is this Charlie?
-- Here she is.
+So uh... who is this Charlie?
+Here she is.
 Hi, Dad!
 # Hum and Mum, Mum and Hum
 # Hum and Mum, Mum and Hum
 # Hum and Mum, Mum and Hum...
-- How's Mum?
-- Well... The doctors aren't quite sure.
+How's Mum?
+Well... The doctors aren't quite sure.
 It's something abdominal.
 Abominable?
 Abdominal.
@@ -429,17 +429,17 @@ But so what? Cos you don't care about me any more anyway.
 Why do you think I don't care about you?
 Well, you haven't kissed me yet, have you?
 Oh!
-- Uh, I'm sorry, officer.
-- See a blue sedan, same make as yours?
-- They might have passed you at the turn.
-- Blue sedan? No, I don't think... agh!
-- We didn't see a blue sedan.
-- No, I don't think we did.
+Uh, I'm sorry, officer.
+See a blue sedan, same make as yours?
+They might have passed you at the turn.
+Blue sedan? No, I don't think... agh!
+We didn't see a blue sedan.
+No, I don't think we did.
 Are you sure it was blue?
 I saw one that was more purple.
 Or maybe it was more red.
 All right, OK. Thank you.
-- Thank you!
+Thank you!
 Don't shoot, don't shoot!
 Wow! Looks swank!
 <i># No, I will never tell lies</i>
@@ -447,8 +447,8 @@ Wow! Looks swank!
 Good evening. I have a reservation in the name of Humbert.
 Twin-bedded room.
 I called last night.
-- Two people.
-- Oh!
+Two people.
+Oh!
 I'm sorry, Mr Humbug.
 I held the room with the twin beds for you till 6:30, but I didn't hear from you.
 We hold till 6:30. And with the flower show and Glory of Christ convention...
@@ -501,8 +501,8 @@ Well, now.
 Who had the pie?
 Me.
 Whaddaya think? Are they me?
-- Don't look now.
-- Why?
+Don't look now.
+Why?
 The guy over in the corner.
 Don't look! He was staring at us.
 Don't you think that guy looks exactly like Quilty?
@@ -534,8 +534,8 @@ Night-night.
 <i>..and leave the town, the country, the planet, that very night.</i>
 The Lord knows all, the Lord sees all, the Lord forgives all.
 Where the devil did you get her?
-- I beg your pardon?
-- I said the weather's getting better.
+I beg your pardon?
+I said the weather's getting better.
 It seems so.
 Who's the lassie?
 Um...
@@ -576,7 +576,7 @@ What's the matter?
 Nothing.
 Lo...
 You know that friend of yours
-- Charlie - at camp?
+Charlie - at camp?
 Was he the first one?
 Can we please get off the subject?
 <i>I felt more and more uncomfortable.</i>
@@ -592,8 +592,8 @@ I hurt inside.
 Well, what do you expect?
 I was a daisy-fresh girl, and look what you've done to me.
 I should call the police and tell them that you raped me, you dirty old man.
-- Just wash the windscreen, would you?
-- Yes, sir.
+Just wash the windscreen, would you?
+Yes, sir.
 Got some cookies.
 I want to call Mother in hospital.
 What's the number?
@@ -612,8 +612,8 @@ Shh... Shh...
 <i># That civilisation is the thing for me to see</i>
 <i># Whoa, bongo, bongo, bongo</i>
 <i># I don't wanna leave the Congo, no, no, no, no, no, no</i>
-- When's the best time to buy a bird?
-- I don't know. When's the best time?
+When's the best time to buy a bird?
+I don't know. When's the best time?
 When it's going "cheep!"
 Don't say I never gave you anything.
 Ow! Don't! I'm trying to drive!
@@ -637,8 +637,8 @@ My magic fingers aren't enough?
 Good shower for once, Lo!
 First-rate temperature control!
 Ow! Argh!
-- Agh! Lo!
-- Hmm?
+Agh! Lo!
+Hmm?
 My God, Lo!
 Don't flush when I'm in here!
 What is that?
@@ -649,8 +649,8 @@ It's supposed to break your jaw.
 Want one?
 Just give it to me.
 I've had it with that noise.
-- Come on, spit it out. I've got a headache.
-- It's good!
+Come on, spit it out. I've got a headache.
+It's good!
 Look, just give it to me, will you?
 Spit it out.
 You look a hundred per cent better when I can't see you.
@@ -676,11 +676,11 @@ Uh... Here at Beardsley Prep,...
 ..what we stress are the three Ds.
 Dramatics, dancing and dating.
 Now, I know that the Reverend Rigger is behind us on this. Aren't you, Reverend?
-- All the way, Miss Pratt. Every inch.
-- So you see, Mr Humper,...
+All the way, Miss Pratt. Every inch.
+So you see, Mr Humper,...
 ..for the modern preadolescent, medieval dates are less vital than weekend ones.
-- What? Weekend what?
-- Dates, Mr Humping.
+What? Weekend what?
+Dates, Mr Humping.
 Uh... boys.
 <i># By myself alone at home</i>
 <i># Feelin' blue</i>
@@ -691,8 +691,8 @@ Humbert the happy housewife.</i>
 Where's the river Rhine?
 I don't know.
 You should know that.
-- Why?
-- Big battles there in the Great War.
+Why?
+Big battles there in the Great War.
 Where's the river Seine?
 I don't know.
 I thought you were supposed to have learnt these.
@@ -708,8 +708,8 @@ It seems to be pretty relaxed, this school of yours.
 <i># "T'ain't what you do, it's the way that you do it"</i>
 <i># "That's what...</i>
 I'm supposed to be in a play.
-- What play?
-- I don't know.
+What play?
+I don't know.
 Some play.
 At school.
 With the boys from Butler's Academy?
@@ -744,16 +744,16 @@ But this time, my temptress,...
 For far more than a hunter,...
 ..I...
 ..am a poet.
-- The night has fallen, Rodrigo.
-- The...
+The night has fallen, Rodrigo.
+The...
 Hold it! Hold it! Mona...
 Give us a moment.
 I'd like a word with Dolores.
 When you say "your larking charms", use your charms for the hunter.
 Because you're the witch.
 You're bringing the hunter to your lair.
-- Hi, Mr Humbert.
-- Hello, Mona.
+Hi, Mr Humbert.
+Hello, Mona.
 Some play, huh?
 You're nymphs.
 Use your nymph's charms.
@@ -763,9 +763,9 @@ That's the actual playwright, Clare Quilty.
 Can you believe it?
 Let the music transform you.
 You'll feel that you've become a witch.
-- You're a witch!
-- This play any good, Mona?
-- Yeah. It's very political.
+You're a witch!
+This play any good, Mona?
+Yeah. It's very political.
 Witch! Witch!
 More wind! More wind!
 You're a witch!
@@ -783,8 +783,8 @@ You can't expect me to pay extra in the middle!
 Ow! Argh!
 She's a lovely child, Mr Haze,...
 ..but the onset of sexual maturing seems to be giving her trouble.
-- Isn't that your observation, Reverend?
-- To the tee, Miss Pratt.
+Isn't that your observation, Reverend?
+To the tee, Miss Pratt.
 So, you see, it is the general impression that 14-year-old Dolores...
 ..is morbidly disinterested in sexual matters.
 Does she never speak about these... matters?
@@ -806,8 +806,8 @@ Well, let me put it this way.
 Someone in the family ought to instruct that dear child...
 ..in the process of human reproduction.
 I'm so sorry.
-- I'm so sorry.
-- I see that I've embarrassed you.
+I'm so sorry.
+I see that I've embarrassed you.
 Yet you, as her father, ought to take the matter well in hand.
 Yes. Worry not, Miss Pratt.
 I... um... I have... this matter in hand.
@@ -831,12 +831,12 @@ I was rehearsing the play with Mona.
 That's your story?
 That's what I was doing.
 OK. Give me Mona's phone number.
-- Mona's phone number?
-- Just give me Mona's phone number.
+Mona's phone number?
+Just give me Mona's phone number.
 Klausen 57241.
 Is Mona there, please?
-- Mona, this is Dolores' father.
-- Oh, hello, sir.
+Mona, this is Dolores' father.
+Oh, hello, sir.
 Mona, were you and Dolores...
 ..rehearsing the play in the park for the past two Tuesday afternoons?
 Um... Let's see.
@@ -857,31 +857,31 @@ I don't know what you're up to, but whatever it is,...
 ..I'll yank you out of Beardsley as fast as
 I can pack a suitcase unless this stops!
 Unless what stops?
-- You know what!
-- Take it easy, mister!
-- Show me every penny...
-- Leave me alone, you pervert!
-- You're running away from me, I know.
-- Yes, I am! Anyone'd run away from you!
-- Show me what you hid!
-- I earned that money!
+You know what!
+Take it easy, mister!
+Show me every penny...
+Leave me alone, you pervert!
+You're running away from me, I know.
+Yes, I am! Anyone'd run away from you!
+Show me what you hid!
+I earned that money!
 Go ahead, murder me.
 Like you murdered my mother.
 I'm sorry.
 Murder me like you murdered my mother!
 Shut up. Shut up!
 Murder me like you murdered my mother!
-- Stop that!
-- Go ahead! Murder me!
+Stop that!
+Go ahead! Murder me!
 Go on, murder me!
 I'm asking you to murder me!
-- Shut up!
-- Murder me! Murder me!
-- Dolores, shut up!
-- I hate you! I hate you!
+Shut up!
+Murder me! Murder me!
+Dolores, shut up!
+I hate you! I hate you!
 Calm down.
-- Calm down!
-- Come back, Lo!
+Calm down!
+Come back, Lo!
 Murderer!
 I'm sorry. I'm sorry.
 I'm sorry! I'm sorry! I'm sorry!
@@ -889,8 +889,8 @@ I do not know who you people think you are, screaming and carrying on!
 My daughter's friend.
 I'm sorry. I really can't stay.
 Oh, good. I was just trying to reach you at home.
-- I've come to a decision.
-- You have?
+I've come to a decision.
+You have?
 Yeah.
 So buy me a drink.
 What would you like?
@@ -908,8 +908,8 @@ Pay her and let's blow this joint.
 <i>She said she wanted to leave Beardsley then and there.</i>
 <i>She wanted to take another trip,...</i>
 <i>..only this time she would choose where we would go.</i>
-- OK? I choose? OK?
-- Yes.
+OK? I choose? OK?
+Yes.
 <i>Did Humbert hum his assent?</i>
 <i>Oh, yes.</i>
 <i>I sealed my fate gratefully.</i>
@@ -953,10 +953,10 @@ He looks rather like my Uncle Gustave.
 <i>Then suddenly he would disappear and I'd wonder if I'd imagined everything.</i>
 Lo! What did that man say to you?
 # Bags around your eyeballs which is red instead of white
-- What did he say to you?
-- The guy I was talking to?
-- Yeah. Look...
-- # Shucks, I shoulda known...
+What did he say to you?
+The guy I was talking to?
+Yeah. Look...
+# Shucks, I shoulda known...
 Just tell me what he said to you.
 He asked me if I had a map.
 He must've been lost.
@@ -995,7 +995,7 @@ Put on the handbrake!
 Pull the handbrake up! Lo!
 Lo! Pull on the handbrake. Stop the car.
 Put the handbrake on. Down there! Pull it!
-- Ow!
+Ow!
 Jesus Christ!
 What did you think you were doing?
 You should thank me.
@@ -1008,7 +1008,7 @@ What have you...
 Lo...
 Lo...
 Lo, I'm sorry.
-- I'm sorry!
+I'm sorry!
 Come here. Come here.
 Get away!
 Lo...
@@ -1022,7 +1022,7 @@ Just bananas.
 <i># Open the door and let me in</i>
 <i># Open the door, Richard</i>
 <i>- # Richard...
-- # Why don't you open that door?</i>
+# Why don't you open that door?</i>
 <i># Borrow confidently from HFC</i>
 <i>Quilty can't be here in our studio because he's in Wace, Texas tonight...</i>
 <i>..working on the premiere of his brand-new play.</i>
@@ -1040,7 +1040,7 @@ You tell me who it is! Who is it?
 Who is it? Tell me who it is.
 You tell me. Who is it?
 Who...?
-- Tell me.
+Tell me.
 Please, tell me.
 Please tell me.
 Please tell me.
@@ -1063,18 +1063,18 @@ I don't feel... I don't feel very well.
 It's a virus.
 Nothing serious.
 I've had 40 cases in two weeks.
-- So can I take her home?
-- We're gonna keep her here overnight.
+So can I take her home?
+We're gonna keep her here overnight.
 Keep her hydrated, help her sleep.
 Why don't you get some sleep?
 It won't help if you catch it.
 I think I have already.
 I feel dreadful.
-- Maybe I should stay.
-- Go.
+Maybe I should stay.
+Go.
 Call us in the morning.
-- Here, I'll take those.
-- Thank you.
+Here, I'll take those.
+Thank you.
 Uh, yes, hello. This is Mr Humbert.
 I'm calling to see how my... daughter,
 Dolores Haze, is.
@@ -1086,23 +1086,23 @@ Uncle Gustave, Dolores called him.
 He had a sweet little dog.
 He was the nicest man. Had a big smile.
 Wait, Ted.
-- And you let her go with him?
-- Oh, yes. He paid the bill in cash.
+And you let her go with him?
+Oh, yes. He paid the bill in cash.
 They said to tell you not to worry, and they'll be at Grandpa's expecting you.
-- Then they went off in that nice Cadillac.
+Then they went off in that nice Cadillac.
 Hello?
 Hey!
 Hey!
 Nurse!
-- Where is she?
-- Who?
+Where is she?
+Who?
 Who took her?
 Somebody took my daughter.
-- You need to talk to the doctor.
-- But who took her?
+You need to talk to the doctor.
+But who took her?
 My daughter was in there last night.
-- Who took her away?
-- Hey, relax, pal!
+Who took her away?
+Hey, relax, pal!
 Don't tell me to relax!
 I'm looking for my daughter! Doctor!
 Doctor! Doctor!
@@ -1116,8 +1116,8 @@ You fucking fiends!
 Tell me where she is!
 Get me to that man!
 I'm just looking for my daughter!
-- I said relax!
-- I want to know where she -
+I said relax!
+I want to know where she -
 I'm sorry. I'm sorry. Sorry, sorry, sorry.
 I'm sorry. I'm sorry.
 Sorry.
@@ -1145,8 +1145,8 @@ Um... Sir!
 <i>He had very peculiar Ts, Ws and Ls.</i>
 Do you know his name?
 What does he look like?
-- Let me help.
-- No, please...
+Let me help.
+No, please...
 Ladies, I'm sorry. We're trying to find...
 <i>It must be hard for you who already know who it was...</i>
 <i>..to understand my mystification.</i>
@@ -1194,8 +1194,8 @@ Look...
 Dick has nothing to do with all that stuff.
 He thinks you're my father.
 Please don't bring up all that muck.
-- All right, I'll find out myself.
-- You really don't know?
+All right, I'll find out myself.
+You really don't know?
 My God, Dad, it was Quilty.
 It was Clare Quilty.
 Yes.
@@ -1237,13 +1237,13 @@ No... No!
 I'm saying leave here and come live with me, die with me, everything with me.
 You're crazy.
 If you refuse, you still get the money.
-- Really?
-- Yeah.
+Really?
+Yeah.
 There. Have it.
 Oh my God.
 You're giving us four thousand bucks?
-- Thank you...
-- No...
+Thank you...
+No...
 Don't touch me.
 I'll die if you touch me.
 Just tell me... there's a chance you'll come with me.
@@ -1251,8 +1251,8 @@ No, honey.
 I'd almost rather go back with Clare.
 Oh...
 I'll go now.
-- Can I call Dick in to say goodbye?
-- No. I don't want to see him, at all.
+Can I call Dick in to say goodbye?
+No. I don't want to see him, at all.
 I just want to go.
 Lo, can you ever forget what I've done to you?
 Say goodbye, Molly.
@@ -1296,8 +1296,8 @@ Just let me think, let me think.
 It's not an easy question.
 Try to understand what is happening.
 I- I- I- I...
-- Remember Dolores Haze.
-- I'm willing...
+Remember Dolores Haze.
+I'm willing...
 I'm willing to try. I am. Just...
 OK. Listen.
 I made a mistake, which I regret,...
@@ -1309,8 +1309,8 @@ Stay still!
 Oh, God...
 You cheated me.
 You cheated me of my redemption.
-- You have to die.
-- I don't know what you're talking about.
+You have to die.
+I don't know what you're talking about.
 My memory and my eloquence are not at their best today.
 But really, you have to admit you were never an ideal stepfather.
 Hm?
@@ -1367,9 +1367,9 @@ Get out of here!
 <i># T'ain't what you make, it's the way that you make it</i>
 <i># T'ain't what you snake, it's the way that you snake it</i>
 <i>- # T'ain't what you sing
-- # It's the way that you sing it</i>
+# It's the way that you sing it</i>
 <i>- # That's what gets results
-- # Bip ba di di do do</i>
+# Bip ba di di do do</i>
 <i># T'ain't what you do, it's the way that you do it</i>
 <i># T'ain't what you do, it's the way that you do it</i>
 <i># T'ain't what you do, it's the way that you do it</i>
