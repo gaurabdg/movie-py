@@ -14,7 +14,11 @@ class txt_processor:
         tokens = word_tokenize(txt)
         tokens = [i for i in tokens if i not in string.punctuation]
         tokens = [word for word in tokens if len(word)>1 and word.isalpha()] #removing isn't, can't, doesn't etc.
-
+        tokens = [word.lower() for word in tokens]
+        #tokens = self.stem(tokens)
+        #tokens = tokens + self.ngram_tokenize(2,txt)
+        #tokens = tokens + self.ngram_tokenize(3,txt)
+        #tokens = tokens + self.ngram_tokenize(4,txt)
         return tokens
 
     def ngram_tokenize(self,n,tokens):
@@ -27,6 +31,9 @@ class txt_processor:
         elif n is 3:
             trigram = [' '.join(i) for i in ngrams(tokens,3)]
             return trigram
+        elif n is 4:
+            quadgram = [' '.join(i) for i in ngrams(tokens,4)]
+            return quadgram
         else:
             return None
 
@@ -37,11 +44,8 @@ class txt_processor:
             stemmed_words.append(stemmer.stem(i))
         return stemmed_words
 
-tp = txt_processor()
-file_content = open("The Shawshank Redemption.txt").read()
-tk = tp.tokenize(file_content)
-print(tk)
-# for t in tk:
-#     print(t,end='\n')
-# print(len(tk))
-
+if __name__ == "__main__":
+    tp = txt_processor()
+    file_content = open("The Shawshank Redemption.txt").read()
+    tk = tp.tokenize(file_content)
+    print(tk)
