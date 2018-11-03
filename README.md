@@ -1,4 +1,4 @@
-## Movie Search Engine for Course Management Systems
+## Movie Search Engine
 
 ### Installation:
 
